@@ -144,13 +144,15 @@ Car Alarm copy on the card: **Viper, Compustar, GPS tracking, remote start.** Th
 
 Car Stereo copy: **Sound system. Stereo upgrades. Bass.**
 
-Photos already on this site:
+Photos — existing banners, no overlay type:
 
-- `/assets/img/hero/svc-stereo-hero.jpg`
-- `/assets/img/hero/svc-tint-hero.jpg`
-- `/assets/img/hero/svc-alarm-hero.jpg`
-- `/assets/img/inner/tesla-tint-desktop.jpg`
-- `/assets/img/hero/svc-bagger-hero.jpg`
+- Car Stereo: `https://www.lacarbeats.com/assets/img/hero/beats-hero-desktop.jpg` (trunk open, LA)
+- Window Tint: `/assets/img/hero/svc-tint-hero.jpg`
+- Car Alarm: `/assets/img/hero/svc-alarm-hero.jpg`
+- Tesla Tint: `https://teslatintla.com/assets/img/hero/tesla-hero-desktop.jpg` (tinted Tesla on the lift — **not** `/assets/img/inner/tesla-tint-desktop.jpg`, that file has TESLA TINT AUDIO MOTORSPORTS type and crops badly)
+- Harley: `/assets/img/hero/svc-bagger-hero.jpg`
+
+Do **not** invent a photo. Do **not** use a plate/ticket image on a door. Do **not** use the inner Tesla banner with writing.
 
 Harley door: Road King, Street Glide, Road Glide. **No Softail.**
 
