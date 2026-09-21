@@ -12,4 +12,4 @@ Follow **INSTALL-AUDIO-MOTORSPORTS.md** literally. Depth-count the banner close.
 - https://raw.githubusercontent.com/audiomotorsports-sketch/ams-plugin-hub/main/ams-plugin-hub.html
 - https://raw.githubusercontent.com/audiomotorsports-sketch/ams-plugin-hub/main/ams-plugin-hub.css
 
-Doors: lacarbeats · lacartint · lacaralarm (alarm + remote start) · amspods. No prices in the plugin. Ask for Nick.
+Doors: lacarbeats · lacartint · lacaralarm · teslatintla · amspods. Alarm card covers GPS + remote start. No prices in the plugin. Ask for Nick.

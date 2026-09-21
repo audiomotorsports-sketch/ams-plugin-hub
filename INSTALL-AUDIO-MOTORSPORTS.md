@@ -111,7 +111,7 @@ Google 4.8 from 654 · Yelp 4.7 from 777 · Since 2003 · Bay Carson · Walk-in 
 
 Year / make / model. Job chips:
 
-Car Stereo · Window Tint · Car Alarm · Remote Start · Harley Bagger Audio
+Car Stereo · Window Tint · Car Alarm · Tesla Tint · Harley Bagger Audio
 
 Text us / Call with year/make/model + job prefilled into SMS. Ask for Nick.
 
@@ -136,16 +136,20 @@ Plugin CSS hides `.mobile-cta-bar` only while `#ams-plug-hub` is on the page. Do
 | Car Stereo | `https://www.lacarbeats.com/services/` |
 | Window Tint | `https://www.lacartint.com/services/` |
 | Car Alarm | `https://www.lacaralarm.com/services/car-alarms/` |
-| Remote Start | `https://www.lacaralarm.com/services/remote-start/` |
+| Tesla Tint | `https://teslatintla.com/` |
 | Harley Bagger Audio | `https://www.amspods.com/` |
 | Specials (text link only) | `/specials/` |
+
+Car Alarm copy on the card: **Viper, Compustar, GPS tracking, remote start.** There is **no** separate Remote Start ticket. GPS and remote start sit on the alarm desk.
+
+Car Stereo copy: **Sound system. Stereo upgrades. Bass.**
 
 Photos already on this site:
 
 - `/assets/img/hero/svc-stereo-hero.jpg`
 - `/assets/img/hero/svc-tint-hero.jpg`
 - `/assets/img/hero/svc-alarm-hero.jpg`
-- `/assets/img/services-tab/07-remote-start-desktop.jpg`
+- `/assets/img/inner/tesla-tint-desktop.jpg`
 - `/assets/img/hero/svc-bagger-hero.jpg`
 
 Harley door: Road King, Street Glide, Road Glide. **No Softail.**
@@ -186,7 +190,7 @@ Never invent, infer, average, or do arithmetic on a price. No `<s>` / `<del>` / 
 - Create `/specials/`
 - Bulk-noindex city pages
 - Rewrite `/privacy-policy/` or `/terms-of-service/` — they already exist
-- Open beats / alarm / pods / tint generators this pass
+- Add a separate Remote Start card or tab. Remote start and GPS sit on **Car Alarm**.
 
 ## SEO / legal — same pass
 
