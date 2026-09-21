@@ -1,0 +1,137 @@
+<!--
+  Audio MotorSports hub quote plugin
+  INSERT after </section> of class="hero-banner"
+  AFTER you CUT <section class="offer-cards" off the homepage
+  Pair with /assets/css/ams-plugin-hub.css
+-->
+<div class="ams-plug" id="ams-plug-hub" data-ams-plugin="hub-v1">
+  <div class="ams-plug-proof">
+    <div><span>Google</span><strong>4.8 from 654</strong></div>
+    <div><span>Yelp</span><strong>4.7 from 777</strong></div>
+    <div><span>Since</span><strong>2003</strong></div>
+    <div><span>Bay</span><strong>Carson</strong></div>
+    <div><span>Walk-in</span><strong>Mon–Sat 9:30–6</strong></div>
+  </div>
+
+  <section class="ams-plug-quote" id="quote">
+    <div class="container">
+      <span class="eyebrow">Carson bay · ask for Nick</span>
+      <h2>Text the year, make, and model. <em>Nick quotes the job.</em></h2>
+      <p class="lead">Stereo, tint, alarm, Harley pods. One shop. Tickets live on Specials — not on this fold.</p>
+
+      <div class="ams-plug-grid">
+        <input name="year" inputmode="numeric" autocomplete="off" placeholder="Year" aria-label="Year">
+        <input name="make" autocomplete="off" placeholder="Make" aria-label="Make">
+        <input name="model" autocomplete="off" placeholder="Model" aria-label="Model">
+      </div>
+
+      <div class="ams-plug-tabs" data-chips>
+        <button type="button" data-job="Car stereo">Stereo</button>
+        <button type="button" data-job="Window tint">Tint</button>
+        <button type="button" data-job="Car alarm">Alarm</button>
+        <button type="button" data-job="AMS pods">Pods</button>
+      </div>
+
+      <div class="ams-plug-actions">
+        <a class="is-text" data-sms href="sms:+12134291092?body=Quote%20request%20from%20Audio%20MotorSports.%20Ask%20for%20Nick.">Text us a quote</a>
+        <a class="is-call" href="tel:+13105138800">Call (310) 513-8800</a>
+      </div>
+      <p class="fine">
+        Prefer email?
+        <a href="mailto:audiomotorsports@gmail.com?subject=Quote%20request%20%E2%80%94%20Audio%20MotorSports">audiomotorsports@gmail.com</a>
+        · Digging for a price?
+        <a href="/specials/">Shop specials</a>
+      </p>
+    </div>
+  </section>
+
+  <section class="ams-plug-jobs">
+    <div class="container">
+      <span class="eyebrow">Four desks. One bay.</span>
+      <h3>Tap a door. It stays on this site.</h3>
+      <div class="ams-plug-cards">
+        <a class="ams-plug-card" data-card="Car stereo" href="/services/head-unit-installation/">
+          <img src="/assets/img/hero/svc-stereo-hero.jpg" width="1600" height="900" alt="Car stereo install" loading="lazy">
+          <div class="copy">
+            <h4>Stereo</h4>
+            <p>CarPlay, bass, the bay.</p>
+          </div>
+        </a>
+        <a class="ams-plug-card" data-card="Window tint" href="/services/window-tint/">
+          <img src="/assets/img/hero/svc-tint-hero.jpg" width="1600" height="900" alt="Window tint" loading="lazy">
+          <div class="copy">
+            <h4>Tint</h4>
+            <p>Hand-cut. Quote the glass.</p>
+          </div>
+        </a>
+        <a class="ams-plug-card" data-card="Car alarm" href="/services/car-alarms/">
+          <img src="/assets/img/hero/svc-alarm-hero.jpg" width="1600" height="900" alt="Car alarm install" loading="lazy">
+          <div class="copy">
+            <h4>Alarm</h4>
+            <p>Viper, Compustar. Quote the car.</p>
+          </div>
+        </a>
+        <a class="ams-plug-card" data-card="AMS pods" href="/services/harley-bagger-audio-ams-pods/">
+          <img src="/assets/img/hero/svc-bagger-hero.jpg" width="1600" height="900" alt="Harley AMS pods" loading="lazy">
+          <div class="copy">
+            <h4>Pods</h4>
+            <p>Road King, Street Glide, Road Glide.</p>
+          </div>
+        </a>
+      </div>
+    </div>
+  </section>
+</div>
+
+<div class="ams-plug-sticky" aria-label="Text or call">
+  <a class="is-text" data-sms-sticky href="sms:+12134291092?body=Quote%20request%20from%20Audio%20MotorSports.%20Ask%20for%20Nick.">Text us</a>
+  <a class="is-call" href="tel:+13105138800">Call</a>
+</div>
+
+<script>
+(function () {
+  var root = document.getElementById("ams-plug-hub");
+  if (!root) return;
+  var job = "";
+  function smsHref(body) {
+    var msg = encodeURIComponent(body);
+    return /iPhone|iPad|iPod/i.test(navigator.userAgent)
+      ? "sms:+12134291092&body=" + msg
+      : "sms:+12134291092?body=" + msg;
+  }
+  function body() {
+    var y = ((root.querySelector("[name=year]") || {}).value || "").trim();
+    var mk = ((root.querySelector("[name=make]") || {}).value || "").trim();
+    var md = ((root.querySelector("[name=model]") || {}).value || "").trim();
+    var car = [y, mk, md].filter(Boolean).join(" ");
+    var parts = ["Quote request"];
+    if (car) parts.push(car);
+    if (job) parts.push(job);
+    parts.push("Ask for Nick. From Audio MotorSports.");
+    return parts.join(" — ");
+  }
+  function paint() {
+    root.querySelectorAll("[data-job]").forEach(function (b) {
+      b.classList.toggle("is-on", b.getAttribute("data-job") === job);
+    });
+    root.querySelectorAll("[data-card]").forEach(function (c) {
+      c.classList.toggle("is-on", c.getAttribute("data-card") === job);
+    });
+  }
+  function bind(el) {
+    if (!el) return;
+    el.addEventListener("click", function () {
+      el.href = smsHref(body());
+    });
+  }
+  root.querySelectorAll("[data-job]").forEach(function (btn) {
+    btn.addEventListener("click", function () {
+      var next = btn.getAttribute("data-job");
+      job = job === next ? "" : next;
+      paint();
+    });
+  });
+  bind(root.querySelector("[data-sms]"));
+  bind(document.querySelector("[data-sms-sticky]"));
+})();
+</script>

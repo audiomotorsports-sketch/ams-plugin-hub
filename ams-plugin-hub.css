@@ -1,0 +1,192 @@
+/* Audio MotorSports hub plugin
+   Scoped to .ams-plug / .ams-plug-sticky
+   Hub gold #C6A15B. Not Beats red. Not alarm steel. Not tint pale. */
+
+.ams-plug {
+  background: var(--bg, #0a0a0a);
+  color: var(--text, #f5f5f5);
+  font-family: var(--font-body, Inter, system-ui, sans-serif);
+}
+.ams-plug * { box-sizing: border-box; }
+
+.ams-plug-proof {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  border-top: 1px solid var(--border, rgba(255,255,255,.1));
+  border-bottom: 1px solid var(--border, rgba(255,255,255,.1));
+  background: var(--bg-alt, #111111);
+}
+.ams-plug-proof div { padding: 16px 18px; }
+.ams-plug-proof span {
+  display: block;
+  font-size: .68rem;
+  font-weight: 600;
+  letter-spacing: .16em;
+  text-transform: uppercase;
+  color: var(--accent, #c6a15b);
+}
+.ams-plug-proof strong {
+  display: block;
+  margin-top: 4px;
+  font-family: var(--font-head, Outfit, sans-serif);
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.ams-plug-quote { padding: 44px 0 36px; background: var(--surface, #121212); }
+.ams-plug .container {
+  max-width: var(--container, 1160px);
+  margin: 0 auto;
+  padding: 0 24px;
+}
+.ams-plug .eyebrow {
+  display: inline-block;
+  margin-bottom: 12px;
+  font-size: .72rem;
+  font-weight: 600;
+  letter-spacing: .18em;
+  text-transform: uppercase;
+  color: var(--accent, #c6a15b);
+}
+.ams-plug h2 {
+  margin: 0 0 12px;
+  font-family: var(--font-head, Outfit, sans-serif);
+  font-size: clamp(1.8rem, 4.2vw, 2.7rem);
+  font-weight: 600;
+  letter-spacing: -.03em;
+  line-height: 1.1;
+}
+.ams-plug h2 em { font-style: normal; color: var(--accent, #c6a15b); }
+.ams-plug .lead { max-width: 34rem; margin: 0 0 26px; color: var(--text-dim, #a3a3a3); }
+
+.ams-plug-grid { display: grid; gap: 10px; margin-bottom: 12px; }
+.ams-plug-grid input {
+  height: 48px;
+  width: 100%;
+  padding: 0 14px;
+  border: 1px solid var(--border, rgba(255,255,255,.1));
+  border-radius: var(--radius, 8px);
+  background: var(--surface-2, #181818);
+  color: var(--text, #f5f5f5);
+  font: inherit;
+}
+.ams-plug-grid input:focus { outline: 2px solid var(--accent, #c6a15b); outline-offset: 0; }
+
+.ams-plug-tabs {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin: 4px 0 20px;
+  overflow: hidden;
+  border: 1px solid var(--border, rgba(255,255,255,.1));
+  border-radius: var(--radius, 8px);
+}
+.ams-plug-tabs button {
+  height: 48px;
+  border: 0;
+  border-bottom: 2px solid transparent;
+  background: var(--surface-2, #181818);
+  color: var(--text-dim, #a3a3a3);
+  font-size: .78rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+.ams-plug-tabs button.is-on {
+  border-bottom-color: var(--accent, #c6a15b);
+  background: var(--accent, #c6a15b);
+  color: #0a0a0a;
+}
+
+.ams-plug-actions { display: grid; gap: 10px; }
+.ams-plug-actions a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 52px;
+  border-radius: var(--radius-sm, 4px);
+  font-family: var(--font-head, Outfit, sans-serif);
+  font-size: .95rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+.ams-plug-actions .is-text { background: var(--accent, #c6a15b); color: #0a0a0a; }
+.ams-plug-actions .is-call { border: 1px solid var(--accent, #c6a15b); color: var(--accent, #c6a15b); }
+.ams-plug .fine { margin: 14px 0 0; font-size: .85rem; color: var(--text-faint, #737373); }
+.ams-plug .fine a { color: var(--accent, #c6a15b); }
+
+.ams-plug-jobs { padding: 36px 0 56px; }
+.ams-plug-jobs h3 {
+  margin: 0;
+  font-family: var(--font-head, Outfit, sans-serif);
+  font-size: 1.45rem;
+  font-weight: 600;
+}
+.ams-plug-cards { display: grid; gap: 12px; margin-top: 22px; }
+.ams-plug-card {
+  overflow: hidden;
+  border: 1px solid var(--border, rgba(255,255,255,.1));
+  border-radius: var(--radius, 8px);
+  background: var(--surface, #121212);
+  color: inherit;
+  text-decoration: none;
+}
+.ams-plug-card.is-on { border-color: var(--accent, #c6a15b); }
+.ams-plug-card img {
+  width: 100%;
+  height: 168px;
+  object-fit: cover;
+  background: #0a0a0a;
+}
+.ams-plug-card .copy { padding: 14px 16px 16px; }
+.ams-plug-card h4 {
+  margin: 0 0 4px;
+  font-family: var(--font-head, Outfit, sans-serif);
+  font-size: 1.05rem;
+}
+.ams-plug-card p { margin: 0; font-size: .85rem; color: var(--text-dim, #a3a3a3); }
+
+.ams-plug-sticky {
+  position: fixed;
+  left: 12px;
+  right: 88px;
+  bottom: max(12px, env(safe-area-inset-bottom, 0px));
+  z-index: 40;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+  pointer-events: none;
+}
+.ams-plug-sticky a {
+  pointer-events: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 48px;
+  border-radius: 4px;
+  font-family: var(--font-head, Outfit, sans-serif);
+  font-size: .9rem;
+  font-weight: 600;
+  text-decoration: none;
+  box-shadow: 0 8px 24px rgba(0,0,0,.4);
+}
+.ams-plug-sticky .is-text { background: var(--accent, #c6a15b); color: #0a0a0a; }
+.ams-plug-sticky .is-call {
+  background: var(--bg, #0a0a0a);
+  border: 1px solid var(--accent, #c6a15b);
+  color: var(--accent, #c6a15b);
+}
+
+body:has(#ams-plug-hub) .mobile-cta-bar { display: none !important; }
+body:has(#ams-plug-hub) { padding-bottom: 72px; }
+
+@media (min-width: 700px) {
+  .ams-plug-proof { grid-template-columns: repeat(5, 1fr); }
+  .ams-plug-grid { grid-template-columns: 1fr 1fr 1fr; }
+  .ams-plug-actions { grid-template-columns: 1fr 1fr; max-width: 36rem; }
+  .ams-plug-tabs { grid-template-columns: repeat(4, 1fr); }
+  .ams-plug-cards { grid-template-columns: 1fr 1fr; }
+}
+@media (min-width: 1024px) {
+  .ams-plug-cards { grid-template-columns: repeat(4, 1fr); }
+  .ams-plug-sticky { display: none; }
+  body:has(#ams-plug-hub) { padding-bottom: 0; }
+}
