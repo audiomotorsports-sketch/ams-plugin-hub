@@ -1,10 +1,10 @@
 <!--
-  Audio MotorSports hub quote plugin
-  INSERT after </section> of class="hero-banner"
-  AFTER you CUT <section class="offer-cards" off the homepage
+  Audio MotorSports hub quote plugin  (hub-v2)
+  INSERT immediately after <section class="hero-banner"> closes.
+  Use depth-count (see INSTALL). Do not match a literal next-sibling string.
   Pair with /assets/css/ams-plugin-hub.css
 -->
-<div class="ams-plug" id="ams-plug-hub" data-ams-plugin="hub-v1">
+<div class="ams-plug" id="ams-plug-hub" data-ams-plugin="hub-v2">
   <div class="ams-plug-proof">
     <div><span>Google</span><strong>4.8 from 654</strong></div>
     <div><span>Yelp</span><strong>4.7 from 777</strong></div>
@@ -17,7 +17,7 @@
     <div class="container">
       <span class="eyebrow">Carson bay · ask for Nick</span>
       <h2>Text the year, make, and model. <em>Nick quotes the job.</em></h2>
-      <p class="lead">Stereo, tint, alarm, Harley pods. One shop. Tickets live on Specials — not on this fold.</p>
+      <p class="lead">Stereo, tint, alarm, remote start, Harley pods. One shop. Tickets live on Specials — not on this fold.</p>
 
       <div class="ams-plug-grid">
         <input name="year" inputmode="numeric" autocomplete="off" placeholder="Year" aria-label="Year">
@@ -26,10 +26,11 @@
       </div>
 
       <div class="ams-plug-tabs" data-chips>
-        <button type="button" data-job="Car stereo">Stereo</button>
-        <button type="button" data-job="Window tint">Tint</button>
-        <button type="button" data-job="Car alarm">Alarm</button>
-        <button type="button" data-job="AMS pods">Pods</button>
+        <button type="button" data-job="Car stereo">Car Stereo</button>
+        <button type="button" data-job="Window tint">Window Tint</button>
+        <button type="button" data-job="Car alarm">Car Alarm</button>
+        <button type="button" data-job="Remote start">Remote Start</button>
+        <button type="button" data-job="Harley bagger audio">Harley Bagger Audio</button>
       </div>
 
       <div class="ams-plug-actions">
@@ -47,34 +48,41 @@
 
   <section class="ams-plug-jobs">
     <div class="container">
-      <span class="eyebrow">Four desks. One bay.</span>
-      <h3>Tap a door. It stays on this site.</h3>
+      <span class="eyebrow">One bay. Four desks.</span>
+      <h3>Tap a door. It goes to that desk.</h3>
       <div class="ams-plug-cards">
-        <a class="ams-plug-card" data-card="Car stereo" href="/services/head-unit-installation/">
+        <a class="ams-plug-card" data-card="Car stereo" href="https://www.lacarbeats.com/services/">
           <img src="/assets/img/hero/svc-stereo-hero.jpg" width="1600" height="900" alt="Car stereo install" loading="lazy">
           <div class="copy">
-            <h4>Stereo</h4>
+            <h4>Car Stereo</h4>
             <p>CarPlay, bass, the bay.</p>
           </div>
         </a>
-        <a class="ams-plug-card" data-card="Window tint" href="/services/window-tint/">
+        <a class="ams-plug-card" data-card="Window tint" href="https://www.lacartint.com/services/">
           <img src="/assets/img/hero/svc-tint-hero.jpg" width="1600" height="900" alt="Window tint" loading="lazy">
           <div class="copy">
-            <h4>Tint</h4>
+            <h4>Window Tint</h4>
             <p>Hand-cut. Quote the glass.</p>
           </div>
         </a>
-        <a class="ams-plug-card" data-card="Car alarm" href="/services/car-alarms/">
+        <a class="ams-plug-card" data-card="Car alarm" href="https://www.lacaralarm.com/services/car-alarms/">
           <img src="/assets/img/hero/svc-alarm-hero.jpg" width="1600" height="900" alt="Car alarm install" loading="lazy">
           <div class="copy">
-            <h4>Alarm</h4>
+            <h4>Car Alarm</h4>
             <p>Viper, Compustar. Quote the car.</p>
           </div>
         </a>
-        <a class="ams-plug-card" data-card="AMS pods" href="/services/harley-bagger-audio-ams-pods/">
+        <a class="ams-plug-card" data-card="Remote start" href="https://www.lacaralarm.com/services/remote-start/">
+          <img src="/assets/img/services-tab/07-remote-start-desktop.jpg" width="1600" height="900" alt="Remote start install" loading="lazy">
+          <div class="copy">
+            <h4>Remote Start</h4>
+            <p>Quote the vehicle. Same bay.</p>
+          </div>
+        </a>
+        <a class="ams-plug-card" data-card="Harley bagger audio" href="https://www.amspods.com/">
           <img src="/assets/img/hero/svc-bagger-hero.jpg" width="1600" height="900" alt="Harley AMS pods" loading="lazy">
           <div class="copy">
-            <h4>Pods</h4>
+            <h4>Harley Bagger Audio</h4>
             <p>Road King, Street Glide, Road Glide.</p>
           </div>
         </a>

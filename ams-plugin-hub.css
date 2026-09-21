@@ -182,11 +182,11 @@ body:has(#ams-plug-hub) { padding-bottom: 72px; }
   .ams-plug-proof { grid-template-columns: repeat(5, 1fr); }
   .ams-plug-grid { grid-template-columns: 1fr 1fr 1fr; }
   .ams-plug-actions { grid-template-columns: 1fr 1fr; max-width: 36rem; }
-  .ams-plug-tabs { grid-template-columns: repeat(4, 1fr); }
+  .ams-plug-tabs { grid-template-columns: repeat(5, 1fr); }
   .ams-plug-cards { grid-template-columns: 1fr 1fr; }
 }
 @media (min-width: 1024px) {
-  .ams-plug-cards { grid-template-columns: repeat(4, 1fr); }
+  .ams-plug-cards { grid-template-columns: repeat(5, 1fr); }
   .ams-plug-sticky { display: none; }
   body:has(#ams-plug-hub) { padding-bottom: 0; }
 }
