@@ -25,7 +25,8 @@ The homepage asks for the car and the job, then gets out of the way. Discounts a
 3. Paste `ams-plugin-hub.html` using the depth-count insert below.
 4. On `specials/index.html`, add if missing:
    `<link rel="stylesheet" href="/assets/css/offer-cards.css?v=hubtintcontrast1">`
-5. No new photos. Use images already on this site.
+5. Copy `assets/tesla-tinted-card.jpg` to `/assets/img/plugin/tesla-tinted-card.jpg`
+   This is a crop of the teslatintla lift photo with the overlay type cut off. Do not use the inner Tesla banner.
 
 ## Insert method — DEPTH COUNT. Do not use a literal next-sibling string.
 
@@ -149,10 +150,10 @@ Photos — existing banners, no overlay type:
 - Car Stereo: `https://www.lacarbeats.com/assets/img/hero/beats-hero-desktop.jpg` (trunk open, LA)
 - Window Tint: `/assets/img/hero/svc-tint-hero.jpg`
 - Car Alarm: `/assets/img/hero/svc-alarm-hero.jpg`
-- Tesla Tint: `https://teslatintla.com/assets/img/hero/tesla-hero-desktop.jpg` (tinted Tesla on the lift — **not** `/assets/img/inner/tesla-tint-desktop.jpg`, that file has TESLA TINT AUDIO MOTORSPORTS type and crops badly)
+- Tesla Tint: `/assets/img/plugin/tesla-tinted-card.jpg` (crop of the tinted Tesla on the lift — **not** `/assets/img/inner/tesla-tint-desktop.jpg` and **not** the teslatintla hero, both have TESLA TINT AUDIO MOTORSPORTS type)
 - Harley: `/assets/img/hero/svc-bagger-hero.jpg`
 
-Do **not** invent a photo. Do **not** use a plate/ticket image on a door. Do **not** use the inner Tesla banner with writing.
+Do **not** invent a photo. Do **not** use a plate/ticket image on a door. Do **not** use any Tesla banner with writing.
 
 Harley door: Road King, Street Glide, Road Glide. **No Softail.**
 
