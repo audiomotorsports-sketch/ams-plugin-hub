@@ -1,0 +1,22 @@
+== https://lacartint.com/
+HTTP/1.1 200 Connection Established
+
+HTTP/2 308 
+cache-control: public, max-age=0, must-revalidate
+content-type: text/plain
+date: Sun, 04 Oct 2026 04:39:21 GMT
+location: https://www.lacartint.com/
+refresh: 0;url=https://www.lacartint.com/
+server: Vercel
+strict-transport-security: max-age=63072000
+x-vercel-id: iad1::d9vhz-1791088761601-9b660d6b79ca
+
+== http://lacartint.com/
+HTTP/1.1 308 Permanent Redirect
+content-type: text/plain
+location: https://lacartint.com/
+refresh: 0;url=https://lacartint.com/
+server: Vercel
+date: Sun, 04 Oct 2026 04:39:21 GMT
+transfer-encoding: chunked
+

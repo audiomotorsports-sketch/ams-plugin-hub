@@ -1,0 +1,247 @@
+{
+ "site": "tesla",
+ "fix_files": {},
+ "write_missing": [
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-del-aire/",
+   "path": "/tesla/tesla-tint-del-aire/",
+   "cityslug": "del-aire",
+   "city": "Del Aire",
+   "miles": 8.6,
+   "title": "Tesla Window Tint Del Aire | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-downey/",
+   "path": "/tesla/tesla-tint-downey/",
+   "cityslug": "downey",
+   "city": "Downey",
+   "miles": 10.9,
+   "title": "Tesla Window Tint Downey | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-bell/",
+   "path": "/tesla/tesla-tint-bell/",
+   "cityslug": "bell",
+   "city": "Bell",
+   "miles": 11.3,
+   "title": "Tesla Window Tint Bell | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-cypress/",
+   "path": "/tesla/tesla-tint-cypress/",
+   "cityslug": "cypress",
+   "city": "Cypress",
+   "miles": 13.0,
+   "title": "Tesla Window Tint Cypress | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-baldwin-hills/",
+   "path": "/tesla/tesla-tint-baldwin-hills/",
+   "cityslug": "baldwin-hills",
+   "city": "Baldwin Hills",
+   "miles": 13.3,
+   "title": "Tesla Window Tint Baldwin Hills | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-boyle-heights/",
+   "path": "/tesla/tesla-tint-boyle-heights/",
+   "cityslug": "boyle-heights",
+   "city": "Boyle Heights",
+   "miles": 14.3,
+   "title": "Tesla Window Tint Boyle Heights | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-costa-mesa/",
+   "path": "/tesla/tesla-tint-costa-mesa/",
+   "cityslug": "costa-mesa",
+   "city": "Costa Mesa",
+   "miles": 23.7,
+   "title": "Tesla Window Tint Costa Mesa | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-city-of-industry/",
+   "path": "/tesla/tesla-tint-city-of-industry/",
+   "cityslug": "city-of-industry",
+   "city": "City of Industry",
+   "miles": 27.2,
+   "title": "Tesla Window Tint City of Industry | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-azusa/",
+   "path": "/tesla/tesla-tint-azusa/",
+   "cityslug": "azusa",
+   "city": "Azusa",
+   "miles": 36.5,
+   "title": "Tesla Window Tint Azusa | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-cerritos/",
+   "path": "/tesla/tesla-tint-cerritos/",
+   "cityslug": "cerritos",
+   "city": "Cerritos",
+   "miles": 11.7,
+   "title": "Tesla Window Tint Cerritos | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-east-los-angeles/",
+   "path": "/tesla/tesla-tint-east-los-angeles/",
+   "cityslug": "east-los-angeles",
+   "city": "East Los Angeles",
+   "miles": 14.5,
+   "title": "Tesla Window Tint East Los Angeles | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-buena-park/",
+   "path": "/tesla/tesla-tint-buena-park/",
+   "cityslug": "buena-park",
+   "city": "Buena Park",
+   "miles": 15.4,
+   "title": "Tesla Window Tint Buena Park | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-brentwood/",
+   "path": "/tesla/tesla-tint-brentwood/",
+   "cityslug": "brentwood",
+   "city": "Brentwood",
+   "miles": 20.2,
+   "title": "Tesla Window Tint Brentwood | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-bradbury/",
+   "path": "/tesla/tesla-tint-bradbury/",
+   "cityslug": "bradbury",
+   "city": "Bradbury",
+   "miles": 34.4,
+   "title": "Tesla Window Tint Bradbury | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-chino-hills/",
+   "path": "/tesla/tesla-tint-chino-hills/",
+   "cityslug": "chino-hills",
+   "city": "Chino Hills",
+   "miles": 38.8,
+   "title": "Tesla Window Tint Chino Hills | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-compton/",
+   "path": "/tesla/tesla-tint-compton/",
+   "cityslug": "compton",
+   "city": "Compton",
+   "miles": 5.4,
+   "title": "Tesla Window Tint Compton | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-artesia/",
+   "path": "/tesla/tesla-tint-artesia/",
+   "cityslug": "artesia",
+   "city": "Artesia",
+   "miles": 10.8,
+   "title": "Tesla Window Tint Artesia | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-beverly-hills/",
+   "path": "/tesla/tesla-tint-beverly-hills/",
+   "cityslug": "beverly-hills",
+   "city": "Beverly Hills",
+   "miles": 18.5,
+   "title": "Tesla Window Tint Beverly Hills | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-alhambra/",
+   "path": "/tesla/tesla-tint-alhambra/",
+   "cityslug": "alhambra",
+   "city": "Alhambra",
+   "miles": 19.9,
+   "title": "Tesla Window Tint Alhambra | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-covina/",
+   "path": "/tesla/tesla-tint-covina/",
+   "cityslug": "covina",
+   "city": "Covina",
+   "miles": 34.8,
+   "title": "Tesla Window Tint Covina | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-carson/",
+   "path": "/tesla/tesla-tint-carson/",
+   "cityslug": "carson",
+   "city": "Carson",
+   "miles": null,
+   "title": "Tesla Window Tint Avalon | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-bellflower/",
+   "path": "/tesla/tesla-tint-bellflower/",
+   "cityslug": "bellflower",
+   "city": "Bellflower",
+   "miles": 9.3,
+   "title": "Tesla Window Tint Bellflower | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-cudahy/",
+   "path": "/tesla/tesla-tint-cudahy/",
+   "cityslug": "cudahy",
+   "city": "Cudahy",
+   "miles": 10.0,
+   "title": "Tesla Window Tint Cudahy | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-bell-gardens/",
+   "path": "/tesla/tesla-tint-bell-gardens/",
+   "cityslug": "bell-gardens",
+   "city": "Bell Gardens",
+   "miles": 11.3,
+   "title": "Tesla Window Tint Bell Gardens | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-city-of-commerce/",
+   "path": "/tesla/tesla-tint-city-of-commerce/",
+   "cityslug": "city-of-commerce",
+   "city": "Commerce",
+   "miles": 13.1,
+   "title": "Tesla Window Tint Commerce | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-culver-city/",
+   "path": "/tesla/tesla-tint-culver-city/",
+   "cityslug": "culver-city",
+   "city": "Culver City",
+   "miles": 15.2,
+   "title": "Tesla Window Tint Culver City | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-anaheim/",
+   "path": "/tesla/tesla-tint-anaheim/",
+   "cityslug": "anaheim",
+   "city": "Anaheim",
+   "miles": 20.0,
+   "title": "Tesla Window Tint Anaheim | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-brea/",
+   "path": "/tesla/tesla-tint-brea/",
+   "cityslug": "brea",
+   "city": "Brea",
+   "miles": 21.8,
+   "title": "Tesla Window Tint Brea | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-baldwin-park/",
+   "path": "/tesla/tesla-tint-baldwin-park/",
+   "cityslug": "baldwin-park",
+   "city": "Baldwin Park",
+   "miles": 30.8,
+   "title": "Tesla Window Tint Baldwin Park | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-chino/",
+   "path": "/tesla/tesla-tint-chino/",
+   "cityslug": "chino",
+   "city": "Chino",
+   "miles": 44.0,
+   "title": "Tesla Window Tint Chino | Tesla Tint LA"
+  }
+ ],
+ "reuse_lines_involving_your_files": []
+}

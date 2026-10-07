@@ -1,0 +1,274 @@
+## /tint/ phone 200 ovx 0 tap 24 LCP 1572 CLS 0 TBT 40 TTFB 445 KB 2223 req 34
+ title Ceramic Window Tint LA & Long Beach | Hand-Cut | vp width=device-width, initial-scale=1 | robots None | canon https://www.audiomotorsports.com/tint/ | og True | icons 2 200 | brokenimg [] noalt 0
+ pageerr [] mixed []
+ console ['Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED', 'The resource https://www.audiomotorsports.com/sites/lacartint/assets/img/hero/tint-hero-mobile.jpg?v=lock20260']
+ failed Counter({'www.googletagmanager.com': 1, 'www.audiomotorsports.com': 1})
+ badlinks {'https://shop.lacartint.com/shop/car-stereos/': 403, 'https://shop.lacartint.com/shop/speakers/': 403, 'https://shop.lacartint.com/shop/amplifiers/': 403, 'https://shop.lacartint.com/shop/subwoofers/': 403, 'https://shop.lacartint.com/shop/enclosures/': 403, 'https://shop.lacartint.com/shop/car-stereos/kenwood-excelon-dmx1057xr/': 403, 'https://shop.lacartint.com/shop/speakers/focal-es-165-k2s/': 403, 'https://shop.lacartint.com/shop/amplifiers/kicker-49wxa3600-1/': 403, 'https://shop.lacartint.com/shop/enclosures/audiocontrol-51kgmdl7t122/': 403, 'https://shop.lacartint.com/shop/car-stereos/jvc-kw-v960bw/': 403, 'https://shop.lacartint.com/shop/speakers/focal-es-165-k2e/': 403, 'https://shop.lacartint.com/shop/amplifiers/kicker-46cxa1800-1t/': 403, 'https://shop.lacartint.com/shop/subwoofers/audiocontrol-spc-w12/': 403, 'https://shop.lacartint.com/shop/car-stereos/kenwood-excelon-dmx1058xr/': 403, 'https://shop.lacartint.com/shop/speakers/hertz-mpk-165-3-pro/': 403, 'https://shop.lacartint.com/shop/amplifiers/infinity-reference-10001a/': 403, 'https://shop.lacartint.com/shop/subwoofers/kicker-loose-woofers-51cwq122/': 403, 'https://shop.lacartint.com/': 403}
+ badlink_hosts Counter({('shop.lacartint.com', '403'): 18, ('www.youtube.com', '403'): 5, ('offerup.com', '403'): 1, ('www.facebook.com', '403'): 1, ('www.google.com', '403'): 1, ('www.lacarbeats.com', '403'): 1, ('www.lacaralarm.com', '403'): 1, ('maps.google.com', '403'): 1})
+ forms [(None, 'get', [('', 'textarea', False)])]
+## /tint/ desktop 200 ovx 0 tap 337 LCP 1336 CLS 0.0 TBT 127 TTFB 285 KB 2811 req 35
+ title Ceramic Window Tint LA & Long Beach | Hand-Cut | vp width=device-width, initial-scale=1 | robots None | canon https://www.audiomotorsports.com/tint/ | og True | icons 2 200 | brokenimg [] noalt 0
+ pageerr [] mixed []
+ console ['Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED', 'The resource https://www.audiomotorsports.com/sites/lacartint/assets/img/hero/tint-hero-desktop.jpg?v=lock2026']
+ failed Counter({'www.googletagmanager.com': 1, 'www.audiomotorsports.com': 1})
+ badlinks {'https://shop.lacartint.com/shop/car-stereos/': 403, 'https://shop.lacartint.com/shop/speakers/': 403, 'https://shop.lacartint.com/shop/amplifiers/': 403, 'https://shop.lacartint.com/shop/subwoofers/': 403, 'https://shop.lacartint.com/shop/enclosures/': 403, 'https://shop.lacartint.com/shop/car-stereos/kenwood-excelon-dmx1057xr/': 403, 'https://shop.lacartint.com/shop/speakers/focal-es-165-k2s/': 403, 'https://shop.lacartint.com/shop/amplifiers/kicker-49wxa3600-1/': 403, 'https://shop.lacartint.com/shop/enclosures/audiocontrol-51kgmdl7t122/': 403, 'https://shop.lacartint.com/shop/car-stereos/jvc-kw-v960bw/': 403, 'https://shop.lacartint.com/shop/speakers/focal-es-165-k2e/': 403, 'https://shop.lacartint.com/shop/amplifiers/kicker-46cxa1800-1t/': 403, 'https://shop.lacartint.com/shop/subwoofers/audiocontrol-spc-w12/': 403, 'https://shop.lacartint.com/shop/car-stereos/kenwood-excelon-dmx1058xr/': 403, 'https://shop.lacartint.com/shop/speakers/hertz-mpk-165-3-pro/': 403, 'https://shop.lacartint.com/shop/amplifiers/infinity-reference-10001a/': 403, 'https://shop.lacartint.com/shop/subwoofers/kicker-loose-woofers-51cwq122/': 403, 'https://shop.lacartint.com/': 403}
+ badlink_hosts Counter({('shop.lacartint.com', '403'): 18, ('www.youtube.com', '403'): 5, ('www.audiomotorsports.com', 'err APIReque'): 2, ('offerup.com', '403'): 1, ('www.facebook.com', '403'): 1, ('www.google.com', '403'): 1, ('www.lacarbeats.com', '403'): 1, ('www.lacaralarm.com', '403'): 1, ('maps.google.com', '403'): 1})
+ forms [(None, 'get', [('', 'textarea', False)])]
+## /tint/services/ceramic-film/ phone 200 ovx 0 tap 12 LCP 1676 CLS 0 TBT 54 TTFB 250 KB 529 req 29
+ title 3M Ceramic Window Film in Los Angeles | LA Car Tint | vp width=device-width, initial-scale=1 | robots None | canon https://www.audiomotorsports.com/tint/services/ceramic-film/ | og True | icons 2 200 | brokenimg [] noalt 0
+ pageerr [] mixed []
+ console ["Unrecognized feature: 'web-share'.", "Allow attribute will take precedence over 'allowfullscreen'.", 'Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED']
+ failed Counter({'www.youtube.com': 3, 'www.googletagmanager.com': 1})
+ badlinks {}
+ badlink_hosts Counter({('www.youtube.com', '403'): 10, ('www.audiomotorsports.com', 'err APIReque'): 2})
+ forms [('', 'post', [('_honey', 'text', False), ('_captcha', 'hidden', False), ('_subject', 'hidden', False), ('name', 'text', True), ('phone', 'tel', True), ('email', 'email', True), ('service', 'select-one', False), ('year', 'text', True), ('make', 'text', True), ('model', 'text', True), ('message', 'textarea', False)]), (None, 'get', [('', 'textarea', False)])]
+## /tint/services/ceramic-film/ desktop 200 ovx 0 tap 323 LCP 1844 CLS 0.0 TBT 212 TTFB 569 KB 2020 req 29
+ title 3M Ceramic Window Film in Los Angeles | LA Car Tint | vp width=device-width, initial-scale=1 | robots None | canon https://www.audiomotorsports.com/tint/services/ceramic-film/ | og True | icons 2 200 | brokenimg [] noalt 0
+ pageerr [] mixed []
+ console ["Unrecognized feature: 'web-share'.", "Allow attribute will take precedence over 'allowfullscreen'.", 'Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED']
+ failed Counter({'www.youtube.com': 3, 'www.googletagmanager.com': 1})
+ badlinks {}
+ badlink_hosts Counter({('www.youtube.com', '403'): 10})
+ forms [('', 'post', [('_honey', 'text', False), ('_captcha', 'hidden', False), ('_subject', 'hidden', False), ('name', 'text', True), ('phone', 'tel', True), ('email', 'email', True), ('service', 'select-one', False), ('year', 'text', True), ('make', 'text', True), ('model', 'text', True), ('message', 'textarea', False)]), (None, 'get', [('', 'textarea', False)])]
+## /tint/services/hand-cut/ phone 200 ovx 0 tap 11 LCP 2088 CLS 0 TBT 242 TTFB 633 KB 340 req 33
+ title Hand-Cut Window Tint | Micro Edge Finish | LA Car Tint | vp width=device-width, initial-scale=1 | robots None | canon https://www.audiomotorsports.com/tint/services/hand-cut/ | og True | icons 2 200 | brokenimg ['https://i.ytimg.com/vi/qXALoIUo_Bc/hqdefault.jpg', 'https://i.ytimg.com/vi/NKqTgFvDaqg/hqdefault.jpg', 'https://i.ytimg.com/vi/R6sUYeqR0bY/hqdefault.jpg', 'https://i.ytimg.com/vi/Cq42X-wIpmE/hqdefault.jpg'] noalt 0
+ pageerr [] mixed []
+ console ["Unrecognized feature: 'web-share'.", "Allow attribute will take precedence over 'allowfullscreen'.", 'Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED', 'Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED']
+ failed Counter({'www.youtube.com': 6, 'i.ytimg.com': 4, 'www.googletagmanager.com': 1})
+ badlinks {}
+ badlink_hosts Counter({('www.youtube.com', '403'): 10, ('www.audiomotorsports.com', 'err APIReque'): 3})
+ forms [(None, 'get', [('', 'textarea', False)])]
+## /tint/services/hand-cut/ desktop 200 ovx 0 tap 322 LCP 1172 CLS 0.0 TBT 83 TTFB 244 KB 938 req 26
+ title Hand-Cut Window Tint | Micro Edge Finish | LA Car Tint | vp width=device-width, initial-scale=1 | robots None | canon https://www.audiomotorsports.com/tint/services/hand-cut/ | og True | icons 2 200 | brokenimg [] noalt 0
+ pageerr [] mixed []
+ console ["Unrecognized feature: 'web-share'.", "Allow attribute will take precedence over 'allowfullscreen'.", 'Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED']
+ failed Counter({'www.youtube.com': 3, 'www.googletagmanager.com': 1})
+ badlinks {'https://www.audiomotorsports.com/tint/services/': 'err APIRequestContext.get: Timeout 20000ms exceeded.\nC', 'https://www.audiomotorsports.com/tint/book/': 'err APIRequestContext.get: Client network socket disco'}
+ badlink_hosts Counter({('www.youtube.com', '403'): 10, ('www.audiomotorsports.com', 'err APIReque'): 6})
+ forms [(None, 'get', [('', 'textarea', False)])]
+## /tint/tesla-tint/ phone 200 ovx 0 tap 16 LCP 1900 CLS 0 TBT 0 TTFB 507 KB 410 req 30
+ title Tesla Window Tint in Los Angeles | LA Car Tint | vp width=device-width, initial-scale=1 | robots None | canon https://www.audiomotorsports.com/tint/tesla-tint/ | og True | icons 2 200 | brokenimg ['https://www.audiomotorsports.com/tint/tesla-tint/assets/sim/img/model-yl.png'] noalt 0
+ pageerr [] mixed []
+ console ['Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED', "Refused to apply style from 'https://www.audiomotorsports.com/tint/tesla-tint/assets/sim/sim.css?v=ttl-r9' bec", 'Failed to load resource: the server responded with a status of 404 (Not Found)', 'Failed to load resource: the server responded with a status of 404 (Not Found)']
+ failed Counter({'www.audiomotorsports.com': 3, 'www.googletagmanager.com': 1})
+ badlinks {}
+ badlink_hosts Counter({('teslatintla.com', 'err APIReque'): 1, ('www.audiomotorsports.com', 'err APIReque'): 1, ('www.audiomotorsports.com', '404'): 1})
+ forms [('', 'post', [('company', 'text', False), ('_subject', 'hidden', False), ('service', 'hidden', False), ('source_page', 'hidden', False), ('name', 'text', True), ('phone', 'tel', True), ('email', 'email', True), ('year', 'text', True), ('make', 'text', True), ('model', 'text', True), ('appointment', 'radio', True), ('appointment', 'radio', False), ('message', 'textarea', False)]), (None, 'get', [('', 'textarea', False)])]
+## /tint/tesla-tint/ desktop 200 ovx 59 tap 325 LCP 10716 CLS 0 TBT 49 TTFB 132 KB 1632 req 30
+ title Tesla Window Tint in Los Angeles | LA Car Tint | vp width=device-width, initial-scale=1 | robots None | canon https://www.audiomotorsports.com/tint/tesla-tint/ | og True | icons 2 err APIRequestContext.get: Client network socket disconnected be | brokenimg ['https://www.audiomotorsports.com/tint/tesla-tint/assets/sim/img/model-yl.png'] noalt 0
+ pageerr [] mixed []
+ console ['Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED', "Refused to apply style from 'https://www.audiomotorsports.com/tint/tesla-tint/assets/sim/sim.css?v=ttl-r9' bec", 'Failed to load resource: the server responded with a status of 404 (Not Found)', 'Failed to load resource: the server responded with a status of 404 (Not Found)']
+ failed Counter({'www.audiomotorsports.com': 4, 'www.googletagmanager.com': 1})
+ badlinks {}
+ badlink_hosts Counter({('www.audiomotorsports.com', 'err APIReque'): 3, ('www.audiomotorsports.com', '404'): 1})
+ forms [('', 'post', [('company', 'text', False), ('_subject', 'hidden', False), ('service', 'hidden', False), ('source_page', 'hidden', False), ('name', 'text', True), ('phone', 'tel', True), ('email', 'email', True), ('year', 'text', True), ('make', 'text', True), ('model', 'text', True), ('appointment', 'radio', True), ('appointment', 'radio', False), ('message', 'textarea', False)]), (None, 'get', [('', 'textarea', False)])]
+## /tint/specials/ phone 200 ovx 0 tap 8 LCP 1008 CLS 0 TBT 32 TTFB 152 KB 256 req 27
+ title Window Tint Specials in Los Angeles | LA Car Tint | vp width=device-width, initial-scale=1 | robots None | canon https://www.audiomotorsports.com/tint/specials/ | og True | icons 2 200 | brokenimg [] noalt 0
+ pageerr [] mixed []
+ console ["Unrecognized feature: 'web-share'.", "Allow attribute will take precedence over 'allowfullscreen'.", 'Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED']
+ failed Counter({'www.youtube.com': 3, 'www.googletagmanager.com': 1})
+ badlinks {}
+ badlink_hosts Counter({('www.audiomotorsports.com', 'err APIReque'): 2, ('offerup.com', '403'): 1, ('www.facebook.com', '403'): 1, ('www.audiomotorsports.com', '404'): 1})
+ forms [(None, 'get', [('', 'textarea', False)])]
+## /tint/specials/ desktop 200 ovx 0 tap 321 LCP 928 CLS 0 TBT 18 TTFB 165 KB 984 req 27
+ title Window Tint Specials in Los Angeles | LA Car Tint | vp width=device-width, initial-scale=1 | robots None | canon https://www.audiomotorsports.com/tint/specials/ | og True | icons 2 200 | brokenimg [] noalt 0
+ pageerr [] mixed []
+ console ["Unrecognized feature: 'web-share'.", "Allow attribute will take precedence over 'allowfullscreen'.", 'Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED']
+ failed Counter({'www.youtube.com': 3, 'www.googletagmanager.com': 1})
+ badlinks {}
+ badlink_hosts Counter({('www.audiomotorsports.com', 'err APIReque'): 4, ('offerup.com', '403'): 1, ('www.facebook.com', '403'): 1, ('www.audiomotorsports.com', '404'): 1})
+ forms [(None, 'get', [('', 'textarea', False)])]
+## /tint/faq/ phone 200 ovx 0 tap 10 LCP 1120 CLS 0 TBT 0 TTFB 354 KB 255 req 25
+ title Window Tint FAQ in Los Angeles | LA Car Tint | vp width=device-width, initial-scale=1 | robots None | canon https://www.audiomotorsports.com/tint/faq/ | og True | icons 2 err APIRequestContext.get: Timeout 15000ms exceeded.
+Call log:
+  | brokenimg [] noalt 0
+ pageerr [] mixed []
+ console ["Unrecognized feature: 'web-share'.", "Allow attribute will take precedence over 'allowfullscreen'.", 'Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED']
+ failed Counter({'www.youtube.com': 3, 'www.googletagmanager.com': 1})
+ badlinks {}
+ badlink_hosts Counter({('www.audiomotorsports.com', 'err APIReque'): 2, ('www.audiomotorsports.com', '404'): 1})
+ forms [(None, 'get', [('', 'textarea', False)])]
+## /tint/faq/ desktop 200 ovx 0 tap 321 LCP 1208 CLS 0.0 TBT 34 TTFB 146 KB 905 req 25
+ title Window Tint FAQ in Los Angeles | LA Car Tint | vp width=device-width, initial-scale=1 | robots None | canon https://www.audiomotorsports.com/tint/faq/ | og True | icons 2 200 | brokenimg [] noalt 0
+ pageerr [] mixed []
+ console ["Unrecognized feature: 'web-share'.", "Allow attribute will take precedence over 'allowfullscreen'.", 'Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED']
+ failed Counter({'www.youtube.com': 3, 'www.googletagmanager.com': 1})
+ badlinks {}
+ badlink_hosts Counter({('www.audiomotorsports.com', 'err APIReque'): 4, ('www.audiomotorsports.com', '404'): 1})
+ forms [(None, 'get', [('', 'textarea', False)])]
+## /tint/locations/ phone 200 ovx 0 tap 12 LCP 1468 CLS 0 TBT 40 TTFB 349 KB 189 req 24
+ title Drive-in Locations | One Avalon Shop | LA Car Tint | vp width=device-width, initial-scale=1 | robots None | canon https://www.audiomotorsports.com/tint/locations/ | og True | icons 2 200 | brokenimg [] noalt 0
+ pageerr [] mixed []
+ console ["Unrecognized feature: 'web-share'.", "Allow attribute will take precedence over 'allowfullscreen'.", 'Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED', 'Failed to load resource: the server responded with a status of 502 (Bad Gateway)']
+ failed Counter({'www.youtube.com': 3, 'www.googletagmanager.com': 1, 'www.audiomotorsports.com': 1})
+ badlinks {'https://www.audiomotorsports.com/tint/window-tint-hermosa-beach/': 'err APIRequestContext.get: Timeout 20000ms exceeded.\nC', 'https://www.audiomotorsports.com/tint/window-tint-long-beach/': 'err APIRequestContext.get: Client network socket disco', 'https://www.audiomotorsports.com/tint/window-tint-los-alamitos/': 'err APIRequestContext.get: Timeout 20000ms exceeded.\nC', 'https://www.audiomotorsports.com/tint/window-tint-norwalk/': 'err APIRequestContext.get: Client network socket disco', 'https://www.audiomotorsports.com/tint/window-tint-south-los-angeles/': 'err APIRequestContext.get: Client network socket disco', 'https://www.audiomotorsports.com/tint/window-tint-westchester/': 'err APIRequestContext.get: Timeout 20000ms exceeded.\nC', 'https://www.audiomotorsports.com/tint/window-tint-ladera-heights/': 'err APIRequestContext.get: Timeout 20000ms exceeded.\nC'}
+ badlink_hosts Counter({('www.audiomotorsports.com', 'err APIReque'): 7, ('maps.google.com', '403'): 1, ('share.google', '403'): 1})
+ forms [(None, 'get', [('', 'textarea', False)])]
+## /tint/locations/ desktop 200 ovx 0 tap 323 LCP 1092 CLS 0.0 TBT 35 TTFB 208 KB 268 req 31
+ title Drive-in Locations | One Avalon Shop | LA Car Tint | vp width=device-width, initial-scale=1 | robots None | canon https://www.audiomotorsports.com/tint/locations/ | og True | icons 2 200 | brokenimg [] noalt 0
+ pageerr [] mixed []
+ console ["Unrecognized feature: 'web-share'.", "Allow attribute will take precedence over 'allowfullscreen'.", 'Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED', 'Failed to load resource: the server responded with a status of 502 (Bad Gateway)']
+ failed Counter({'www.youtube.com': 3, 'www.googletagmanager.com': 1})
+ badlinks {'https://www.audiomotorsports.com/tint/window-tint-gardena/': 'err APIRequestContext.get: Client network socket disco', 'https://www.audiomotorsports.com/tint/window-tint-irvine/': 'err APIRequestContext.get: Timeout 20000ms exceeded.\nC', 'https://www.audiomotorsports.com/tint/window-tint-la-palma/': 'err APIRequestContext.get: Timeout 20000ms exceeded.\nC'}
+ badlink_hosts Counter({('www.audiomotorsports.com', 'err APIReque'): 4, ('maps.google.com', '403'): 1, ('share.google', '403'): 1})
+ forms [(None, 'get', [('', 'textarea', False)])]
+## /tint/shop/ phone 200 ovx 0 tap 10 LCP 1564 CLS 0.0 TBT 41 TTFB 331 KB 3221 req 39
+ title Shop Window Tint | LA Car Tint | vp width=device-width, initial-scale=1 | robots None | canon https://www.audiomotorsports.com/tint/shop/ | og True | icons 2 200 | brokenimg [] noalt 0
+ pageerr [] mixed []
+ console ["Unrecognized feature: 'web-share'.", "Allow attribute will take precedence over 'allowfullscreen'.", 'Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED', 'The resource https://www.audiomotorsports.com/sites/lacartint/assets/img/shop/banners/lacartint-shop-mobile-10']
+ failed Counter({'www.youtube.com': 3, 'www.googletagmanager.com': 1})
+ badlinks {'https://www.audiomotorsports.com/tint/': 'err APIRequestContext.get: Timeout 20000ms exceeded.\nC'}
+ badlink_hosts Counter({('www.audiomotorsports.com', 'err APIReque'): 3, ('www.lacarbeats.com', '403'): 1, ('www.lacaralarm.com', '403'): 1})
+ forms [(None, 'get', [('', 'textarea', False)])]
+## /tint/shop/ desktop 200 ovx 0 tap 342 LCP 1544 CLS 0.0 TBT 180 TTFB 353 KB 3064 req 35
+ title Shop Window Tint | LA Car Tint | vp width=device-width, initial-scale=1 | robots None | canon https://www.audiomotorsports.com/tint/shop/ | og True | icons 2 200 | brokenimg [] noalt 0
+ pageerr [] mixed []
+ console ["Unrecognized feature: 'web-share'.", "Allow attribute will take precedence over 'allowfullscreen'.", 'Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED']
+ failed Counter({'www.youtube.com': 3, 'www.googletagmanager.com': 1})
+ badlinks {}
+ badlink_hosts Counter({('www.audiomotorsports.com', 'err APIReque'): 2, ('www.lacarbeats.com', '403'): 1, ('www.lacaralarm.com', '403'): 1})
+ forms [(None, 'get', [('', 'textarea', False)])]
+## /tint/blog/ phone 200 ovx 0 tap 9 LCP 1304 CLS 0 TBT 48 TTFB 391 KB 236 req 22
+ title Blog | LA Car Tint | vp width=device-width, initial-scale=1 | robots None | canon https://www.audiomotorsports.com/tint/blog/ | og True | icons 2 200 | brokenimg [] noalt 0
+ pageerr [] mixed []
+ console ['Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED']
+ failed Counter({'www.googletagmanager.com': 1})
+ badlinks {}
+ badlink_hosts Counter({('www.audiomotorsports.com', '404'): 1})
+ forms [(None, 'get', [('', 'textarea', False)])]
+## /tint/blog/ desktop 200 ovx 0 tap 320 LCP 1292 CLS 0.0 TBT 73 TTFB 293 KB 930 req 22
+ title Blog | LA Car Tint | vp width=device-width, initial-scale=1 | robots None | canon https://www.audiomotorsports.com/tint/blog/ | og True | icons 2 200 | brokenimg [] noalt 0
+ pageerr [] mixed []
+ console ['Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED']
+ failed Counter({'www.googletagmanager.com': 1})
+ badlinks {}
+ badlink_hosts Counter({('www.audiomotorsports.com', 'err APIReque'): 4, ('www.audiomotorsports.com', '404'): 1})
+ forms [(None, 'get', [('', 'textarea', False)])]
+## /tint/blog/california-70-vlt-fronts/ phone 200 ovx 0 tap 11 LCP 1000 CLS 0.0 TBT 31 TTFB 321 KB 187 req 23
+ title California 70% VLT Fronts | LA Car Tint | vp width=device-width, initial-scale=1 | robots None | canon https://www.audiomotorsports.com/tint/blog/california-70-vlt-fronts/ | og True | icons 2 200 | brokenimg [] noalt 0
+ pageerr [] mixed []
+ console ["Unrecognized feature: 'web-share'.", "Allow attribute will take precedence over 'allowfullscreen'.", 'Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED']
+ failed Counter({'www.youtube.com': 3, 'www.googletagmanager.com': 1})
+ badlinks {}
+ badlink_hosts Counter({('www.audiomotorsports.com', 'err APIReque'): 3, ('www.audiomotorsports.com', '404'): 1})
+ forms [(None, 'get', [('', 'textarea', False)])]
+## /tint/blog/california-70-vlt-fronts/ desktop 200 ovx 0 tap 322 LCP 1076 CLS 0.0 TBT 38 TTFB 200 KB 187 req 23
+ title California 70% VLT Fronts | LA Car Tint | vp width=device-width, initial-scale=1 | robots None | canon https://www.audiomotorsports.com/tint/blog/california-70-vlt-fronts/ | og True | icons 2 200 | brokenimg [] noalt 0
+ pageerr [] mixed []
+ console ["Unrecognized feature: 'web-share'.", "Allow attribute will take precedence over 'allowfullscreen'.", 'Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED']
+ failed Counter({'www.youtube.com': 3, 'www.googletagmanager.com': 1})
+ badlinks {}
+ badlink_hosts Counter({('www.audiomotorsports.com', 'err APIReque'): 5, ('www.audiomotorsports.com', '404'): 1})
+ forms [(None, 'get', [('', 'textarea', False)])]
+## /tint/es/ phone 200 ovx 0 tap 23 LCP 1536 CLS 0 TBT 60 TTFB 236 KB 5263 req 34
+ title Polarizado Cerámico en LA y Long Beach | Cortado a Mano | vp width=device-width, initial-scale=1 | robots None | canon https://www.audiomotorsports.com/tint/es/ | og True | icons 2 200 | brokenimg [] noalt 0
+ pageerr [] mixed []
+ console ['Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED', 'The resource https://www.audiomotorsports.com/sites/lacartint/assets/img/hero/tint-hero-mobile.jpg?v=lock20260']
+ failed Counter({'www.googletagmanager.com': 1})
+ badlinks {'https://shop.lacartint.com/shop/car-stereos/': 403, 'https://shop.lacartint.com/shop/speakers/': 403, 'https://shop.lacartint.com/shop/amplifiers/': 403, 'https://shop.lacartint.com/shop/subwoofers/': 403, 'https://shop.lacartint.com/shop/enclosures/': 403, 'https://shop.lacartint.com/shop/car-stereos/kenwood-excelon-dmx1057xr/': 403, 'https://shop.lacartint.com/shop/speakers/focal-es-165-k2s/': 403, 'https://shop.lacartint.com/shop/amplifiers/kicker-49wxa3600-1/': 403, 'https://shop.lacartint.com/shop/enclosures/audiocontrol-51kgmdl7t122/': 403, 'https://shop.lacartint.com/shop/car-stereos/jvc-kw-v960bw/': 403, 'https://shop.lacartint.com/shop/speakers/focal-es-165-k2e/': 403, 'https://shop.lacartint.com/shop/amplifiers/kicker-46cxa1800-1t/': 403, 'https://shop.lacartint.com/shop/subwoofers/audiocontrol-spc-w12/': 403, 'https://shop.lacartint.com/shop/car-stereos/kenwood-excelon-dmx1058xr/': 403, 'https://shop.lacartint.com/shop/speakers/hertz-mpk-165-3-pro/': 403, 'https://shop.lacartint.com/shop/amplifiers/infinity-reference-10001a/': 403, 'https://shop.lacartint.com/shop/subwoofers/kicker-loose-woofers-51cwq122/': 403, 'https://shop.lacartint.com/': 403}
+ badlink_hosts Counter({('shop.lacartint.com', '403'): 18, ('www.youtube.com', '403'): 5, ('offerup.com', '403'): 1, ('www.facebook.com', '403'): 1, ('www.google.com', '403'): 1, ('www.lacarbeats.com', '403'): 1, ('www.lacaralarm.com', '403'): 1, ('maps.google.com', '403'): 1, ('www.audiomotorsports.com', 'err APIReque'): 1})
+ forms [(None, 'get', [('', 'textarea', False)])]
+## /tint/es/ desktop 200 ovx 0 tap 336 LCP 1668 CLS 0.002 TBT 224 TTFB 339 KB 5499 req 38
+ title Polarizado Cerámico en LA y Long Beach | Cortado a Mano | vp width=device-width, initial-scale=1 | robots None | canon https://www.audiomotorsports.com/tint/es/ | og True | icons 2 200 | brokenimg [] noalt 0
+ pageerr [] mixed []
+ console ['Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED', 'The resource https://www.audiomotorsports.com/sites/lacartint/assets/img/hero/tint-hero-desktop.jpg?v=lock2026', 'The resource https://www.audiomotorsports.com/sites/lacartint/assets/img/hero/tint-hero-desktop.jpg?v=lock2026']
+ failed Counter({'www.googletagmanager.com': 1})
+ badlinks {'https://shop.lacartint.com/shop/car-stereos/': 403, 'https://shop.lacartint.com/shop/speakers/': 403, 'https://shop.lacartint.com/shop/amplifiers/': 403, 'https://shop.lacartint.com/shop/subwoofers/': 403, 'https://shop.lacartint.com/shop/enclosures/': 403, 'https://shop.lacartint.com/shop/car-stereos/kenwood-excelon-dmx1057xr/': 403, 'https://shop.lacartint.com/shop/speakers/focal-es-165-k2s/': 403, 'https://shop.lacartint.com/shop/amplifiers/kicker-49wxa3600-1/': 403, 'https://shop.lacartint.com/shop/enclosures/audiocontrol-51kgmdl7t122/': 403, 'https://shop.lacartint.com/shop/car-stereos/jvc-kw-v960bw/': 403, 'https://shop.lacartint.com/shop/speakers/focal-es-165-k2e/': 403, 'https://shop.lacartint.com/shop/amplifiers/kicker-46cxa1800-1t/': 403, 'https://shop.lacartint.com/shop/subwoofers/audiocontrol-spc-w12/': 403, 'https://shop.lacartint.com/shop/car-stereos/kenwood-excelon-dmx1058xr/': 403, 'https://shop.lacartint.com/shop/speakers/hertz-mpk-165-3-pro/': 403, 'https://shop.lacartint.com/shop/amplifiers/infinity-reference-10001a/': 403, 'https://shop.lacartint.com/shop/subwoofers/kicker-loose-woofers-51cwq122/': 403, 'https://shop.lacartint.com/': 403}
+ badlink_hosts Counter({('shop.lacartint.com', '403'): 18, ('www.youtube.com', '403'): 5, ('www.audiomotorsports.com', 'err APIReque'): 2, ('offerup.com', '403'): 1, ('www.facebook.com', '403'): 1, ('www.google.com', '403'): 1, ('www.lacarbeats.com', '403'): 1, ('www.lacaralarm.com', '403'): 1, ('maps.google.com', '403'): 1})
+ forms [(None, 'get', [('', 'textarea', False)])]
+## /tint/window-tint-west-carson/ phone 200 ovx 0 tap 17 LCP 1180 CLS 0 TBT 17 TTFB 243 KB 3680 req 26
+ title Car Window Tint West Carson | LA Car Tint | vp width=device-width, initial-scale=1 | robots None | canon https://www.audiomotorsports.com/tint/window-tint-west-carson/ | og True | icons 2 200 | brokenimg [] noalt 0
+ pageerr [] mixed []
+ console ['Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED', 'Failed to load resource: the server responded with a status of 502 (Bad Gateway)', "Refused to execute script from 'https://www.audiomotorsports.com/assets/js/lacartint-main.js?v=nick20260924' b"]
+ failed Counter({'www.googletagmanager.com': 1, 'www.audiomotorsports.com': 1})
+ badlinks {}
+ badlink_hosts Counter({('www.audiomotorsports.com', 'err APIReque'): 2, ('maps.google.com', '403'): 1, ('www.lacarbeats.com', '403'): 1, ('www.lacaralarm.com', '403'): 1, ('share.google', '403'): 1, ('yelp.to', '403'): 1})
+ forms [(None, 'get', [('', 'textarea', False)])]
+## /tint/window-tint-west-carson/ desktop 200 ovx 0 tap 328 LCP 1408 CLS 0.0 TBT 12 TTFB 317 KB 894 req 25
+ title Car Window Tint West Carson | LA Car Tint | vp width=device-width, initial-scale=1 | robots None | canon https://www.audiomotorsports.com/tint/window-tint-west-carson/ | og True | icons 2 200 | brokenimg [] noalt 0
+ pageerr [] mixed []
+ console ['Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED']
+ failed Counter({'www.googletagmanager.com': 1})
+ badlinks {}
+ badlink_hosts Counter({('maps.google.com', '403'): 1, ('www.lacarbeats.com', '403'): 1, ('www.lacaralarm.com', '403'): 1, ('share.google', '403'): 1, ('yelp.to', '403'): 1, ('www.audiomotorsports.com', 'err APIReque'): 1})
+ forms [(None, 'get', [('', 'textarea', False)])]
+## /tint/window-tint-irvine/ phone 200 ovx 0 tap 32 LCP 10524 CLS 0 TBT 5 TTFB 230 KB 3669 req 26
+ title Car Window Tint Irvine | LA Car Tint | vp width=device-width, initial-scale=1 | robots None | canon https://www.audiomotorsports.com/tint/window-tint-irvine/ | og True | icons 2 200 | brokenimg [] noalt 0
+ pageerr [] mixed []
+ console ['Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED', "Refused to apply style from 'https://www.audiomotorsports.com/sites/lacartint/assets/css/ams-chat.css?v=58700c", "Refused to apply style from 'https://www.audiomotorsports.com/sites/lacartint/assets/css/style.css?v=393ae36d'"]
+ failed Counter({'www.audiomotorsports.com': 2, 'www.googletagmanager.com': 1})
+ badlinks {'https://www.audiomotorsports.com/tint/reviews/': 'err APIRequestContext.get: Timeout 20000ms exceeded.\nC', 'https://www.audiomotorsports.com/tint/window-tint-los-angeles/': 'err APIRequestContext.get: Timeout 20000ms exceeded.\nC'}
+ badlink_hosts Counter({('www.audiomotorsports.com', 'err APIReque'): 6, ('www.lacarbeats.com', '403'): 1, ('www.lacaralarm.com', '403'): 1, ('share.google', '403'): 1, ('yelp.to', '403'): 1})
+ forms [(None, 'get', [('', 'textarea', False)])]
+## /tint/window-tint-irvine/ desktop 200 ovx 0 tap 333 LCP 1332 CLS 0.0 TBT 58 TTFB 315 KB 895 req 25
+ title Car Window Tint Irvine | LA Car Tint | vp width=device-width, initial-scale=1 | robots None | canon https://www.audiomotorsports.com/tint/window-tint-irvine/ | og True | icons 2 200 | brokenimg [] noalt 0
+ pageerr [] mixed []
+ console ['Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED']
+ failed Counter({'www.googletagmanager.com': 1})
+ badlinks {}
+ badlink_hosts Counter({('www.lacarbeats.com', '403'): 1, ('www.lacaralarm.com', '403'): 1, ('share.google', '403'): 1, ('yelp.to', '403'): 1})
+ forms [(None, 'get', [('', 'textarea', False)])]
+## /tint/window-tint-rancho-cucamonga/ phone 200 ovx 0 tap 17 LCP 860 CLS 0 TBT 7 TTFB 131 KB 3687 req 26
+ title Car Window Tint Rancho Cucamonga | LA Car Tint | vp width=device-width, initial-scale=1 | robots None | canon https://www.audiomotorsports.com/tint/window-tint-rancho-cucamonga/ | og True | icons 2 200 | brokenimg [] noalt 0
+ pageerr [] mixed []
+ console ['Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED']
+ failed Counter({'www.googletagmanager.com': 1})
+ badlinks {'https://www.audiomotorsports.com/tint/': 'err APIRequestContext.get: Timeout 20000ms exceeded.\nC'}
+ badlink_hosts Counter({('www.audiomotorsports.com', 'err APIReque'): 2, ('maps.google.com', '403'): 1, ('www.lacarbeats.com', '403'): 1, ('www.lacaralarm.com', '403'): 1, ('share.google', '403'): 1, ('yelp.to', '403'): 1})
+ forms [(None, 'get', [('', 'textarea', False)])]
+## /tint/window-tint-rancho-cucamonga/ desktop 200 ovx 0 tap 328 LCP 1132 CLS 0.0 TBT 55 TTFB 176 KB 894 req 25
+ title Car Window Tint Rancho Cucamonga | LA Car Tint | vp width=device-width, initial-scale=1 | robots None | canon https://www.audiomotorsports.com/tint/window-tint-rancho-cucamonga/ | og True | icons 2 200 | brokenimg [] noalt 0
+ pageerr [] mixed []
+ console ['Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED']
+ failed Counter({'www.googletagmanager.com': 1})
+ badlinks {}
+ badlink_hosts Counter({('maps.google.com', '403'): 1, ('www.lacarbeats.com', '403'): 1, ('www.lacaralarm.com', '403'): 1, ('share.google', '403'): 1, ('yelp.to', '403'): 1})
+ forms [(None, 'get', [('', 'textarea', False)])]
+## /tint/window-tint-manhattan-beach/ phone 200 ovx 0 tap 21 LCP 1120 CLS 0 TBT 2 TTFB 157 KB 3687 req 26
+ title Car Window Tint Manhattan Beach | LA Car Tint | vp width=device-width, initial-scale=1 | robots None | canon https://www.audiomotorsports.com/tint/window-tint-manhattan-beach/ | og True | icons 2 200 | brokenimg [] noalt 0
+ pageerr [] mixed []
+ console ['Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED']
+ failed Counter({'www.googletagmanager.com': 1})
+ badlinks {}
+ badlink_hosts Counter({('www.audiomotorsports.com', 'err APIReque'): 2, ('www.lacarbeats.com', '403'): 1, ('www.lacaralarm.com', '403'): 1, ('share.google', '403'): 1, ('yelp.to', '403'): 1})
+ forms [(None, 'get', [('', 'textarea', False)])]
+## /tint/window-tint-manhattan-beach/ desktop 200 ovx 0 tap 333 LCP 1304 CLS 0.0 TBT 23 TTFB 365 KB 895 req 25
+ title Car Window Tint Manhattan Beach | LA Car Tint | vp width=device-width, initial-scale=1 | robots None | canon https://www.audiomotorsports.com/tint/window-tint-manhattan-beach/ | og True | icons 2 200 | brokenimg [] noalt 0
+ pageerr [] mixed []
+ console ['Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED']
+ failed Counter({'www.googletagmanager.com': 1})
+ badlinks {}
+ badlink_hosts Counter({('www.audiomotorsports.com', 'err APIReque'): 3, ('www.lacarbeats.com', '403'): 1, ('www.lacaralarm.com', '403'): 1, ('share.google', '403'): 1, ('yelp.to', '403'): 1})
+ forms [(None, 'get', [('', 'textarea', False)])]
+## /tint/contact/ phone 200 ovx 0 tap 18 LCP 1144 CLS 0 TBT 112 TTFB 211 KB 775 req 25
+ title Contact LA Car Tint | Quote, Call, or Visit in Carson, CA | vp width=device-width, initial-scale=1 | robots None | canon https://www.audiomotorsports.com/tint/contact/ | og True | icons 2 200 | brokenimg [] noalt 0
+ pageerr [] mixed []
+ console ["Unrecognized feature: 'web-share'.", "Allow attribute will take precedence over 'allowfullscreen'.", 'Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED', "Refused to apply style from 'https://www.audiomotorsports.com/sites/lacartint/assets/css/page-short.css?v=db8d"]
+ failed Counter({'www.youtube.com': 3, 'www.googletagmanager.com': 1, 'www.audiomotorsports.com': 1})
+ badlinks {}
+ badlink_hosts Counter({('www.audiomotorsports.com', 'err APIReque'): 3, ('www.instagram.com', '403'): 1, ('share.google', '403'): 1, ('www.youtube.com', '403'): 1, ('www.audiomotorsports.com', '404'): 1})
+ forms [('/api/quote/', 'post', [('company', 'text', False), ('_captcha', 'hidden', False), ('source_page', 'hidden', False), ('_subject', 'hidden', False), ('phone', 'tel', True), ('year', 'text', True), ('make', 'text', True), ('model', 'text', True), ('old_tint', 'select-one', True), ('service', 'select-one', True), ('name', 'text', True), ('email', 'email', True), ('message', 'textarea', False)]), (None, 'get', [('', 'textarea', False)])]
+## /tint/contact/ desktop 200 ovx 0 tap 329 LCP 1240 CLS 0.0 TBT 109 TTFB 300 KB 894 req 25
+ title Contact LA Car Tint | Quote, Call, or Visit in Carson, CA | vp width=device-width, initial-scale=1 | robots None | canon https://www.audiomotorsports.com/tint/contact/ | og True | icons 2 200 | brokenimg [] noalt 0
+ pageerr [] mixed []
+ console ["Unrecognized feature: 'web-share'.", "Allow attribute will take precedence over 'allowfullscreen'.", 'Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED', 'The resource https://www.audiomotorsports.com/sites/lacartint/assets/img/contact/ams-lot-night.jpg was preload']
+ failed Counter({'www.youtube.com': 3, 'www.googletagmanager.com': 1})
+ badlinks {}
+ badlink_hosts Counter({('www.audiomotorsports.com', 'err APIReque'): 4, ('www.instagram.com', '403'): 1, ('share.google', '403'): 1, ('www.youtube.com', '403'): 1, ('www.audiomotorsports.com', '404'): 1})
+ forms [('/api/quote/', 'post', [('company', 'text', False), ('_captcha', 'hidden', False), ('source_page', 'hidden', False), ('_subject', 'hidden', False), ('phone', 'tel', True), ('year', 'text', True), ('make', 'text', True), ('model', 'text', True), ('old_tint', 'select-one', True), ('service', 'select-one', True), ('name', 'text', True), ('email', 'email', True), ('message', 'textarea', False)]), (None, 'get', [('', 'textarea', False)])]
+## /tint/book/ phone 200 ovx 0 tap 8 LCP 1396 CLS 0 TBT 25 TTFB 299 KB 186 req 21
+ title Book a Slot | LA Car Tint | vp width=device-width, initial-scale=1 | robots None | canon https://www.audiomotorsports.com/tint/book/ | og True | icons 2 200 | brokenimg [] noalt 0
+ pageerr [] mixed []
+ console ['Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED']
+ failed Counter({'www.googletagmanager.com': 1})
+ badlinks {}
+ badlink_hosts Counter({('www.audiomotorsports.com', '404'): 1})
+ forms [('/api/quote/', 'post', [('company', 'text', False), ('source_page', 'hidden', False), ('message', 'hidden', False), ('service', 'select-one', True), ('year', 'text', True), ('make', 'text', True), ('model', 'text', True), ('day', 'date', True), ('slot', 'radio', True), ('slot', 'radio', False), ('name', 'text', True), ('phone', 'tel', True)]), (None, 'get', [('', 'textarea', False)])]
+## /tint/book/ desktop 200 ovx 0 tap 319 LCP 976 CLS 0 TBT 15 TTFB 247 KB 186 req 21
+ title Book a Slot | LA Car Tint | vp width=device-width, initial-scale=1 | robots None | canon https://www.audiomotorsports.com/tint/book/ | og True | icons 2 200 | brokenimg [] noalt 0
+ pageerr [] mixed []
+ console ['Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED']
+ failed Counter({'www.googletagmanager.com': 1})
+ badlinks {}
+ badlink_hosts Counter({('www.audiomotorsports.com', 'err APIReque'): 5})
+ forms [('/api/quote/', 'post', [('company', 'text', False), ('source_page', 'hidden', False), ('message', 'hidden', False), ('service', 'select-one', True), ('year', 'text', True), ('make', 'text', True), ('model', 'text', True), ('day', 'date', True), ('slot', 'radio', True), ('slot', 'radio', False), ('name', 'text', True), ('phone', 'tel', True)]), (None, 'get', [('', 'textarea', False)])]

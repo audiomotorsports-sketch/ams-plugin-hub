@@ -1,0 +1,247 @@
+{
+ "site": "tesla",
+ "fix_files": {},
+ "write_missing": [
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-paramount/",
+   "path": "/tesla/tesla-tint-paramount/",
+   "cityslug": "paramount",
+   "city": "Paramount",
+   "miles": 7.4,
+   "title": "Tesla Window Tint Paramount | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-manhattan-beach/",
+   "path": "/tesla/tesla-tint-manhattan-beach/",
+   "cityslug": "manhattan-beach",
+   "city": "Manhattan Beach",
+   "miles": 9.3,
+   "title": "Tesla Window Tint Manhattan Beach | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-rossmoor/",
+   "path": "/tesla/tesla-tint-rossmoor/",
+   "cityslug": "rossmoor",
+   "city": "Rossmoor",
+   "miles": 11.0,
+   "title": "Tesla Window Tint Rossmoor | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-montebello/",
+   "path": "/tesla/tesla-tint-montebello/",
+   "cityslug": "montebello",
+   "city": "Montebello",
+   "miles": 15.3,
+   "title": "Tesla Window Tint Montebello | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-san-gabriel/",
+   "path": "/tesla/tesla-tint-san-gabriel/",
+   "cityslug": "san-gabriel",
+   "city": "San Gabriel",
+   "miles": 20.4,
+   "title": "Tesla Window Tint San Gabriel | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-montclair/",
+   "path": "/tesla/tesla-tint-montclair/",
+   "cityslug": "montclair",
+   "city": "Montclair",
+   "miles": 46.3,
+   "title": "Tesla Window Tint Montclair | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-palos-verdes-estates/",
+   "path": "/tesla/tesla-tint-palos-verdes-estates/",
+   "cityslug": "palos-verdes-estates",
+   "city": "Palos Verdes Estates",
+   "miles": 8.0,
+   "title": "Tesla Window Tint Palos Verdes Estates | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-playa-del-rey/",
+   "path": "/tesla/tesla-tint-playa-del-rey/",
+   "cityslug": "playa-del-rey",
+   "city": "Playa del Rey",
+   "miles": 13.3,
+   "title": "Tesla Window Tint Playa del Rey | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-placentia/",
+   "path": "/tesla/tesla-tint-placentia/",
+   "cityslug": "placentia",
+   "city": "Placentia",
+   "miles": 22.9,
+   "title": "Tesla Window Tint Placentia | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-rancho-cucamonga/",
+   "path": "/tesla/tesla-tint-rancho-cucamonga/",
+   "cityslug": "rancho-cucamonga",
+   "city": "Rancho Cucamonga",
+   "miles": 53.6,
+   "title": "Tesla Window Tint Rancho Cucamonga | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-rolling-hills-estates/",
+   "path": "/tesla/tesla-tint-rolling-hills-estates/",
+   "cityslug": "rolling-hills-estates",
+   "city": "Rolling Hills Estates",
+   "miles": 6.0,
+   "title": "Tesla Window Tint Rolling Hills Estates | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-redondo-beach/",
+   "path": "/tesla/tesla-tint-redondo-beach/",
+   "cityslug": "redondo-beach",
+   "city": "Redondo Beach",
+   "miles": 7.2,
+   "title": "Tesla Window Tint Redondo Beach | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-rancho-palos-verdes/",
+   "path": "/tesla/tesla-tint-rancho-palos-verdes/",
+   "cityslug": "rancho-palos-verdes",
+   "city": "Rancho Palos Verdes",
+   "miles": 9.0,
+   "title": "Tesla Window Tint Rancho Palos Verdes | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-norwalk/",
+   "path": "/tesla/tesla-tint-norwalk/",
+   "cityslug": "norwalk",
+   "city": "Norwalk",
+   "miles": 11.7,
+   "title": "Tesla Window Tint Norwalk | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-santa-fe-springs/",
+   "path": "/tesla/tesla-tint-santa-fe-springs/",
+   "cityslug": "santa-fe-springs",
+   "city": "Santa Fe Springs",
+   "miles": 13.0,
+   "title": "Tesla Window Tint Santa Fe Springs | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-playa-vista/",
+   "path": "/tesla/tesla-tint-playa-vista/",
+   "cityslug": "playa-vista",
+   "city": "Playa Vista",
+   "miles": 13.5,
+   "title": "Tesla Window Tint Playa Vista | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-marina-del-rey/",
+   "path": "/tesla/tesla-tint-marina-del-rey/",
+   "cityslug": "marina-del-rey",
+   "city": "Marina del Rey",
+   "miles": 14.9,
+   "title": "Tesla Window Tint Marina del Rey | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-mar-vista/",
+   "path": "/tesla/tesla-tint-mar-vista/",
+   "cityslug": "mar-vista",
+   "city": "Mar Vista",
+   "miles": 15.4,
+   "title": "Tesla Window Tint Mar Vista | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-midway-city/",
+   "path": "/tesla/tesla-tint-midway-city/",
+   "cityslug": "midway-city",
+   "city": "Midway City",
+   "miles": 17.0,
+   "title": "Tesla Window Tint Midway City | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-pacific-palisades/",
+   "path": "/tesla/tesla-tint-pacific-palisades/",
+   "cityslug": "pacific-palisades",
+   "city": "Pacific Palisades",
+   "miles": 21.4,
+   "title": "Tesla Window Tint Pacific Palisades | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-pasadena/",
+   "path": "/tesla/tesla-tint-pasadena/",
+   "cityslug": "pasadena",
+   "city": "Pasadena",
+   "miles": 28.6,
+   "title": "Tesla Window Tint Pasadena | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-pomona/",
+   "path": "/tesla/tesla-tint-pomona/",
+   "cityslug": "pomona",
+   "city": "Pomona",
+   "miles": 41.6,
+   "title": "Tesla Window Tint Pomona | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-rolling-hills/",
+   "path": "/tesla/tesla-tint-rolling-hills/",
+   "cityslug": "rolling-hills",
+   "city": "Rolling Hills",
+   "miles": 7.2,
+   "title": "Tesla Window Tint Rolling Hills | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-maywood/",
+   "path": "/tesla/tesla-tint-maywood/",
+   "cityslug": "maywood",
+   "city": "Maywood",
+   "miles": 11.9,
+   "title": "Tesla Window Tint Maywood | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-pico-rivera/",
+   "path": "/tesla/tesla-tint-pico-rivera/",
+   "cityslug": "pico-rivera",
+   "city": "Pico Rivera",
+   "miles": 14.2,
+   "title": "Tesla Window Tint Pico Rivera | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-monterey-park/",
+   "path": "/tesla/tesla-tint-monterey-park/",
+   "cityslug": "monterey-park",
+   "city": "Monterey Park",
+   "miles": 17.9,
+   "title": "Tesla Window Tint Monterey Park | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-rosemead/",
+   "path": "/tesla/tesla-tint-rosemead/",
+   "cityslug": "rosemead",
+   "city": "Rosemead",
+   "miles": 20.4,
+   "title": "Tesla Window Tint Rosemead | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-santa-ana/",
+   "path": "/tesla/tesla-tint-santa-ana/",
+   "cityslug": "santa-ana",
+   "city": "Santa Ana",
+   "miles": 23.5,
+   "title": "Tesla Window Tint Santa Ana | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-monrovia/",
+   "path": "/tesla/tesla-tint-monrovia/",
+   "cityslug": "monrovia",
+   "city": "Monrovia",
+   "miles": 33.3,
+   "title": "Tesla Window Tint Monrovia | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-orange/",
+   "path": "/tesla/tesla-tint-orange/",
+   "cityslug": "orange",
+   "city": "Orange",
+   "miles": null,
+   "title": "Tesla Window Tint Orange | Tesla Tint LA"
+  }
+ ],
+ "reuse_lines_involving_your_files": []
+}

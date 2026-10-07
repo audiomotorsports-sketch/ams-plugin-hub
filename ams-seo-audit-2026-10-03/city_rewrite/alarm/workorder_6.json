@@ -1,0 +1,128 @@
+{
+ "site": "alarm",
+ "out_dir": "alarm/drafts_pending",
+ "fix_files": {},
+ "write_missing": [
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-monterey-park/",
+   "path": "/alarm/car-alarm-monterey-park/",
+   "cityslug": "monterey-park",
+   "city": "Monterey Park",
+   "miles": 17.9,
+   "title": "Car Alarm Installation for Monterey Park | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-palos-verdes-estates/",
+   "path": "/alarm/car-alarm-palos-verdes-estates/",
+   "cityslug": "palos-verdes-estates",
+   "city": "Palos Verdes Estates",
+   "miles": 8.0,
+   "title": "Car Alarm Installation for Palos Verdes Estates | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-pasadena/",
+   "path": "/alarm/car-alarm-pasadena/",
+   "cityslug": "pasadena",
+   "city": "Pasadena",
+   "miles": 28.6,
+   "title": "Car Alarm Installation for Pasadena | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-playa-del-rey/",
+   "path": "/alarm/car-alarm-playa-del-rey/",
+   "cityslug": "playa-del-rey",
+   "city": "Playa del Rey",
+   "miles": 13.3,
+   "title": "Car Alarm Installation for Playa del Rey | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-rolling-hills/",
+   "path": "/alarm/car-alarm-rolling-hills/",
+   "cityslug": "rolling-hills",
+   "city": "Rolling Hills",
+   "miles": 7.2,
+   "title": "Car Alarm Installation for Rolling Hills | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-san-pedro/",
+   "path": "/alarm/car-alarm-san-pedro/",
+   "cityslug": "san-pedro",
+   "city": "San Pedro",
+   "miles": 6.5,
+   "title": "Car Alarm Installation for San Pedro | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-sierra-madre/",
+   "path": "/alarm/car-alarm-sierra-madre/",
+   "cityslug": "sierra-madre",
+   "city": "Sierra Madre",
+   "miles": 32.3,
+   "title": "Car Alarm Installation for Sierra Madre | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-signal-hill/",
+   "path": "/alarm/car-alarm-signal-hill/",
+   "cityslug": "signal-hill",
+   "city": "Signal Hill",
+   "miles": 5.8,
+   "title": "Car Alarm Installation for Signal Hill | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-south-pasadena/",
+   "path": "/alarm/car-alarm-south-pasadena/",
+   "cityslug": "south-pasadena",
+   "city": "South Pasadena",
+   "miles": 20.7,
+   "title": "Car Alarm Installation for South Pasadena | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-stanton/",
+   "path": "/alarm/car-alarm-stanton/",
+   "cityslug": "stanton",
+   "city": "Stanton",
+   "miles": 15.6,
+   "title": "Car Alarm Installation for Stanton | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-studio-city/",
+   "path": "/alarm/car-alarm-studio-city/",
+   "cityslug": "studio-city",
+   "city": "Studio City",
+   "miles": 23.4,
+   "title": "Car Alarm Installation for Studio City | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-torrance/",
+   "path": "/alarm/car-alarm-torrance/",
+   "cityslug": "torrance",
+   "city": "Torrance",
+   "miles": 4.4,
+   "title": "Car Alarm Installation for Torrance | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-walnut/",
+   "path": "/alarm/car-alarm-walnut/",
+   "cityslug": "walnut",
+   "city": "Walnut",
+   "miles": 26.5,
+   "title": "Car Alarm Installation for Walnut | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-watts/",
+   "path": "/alarm/car-alarm-watts/",
+   "cityslug": "watts",
+   "city": "Watts",
+   "miles": 7.6,
+   "title": "Car Alarm Installation for Watts | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-west-carson/",
+   "path": "/alarm/car-alarm-west-carson/",
+   "cityslug": "west-carson",
+   "city": "West Carson",
+   "miles": 1.8,
+   "title": "Car Alarm Installation for West Carson | LA Car Alarm"
+  }
+ ],
+ "reuse_lines_involving_your_files": []
+}

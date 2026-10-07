@@ -1,0 +1,14 @@
+https://shop.audiomotorsports.com/about/ phone 200 console: 5 bad_links: 10 
+https://shop.audiomotorsports.com/about/ desktop 200 console: 5 bad_links: 9 
+https://shop.audiomotorsports.com/privacy-policy/ phone 200 console: 3 bad_links: 9 
+https://shop.audiomotorsports.com/privacy-policy/ desktop 200 console: 3 bad_links: 10 
+https://shop.audiomotorsports.com/terms-of-service/ phone 200 console: 3 bad_links: 10 
+https://shop.audiomotorsports.com/terms-of-service/ desktop 200 console: 3 bad_links: 9 
+https://shop.audiomotorsports.com/payment-plan/ phone 200 console: 5 bad_links: 13 
+https://shop.audiomotorsports.com/payment-plan/ desktop 200 console: 5 bad_links: 14 
+https://shop.audiomotorsports.com/brands-we-love/ phone 200 console: 11 bad_links: 9 
+https://shop.audiomotorsports.com/brands-we-love/ desktop 200 console: 9 bad_links: 11 
+https://shop.audiomotorsports.com/shop/brand/compustar/ phone 200 console: 3 bad_links: 8 
+https://shop.audiomotorsports.com/shop/brand/compustar/ desktop 200 console: 3 bad_links: 10 
+https://shop.audiomotorsports.com/nonexistent-xyz/ phone 404 console: 4 bad_links: 11 
+https://shop.audiomotorsports.com/nonexistent-xyz/ desktop 404 console: 4 bad_links: 10 

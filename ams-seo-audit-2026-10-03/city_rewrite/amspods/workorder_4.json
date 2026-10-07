@@ -1,0 +1,64 @@
+{
+ "site": "amspods",
+ "out_dir": "amspods/drafts_pending",
+ "fix_files": {},
+ "write_missing": [
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-alondra-park/",
+   "path": "/amspods/bagger-audio-alondra-park/",
+   "cityslug": "alondra-park",
+   "city": "Alondra Park",
+   "miles": 5.9,
+   "title": "Harley Bagger Audio Alondra Park | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-arcadia/",
+   "path": "/amspods/bagger-audio-arcadia/",
+   "cityslug": "arcadia",
+   "city": "Arcadia",
+   "miles": 25.3,
+   "title": "Harley Bagger Audio Arcadia | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-bellflower/",
+   "path": "/amspods/bagger-audio-bellflower/",
+   "cityslug": "bellflower",
+   "city": "Bellflower",
+   "miles": 9.3,
+   "title": "Harley Bagger Audio Bellflower | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-lomita/",
+   "path": "/amspods/bagger-audio-lomita/",
+   "cityslug": "lomita",
+   "city": "Lomita",
+   "miles": 3.7,
+   "title": "Harley Bagger Audio Lomita | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-palos-verdes-estates/",
+   "path": "/amspods/bagger-audio-palos-verdes-estates/",
+   "cityslug": "palos-verdes-estates",
+   "city": "Palos Verdes Estates",
+   "miles": 8.0,
+   "title": "Harley Bagger Audio Palos Verdes Estates | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-studio-city/",
+   "path": "/amspods/bagger-audio-studio-city/",
+   "cityslug": "studio-city",
+   "city": "Studio City",
+   "miles": 23.4,
+   "title": "Harley Bagger Audio Studio City | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-walnut/",
+   "path": "/amspods/bagger-audio-walnut/",
+   "cityslug": "walnut",
+   "city": "Walnut",
+   "miles": 26.5,
+   "title": "Harley Bagger Audio Walnut | AMS Pods"
+  }
+ ],
+ "reuse_lines_involving_your_files": []
+}

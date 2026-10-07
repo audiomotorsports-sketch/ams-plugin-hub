@@ -1,0 +1,191 @@
+{
+ "site": "tint",
+ "fix_files": {
+  "pico-rivera.md": "meta length 161",
+  "santa-monica.md": "meta length 162",
+  "south-el-monte.md": "meta length 169",
+  "westminster.md": "title length 61; meta length 161"
+ },
+ "write_missing": [
+  {
+   "url": "https://www.audiomotorsports.com/tint/window-tint-venice/",
+   "path": "/tint/window-tint-venice/",
+   "cityslug": "venice",
+   "city": "Venice",
+   "miles": 15.9,
+   "title": "Car Window Tint Venice | LA Car Tint"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tint/window-tint-west-los-angeles/",
+   "path": "/tint/window-tint-west-los-angeles/",
+   "cityslug": "west-los-angeles",
+   "city": "West Los Angeles",
+   "miles": 18.0,
+   "title": "Car Window Tint West Los Angeles | LA Car Tint"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tint/window-tint-south-pasadena/",
+   "path": "/tint/window-tint-south-pasadena/",
+   "cityslug": "south-pasadena",
+   "city": "South Pasadena",
+   "miles": 20.7,
+   "title": "Car Window Tint South Pasadena | LA Car Tint"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tint/window-tint-rancho-cucamonga/",
+   "path": "/tint/window-tint-rancho-cucamonga/",
+   "cityslug": "rancho-cucamonga",
+   "city": "Rancho Cucamonga",
+   "miles": 53.6,
+   "title": "Car Window Tint Rancho Cucamonga | LA Car Tint"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tint/window-tint-santa-ana/",
+   "path": "/tint/window-tint-santa-ana/",
+   "cityslug": "santa-ana",
+   "city": "Santa Ana",
+   "miles": 23.5,
+   "title": "Car Window Tint Santa Ana | LA Car Tint"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tint/window-tint-west-covina/",
+   "path": "/tint/window-tint-west-covina/",
+   "cityslug": "west-covina",
+   "city": "West Covina",
+   "miles": 31.0,
+   "title": "Car Window Tint West Covina | LA Car Tint"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tint/window-tint-pomona/",
+   "path": "/tint/window-tint-pomona/",
+   "cityslug": "pomona",
+   "city": "Pomona",
+   "miles": 41.6,
+   "title": "Car Window Tint Pomona | LA Car Tint"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tint/window-tint-westchester/",
+   "path": "/tint/window-tint-westchester/",
+   "cityslug": "westchester",
+   "city": "Westchester",
+   "miles": 12.1,
+   "title": "Car Window Tint Westchester | LA Car Tint"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tint/window-tint-ladera-heights/",
+   "path": "/tint/window-tint-ladera-heights/",
+   "cityslug": "ladera-heights",
+   "city": "Ladera Heights",
+   "miles": 13.0,
+   "title": "Car Window Tint Ladera Heights | LA Car Tint"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tint/window-tint-playa-del-rey/",
+   "path": "/tint/window-tint-playa-del-rey/",
+   "cityslug": "playa-del-rey",
+   "city": "Playa del Rey",
+   "miles": 13.3,
+   "title": "Car Window Tint Playa del Rey | LA Car Tint"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tint/window-tint-stanton/",
+   "path": "/tint/window-tint-stanton/",
+   "cityslug": "stanton",
+   "city": "Stanton",
+   "miles": 15.6,
+   "title": "Car Window Tint Stanton | LA Car Tint"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tint/window-tint-whittier/",
+   "path": "/tint/window-tint-whittier/",
+   "cityslug": "whittier",
+   "city": "Whittier",
+   "miles": 16.7,
+   "title": "Car Window Tint Whittier | LA Car Tint"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tint/window-tint-rosemead/",
+   "path": "/tint/window-tint-rosemead/",
+   "cityslug": "rosemead",
+   "city": "Rosemead",
+   "miles": 20.4,
+   "title": "Car Window Tint Rosemead | LA Car Tint"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tint/window-tint-la-puente/",
+   "path": "/tint/window-tint-la-puente/",
+   "cityslug": "la-puente",
+   "city": "La Puente",
+   "miles": 27.8,
+   "title": "Car Window Tint La Puente | LA Car Tint"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tint/window-tint-sierra-madre/",
+   "path": "/tint/window-tint-sierra-madre/",
+   "cityslug": "sierra-madre",
+   "city": "Sierra Madre",
+   "miles": 32.3,
+   "title": "Car Window Tint Sierra Madre | LA Car Tint"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tint/window-tint-mar-vista/",
+   "path": "/tint/window-tint-mar-vista/",
+   "cityslug": "mar-vista",
+   "city": "Mar Vista",
+   "miles": 15.4,
+   "title": "Car Window Tint Mar Vista | LA Car Tint"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tint/window-tint-monterey-park/",
+   "path": "/tint/window-tint-monterey-park/",
+   "cityslug": "monterey-park",
+   "city": "Monterey Park",
+   "miles": 17.9,
+   "title": "Car Window Tint Monterey Park | LA Car Tint"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tint/window-tint-west-hollywood/",
+   "path": "/tint/window-tint-west-hollywood/",
+   "cityslug": "west-hollywood",
+   "city": "West Hollywood",
+   "miles": 18.8,
+   "title": "Car Window Tint West Hollywood | LA Car Tint"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tint/window-tint-san-gabriel/",
+   "path": "/tint/window-tint-san-gabriel/",
+   "cityslug": "san-gabriel",
+   "city": "San Gabriel",
+   "miles": 20.4,
+   "title": "Car Window Tint San Gabriel | LA Car Tint"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tint/window-tint-pasadena/",
+   "path": "/tint/window-tint-pasadena/",
+   "cityslug": "pasadena",
+   "city": "Pasadena",
+   "miles": 28.6,
+   "title": "Car Window Tint Pasadena | LA Car Tint"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tint/window-tint-monrovia/",
+   "path": "/tint/window-tint-monrovia/",
+   "cityslug": "monrovia",
+   "city": "Monrovia",
+   "miles": 33.3,
+   "title": "Car Window Tint Monrovia | LA Car Tint"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tint/window-tint-montclair/",
+   "path": "/tint/window-tint-montclair/",
+   "cityslug": "montclair",
+   "city": "Montclair",
+   "miles": 46.3,
+   "title": "Car Window Tint Montclair | LA Car Tint"
+  }
+ ],
+ "reuse_lines_involving_your_files": [
+  "['florence-firestone.md', 'south-el-monte.md'] | - **tesla window tint.** one-piece rear glass on model 3 and model y.",
+  "['manhattan-beach.md', 'pico-rivera.md'] | ### does ceramic tint have to be dark to work?"
+ ]
+}

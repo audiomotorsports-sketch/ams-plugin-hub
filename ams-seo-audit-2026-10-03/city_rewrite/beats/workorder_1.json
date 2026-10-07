@@ -1,0 +1,290 @@
+{
+ "site": "beats",
+ "fix_files": {
+  "alhambra.md": "neighbor links 0 < 3",
+  "anaheim.md": "meta length 163; neighbor links 0 < 3",
+  "artesia.md": "neighbor links 0 < 3",
+  "azusa.md": "meta length 162; neighbor links 0 < 3",
+  "beverly-hills.md": "neighbor links 0 < 3",
+  "buena-park.md": "meta length 163; neighbor links 0 < 3",
+  "cerritos.md": "meta length 163; neighbor links 0 < 3",
+  "chino.md": "meta length 170; neighbor links 0 < 3",
+  "compton.md": "neighbor links 0 < 3",
+  "covina.md": "meta length 165; neighbor links 0 < 3",
+  "east-los-angeles.md": "neighbor links 0 < 3",
+  "el-monte.md": "meta length 165; neighbor links 0 < 3",
+  "exposition-park.md": "neighbor links 0 < 3",
+  "fountain-valley.md": "neighbor links 0 < 3",
+  "glendale.md": "neighbor links 0 < 3",
+  "hawthorne.md": "neighbor links 0 < 3",
+  "huntington-park.md": "neighbor links 0 < 3",
+  "inglewood.md": "neighbor links 0 < 3",
+  "la-habra.md": "meta length 163; neighbor links 0 < 3",
+  "la-puente.md": "meta length 164; neighbor links 0 < 3",
+  "ladera-heights.md": "neighbor links 0 < 3",
+  "lawndale.md": "neighbor links 0 < 3",
+  "lennox.md": "neighbor links 0 < 3",
+  "lomita.md": "neighbor links 0 < 3",
+  "long-beach.md": "neighbor links 0 < 3"
+ },
+ "write_missing": [
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-bellflower/",
+   "path": "/beats/car-stereo-bellflower/",
+   "cityslug": "bellflower",
+   "city": "Bellflower",
+   "miles": 9.3,
+   "title": "Car Stereo Installation for Bellflower | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-cudahy/",
+   "path": "/beats/car-stereo-cudahy/",
+   "cityslug": "cudahy",
+   "city": "Cudahy",
+   "miles": 10.0,
+   "title": "Car Stereo Installation for Cudahy | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-el-segundo/",
+   "path": "/beats/car-stereo-el-segundo/",
+   "cityslug": "el-segundo",
+   "city": "El Segundo",
+   "miles": 10.8,
+   "title": "Car Stereo Installation for El Segundo | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-hawaiian-gardens/",
+   "path": "/beats/car-stereo-hawaiian-gardens/",
+   "cityslug": "hawaiian-gardens",
+   "city": "Hawaiian Gardens",
+   "miles": 11.0,
+   "title": "Car Stereo Installation for Hawaiian Gardens | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-bell-gardens/",
+   "path": "/beats/car-stereo-bell-gardens/",
+   "cityslug": "bell-gardens",
+   "city": "Bell Gardens",
+   "miles": 11.3,
+   "title": "Car Stereo Installation for Bell Gardens | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-la-palma/",
+   "path": "/beats/car-stereo-la-palma/",
+   "cityslug": "la-palma",
+   "city": "La Palma",
+   "miles": 12.5,
+   "title": "Car Stereo Installation for La Palma | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-city-of-commerce/",
+   "path": "/beats/car-stereo-city-of-commerce/",
+   "cityslug": "city-of-commerce",
+   "city": "Commerce",
+   "miles": 13.1,
+   "title": "Car Stereo Installation for Commerce | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-culver-city/",
+   "path": "/beats/car-stereo-culver-city/",
+   "cityslug": "culver-city",
+   "city": "Culver City",
+   "miles": 15.2,
+   "title": "Car Stereo Installation for Culver City | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-la-mirada/",
+   "path": "/beats/car-stereo-la-mirada/",
+   "cityslug": "la-mirada",
+   "city": "La Mirada",
+   "miles": 15.6,
+   "title": "Car Stereo Installation for La Mirada | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-garden-grove/",
+   "path": "/beats/car-stereo-garden-grove/",
+   "cityslug": "garden-grove",
+   "city": "Garden Grove",
+   "miles": 18.9,
+   "title": "Car Stereo Installation for Garden Grove | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-fullerton/",
+   "path": "/beats/car-stereo-fullerton/",
+   "cityslug": "fullerton",
+   "city": "Fullerton",
+   "miles": 19.7,
+   "title": "Car Stereo Installation for Fullerton | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-la-habra-heights/",
+   "path": "/beats/car-stereo-la-habra-heights/",
+   "cityslug": "la-habra-heights",
+   "city": "La Habra Heights",
+   "miles": 20.1,
+   "title": "Car Stereo Installation for La Habra Heights | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-irvine/",
+   "path": "/beats/car-stereo-irvine/",
+   "cityslug": "irvine",
+   "city": "Irvine",
+   "miles": 27.0,
+   "title": "Car Stereo Installation for Irvine | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-baldwin-park/",
+   "path": "/beats/car-stereo-baldwin-park/",
+   "cityslug": "baldwin-park",
+   "city": "Baldwin Park",
+   "miles": 30.8,
+   "title": "Car Stereo Installation for Baldwin Park | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-irwindale/",
+   "path": "/beats/car-stereo-irwindale/",
+   "cityslug": "irwindale",
+   "city": "Irwindale",
+   "miles": 33.5,
+   "title": "Car Stereo Installation for Irwindale | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-chino-hills/",
+   "path": "/beats/car-stereo-chino-hills/",
+   "cityslug": "chino-hills",
+   "city": "Chino Hills",
+   "miles": 38.8,
+   "title": "Car Stereo Installation for Chino Hills | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-harbor-city/",
+   "path": "/beats/car-stereo-harbor-city/",
+   "cityslug": "harbor-city",
+   "city": "Harbor City",
+   "miles": 2.8,
+   "title": "Car Stereo Installation for Harbor City | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-gardena/",
+   "path": "/beats/car-stereo-gardena/",
+   "cityslug": "gardena",
+   "city": "Gardena",
+   "miles": 4.9,
+   "title": "Car Stereo Installation for Gardena | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-lakewood/",
+   "path": "/beats/car-stereo-lakewood/",
+   "cityslug": "lakewood",
+   "city": "Lakewood",
+   "miles": 7.7,
+   "title": "Car Stereo Installation for Lakewood | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-hermosa-beach/",
+   "path": "/beats/car-stereo-hermosa-beach/",
+   "cityslug": "hermosa-beach",
+   "city": "Hermosa Beach",
+   "miles": 8.1,
+   "title": "Car Stereo Installation for Hermosa Beach | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-florence-firestone/",
+   "path": "/beats/car-stereo-florence-firestone/",
+   "cityslug": "florence-firestone",
+   "city": "Florence-Firestone",
+   "miles": 10.0,
+   "title": "Car Stereo Installation for Florence-Firestone | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-downey/",
+   "path": "/beats/car-stereo-downey/",
+   "cityslug": "downey",
+   "city": "Downey",
+   "miles": 10.9,
+   "title": "Car Stereo Installation for Downey | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-bell/",
+   "path": "/beats/car-stereo-bell/",
+   "cityslug": "bell",
+   "city": "Bell",
+   "miles": 11.3,
+   "title": "Car Stereo Installation for Bell | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-cypress/",
+   "path": "/beats/car-stereo-cypress/",
+   "cityslug": "cypress",
+   "city": "Cypress",
+   "miles": 13.0,
+   "title": "Car Stereo Installation for Cypress | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-baldwin-hills/",
+   "path": "/beats/car-stereo-baldwin-hills/",
+   "cityslug": "baldwin-hills",
+   "city": "Baldwin Hills",
+   "miles": 13.3,
+   "title": "Car Stereo Installation for Baldwin Hills | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-boyle-heights/",
+   "path": "/beats/car-stereo-boyle-heights/",
+   "cityslug": "boyle-heights",
+   "city": "Boyle Heights",
+   "miles": 14.3,
+   "title": "Car Stereo Installation for Boyle Heights | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-huntington-beach/",
+   "path": "/beats/car-stereo-huntington-beach/",
+   "cityslug": "huntington-beach",
+   "city": "Huntington Beach",
+   "miles": 19.3,
+   "title": "Car Stereo Installation for Huntington Beach | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-hacienda-heights/",
+   "path": "/beats/car-stereo-hacienda-heights/",
+   "cityslug": "hacienda-heights",
+   "city": "Hacienda Heights",
+   "miles": 20.3,
+   "title": "Car Stereo Installation for Hacienda Heights | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-city-of-industry/",
+   "path": "/beats/car-stereo-city-of-industry/",
+   "cityslug": "city-of-industry",
+   "city": "City of Industry",
+   "miles": 27.2,
+   "title": "Car Stereo Installation for City of Industry | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-bradbury/",
+   "path": "/beats/car-stereo-bradbury/",
+   "cityslug": "bradbury",
+   "city": "Bradbury",
+   "miles": 34.4,
+   "title": "Car Stereo Installation for Bradbury | LA Car Beats"
+  }
+ ],
+ "reuse_lines_involving_your_files": [
+  "['alhambra.md', 'chino.md'] | **apple carplay and android auto installation.** carplay or android auto with the backup c",
+  "['alhambra.md', 'sierra-madre.md'] | ### will android auto installation keep my backup camera?",
+  "['alhambra.md', 'huntington-park.md'] | done once, done right beats a cheap install that has to be redone.",
+  "['alhambra.md', 'el-monte.md'] | head unit installation, apple carplay and android auto installation, speaker replacement, ",
+  "['anaheim.md', 'glendale.md'] | window tint and ceramic window tint, car alarm installation, remote start installation, gp",
+  "['anaheim.md', 'montclair.md'] | subwoofer installation, amplifier installation, car stereo installation and speaker replac",
+  "['azusa.md', 'hawthorne.md'] | window tint and ceramic window tint, car alarm installation, remote start installation, gp",
+  "['azusa.md', 'fountain-valley.md', 'playa-vista.md'] | head unit installation, apple carplay and android auto installation, speaker replacement a",
+  "['chino.md', 'stanton.md'] | head unit installation, apple carplay and android auto installation, speaker replacement, ",
+  "['covina.md', 'la-habra.md'] | factory amplified cars need speakers chosen for the amplifier output and sometimes an inte",
+  "['covina.md', 'playa-del-rey.md'] | window tint, car alarm installation, remote start, gps tracker installation and dash camer",
+  "['el-monte.md', 'stanton.md'] | factory chimes are carried over on cars that route them through the radio.",
+  "['la-puente.md', 'whittier.md'] | **car stereo installation.** a head unit with pre-amp outputs for a clean signal to the am",
+  "['la-puente.md', 'westchester.md'] | amplifier installation on a factory head unit uses a line-output converter to create a cle",
+  "['ladera-heights.md', 'sierra-madre.md'] | cars with a standard radio opening get a touchscreen head unit.",
+  "['lawndale.md', 'paramount.md'] | window tint and ceramic window tint, car alarm installation, remote start installation, gp"
+ ]
+}

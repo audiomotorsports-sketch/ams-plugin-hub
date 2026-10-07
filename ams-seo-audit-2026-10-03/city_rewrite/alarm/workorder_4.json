@@ -1,0 +1,224 @@
+{
+ "site": "alarm",
+ "fix_files": {
+  "sierra-madre.md": "meta length 175",
+  "signal-hill.md": "meta length 173",
+  "south-pasadena.md": "meta length 162",
+  "stanton.md": "meta length 171",
+  "studio-city.md": "title length 68; meta length 174",
+  "walnut.md": "meta length 176",
+  "watts.md": "meta length 161; forbidden phrase \"locked\"",
+  "west-carson.md": "meta length 162"
+ },
+ "write_missing": [
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-vernon/",
+   "path": "/alarm/car-alarm-vernon/",
+   "cityslug": "vernon",
+   "city": "Vernon",
+   "miles": 12.1,
+   "title": "Car Alarm Installation for Vernon | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-westminster/",
+   "path": "/alarm/car-alarm-westminster/",
+   "cityslug": "westminster",
+   "city": "Westminster",
+   "miles": 16.4,
+   "title": "Car Alarm Installation for Westminster | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-west-los-angeles/",
+   "path": "/alarm/car-alarm-west-los-angeles/",
+   "cityslug": "west-los-angeles",
+   "city": "West Los Angeles",
+   "miles": 18.0,
+   "title": "Car Alarm Installation for West Los Angeles | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-temple-city/",
+   "path": "/alarm/car-alarm-temple-city/",
+   "cityslug": "temple-city",
+   "city": "Temple City",
+   "miles": 22.7,
+   "title": "Car Alarm Installation for Temple City | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-yorba-linda/",
+   "path": "/alarm/car-alarm-yorba-linda/",
+   "cityslug": "yorba-linda",
+   "city": "Yorba Linda",
+   "miles": 26.3,
+   "title": "Car Alarm Installation for Yorba Linda | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-van-nuys/",
+   "path": "/alarm/car-alarm-van-nuys/",
+   "cityslug": "van-nuys",
+   "city": "Van Nuys",
+   "miles": 27.3,
+   "title": "Car Alarm Installation for Van Nuys | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-woodland-hills/",
+   "path": "/alarm/car-alarm-woodland-hills/",
+   "cityslug": "woodland-hills",
+   "city": "Woodland Hills",
+   "miles": 30.6,
+   "title": "Car Alarm Installation for Woodland Hills | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-south-gate/",
+   "path": "/alarm/car-alarm-south-gate/",
+   "cityslug": "south-gate",
+   "city": "South Gate",
+   "miles": 9.3,
+   "title": "Car Alarm Installation for South Gate | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-south-los-angeles/",
+   "path": "/alarm/car-alarm-south-los-angeles/",
+   "cityslug": "south-los-angeles",
+   "city": "South Los Angeles",
+   "miles": 11.0,
+   "title": "Car Alarm Installation for South Los Angeles | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-westchester/",
+   "path": "/alarm/car-alarm-westchester/",
+   "cityslug": "westchester",
+   "city": "Westchester",
+   "miles": 12.1,
+   "title": "Car Alarm Installation for Westchester | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-whittier/",
+   "path": "/alarm/car-alarm-whittier/",
+   "cityslug": "whittier",
+   "city": "Whittier",
+   "miles": 16.7,
+   "title": "Car Alarm Installation for Whittier | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-south-el-monte/",
+   "path": "/alarm/car-alarm-south-el-monte/",
+   "cityslug": "south-el-monte",
+   "city": "South El Monte",
+   "miles": 19.7,
+   "title": "Car Alarm Installation for South El Monte | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-tustin/",
+   "path": "/alarm/car-alarm-tustin/",
+   "cityslug": "tustin",
+   "city": "Tustin",
+   "miles": 25.8,
+   "title": "Car Alarm Installation for Tustin | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-tarzana/",
+   "path": "/alarm/car-alarm-tarzana/",
+   "cityslug": "tarzana",
+   "city": "Tarzana",
+   "miles": 29.0,
+   "title": "Car Alarm Installation for Tarzana | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-sylmar/",
+   "path": "/alarm/car-alarm-sylmar/",
+   "cityslug": "sylmar",
+   "city": "Sylmar",
+   "miles": 34.9,
+   "title": "Car Alarm Installation for Sylmar | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-walnut-park/",
+   "path": "/alarm/car-alarm-walnut-park/",
+   "cityslug": "walnut-park",
+   "city": "Walnut Park",
+   "miles": 9.7,
+   "title": "Car Alarm Installation for Walnut Park | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-seal-beach/",
+   "path": "/alarm/car-alarm-seal-beach/",
+   "cityslug": "seal-beach",
+   "city": "Seal Beach",
+   "miles": 10.9,
+   "title": "Car Alarm Installation for Seal Beach | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-view-park-windsor-hills/",
+   "path": "/alarm/car-alarm-view-park-windsor-hills/",
+   "cityslug": "view-park-windsor-hills",
+   "city": "View Park-Windsor Hills",
+   "miles": 12.3,
+   "title": "Car Alarm for View Park-Windsor Hills | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-villa-park/",
+   "path": "/alarm/car-alarm-villa-park/",
+   "cityslug": "villa-park",
+   "city": "Villa Park",
+   "miles": 26.0,
+   "title": "Car Alarm Installation for Villa Park | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-west-covina/",
+   "path": "/alarm/car-alarm-west-covina/",
+   "cityslug": "west-covina",
+   "city": "West Covina",
+   "miles": 31.0,
+   "title": "Car Alarm Installation for West Covina | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-willowbrook/",
+   "path": "/alarm/car-alarm-willowbrook/",
+   "cityslug": "willowbrook",
+   "city": "Willowbrook",
+   "miles": 6.0,
+   "title": "Car Alarm Installation for Willowbrook | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-westmont/",
+   "path": "/alarm/car-alarm-westmont/",
+   "cityslug": "westmont",
+   "city": "Westmont",
+   "miles": 8.2,
+   "title": "Car Alarm Installation for Westmont | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-venice/",
+   "path": "/alarm/car-alarm-venice/",
+   "cityslug": "venice",
+   "city": "Venice",
+   "miles": 15.9,
+   "title": "Car Alarm Installation for Venice | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-west-hollywood/",
+   "path": "/alarm/car-alarm-west-hollywood/",
+   "cityslug": "west-hollywood",
+   "city": "West Hollywood",
+   "miles": 18.8,
+   "title": "Car Alarm Installation for West Hollywood | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-sherman-oaks/",
+   "path": "/alarm/car-alarm-sherman-oaks/",
+   "cityslug": "sherman-oaks",
+   "city": "Sherman Oaks",
+   "miles": 24.7,
+   "title": "Car Alarm Installation for Sherman Oaks | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-winnetka/",
+   "path": "/alarm/car-alarm-winnetka/",
+   "cityslug": "winnetka",
+   "city": "Winnetka",
+   "miles": 31.5,
+   "title": "Car Alarm Installation for Winnetka | LA Car Alarm"
+  }
+ ],
+ "reuse_lines_involving_your_files": []
+}

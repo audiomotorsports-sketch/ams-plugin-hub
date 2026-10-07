@@ -1,0 +1,16 @@
+https://shop.audiomotorsports.com/ phone 200 console: 6 bad_links: 14 
+https://shop.audiomotorsports.com/ desktop 200 console: 6 bad_links: 15 
+https://shop.audiomotorsports.com/shop/ phone 200 console: 3 bad_links: 8 
+https://shop.audiomotorsports.com/shop/ desktop 200 console: 3 bad_links: 9 
+https://shop.audiomotorsports.com/shop/car-stereos/ phone 200 console: 3 bad_links: 10 
+https://shop.audiomotorsports.com/shop/car-stereos/ desktop 200 console: 3 bad_links: 12 
+https://shop.audiomotorsports.com/shop/car-stereos/retrofit/ phone 200 console: 3 bad_links: 3 
+https://shop.audiomotorsports.com/shop/car-stereos/retrofit/ desktop 200 console: 3 bad_links: 1 
+https://shop.audiomotorsports.com/shop/amplifiers/ phone 200 console: 5 bad_links: 7 
+https://shop.audiomotorsports.com/shop/amplifiers/ desktop 200 console: 3 bad_links: 5 
+https://shop.audiomotorsports.com/shop/dash-cameras/ phone 200 console: 3 bad_links: 15 
+https://shop.audiomotorsports.com/shop/dash-cameras/ desktop 200 console: 3 bad_links: 14 
+https://shop.audiomotorsports.com/shop/alarms-remote-start/ phone 200 console: 3 bad_links: 6 
+https://shop.audiomotorsports.com/shop/alarms-remote-start/ desktop 200 console: 3 bad_links: 5 
+https://shop.audiomotorsports.com/checkout/ phone 200 console: 4 bad_links: 0 
+https://shop.audiomotorsports.com/checkout/ desktop 200 console: 4 bad_links: 0 

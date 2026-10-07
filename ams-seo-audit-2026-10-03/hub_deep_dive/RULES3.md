@@ -1,0 +1,9 @@
+# Hub deep-dive rules (every agent)
+- READ-ONLY research for audiomotorsports.com (the hub, "bread and butter"). Never change, commit, push, deploy or delete anything: no site, no repo (including /home/user/ams-plugin-hub: read only, no git writes), no account. Do not post, submit forms, contact any business, or create accounts.
+- Write ONLY inside ~/ams-seo-audit-2026-10-03/hub_deep_dive/ (your own file names below). Use mktemp -d for scratch; no shared /tmp paths.
+- Standing owner rules: every page and every site stays live. NEVER recommend deleting, trimming, merging, consolidating, redirecting away, or noindexing any page or site. Fixes only IMPROVE pages. Nothing goes live without Zack and Tom reviewing it together tomorrow. Do not ask anyone to hand fixes to a developer.
+- Facts: only use what you fetched. Anything unverified (prices, times, distances, landmarks, certifications, review counts, sameAs URLs) is marked [CONFIRM]. Never invent. Never write prices unless they appear on the live site; cite the page.
+- Verified business facts you may use: Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745; (310) 513-8800; Mon-Sat 9:30-18:00. NOTE: "Avalon" is the real street name; never treat it as a placeholder city.
+- Environment: hosts other than the hub (www.audiomotorsports.com), shop.audiomotorsports.com, lacarstereo.com and teslatintla.com (apex) are mostly proxy-blocked: do not bypass; note as a limitation. Retry transient 502/reset up to 3 times. WebSearch/WebFetch may be used for public information; label anything from search snippets as such.
+- Prior work to read first (do not redo): ~/ams-seo-audit-2026-10-03/FIX_LIST.md, HUB_FIRST_PLAN.md, audiomotorsports.com/{AUDIT_REPORT,SCHEMA_REPORT,AIO_REPORT,AI_SEARCH_REPORT}.md and pages.csv.
+- Finish with a short summary: what you produced, key findings (evidence), what is [CONFIRM], and limits.

@@ -1,0 +1,426 @@
+[
+ {
+  "url": "https://shop.audiomotorsports.com/shop/car-stereos/",
+  "mobile": true,
+  "throttle": true,
+  "metrics": {
+   "lcp": {
+    "t": 2048,
+    "url": "",
+    "el": "P.",
+    "size": 31823
+   },
+   "cls": 0,
+   "longtasks": 8,
+   "lt_total_over50": 1387,
+   "lt_max": 1048,
+   "events": [],
+   "nbuttons_clicked": 0
+  },
+  "dom": {
+   "nodes": 2286,
+   "cards": 146,
+   "imgs": 153,
+   "lazy": 151,
+   "eager": 2,
+   "oversize": 42,
+   "maxnw": 2048,
+   "sample": [
+    {
+     "src": "https://shop.audiomotorsports.com/assets/img/logo/ams-coin-gold-144.png",
+     "nw": 72,
+     "cw": 58,
+     "lazy": "auto",
+     "w": "72",
+     "fp": null
+    },
+    {
+     "src": "https://shop.audiomotorsports.com/assets/img/products/kenwood-excelon-dmx809s/product.jpg",
+     "nw": 750,
+     "cw": 46,
+     "lazy": "auto",
+     "w": "750",
+     "fp": "high"
+    },
+    {
+     "src": "https://shop.audiomotorsports.com/assets/img/products/kenwood-excelon-dmx809s/product.jpg",
+     "nw": 750,
+     "cw": 143,
+     "lazy": "lazy",
+     "w": "750",
+     "fp": null
+    }
+   ],
+   "dpr": 2,
+   "sizes": [
+    "72/58",
+    "750/46",
+    "750/143",
+    "1000/143",
+    "1200/143",
+    "2048/117"
+   ],
+   "btnCount": 154
+  },
+  "img_requests": 43,
+  "img_bytes_kb": 7885,
+  "img_types": {
+   "image/webp": 4,
+   "image/jpeg": 32,
+   "image/png": 7
+  }
+ },
+ {
+  "url": "https://shop.audiomotorsports.com/shop/car-stereos/",
+  "mobile": true,
+  "throttle": false,
+  "metrics": {
+   "lcp": {
+    "t": 1320,
+    "url": "",
+    "el": "P.",
+    "size": 31823
+   },
+   "cls": 0.0,
+   "longtasks": 3,
+   "lt_total_over50": 345,
+   "lt_max": 302,
+   "events": [],
+   "nbuttons_clicked": 0
+  },
+  "dom": {
+   "nodes": 2286,
+   "cards": 146,
+   "imgs": 153,
+   "lazy": 151,
+   "eager": 2,
+   "oversize": 47,
+   "maxnw": 3000,
+   "sample": [
+    {
+     "src": "https://shop.audiomotorsports.com/assets/img/logo/ams-coin-gold-144.png",
+     "nw": 72,
+     "cw": 58,
+     "lazy": "auto",
+     "w": "72",
+     "fp": null
+    },
+    {
+     "src": "https://shop.audiomotorsports.com/assets/img/products/kenwood-excelon-dmx809s/product.jpg",
+     "nw": 750,
+     "cw": 46,
+     "lazy": "auto",
+     "w": "750",
+     "fp": "high"
+    },
+    {
+     "src": "https://shop.audiomotorsports.com/assets/img/products/kenwood-excelon-dmx809s/product.jpg",
+     "nw": 750,
+     "cw": 143,
+     "lazy": "lazy",
+     "w": "750",
+     "fp": null
+    }
+   ],
+   "dpr": 2,
+   "sizes": [
+    "72/58",
+    "750/46",
+    "750/143",
+    "1000/143",
+    "1200/143",
+    "2048/117"
+   ],
+   "btnCount": 154
+  },
+  "img_requests": 48,
+  "img_bytes_kb": 8332,
+  "img_types": {
+   "image/webp": 4,
+   "image/jpeg": 35,
+   "image/png": 9
+  }
+ },
+ {
+  "url": "https://shop.audiomotorsports.com/shop/car-stereos/",
+  "mobile": false,
+  "throttle": false,
+  "metrics": {
+   "lcp": {
+    "t": 11156,
+    "url": "",
+    "el": "P.",
+    "size": 40194
+   },
+   "cls": 0.0,
+   "longtasks": 4,
+   "lt_total_over50": 374,
+   "lt_max": 308,
+   "events": [],
+   "nbuttons_clicked": 0
+  },
+  "dom": {
+   "nodes": 2286,
+   "cards": 146,
+   "imgs": 153,
+   "lazy": 151,
+   "eager": 2,
+   "oversize": 40,
+   "maxnw": 3000,
+   "sample": [
+    {
+     "src": "https://shop.audiomotorsports.com/assets/img/logo/ams-coin-gold-144.png",
+     "nw": 72,
+     "cw": 58,
+     "lazy": "auto",
+     "w": "72",
+     "fp": null
+    },
+    {
+     "src": "https://shop.audiomotorsports.com/assets/img/products/kenwood-excelon-dmx809s/product.jpg",
+     "nw": 750,
+     "cw": 86,
+     "lazy": "auto",
+     "w": "750",
+     "fp": "high"
+    },
+    {
+     "src": "https://shop.audiomotorsports.com/assets/img/products/kenwood-excelon-dmx809s/product.jpg",
+     "nw": 750,
+     "cw": 247,
+     "lazy": "lazy",
+     "w": "750",
+     "fp": null
+    }
+   ],
+   "dpr": 1,
+   "sizes": [
+    "72/58",
+    "750/86",
+    "750/247",
+    "1000/247",
+    "1200/247",
+    "2048/157"
+   ],
+   "btnCount": 154
+  },
+  "img_requests": 49,
+  "img_bytes_kb": 4717,
+  "img_types": {
+   "image/jpeg": 29,
+   "image/webp": 12,
+   "image/png": 8
+  }
+ },
+ {
+  "url": "https://shop.audiomotorsports.com/shop/car-stereos/retrofit/",
+  "mobile": true,
+  "throttle": true,
+  "metrics": {
+   "lcp": {
+    "t": 2708,
+    "url": "",
+    "el": "P.",
+    "size": 25047
+   },
+   "cls": 0.0,
+   "longtasks": 11,
+   "lt_total_over50": 1413,
+   "lt_max": 760,
+   "events": [],
+   "nbuttons_clicked": 0
+  },
+  "dom": {
+   "nodes": 3644,
+   "cards": 125,
+   "imgs": 128,
+   "lazy": 88,
+   "eager": 40,
+   "oversize": 1,
+   "maxnw": 1200,
+   "sample": [
+    {
+     "src": "https://shop.audiomotorsports.com/assets/img/logo/ams-coin-gold-144.png",
+     "nw": 72,
+     "cw": 58,
+     "lazy": "auto",
+     "w": "72",
+     "fp": null
+    },
+    {
+     "src": "https://shop.audiomotorsports.com/assets/img/products/stinger-heigh10-2/product.jpg",
+     "nw": 1200,
+     "cw": 46,
+     "lazy": "auto",
+     "w": "1200",
+     "fp": "high"
+    },
+    {
+     "src": "https://shop.audiomotorsports.com/assets/img/products/stinger-horizon10/product-400.webp",
+     "nw": 175,
+     "cw": 117,
+     "lazy": "eager",
+     "w": "1200",
+     "fp": "high"
+    }
+   ],
+   "dpr": 2,
+   "sizes": [
+    "72/58",
+    "1200/46",
+    "175/117",
+    "0/117",
+    "0/0",
+    "72/72"
+   ],
+   "btnCount": 133
+  },
+  "img_requests": 44,
+  "img_bytes_kb": 1011,
+  "img_types": {
+   "image/webp": 41,
+   "image/jpeg": 1,
+   "image/png": 2
+  }
+ },
+ {
+  "url": "https://shop.audiomotorsports.com/shop/car-stereos/retrofit/",
+  "mobile": true,
+  "throttle": false,
+  "metrics": {
+   "lcp": {
+    "t": 1264,
+    "url": "",
+    "el": "P.",
+    "size": 26700
+   },
+   "cls": 0.0,
+   "longtasks": 2,
+   "lt_total_over50": 148,
+   "lt_max": 197,
+   "events": [],
+   "nbuttons_clicked": 0
+  },
+  "dom": {
+   "nodes": 3644,
+   "cards": 125,
+   "imgs": 128,
+   "lazy": 88,
+   "eager": 40,
+   "oversize": 1,
+   "maxnw": 1200,
+   "sample": [
+    {
+     "src": "https://shop.audiomotorsports.com/assets/img/logo/ams-coin-gold-144.png",
+     "nw": 72,
+     "cw": 58,
+     "lazy": "auto",
+     "w": "72",
+     "fp": null
+    },
+    {
+     "src": "https://shop.audiomotorsports.com/assets/img/products/stinger-heigh10-2/product.jpg",
+     "nw": 1200,
+     "cw": 46,
+     "lazy": "auto",
+     "w": "1200",
+     "fp": "high"
+    },
+    {
+     "src": "https://shop.audiomotorsports.com/assets/img/products/stinger-horizon10/product-400.webp",
+     "nw": 175,
+     "cw": 117,
+     "lazy": "eager",
+     "w": "1200",
+     "fp": "high"
+    }
+   ],
+   "dpr": 2,
+   "sizes": [
+    "72/58",
+    "1200/46",
+    "175/117",
+    "0/117",
+    "72/72"
+   ],
+   "btnCount": 133
+  },
+  "img_requests": 46,
+  "img_bytes_kb": 1028,
+  "img_types": {
+   "image/webp": 43,
+   "image/jpeg": 1,
+   "image/png": 2
+  }
+ },
+ {
+  "url": "https://shop.audiomotorsports.com/shop/car-stereos/retrofit/",
+  "mobile": false,
+  "throttle": false,
+  "metrics": {
+   "lcp": {
+    "t": 1100,
+    "url": "",
+    "el": "P.",
+    "size": 25502
+   },
+   "cls": 0.0,
+   "longtasks": 1,
+   "lt_total_over50": 208,
+   "lt_max": 258,
+   "events": [],
+   "nbuttons_clicked": 0
+  },
+  "dom": {
+   "nodes": 3644,
+   "cards": 125,
+   "imgs": 128,
+   "lazy": 88,
+   "eager": 40,
+   "oversize": 1,
+   "maxnw": 1200,
+   "sample": [
+    {
+     "src": "https://shop.audiomotorsports.com/assets/img/logo/ams-coin-gold-144.png",
+     "nw": 72,
+     "cw": 58,
+     "lazy": "auto",
+     "w": "72",
+     "fp": null
+    },
+    {
+     "src": "https://shop.audiomotorsports.com/assets/img/products/stinger-heigh10-2/product.jpg",
+     "nw": 1200,
+     "cw": 86,
+     "lazy": "auto",
+     "w": "1200",
+     "fp": "high"
+    },
+    {
+     "src": "https://shop.audiomotorsports.com/assets/img/products/stinger-horizon10/product-400.webp",
+     "nw": 260,
+     "cw": 157,
+     "lazy": "eager",
+     "w": "1200",
+     "fp": "high"
+    }
+   ],
+   "dpr": 1,
+   "sizes": [
+    "72/58",
+    "1200/86",
+    "260/157",
+    "0/157",
+    "72/72"
+   ],
+   "btnCount": 133
+  },
+  "img_requests": 60,
+  "img_bytes_kb": 1410,
+  "img_types": {
+   "image/jpeg": 1,
+   "image/webp": 57,
+   "image/png": 2
+  }
+ }
+]

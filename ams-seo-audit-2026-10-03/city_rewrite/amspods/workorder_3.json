@@ -1,0 +1,152 @@
+{
+ "site": "amspods",
+ "fix_files": {
+  "rolling-hills-estates.md": "meta length 166",
+  "rolling-hills.md": "meta length 164; FAQ questions in schema != visible headings",
+  "sierra-madre.md": "meta length 175; FAQ questions in schema != visible headings",
+  "south-pasadena.md": "meta length 162; FAQ questions in schema != visible headings",
+  "stanton.md": "meta length 171; FAQ questions in schema != visible headings",
+  "studio-city.md": "title length 68; meta length 174; FAQ questions in schema != visible headings",
+  "torrance.md": "meta length 167",
+  "walnut.md": "meta length 176; FAQ questions in schema != visible headings"
+ },
+ "write_missing": [
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-west-carson/",
+   "path": "/amspods/bagger-audio-west-carson/",
+   "cityslug": "west-carson",
+   "city": "West Carson",
+   "miles": 1.8,
+   "title": "Harley Bagger Audio West Carson | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-san-pedro/",
+   "path": "/amspods/bagger-audio-san-pedro/",
+   "cityslug": "san-pedro",
+   "city": "San Pedro",
+   "miles": 6.5,
+   "title": "Harley Bagger Audio San Pedro | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-tustin/",
+   "path": "/amspods/bagger-audio-tustin/",
+   "cityslug": "tustin",
+   "city": "Tustin",
+   "miles": 25.8,
+   "title": "Harley Bagger Audio Tustin | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-yorba-linda/",
+   "path": "/amspods/bagger-audio-yorba-linda/",
+   "cityslug": "yorba-linda",
+   "city": "Yorba Linda",
+   "miles": 26.3,
+   "title": "Harley Bagger Audio Yorba Linda | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-reseda/",
+   "path": "/amspods/bagger-audio-reseda/",
+   "cityslug": "reseda",
+   "city": "Reseda",
+   "miles": 30.1,
+   "title": "Harley Bagger Audio Reseda | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-south-gate/",
+   "path": "/amspods/bagger-audio-south-gate/",
+   "cityslug": "south-gate",
+   "city": "South Gate",
+   "miles": 9.3,
+   "title": "Harley Bagger Audio South Gate | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-temple-city/",
+   "path": "/amspods/bagger-audio-temple-city/",
+   "cityslug": "temple-city",
+   "city": "Temple City",
+   "miles": 22.7,
+   "title": "Harley Bagger Audio Temple City | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-sherman-oaks/",
+   "path": "/amspods/bagger-audio-sherman-oaks/",
+   "cityslug": "sherman-oaks",
+   "city": "Sherman Oaks",
+   "miles": 24.7,
+   "title": "Harley Bagger Audio Sherman Oaks | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-villa-park/",
+   "path": "/amspods/bagger-audio-villa-park/",
+   "cityslug": "villa-park",
+   "city": "Villa Park",
+   "miles": 26.0,
+   "title": "Harley Bagger Audio Villa Park | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-van-nuys/",
+   "path": "/amspods/bagger-audio-van-nuys/",
+   "cityslug": "van-nuys",
+   "city": "Van Nuys",
+   "miles": 27.3,
+   "title": "Harley Bagger Audio Van Nuys | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-tarzana/",
+   "path": "/amspods/bagger-audio-tarzana/",
+   "cityslug": "tarzana",
+   "city": "Tarzana",
+   "miles": 29.0,
+   "title": "Harley Bagger Audio Tarzana | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-woodland-hills/",
+   "path": "/amspods/bagger-audio-woodland-hills/",
+   "cityslug": "woodland-hills",
+   "city": "Woodland Hills",
+   "miles": 30.6,
+   "title": "Harley Bagger Audio Woodland Hills | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-sylmar/",
+   "path": "/amspods/bagger-audio-sylmar/",
+   "cityslug": "sylmar",
+   "city": "Sylmar",
+   "miles": 34.9,
+   "title": "Harley Bagger Audio Sylmar | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-wilmington/",
+   "path": "/amspods/bagger-audio-wilmington/",
+   "cityslug": "wilmington",
+   "city": "Wilmington",
+   "miles": 3.3,
+   "title": "Harley Bagger Audio Wilmington | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-signal-hill/",
+   "path": "/amspods/bagger-audio-signal-hill/",
+   "cityslug": "signal-hill",
+   "city": "Signal Hill",
+   "miles": 5.8,
+   "title": "Harley Bagger Audio Signal Hill | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-westmont/",
+   "path": "/amspods/bagger-audio-westmont/",
+   "cityslug": "westmont",
+   "city": "Westmont",
+   "miles": 8.2,
+   "title": "Harley Bagger Audio Westmont | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-winnetka/",
+   "path": "/amspods/bagger-audio-winnetka/",
+   "cityslug": "winnetka",
+   "city": "Winnetka",
+   "miles": 31.5,
+   "title": "Harley Bagger Audio Winnetka | AMS Pods"
+  }
+ ],
+ "reuse_lines_involving_your_files": []
+}
