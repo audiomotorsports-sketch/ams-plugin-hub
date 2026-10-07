@@ -4,7 +4,7 @@ city: Compton
 miles: 5.4
 lead_service: speaker replacement
 title: Compton Speaker Replacement & Car Audio | LA Car Beats
-meta: Speaker replacement, car stereo installation and subwoofer upgrades for Compton at LA Car Beats by Audio MotorSports in Carson. Call (310) 513-8800 to book.
+meta: Speaker replacement, car stereo installation and subwoofer upgrades for Compton at LA Car Beats by Audio MotorSports in Carson. Call (213) 429-1092 to book.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Speaker Replacement and Car Audio Installation for Compton
@@ -26,6 +26,9 @@ Compton drivers who are tired of blown or muddy factory speakers bring the car t
 ## Drive from Compton to the shop
 
 From Compton it is about 5.4 miles to our bay in Carson, roughly 11 to 13 minutes outside rush hour (approx). Make an appointment, then choose to drop the car off or wait in the shop while the speakers go in. Customers come to us from Temecula and San Diego for this work, so Compton is a short run. Open Monday through Saturday 9:30 to 6:00, Sunday closed.
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Compton customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. The shop is LGBTQ-friendly and everyone from Compton is welcome, as our Google and Yelp listings state. From Compton you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd. Compton customers include Metro operators and rail-yard and port workers who book around shift changes.
 
 ## Questions from Compton drivers
 
@@ -51,7 +54,7 @@ Yes. Apple CarPlay and Android Auto installation works in most cars from the las
 
 ## What Compton customers pay
 
-The one price we publish is the Dual Kicker Comp loaded box at $249, box only, as of October 2026. Speaker replacement, amplifier installation, head unit installation and CarPlay work are quoted at the shop after we see the car, with a payment plan available, ask Nick. Reviews: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. The same bay also handles window tint, car alarm installation, remote start installation, GPS tracker installation and dash camera installation.
+The one price we publish is the Dual Kicker Comp loaded box at $249, box only, as of October 2026. Speaker replacement, amplifier installation, head unit installation and CarPlay work are quoted at the shop after we see the car, with a payment plan available, ask Nick. Reviews: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. The same bay also handles window tint, car alarm installation, remote start installation, GPS tracker installation and dash camera installation.
 
 ## Also serving cities around Compton
 
@@ -65,7 +68,7 @@ More LA Car Beats city pages close to Compton:
 
 ## Schedule speaker replacement
 
-Text (213) 429-1092 or call (310) 513-8800 with your year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday-Saturday 9:30-18:00, closed Sunday.
+Text (213) 429-1092 or call (213) 429-1092 with your year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday-Saturday 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -76,7 +79,7 @@ Text (213) 429-1092 or call (310) 513-8800 with your year, make and model. Audio
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-compton/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-compton/",
    "name": "Compton Speaker Replacement & Car Audio | LA Car Beats",
-   "description": "Speaker replacement, car stereo installation and subwoofer upgrades for Compton at LA Car Beats by Audio MotorSports in Carson. Call (310) 513-8800 to book.",
+   "description": "Speaker replacement, car stereo installation and subwoofer upgrades for Compton at LA Car Beats by Audio MotorSports in Carson. Call (213) 429-1092 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

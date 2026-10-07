@@ -1,62 +1,71 @@
 ---
-url: https://www.audiomotorsports.com/bellflower/
+url: https://www.audiomotorsports.com/amspods/bagger-audio-bellflower/
 city: Bellflower
 miles: 9.3
-lead_service: car audio/stereo
-title: Car Stereo Installation for Bellflower | Audio MotorSports
-meta: Car stereo installation, subwoofers, amplifiers, window tint and alarms for Bellflower drivers at Audio MotorSports in Carson, 9.3 miles. Call (310) 513-8800.
+lead_service: speaker replacement for blown stock speakers
+title: Harley Bagger Audio Bellflower | AMS Pods
+meta: Blown Harley speakers? Speaker replacement, amplifier installation and AMS pods for Bellflower riders at Audio MotorSports in Carson. Call (213) 429-1092.
+source: hub-mounted copy; standalone www host not verified
 ---
-# Car Stereo Installation for Bellflower Drivers
+# Speaker Replacement and Bagger Audio for Bellflower Riders
 
-Car stereo installation is the number one reason Bellflower drivers make the 9.3-mile trip to Audio MotorSports at 22025 S Avalon Blvd Ste A in Carson. Head units, speakers, subwoofers and amplifiers go in with clean wiring and the factory features intact, and the same bay handles window tint, car alarms, remote start, CarPlay, GPS tracking, dash cameras and Tesla tint for Bellflower.
+When the factory speakers on a Street Glide, Road Glide or Road King start crackling at the first stoplight, Bellflower riders bring the bike about 9.3 miles to AMS Pods at Audio MotorSports, 22025 S Avalon Blvd Ste A in Carson. The fix is a proper speaker replacement with an amplifier behind it, and lower-fairing pods when you want more than the fairing alone can give.
 
-## What Bellflower drivers bring us
+## What Bellflower riders bring us
 
-**Car stereo installation and head unit installation.** Pioneer and Kenwood decks with Apple CarPlay and Android Auto, installed with the correct dash kit and harness so the backup camera and steering-wheel buttons carry over.
+**Speaker replacement in the fairing.** Blown stock cones come out and Hertz Neo motorcycle speakers go in. They are weatherproof, they take the volume a factory radio was never meant to push, and they get matched to the amplifier so the new set does not fail the same way.
 
-**Subwoofer installation and amplifier installation.** Fused power at the battery, remote turn-on wired right, and the box strapped so it does not become a projectile. From a Dual Kicker Comp box for a daily driver to a dedicated amplifier and sub enclosure for someone who wants real output. We set gains with a meter, not by ear.
+**Amplifier installation.** A speaker that keeps blowing is usually starved for clean power and driven into distortion. The shop fits a fairing amp with a tank pull on the Glides, and a bag amp with an AMS quick disconnect on a Road King.
 
-**Speaker replacement.** Factory paper cones replaced with Focal, Hertz or Kicker, sized to the door and wired to the existing harness.
+**AMS lower-fairing pods.** Built in Carson in chrome or gloss, bracket and screws included, bolted to the crash bar at an angle toward the rider so the music is not fighting the wind.
 
-**Car window tint.** Solar or Solar Ceramic, hand-cut on the glass, four doors and back glass.
+**Bag-lid bass.** Cut lids with concave drilling, carpeted spacers, inverted speakers and soldered quick disconnects, for low end that still works with the bags off.
 
-**Car alarm installation and remote start installation.** Viper and Compustar wired into the car so nothing hangs under the dash, plus GPS tracker installation when you want to see the car on a map.
+Audio MotorSports also installs window tint, car stereos, Apple CarPlay and Android Auto, car alarms, remote start, GPS trackers and dash cameras under the same roof.
 
-## Bellflower to the shop
+## From Bellflower to the shop
 
-Bellflower is about 9.3 miles out, roughly 19 to 22 minutes outside rush hour (approx). Call or text to schedule, then either drop the car and get on with your day or wait in the shop while we work. Hours are Mon-Sat 9:30-18:00, closed Sunday. People drive to this bay from over 100 miles away for stereo work, so Bellflower is a short one. Ratings as of October 2026: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews). [SHOP NOTE: 2-3 sentences from Nick about Bellflower customers, routes or jobs]
+Bellflower is about 9.3 miles out, roughly 19 to 22 minutes outside rush hour (approx), sharing the same roads Lakewood riders use to get in. Book a slot, ride over, and leave the bagger or wait at the shop while the speakers go in. Monday through Saturday 9:30 AM to 6:00 PM, Sunday closed. Bikes come here from Temecula for a speaker job; from Bellflower it is a short ride with a loud result. [SHOP NOTE: 2-3 sentences from Nick about Bellflower riders, routes or jobs]
 
-### Why do Bellflower drivers come to Carson for car stereo installation?
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Bellflower job is finished. Bellflower customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Bellflower traffic sends you.
 
-Because the install is the product. A head unit is only as good as the harness work behind it, and a rushed job leaves rattles, a dead camera and buttons that stop working. Here one tech does the whole car, confirms the parts on your year, make and model first, and tests everything before you leave.
+## Questions Bellflower riders ask
 
-### How much is a Kicker sub box and what else do I need?
+### Why did my stock Harley speakers blow in the first place?
 
-A Dual Kicker Comp loaded box is $249 box only as of October 2026. To run it you need an amplifier, a wiring kit and, on a factory stereo, a line-output converter; those are quoted on the car at the shop. Bring the vehicle and we price the whole package in one line.
+Factory speakers are small paper cones fed by a radio with limited clean output. Turn it up to beat wind noise and the radio clips, which cooks the voice coil. Replacing the speakers without adding an amplifier repeats the problem, so the shop quotes the two together.
 
-### Can I keep my factory stereo and just get an amplifier installation?
+### Can a Bellflower rider get just the speakers replaced and nothing else?
 
-Yes. A small amplifier can take the factory speaker outputs through a converter and drive better speakers or a sub without changing the dash. It keeps the stock look and the factory Bluetooth while adding power and clarity. Many Bellflower trucks go this route.
+Yes, the shop will do a straight fairing speaker replacement if that is what you want. Nick will still show you what the amplifier changes, because a new set driven by a clipping factory radio will not last long. The decision is yours once you have heard both.
 
-### Do you install customer-supplied head units?
+### Which speakers go into the fairing and the pods?
 
-We do, as long as the unit is new and the correct dash kit and harness are available for the vehicle. Labor and the integration parts are quoted at the shop. If the unit turns out to be defective, the install labor still applies, so buying through us comes with less risk.
+Hertz Neo motorcycle speakers are the shop's standard choice for both spots. The compact neodymium magnet fits the fairing, the build is weatherproof, and they stay clean when loud. Other options can be quoted, but this is the pairing riders leave with most often.
 
-### Can I add window tint to the same visit as a stereo install?
+### Will the replacement speakers rattle the fairing?
 
-Absolutely, and it is the most common combination from Bellflower. Solar tint is $249 and Solar Ceramic is $329 installed as of October 2026. Schedule both at once, drop the car in the morning, and pick it up with the new deck playing and the film on.
+Not when they are installed right. The speaker rings are seated flat, the leads are soldered rather than left on loose crimps, and the fairing is closed and checked at volume with the engine running. A rattle after an install means a step was skipped.
+
+### How long will a Bellflower rider be without the bike for a speaker and amp job?
+
+Usually a day. Speaker replacement and an amplifier install on a Street Glide or Road Glide fit in one appointment, and a Road King bag amp is similar. If pods are added they need about three weeks to build first, so order those before the ride in.
 
 ## Prices as of October 2026
 
-Dual Kicker Comp box $249 box only. Window tint Solar $249, Solar Ceramic $329 installed. Viper 3108V alarm $269 installed. Head units, speakers and amplifiers are quoted on the vehicle. Payment plan available, ask Nick.
+- AMS lower-fairing pods: from $649 a pair, chrome or gloss, bracket and screws included, as of October 2026.
+- Fairing speaker replacement, amplifier installation, head units and cut bag lids are quoted at the shop once Nick has the bike in the bay. Payment plan available, ask Nick.
 
-## Nearby cities we also serve
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
-[Lakewood](/lakewood/) · [Paramount](/paramount/) · [Downey](/downey/) · [Cerritos](/cerritos/) · [Norwalk](/norwalk/)
+## Nearby cities
 
-## Book a Bellflower install
+Riders also come over from [Lakewood](/amspods/bagger-audio-lakewood/), [Paramount](/amspods/bagger-audio-paramount/), [South Gate](/amspods/bagger-audio-south-gate/) and [Long Beach](/amspods/bagger-audio-long-beach/).
 
-Call (310) 513-8800 or text (213) 429-1092 with your year, make and model. 22025 S Avalon Blvd Ste A, Carson, CA 90745 is the shop. Mon-Sat 9:30-18:00, Sunday closed.
+## Book a speaker replacement
+
+Call (213) 429-1092 or text (213) 429-1092 and say which speakers have gone and what bike they are in. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -64,10 +73,10 @@ Call (310) 513-8800 or text (213) 429-1092 with your year, make and model. 22025
  "@graph": [
   {
    "@type": "WebPage",
-   "@id": "https://www.audiomotorsports.com/bellflower/#webpage",
-   "url": "https://www.audiomotorsports.com/bellflower/",
-   "name": "Car Stereo Installation for Bellflower | Audio MotorSports",
-   "description": "Car stereo installation, subwoofers, amplifiers, window tint and alarms for Bellflower drivers at Audio MotorSports in Carson, 9.3 miles. Call (310) 513-8800.",
+   "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-bellflower/#webpage",
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-bellflower/",
+   "name": "Harley Bagger Audio Bellflower | AMS Pods",
+   "description": "Blown Harley speakers? Speaker replacement, amplifier installation and AMS pods for Bellflower riders at Audio MotorSports in Carson. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -75,7 +84,7 @@ Call (310) 513-8800 or text (213) 429-1092 with your year, make and model. 22025
   },
   {
    "@type": "BreadcrumbList",
-   "@id": "https://www.audiomotorsports.com/bellflower/#breadcrumb",
+   "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-bellflower/#breadcrumb",
    "itemListElement": [
     {
      "@type": "ListItem",
@@ -87,58 +96,58 @@ Call (310) 513-8800 or text (213) 429-1092 with your year, make and model. 22025
      "@type": "ListItem",
      "position": 2,
      "name": "Locations",
-     "item": "https://www.audiomotorsports.com/amspods/"
+     "item": "https://www.audiomotorsports.com/locations/"
     },
     {
      "@type": "ListItem",
      "position": 3,
      "name": "Bellflower",
-     "item": "https://www.audiomotorsports.com/bellflower/"
+     "item": "https://www.audiomotorsports.com/amspods/bagger-audio-bellflower/"
     }
    ]
   },
   {
    "@type": "FAQPage",
-   "@id": "https://www.audiomotorsports.com/bellflower/#faq",
+   "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-bellflower/#faq",
    "mainEntity": [
     {
      "@type": "Question",
-     "name": "Why do Bellflower drivers come to Carson for car stereo installation?",
+     "name": "Why did my stock Harley speakers blow in the first place?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Because the install is the product. A head unit is only as good as the harness work behind it, and a rushed job leaves rattles, a dead camera and buttons that stop working. Here one tech does the whole car, confirms the parts on your year, make and model first, and tests everything before you leave."
+      "text": "Factory speakers are small paper cones fed by a radio with limited clean output. Turn it up to beat wind noise and the radio clips, which cooks the voice coil. Replacing the speakers without adding an amplifier repeats the problem, so the shop quotes the two together."
      }
     },
     {
      "@type": "Question",
-     "name": "How much is a Kicker sub box and what else do I need?",
+     "name": "Can a Bellflower rider get just the speakers replaced and nothing else?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "A Dual Kicker Comp loaded box is $249 box only as of October 2026. To run it you need an amplifier, a wiring kit and, on a factory stereo, a line-output converter; those are quoted on the car at the shop. Bring the vehicle and we price the whole package in one line."
+      "text": "Yes, the shop will do a straight fairing speaker replacement if that is what you want. Nick will still show you what the amplifier changes, because a new set driven by a clipping factory radio will not last long. The decision is yours once you have heard both."
      }
     },
     {
      "@type": "Question",
-     "name": "Can I keep my factory stereo and just get an amplifier installation?",
+     "name": "Which speakers go into the fairing and the pods?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. A small amplifier can take the factory speaker outputs through a converter and drive better speakers or a sub without changing the dash. It keeps the stock look and the factory Bluetooth while adding power and clarity. Many Bellflower trucks go this route."
+      "text": "Hertz Neo motorcycle speakers are the shop's standard choice for both spots. The compact neodymium magnet fits the fairing, the build is weatherproof, and they stay clean when loud. Other options can be quoted, but this is the pairing riders leave with most often."
      }
     },
     {
      "@type": "Question",
-     "name": "Do you install customer-supplied head units?",
+     "name": "Will the replacement speakers rattle the fairing?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "We do, as long as the unit is new and the correct dash kit and harness are available for the vehicle. Labor and the integration parts are quoted at the shop. If the unit turns out to be defective, the install labor still applies, so buying through us comes with less risk."
+      "text": "Not when they are installed right. The speaker rings are seated flat, the leads are soldered rather than left on loose crimps, and the fairing is closed and checked at volume with the engine running. A rattle after an install means a step was skipped."
      }
     },
     {
      "@type": "Question",
-     "name": "Can I add window tint to the same visit as a stereo install?",
+     "name": "How long will a Bellflower rider be without the bike for a speaker and amp job?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Absolutely, and it is the most common combination from Bellflower. Solar tint is $249 and Solar Ceramic is $329 installed as of October 2026. Schedule both at once, drop the car in the morning, and pick it up with the new deck playing and the film on."
+      "text": "Usually a day. Speaker replacement and an amplifier install on a Street Glide or Road Glide fit in one appointment, and a Road King bag amp is similar. If pods are added they need about three weeks to build first, so order those before the ride in."
      }
     }
    ]
@@ -147,5 +156,6 @@ Call (310) 513-8800 or text (213) 429-1092 with your year, make and model. 22025
 }
 ```
 [CONFIRM]
-- SHOP NOTE slot in the route block (Nick: Bellflower customers, routes or jobs).
-- Drive time: 19-22 minutes computed at 25-30 mph from the 9.3-mile figure.
+- SHOP NOTE slot in the ride-in section needs 2-3 sentences from Nick about Bellflower riders.
+- Drive time 19 to 22 minutes from Bellflower is computed at 25-30 mph from the 9.3-mile figure; confirm.
+- The Lakewood-traffic mention comes from the live Bellflower page; confirm it should stay.

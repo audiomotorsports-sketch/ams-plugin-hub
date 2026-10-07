@@ -4,7 +4,7 @@ city: Van Nuys
 miles: 27.3
 lead_service: First Harley bagger audio upgrade
 title: Van Nuys First Harley Bagger Audio Upgrade | AMS Pods
-meta: First bagger audio upgrade for Van Nuys Harley riders: speaker and amplifier installation plus AMS lower-fairing pods in Carson. Call (310) 513-8800.
+meta: First bagger audio upgrade for Van Nuys Harley riders: speaker and amplifier installation plus AMS lower-fairing pods in Carson. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # A First Bagger Audio Upgrade for Van Nuys Harley Riders
@@ -26,6 +26,9 @@ Audio MotorSports also installs car stereos, Apple CarPlay and Android Auto, cer
 ## Van Nuys to the shop
 
 Van Nuys to Carson is 27.3 miles, about 55 to 66 minutes when traffic is light (approx). Book it, ride or trailer in, then drop the bike or wait at the shop for the quicker jobs. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed. Riders travel in from over 100 miles for this, so the Valley is well within range.
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Van Nuys drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Van Nuys traffic sends you.
 
 ## Van Nuys riders ask
 
@@ -54,7 +57,7 @@ Yes. Staging is the normal way to do a first upgrade, and a payment plan is avai
 - AMS pods from $649 a pair, chrome or gloss, as of October 2026, bracket and hardware included.
 - Fairing speakers, the amplifier install, a new radio and bag-lid bass are each quoted on the bike before that stage begins. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby cities
 
@@ -62,7 +65,7 @@ Other AMS Pods pages nearby: [Sherman Oaks](/amspods/bagger-audio-sherman-oaks/)
 
 ## Book from Van Nuys
 
-(310) 513-8800 voice, (213) 429-1092 text. 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+(213) 429-1092 voice, (213) 429-1092 text. 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -73,7 +76,7 @@ Other AMS Pods pages nearby: [Sherman Oaks](/amspods/bagger-audio-sherman-oaks/)
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-van-nuys/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-van-nuys/",
    "name": "Van Nuys First Harley Bagger Audio Upgrade | AMS Pods",
-   "description": "First bagger audio upgrade for Van Nuys Harley riders: speaker and amplifier installation plus AMS lower-fairing pods in Carson. Call (310) 513-8800.",
+   "description": "First bagger audio upgrade for Van Nuys Harley riders: speaker and amplifier installation plus AMS lower-fairing pods in Carson. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

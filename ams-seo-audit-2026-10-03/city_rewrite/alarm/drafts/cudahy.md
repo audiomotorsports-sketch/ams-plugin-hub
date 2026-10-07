@@ -5,7 +5,7 @@ city: Cudahy
 miles: 10.0
 lead_service: dash camera installation
 title: Dash Camera & Car Alarm Installation, Cudahy | LA Car Alarm
-meta: Dash camera installation, Viper car alarms and GPS trackers for Cudahy drivers at LA Car Alarm by Audio MotorSports in Carson, 10 miles away. Call (310) 513-8800.
+meta: Dash camera installation, Viper car alarms and GPS trackers for Cudahy drivers at LA Car Alarm by Audio MotorSports in Carson, 10 miles away. Call (213) 429-1092.
 ---
 # Dash Camera Installation and Car Alarms for Cudahy
 
@@ -23,6 +23,9 @@ Ten miles from Cudahy, LA Car Alarm by Audio MotorSports at 22025 S Avalon Blvd 
 
 Car window tint, car stereo installation, Apple CarPlay and Android Auto, subwoofer installation and Harley bagger audio are all done by the same shop if you want one trip.
 
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Cudahy job is finished. The shop is LGBTQ-friendly and everyone from Cudahy is welcome, as our Google and Yelp listings state. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Cudahy.
+
 ## Cudahy to the shop
 
 The 10 miles take about 20 to 24 minutes outside rush hour (approx). Call or text for an appointment, then drop the car or wait at the shop while the camera is wired. Mon-Sat 9:30-18:00, Sunday closed. [SHOP NOTE: 2-3 sentences from Nick about Cudahy customers, routes or jobs]
@@ -37,7 +40,7 @@ Yes. The cutoff voltage is set for your specific battery so the camera shuts dow
 
 ### Can a Viper alarm be bypassed by pulling fuses?
 
-Not as we install it. The module is not at the fuse box, the siren has its own protected feed, and the starter interrupt is in the ignition circuit. Pulling every fuse leaves a car that still does not crank. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Not as we install it. The module is not at the fuse box, the siren has its own protected feed, and the starter interrupt is in the ignition circuit. Pulling every fuse leaves a car that still does not crank. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ### How much does a car alarm installation cost for a Cudahy driver?
 
@@ -57,7 +60,7 @@ Viper 3108V alarm $269 installed. Compustar 9910 remote start from $499. Dash ca
 
 ## Book a Cudahy dash cam install
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -122,7 +125,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. LA Car
      "name": "Can a Viper alarm be bypassed by pulling fuses?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Not as we install it. The module is not at the fuse box, the siren has its own protected feed, and the starter interrupt is in the ignition circuit. Pulling every fuse leaves a car that still does not crank. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026."
+      "text": "Not as we install it. The module is not at the fuse box, the siren has its own protected feed, and the starter interrupt is in the ignition circuit. Pulling every fuse leaves a car that still does not crank. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026."
      }
     },
     {

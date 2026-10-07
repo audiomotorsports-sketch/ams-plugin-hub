@@ -6,7 +6,7 @@ lead_service: speaker replacement
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: West Los Angeles Speaker Replacement | LA Car Beats
-meta: Speaker replacement and amplifier installation for West Los Angeles drivers at LA Car Beats by Audio MotorSports in Carson, 18 miles. Call (310) 513-8800.
+meta: Speaker replacement and amplifier installation for West Los Angeles drivers at LA Car Beats by Audio MotorSports in Carson, 18 miles. Call (213) 429-1092.
 ---
 # Speaker Replacement for West Los Angeles Drivers
 
@@ -22,7 +22,10 @@ West Los Angeles drivers who are tired of flat, buzzing factory speakers get spe
 
 ## West Los Angeles to Carson
 
-West Los Angeles is about 18 miles from the shop, roughly 36 to 43 minutes outside rush hour (approx). Hours are Monday through Saturday 9:30 to 6:00; the shop is closed Sunday. Call (310) 513-8800 or text (213) 429-1092 to set an appointment. Front speakers alone can be waited on; four doors plus an amplifier is a morning drop-off, and you can pick the car up finished in the afternoon. [SHOP NOTE: 2-3 sentences from Nick about West Los Angeles customers, routes or jobs]
+West Los Angeles is about 18 miles from the shop, roughly 36 to 43 minutes outside rush hour (approx). Hours are Monday through Saturday 9:30 to 6:00; the shop is closed Sunday. Call (213) 429-1092 or text (213) 429-1092 to set an appointment. Front speakers alone can be waited on; four doors plus an amplifier is a morning drop-off, and you can pick the car up finished in the afternoon. [SHOP NOTE: 2-3 sentences from Nick about West Los Angeles customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for West Los Angeles customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from West Los Angeles.
 
 ## West Los Angeles speaker questions
 
@@ -48,7 +51,7 @@ Yes, and it is the best time to do both. With the doors open for speaker replace
 
 ## West Los Angeles pricing
 
-Dual Kicker Comp loaded box, $249 box only, as of October 2026. Speaker replacement, amplifier installation, head unit installation, Apple CarPlay and Android Auto installation and subwoofer installation are quoted at the shop. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. The shop also handles window tint and ceramic window tint, Tesla window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation and Harley bagger audio with AMS pods.
+Dual Kicker Comp loaded box, $249 box only, as of October 2026. Speaker replacement, amplifier installation, head unit installation, Apple CarPlay and Android Auto installation and subwoofer installation are quoted at the shop. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. The shop also handles window tint and ceramic window tint, Tesla window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation and Harley bagger audio with AMS pods.
 
 ## Cities near West Los Angeles
 
@@ -61,7 +64,7 @@ Nearby car stereo installation pages:
 
 ## Schedule from West Los Angeles
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -73,7 +76,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "name": "West Los Angeles Speaker Replacement | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-west-los-angeles/",
    "dateModified": "2026-10-08",
-   "description": "Speaker replacement and amplifier installation for West Los Angeles drivers at LA Car Beats by Audio MotorSports in Carson, 18 miles. Call (310) 513-8800.",
+   "description": "Speaker replacement and amplifier installation for West Los Angeles drivers at LA Car Beats by Audio MotorSports in Carson, 18 miles. Call (213) 429-1092.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

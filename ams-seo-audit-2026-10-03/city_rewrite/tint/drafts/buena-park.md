@@ -4,7 +4,7 @@ city: Buena Park
 miles: 15.4
 lead_service: car window tint
 title: Car Window Tint Buena Park | LA Car Tint, Carson
-meta: Car window tint for Buena Park minivans, SUVs and sedans, Solar and ceramic film cut on the glass at Audio MotorSports, Carson, 15.4 miles. Call (310) 513-8800.
+meta: Car window tint for Buena Park minivans, SUVs and sedans, Solar and ceramic film cut on the glass at Audio MotorSports, Carson, 15.4 miles. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Window Tint for Buena Park Drivers, by Audio MotorSports, Carson
@@ -26,6 +26,9 @@ The drive is about 15.4 miles, around thirty-five minutes (approx) outside rush 
 
 [SHOP NOTE: 2-3 sentences from Nick about Buena Park customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+For a longer job from Buena Park, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. From Buena Park you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
+
 ## Buena Park drivers ask
 
 ### Can a minivan's sliding door windows be tinted without catching?
@@ -46,7 +49,7 @@ Yes. Dash camera installation is done in the same bay, with the power wire route
 
 ### Is Buena Park to Carson a reasonable drive for window tinting?
 
-About 15.4 miles and roughly thirty-five minutes outside rush hour, which is an easy morning. The install takes a few hours; wait at the shop or leave the vehicle and return. This bay holds Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+About 15.4 miles and roughly thirty-five minutes outside rush hour, which is an easy morning. The install takes a few hours; wait at the shop or leave the vehicle and return. This bay holds Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Prices, as of October 2026
 
@@ -62,7 +65,7 @@ Solar window tint $249 installed and Solar Ceramic $329 installed, as of October
 
 ## Book it
 
-Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
+Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
 
 ```json
 {
@@ -73,7 +76,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-buena-park/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-buena-park/",
    "name": "Car Window Tint Buena Park | LA Car Tint, Carson",
-   "description": "Car window tint for Buena Park minivans, SUVs and sedans, Solar and ceramic film cut on the glass at Audio MotorSports, Carson, 15.4 miles. Call (310) 513-8800.",
+   "description": "Car window tint for Buena Park minivans, SUVs and sedans, Solar and ceramic film cut on the glass at Audio MotorSports, Carson, 15.4 miles. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -145,7 +148,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "Is Buena Park to Carson a reasonable drive for window tinting?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "About 15.4 miles and roughly thirty-five minutes outside rush hour, which is an easy morning. The install takes a few hours; wait at the shop or leave the vehicle and return. This bay holds Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026."
+      "text": "About 15.4 miles and roughly thirty-five minutes outside rush hour, which is an easy morning. The install takes a few hours; wait at the shop or leave the vehicle and return. This bay holds Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026."
      }
     }
    ]

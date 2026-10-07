@@ -4,7 +4,7 @@ city: Newport Beach
 miles: 24.1
 lead_service: AMS pods install
 title: Newport Beach AMS Pods Install | Harley Bagger Audio, Carson
-meta: AMS lower-fairing pods installed and tuned on the bike for Newport Beach riders. Harley bagger audio by AMS Pods at Audio MotorSports, Carson. (310) 513-8800.
+meta: AMS lower-fairing pods installed and tuned on the bike for Newport Beach riders. Harley bagger audio by AMS Pods at Audio MotorSports, Carson. (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # AMS Pods Installed on Harley Baggers for Newport Beach Riders
@@ -26,6 +26,9 @@ Audio MotorSports installs car stereos, Apple CarPlay and Android Auto, window t
 ## Newport Beach to Carson
 
 From Newport Beach the ride is 24.1 miles, around 48 to 58 minutes outside rush hour (approx). Book first, ride up, and either leave the bike or wait at the shop while the pods are fitted. Hours are Mon-Sat 9:30-18:00, Sunday closed. [SHOP NOTE: 2-3 sentences from Nick about Newport Beach riders, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Newport Beach customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Coming from Newport Beach, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Pods questions from Newport Beach riders
 
@@ -54,7 +57,7 @@ Yes. The pod wiring is run so an amp drops in afterward. Plenty of riders start 
 - AMS lower-fairing pods from $649 a pair, as of October 2026, chrome or gloss, bracket and hardware included.
 - Pod speakers, amplifier installation and the rest of the system are quoted on the bike by Nick. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby cities
 
@@ -62,7 +65,7 @@ Pages for riders in [Costa Mesa](/amspods/bagger-audio-costa-mesa/), [Tustin](/a
 
 ## Order your pair
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -73,7 +76,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-newport-beach/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-newport-beach/",
    "name": "Newport Beach AMS Pods Install | Harley Bagger Audio, Carson",
-   "description": "AMS lower-fairing pods installed and tuned on the bike for Newport Beach riders. Harley bagger audio by AMS Pods at Audio MotorSports, Carson. (310) 513-8800.",
+   "description": "AMS lower-fairing pods installed and tuned on the bike for Newport Beach riders. Harley bagger audio by AMS Pods at Audio MotorSports, Carson. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

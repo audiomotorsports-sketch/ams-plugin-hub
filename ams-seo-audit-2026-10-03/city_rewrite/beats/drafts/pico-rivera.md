@@ -6,7 +6,7 @@ lead_service: subwoofer installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Pico Rivera Subwoofer Installation | LA Car Beats
-meta: Truck and SUV subwoofer installation and amplifier installation for Pico Rivera at LA Car Beats by Audio MotorSports, Carson, 14.2 miles. Call (310) 513-8800.
+meta: Truck and SUV subwoofer installation and amplifier installation for Pico Rivera at LA Car Beats by Audio MotorSports, Carson, 14.2 miles. Call (213) 429-1092.
 ---
 # Subwoofer Installation for Pico Rivera Trucks and Cars
 
@@ -22,7 +22,10 @@ Pico Rivera drivers who want bass in a truck, SUV or daily car bring it to LA Ca
 
 ## Pico Rivera to Carson
 
-Pico Rivera to the shop is about 14.2 miles, roughly 28 to 34 minutes outside rush hour (approx). We are open Monday through Saturday 9:30 to 6:00 and closed on Sunday. To book, call (310) 513-8800 or text (213) 429-1092. A sub and amp install with new wiring is a drop-off job; connecting a loaded box to an existing amp can be a wait. [SHOP NOTE: 2-3 sentences from Nick about Pico Rivera customers, routes or jobs]
+Pico Rivera to the shop is about 14.2 miles, roughly 28 to 34 minutes outside rush hour (approx). We are open Monday through Saturday 9:30 to 6:00 and closed on Sunday. To book, call (213) 429-1092 or text (213) 429-1092. A sub and amp install with new wiring is a drop-off job; connecting a loaded box to an existing amp can be a wait. [SHOP NOTE: 2-3 sentences from Nick about Pico Rivera customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Pico Rivera drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Pico Rivera.
 
 ## Pico Rivera subwoofer questions
 
@@ -48,7 +51,7 @@ The details that fail later: an unfused power wire, a ground that hums, a gain c
 
 ## Pico Rivera prices
 
-Dual Kicker Comp loaded box, $249, box only, as of October 2026. Everything else, including subwoofer installation on your specific truck or car, amplifier installation, head unit installation and speaker replacement, is priced at the shop once we see the vehicle. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Same roof for window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation, Tesla window tint and Harley bagger audio with AMS pods.
+Dual Kicker Comp loaded box, $249, box only, as of October 2026. Everything else, including subwoofer installation on your specific truck or car, amplifier installation, head unit installation and speaker replacement, is priced at the shop once we see the vehicle. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Same roof for window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation, Tesla window tint and Harley bagger audio with AMS pods.
 
 ## Pico Rivera neighbors
 
@@ -62,7 +65,7 @@ More car stereo installation pages nearby:
 
 ## Book your Pico Rivera sub install
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -74,7 +77,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "name": "Pico Rivera Subwoofer Installation | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-pico-rivera/",
    "dateModified": "2026-10-08",
-   "description": "Truck and SUV subwoofer installation and amplifier installation for Pico Rivera at LA Car Beats by Audio MotorSports, Carson, 14.2 miles. Call (310) 513-8800.",
+   "description": "Truck and SUV subwoofer installation and amplifier installation for Pico Rivera at LA Car Beats by Audio MotorSports, Carson, 14.2 miles. Call (213) 429-1092.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

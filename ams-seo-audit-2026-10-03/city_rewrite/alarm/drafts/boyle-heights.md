@@ -5,7 +5,7 @@ city: Boyle Heights
 miles: 14.3
 lead_service: street-parked cars
 title: Car Alarm Installation for Boyle Heights | LA Car Alarm
-meta: Car alarm installation for street-parked Boyle Heights cars at LA Car Alarm by Audio MotorSports in Carson. Viper, GPS, remote start. (310) 513-8800.
+meta: Car alarm installation for street-parked Boyle Heights cars at LA Car Alarm by Audio MotorSports in Carson. Viper, GPS, remote start. (213) 429-1092.
 ---
 # Car Alarm Installation for Street-Parked Boyle Heights Cars
 
@@ -22,6 +22,9 @@ A car that sleeps on the street in Boyle Heights needs more than a factory chirp
 **Compustar remote start installation.** Start it from the apartment window and come down to a cool car that stays secured until the key arrives.
 
 The same shop does car window tint, car stereo installation, Apple CarPlay and Android Auto, subwoofer installation and Harley bagger audio, if you want one trip to cover everything.
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Boyle Heights job is finished. Boyle Heights customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. From Boyle Heights you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## From Boyle Heights to the shop
 
@@ -41,7 +44,7 @@ The way we wire it, no. The siren has its own protected feed, the module is not 
 
 ### Is it really worth driving from Boyle Heights for a $269 alarm?
 
-Yes, because the $269 as of October 2026 buys the installation, not just the box. The wiring is what keeps the car on the curb. We have customers who drive in from well over a hundred miles for the same work. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Yes, because the $269 as of October 2026 buys the installation, not just the box. The wiring is what keeps the car on the curb. We have customers who drive in from well over a hundred miles for the same work. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ### Does GPS tracker installation need a monthly plan?
 
@@ -57,7 +60,7 @@ Viper 3108V alarm $269 installed. Compustar 9910 remote start from $499. Tracker
 
 ## Book a Boyle Heights alarm install
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -130,7 +133,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. LA Car
      "name": "Is it really worth driving from Boyle Heights for a $269 alarm?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes, because the $269 as of October 2026 buys the installation, not just the box. The wiring is what keeps the car on the curb. We have customers who drive in from well over a hundred miles for the same work. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026."
+      "text": "Yes, because the $269 as of October 2026 buys the installation, not just the box. The wiring is what keeps the car on the curb. We have customers who drive in from well over a hundred miles for the same work. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026."
      }
     },
     {

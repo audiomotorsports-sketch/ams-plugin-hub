@@ -1,6 +1,6 @@
 {
  "site": "amspods",
- "out_dir": "amspods/drafts_pending",
+ "out_dir": "amspods/drafts",
  "fix_files": {},
  "write_missing": [
   {

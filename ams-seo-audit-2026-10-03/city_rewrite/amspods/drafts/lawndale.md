@@ -4,7 +4,7 @@ city: Lawndale
 miles: 6.5
 lead_service: Harley bagger audio wiring inside the fairing
 title: Lawndale Harley Bagger Fairing Wiring & AMS Pods | Carson
-meta: Fairing wiring, AMS lower-fairing pods and amp installation for Lawndale riders. Harley bagger audio by AMS Pods, Audio MotorSports, Carson. (310) 513-8800.
+meta: Fairing wiring, AMS lower-fairing pods and amp installation for Lawndale riders. Harley bagger audio by AMS Pods, Audio MotorSports, Carson. (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Fairing Wiring and AMS Pods for Lawndale Harley Riders
@@ -26,6 +26,9 @@ Audio MotorSports installs car stereos, Apple CarPlay and Android Auto, window t
 ## Lawndale to the shop
 
 Lawndale is 6.5 miles out, about 13 to 16 minutes outside rush hour (approx). Schedule first, ride over, and either leave the bike with us or wait at the shop while it is on the lift. Mon-Sat 9:30-18:00, Sunday closed. [SHOP NOTE: 2-3 sentences from Nick about Lawndale riders, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Lawndale, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. From Lawndale you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Wiring questions from Lawndale riders
 
@@ -54,7 +57,7 @@ Rewire, pods and an amp together is most of a day; book the morning slot and pic
 - AMS lower-fairing pods from $649 a pair, as of October 2026, chrome or gloss, hardware included.
 - Wiring, amplifier installation, head units and speaker work are quoted on the bike at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby cities
 
@@ -62,7 +65,7 @@ Riders also ride in from [Alondra Park](/amspods/bagger-audio-alondra-park/), [H
 
 ## Schedule it
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -73,7 +76,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-lawndale/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-lawndale/",
    "name": "Lawndale Harley Bagger Fairing Wiring & AMS Pods | Carson",
-   "description": "Fairing wiring, AMS lower-fairing pods and amp installation for Lawndale riders. Harley bagger audio by AMS Pods, Audio MotorSports, Carson. (310) 513-8800.",
+   "description": "Fairing wiring, AMS lower-fairing pods and amp installation for Lawndale riders. Harley bagger audio by AMS Pods, Audio MotorSports, Carson. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

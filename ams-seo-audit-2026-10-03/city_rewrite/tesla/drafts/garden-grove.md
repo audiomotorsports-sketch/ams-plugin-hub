@@ -5,7 +5,7 @@ miles: 18.9
 lead_service: Tesla window tint (glass roof heat)
 source: hub-mounted copy; standalone www host not verified
 title: Tesla Roof & Window Tint, Garden Grove | Tesla Tint LA
-meta: Glass roof and Tesla window tint for Garden Grove owners at Audio MotorSports in Carson, 18.9 miles away. Ceramic film cuts cabin heat. Call (310) 513-8800.
+meta: Glass roof and Tesla window tint for Garden Grove owners at Audio MotorSports in Carson, 18.9 miles away. Ceramic film cuts cabin heat. Call (213) 429-1092.
 ---
 # Tesla Glass Roof and Window Tint for Garden Grove Owners
 
@@ -28,6 +28,9 @@ Audio MotorSports installs dash cameras, Viper alarms, GPS trackers and car ster
 It is about 18.9 miles, roughly 38 to 45 minutes outside rush hour (approx). Open Monday through Saturday, 9:30 AM to 6:00 PM; closed Sunday. Set up an appointment, then drop the Tesla off for the day or wait at the shop while it is done. People drive to us from more than 100 miles away for Tesla tint, so Garden Grove is well inside the normal range.
 
 [SHOP NOTE: 2-3 sentences from Nick about Garden Grove customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Garden Grove job is finished. The shop is LGBTQ-friendly and everyone from Garden Grove is welcome, as our Google and Yelp listings state. Coming from Garden Grove, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Garden Grove Tesla questions
 
@@ -53,7 +56,7 @@ For the front doors, the legal shade is the one that passes 70% of visible light
 
 ## Pricing
 
-Roof film and Tesla window tint are quoted by model at the shop; text the year and model for a figure. For a non-Tesla reference, Solar is $249 and Solar Ceramic is $329 installed, as of October 2026. Remaining work is quoted at the shop. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Roof film and Tesla window tint are quoted by model at the shop; text the year and model for a figure. For a non-Tesla reference, Solar is $249 and Solar Ceramic is $329 installed, as of October 2026. Remaining work is quoted at the shop. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near Garden Grove
 
@@ -65,7 +68,7 @@ Roof film and Tesla window tint are quoted by model at the shop; text the year a
 
 ## Book from Garden Grove
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -76,7 +79,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-garden-grove/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-garden-grove/",
    "name": "Tesla Roof & Window Tint, Garden Grove | Tesla Tint LA",
-   "description": "Glass roof and Tesla window tint for Garden Grove owners at Audio MotorSports in Carson, 18.9 miles away. Ceramic film cuts cabin heat. Call (310) 513-8800.",
+   "description": "Glass roof and Tesla window tint for Garden Grove owners at Audio MotorSports in Carson, 18.9 miles away. Ceramic film cuts cabin heat. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

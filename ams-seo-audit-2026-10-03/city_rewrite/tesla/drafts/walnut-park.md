@@ -5,7 +5,7 @@ miles: 9.7
 lead_service: Tesla window tint (glass roof heat)
 source: hub-mounted copy; standalone www host not verified
 title: Walnut Park Tesla Tint for Glass Roof Heat | Tesla Tint LA
-meta: Tesla window tint for Walnut Park owners, a cooler cabin under the glass roof. Tesla Tint LA by Audio MotorSports, Carson, 9.7 miles away. Call (310) 513-8800.
+meta: Tesla window tint for Walnut Park owners, a cooler cabin under the glass roof. Tesla Tint LA by Audio MotorSports, Carson, 9.7 miles away. Call (213) 429-1092.
 ---
 # Tesla Window Tint for Walnut Park: A Cooler Cabin Under the Glass Roof
 
@@ -31,6 +31,9 @@ Walnut Park is about 9.7 miles away, roughly 19 to 23 minutes outside rush hour 
 
 [SHOP NOTE: 2-3 sentences from Nick about Walnut Park customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Walnut Park job is finished. Walnut Park customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Walnut Park traffic sends you.
+
 ## Walnut Park Tesla tint questions
 
 ### Does tint on the doors really cool a Walnut Park Tesla with a glass roof?
@@ -55,7 +58,7 @@ No. The camera cluster and the side repeaters are masked and the film stops shor
 
 ## Pricing
 
-Tesla tint is quoted per model at the shop; text the year and model to get a figure. For a non-Tesla, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Tesla tint is quoted per model at the shop; text the year and model to get a figure. For a non-Tesla, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near Walnut Park
 
@@ -67,7 +70,7 @@ Tesla tint is quoted per model at the shop; text the year and model to get a fig
 
 ## Book your appointment
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -78,7 +81,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-walnut-park/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-walnut-park/",
    "name": "Walnut Park Tesla Tint for Glass Roof Heat | Tesla Tint LA",
-   "description": "Tesla window tint for Walnut Park owners, a cooler cabin under the glass roof. Tesla Tint LA by Audio MotorSports, Carson, 9.7 miles away. Call (310) 513-8800.",
+   "description": "Tesla window tint for Walnut Park owners, a cooler cabin under the glass roof. Tesla Tint LA by Audio MotorSports, Carson, 9.7 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

@@ -4,7 +4,7 @@ city: Pacific Palisades
 miles: 21.4
 lead_service: First Harley bagger audio upgrade
 title: Pacific Palisades First Bagger Audio Upgrade | AMS Pods
-meta: First Harley bagger audio upgrade for Pacific Palisades riders: AMS pods, then amp and speakers. AMS Pods by Audio MotorSports, Carson. (310) 513-8800.
+meta: First Harley bagger audio upgrade for Pacific Palisades riders: AMS pods, then amp and speakers. AMS Pods by Audio MotorSports, Carson. (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Your First Bagger Audio Upgrade, Pacific Palisades
@@ -26,6 +26,9 @@ Audio MotorSports installs car stereos, Apple CarPlay, window tint, Tesla tint, 
 ## Pacific Palisades to Carson
 
 The trip is 21.4 miles, about 43 to 51 minutes outside rush hour (approx). Make an appointment, ride down, then leave the bike for the day or wait at the shop for a shorter install. Mon-Sat 9:30-18:00, Sunday closed. [SHOP NOTE: 2-3 sentences from Nick about Pacific Palisades riders, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Pacific Palisades job is finished. Pacific Palisades customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. From Pacific Palisades you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## First-timer questions from Pacific Palisades
 
@@ -54,7 +57,7 @@ A same-day appointment once the pods are built. Ride in from Pacific Palisades i
 - AMS lower-fairing pods from $649 a pair, as of October 2026, chrome or gloss, hardware included.
 - The amp, replacement speakers, a head unit or bag-lid speakers get quoted once Nick sees the bike. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby cities
 
@@ -62,7 +65,7 @@ Pages for riders in [Brentwood](/amspods/bagger-audio-brentwood/), [Malibu](/ams
 
 ## Ask Nick where to start
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -73,7 +76,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-pacific-palisades/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-pacific-palisades/",
    "name": "Pacific Palisades First Bagger Audio Upgrade | AMS Pods",
-   "description": "First Harley bagger audio upgrade for Pacific Palisades riders: AMS pods, then amp and speakers. AMS Pods by Audio MotorSports, Carson. (310) 513-8800.",
+   "description": "First Harley bagger audio upgrade for Pacific Palisades riders: AMS pods, then amp and speakers. AMS Pods by Audio MotorSports, Carson. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

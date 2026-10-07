@@ -4,7 +4,7 @@ city: Montclair
 miles: 46.3
 lead_service: Tesla window tint (camera and sensor clearance)
 title: Montclair Tesla Window Tint | Tesla Tint LA, Carson
-meta: Tesla window tint with every camera and sensor left clear, for Montclair owners at Tesla Tint LA by Audio MotorSports in Carson, 46 miles. Call (310) 513-8800.
+meta: Tesla window tint with every camera and sensor left clear, for Montclair owners at Tesla Tint LA by Audio MotorSports in Carson, 46 miles. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla Window Tint for Montclair, With Every Camera Left Clear
@@ -24,6 +24,9 @@ A Tesla is covered in cameras and sensors, and the tint has to respect all of th
 ## The trip from Montclair
 
 It is roughly 46.3 miles, so plan on about an hour and a half to just under two hours outside rush hour (approx). Shop hours are Monday to Saturday 9:30 to 6:00, closed Sunday. Book your slot, then wait at the shop or drop the car and make a day of the coast. [SHOP NOTE: 2-3 sentences from Nick about Montclair customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Montclair, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. From Montclair you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Montclair Tesla tint questions
 
@@ -49,7 +52,7 @@ Yes. Dash camera installation and GPS tracker installation are frequent add-ons 
 
 ## What it costs
 
-Tesla window tint is quoted by model at the shop, because glass and camera layouts differ by model. For a non-Tesla reference, the same shop installs Solar for $249 and Solar Ceramic for $329, as of October 2026. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Tesla window tint is quoted by model at the shop, because glass and camera layouts differ by model. For a non-Tesla reference, the same shop installs Solar for $249 and Solar Ceramic for $329, as of October 2026. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby Tesla tint pages
 
@@ -57,7 +60,7 @@ Tesla window tint is quoted by model at the shop, because glass and camera layou
 
 ## Make the appointment
 
-Call (310) 513-8800 or text (213) 429-1092 with your model and year. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with your model and year. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

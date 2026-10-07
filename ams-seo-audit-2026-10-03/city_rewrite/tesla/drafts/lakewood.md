@@ -5,7 +5,7 @@ miles: 7.7
 lead_service: Tesla window tint (camera and sensor clearance)
 source: hub-mounted copy; standalone www host not verified
 title: Tesla Tint With Cameras Clear, Lakewood | Tesla Tint LA
-meta: Tesla window tint for Lakewood owners with cameras and sensors left clear, by Audio MotorSports in Carson, 7.7 miles away. Ceramic film. Call (310) 513-8800.
+meta: Tesla window tint for Lakewood owners with cameras and sensors left clear, by Audio MotorSports in Carson, 7.7 miles away. Ceramic film. Call (213) 429-1092.
 ---
 # Tesla Window Tint for Lakewood, Every Camera Left Clear
 
@@ -28,6 +28,9 @@ Audio MotorSports also installs dash cameras, GPS trackers, Viper alarms and car
 About 7.7 miles, roughly 15 to 18 minutes outside rush hour (approx). Open Monday to Saturday, 9:30 AM to 6:00 PM, closed Sunday. Schedule a time, then drop the Tesla off or wait at the shop while it is done. Many of our Tesla customers drive in from more than 100 miles away; Lakewood owners usually just wait.
 
 [SHOP NOTE: 2-3 sentences from Nick about Lakewood customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Lakewood customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. The shop is LGBTQ-friendly and everyone from Lakewood is welcome, as our Google and Yelp listings state. Coming from Lakewood, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Lakewood Tesla tint questions
 
@@ -53,7 +56,7 @@ The front door glass has to pass 70% of visible light. Ceramic film at that shad
 
 ## Pricing
 
-Every Tesla model is quoted at the shop; text the year and model for a figure. For a non-Tesla reference, Solar is $249 and Solar Ceramic is $329 installed, as of October 2026. Other work is quoted at the shop. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Every Tesla model is quoted at the shop; text the year and model for a figure. For a non-Tesla reference, Solar is $249 and Solar Ceramic is $329 installed, as of October 2026. Other work is quoted at the shop. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near Lakewood
 
@@ -65,7 +68,7 @@ Every Tesla model is quoted at the shop; text the year and model for a figure. F
 
 ## Set up a visit
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -76,7 +79,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-lakewood/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-lakewood/",
    "name": "Tesla Tint With Cameras Clear, Lakewood | Tesla Tint LA",
-   "description": "Tesla window tint for Lakewood owners with cameras and sensors left clear, by Audio MotorSports in Carson, 7.7 miles away. Ceramic film. Call (310) 513-8800.",
+   "description": "Tesla window tint for Lakewood owners with cameras and sensors left clear, by Audio MotorSports in Carson, 7.7 miles away. Ceramic film. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

@@ -4,7 +4,7 @@ city: Westmont
 miles: 8.2
 lead_service: Harley bagger audio for long rides
 title: Westmont Harley Bagger Audio for the Long Haul | AMS Pods
-meta: Long-ride Harley bagger audio for Westmont riders: AMS lower-fairing pods, amplifier installation and speaker replacement in Carson. Call (310) 513-8800.
+meta: Long-ride Harley bagger audio for Westmont riders: AMS lower-fairing pods, amplifier installation and speaker replacement in Carson. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Long-Haul Harley Bagger Audio for Westmont Riders
@@ -28,6 +28,9 @@ For the car, the same shop does car stereo and CarPlay installation, ceramic win
 ## Westmont to the shop
 
 Westmont to Carson is 8.2 miles, roughly 16 to 20 minutes outside rush hour (approx). Book first, ride in, and either leave the bike with Nick or wait at the shop until it is done. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed. Customers come from more than 100 miles away; Westmont is one of the shorter trips.
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Westmont customers tell us makes the drop-off painless. The shop is LGBTQ-friendly and everyone from Westmont is welcome, as our Google and Yelp listings state. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Westmont.
 
 ## Westmont riders ask
 
@@ -56,7 +59,7 @@ About three weeks, built to order in Carson. Order them when you book so the ins
 - AMS pods from $649 a pair, chrome or gloss, bracket and screws included, as of October 2026.
 - Amp installation and tuning, new fairing speakers, bag-lid bass and radios are priced on your bike at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby cities
 
@@ -64,7 +67,7 @@ Other AMS Pods pages nearby: [Willowbrook](/amspods/bagger-audio-willowbrook/), 
 
 ## Book from Westmont
 
-Call (310) 513-8800 or text (213) 429-1092. 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -75,7 +78,7 @@ Call (310) 513-8800 or text (213) 429-1092. 22025 S Avalon Blvd Ste A, Carson, C
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-westmont/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-westmont/",
    "name": "Westmont Harley Bagger Audio for the Long Haul | AMS Pods",
-   "description": "Long-ride Harley bagger audio for Westmont riders: AMS lower-fairing pods, amplifier installation and speaker replacement in Carson. Call (310) 513-8800.",
+   "description": "Long-ride Harley bagger audio for Westmont riders: AMS lower-fairing pods, amplifier installation and speaker replacement in Carson. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

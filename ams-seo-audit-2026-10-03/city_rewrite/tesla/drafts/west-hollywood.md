@@ -5,7 +5,7 @@ miles: 18.8
 lead_service: Tesla window tint (Model X)
 source: hub-mounted copy; standalone www host not verified
 title: Model X Tint for West Hollywood Owners | Tesla Tint LA
-meta: Model X ceramic window tint for West Hollywood Tesla owners, falcon-wing doors too. Audio MotorSports, Carson, 18.8 miles away. Call (310) 513-8800.
+meta: Model X ceramic window tint for West Hollywood Tesla owners, falcon-wing doors too. Audio MotorSports, Carson, 18.8 miles away. Call (213) 429-1092.
 ---
 # Model X Window Tint for West Hollywood Tesla Owners
 
@@ -28,6 +28,9 @@ Audio MotorSports also offers dash camera and GPS tracker installation on Teslas
 From West Hollywood it is about 18.8 miles, roughly 38 to 45 minutes outside rush hour (approx). Hours are Monday to Saturday 9:30 AM to 6:00 PM, Sunday closed. Book ahead, then leave the Model X for the day or wait at the shop and take it home in one trip.
 
 [SHOP NOTE: 2-3 sentences from Nick about West Hollywood customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the West Hollywood job is finished. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. From West Hollywood you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## West Hollywood Model X tint questions
 
@@ -53,7 +56,7 @@ Book a morning appointment and expect the Model X to take longer than a smaller 
 
 ## Pricing
 
-Model X and every other Tesla are quoted by model at the shop; text the year and model to get a number. Non-Tesla reference pricing, as of October 2026: Solar $249 and Solar Ceramic $329 installed. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Model X and every other Tesla are quoted by model at the shop; text the year and model to get a number. Non-Tesla reference pricing, as of October 2026: Solar $249 and Solar Ceramic $329 installed. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near West Hollywood
 
@@ -64,7 +67,7 @@ Model X and every other Tesla are quoted by model at the shop; text the year and
 
 ## Book your appointment
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -75,7 +78,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-west-hollywood/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-west-hollywood/",
    "name": "Model X Tint for West Hollywood Owners | Tesla Tint LA",
-   "description": "Model X ceramic window tint for West Hollywood Tesla owners, falcon-wing doors too. Audio MotorSports, Carson, 18.8 miles away. Call (310) 513-8800.",
+   "description": "Model X ceramic window tint for West Hollywood Tesla owners, falcon-wing doors too. Audio MotorSports, Carson, 18.8 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

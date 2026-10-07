@@ -4,7 +4,7 @@ city: Bellflower
 miles: 9.3
 lead_service: car audio/stereo
 title: Car Stereo Installation for Bellflower | Audio MotorSports
-meta: Car stereo installation, subwoofers, amplifiers, window tint and alarms for Bellflower drivers at Audio MotorSports in Carson, 9.3 miles. Call (310) 513-8800.
+meta: Car stereo installation, subwoofers, amplifiers, window tint and alarms for Bellflower drivers at Audio MotorSports in Carson, 9.3 miles. Call (213) 429-1092.
 ---
 # Car Stereo Installation for Bellflower Drivers
 
@@ -22,9 +22,12 @@ Car stereo installation is the number one reason Bellflower drivers make the 9.3
 
 **Car alarm installation and remote start installation.** Viper and Compustar wired into the car so nothing hangs under the dash, plus GPS tracker installation when you want to see the car on a map.
 
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Bellflower, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. Bellflower customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Coming from Bellflower, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
+
 ## Bellflower to the shop
 
-Bellflower is about 9.3 miles out, roughly 19 to 22 minutes outside rush hour (approx). Call or text to schedule, then either drop the car and get on with your day or wait in the shop while we work. Hours are Mon-Sat 9:30-18:00, closed Sunday. People drive to this bay from over 100 miles away for stereo work, so Bellflower is a short one. Ratings as of October 2026: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews). [SHOP NOTE: 2-3 sentences from Nick about Bellflower customers, routes or jobs]
+Bellflower is about 9.3 miles out, roughly 19 to 22 minutes outside rush hour (approx). Call or text to schedule, then either drop the car and get on with your day or wait in the shop while we work. Hours are Mon-Sat 9:30-18:00, closed Sunday. People drive to this bay from over 100 miles away for stereo work, so Bellflower is a short one. Ratings as of October 2026: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews). [SHOP NOTE: 2-3 sentences from Nick about Bellflower customers, routes or jobs]
 
 ### Why do Bellflower drivers come to Carson for car stereo installation?
 
@@ -56,7 +59,7 @@ Dual Kicker Comp box $249 box only. Window tint Solar $249, Solar Ceramic $329 i
 
 ## Book a Bellflower install
 
-Call (310) 513-8800 or text (213) 429-1092 with your year, make and model. 22025 S Avalon Blvd Ste A, Carson, CA 90745 is the shop. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with your year, make and model. 22025 S Avalon Blvd Ste A, Carson, CA 90745 is the shop. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -67,7 +70,7 @@ Call (310) 513-8800 or text (213) 429-1092 with your year, make and model. 22025
    "@id": "https://www.audiomotorsports.com/bellflower/#webpage",
    "url": "https://www.audiomotorsports.com/bellflower/",
    "name": "Car Stereo Installation for Bellflower | Audio MotorSports",
-   "description": "Car stereo installation, subwoofers, amplifiers, window tint and alarms for Bellflower drivers at Audio MotorSports in Carson, 9.3 miles. Call (310) 513-8800.",
+   "description": "Car stereo installation, subwoofers, amplifiers, window tint and alarms for Bellflower drivers at Audio MotorSports in Carson, 9.3 miles. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

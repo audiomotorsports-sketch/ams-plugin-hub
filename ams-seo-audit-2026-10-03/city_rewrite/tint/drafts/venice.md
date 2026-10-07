@@ -4,7 +4,7 @@ city: Venice
 miles: 15.9
 lead_service: car window tint (salt air and privacy)
 title: Car Window Tint Venice | LA Car Tint, Carson
-meta: Car window tint and ceramic film for Venice cars and vans, hand-cut and installed by Audio MotorSports in Carson, 15.9 miles away. Call (310) 513-8800.
+meta: Car window tint and ceramic film for Venice cars and vans, hand-cut and installed by Audio MotorSports in Carson, 15.9 miles away. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Window Tint for Venice Drivers, by Audio MotorSports in Carson
@@ -26,6 +26,9 @@ Venice to the shop is about 15.9 miles, roughly thirty-five minutes (approx) whe
 
 [SHOP NOTE: 2-3 sentences from Nick about Venice customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Venice customers tell us makes the drop-off painless. Venice customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Venice.
+
 ## Questions from Venice drivers
 
 ### Will window tint hold up on a car that never sees a garage in Venice?
@@ -42,11 +45,11 @@ If heat bothers you, yes. Solar Ceramic rejects far more infrared energy than st
 
 ### Why would a Venice driver come to Carson for tint instead of a shop nearby?
 
-Because the record is open to read: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, with prices posted ahead of time. Window tint done right once outlasts a bargain job that bubbles and has to be stripped.
+Because the record is open to read: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, with prices posted ahead of time. Window tint done right once outlasts a bargain job that bubbles and has to be stripped.
 
 ### Do I need an appointment or can I just show up from Venice?
 
-Book first. One bay handles every job, so a scheduled time means the car goes straight in when you arrive. Call (310) 513-8800 or text (213) 429-1092, then either leave the car for the day or wait at the shop.
+Book first. One bay handles every job, so a scheduled time means the car goes straight in when you arrive. Call (213) 429-1092 or text (213) 429-1092, then either leave the car for the day or wait at the shop.
 
 ## Prices, as of October 2026
 
@@ -61,7 +64,7 @@ Solar window tinting $249 installed; Solar Ceramic window tinting $329 installed
 
 ## Book it
 
-Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
+Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
 
 ```json
 {
@@ -72,7 +75,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-venice/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-venice/",
    "name": "Car Window Tint Venice | LA Car Tint, Carson",
-   "description": "Car window tint and ceramic film for Venice cars and vans, hand-cut and installed by Audio MotorSports in Carson, 15.9 miles away. Call (310) 513-8800.",
+   "description": "Car window tint and ceramic film for Venice cars and vans, hand-cut and installed by Audio MotorSports in Carson, 15.9 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -136,7 +139,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "Why would a Venice driver come to Carson for tint instead of a shop nearby?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Because the record is open to read: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, with prices posted ahead of time. Window tint done right once outlasts a bargain job that bubbles and has to be stripped."
+      "text": "Because the record is open to read: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, with prices posted ahead of time. Window tint done right once outlasts a bargain job that bubbles and has to be stripped."
      }
     },
     {
@@ -144,7 +147,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "Do I need an appointment or can I just show up from Venice?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Book first. One bay handles every job, so a scheduled time means the car goes straight in when you arrive. Call (310) 513-8800 or text (213) 429-1092, then either leave the car for the day or wait at the shop."
+      "text": "Book first. One bay handles every job, so a scheduled time means the car goes straight in when you arrive. Call (213) 429-1092 or text (213) 429-1092, then either leave the car for the day or wait at the shop."
      }
     }
    ]

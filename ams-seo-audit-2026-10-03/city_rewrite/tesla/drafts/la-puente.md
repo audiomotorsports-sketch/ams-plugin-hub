@@ -5,7 +5,7 @@ miles: 27.8
 lead_service: Tesla window tint (one-piece rear glass)
 source: hub-mounted copy; standalone www host not verified
 title: Tesla Tint, One-Piece Rear Glass, La Puente | Tesla Tint LA
-meta: Tesla window tint for La Puente owners, back glass tinted as a single sheet, at Audio MotorSports in Carson, 27.8 miles away. Call (310) 513-8800 to book.
+meta: Tesla window tint for La Puente owners, back glass tinted as a single sheet, at Audio MotorSports in Carson, 27.8 miles away. Call (213) 429-1092 to book.
 ---
 # Tesla Window Tint for La Puente with a One-Piece Rear Window
 
@@ -28,6 +28,9 @@ Need a dash camera, a GPS tracker, a car alarm with remote start or a stereo upg
 The trip is about 27.8 miles, roughly 56 to 67 minutes outside rush hour (approx). Hours are Monday through Saturday, 9:30 AM to 6:00 PM, Sunday closed. Book first, then drop the car off for the day or wait at the shop. We have had people drive in from more than 100 miles for Tesla tint, so La Puente is a normal trip.
 
 [SHOP NOTE: 2-3 sentences from Nick about La Puente customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for La Puente customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. La Puente customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way La Puente traffic sends you.
 
 ## La Puente Tesla tint questions
 
@@ -53,7 +56,7 @@ A few days with the windows up and the rear defroster off. The film is bonding t
 
 ## Pricing
 
-Single-sheet rear glass or not, a Tesla gets its quote by model at the shop. The non-Tesla reference, as of October 2026, is Solar $249 and Solar Ceramic $329 installed. Everything else is quoted at the shop. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Single-sheet rear glass or not, a Tesla gets its quote by model at the shop. The non-Tesla reference, as of October 2026, is Solar $249 and Solar Ceramic $329 installed. Everything else is quoted at the shop. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near La Puente
 
@@ -65,7 +68,7 @@ Single-sheet rear glass or not, a Tesla gets its quote by model at the shop. The
 
 ## Get on the schedule
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -76,7 +79,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-la-puente/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-la-puente/",
    "name": "Tesla Tint, One-Piece Rear Glass, La Puente | Tesla Tint LA",
-   "description": "Tesla window tint for La Puente owners, back glass tinted as a single sheet, at Audio MotorSports in Carson, 27.8 miles away. Call (310) 513-8800 to book.",
+   "description": "Tesla window tint for La Puente owners, back glass tinted as a single sheet, at Audio MotorSports in Carson, 27.8 miles away. Call (213) 429-1092 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

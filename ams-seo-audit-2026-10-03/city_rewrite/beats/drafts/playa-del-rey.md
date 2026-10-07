@@ -4,7 +4,7 @@ city: Playa del Rey
 miles: 13.3
 lead_service: speaker replacement
 title: Playa del Rey Speaker Replacement | LA Car Beats, Carson
-meta: Speaker replacement and speaker installation for Playa del Rey drivers at LA Car Beats by Audio MotorSports in Carson. No rattles. Call (310) 513-8800.
+meta: Speaker replacement and speaker installation for Playa del Rey drivers at LA Car Beats by Audio MotorSports in Carson. No rattles. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Speaker Replacement and Installation for Playa del Rey
@@ -24,6 +24,9 @@ Playa del Rey drivers who want clearer sound without replacing the whole system 
 ## Playa del Rey to Carson
 
 Playa del Rey is about 13.3 miles from the shop, roughly 27 to 32 minutes outside rush hour (approx). Call or text to book, then drop the car off or wait while the speakers go in. Hours are Monday through Saturday 9:30 to 6:00; we are closed Sunday. Drivers come to us from Temecula for speaker work, so Playa del Rey is a short morning drive by comparison.
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Playa del Rey drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Playa del Rey customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Playa del Rey traffic sends you.
 
 ## Playa del Rey speaker questions
 
@@ -49,7 +52,7 @@ No. Speaker replacement is done behind the factory grilles using adapter rings, 
 
 ## Playa del Rey pricing
 
-The Dual Kicker Comp loaded box is $249, box only, as of October 2026. Speaker replacement, component speaker installation, amplifier installation and head unit installation are quoted at the shop after we look at the car; payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. The same bay also handles window tint, car alarm installation, remote start, GPS tracker installation and dash camera installation.
+The Dual Kicker Comp loaded box is $249, box only, as of October 2026. Speaker replacement, component speaker installation, amplifier installation and head unit installation are quoted at the shop after we look at the car; payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. The same bay also handles window tint, car alarm installation, remote start, GPS tracker installation and dash camera installation.
 
 ## Nearby cities
 
@@ -62,7 +65,7 @@ LA Car Beats pages for Playa del Rey neighbors:
 
 ## Book speaker installation
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30-18:00, closed on Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30-18:00, closed on Sunday.
 
 ```json
 {
@@ -73,7 +76,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-playa-del-rey/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-playa-del-rey/",
    "name": "Playa del Rey Speaker Replacement | LA Car Beats, Carson",
-   "description": "Speaker replacement and speaker installation for Playa del Rey drivers at LA Car Beats by Audio MotorSports in Carson. No rattles. Call (310) 513-8800.",
+   "description": "Speaker replacement and speaker installation for Playa del Rey drivers at LA Car Beats by Audio MotorSports in Carson. No rattles. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

@@ -4,7 +4,7 @@ city: La Puente
 miles: 27.8
 lead_service: theft recovery (GPS + alarm)
 title: Theft Recovery GPS & Alarm Install, La Puente | LA Car Alarm
-meta: Theft recovery GPS tracker installation, Viper car alarm installation and remote start for La Puente drivers at LA Car Alarm by Audio MotorSports, Carson. (310) 513-8800.
+meta: Theft recovery GPS tracker installation, Viper car alarm installation and remote start for La Puente drivers at LA Car Alarm by Audio MotorSports, Carson. (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Theft Recovery and Car Alarm Installation for La Puente
@@ -22,6 +22,9 @@ When a car is stolen, the first hour decides whether it comes home or ends up in
 **Dash camera installation.** Hardwired front and rear with parking mode, catching the person who tried the door handle at 3 AM.
 
 Window tint, car stereo installation and Android Auto are handled by the same shop if you want to add a job while the car is here.
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from La Puente, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. La Puente customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. From La Puente you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## La Puente to the shop
 
@@ -54,7 +57,7 @@ Yes. A tracker installation lives or dies on how well it is hidden and powered, 
 
 GPS trackers, tilt sensors and dash cameras are priced for your vehicle at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby San Gabriel Valley cities
 
@@ -66,6 +69,6 @@ Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
 
 ## Call ahead
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 [CONFIRM] SHOP NOTE slot for La Puente; drive time 56-67 minutes (approx) at 25-30 mph.

@@ -4,7 +4,7 @@ city: Hacienda Heights
 miles: 20.3
 lead_service: ceramic window tint (heat)
 title: Hacienda Heights Ceramic Window Tint | LA Car Tint
-meta: Ceramic window tint for Hacienda Heights heat, hand-cut and installed by Audio MotorSports in Carson, 20.3 miles away. Call (310) 513-8800 to book.
+meta: Ceramic window tint for Hacienda Heights heat, hand-cut and installed by Audio MotorSports in Carson, 20.3 miles away. Call (213) 429-1092 to book.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Ceramic Window Tint for Hacienda Heights Summers
@@ -22,6 +22,9 @@ Hacienda Heights runs several degrees hotter than the coast, and ceramic window 
 ## Getting here from Hacienda Heights
 
 Hacienda Heights to Carson is roughly 20.3 miles, about 41 to 49 minutes outside rush hour (approx). Schedule by phone or text, then drop the car and come back when we text, or wait on site. We are open Monday to Saturday 9:30 a.m. to 6:00 p.m. and closed Sunday. [SHOP NOTE: 2-3 sentences from Nick about Hacienda Heights customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Hacienda Heights job is finished. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. From Hacienda Heights you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Hacienda Heights ceramic tint questions
 
@@ -47,7 +50,7 @@ Payment plan available, ask Nick when you book. The four-door Solar Ceramic pack
 
 ## Ceramic tint pricing for Hacienda Heights
 
-Solar Ceramic four-door: $329 installed. Solar four-door: $249 installed. Both as of October 2026, covering four doors plus the rear glass. SUVs, trucks, windshield strips and Tesla roof glass are quoted in person. Payment plan available, ask Nick. Customer ratings as of October 2026 sit at Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews).
+Solar Ceramic four-door: $329 installed. Solar four-door: $249 installed. Both as of October 2026, covering four doors plus the rear glass. SUVs, trucks, windshield strips and Tesla roof glass are quoted in person. Payment plan available, ask Nick. Customer ratings as of October 2026 sit at Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews).
 
 ## Nearby tint pages
 
@@ -55,7 +58,7 @@ Solar Ceramic four-door: $329 installed. Solar four-door: $249 installed. Both a
 
 ## Book a ceramic tint slot
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports at 22025 S Avalon Blvd Ste A, Carson, CA 90745; hours Mon-Sat 9:30-18:00, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports at 22025 S Avalon Blvd Ste A, Carson, CA 90745; hours Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {

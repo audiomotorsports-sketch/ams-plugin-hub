@@ -4,7 +4,7 @@ city: Fountain Valley
 miles: 19.7
 lead_service: Tesla window tint
 title: Tesla Window Tint Fountain Valley | LA Car Tint, Carson
-meta: Tesla window tint and ceramic car window tint for Fountain Valley EVs and minivans, installed by Audio MotorSports, Carson, 19.7 miles. Call (310) 513-8800.
+meta: Tesla window tint and ceramic car window tint for Fountain Valley EVs and minivans, installed by Audio MotorSports, Carson, 19.7 miles. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla Window Tint for Fountain Valley, by Audio MotorSports, Carson
@@ -26,6 +26,9 @@ About 19.7 miles, roughly forty-five minutes (approx) outside rush hour. Hours a
 
 [SHOP NOTE: 2-3 sentences from Nick about Fountain Valley customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+For a longer job from Fountain Valley, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. The shop is LGBTQ-friendly and everyone from Fountain Valley is welcome, as our Google and Yelp listings state. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Fountain Valley traffic sends you.
+
 ## Fountain Valley owners ask
 
 ### What is special about tinting the rear glass on a Tesla?
@@ -42,7 +45,7 @@ Yes, when the roof is fixed glass. A ceramic film on the roof stops heat coming 
 
 ### Is Fountain Valley to Carson a reasonable drive for a tint job?
 
-About 19.7 miles and roughly forty-five minutes outside rush hour, which many customers make for this install. Wait at the shop or drop the car and return later. The bay holds Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+About 19.7 miles and roughly forty-five minutes outside rush hour, which many customers make for this install. Wait at the shop or drop the car and return later. The bay holds Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ### What happens to old bubbled tint before new film goes on?
 
@@ -61,7 +64,7 @@ Solar window tint $249 installed and Solar Ceramic $329 installed, as of October
 
 ## Book it
 
-Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
+Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
 
 ```json
 {
@@ -72,7 +75,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-fountain-valley/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-fountain-valley/",
    "name": "Tesla Window Tint Fountain Valley | LA Car Tint, Carson",
-   "description": "Tesla window tint and ceramic car window tint for Fountain Valley EVs and minivans, installed by Audio MotorSports, Carson, 19.7 miles. Call (310) 513-8800.",
+   "description": "Tesla window tint and ceramic car window tint for Fountain Valley EVs and minivans, installed by Audio MotorSports, Carson, 19.7 miles. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -136,7 +139,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "Is Fountain Valley to Carson a reasonable drive for a tint job?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "About 19.7 miles and roughly forty-five minutes outside rush hour, which many customers make for this install. Wait at the shop or drop the car and return later. The bay holds Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026."
+      "text": "About 19.7 miles and roughly forty-five minutes outside rush hour, which many customers make for this install. Wait at the shop or drop the car and return later. The bay holds Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026."
      }
     },
     {

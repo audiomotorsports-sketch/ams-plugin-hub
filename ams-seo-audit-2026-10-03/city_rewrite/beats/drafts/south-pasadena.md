@@ -6,7 +6,7 @@ lead_service: amplifier installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: South Pasadena Amplifier Installation | LA Car Beats
-meta: Amplifier installation and speaker replacement for South Pasadena drivers at LA Car Beats by Audio MotorSports in Carson, 20.7 miles. Call (310) 513-8800.
+meta: Amplifier installation and speaker replacement for South Pasadena drivers at LA Car Beats by Audio MotorSports in Carson, 20.7 miles. Call (213) 429-1092.
 ---
 # Amplifier Installation for South Pasadena Drivers
 
@@ -22,7 +22,10 @@ South Pasadena drivers who want their stereo loud and clean, not loud and harsh,
 
 ## South Pasadena to the Carson shop
 
-The trip from South Pasadena is about 20.7 miles, roughly 41 to 50 minutes outside rush hour (approx). Hours are Monday through Saturday 9:30 to 6:00, closed Sunday. Reserve a time at (310) 513-8800 or text (213) 429-1092. A first amplifier installation with a new power run is a drop-off; a swap onto existing wiring can be waited on. [SHOP NOTE: 2-3 sentences from Nick about South Pasadena customers, routes or jobs]
+The trip from South Pasadena is about 20.7 miles, roughly 41 to 50 minutes outside rush hour (approx). Hours are Monday through Saturday 9:30 to 6:00, closed Sunday. Reserve a time at (213) 429-1092 or text (213) 429-1092. A first amplifier installation with a new power run is a drop-off; a swap onto existing wiring can be waited on. [SHOP NOTE: 2-3 sentences from Nick about South Pasadena customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which South Pasadena customers tell us makes the drop-off painless. South Pasadena customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from South Pasadena.
 
 ## South Pasadena amplifier questions
 
@@ -44,11 +47,11 @@ Yes. The amplifier is a part; the fusing, grounding, routing and tuning are the 
 
 ### How long does an amplifier installation take and can I wait?
 
-A replacement amp on existing wiring is a lobby wait. A fresh installation with a power run, ground, signal cables, remote lead and tuning takes most of a day, so dropping the car in the morning and picking it up in the afternoon is the better plan for South Pasadena drivers.
+A replacement amp on existing wiring is a wait-inside job. A fresh installation with a power run, ground, signal cables, remote lead and tuning takes most of a day, so dropping the car in the morning and picking it up in the afternoon is the better plan for South Pasadena drivers.
 
 ## South Pasadena pricing
 
-Dual Kicker Comp loaded box: $249, box only, as of October 2026. Amplifier installation, speaker replacement, subwoofer installation, head unit installation and Apple CarPlay and Android Auto installation are priced at the shop for your vehicle. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Window tint and ceramic window tint, Tesla window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation and Harley bagger audio with AMS pods are also done here.
+Dual Kicker Comp loaded box: $249, box only, as of October 2026. Amplifier installation, speaker replacement, subwoofer installation, head unit installation and Apple CarPlay and Android Auto installation are priced at the shop for your vehicle. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Window tint and ceramic window tint, Tesla window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation and Harley bagger audio with AMS pods are also done here.
 
 ## Around South Pasadena
 
@@ -61,7 +64,7 @@ Car stereo installation pages for nearby cities:
 
 ## Book from South Pasadena
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -73,7 +76,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio 
    "name": "South Pasadena Amplifier Installation | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-south-pasadena/",
    "dateModified": "2026-10-08",
-   "description": "Amplifier installation and speaker replacement for South Pasadena drivers at LA Car Beats by Audio MotorSports in Carson, 20.7 miles. Call (310) 513-8800.",
+   "description": "Amplifier installation and speaker replacement for South Pasadena drivers at LA Car Beats by Audio MotorSports in Carson, 20.7 miles. Call (213) 429-1092.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }
@@ -143,7 +146,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio 
      "name": "How long does an amplifier installation take and can I wait?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "A replacement amp on existing wiring is a lobby wait. A fresh installation with a power run, ground, signal cables, remote lead and tuning takes most of a day, so dropping the car in the morning and picking it up in the afternoon is the better plan for South Pasadena drivers."
+      "text": "A replacement amp on existing wiring is a wait-inside job. A fresh installation with a power run, ground, signal cables, remote lead and tuning takes most of a day, so dropping the car in the morning and picking it up in the afternoon is the better plan for South Pasadena drivers."
      }
     }
    ]

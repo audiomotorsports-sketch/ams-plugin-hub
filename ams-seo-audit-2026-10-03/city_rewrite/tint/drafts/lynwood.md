@@ -5,7 +5,7 @@ miles: 7.8
 lead_service: car window tint (legal front-window angle)
 source: hub-mounted copy; standalone www host not verified
 title: Lynwood Window Tint | LA Car Tint by Audio MotorSports
-meta: Legal car window tint for Lynwood: fronts at the California shade, rears darker. By Audio MotorSports in Carson, 7.8 miles away. Call (310) 513-8800.
+meta: Legal car window tint for Lynwood: fronts at the California shade, rears darker. By Audio MotorSports in Carson, 7.8 miles away. Call (213) 429-1092.
 ---
 # Legal Car Window Tint for Lynwood Drivers
 
@@ -21,6 +21,9 @@ Lynwood drivers who want window tint that will not get them pulled over bring th
 
 Lynwood to the shop is about 7.8 miles, roughly 16 to 19 minutes (approx) outside rush hour. Book first by call or text, then either wait while the tint goes on or drop the car and come back. Hours are 9:30 to 6:00, Monday through Saturday; closed Sunday.
 
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Lynwood customers tell us makes the drop-off painless. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. From Lynwood you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
+
 ## Lynwood drivers ask
 
 ### What shade of tint is legal on the front windows of a car from Lynwood?
@@ -33,7 +36,7 @@ Yes. We remove the old film, clean the adhesive off the glass and install a lega
 
 ### Should I wait at the shop or drop the car off?
 
-Either works. A four-door takes a couple of hours, which many Lynwood customers simply wait out in the lobby. If you have things to do, leave the car with us in the morning and we will call when it is done. Just book ahead so the bay is ready.
+Either works. A four-door takes a couple of hours, which many Lynwood customers simply wait it out inside the shop. If you have things to do, leave the car with us in the morning and we will call when it is done. Just book ahead so the bay is ready.
 
 ### What is the difference between Solar and Solar Ceramic?
 
@@ -45,7 +48,7 @@ Not when the glass is cleaned properly and the film is fitted indoors. Bubbles a
 
 ## Lynwood pricing
 
-As of October 2026: Solar window tint $249 installed, Solar Ceramic $329 installed, both for a four-door car with four doors and rear glass done. Anything else, including old-film removal, is quoted when the car is in the bay. Payment plan available, ask Nick. Google rating 4.8 (650+ reviews), Yelp 4.7 (770+ reviews), as of October 2026.
+As of October 2026: Solar window tint $249 installed, Solar Ceramic $329 installed, both for a four-door car with four doors and rear glass done. Anything else, including old-film removal, is quoted when the car is in the bay. Payment plan available, ask Nick. Google rating 4.8 (654 reviews), Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Window tint pages near Lynwood
 
@@ -58,7 +61,7 @@ Car alarm installation, remote start installation, GPS tracker installation, car
 
 ## Call or text from Lynwood
 
-Phone (310) 513-8800 or text (213) 429-1092; the shop address is 22025 S Avalon Blvd Ste A, Carson, CA 90745, and the doors are open Mon-Sat 9:30 to 6:00, closed Sundays.
+Phone (213) 429-1092 or text (213) 429-1092; the shop address is 22025 S Avalon Blvd Ste A, Carson, CA 90745, and the doors are open Mon-Sat 9:30 to 6:00, closed Sundays.
 
 ```json
 {
@@ -69,7 +72,7 @@ Phone (310) 513-8800 or text (213) 429-1092; the shop address is 22025 S Avalon 
       "@id": "https://www.audiomotorsports.com/tint/window-tint-lynwood/#webpage",
       "url": "https://www.audiomotorsports.com/tint/window-tint-lynwood/",
       "name": "Lynwood Window Tint | LA Car Tint by Audio MotorSports",
-      "description": "Legal car window tint for Lynwood: fronts at the California shade, rears darker. By Audio MotorSports in Carson, 7.8 miles away. Call (310) 513-8800.",
+      "description": "Legal car window tint for Lynwood: fronts at the California shade, rears darker. By Audio MotorSports in Carson, 7.8 miles away. Call (213) 429-1092.",
       "dateModified": "2026-10-08",
       "about": {
         "@id": "https://www.audiomotorsports.com/#business"
@@ -127,7 +130,7 @@ Phone (310) 513-8800 or text (213) 429-1092; the shop address is 22025 S Avalon 
           "name": "Should I wait at the shop or drop the car off?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Either works. A four-door takes a couple of hours, which many Lynwood customers simply wait out in the lobby. If you have things to do, leave the car with us in the morning and we will call when it is done. Just book ahead so the bay is ready."
+            "text": "Either works. A four-door takes a couple of hours, which many Lynwood customers simply wait it out inside the shop. If you have things to do, leave the car with us in the morning and we will call when it is done. Just book ahead so the bay is ready."
           }
         },
         {

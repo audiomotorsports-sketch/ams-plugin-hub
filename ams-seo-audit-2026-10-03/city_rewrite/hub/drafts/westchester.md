@@ -4,7 +4,7 @@ city: Westchester
 miles: 12.1
 lead_service: Tesla window tint
 title: Tesla Window Tint for Westchester | Audio MotorSports Carson
-meta: Westchester Tesla window tint and ceramic tint at Audio MotorSports in Carson, 12.1 miles, with car stereo installation, alarms and dash cams. (310) 513-8800.
+meta: Westchester Tesla window tint and ceramic tint at Audio MotorSports in Carson, 12.1 miles, with car stereo installation, alarms and dash cams. (213) 429-1092.
 ---
 # Tesla Window Tint for Westchester Owners
 
@@ -24,7 +24,10 @@ Westchester has a lot of Teslas, and a good share of them get Tesla window tint 
 
 ## Westchester down to Carson
 
-Westchester to the shop is roughly 12.1 miles, which is a 24 to 29 minute drive outside the commute (approx). We are open Monday through Saturday, 9:30 AM to 6:00 PM, Sunday closed. Reserve a slot by call or text, then wait with us or drop the car and pick it up when we text you. Westchester owners tend to check the reviews on the way in: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. [SHOP NOTE: 2-3 sentences from Nick about Westchester customers, routes or jobs]
+Westchester to the shop is roughly 12.1 miles, which is a 24 to 29 minute drive outside the commute (approx). We are open Monday through Saturday, 9:30 AM to 6:00 PM, Sunday closed. Reserve a slot by call or text, then wait with us or drop the car and pick it up when we text you. Westchester owners tend to check the reviews on the way in: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. [SHOP NOTE: 2-3 sentences from Nick about Westchester customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Westchester job is finished. The shop is LGBTQ-friendly and everyone from Westchester is welcome, as our Google and Yelp listings state. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Westchester.
 
 ## Westchester Tesla tint questions
 
@@ -58,7 +61,7 @@ Owners from these neighbors book the same bay: [Playa del Rey](/playa-del-rey/),
 
 ## Book Westchester Tesla tint
 
-Text the model and year to (213) 429-1092 or call (310) 513-8800. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday to Saturday 9:30 AM to 6:00 PM and closed Sunday.
+Text the model and year to (213) 429-1092 or call (213) 429-1092. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday to Saturday 9:30 AM to 6:00 PM and closed Sunday.
 
 ```json
 {
@@ -69,7 +72,7 @@ Text the model and year to (213) 429-1092 or call (310) 513-8800. Audio MotorSpo
    "@id": "https://www.audiomotorsports.com/westchester/#webpage",
    "url": "https://www.audiomotorsports.com/westchester/",
    "name": "Tesla Window Tint for Westchester | Audio MotorSports Carson",
-   "description": "Westchester Tesla window tint and ceramic tint at Audio MotorSports in Carson, 12.1 miles away, with car stereo installation, alarms and dash cams. Call (310) 513-8800.",
+   "description": "Westchester Tesla window tint and ceramic tint at Audio MotorSports in Carson, 12.1 miles away, with car stereo installation, alarms and dash cams. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

@@ -5,7 +5,7 @@ miles: 12.5
 lead_service: Tesla window tint (Model 3)
 source: hub-mounted copy; standalone www host not verified
 title: Model 3 Window Tint for La Palma | Tesla Tint LA
-meta: Model 3 and Tesla window tint for La Palma owners at Audio MotorSports in Carson, 12.5 miles away. Ceramic film, one-piece rear glass, cameras clear. Call (310) 513-8800.
+meta: Model 3 and Tesla window tint for La Palma owners at Audio MotorSports in Carson, 12.5 miles away. Ceramic film, one-piece rear glass, cameras clear. Call (213) 429-1092.
 ---
 # Model 3 Window Tint for La Palma Owners
 
@@ -28,6 +28,9 @@ Audio MotorSports also installs dash cameras, GPS trackers, car alarms, remote s
 About 12.5 miles, roughly 25 to 30 minutes outside rush hour (approx). Hours: Monday to Saturday, 9:30 AM to 6:00 PM, closed Sunday. Reserve a slot, then drop the Model 3 off or wait at the shop while it is tinted. We have had Teslas driven in from Temecula for this; La Palma is a short run.
 
 [SHOP NOTE: 2-3 sentences from Nick about La Palma customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Plenty of La Palma drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. La Palma customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Coming from La Palma, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## La Palma Model 3 questions
 
@@ -53,7 +56,7 @@ A few days. The film is curing against the glass, so keep the windows up and the
 
 ## Pricing
 
-Model 3 and all other Tesla tint is quoted by model at the shop; text the year and model for a figure. The non-Tesla reference, as of October 2026: Solar $249 and Solar Ceramic $329 installed. Other services are quoted at the shop. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Model 3 and all other Tesla tint is quoted by model at the shop; text the year and model for a figure. The non-Tesla reference, as of October 2026: Solar $249 and Solar Ceramic $329 installed. Other services are quoted at the shop. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near La Palma
 
@@ -64,7 +67,7 @@ Model 3 and all other Tesla tint is quoted by model at the shop; text the year a
 
 ## Call or text to schedule
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -75,7 +78,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-la-palma/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-la-palma/",
    "name": "Model 3 Window Tint for La Palma | Tesla Tint LA",
-   "description": "Model 3 and Tesla window tint for La Palma owners at Audio MotorSports in Carson, 12.5 miles away. Ceramic film, one-piece rear glass, cameras clear. Call (310) 513-8800.",
+   "description": "Model 3 and Tesla window tint for La Palma owners at Audio MotorSports in Carson, 12.5 miles away. Ceramic film, one-piece rear glass, cameras clear. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

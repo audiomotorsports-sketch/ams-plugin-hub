@@ -4,7 +4,7 @@ city: Hidden Hills
 miles: 32.3
 lead_service: car window tint / ceramic window tint
 title: Ceramic Window Tint for Hidden Hills | Audio MotorSports
-meta: Ceramic window tint, Tesla tint, car stereo installation and alarm installs for Hidden Hills drivers at Audio MotorSports in Carson, 32.3 miles. (310) 513-8800.
+meta: Ceramic window tint, Tesla tint, car stereo installation and alarm installs for Hidden Hills drivers at Audio MotorSports in Carson, 32.3 miles. (213) 429-1092.
 ---
 # Ceramic Window Tint for Hidden Hills Drivers
 
@@ -26,11 +26,14 @@ Hidden Hills drivers bring cars 32.3 miles to Audio MotorSports in Carson, 22025
 
 From Hidden Hills the trip is 32.3 miles, roughly sixty-five to seventy-eight minutes outside rush hour (approx). We are open Monday through Saturday from 9:30 to 6:00 and closed on Sunday. Reserve a time by call or text, then drop the car and pick it up later, or wait while the film goes on. Customers drive in from more than 100 miles away for tint and audio here, so the run from the west Valley is routine.
 
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Hidden Hills, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Hidden Hills.
+
 ## Hidden Hills tint questions
 
 ### Is Carson too far from Hidden Hills for window tint?
 
-No. It is 32.3 miles, roughly sixty-five to seventy-eight minutes outside rush hour, and the install is what makes the trip worthwhile: film hand-cut on your glass in a clean bay, cured properly, with fronts at a legal shade. Book by calling (310) 513-8800 or texting (213) 429-1092.
+No. It is 32.3 miles, roughly sixty-five to seventy-eight minutes outside rush hour, and the install is what makes the trip worthwhile: film hand-cut on your glass in a clean bay, cured properly, with fronts at a legal shade. Book by calling (213) 429-1092 or texting (213) 429-1092.
 
 ### What makes ceramic window tint better for a car that sits in the sun?
 
@@ -42,7 +45,7 @@ Yes. The rear glass is tinted as one sheet shrunk to the curve, the sides and qu
 
 ### Should I wait or leave the car for a full tint?
 
-A sedan is usually two to three hours, which most people wait out in the lobby. A large SUV or a Tesla with the rear glass takes longer, so Hidden Hills drivers often drop off in the morning and come back in the afternoon. Either works; tell us when you book.
+A sedan is usually two to three hours, which most people wait it out inside the shop. A large SUV or a Tesla with the rear glass takes longer, so Hidden Hills drivers often drop off in the morning and come back in the afternoon. Either works; tell us when you book.
 
 ### Do you install GPS trackers and alarms on the same visit as tint?
 
@@ -61,7 +64,7 @@ Solar car window tint $249 installed; Solar Ceramic $329 installed. Viper 3108V 
 
 ## Schedule from Hidden Hills
 
-Text the year, make and model to (213) 429-1092 or call (310) 513-8800. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00, closed Sunday. Drop off or wait on site.
+Text the year, make and model to (213) 429-1092 or call (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00, closed Sunday. Drop off or wait on site.
 
 ```json
 {
@@ -72,7 +75,7 @@ Text the year, make and model to (213) 429-1092 or call (310) 513-8800. Audio Mo
    "@id": "https://www.audiomotorsports.com/hidden-hills/#webpage",
    "url": "https://www.audiomotorsports.com/hidden-hills/",
    "name": "Ceramic Window Tint for Hidden Hills | Audio MotorSports",
-   "description": "Ceramic window tint, Tesla tint, car stereo installation and alarm installs for Hidden Hills drivers at Audio MotorSports in Carson, 32.3 miles. (310) 513-8800.",
+   "description": "Ceramic window tint, Tesla tint, car stereo installation and alarm installs for Hidden Hills drivers at Audio MotorSports in Carson, 32.3 miles. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {
@@ -115,7 +118,7 @@ Text the year, make and model to (213) 429-1092 or call (310) 513-8800. Audio Mo
      "name": "Is Carson too far from Hidden Hills for window tint?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "No. It is 32.3 miles, roughly sixty-five to seventy-eight minutes outside rush hour, and the install is what makes the trip worthwhile: film hand-cut on your glass in a clean bay, cured properly, with fronts at a legal shade. Book by calling (310) 513-8800 or texting (213) 429-1092."
+      "text": "No. It is 32.3 miles, roughly sixty-five to seventy-eight minutes outside rush hour, and the install is what makes the trip worthwhile: film hand-cut on your glass in a clean bay, cured properly, with fronts at a legal shade. Book by calling (213) 429-1092 or texting (213) 429-1092."
      }
     },
     {
@@ -139,7 +142,7 @@ Text the year, make and model to (213) 429-1092 or call (310) 513-8800. Audio Mo
      "name": "Should I wait or leave the car for a full tint?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "A sedan is usually two to three hours, which most people wait out in the lobby. A large SUV or a Tesla with the rear glass takes longer, so Hidden Hills drivers often drop off in the morning and come back in the afternoon. Either works; tell us when you book."
+      "text": "A sedan is usually two to three hours, which most people wait it out inside the shop. A large SUV or a Tesla with the rear glass takes longer, so Hidden Hills drivers often drop off in the morning and come back in the afternoon. Either works; tell us when you book."
      }
     },
     {

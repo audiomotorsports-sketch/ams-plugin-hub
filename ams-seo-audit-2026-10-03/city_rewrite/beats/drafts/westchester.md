@@ -4,7 +4,7 @@ city: Westchester
 miles: 12.1
 lead_service: subwoofer installation and amplifier installation
 title: Westchester Subwoofer & Amp Installation | LA Car Beats
-meta: Subwoofer installation and amplifier installation for Westchester drivers at LA Car Beats by Audio MotorSports in Carson. Tuned and fused. Call (310) 513-8800.
+meta: Subwoofer installation and amplifier installation for Westchester drivers at LA Car Beats by Audio MotorSports in Carson. Tuned and fused. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Subwoofer and Amplifier Installation for Westchester
@@ -26,6 +26,9 @@ Westchester drivers who want bass that is tight rather than boomy bring the car 
 ## Westchester to Carson
 
 The shop is about 12.1 miles from Westchester, roughly 24 to 29 minutes outside rush hour (approx). Book first, then drop off the car for the day or wait while a box and amplifier are installed. Hours: Monday through Saturday 9:30-18:00, closed Sunday. Customers come from over 100 miles away for this kind of work, so a Westchester trip is an easy one.
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Westchester, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. From Westchester you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Westchester subwoofer questions
 
@@ -51,7 +54,7 @@ Not when amplifier installation is sized correctly. We use wire gauge matched to
 
 ## Pricing for Westchester drivers
 
-Dual Kicker Comp loaded box: $249, box only, as of October 2026. Subwoofer installation labor, amplifier installation, subwoofer upgrades, head unit installation and speaker replacement are quoted at the shop once we see the car. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Window tint, Viper alarm installation, Compustar remote start installation, GPS tracker installation and dash camera installation are available in the same bay.
+Dual Kicker Comp loaded box: $249, box only, as of October 2026. Subwoofer installation labor, amplifier installation, subwoofer upgrades, head unit installation and speaker replacement are quoted at the shop once we see the car. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Window tint, Viper alarm installation, Compustar remote start installation, GPS tracker installation and dash camera installation are available in the same bay.
 
 ## Nearby cities
 
@@ -65,7 +68,7 @@ LA Car Beats pages around Westchester:
 
 ## Book subwoofer installation
 
-Call (310) 513-8800 or text (213) 429-1092 and tell us the car and the bass you are after. LA Car Beats, Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30-18:00, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092 and tell us the car and the bass you are after. LA Car Beats, Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -76,7 +79,7 @@ Call (310) 513-8800 or text (213) 429-1092 and tell us the car and the bass you 
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-westchester/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-westchester/",
    "name": "Westchester Subwoofer & Amp Installation | LA Car Beats",
-   "description": "Subwoofer installation and amplifier installation for Westchester drivers at LA Car Beats by Audio MotorSports in Carson. Tuned and fused. Call (310) 513-8800.",
+   "description": "Subwoofer installation and amplifier installation for Westchester drivers at LA Car Beats by Audio MotorSports in Carson. Tuned and fused. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

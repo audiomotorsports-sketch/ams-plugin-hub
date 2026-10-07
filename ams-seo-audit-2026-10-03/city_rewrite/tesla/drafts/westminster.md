@@ -5,7 +5,7 @@ miles: 16.4
 lead_service: Tesla window tint (Model 3)
 source: hub-mounted copy; standalone www host not verified
 title: Model 3 Window Tint for Westminster Owners | Tesla Tint LA
-meta: Model 3 ceramic window tint for Westminster Tesla owners at Tesla Tint LA by Audio MotorSports in Carson, 16.4 miles away. Call (310) 513-8800 to book.
+meta: Model 3 ceramic window tint for Westminster Tesla owners at Tesla Tint LA by Audio MotorSports in Carson, 16.4 miles away. Call (213) 429-1092 to book.
 ---
 # Model 3 Window Tint for Westminster Tesla Owners
 
@@ -28,6 +28,9 @@ Audio MotorSports also installs dash cameras, GPS trackers, car alarms with remo
 Westminster is about 16.4 miles out, which is roughly 33 to 39 minutes of driving outside rush hour (approx). We are open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday. Schedule a slot, then wait at the shop or drop the Model 3 off and head back once the tint is cured enough to drive.
 
 [SHOP NOTE: 2-3 sentences from Nick about Westminster customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Westminster customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. Westminster customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Westminster.
 
 ## Model 3 tint questions from Westminster
 
@@ -53,7 +56,7 @@ Doors and rear glass on a Model 3 are generally finished within the day. Book an
 
 ## Pricing
 
-Model 3 tint and every other Tesla are quoted by model at the shop; text the year and model to get your figure. Non-Tesla reference, as of October 2026: Solar $249, Solar Ceramic $329 installed. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Model 3 tint and every other Tesla are quoted by model at the shop; text the year and model to get your figure. Non-Tesla reference, as of October 2026: Solar $249, Solar Ceramic $329 installed. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint around Westminster
 
@@ -65,7 +68,7 @@ Model 3 tint and every other Tesla are quoted by model at the shop; text the yea
 
 ## Book your appointment
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -76,7 +79,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-westminster/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-westminster/",
    "name": "Model 3 Window Tint for Westminster Owners | Tesla Tint LA",
-   "description": "Model 3 ceramic window tint for Westminster Tesla owners at Tesla Tint LA by Audio MotorSports in Carson, 16.4 miles away. Call (310) 513-8800 to book.",
+   "description": "Model 3 ceramic window tint for Westminster Tesla owners at Tesla Tint LA by Audio MotorSports in Carson, 16.4 miles away. Call (213) 429-1092 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

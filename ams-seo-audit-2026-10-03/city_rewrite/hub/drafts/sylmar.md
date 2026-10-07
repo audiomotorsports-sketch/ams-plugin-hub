@@ -4,7 +4,7 @@ city: Sylmar
 miles: 34.9
 lead_service: Harley bagger audio installation
 title: Harley Bagger Audio Installation, Sylmar | Audio MotorSports
-meta: Harley bagger audio with AMS pods, car window tint, stereo and alarm installation for Sylmar riders and drivers at Audio MotorSports, Carson. (310) 513-8800.
+meta: Harley bagger audio with AMS pods, car window tint, stereo and alarm installation for Sylmar riders and drivers at Audio MotorSports, Carson. (213) 429-1092.
 ---
 # Harley Bagger Audio Installation for Sylmar Riders
 
@@ -22,9 +22,12 @@ Sylmar riders bring their baggers to Audio MotorSports, 22025 S Avalon Blvd Ste 
 
 **GPS tracker installation.** For the bike or the truck, a tracker hidden on constant power that reports to your phone.
 
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Sylmar job is finished. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Sylmar.
+
 ## Sylmar to Carson
 
-About 34.9 miles, roughly 70 to 84 minutes (approx) with the freeway clear. Riders come to this bay from over 100 miles away, so Sylmar is a normal run. Hours are Monday to Saturday, 9:30 AM to 6:00 PM, closed Sunday. Set a time, then leave the bike or wait at the shop while the pods go on. Call (310) 513-8800 or text (213) 429-1092 with the year and model. Sylmar riders can check Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, before the ride.
+About 34.9 miles, roughly 70 to 84 minutes (approx) with the freeway clear. Riders come to this bay from over 100 miles away, so Sylmar is a normal run. Hours are Monday to Saturday, 9:30 AM to 6:00 PM, closed Sunday. Set a time, then leave the bike or wait at the shop while the pods go on. Call (213) 429-1092 or text (213) 429-1092 with the year and model. Sylmar riders can check Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, before the ride.
 
 [SHOP NOTE: 2-3 sentences from Nick about Sylmar customers, routes or jobs]
 
@@ -70,7 +73,7 @@ Amplifier installation, fairing speakers, car stereo work, GPS and dash cams are
 
 ## Book bagger audio from Sylmar
 
-Call (310) 513-8800 or text (213) 429-1092 with the bike. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson 90745, open Mon-Sat 9:30-18:00, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092 with the bike. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson 90745, open Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -81,7 +84,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the bike. Audio MotorSports is a
    "@id": "https://www.audiomotorsports.com/sylmar/#webpage",
    "url": "https://www.audiomotorsports.com/sylmar/",
    "name": "Harley Bagger Audio Installation, Sylmar | Audio MotorSports",
-   "description": "Harley bagger audio with AMS pods, car window tint, stereo and alarm installation for Sylmar riders and drivers at Audio MotorSports, Carson. (310) 513-8800.",
+   "description": "Harley bagger audio with AMS pods, car window tint, stereo and alarm installation for Sylmar riders and drivers at Audio MotorSports, Carson. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

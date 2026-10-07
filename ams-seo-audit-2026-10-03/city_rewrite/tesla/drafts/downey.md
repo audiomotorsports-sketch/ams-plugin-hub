@@ -5,7 +5,7 @@ miles: 10.9
 lead_service: Tesla window tint (Model Y)
 source: hub-mounted copy; standalone www host not verified
 title: Model Y Window Tint, Downey Owners | Tesla Tint LA
-meta: Model Y and Tesla window tint for Downey drivers, ceramic film installed by Audio MotorSports in Carson, about 10.9 miles out. Book at (310) 513-8800 or text (213) 429-1092.
+meta: Model Y and Tesla window tint for Downey drivers, ceramic film installed by Audio MotorSports in Carson, about 10.9 miles out. Book at (213) 429-1092 or text (213) 429-1092.
 ---
 # Tesla Window Tint for Downey Drivers, Model Y First
 
@@ -28,6 +28,9 @@ Need more than tint? The same shop does remote start installation, Viper alarm i
 About 10.9 miles, call it 22 to 26 minutes outside rush hour (approx). We are open Monday to Saturday, 9:30 AM to 6:00 PM, and closed Sunday. Set a time first; drop the car and go about your morning, or wait at the shop and drive it home when it is done. Customers have come from Temecula for this work, so a Downey trip is nothing.
 
 [SHOP NOTE: 2-3 sentences from Nick about Downey customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Downey job is finished. Downey customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Coming from Downey, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Questions Downey owners ask before booking
 
@@ -53,7 +56,7 @@ No. The camera areas on the glass are masked and left bare, and the ceramic film
 
 ## Pricing
 
-Each Tesla is priced by model at the counter, so text the year and model and Nick will give you a number. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Each Tesla is priced by model at the counter, so text the year and model and Nick will give you a number. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## More Tesla tint drive-ins near Downey
 
@@ -65,7 +68,7 @@ Each Tesla is priced by model at the counter, so text the year and model and Nic
 
 ## Set a Downey appointment
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -76,7 +79,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-downey/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-downey/",
    "name": "Model Y Window Tint, Downey Owners | Tesla Tint LA",
-   "description": "Model Y and Tesla window tint for Downey drivers, ceramic film installed by Audio MotorSports in Carson, about 10.9 miles out. Book at (310) 513-8800 or text (213) 429-1092.",
+   "description": "Model Y and Tesla window tint for Downey drivers, ceramic film installed by Audio MotorSports in Carson, about 10.9 miles out. Book at (213) 429-1092 or text (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

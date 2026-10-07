@@ -6,7 +6,7 @@ lead_service: Apple CarPlay and Android Auto installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Rancho Palos Verdes CarPlay Installation | LA Car Beats
-meta: Apple CarPlay and Android Auto installation for Rancho Palos Verdes drivers at LA Car Beats, Audio MotorSports in Carson, about 9 miles. Call (310) 513-8800.
+meta: Apple CarPlay and Android Auto installation for Rancho Palos Verdes drivers at LA Car Beats, Audio MotorSports in Carson, about 9 miles. Call (213) 429-1092.
 ---
 # Apple CarPlay and Android Auto Installation for Rancho Palos Verdes
 
@@ -22,7 +22,10 @@ Rancho Palos Verdes drivers add Apple CarPlay and Android Auto installation to o
 
 ## Coming down from Rancho Palos Verdes
 
-Rancho Palos Verdes to the shop is about 9 miles, roughly 18 to 22 minutes outside rush hour (approx). Doors open Monday through Saturday at 9:30 and close at 6:00; Sunday we are closed. Set the appointment by calling (310) 513-8800 or texting (213) 429-1092, then either wait for a CarPlay install or leave the car with us for a longer job. We have had customers call from as far as San Jose, so nine miles is nothing. [SHOP NOTE: 2-3 sentences from Nick about Rancho Palos Verdes customers, routes or jobs]
+Rancho Palos Verdes to the shop is about 9 miles, roughly 18 to 22 minutes outside rush hour (approx). Doors open Monday through Saturday at 9:30 and close at 6:00; Sunday we are closed. Set the appointment by calling (213) 429-1092 or texting (213) 429-1092, then either wait for a CarPlay install or leave the car with us for a longer job. We have had customers call from as far as San Jose, so nine miles is nothing. [SHOP NOTE: 2-3 sentences from Nick about Rancho Palos Verdes customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Rancho Palos Verdes customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. Coming from Rancho Palos Verdes, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## CarPlay questions from Rancho Palos Verdes
 
@@ -48,7 +51,7 @@ Window tint and ceramic window tint, Tesla window tint, car alarm installation, 
 
 ## Pricing as of October 2026
 
-Dual Kicker Comp box: $249, box only, as of October 2026. Apple CarPlay and Android Auto installation, head unit installation and speaker replacement are quoted at the shop for your exact vehicle. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, are there for Rancho Palos Verdes drivers to read.
+Dual Kicker Comp box: $249, box only, as of October 2026. Apple CarPlay and Android Auto installation, head unit installation and speaker replacement are quoted at the shop for your exact vehicle. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, are there for Rancho Palos Verdes drivers to read.
 
 ## Cities near Rancho Palos Verdes
 
@@ -56,7 +59,7 @@ More car stereo pages for the area: [Palos Verdes Estates](/beats/car-stereo-pal
 
 ## Schedule CarPlay for your Rancho Palos Verdes car
 
-Call (310) 513-8800 or text (213) 429-1092 with your vehicle details. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745; Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with your vehicle details. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745; Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -68,7 +71,7 @@ Call (310) 513-8800 or text (213) 429-1092 with your vehicle details. Audio Moto
    "name": "Rancho Palos Verdes CarPlay Installation | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-rancho-palos-verdes/",
    "dateModified": "2026-10-08",
-   "description": "Apple CarPlay and Android Auto installation for Rancho Palos Verdes drivers at LA Car Beats, Audio MotorSports in Carson, about 9 miles. Call (310) 513-8800.",
+   "description": "Apple CarPlay and Android Auto installation for Rancho Palos Verdes drivers at LA Car Beats, Audio MotorSports in Carson, about 9 miles. Call (213) 429-1092.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

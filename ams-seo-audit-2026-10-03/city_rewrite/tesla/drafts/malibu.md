@@ -5,7 +5,7 @@ miles: 32.6
 lead_service: Tesla window tint (glass roof heat)
 source: hub-mounted copy; standalone www host not verified
 title: Tesla Glass Roof Tint for Malibu | Tesla Tint LA
-meta: Tesla glass roof and window tint for Malibu owners at Audio MotorSports in Carson, 32.6 miles away. Ceramic film for all-day sun. Call (310) 513-8800 to book.
+meta: Tesla glass roof and window tint for Malibu owners at Audio MotorSports in Carson, 32.6 miles away. Ceramic film for all-day sun. Call (213) 429-1092 to book.
 ---
 # Tesla Glass Roof and Window Tint for Malibu Owners
 
@@ -28,6 +28,9 @@ Audio MotorSports also installs dash cameras, GPS trackers, alarms and car audio
 Plan on about 32.6 miles and roughly 65 to 78 minutes outside rush hour (approx). Open Monday to Saturday, 9:30 AM to 6:00 PM, closed Sunday. Book an appointment and plan to drop the car off for the day, or wait at the shop if you would rather. Tesla owners have driven in from more than 100 miles away for this; Malibu is a coast run.
 
 [SHOP NOTE: 2-3 sentences from Nick about Malibu customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Malibu, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. Malibu customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Malibu traffic sends you.
 
 ## Malibu Tesla roof and tint questions
 
@@ -53,7 +56,7 @@ Yes. California requires front door glass to pass 70% of visible light, and cera
 
 ## Pricing
 
-Whether it is roof film alone or the whole car, a Tesla is quoted by model at the shop; text us the year and model. For a non-Tesla reference, Solar is $249 and Solar Ceramic is $329 installed, as of October 2026. Other work is quoted at the shop. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Whether it is roof film alone or the whole car, a Tesla is quoted by model at the shop; text us the year and model. For a non-Tesla reference, Solar is $249 and Solar Ceramic is $329 installed, as of October 2026. Other work is quoted at the shop. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near Malibu
 
@@ -64,7 +67,7 @@ Whether it is roof film alone or the whole car, a Tesla is quoted by model at th
 
 ## Call or text from Malibu
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -75,7 +78,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-malibu/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-malibu/",
    "name": "Tesla Glass Roof Tint for Malibu | Tesla Tint LA",
-   "description": "Tesla glass roof and window tint for Malibu owners at Audio MotorSports in Carson, 32.6 miles away. Ceramic film for all-day sun. Call (310) 513-8800 to book.",
+   "description": "Tesla glass roof and window tint for Malibu owners at Audio MotorSports in Carson, 32.6 miles away. Ceramic film for all-day sun. Call (213) 429-1092 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

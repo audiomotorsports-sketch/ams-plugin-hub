@@ -4,7 +4,7 @@ city: San Pedro
 miles: 6.5
 lead_service: street-parked car security
 title: Car Alarm Installation for San Pedro Drivers | LA Car Alarm
-meta: Car alarm installation for street-parked cars in San Pedro at LA Car Alarm by Audio MotorSports, Carson. Viper, Compustar, GPS, dash cams. Call (310) 513-8800.
+meta: Car alarm installation for street-parked cars in San Pedro at LA Car Alarm by Audio MotorSports, Carson. Viper, Compustar, GPS, dash cams. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Alarm Installation for San Pedro Drivers Who Park on the Street
@@ -22,6 +22,9 @@ When the car sleeps at the curb, the alarm has to do real work. LA Car Alarm at 
 **Remote start installation.** Compustar installation that keeps the doors secured while the car runs, so remote start does not become a free ride for someone walking by.
 
 Window tint, subwoofer installation and CarPlay head units are available at the same shop if you want to combine the visit.
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which San Pedro customers tell us makes the drop-off painless. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way San Pedro traffic sends you. A lot of our San Pedro customers are ILWU longshore workers and refinery and rail-yard crews who come in before or after a shift.
 
 ## The drive in from San Pedro
 
@@ -54,7 +57,7 @@ Yes. Compustar remote start works with most push-button vehicles using a bypass 
 
 Everything else is quoted at the shop on your vehicle. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby alarm pages
 
@@ -65,7 +68,7 @@ Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
 
 ## Schedule from San Pedro
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

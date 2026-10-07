@@ -4,7 +4,7 @@ city: Maywood
 miles: 11.9
 lead_service: work-truck security
 title: Work Truck Alarm Installation for Maywood | LA Car Alarm
-meta: Work truck and car alarm installation for Maywood at LA Car Alarm by Audio MotorSports in Carson, 11.9 miles. GPS trackers, remote start, dash cams. Call (310) 513-8800.
+meta: Work truck and car alarm installation for Maywood at LA Car Alarm by Audio MotorSports in Carson, 11.9 miles. GPS trackers, remote start, dash cams. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Work Truck and Car Alarm Installation for Maywood
@@ -22,6 +22,9 @@ Tools, ladders and a trailer make a Maywood work truck the first thing a thief c
 **Dash camera installation.** Forward and cabin cameras hardwired for parking mode record anyone who walks up to the truck at night.
 
 The family sedan can get ceramic window tint or Apple CarPlay installation at the same shop while the truck is in the bay.
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Maywood customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Coming from Maywood, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Maywood to Carson
 
@@ -54,7 +57,7 @@ The Viper 3108V is $269 installed and the Compustar 9910 starts from $499, as of
 
 Cargo sensors, trackers and dash cameras are quoted on the vehicle at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby alarm pages
 
@@ -65,7 +68,7 @@ Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
 
 ## Book a truck install from Maywood
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make, model and what needs covering. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make, model and what needs covering. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

@@ -4,12 +4,12 @@ city: West Carson
 miles: 1.8
 lead_service: car window tint / ceramic window tint (heat)
 title: Car Window Tint West Carson | LA Car Tint
-meta: Car window tint and ceramic window tinting for West Carson drivers at LA Car Tint by Audio MotorSports in Carson, 1.8 miles away. Call (310) 513-8800.
+meta: Car window tint and ceramic window tinting for West Carson drivers at LA Car Tint by Audio MotorSports in Carson, 1.8 miles away. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Window Tint for West Carson, by Audio MotorSports in Carson
 
-LA Car Tint is the window tinting desk at Audio MotorSports, 22025 S Avalon Blvd Ste A in Carson, about 1.8 miles from West Carson. We install Solar and Solar Ceramic car window tint that cuts cabin heat, hand-cutting the film on the glass so edges sit clean, and the same bay does car stereo installation, car alarm installation, remote start installation and Tesla window tint. Call (310) 513-8800 or text (213) 429-1092 to book.
+LA Car Tint is the window tinting desk at Audio MotorSports, 22025 S Avalon Blvd Ste A in Carson, about 1.8 miles from West Carson. We install Solar and Solar Ceramic car window tint that cuts cabin heat, hand-cutting the film on the glass so edges sit clean, and the same bay does car stereo installation, car alarm installation, remote start installation and Tesla window tint. Call (213) 429-1092 or text (213) 429-1092 to book.
 
 ## What West Carson drivers bring us
 
@@ -23,6 +23,9 @@ LA Car Tint is the window tinting desk at Audio MotorSports, 22025 S Avalon Blvd
 West Carson sits about 1.8 miles from the shop, roughly a five-minute drive (approx) outside rush hour. People already come from more than 100 miles away for the same work. Hours are Monday through Saturday, 9:30 AM to 6:00 PM, Sunday closed. Book an appointment first, then drop the car and head home, or wait at the shop while the film goes on. Window tinting done once by a crew that does it every day costs less than a cheap job that has to be stripped and redone.
 
 [SHOP NOTE: 2-3 sentences from Nick about West Carson customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from West Carson, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. The shop is LGBTQ-friendly and everyone from West Carson is welcome, as our Google and Yelp listings state. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way West Carson traffic sends you. Many West Carson customers work at the port, the rail yard or one of the refineries and book around their shifts.
 
 ## Questions from West Carson drivers
 
@@ -40,7 +43,7 @@ Plan on a few hours for a full car, a bit longer for a large SUV or a Tesla with
 
 ### Why do West Carson drivers pick Audio MotorSports for car window tint?
 
-Trust and fair numbers. West Carson customers can see our record before they walk in: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. The price is posted, the shop is a short drive, and the same people who did your tint can do your car stereo installation or car alarm installation.
+Trust and fair numbers. West Carson customers can see our record before they walk in: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. The price is posted, the shop is a short drive, and the same people who did your tint can do your car stereo installation or car alarm installation.
 
 ### Can I get window tinting and car alarm installation done in one visit?
 
@@ -59,7 +62,7 @@ Solar car window tint runs $249 installed, and Solar Ceramic is $329 installed, 
 
 ## Book it
 
-Call (310) 513-8800. Text (213) 429-1092. 22025 S Avalon Blvd Ste A. Carson, CA 90745. Mon-Sat 9:30-6:00. Sunday closed.
+Call (213) 429-1092. Text (213) 429-1092. 22025 S Avalon Blvd Ste A. Carson, CA 90745. Mon-Sat 9:30-6:00. Sunday closed.
 
 ```json
 {
@@ -70,7 +73,7 @@ Call (310) 513-8800. Text (213) 429-1092. 22025 S Avalon Blvd Ste A. Carson, CA 
    "@id": "https://www.audiomotorsports.com/tint/window-tint-west-carson/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-west-carson/",
    "name": "Car Window Tint West Carson | LA Car Tint",
-   "description": "Car window tint and ceramic window tinting for West Carson drivers at LA Car Tint by Audio MotorSports in Carson, 1.8 miles away. Call (310) 513-8800.",
+   "description": "Car window tint and ceramic window tinting for West Carson drivers at LA Car Tint by Audio MotorSports in Carson, 1.8 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -134,7 +137,7 @@ Call (310) 513-8800. Text (213) 429-1092. 22025 S Avalon Blvd Ste A. Carson, CA 
      "name": "Why do West Carson drivers pick Audio MotorSports for car window tint?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Trust and fair numbers. West Carson customers can see our record before they walk in: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. The price is posted, the shop is a short drive, and the same people who did your tint can do your car stereo installation or car alarm installation."
+      "text": "Trust and fair numbers. West Carson customers can see our record before they walk in: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. The price is posted, the shop is a short drive, and the same people who did your tint can do your car stereo installation or car alarm installation."
      }
     },
     {

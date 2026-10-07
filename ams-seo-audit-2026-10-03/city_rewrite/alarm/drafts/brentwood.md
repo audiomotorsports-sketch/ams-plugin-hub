@@ -5,7 +5,7 @@ city: Brentwood
 miles: 20.2
 lead_service: dash camera installation
 title: Dash Camera & Alarm Installation, Brentwood | LA Car Alarm
-meta: Dash camera installation, Viper car alarms and GPS trackers for Brentwood drivers at LA Car Alarm by Audio MotorSports in Carson. Call (310) 513-8800.
+meta: Dash camera installation, Viper car alarms and GPS trackers for Brentwood drivers at LA Car Alarm by Audio MotorSports in Carson. Call (213) 429-1092.
 ---
 # Dash Camera Installation and Car Alarms for Brentwood
 
@@ -23,6 +23,9 @@ Brentwood drivers travel 20.2 miles to LA Car Alarm by Audio MotorSports, 22025 
 
 The same shop does car window tint, car stereo installation, Apple CarPlay and Android Auto, subwoofer installation and Harley bagger audio if you would rather do it all in one trip.
 
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Brentwood customers tell us makes the drop-off painless. Brentwood customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Coming from Brentwood, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
+
 ## Brentwood to the shop
 
 The 20.2 miles come to about 40 to 48 minutes outside rush hour (approx). Make an appointment, then leave the car for the day or wait at the shop while we work. Mon-Sat 9:30-18:00, Sunday closed. Customers come from over 100 miles away for this; Brentwood is well within range. [SHOP NOTE: 2-3 sentences from Nick about Brentwood customers, routes or jobs]
@@ -37,7 +40,7 @@ Both. With the car switched off, the camera sleeps until it senses impact or mot
 
 ### Can the Viper alarm be installed without changing the interior?
 
-Yes. Panels come off properly and go back without broken clips, the module is hidden, the LED is placed where you want it, and the siren is mounted out of sight under the hood. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, is the result of doing that carefully.
+Yes. Panels come off properly and go back without broken clips, the module is hidden, the LED is placed where you want it, and the siren is mounted out of sight under the hood. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, is the result of doing that carefully.
 
 ### Is a GPS tracker installation worth it for a Brentwood car that lives in a garage?
 
@@ -57,7 +60,7 @@ Viper 3108V alarm $269 installed. Compustar 9910 remote start from $499. Dash ca
 
 ## Book a Brentwood dash cam install
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -122,7 +125,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. LA Car
      "name": "Can the Viper alarm be installed without changing the interior?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. Panels come off properly and go back without broken clips, the module is hidden, the LED is placed where you want it, and the siren is mounted out of sight under the hood. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, is the result of doing that carefully."
+      "text": "Yes. Panels come off properly and go back without broken clips, the module is hidden, the LED is placed where you want it, and the siren is mounted out of sight under the hood. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, is the result of doing that carefully."
      }
     },
     {

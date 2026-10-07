@@ -4,7 +4,7 @@ city: Lynwood
 miles: 7.8
 lead_service: dash camera installation
 title: Dash Camera Installation for Lynwood | LA Car Alarm
-meta: Dash camera installation for Lynwood drivers at LA Car Alarm by Audio MotorSports in Carson, 7.8 miles away. Viper alarms, remote start, GPS trackers. Call (310) 513-8800.
+meta: Dash camera installation for Lynwood drivers at LA Car Alarm by Audio MotorSports in Carson, 7.8 miles away. Viper alarms, remote start, GPS trackers. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Dash Camera Installation for Lynwood Drivers
@@ -22,6 +22,9 @@ Lynwood is about 7.8 miles from LA Car Alarm at Audio MotorSports, 22025 S Avalo
 **GPS tracker installation.** Constant power, behind factory panels, tested on your phone before pickup.
 
 Window tint, subwoofer installation and Android Auto head units are done at the same shop and can share the appointment.
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Lynwood, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. From Lynwood you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Lynwood to the shop
 
@@ -56,7 +59,7 @@ Drivers come to this shop from over 100 miles away for security installs, so a s
 
 Dash cameras and GPS trackers are quoted on the vehicle at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby alarm pages
 
@@ -68,7 +71,7 @@ Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
 
 ## Book a camera install from Lynwood
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make and model and whether you want front only or front and rear. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make and model and whether you want front only or front and rear. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

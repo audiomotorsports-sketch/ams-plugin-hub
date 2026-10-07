@@ -4,7 +4,7 @@ city: North Hollywood
 miles: 24.7
 lead_service: Compustar remote start installation
 title: Remote Start Installation North Hollywood | LA Car Alarm
-meta: Compustar remote start installation for North Hollywood drivers at LA Car Alarm by Audio MotorSports, Carson, 24.7 miles. Viper alarms, GPS. Call (310) 513-8800.
+meta: Compustar remote start installation for North Hollywood drivers at LA Car Alarm by Audio MotorSports, Carson, 24.7 miles. Viper alarms, GPS. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Compustar Remote Start Installation for North Hollywood
@@ -22,6 +22,9 @@ A Valley car that bakes all afternoon is the best argument for remote start, as 
 **Dash camera installation.** Fused hardwire kit, cable inside the headliner, parking mode on, battery cutoff set.
 
 Ceramic window tint for that same afternoon heat and a CarPlay head unit can share the booking.
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from North Hollywood, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. North Hollywood customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Coming from North Hollywood, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## North Hollywood to Carson
 
@@ -56,7 +59,7 @@ Customers have called from as far as San Jose about this work, so a drive from t
 
 Trackers, dash cameras and add-on sensors are quoted on the vehicle at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby alarm pages
 
@@ -66,7 +69,7 @@ Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
 
 ## Book remote start from North Hollywood
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make, model and key type. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make, model and key type. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

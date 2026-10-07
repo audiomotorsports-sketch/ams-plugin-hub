@@ -4,7 +4,7 @@ city: Placentia
 miles: 22.9
 lead_service: Apple CarPlay and Android Auto installation
 title: CarPlay & Android Auto, Placentia | Audio MotorSports
-meta: Placentia Apple CarPlay and Android Auto installation, car stereo, window tint and alarms at Audio MotorSports in Carson, 22.9 miles. Call (310) 513-8800.
+meta: Placentia Apple CarPlay and Android Auto installation, car stereo, window tint and alarms at Audio MotorSports in Carson, 22.9 miles. Call (213) 429-1092.
 ---
 # Apple CarPlay and Android Auto Installation for Placentia
 
@@ -24,7 +24,10 @@ Placentia drivers with a car that predates CarPlay drive about 22.9 miles to Aud
 
 ## Placentia to Carson
 
-Placentia is about 22.9 miles from the shop, a 46 to 55 minute drive outside rush hour (approx). We are open Monday through Saturday 9:30 AM to 6:00 PM and closed Sunday. Call or text to book, then stay for a receiver swap or leave the car all day when tint or an alarm is part of the job. People drive in from over 100 miles away for this bay, so Placentia is well within range. The reviews are there to read: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. [SHOP NOTE: 2-3 sentences from Nick about Placentia customers, routes or jobs]
+Placentia is about 22.9 miles from the shop, a 46 to 55 minute drive outside rush hour (approx). We are open Monday through Saturday 9:30 AM to 6:00 PM and closed Sunday. Call or text to book, then stay for a receiver swap or leave the car all day when tint or an alarm is part of the job. People drive in from over 100 miles away for this bay, so Placentia is well within range. The reviews are there to read: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. [SHOP NOTE: 2-3 sentences from Nick about Placentia customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Placentia, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. The shop is LGBTQ-friendly and everyone from Placentia is welcome, as our Google and Yelp listings state. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Placentia.
 
 ## Placentia CarPlay questions
 
@@ -58,7 +61,7 @@ Placentia neighbors who drive to the same shop: [Fullerton](/fullerton/), [Brea]
 
 ## Book Placentia CarPlay installation
 
-Call (310) 513-8800 or text (213) 429-1092 with the car. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday to Saturday 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092 with the car. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday to Saturday 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -69,7 +72,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the car. Audio MotorSports, 2202
    "@id": "https://www.audiomotorsports.com/placentia/#webpage",
    "url": "https://www.audiomotorsports.com/placentia/",
    "name": "CarPlay & Android Auto Installs, Placentia | Audio MotorSports",
-   "description": "Placentia Apple CarPlay and Android Auto installation, car stereo, window tint and alarm installs at Audio MotorSports in Carson, 22.9 miles away. Call (310) 513-8800 to book.",
+   "description": "Placentia Apple CarPlay and Android Auto installation, car stereo, window tint and alarm installs at Audio MotorSports in Carson, 22.9 miles away. Call (213) 429-1092 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

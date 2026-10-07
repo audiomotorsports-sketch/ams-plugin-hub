@@ -4,7 +4,7 @@ city: Alondra Park
 miles: 5.9
 lead_service: Harley bagger audio
 title: Harley Bagger Audio & Tint, Alondra Park | Audio MotorSports
-meta: Harley bagger audio with AMS pods, window tint, car stereo and alarms for Alondra Park riders and drivers at Audio MotorSports in Carson. Call (310) 513-8800.
+meta: Harley bagger audio with AMS pods, window tint, car stereo and alarms for Alondra Park riders and drivers at Audio MotorSports in Carson. Call (213) 429-1092.
 ---
 # Harley Bagger Audio and Window Tint for Alondra Park
 
@@ -21,6 +21,9 @@ Alondra Park riders bring their Street Glides and Road Glides to Audio MotorSpor
 **Apple CarPlay and Android Auto installation.** New head unit, factory camera kept, steering-wheel buttons kept, no drilled dash.
 
 **Car alarm installation and remote start installation.** Viper and Compustar systems, installed so the wiring is invisible and the panels fit like factory.
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Alondra Park customers tell us makes the drop-off painless. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Alondra Park.
 
 ## The drive from Alondra Park
 
@@ -44,7 +47,7 @@ It does, with a bypass module matched to the vehicle. Compustar 9910 remote star
 
 ### Can I wait at the shop while my bike is being done?
 
-You can. Bagger audio installs usually take a good part of the day depending on how much we are adding, so plenty of riders drop off in the morning and pick up in the afternoon. If you would rather stay, the shop is open and you can watch the work. Done once, done right is the whole point of riding down; the shop holds Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+You can. Bagger audio installs usually take a good part of the day depending on how much we are adding, so plenty of riders drop off in the morning and pick up in the afternoon. If you would rather stay, the shop is open and you can watch the work. Done once, done right is the whole point of riding down; the shop holds Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Prices as of October 2026
 
@@ -56,7 +59,7 @@ AMS Harley pods from $649 a pair. Dual Kicker Comp box $249 box only. Window tin
 
 ## Set up an Alondra Park appointment
 
-Call (310) 513-8800, or text (213) 429-1092 with your year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sunday.
+Call (213) 429-1092, or text (213) 429-1092 with your year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -67,7 +70,7 @@ Call (310) 513-8800, or text (213) 429-1092 with your year, make and model. Audi
    "@id": "https://www.audiomotorsports.com/alondra-park/#webpage",
    "url": "https://www.audiomotorsports.com/alondra-park/",
    "name": "Harley Bagger Audio & Tint, Alondra Park | Audio MotorSports",
-   "description": "Harley bagger audio with AMS pods, window tint, car stereo and alarms for Alondra Park riders and drivers at Audio MotorSports in Carson. Call (310) 513-8800.",
+   "description": "Harley bagger audio with AMS pods, window tint, car stereo and alarms for Alondra Park riders and drivers at Audio MotorSports in Carson. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {
@@ -142,7 +145,7 @@ Call (310) 513-8800, or text (213) 429-1092 with your year, make and model. Audi
      "name": "Can I wait at the shop while my bike is being done?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "You can. Bagger audio installs usually take a good part of the day depending on how much we are adding, so plenty of riders drop off in the morning and pick up in the afternoon. If you would rather stay, the shop is open and you can watch the work. Done once, done right is the whole point of riding down; the shop holds Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026."
+      "text": "You can. Bagger audio installs usually take a good part of the day depending on how much we are adding, so plenty of riders drop off in the morning and pick up in the afternoon. If you would rather stay, the shop is open and you can watch the work. Done once, done right is the whole point of riding down; the shop holds Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026."
      }
     }
    ]

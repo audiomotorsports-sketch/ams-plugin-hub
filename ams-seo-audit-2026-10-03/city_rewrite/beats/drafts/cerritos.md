@@ -4,7 +4,7 @@ city: Cerritos
 miles: 11.7
 lead_service: car stereo installation
 title: Car Stereo Installation Cerritos | LA Car Beats by AMS
-meta: Car stereo installation and head unit installation for Cerritos drivers at LA Car Beats by Audio MotorSports in Carson. Speakers, subs. Call (310) 513-8800.
+meta: Car stereo installation and head unit installation for Cerritos drivers at LA Car Beats by Audio MotorSports in Carson. Speakers, subs. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Stereo Installation for Cerritos Drivers
@@ -24,6 +24,9 @@ Car stereo installation is what brings Cerritos drivers to LA Car Beats, the car
 ## Cerritos to the Carson shop
 
 Cerritos is about 11.7 miles from the bay, roughly 23 to 28 minutes outside rush hour (approx). Make an appointment first, then leave the car with us or wait on site; a standard head unit installation can be done while you wait. Open Monday to Saturday 9:30-18:00, closed Sunday. [SHOP NOTE: 2-3 sentences from Nick about Cerritos customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Cerritos customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Cerritos traffic sends you.
 
 ## Cerritos stereo questions
 
@@ -49,7 +52,7 @@ If you want real bass, yes. Subwoofer installation at the same time as the head 
 
 ## Cerritos pricing
 
-The Dual Kicker Comp loaded box is $249, box only, as of October 2026. Head unit installation, Apple CarPlay and Android Auto installation, speaker replacement, subwoofer installation and amplifier installation are quoted at the shop; a payment plan is available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Window tint, car alarm installation, remote start, GPS tracking, dash cameras, Tesla window tint and Harley bagger audio are also done here.
+The Dual Kicker Comp loaded box is $249, box only, as of October 2026. Head unit installation, Apple CarPlay and Android Auto installation, speaker replacement, subwoofer installation and amplifier installation are quoted at the shop; a payment plan is available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Window tint, car alarm installation, remote start, GPS tracking, dash cameras, Tesla window tint and Harley bagger audio are also done here.
 
 ## Cities near Cerritos
 
@@ -63,7 +66,7 @@ LA Car Beats pages for Cerritos neighbors:
 
 ## Book car stereo installation in Carson
 
-Text (213) 429-1092 or call (310) 513-8800. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30 to 6:00, Sunday closed.
+Text (213) 429-1092 or call (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30 to 6:00, Sunday closed.
 
 ```json
 {
@@ -74,7 +77,7 @@ Text (213) 429-1092 or call (310) 513-8800. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-cerritos/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-cerritos/",
    "name": "Car Stereo Installation Cerritos | LA Car Beats by AMS",
-   "description": "Car stereo installation and head unit installation for Cerritos drivers at LA Car Beats by Audio MotorSports in Carson. Speakers, subs. Call (310) 513-8800.",
+   "description": "Car stereo installation and head unit installation for Cerritos drivers at LA Car Beats by Audio MotorSports in Carson. Speakers, subs. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

@@ -4,7 +4,7 @@ city: Hawthorne
 miles: 8.0
 lead_service: Harley bagger audio for long rides
 title: Harley Bagger Audio Hawthorne | AMS Pods
-meta: Harley bagger audio that stays clear on long rides: AMS pods and amplifier tuning for Hawthorne riders at AMS Pods by Audio MotorSports, Carson. (310) 513-8800.
+meta: Harley bagger audio that stays clear on long rides: AMS pods and amplifier tuning for Hawthorne riders at AMS Pods by Audio MotorSports, Carson. (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Long-Haul Bagger Sound for Hawthorne Harley Riders
@@ -26,6 +26,9 @@ Audio MotorSports also handles window tint, car stereo installation, CarPlay and
 ## Riding in from Hawthorne
 
 Hawthorne is about 8.0 miles from the shop, roughly 16 to 19 minutes outside rush hour (approx). Book first, ride in, and leave the bagger for the day or wait at the shop. Hours are Monday through Saturday 9:30 AM to 6:00 PM, Sunday closed. [SHOP NOTE: 2-3 sentences from Nick about Hawthorne riders, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Hawthorne job is finished. The shop is LGBTQ-friendly and everyone from Hawthorne is welcome, as our Google and Yelp listings state. Coming from Hawthorne, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710. A good number of Hawthorne customers are SpaceX employees and engineers who book a lunch-hour drop-off and pick up after work.
 
 ## Questions Hawthorne riders ask
 
@@ -54,7 +57,7 @@ AMS lower-fairing pods start from $649 a pair as of October 2026, chrome or glos
 - AMS lower-fairing pods: from $649 a pair, chrome or gloss, bracket and screws included, as of October 2026.
 - Amp installation and tuning, fairing speakers, radios and saddlebag subwoofers get a quote at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby cities
 
@@ -62,7 +65,7 @@ Riders also come in from [Del Aire](/amspods/bagger-audio-del-aire/), [Lawndale]
 
 ## Book the long-ride build
 
-Call (310) 513-8800 or text (213) 429-1092 with your year and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with your year and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -73,7 +76,7 @@ Call (310) 513-8800 or text (213) 429-1092 with your year and model. Audio Motor
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-hawthorne/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-hawthorne/",
    "name": "Harley Bagger Audio Hawthorne | AMS Pods",
-   "description": "Harley bagger audio that stays clear on long rides: AMS pods and amplifier tuning for Hawthorne riders at AMS Pods by Audio MotorSports, Carson. (310) 513-8800.",
+   "description": "Harley bagger audio that stays clear on long rides: AMS pods and amplifier tuning for Hawthorne riders at AMS Pods by Audio MotorSports, Carson. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

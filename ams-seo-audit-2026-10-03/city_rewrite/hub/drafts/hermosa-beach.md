@@ -4,7 +4,7 @@ city: Hermosa Beach
 miles: 8.1
 lead_service: Car audio / stereo installation
 title: Car Stereo & Tint for Hermosa Beach | Audio MotorSports
-meta: Car stereo installation, subwoofers, window tint and CarPlay for Hermosa Beach drivers at Audio MotorSports in Carson, 8.1 miles away. Call (310) 513-8800.
+meta: Car stereo installation, subwoofers, window tint and CarPlay for Hermosa Beach drivers at Audio MotorSports in Carson, 8.1 miles away. Call (213) 429-1092.
 ---
 # Car Stereo Installation for Hermosa Beach
 
@@ -25,6 +25,9 @@ Audio MotorSports installs car stereos, subwoofers and amplifiers, window tint a
 Figure about 8.1 miles and 16 to 19 minutes (approx) outside rush hour from Hermosa Beach to the shop in Carson. Call or text to lock in a slot, then drop the car or wait while we work. We are open Monday through Saturday from 9:30 in the morning until 6:00, and closed on Sunday. Customers come from well over 100 miles for car audio builds, so a trip from Hermosa Beach is an easy one.
 
 [SHOP NOTE: 2-3 sentences from Nick about Hermosa Beach customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Hermosa Beach customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. Hermosa Beach customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Coming from Hermosa Beach, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Questions we get from Hermosa Beach
 
@@ -64,7 +67,7 @@ Speaker sets, amplifiers, head units, GPS tracking and dash cameras are quoted a
 
 ## Book your car audio install
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-6:00 and closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-6:00 and closed Sunday.
 
 ```json
 {
@@ -75,7 +78,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports is at 22025 S Aval
    "@id": "https://www.audiomotorsports.com/hermosa-beach/#webpage",
    "url": "https://www.audiomotorsports.com/hermosa-beach/",
    "name": "Car Stereo & Tint for Hermosa Beach | Audio MotorSports",
-   "description": "Car stereo installation, subwoofers, window tint and CarPlay for Hermosa Beach drivers at Audio MotorSports in Carson, 8.1 miles away. Call (310) 513-8800.",
+   "description": "Car stereo installation, subwoofers, window tint and CarPlay for Hermosa Beach drivers at Audio MotorSports in Carson, 8.1 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

@@ -4,7 +4,7 @@ city: Newport Beach
 miles: 24.1
 lead_service: theft recovery
 title: Theft Recovery GPS & Alarms for Newport Beach | LA Car Alarm
-meta: Theft recovery GPS and car alarm installation for Newport Beach at LA Car Alarm by Audio MotorSports, Carson, 24.1 miles. Call (310) 513-8800.
+meta: Theft recovery GPS and car alarm installation for Newport Beach at LA Car Alarm by Audio MotorSports, Carson, 24.1 miles. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Theft Recovery Tracking and Car Alarm Installation for Newport Beach
@@ -22,6 +22,9 @@ Newport Beach owners drive about 24.1 miles to LA Car Alarm at Audio MotorSports
 **Dash camera installation.** Parking mode on a fused hardwire kit, cable hidden in the trim, battery protected by a cutoff.
 
 Window tint, Apple CarPlay installation and speaker upgrades are done at the same address if you want one trip to cover more.
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Newport Beach drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Newport Beach.
 
 ## From Newport Beach to the shop
 
@@ -54,7 +57,7 @@ Because a tracker a thief can find in five minutes is worth nothing, and that co
 
 Trackers, tilt sensors and dash cameras are quoted on the vehicle at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby alarm pages
 
@@ -64,7 +67,7 @@ Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
 
 ## Reserve a Newport Beach appointment
 
-Call (310) 513-8800 or text (213) 429-1092 with the vehicle details. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the vehicle details. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

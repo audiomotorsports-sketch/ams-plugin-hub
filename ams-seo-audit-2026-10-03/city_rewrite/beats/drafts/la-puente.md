@@ -4,7 +4,7 @@ city: La Puente
 miles: 27.8
 lead_service: subwoofer installation and amplifier installation
 title: La Puente Subwoofer & Amp Installation | LA Car Beats
-meta: Subwoofer installation, subwoofer upgrades and amplifier installation for La Puente drivers at LA Car Beats, Audio MotorSports, Carson. Call (310) 513-8800.
+meta: Subwoofer installation, subwoofer upgrades and amplifier installation for La Puente drivers at LA Car Beats, Audio MotorSports, Carson. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Subwoofer and Amplifier Installation for La Puente
@@ -26,6 +26,9 @@ La Puente drivers who want bass that hits clean drive to LA Car Beats, the car a
 ## La Puente to Carson
 
 La Puente is about 27.8 miles from the bay, roughly 56 to 67 minutes outside rush hour (approx). Book ahead and text the vehicle details so the enclosure and amplifier are waiting, then drop the car for the day or wait on site. Hours are Monday through Saturday 9:30 to 6:00; closed Sunday. [SHOP NOTE: 2-3 sentences from Nick about La Puente customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the La Puente job is finished. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way La Puente traffic sends you.
 
 ## La Puente subwoofer questions
 
@@ -51,7 +54,7 @@ Not with amplifier installation done to spec. Wire sized for the draw, a fuse at
 
 ## La Puente pricing
 
-Dual Kicker Comp loaded box, $249 box only, as of October 2026. Subwoofer installation labor, subwoofer upgrades, amplifier installation, head unit installation and speaker replacement are quoted at the shop; payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation and Harley bagger audio are handled at the same address.
+Dual Kicker Comp loaded box, $249 box only, as of October 2026. Subwoofer installation labor, subwoofer upgrades, amplifier installation, head unit installation and speaker replacement are quoted at the shop; payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation and Harley bagger audio are handled at the same address.
 
 ## Nearby cities
 
@@ -65,7 +68,7 @@ LA Car Beats pages for cities around La Puente:
 
 ## Book subwoofer or amplifier installation
 
-Call (310) 513-8800 or text (213) 429-1092 with the car and the bass you want. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092 with the car and the bass you want. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -76,7 +79,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the car and the bass you want. A
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-la-puente/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-la-puente/",
    "name": "La Puente Subwoofer & Amp Installation | LA Car Beats",
-   "description": "Subwoofer installation, subwoofer upgrades and amplifier installation for La Puente drivers at LA Car Beats, Audio MotorSports, Carson. Call (310) 513-8800.",
+   "description": "Subwoofer installation, subwoofer upgrades and amplifier installation for La Puente drivers at LA Car Beats, Audio MotorSports, Carson. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

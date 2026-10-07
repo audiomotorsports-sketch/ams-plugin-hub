@@ -4,7 +4,7 @@ city: Monrovia
 miles: 33.3
 lead_service: window tinting (foothill heat and UV)
 title: Window Tinting Monrovia | LA Car Tint by Audio MotorSports
-meta: Window tinting and ceramic window tint for Monrovia drivers, hand-cut and installed by Audio MotorSports in Carson, 33.3 miles away. Call (310) 513-8800.
+meta: Window tinting and ceramic window tint for Monrovia drivers, hand-cut and installed by Audio MotorSports in Carson, 33.3 miles away. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Window Tinting for Monrovia Drivers, by Audio MotorSports in Carson
@@ -26,15 +26,18 @@ About 33.3 miles, roughly an hour and a quarter (approx) outside rush hour, so p
 
 [SHOP NOTE: 2-3 sentences from Nick about Monrovia customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Monrovia customers tell us makes the drop-off painless. The shop is LGBTQ-friendly and everyone from Monrovia is welcome, as our Google and Yelp listings state. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Monrovia traffic sends you.
+
 ## Monrovia questions
 
 ### Is it worth the drive from Monrovia for window tinting?
 
-Yes. Film cut on your glass and sealed at the edge does not peel or bubble, so it is done once. Check Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, before you make the trip.
+Yes. Film cut on your glass and sealed at the edge does not peel or bubble, so it is done once. Check Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, before you make the trip.
 
 ### How should a Monrovia driver plan the day?
 
-Call (310) 513-8800 or text (213) 429-1092 for a time, ideally in the morning. Drive down, hand over the keys, and either wait at the shop or get lunch nearby. Most cars are done the same day. You will be back in Monrovia before the evening traffic builds.
+Call (213) 429-1092 or text (213) 429-1092 for a time, ideally in the morning. Drive down, hand over the keys, and either wait at the shop or get lunch nearby. Most cars are done the same day. You will be back in Monrovia before the evening traffic builds.
 
 ### Which film protects the interior better?
 
@@ -60,7 +63,7 @@ Solar window tinting $249 installed; Solar Ceramic window tinting $329 installed
 
 ## Book it
 
-Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
+Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
 
 ```json
 {
@@ -71,7 +74,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-monrovia/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-monrovia/",
    "name": "Window Tinting Monrovia | LA Car Tint by Audio MotorSports",
-   "description": "Window tinting and ceramic window tint for Monrovia drivers, hand-cut and installed by Audio MotorSports in Carson, 33.3 miles away. Call (310) 513-8800.",
+   "description": "Window tinting and ceramic window tint for Monrovia drivers, hand-cut and installed by Audio MotorSports in Carson, 33.3 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -111,7 +114,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "Is it worth the drive from Monrovia for window tinting?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. Film cut on your glass and sealed at the edge does not peel or bubble, so it is done once. Check Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, before you make the trip."
+      "text": "Yes. Film cut on your glass and sealed at the edge does not peel or bubble, so it is done once. Check Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, before you make the trip."
      }
     },
     {
@@ -119,7 +122,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "How should a Monrovia driver plan the day?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Call (310) 513-8800 or text (213) 429-1092 for a time, ideally in the morning. Drive down, hand over the keys, and either wait at the shop or get lunch nearby. Most cars are done the same day. You will be back in Monrovia before the evening traffic builds."
+      "text": "Call (213) 429-1092 or text (213) 429-1092 for a time, ideally in the morning. Drive down, hand over the keys, and either wait at the shop or get lunch nearby. Most cars are done the same day. You will be back in Monrovia before the evening traffic builds."
      }
     },
     {

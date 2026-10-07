@@ -4,7 +4,7 @@ city: Palos Verdes Estates
 miles: 8.0
 lead_service: Tesla window tint (new-delivery tint)
 title: Palos Verdes Estates Tesla Tint | Tesla Tint LA, Carson
-meta: Just took delivery? Tesla window tint for Palos Verdes Estates at Tesla Tint LA by Audio MotorSports in Carson, 8 miles away. Ceramic film. Call (310) 513-8800.
+meta: Just took delivery? Tesla window tint for Palos Verdes Estates at Tesla Tint LA by Audio MotorSports in Carson, 8 miles away. Ceramic film. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla Window Tint for Palos Verdes Estates: Tint It the Week You Take Delivery
@@ -24,6 +24,9 @@ New Tesla, no tint, sun on the hill. Palos Verdes Estates owners bring freshly d
 ## From the Peninsula to the shop
 
 About 8 miles, around 16 to 19 minutes outside rush hour (approx). Audio MotorSports is open Monday through Saturday, 9:30 to 6:00, and closed Sunday. Set a time, then wait at the shop or drop the car off and come back once the film has set. [SHOP NOTE: 2-3 sentences from Nick about Palos Verdes Estates customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Palos Verdes Estates, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Palos Verdes Estates traffic sends you.
 
 ## Palos Verdes Estates Tesla questions
 
@@ -49,7 +52,7 @@ Yes. The roof on a Model Y is a single large panel and it is the biggest source 
 
 ## Prices
 
-New-delivery Tesla tint is quoted by model at the shop once Nick sees the car. The non-Tesla reference at the same bay is Solar $249 or Solar Ceramic $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+New-delivery Tesla tint is quoted by model at the shop once Nick sees the car. The non-Tesla reference at the same bay is Solar $249 or Solar Ceramic $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby Tesla tint pages
 
@@ -57,7 +60,7 @@ New-delivery Tesla tint is quoted by model at the shop once Nick sees the car. T
 
 ## Schedule it
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

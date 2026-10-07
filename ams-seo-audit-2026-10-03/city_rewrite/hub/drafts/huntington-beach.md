@@ -4,7 +4,7 @@ city: Huntington Beach
 miles: 19.3
 lead_service: Harley bagger audio
 title: Bagger Audio & Tint, Huntington Beach | Audio MotorSports
-meta: Harley bagger audio installation with AMS pods, window tint, car stereo and alarms for Huntington Beach riders at Audio MotorSports in Carson. (310) 513-8800.
+meta: Harley bagger audio installation with AMS pods, window tint, car stereo and alarms for Huntington Beach riders at Audio MotorSports in Carson. (213) 429-1092.
 ---
 # Harley Bagger Audio Installation for Huntington Beach
 
@@ -22,6 +22,9 @@ Huntington Beach riders bring their baggers about 19.3 miles up to Audio MotorSp
 
 **Car alarm installation and GPS tracker installation.** Viper systems hidden from the fuse box; trackers on constant power.
 
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Huntington Beach customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. The shop is LGBTQ-friendly and everyone from Huntington Beach is welcome, as our Google and Yelp listings state. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Huntington Beach traffic sends you.
+
 ## Riding up from Huntington Beach
 
 Nineteen point three miles is roughly 39 to 46 minutes outside rush hour (approx). Book the slot, ride up, and either leave the bike and come back or hang out in the shop while it is on the lift. Hours: Mon-Sat 9:30-18:00, Sunday closed. Riders and drivers have come to this bay from over 100 miles out, so Huntington Beach is close. [SHOP NOTE: 2-3 sentences from Nick about Huntington Beach customers, routes or jobs]
@@ -32,7 +35,7 @@ The pods themselves, from $649 a pair as of October 2026, plus the amplifier, sp
 
 ### Can I ride a Street Glide from Huntington Beach and get the audio done the same day?
 
-Usually yes, if it is booked. A pods-and-amp install is most of a day, so the morning slot is the one to take. Ride up, leave the bike, and it is tuned and ready by late afternoon. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, if you want to check first.
+Usually yes, if it is booked. A pods-and-amp install is most of a day, so the morning slot is the one to take. Ride up, leave the bike, and it is tuned and ready by late afternoon. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, if you want to check first.
 
 ### Do AMS pods fit a Road Glide as well as a Street Glide?
 
@@ -56,7 +59,7 @@ AMS Harley pods from $649 a pair. Dual Kicker Comp box $249 box only. Window tin
 
 ## Book a Huntington Beach visit
 
-Call (310) 513-8800 or text (213) 429-1092 with the bike or car year, make and model. 22025 S Avalon Blvd Ste A, Carson, CA 90745, is where you are headed; Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the bike or car year, make and model. 22025 S Avalon Blvd Ste A, Carson, CA 90745, is where you are headed; Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -67,7 +70,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the bike or car year, make and m
    "@id": "https://www.audiomotorsports.com/huntington-beach/#webpage",
    "url": "https://www.audiomotorsports.com/huntington-beach/",
    "name": "Bagger Audio & Tint, Huntington Beach | Audio MotorSports",
-   "description": "Harley bagger audio installation with AMS pods, window tint, car stereo and alarms for Huntington Beach riders at Audio MotorSports in Carson. (310) 513-8800.",
+   "description": "Harley bagger audio installation with AMS pods, window tint, car stereo and alarms for Huntington Beach riders at Audio MotorSports in Carson. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {
@@ -118,7 +121,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the bike or car year, make and m
      "name": "Can I ride a Street Glide from Huntington Beach and get the audio done the same day?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Usually yes, if it is booked. A pods-and-amp install is most of a day, so the morning slot is the one to take. Ride up, leave the bike, and it is tuned and ready by late afternoon. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, if you want to check first."
+      "text": "Usually yes, if it is booked. A pods-and-amp install is most of a day, so the morning slot is the one to take. Ride up, leave the bike, and it is tuned and ready by late afternoon. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, if you want to check first."
      }
     },
     {

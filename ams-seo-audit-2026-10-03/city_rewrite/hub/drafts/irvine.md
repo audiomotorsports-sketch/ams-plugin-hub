@@ -4,7 +4,7 @@ city: Irvine
 miles: 27.0
 lead_service: car audio/stereo
 title: Car Stereo Installation for Irvine | Audio MotorSports
-meta: Car stereo installation, speaker replacement, subwoofer and amplifier installs for Irvine drivers at Audio MotorSports in Carson, 27 miles. Call (310) 513-8800.
+meta: Car stereo installation, speaker replacement, subwoofer and amplifier installs for Irvine drivers at Audio MotorSports in Carson, 27 miles. Call (213) 429-1092.
 ---
 # Car Stereo Installation for Irvine Drivers
 
@@ -25,6 +25,9 @@ Audio MotorSports does car stereo installation for Irvine drivers at 22025 S Ava
 ## Irvine to Carson
 
 Irvine sits about 27.0 miles from the shop, around fifty-four to sixty-five minutes outside rush hour (approx). We take appointments Monday through Saturday from 9:30 AM to 6:00 PM and are closed Sunday. Call or text to reserve a slot, then wait on site or drop the car and pick it up later. Customers drive up from San Diego for this bay, so Irvine is well inside the range we see every week.
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Irvine, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Irvine customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. From Irvine you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Irvine car audio questions
 
@@ -63,7 +66,7 @@ Pages for the cities around Irvine:
 
 ## Schedule from Irvine
 
-Call (310) 513-8800 or text your year, make and model to (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday, 9:30 AM to 6:00 PM; closed Sunday.
+Call (213) 429-1092 or text your year, make and model to (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday, 9:30 AM to 6:00 PM; closed Sunday.
 
 ```json
 {
@@ -74,7 +77,7 @@ Call (310) 513-8800 or text your year, make and model to (213) 429-1092. Audio M
    "@id": "https://www.audiomotorsports.com/irvine/#webpage",
    "url": "https://www.audiomotorsports.com/irvine/",
    "name": "Car Stereo Installation for Irvine | Audio MotorSports",
-   "description": "Car stereo installation, speaker replacement, subwoofer and amplifier installs for Irvine drivers at Audio MotorSports in Carson, 27 miles. Call (310) 513-8800.",
+   "description": "Car stereo installation, speaker replacement, subwoofer and amplifier installs for Irvine drivers at Audio MotorSports in Carson, 27 miles. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

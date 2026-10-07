@@ -4,7 +4,7 @@ city: South Gate
 miles: 9.3
 lead_service: Apple CarPlay and Android Auto installation
 title: South Gate Apple CarPlay Installation | LA Car Beats
-meta: Apple CarPlay and Android Auto installation for South Gate at LA Car Beats by Audio MotorSports in Carson, plus speaker installs. Call (310) 513-8800.
+meta: Apple CarPlay and Android Auto installation for South Gate at LA Car Beats by Audio MotorSports in Carson, plus speaker installs. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Apple CarPlay and Android Auto Installation for South Gate
@@ -24,6 +24,9 @@ South Gate drivers add Apple CarPlay and Android Auto at LA Car Beats, the car a
 ## South Gate to Carson
 
 South Gate is about 9.3 miles from the bay, roughly 19 to 22 minutes outside rush hour (approx). Schedule first, then drop the car off or wait on site; a CarPlay head unit installation is usually done the same morning or afternoon. Shop hours are Monday to Saturday 9:30-18:00 and we are closed Sunday. [SHOP NOTE: 2-3 sentences from Nick about South Gate customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the South Gate job is finished. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way South Gate traffic sends you.
 
 ## South Gate CarPlay questions
 
@@ -49,7 +52,7 @@ Speaker replacement is the usual add-on, because the door panels and dash are al
 
 ## South Gate pricing
 
-Dual Kicker Comp loaded subwoofer box: $249 box only, as of October 2026. Apple CarPlay and Android Auto installation, head unit installation, speaker replacement and amplifier installation are quoted at the shop once we see the car. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. We also do window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation and Harley bagger audio.
+Dual Kicker Comp loaded subwoofer box: $249 box only, as of October 2026. Apple CarPlay and Android Auto installation, head unit installation, speaker replacement and amplifier installation are quoted at the shop once we see the car. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. We also do window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation and Harley bagger audio.
 
 ## Serving South Gate and its neighbors
 
@@ -63,7 +66,7 @@ Nearby cities with their own LA Car Beats pages:
 
 ## Schedule CarPlay installation
 
-Reach us at (310) 513-8800 by phone or (213) 429-1092 by text. LA Car Beats, Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30 to 6:00, closed Sunday.
+Reach us at (213) 429-1092 by phone or (213) 429-1092 by text. LA Car Beats, Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30 to 6:00, closed Sunday.
 
 ```json
 {
@@ -74,7 +77,7 @@ Reach us at (310) 513-8800 by phone or (213) 429-1092 by text. LA Car Beats, Aud
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-south-gate/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-south-gate/",
    "name": "South Gate Apple CarPlay Installation | LA Car Beats",
-   "description": "Apple CarPlay and Android Auto installation for South Gate at LA Car Beats by Audio MotorSports in Carson, plus speaker installs. Call (310) 513-8800.",
+   "description": "Apple CarPlay and Android Auto installation for South Gate at LA Car Beats by Audio MotorSports in Carson, plus speaker installs. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

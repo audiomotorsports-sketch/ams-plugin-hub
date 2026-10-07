@@ -5,7 +5,7 @@ miles: 8.6
 lead_service: Tesla window tint (Model 3)
 source: hub-mounted copy; standalone www host not verified
 title: Model 3 Window Tint for Del Aire | Tesla Tint LA
-meta: Tesla window tint for Del Aire Model 3 owners, hand-cut ceramic film installed at Audio MotorSports in Carson, 8.6 miles away. Call (310) 513-8800 to book.
+meta: Tesla window tint for Del Aire Model 3 owners, hand-cut ceramic film installed at Audio MotorSports in Carson, 8.6 miles away. Call (213) 429-1092 to book.
 ---
 # Tesla Window Tint for Del Aire, Starting with the Model 3
 
@@ -28,6 +28,9 @@ Audio MotorSports also handles dash camera installation, car alarm installation,
 Figure about 8.6 miles and roughly 17 to 21 minutes outside rush hour (approx). Hours are Monday through Saturday, 9:30 AM to 6:00 PM, closed Sunday. Book an appointment, then either leave the car with us for the day or wait at the shop while the film goes on. The shop sits near the beach in Carson, and owners drive in from well over 100 miles away, so Del Aire is a short hop.
 
 [SHOP NOTE: 2-3 sentences from Nick about Del Aire customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Del Aire job is finished. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. From Del Aire you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Del Aire Tesla tint questions
 
@@ -53,7 +56,7 @@ Text the year and model, and Nick will quote it by model. Tesla pricing is set a
 
 ## Pricing
 
-Tesla window tint is quoted by model at the shop; send the year and model by text and Nick will reply with a figure. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Tesla window tint is quoted by model at the shop; send the year and model by text and Nick will reply with a figure. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near Del Aire
 
@@ -65,7 +68,7 @@ Tesla window tint is quoted by model at the shop; send the year and model by tex
 
 ## Book from Del Aire
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -76,7 +79,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-del-aire/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-del-aire/",
    "name": "Model 3 Window Tint for Del Aire | Tesla Tint LA",
-   "description": "Tesla window tint for Del Aire Model 3 owners, hand-cut ceramic film installed at Audio MotorSports in Carson, 8.6 miles away. Call (310) 513-8800 to book.",
+   "description": "Tesla window tint for Del Aire Model 3 owners, hand-cut ceramic film installed at Audio MotorSports in Carson, 8.6 miles away. Call (213) 429-1092 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

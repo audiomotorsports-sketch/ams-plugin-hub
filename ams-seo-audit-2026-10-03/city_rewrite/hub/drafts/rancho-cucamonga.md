@@ -4,7 +4,7 @@ city: Rancho Cucamonga
 miles: 53.6
 lead_service: Apple CarPlay and Android Auto installation
 title: CarPlay Installation, Rancho Cucamonga | Audio MotorSports
-meta: Apple CarPlay and Android Auto installation, car stereo, window tint and alarms for Rancho Cucamonga drivers at Audio MotorSports in Carson. (310) 513-8800.
+meta: Apple CarPlay and Android Auto installation, car stereo, window tint and alarms for Rancho Cucamonga drivers at Audio MotorSports in Carson. (213) 429-1092.
 ---
 # Apple CarPlay and Android Auto Installation for Rancho Cucamonga
 
@@ -22,13 +22,16 @@ Rancho Cucamonga drivers cover about 53.6 miles to reach Audio MotorSports at 22
 
 **Dash camera installation and GPS tracker installation.** Cameras hardwired to a fuse tap with parking mode, trackers hidden on their own circuit and reporting to your phone.
 
+<!-- owner-details-2026-10-07 -->
+For a longer job from Rancho Cucamonga, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Rancho Cucamonga traffic sends you.
+
 ## The drive from Rancho Cucamonga
 
 Figure about 53.6 miles, roughly 107 to 129 minutes (approx) with the freeways clear. Book before you leave, then wait at the shop for a head unit or leave the car for the day if tint or an alarm is on the list. Open Monday through Saturday 9:30 AM to 6:00 PM, closed Sunday. Cars have come in from San Diego, about 120 miles, so this is well inside the range people travel for the shop. [SHOP NOTE: 2-3 sentences from Nick about Rancho Cucamonga customers, routes or jobs]
 
 ### Is it really worth driving from Rancho Cucamonga for a CarPlay installation?
 
-If you want it to work like factory, yes. The unit is a catalog part; what you are driving for is the dash kit that fits flush, the harness that keeps the camera and wheel controls, and a shop that does this every day. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+If you want it to work like factory, yes. The unit is a catalog part; what you are driving for is the dash kit that fits flush, the harness that keeps the camera and wheel controls, and a shop that does this every day. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ### Can CarPlay be added to a car that never came with it?
 
@@ -56,7 +59,7 @@ Solar window tint $249 and Solar Ceramic $329 installed. Viper 3108V alarm $269 
 
 ## Book CarPlay installation from Rancho Cucamonga
 
-Call (310) 513-8800 or text (213) 429-1092 with the vehicle and your phone type. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the vehicle and your phone type. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -67,7 +70,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the vehicle and your phone type.
    "@id": "https://www.audiomotorsports.com/rancho-cucamonga/#webpage",
    "url": "https://www.audiomotorsports.com/rancho-cucamonga/",
    "name": "CarPlay Installation, Rancho Cucamonga | Audio MotorSports",
-   "description": "Apple CarPlay and Android Auto installation, car stereo, window tint and alarms for Rancho Cucamonga drivers at Audio MotorSports in Carson. (310) 513-8800.",
+   "description": "Apple CarPlay and Android Auto installation, car stereo, window tint and alarms for Rancho Cucamonga drivers at Audio MotorSports in Carson. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -106,7 +109,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the vehicle and your phone type.
      "name": "Is it really worth driving from Rancho Cucamonga for a CarPlay installation?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "If you want it to work like factory, yes. The unit is a catalog part; what you are driving for is the dash kit that fits flush, the harness that keeps the camera and wheel controls, and a shop that does this every day. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026."
+      "text": "If you want it to work like factory, yes. The unit is a catalog part; what you are driving for is the dash kit that fits flush, the harness that keeps the camera and wheel controls, and a shop that does this every day. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026."
      }
     },
     {

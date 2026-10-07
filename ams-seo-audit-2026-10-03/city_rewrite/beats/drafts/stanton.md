@@ -4,7 +4,7 @@ city: Stanton
 miles: 15.6
 lead_service: car stereo installation
 title: Car Stereo Installation for Stanton | LA Car Beats, Carson
-meta: Car stereo installation and head unit installation for Stanton drivers at LA Car Beats by Audio MotorSports in Carson. Speakers too. Call (310) 513-8800.
+meta: Car stereo installation and head unit installation for Stanton drivers at LA Car Beats by Audio MotorSports in Carson. Speakers too. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Stereo Installation for Stanton
@@ -24,6 +24,9 @@ Stanton drivers get car stereo installation at LA Car Beats, the car audio bay a
 ## Stanton to Carson
 
 Stanton is about 15.6 miles from the shop, roughly 31 to 37 minutes outside rush hour (approx). Call or text for an appointment, then drop the car off or wait in the shop; head unit installation is often done while you wait. Open Monday to Saturday 9:30-18:00, closed Sunday. Customers travel from more than 100 miles away for an install, so Stanton is a comfortable trip.
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Stanton, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Stanton.
 
 ## Stanton stereo questions
 
@@ -49,7 +52,7 @@ If the factory speakers are old or sound thin, yes. Speaker replacement during h
 
 ## Stanton pricing
 
-Our one published price is the Dual Kicker Comp loaded box at $249, box only, as of October 2026. Everything else, from head unit installation and Apple CarPlay and Android Auto installation to speaker replacement, subwoofer installation and amplifier installation, is quoted at the shop; payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Window tint, Viper alarm installation, Compustar remote start installation, GPS tracker installation and dash camera installation are available too.
+Our one published price is the Dual Kicker Comp loaded box at $249, box only, as of October 2026. Everything else, from head unit installation and Apple CarPlay and Android Auto installation to speaker replacement, subwoofer installation and amplifier installation, is quoted at the shop; payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Window tint, Viper alarm installation, Compustar remote start installation, GPS tracker installation and dash camera installation are available too.
 
 ## Nearby cities
 
@@ -63,7 +66,7 @@ LA Car Beats pages for cities around Stanton:
 
 ## Book car stereo installation
 
-Text (213) 429-1092 or call (310) 513-8800. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sunday.
+Text (213) 429-1092 or call (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -74,7 +77,7 @@ Text (213) 429-1092 or call (310) 513-8800. LA Car Beats by Audio MotorSports, 2
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-stanton/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-stanton/",
    "name": "Car Stereo Installation for Stanton | LA Car Beats, Carson",
-   "description": "Car stereo installation and head unit installation for Stanton drivers at LA Car Beats by Audio MotorSports in Carson. Speakers too. Call (310) 513-8800.",
+   "description": "Car stereo installation and head unit installation for Stanton drivers at LA Car Beats by Audio MotorSports in Carson. Speakers too. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

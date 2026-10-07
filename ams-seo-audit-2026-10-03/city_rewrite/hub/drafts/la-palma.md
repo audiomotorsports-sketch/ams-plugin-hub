@@ -4,7 +4,7 @@ city: La Palma
 miles: 12.5
 lead_service: CarPlay/Android Auto
 title: CarPlay, Tint & Alarms for La Palma | Audio MotorSports
-meta: Apple CarPlay and Android Auto installs, window tint, car stereo, alarms and remote start for La Palma drivers at Audio MotorSports in Carson. (310) 513-8800.
+meta: Apple CarPlay and Android Auto installs, window tint, car stereo, alarms and remote start for La Palma drivers at Audio MotorSports in Carson. (213) 429-1092.
 ---
 # Apple CarPlay and Android Auto for La Palma Drivers
 
@@ -22,9 +22,12 @@ Adding Apple CarPlay or Android Auto is the most common reason a La Palma driver
 
 **Dash camera installation and GPS tracker installation.** Hardwired to a fuse tap and hidden behind the trim.
 
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from La Palma, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from La Palma.
+
 ## From La Palma to the bay
 
-Count on roughly 25 to 30 minutes outside rush hour for the 12.5 miles from La Palma (approx). Make an appointment, then drop the car and come back when it is finished, or wait in the shop while the install happens. Hours: Mon-Sat 9:30-18:00, closed Sunday. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026; that is who you are trusting with the car. [SHOP NOTE: 2-3 sentences from Nick about La Palma customers, routes or jobs]
+Count on roughly 25 to 30 minutes outside rush hour for the 12.5 miles from La Palma (approx). Make an appointment, then drop the car and come back when it is finished, or wait in the shop while the install happens. Hours: Mon-Sat 9:30-18:00, closed Sunday. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026; that is who you are trusting with the car. [SHOP NOTE: 2-3 sentences from Nick about La Palma customers, routes or jobs]
 
 ### My La Palma car has a factory screen; can an Apple CarPlay and Android Auto installation keep it?
 
@@ -56,7 +59,7 @@ Window tint Solar $249, Solar Ceramic $329 installed. Viper 3108V alarm $269 ins
 
 ## Schedule a La Palma install
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. The bay is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. The bay is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -67,7 +70,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. The ba
    "@id": "https://www.audiomotorsports.com/la-palma/#webpage",
    "url": "https://www.audiomotorsports.com/la-palma/",
    "name": "CarPlay, Tint & Alarms for La Palma | Audio MotorSports",
-   "description": "Apple CarPlay and Android Auto installs, window tint, car stereo, alarms and remote start for La Palma drivers at Audio MotorSports in Carson. (310) 513-8800.",
+   "description": "Apple CarPlay and Android Auto installs, window tint, car stereo, alarms and remote start for La Palma drivers at Audio MotorSports in Carson. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

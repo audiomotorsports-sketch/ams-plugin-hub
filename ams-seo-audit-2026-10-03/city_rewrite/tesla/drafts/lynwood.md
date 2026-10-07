@@ -5,7 +5,7 @@ miles: 7.8
 lead_service: Tesla window tint (one-piece rear glass)
 source: hub-mounted copy; standalone www host not verified
 title: One-Piece Rear Glass Tesla Tint, Lynwood | Tesla Tint LA
-meta: Tesla window tint for Lynwood owners, rear window tinted in one sheet, by Audio MotorSports in Carson, 7.8 miles away. Ceramic film. Call (310) 513-8800.
+meta: Tesla window tint for Lynwood owners, rear window tinted in one sheet, by Audio MotorSports in Carson, 7.8 miles away. Ceramic film. Call (213) 429-1092.
 ---
 # Tesla Window Tint for Lynwood, Rear Window in One Sheet
 
@@ -28,6 +28,9 @@ Audio MotorSports also installs dash cameras, GPS trackers, Viper alarms, Compus
 About 7.8 miles, roughly 16 to 19 minutes outside rush hour (approx). Hours are Monday through Saturday, 9:30 AM to 6:00 PM; closed on Sunday. Set an appointment, then drop the Tesla off or wait at the shop while it is tinted. Short enough that most Lynwood owners stay and take the car home when it is done.
 
 [SHOP NOTE: 2-3 sentences from Nick about Lynwood customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Lynwood, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. From Lynwood you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Lynwood Tesla tint questions
 
@@ -53,7 +56,7 @@ No. The film contains no metal, so the phone key, Bluetooth and cellular signals
 
 ## Pricing
 
-Send the year and model by text and the Tesla gets a quote by model at the shop. The non-Tesla reference, as of October 2026, is Solar $249 and Solar Ceramic $329 installed. Everything else is quoted at the shop. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Send the year and model by text and the Tesla gets a quote by model at the shop. The non-Tesla reference, as of October 2026, is Solar $249 and Solar Ceramic $329 installed. Everything else is quoted at the shop. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near Lynwood
 
@@ -65,7 +68,7 @@ Send the year and model by text and the Tesla gets a quote by model at the shop.
 
 ## Book it
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -76,7 +79,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-lynwood/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-lynwood/",
    "name": "One-Piece Rear Glass Tesla Tint, Lynwood | Tesla Tint LA",
-   "description": "Tesla window tint for Lynwood owners, rear window tinted in one sheet, by Audio MotorSports in Carson, 7.8 miles away. Ceramic film. Call (310) 513-8800.",
+   "description": "Tesla window tint for Lynwood owners, rear window tinted in one sheet, by Audio MotorSports in Carson, 7.8 miles away. Ceramic film. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

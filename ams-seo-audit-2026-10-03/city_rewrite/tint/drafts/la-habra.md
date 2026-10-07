@@ -4,7 +4,7 @@ city: La Habra
 miles: 19.5
 lead_service: window tinting
 title: Window Tinting La Habra | LA Car Tint, Carson
-meta: Window tinting for La Habra new cars and daily drivers, Solar and Solar Ceramic film hand-cut at Audio MotorSports, Carson, 19.5 miles. Call (310) 513-8800.
+meta: Window tinting for La Habra new cars and daily drivers, Solar and Solar Ceramic film hand-cut at Audio MotorSports, Carson, 19.5 miles. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Window Tinting for La Habra Drivers, by Audio MotorSports, Carson
@@ -26,6 +26,9 @@ Figure about 19.5 miles and roughly forty-five minutes (approx) outside rush hou
 
 [SHOP NOTE: 2-3 sentences from Nick about La Habra customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the La Habra job is finished. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. From La Habra you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
+
 ## La Habra questions
 
 ### How soon after buying a new car can it be tinted?
@@ -46,7 +49,7 @@ Yes. Apple CarPlay and Android Auto installation is done in the same bay, with t
 
 ### Why drive from La Habra instead of using a tint shop around the corner?
 
-The install is the product. Film laid fast from a pattern lifts, bubbles and shows a gap at the top. This crew cuts on the glass every day and carries Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Forty-five minutes buys a job that lasts.
+The install is the product. Film laid fast from a pattern lifts, bubbles and shows a gap at the top. This crew cuts on the glass every day and carries Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Forty-five minutes buys a job that lasts.
 
 ## Prices, as of October 2026
 
@@ -61,7 +64,7 @@ Solar window tint $249 installed and Solar Ceramic $329 installed, as of October
 
 ## Book it
 
-Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
+Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
 
 ```json
 {
@@ -72,7 +75,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-la-habra/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-la-habra/",
    "name": "Window Tinting La Habra | LA Car Tint, Carson",
-   "description": "Window tinting for La Habra new cars and daily drivers, Solar and Solar Ceramic film hand-cut at Audio MotorSports, Carson, 19.5 miles. Call (310) 513-8800.",
+   "description": "Window tinting for La Habra new cars and daily drivers, Solar and Solar Ceramic film hand-cut at Audio MotorSports, Carson, 19.5 miles. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -144,7 +147,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "Why drive from La Habra instead of using a tint shop around the corner?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "The install is the product. Film laid fast from a pattern lifts, bubbles and shows a gap at the top. This crew cuts on the glass every day and carries Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Forty-five minutes buys a job that lasts."
+      "text": "The install is the product. Film laid fast from a pattern lifts, bubbles and shows a gap at the top. This crew cuts on the glass every day and carries Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Forty-five minutes buys a job that lasts."
      }
     }
    ]

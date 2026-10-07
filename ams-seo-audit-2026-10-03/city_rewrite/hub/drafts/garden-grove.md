@@ -4,7 +4,7 @@ city: Garden Grove
 miles: 18.9
 lead_service: Tesla window tint
 title: Tesla Window Tint for Garden Grove | Audio MotorSports
-meta: Tesla window tint, ceramic tint, car stereo installation and alarms for Garden Grove drivers at Audio MotorSports in Carson, 18.9 miles. Call (310) 513-8800.
+meta: Tesla window tint, ceramic tint, car stereo installation and alarms for Garden Grove drivers at Audio MotorSports in Carson, 18.9 miles. Call (213) 429-1092.
 ---
 # Tesla Window Tint & Ceramic Tint for Garden Grove
 
@@ -28,11 +28,14 @@ Garden Grove is 18.9 miles from the bay, roughly thirty-eight to forty-five minu
 
 [SHOP NOTE: 2-3 sentences from Nick about Garden Grove customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Garden Grove customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. From Garden Grove you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
+
 ## Garden Grove Tesla tint questions
 
 ### Is it worth driving a Tesla from Garden Grove to Carson for window tint?
 
-Yes, because Tesla window tint is about the install, not the roll of film. The one-piece rear glass is shrunk and laid as a single sheet here, in a clean bay, by people who do it regularly. Garden Grove is 18.9 miles, roughly thirty-eight to forty-five minutes outside rush hour. Call (310) 513-8800 to book.
+Yes, because Tesla window tint is about the install, not the roll of film. The one-piece rear glass is shrunk and laid as a single sheet here, in a clean bay, by people who do it regularly. Garden Grove is 18.9 miles, roughly thirty-eight to forty-five minutes outside rush hour. Call (213) 429-1092 to book.
 
 ### Can the Tesla glass roof be tinted?
 
@@ -71,7 +74,7 @@ Tesla tint packages including the roof are quoted at the shop. Prices as of Octo
 
 ## Book your Tesla tint
 
-Text the model and year to (213) 429-1092 or call (310) 513-8800. Audio MotorSports is at 22025 S Avalon Blvd Ste A in Carson, CA 90745, open Mon-Sat 9:30-18:00 and closed Sunday. Drop the car or wait while it is tinted.
+Text the model and year to (213) 429-1092 or call (213) 429-1092. Audio MotorSports is at 22025 S Avalon Blvd Ste A in Carson, CA 90745, open Mon-Sat 9:30-18:00 and closed Sunday. Drop the car or wait while it is tinted.
 
 ```json
 {
@@ -82,7 +85,7 @@ Text the model and year to (213) 429-1092 or call (310) 513-8800. Audio MotorSpo
    "@id": "https://www.audiomotorsports.com/garden-grove/#webpage",
    "url": "https://www.audiomotorsports.com/garden-grove/",
    "name": "Tesla Window Tint for Garden Grove | Audio MotorSports",
-   "description": "Tesla window tint, ceramic tint, car stereo installation and alarms for Garden Grove drivers at Audio MotorSports in Carson, 18.9 miles. Call (310) 513-8800.",
+   "description": "Tesla window tint, ceramic tint, car stereo installation and alarms for Garden Grove drivers at Audio MotorSports in Carson, 18.9 miles. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -124,7 +127,7 @@ Text the model and year to (213) 429-1092 or call (310) 513-8800. Audio MotorSpo
      "name": "Is it worth driving a Tesla from Garden Grove to Carson for window tint?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes, because Tesla window tint is about the install, not the roll of film. The one-piece rear glass is shrunk and laid as a single sheet here, in a clean bay, by people who do it regularly. Garden Grove is 18.9 miles, roughly thirty-eight to forty-five minutes outside rush hour. Call (310) 513-8800 to book."
+      "text": "Yes, because Tesla window tint is about the install, not the roll of film. The one-piece rear glass is shrunk and laid as a single sheet here, in a clean bay, by people who do it regularly. Garden Grove is 18.9 miles, roughly thirty-eight to forty-five minutes outside rush hour. Call (213) 429-1092 to book."
      }
     },
     {

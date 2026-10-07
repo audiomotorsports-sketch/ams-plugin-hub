@@ -4,7 +4,7 @@ city: Santa Monica
 miles: 18.4
 lead_service: work-truck security
 title: Work Van & Car Alarm Install Santa Monica | LA Car Alarm
-meta: Work van and car alarm installation for Santa Monica at LA Car Alarm by Audio MotorSports, Carson, 18.4 miles away. GPS, remote start. Call (310) 513-8800.
+meta: Work van and car alarm installation for Santa Monica at LA Car Alarm by Audio MotorSports, Carson, 18.4 miles away. GPS, remote start. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Work Van and Car Alarm Installation for Santa Monica
@@ -22,6 +22,9 @@ A van full of tools or a truck with a trailer needs security that covers the car
 **Dash camera installation.** Cab and forward cameras hardwired for parking mode record who approached the vehicle overnight.
 
 The car at home can get ceramic window tint or Apple CarPlay installation at the same shop while the van is in the bay.
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Santa Monica, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. Santa Monica customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Coming from Santa Monica, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Santa Monica to the Carson bay
 
@@ -54,7 +57,7 @@ The Viper 3108V is $269 installed and the Compustar 9910 starts from $499, as of
 
 Cargo sensors, trackers and dash cameras are quoted on the vehicle at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby alarm pages
 
@@ -66,7 +69,7 @@ Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
 
 ## Schedule a Santa Monica work vehicle
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make, model and how many doors need covering. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make, model and how many doors need covering. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

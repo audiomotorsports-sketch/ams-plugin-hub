@@ -4,7 +4,7 @@ city: Brea
 miles: 21.8
 lead_service: Fairing wiring for Harley bagger audio
 title: Harley Bagger Audio Brea | AMS Pods
-meta: Clean fairing wiring, amplifier installation and AMS lower-fairing pods for Brea Harley riders at AMS Pods by Audio MotorSports in Carson. (310) 513-8800.
+meta: Clean fairing wiring, amplifier installation and AMS lower-fairing pods for Brea Harley riders at AMS Pods by Audio MotorSports in Carson. (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Fairing Wiring and Bagger Audio for Brea Riders
@@ -26,6 +26,9 @@ The car side of Audio MotorSports handles window tint, car stereo installation, 
 ## Riding from Brea
 
 At 21.8 miles, Brea is roughly 44 to 52 minutes from the shop outside rush hour (approx). Reserve a slot, ride in, and either drop the bike for the day or wait at the shop while the fairing comes apart. Hours are Monday through Saturday 9:30 AM to 6:00 PM, Sunday closed. Customers come to this bay from more than 100 miles away, so the ride from north Orange County is well within the normal range. [SHOP NOTE: 2-3 sentences from Nick about Brea riders, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Brea customers tell us makes the drop-off painless. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Brea.
 
 ## Questions Brea riders ask
 
@@ -54,7 +57,7 @@ AMS lower-fairing pods start from $649 a pair as of October 2026, in chrome or g
 - AMS lower-fairing pods: from $649 a pair, chrome or gloss, bracket and screws included, as of October 2026.
 - Fairing wiring, amplifier installation and tuning, head units and speaker replacement are quoted at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby cities
 
@@ -62,7 +65,7 @@ Riders also come in from [Placentia](/amspods/bagger-audio-placentia/), [Yorba L
 
 ## Book the fairing work
 
-Call (310) 513-8800 or text (213) 429-1092 with your year and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with your year and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -73,7 +76,7 @@ Call (310) 513-8800 or text (213) 429-1092 with your year and model. Audio Motor
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-brea/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-brea/",
    "name": "Harley Bagger Audio Brea | AMS Pods",
-   "description": "Clean fairing wiring, amplifier installation and AMS lower-fairing pods for Brea Harley riders at AMS Pods by Audio MotorSports in Carson. (310) 513-8800.",
+   "description": "Clean fairing wiring, amplifier installation and AMS lower-fairing pods for Brea Harley riders at AMS Pods by Audio MotorSports in Carson. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

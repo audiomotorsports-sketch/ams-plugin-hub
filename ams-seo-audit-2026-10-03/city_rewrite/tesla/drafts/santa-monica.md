@@ -5,7 +5,7 @@ miles: 18.4
 lead_service: Tesla window tint (Model Y)
 source: hub-mounted copy; standalone www host not verified
 title: Model Y Window Tint for Santa Monica | Tesla Tint LA
-meta: Model Y ceramic window tint for Santa Monica Tesla owners, hatch glass in one piece. Audio MotorSports, Carson, 18.4 miles away. Call (310) 513-8800.
+meta: Model Y ceramic window tint for Santa Monica Tesla owners, hatch glass in one piece. Audio MotorSports, Carson, 18.4 miles away. Call (213) 429-1092.
 ---
 # Model Y Window Tint for Santa Monica Tesla Owners
 
@@ -28,6 +28,9 @@ Audio MotorSports also fits dash cameras and GPS trackers to Teslas and installs
 Santa Monica is about 18.4 miles from the shop, roughly 37 to 44 minutes outside rush hour (approx). Open Monday to Saturday, 9:30 AM to 6:00 PM, closed Sunday. Book ahead, then leave the Model Y for the day or wait at the shop and drive it home once the film is on.
 
 [SHOP NOTE: 2-3 sentences from Nick about Santa Monica customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Santa Monica customers tell us makes the drop-off painless. The shop is LGBTQ-friendly and everyone from Santa Monica is welcome, as our Google and Yelp listings state. From Santa Monica you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Santa Monica Model Y tint questions
 
@@ -53,7 +56,7 @@ No. The windshield camera cluster and the fender repeaters are masked before pre
 
 ## Pricing
 
-Model Y tint and every other Tesla are quoted by model at the shop; text the year and model for a figure. For a non-Tesla, Solar is $249 and Solar Ceramic is $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Model Y tint and every other Tesla are quoted by model at the shop; text the year and model for a figure. For a non-Tesla, Solar is $249 and Solar Ceramic is $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near Santa Monica
 
@@ -65,7 +68,7 @@ Model Y tint and every other Tesla are quoted by model at the shop; text the yea
 
 ## Book your appointment
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -76,7 +79,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-santa-monica/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-santa-monica/",
    "name": "Model Y Window Tint for Santa Monica | Tesla Tint LA",
-   "description": "Model Y ceramic window tint for Santa Monica Tesla owners, hatch glass in one piece. Audio MotorSports, Carson, 18.4 miles away. Call (310) 513-8800.",
+   "description": "Model Y ceramic window tint for Santa Monica Tesla owners, hatch glass in one piece. Audio MotorSports, Carson, 18.4 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

@@ -4,7 +4,7 @@ city: Manhattan Beach
 miles: 9.3
 lead_service: Harley bagger audio wiring inside the fairing
 title: Manhattan Beach Harley Bagger Audio Wiring | AMS Pods
-meta: Fairing wiring, AMS lower-fairing pods and Harley bagger audio installation for Manhattan Beach riders. AMS Pods by Audio MotorSports, Carson. (310) 513-8800.
+meta: Fairing wiring, AMS lower-fairing pods and Harley bagger audio installation for Manhattan Beach riders. AMS Pods by Audio MotorSports, Carson. (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Harley Bagger Audio Wiring Done Right for Manhattan Beach Riders
@@ -26,6 +26,9 @@ Audio MotorSports also installs car stereos, Apple CarPlay, window tint, alarms 
 ## From Manhattan Beach to the bay
 
 The ride is 9.3 miles, around 19 to 22 minutes outside rush hour (approx). Book a slot by phone or text first, then ride over and either leave the bike or wait at the shop while the work is done. Mon-Sat 9:30-18:00, Sunday closed. Riders have come to this bay from San Diego, so Manhattan Beach is a short hop. [SHOP NOTE: 2-3 sentences from Nick about Manhattan Beach riders, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Manhattan Beach drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. From Manhattan Beach you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Wiring questions from Manhattan Beach riders
 
@@ -54,7 +57,7 @@ A rewire with pods and an amp is most of a day. Ride in for a morning appointmen
 - AMS lower-fairing pods from $649 a pair, as of October 2026, hardware included.
 - Wiring, amplifier installation, speaker installation and head units are quoted on the bike at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby cities
 
@@ -62,7 +65,7 @@ Pages for riders in [Hermosa Beach](/amspods/bagger-audio-hermosa-beach/), [Redo
 
 ## Get on the schedule
 
-Phone (310) 513-8800, text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-18:00, Sunday closed.
+Phone (213) 429-1092, text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -73,7 +76,7 @@ Phone (310) 513-8800, text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blv
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-manhattan-beach/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-manhattan-beach/",
    "name": "Manhattan Beach Harley Bagger Audio Wiring | AMS Pods",
-   "description": "Fairing wiring, AMS lower-fairing pods and Harley bagger audio installation for Manhattan Beach riders. AMS Pods by Audio MotorSports, Carson. (310) 513-8800.",
+   "description": "Fairing wiring, AMS lower-fairing pods and Harley bagger audio installation for Manhattan Beach riders. AMS Pods by Audio MotorSports, Carson. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

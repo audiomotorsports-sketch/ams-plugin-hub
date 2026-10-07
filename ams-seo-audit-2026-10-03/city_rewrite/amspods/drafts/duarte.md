@@ -4,7 +4,7 @@ city: Duarte
 miles: 27.1
 lead_service: Harley bagger audio for group rides
 title: Harley Bagger Audio Duarte | AMS Pods
-meta: Harley bagger audio for group rides: AMS pods and amplifier installation for Duarte riders at AMS Pods by Audio MotorSports in Carson. (310) 513-8800.
+meta: Harley bagger audio for group rides: AMS pods and amplifier installation for Duarte riders at AMS Pods by Audio MotorSports in Carson. (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Group-Ride Bagger Audio for Duarte Harley Riders
@@ -26,6 +26,9 @@ Audio MotorSports also handles window tint, car stereo and CarPlay installation,
 ## Getting here from Duarte
 
 Duarte is about 27.1 miles out, roughly 54 to 65 minutes outside rush hour (approx). Set an appointment, ride down solo or with a friend, then leave the bike for the day or wait at the shop. Open Monday through Saturday 9:30 AM to 6:00 PM, closed Sunday. One rider came in from San Diego for a full bagger build, so the San Gabriel Valley run is nothing unusual here. [SHOP NOTE: 2-3 sentences from Nick about Duarte riders, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Duarte customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. The shop is LGBTQ-friendly and everyone from Duarte is welcome, as our Google and Yelp listings state. From Duarte you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Questions Duarte riders ask
 
@@ -54,7 +57,7 @@ AMS lower-fairing pods start from $649 a pair as of October 2026, chrome or glos
 - AMS lower-fairing pods: from $649 a pair, chrome or gloss, bracket and screws included, as of October 2026.
 - Amplifier installation and tuning, speaker replacement, head units and saddlebag subwoofers are quoted on the bike. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby cities
 
@@ -62,7 +65,7 @@ Riders also come in from [Arcadia](/amspods/bagger-audio-arcadia/), [Altadena](/
 
 ## Book before the next ride
 
-Call (310) 513-8800 or text (213) 429-1092 with your year and which bagger you ride. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with your year and which bagger you ride. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -73,7 +76,7 @@ Call (310) 513-8800 or text (213) 429-1092 with your year and which bagger you r
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-duarte/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-duarte/",
    "name": "Harley Bagger Audio Duarte | AMS Pods",
-   "description": "Harley bagger audio for group rides: AMS pods and amplifier installation for Duarte riders at AMS Pods by Audio MotorSports in Carson. (310) 513-8800.",
+   "description": "Harley bagger audio for group rides: AMS pods and amplifier installation for Duarte riders at AMS Pods by Audio MotorSports in Carson. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

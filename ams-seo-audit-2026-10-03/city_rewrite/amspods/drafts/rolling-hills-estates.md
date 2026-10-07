@@ -4,7 +4,7 @@ city: Rolling Hills Estates
 miles: 6.0
 lead_service: Harley bagger audio for long rides
 title: Rolling Hills Estates Bagger Audio | AMS Pods
-meta: Long-ride Harley bagger audio for Rolling Hills Estates: AMS lower-fairing pods and amplifier installation at Audio MotorSports, Carson. Call (310) 513-8800.
+meta: Long-ride Harley bagger audio for Rolling Hills Estates: AMS lower-fairing pods and amplifier installation at Audio MotorSports, Carson. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Long-Ride Harley Bagger Audio for Rolling Hills Estates
@@ -27,6 +27,9 @@ Audio MotorSports also does ceramic window tint, car stereo and CarPlay installa
 
 Rolling Hills Estates to Carson is about 6 miles, a 12 to 14 minute ride in normal traffic (approx). Book an appointment, ride in, then either leave the bike or wait at the shop while the work is done. Hours are Monday through Saturday 9:30 AM to 6:00 PM, with Sunday closed. Customers have trailered bikes here from San Diego; six miles is a quick spin down the hill.
 
+<!-- owner-details-2026-10-07 -->
+Plenty of Rolling Hills Estates drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Rolling Hills Estates customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Rolling Hills Estates traffic sends you.
+
 ## Rolling Hills Estates riders ask
 
 ### What makes a bagger stereo comfortable for all-day riding?
@@ -47,14 +50,14 @@ They are not back ordered, they are built to order in Carson and take about thre
 
 ### Can I wait at the shop while the amp goes in?
 
-Yes for most amplifier and pod installs. A full system with a tank pull, head unit and saddlebag work may need the bike for longer, and Nick will say so when you book. Call (310) 513-8800 to set it up.
+Yes for most amplifier and pod installs. A full system with a tank pull, head unit and saddlebag work may need the bike for longer, and Nick will say so when you book. Call (213) 429-1092 to set it up.
 
 ## Prices as of October 2026
 
 - AMS pods start at $649 a pair, chrome or gloss, as of October 2026.
 - Amplifier installation and tuning, speaker replacement, head units and bag-lid work are quoted at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby cities
 
@@ -62,7 +65,7 @@ Riders from [Palos Verdes Estates](/amspods/bagger-audio-palos-verdes-estates/),
 
 ## Set a time
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -73,7 +76,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-rolling-hills-estates/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-rolling-hills-estates/",
    "name": "Rolling Hills Estates Bagger Audio | AMS Pods",
-   "description": "Long-ride Harley bagger audio for Rolling Hills Estates: AMS lower-fairing pods and amplifier installation at Audio MotorSports, Carson. Call (310) 513-8800.",
+   "description": "Long-ride Harley bagger audio for Rolling Hills Estates: AMS lower-fairing pods and amplifier installation at Audio MotorSports, Carson. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -144,7 +147,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "Can I wait at the shop while the amp goes in?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes for most amplifier and pod installs. A full system with a tank pull, head unit and saddlebag work may need the bike for longer, and Nick will say so when you book. Call (310) 513-8800 to set it up."
+      "text": "Yes for most amplifier and pod installs. A full system with a tank pull, head unit and saddlebag work may need the bike for longer, and Nick will say so when you book. Call (213) 429-1092 to set it up."
      }
     }
    ]

@@ -4,7 +4,7 @@ city: Lakewood
 miles: 7.7
 lead_service: window tinting (legal front-window rules)
 title: Lakewood Window Tinting | LA Car Tint by Audio MotorSports
-meta: Legal window tinting for Lakewood drivers: Audio MotorSports in Carson installs car window tint and ceramic film 7.7 miles away. Call (310) 513-8800.
+meta: Legal window tinting for Lakewood drivers: Audio MotorSports in Carson installs car window tint and ceramic film 7.7 miles away. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Window Tinting for Lakewood, Done Legal and Done Right
@@ -22,6 +22,9 @@ Lakewood drivers who want window tinting that will not earn a fix-it ticket come
 ## Getting here from Lakewood
 
 Lakewood sits roughly 7.7 miles from the shop, around 15 to 18 minutes outside rush hour (approx). Call or text to set a time, then leave the car or wait inside. Hours are Monday to Saturday 9:30 a.m. to 6:00 p.m.; we are closed Sunday. [SHOP NOTE: 2-3 sentences from Nick about Lakewood customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Lakewood job is finished. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Lakewood traffic sends you.
 
 ## Lakewood tint questions
 
@@ -47,7 +50,7 @@ Yes. The slider panels are tinted individually so the window still opens cleanly
 
 ## Window tint prices, Lakewood
 
-Solar four-door package, $249 installed; Solar Ceramic four-door package, $329 installed; both as of October 2026, covering the four doors and rear window. Trucks, SUVs, windshield strips and Tesla roof glass are priced at the shop after we see the vehicle. Payment plan available, ask Nick. Before you book, the record: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews) as of October 2026.
+Solar four-door package, $249 installed; Solar Ceramic four-door package, $329 installed; both as of October 2026, covering the four doors and rear window. Trucks, SUVs, windshield strips and Tesla roof glass are priced at the shop after we see the vehicle. Payment plan available, ask Nick. Before you book, the record: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews) as of October 2026.
 
 ## Tint for Lakewood neighbors
 
@@ -55,7 +58,7 @@ Solar four-door package, $249 installed; Solar Ceramic four-door package, $329 i
 
 ## Call, text or come by
 
-(310) 513-8800 by phone, (213) 429-1092 by text. Audio MotorSports sits at 22025 S Avalon Blvd Ste A in Carson, CA 90745, Monday to Saturday 9:30-18:00, Sunday closed.
+(213) 429-1092 by phone, (213) 429-1092 by text. Audio MotorSports sits at 22025 S Avalon Blvd Ste A in Carson, CA 90745, Monday to Saturday 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -66,7 +69,7 @@ Solar four-door package, $249 installed; Solar Ceramic four-door package, $329 i
    "@id": "https://www.audiomotorsports.com/tint/window-tint-lakewood/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-lakewood/",
    "name": "Lakewood Window Tinting | LA Car Tint by Audio MotorSports",
-   "description": "Legal window tinting for Lakewood drivers: Audio MotorSports in Carson installs car window tint and ceramic film 7.7 miles away. Call (310) 513-8800.",
+   "description": "Legal window tinting for Lakewood drivers: Audio MotorSports in Carson installs car window tint and ceramic film 7.7 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

@@ -1,178 +1,55 @@
 {
  "site": "alarm",
- "fix_files": {
-  "alondra-park.md": "title length 61",
-  "anaheim.md": "title length 64; meta length 167",
-  "arcadia.md": "title length 66; meta length 171",
-  "baldwin-park.md": "meta length 172",
-  "bellflower.md": "meta length 163",
-  "bradbury.md": "meta length 180",
-  "cerritos.md": "title length 65; meta length 162",
-  "chino.md": "title length 62; meta length 173",
-  "city-of-industry.md": "meta length 168",
-  "compton.md": "meta length 168",
-  "culver-city.md": "title length 66; meta length 174"
- },
+ "out_dir": "alarm/drafts",
+ "fix_files": {},
  "write_missing": [
   {
-   "url": "https://www.audiomotorsports.com/alarm/car-alarm-del-aire/",
-   "path": "/alarm/car-alarm-del-aire/",
-   "cityslug": "del-aire",
-   "city": "Del Aire",
-   "miles": 8.6,
-   "title": "Car Alarm Installation for Del Aire | LA Car Alarm"
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-altadena/",
+   "path": "/alarm/car-alarm-altadena/",
+   "cityslug": "altadena",
+   "city": "Altadena",
+   "miles": 26.2,
+   "title": "Car Alarm Installation for Altadena | LA Car Alarm"
   },
   {
-   "url": "https://www.audiomotorsports.com/alarm/car-alarm-downey/",
-   "path": "/alarm/car-alarm-downey/",
-   "cityslug": "downey",
-   "city": "Downey",
-   "miles": 10.9,
-   "title": "Car Alarm Installation for Downey | LA Car Alarm"
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-anaheim/",
+   "path": "/alarm/car-alarm-anaheim/",
+   "cityslug": "anaheim",
+   "city": "Anaheim",
+   "miles": 20.0,
+   "title": "Car Alarm Installation for Anaheim | LA Car Alarm"
   },
   {
-   "url": "https://www.audiomotorsports.com/alarm/car-alarm-bell/",
-   "path": "/alarm/car-alarm-bell/",
-   "cityslug": "bell",
-   "city": "Bell",
-   "miles": 11.3,
-   "title": "Car Alarm Installation for Bell | LA Car Alarm"
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-arcadia/",
+   "path": "/alarm/car-alarm-arcadia/",
+   "cityslug": "arcadia",
+   "city": "Arcadia",
+   "miles": 25.3,
+   "title": "Car Alarm Installation for Arcadia | LA Car Alarm"
   },
   {
-   "url": "https://www.audiomotorsports.com/alarm/car-alarm-cypress/",
-   "path": "/alarm/car-alarm-cypress/",
-   "cityslug": "cypress",
-   "city": "Cypress",
-   "miles": 13.0,
-   "title": "Car Alarm Installation for Cypress | LA Car Alarm"
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-baldwin-park/",
+   "path": "/alarm/car-alarm-baldwin-park/",
+   "cityslug": "baldwin-park",
+   "city": "Baldwin Park",
+   "miles": 30.8,
+   "title": "Car Alarm Installation for Baldwin Park | LA Car Alarm"
   },
   {
-   "url": "https://www.audiomotorsports.com/alarm/car-alarm-baldwin-hills/",
-   "path": "/alarm/car-alarm-baldwin-hills/",
-   "cityslug": "baldwin-hills",
-   "city": "Baldwin Hills",
-   "miles": 13.3,
-   "title": "Car Alarm Installation for Baldwin Hills | LA Car Alarm"
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-bellflower/",
+   "path": "/alarm/car-alarm-bellflower/",
+   "cityslug": "bellflower",
+   "city": "Bellflower",
+   "miles": 9.3,
+   "title": "Car Alarm Installation for Bellflower | LA Car Alarm"
   },
   {
-   "url": "https://www.audiomotorsports.com/alarm/car-alarm-boyle-heights/",
-   "path": "/alarm/car-alarm-boyle-heights/",
-   "cityslug": "boyle-heights",
-   "city": "Boyle Heights",
-   "miles": 14.3,
-   "title": "Car Alarm Installation for Boyle Heights | LA Car Alarm"
-  },
-  {
-   "url": "https://www.audiomotorsports.com/alarm/car-alarm-costa-mesa/",
-   "path": "/alarm/car-alarm-costa-mesa/",
-   "cityslug": "costa-mesa",
-   "city": "Costa Mesa",
-   "miles": 23.7,
-   "title": "Car Alarm Installation for Costa Mesa | LA Car Alarm"
-  },
-  {
-   "url": "https://www.audiomotorsports.com/alarm/car-alarm-covina/",
-   "path": "/alarm/car-alarm-covina/",
-   "cityslug": "covina",
-   "city": "Covina",
-   "miles": 34.8,
-   "title": "Car Alarm Installation for Covina | LA Car Alarm"
-  },
-  {
-   "url": "https://www.audiomotorsports.com/alarm/car-alarm-east-los-angeles/",
-   "path": "/alarm/car-alarm-east-los-angeles/",
-   "cityslug": "east-los-angeles",
-   "city": "East Los Angeles",
-   "miles": 14.5,
-   "title": "Car Alarm Installation for East Los Angeles | LA Car Alarm"
-  },
-  {
-   "url": "https://www.audiomotorsports.com/alarm/car-alarm-buena-park/",
-   "path": "/alarm/car-alarm-buena-park/",
-   "cityslug": "buena-park",
-   "city": "Buena Park",
-   "miles": 15.4,
-   "title": "Car Alarm Installation for Buena Park | LA Car Alarm"
-  },
-  {
-   "url": "https://www.audiomotorsports.com/alarm/car-alarm-brentwood/",
-   "path": "/alarm/car-alarm-brentwood/",
-   "cityslug": "brentwood",
-   "city": "Brentwood",
-   "miles": 20.2,
-   "title": "Car Alarm Installation for Brentwood | LA Car Alarm"
-  },
-  {
-   "url": "https://www.audiomotorsports.com/alarm/car-alarm-artesia/",
-   "path": "/alarm/car-alarm-artesia/",
-   "cityslug": "artesia",
-   "city": "Artesia",
-   "miles": 10.8,
-   "title": "Car Alarm Installation for Artesia | LA Car Alarm"
-  },
-  {
-   "url": "https://www.audiomotorsports.com/alarm/car-alarm-beverly-hills/",
-   "path": "/alarm/car-alarm-beverly-hills/",
-   "cityslug": "beverly-hills",
-   "city": "Beverly Hills",
-   "miles": 18.5,
-   "title": "Car Alarm Installation for Beverly Hills | LA Car Alarm"
-  },
-  {
-   "url": "https://www.audiomotorsports.com/alarm/car-alarm-alhambra/",
-   "path": "/alarm/car-alarm-alhambra/",
-   "cityslug": "alhambra",
-   "city": "Alhambra",
-   "miles": 19.9,
-   "title": "Car Alarm Installation for Alhambra | LA Car Alarm"
-  },
-  {
-   "url": "https://www.audiomotorsports.com/alarm/car-alarm-duarte/",
-   "path": "/alarm/car-alarm-duarte/",
-   "cityslug": "duarte",
-   "city": "Duarte",
-   "miles": 27.1,
-   "title": "Car Alarm Installation for Duarte | LA Car Alarm"
-  },
-  {
-   "url": "https://www.audiomotorsports.com/alarm/car-alarm-anaheim-hills/",
-   "path": "/alarm/car-alarm-anaheim-hills/",
-   "cityslug": "anaheim-hills",
-   "city": "Anaheim Hills",
-   "miles": 29.9,
-   "title": "Car Alarm Installation for Anaheim Hills | LA Car Alarm"
-  },
-  {
-   "url": "https://www.audiomotorsports.com/alarm/car-alarm-azusa/",
-   "path": "/alarm/car-alarm-azusa/",
-   "cityslug": "azusa",
-   "city": "Azusa",
-   "miles": 36.5,
-   "title": "Car Alarm Installation for Azusa | LA Car Alarm"
-  },
-  {
-   "url": "https://www.audiomotorsports.com/alarm/car-alarm-cudahy/",
-   "path": "/alarm/car-alarm-cudahy/",
-   "cityslug": "cudahy",
-   "city": "Cudahy",
-   "miles": 10.0,
-   "title": "Car Alarm Installation for Cudahy | LA Car Alarm"
-  },
-  {
-   "url": "https://www.audiomotorsports.com/alarm/car-alarm-bell-gardens/",
-   "path": "/alarm/car-alarm-bell-gardens/",
-   "cityslug": "bell-gardens",
-   "city": "Bell Gardens",
-   "miles": 11.3,
-   "title": "Car Alarm Installation for Bell Gardens | LA Car Alarm"
-  },
-  {
-   "url": "https://www.audiomotorsports.com/alarm/car-alarm-city-of-commerce/",
-   "path": "/alarm/car-alarm-city-of-commerce/",
-   "cityslug": "city-of-commerce",
-   "city": "Commerce",
-   "miles": 13.1,
-   "title": "Car Alarm Installation for Commerce | LA Car Alarm"
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-bradbury/",
+   "path": "/alarm/car-alarm-bradbury/",
+   "cityslug": "bradbury",
+   "city": "Bradbury",
+   "miles": 34.4,
+   "title": "Car Alarm Installation for Bradbury | LA Car Alarm"
   },
   {
    "url": "https://www.audiomotorsports.com/alarm/car-alarm-brea/",
@@ -183,20 +60,52 @@
    "title": "Car Alarm Installation for Brea | LA Car Alarm"
   },
   {
-   "url": "https://www.audiomotorsports.com/alarm/car-alarm-altadena/",
-   "path": "/alarm/car-alarm-altadena/",
-   "cityslug": "altadena",
-   "city": "Altadena",
-   "miles": 26.2,
-   "title": "Car Alarm Installation for Altadena | LA Car Alarm"
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-cerritos/",
+   "path": "/alarm/car-alarm-cerritos/",
+   "cityslug": "cerritos",
+   "city": "Cerritos",
+   "miles": 11.7,
+   "title": "Car Alarm Installation for Cerritos | LA Car Alarm"
   },
   {
-   "url": "https://www.audiomotorsports.com/alarm/car-alarm-el-monte/",
-   "path": "/alarm/car-alarm-el-monte/",
-   "cityslug": "el-monte",
-   "city": "El Monte",
-   "miles": 26.6,
-   "title": "Car Alarm Installation for El Monte | LA Car Alarm"
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-chino/",
+   "path": "/alarm/car-alarm-chino/",
+   "cityslug": "chino",
+   "city": "Chino",
+   "miles": 44.0,
+   "title": "Car Alarm Installation for Chino | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-chino-hills/",
+   "path": "/alarm/car-alarm-chino-hills/",
+   "cityslug": "chino-hills",
+   "city": "Chino Hills",
+   "miles": 38.8,
+   "title": "Car Alarm Installation for Chino Hills | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-city-of-industry/",
+   "path": "/alarm/car-alarm-city-of-industry/",
+   "cityslug": "city-of-industry",
+   "city": "City of Industry",
+   "miles": 27.2,
+   "title": "Car Alarm Installation for City of Industry | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-compton/",
+   "path": "/alarm/car-alarm-compton/",
+   "cityslug": "compton",
+   "city": "Compton",
+   "miles": 5.4,
+   "title": "Car Alarm Installation for Compton | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-culver-city/",
+   "path": "/alarm/car-alarm-culver-city/",
+   "cityslug": "culver-city",
+   "city": "Culver City",
+   "miles": 15.2,
+   "title": "Car Alarm Installation for Culver City | LA Car Alarm"
   },
   {
    "url": "https://www.audiomotorsports.com/alarm/car-alarm-diamond-bar/",
@@ -207,16 +116,37 @@
    "title": "Car Alarm Installation for Diamond Bar | LA Car Alarm"
   },
   {
-   "url": "https://www.audiomotorsports.com/alarm/car-alarm-chino-hills/",
-   "path": "/alarm/car-alarm-chino-hills/",
-   "cityslug": "chino-hills",
-   "city": "Chino Hills",
-   "miles": 38.8,
-   "title": "Car Alarm Installation for Chino Hills | LA Car Alarm"
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-el-monte/",
+   "path": "/alarm/car-alarm-el-monte/",
+   "cityslug": "el-monte",
+   "city": "El Monte",
+   "miles": 26.6,
+   "title": "Car Alarm Installation for El Monte | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-el-segundo/",
+   "path": "/alarm/car-alarm-el-segundo/",
+   "cityslug": "el-segundo",
+   "city": "El Segundo",
+   "miles": 10.8,
+   "title": "Car Alarm Installation for El Segundo | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-exposition-park/",
+   "path": "/alarm/car-alarm-exposition-park/",
+   "cityslug": "exposition-park",
+   "city": "Exposition Park",
+   "miles": 15.9,
+   "title": "Car Alarm Installation for Exposition Park | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-fountain-valley/",
+   "path": "/alarm/car-alarm-fountain-valley/",
+   "cityslug": "fountain-valley",
+   "city": "Fountain Valley",
+   "miles": 19.7,
+   "title": "Car Alarm Installation for Fountain Valley | LA Car Alarm"
   }
  ],
- "reuse_lines_involving_your_files": [
-  "['arcadia.md', 'bradbury.md'] | ### how long does a remote start installation take?",
-  "['cerritos.md', 'city-of-industry.md'] | book a slot, ride or drive down, and either leave it with us or wait in the shop until it "
- ]
+ "reuse_lines_involving_your_files": []
 }

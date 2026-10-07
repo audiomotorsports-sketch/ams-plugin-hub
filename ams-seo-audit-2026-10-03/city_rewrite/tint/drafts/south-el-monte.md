@@ -4,7 +4,7 @@ city: South El Monte
 miles: 19.7
 lead_service: window tinting (work vehicles)
 title: South El Monte Window Tinting | LA Car Tint, Carson
-meta: Window tinting for South El Monte work trucks, vans and family cars, installed by Audio MotorSports in Carson, 19.7 miles away. Call (310) 513-8800 to book.
+meta: Window tinting for South El Monte work trucks, vans and family cars, installed by Audio MotorSports in Carson, 19.7 miles away. Call (213) 429-1092 to book.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Window Tinting for South El Monte Work Trucks and Family Cars
@@ -22,6 +22,9 @@ South El Monte is full of small businesses running trucks and vans, and LA Car T
 ## Getting here from South El Monte
 
 South El Monte to the shop runs roughly 19.7 miles, about 39 to 47 minutes outside rush hour (approx). Call or text to book, then drop the vehicle for the day or wait while it is done. Hours are Monday to Saturday 9:30 a.m. to 6:00 p.m., closed Sunday. We have tinted cars for people who drove in from over 100 miles away, so South El Monte is an easy trip. [SHOP NOTE: 2-3 sentences from Nick about South El Monte customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for South El Monte customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. Coming from South El Monte, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## South El Monte window tinting questions
 
@@ -47,7 +50,7 @@ The same light shade as any car: California requires the front side windows to s
 
 ## Window tinting prices for South El Monte
 
-Solar four-door is $249 installed and Solar Ceramic four-door is $329 installed, as of October 2026, each covering four doors plus the rear window on a passenger car. Trucks, vans, fleet orders and windshield strips are quoted at the shop. Payment plan available, ask Nick. We are at Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews) as of October 2026.
+Solar four-door is $249 installed and Solar Ceramic four-door is $329 installed, as of October 2026, each covering four doors plus the rear window on a passenger car. Trucks, vans, fleet orders and windshield strips are quoted at the shop. Payment plan available, ask Nick. We are at Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews) as of October 2026.
 
 ## Tint pages for nearby San Gabriel Valley cities
 
@@ -55,7 +58,7 @@ Solar four-door is $249 installed and Solar Ceramic four-door is $329 installed,
 
 ## Book the truck
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday to Saturday 9:30-18:00 and closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday to Saturday 9:30-18:00 and closed Sunday.
 
 ```json
 {

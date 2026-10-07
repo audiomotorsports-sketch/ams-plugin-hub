@@ -4,7 +4,7 @@ city: Lomita
 miles: 3.7
 lead_service: Tesla window tint (glass roof heat)
 title: Tesla Window Tint for Lomita | Tesla Tint LA, Carson
-meta: Tesla window tint for Lomita owners at Tesla Tint LA by Audio MotorSports in Carson, 3.7 miles away. Ceramic film, glass roof heat control. Call (310) 513-8800.
+meta: Tesla window tint for Lomita owners at Tesla Tint LA by Audio MotorSports in Carson, 3.7 miles away. Ceramic film, glass roof heat control. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla Window Tint for Lomita: Beat the Glass Roof Heat
@@ -24,6 +24,9 @@ Tesla Tint LA is the Tesla window tint side of Audio MotorSports at 22025 S Aval
 ## Getting here from Lomita
 
 Lomita to the shop is roughly 3.7 miles, about a 7 to 9 minute drive outside rush hour (approx). Open Monday through Saturday 9:30 to 6:00, closed Sunday. Book a time first, then either leave the car and come back or wait at the shop while the film goes on. [SHOP NOTE: 2-3 sentences from Nick about Lomita customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Lomita drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Lomita customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Coming from Lomita, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710. Lomita customers include port and refinery workers on shift schedules, so early drop-offs are normal here.
 
 ## Questions Lomita owners ask
 
@@ -49,7 +52,7 @@ Plan on a few hours for sides, rear and roof, a bit less for fronts only. You ar
 
 ## Prices
 
-Tesla window tint is quoted by model at the shop, because Model 3, Model Y, Model S, Model X and Cybertruck glass are all different. For reference, the non-Tesla window tint prices at the same bay are Solar $249 and Solar Ceramic $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Tesla window tint is quoted by model at the shop, because Model 3, Model Y, Model S, Model X and Cybertruck glass are all different. For reference, the non-Tesla window tint prices at the same bay are Solar $249 and Solar Ceramic $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby Tesla tint pages
 
@@ -57,7 +60,7 @@ Tesla window tint is quoted by model at the shop, because Model 3, Model Y, Mode
 
 ## Book it
 
-Call (310) 513-8800 or text (213) 429-1092 with your model and year. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with your model and year. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

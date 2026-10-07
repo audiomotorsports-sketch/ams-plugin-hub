@@ -4,7 +4,7 @@ city: South Pasadena
 miles: 20.7
 lead_service: window tint
 title: Window Tinting for South Pasadena | Audio MotorSports
-meta: Car window tinting, ceramic tint, car stereo installation, alarms and remote start for South Pasadena drivers at Audio MotorSports in Carson. (310) 513-8800.
+meta: Car window tinting, ceramic tint, car stereo installation, alarms and remote start for South Pasadena drivers at Audio MotorSports in Carson. (213) 429-1092.
 ---
 # Window Tinting for South Pasadena Drivers
 
@@ -21,6 +21,9 @@ Car window tint for South Pasadena means a trip of about 20.7 miles to Audio Mot
 **Car stereo installation.** Head unit installation with CarPlay, speaker replacement and subwoofer installation, all with the factory camera and controls kept.
 
 **Car alarm installation and remote start installation.** Viper and Compustar wired into factory circuits, module hidden, nothing to reach from the fuse box.
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which South Pasadena customers tell us makes the drop-off painless. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. Coming from South Pasadena, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## From South Pasadena to Carson
 
@@ -44,7 +47,7 @@ Yes, that is the efficient way to do it. The deck goes in first, with the dash k
 
 ### Who is doing the work?
 
-A small crew in one bay, one car at a time, with Nick writing the quote and Zack running the floor. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, is the public record. Call and Nick will tell you what your car needs and what it costs.
+A small crew in one bay, one car at a time, with Nick writing the quote and Zack running the floor. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, is the public record. Call and Nick will tell you what your car needs and what it costs.
 
 ## Prices as of October 2026
 
@@ -56,7 +59,7 @@ Solar window tint $249 installed, Solar Ceramic $329 installed. Viper 3108V alar
 
 ## Book from South Pasadena
 
-Call (310) 513-8800 or text (213) 429-1092 with your year, make and model. The address is 22025 S Avalon Blvd Ste A, Carson, CA 90745, and the hours are Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with your year, make and model. The address is 22025 S Avalon Blvd Ste A, Carson, CA 90745, and the hours are Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -67,7 +70,7 @@ Call (310) 513-8800 or text (213) 429-1092 with your year, make and model. The a
    "@id": "https://www.audiomotorsports.com/south-pasadena/#webpage",
    "url": "https://www.audiomotorsports.com/south-pasadena/",
    "name": "Window Tinting for South Pasadena | Audio MotorSports",
-   "description": "Car window tinting, ceramic tint, car stereo installation, alarms and remote start for South Pasadena drivers at Audio MotorSports in Carson. Call (310) 513-8800.",
+   "description": "Car window tinting, ceramic tint, car stereo installation, alarms and remote start for South Pasadena drivers at Audio MotorSports in Carson. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -141,7 +144,7 @@ Call (310) 513-8800 or text (213) 429-1092 with your year, make and model. The a
      "name": "Who is doing the work?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "A small crew in one bay, one car at a time, with Nick writing the quote and Zack running the floor. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, is the public record. Call and Nick will tell you what your car needs and what it costs."
+      "text": "A small crew in one bay, one car at a time, with Nick writing the quote and Zack running the floor. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, is the public record. Call and Nick will tell you what your car needs and what it costs."
      }
     }
    ]

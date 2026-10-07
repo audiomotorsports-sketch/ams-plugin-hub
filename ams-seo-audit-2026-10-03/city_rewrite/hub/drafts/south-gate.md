@@ -4,7 +4,7 @@ city: South Gate
 miles: 9.3
 lead_service: Tesla window tint
 title: Tesla Window Tint & Audio, South Gate | Audio MotorSports
-meta: Tesla window tint, ceramic window tint, car stereo installation and alarm installs for South Gate drivers at Audio MotorSports in Carson. Call (310) 513-8800.
+meta: Tesla window tint, ceramic window tint, car stereo installation and alarm installs for South Gate drivers at Audio MotorSports in Carson. Call (213) 429-1092.
 ---
 # Tesla Window Tint for South Gate Owners
 
@@ -22,9 +22,12 @@ South Gate Tesla owners drive about 9.3 miles, roughly 19-22 minutes (approx) ou
 
 **Dash camera installation and GPS tracker installation.** Front and rear cameras hardwired to record while parked with wiring hidden in the headliner, and trackers placed out of sight.
 
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from South Gate, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from South Gate.
+
 ## From South Gate to the shop
 
-The trip is about 9.3 miles, call it 19 to 22 minutes (approx) when traffic is moving. We have had customers come from Temecula for tint, so South Gate is nothing. Open Monday through Saturday 9:30 AM to 6:00 PM, closed Sunday. Book a time, then drop the car or wait in the shop; a full Tesla tint is a wait-or-drop job either way. Call (310) 513-8800 or text (213) 429-1092 to schedule. South Gate owners can look us up first: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+The trip is about 9.3 miles, call it 19 to 22 minutes (approx) when traffic is moving. We have had customers come from Temecula for tint, so South Gate is nothing. Open Monday through Saturday 9:30 AM to 6:00 PM, closed Sunday. Book a time, then drop the car or wait in the shop; a full Tesla tint is a wait-or-drop job either way. Call (213) 429-1092 or text (213) 429-1092 to schedule. South Gate owners can look us up first: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 [SHOP NOTE: 2-3 sentences from Nick about South Gate customers, routes or jobs]
 
@@ -71,7 +74,7 @@ Everything else, from amplifier installation to dash cams, is priced on your car
 
 ## Schedule Tesla tint from South Gate
 
-Call (310) 513-8800 or text (213) 429-1092 with your model. Audio MotorSports sits at 22025 S Avalon Blvd Ste A in Carson, CA 90745. Hours Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with your model. Audio MotorSports sits at 22025 S Avalon Blvd Ste A in Carson, CA 90745. Hours Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

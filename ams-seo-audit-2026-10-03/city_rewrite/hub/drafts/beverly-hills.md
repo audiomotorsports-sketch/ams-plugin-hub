@@ -4,7 +4,7 @@ city: Beverly Hills
 miles: 18.5
 lead_service: car audio/stereo
 title: Car Audio Installation, Beverly Hills | Audio MotorSports
-meta: Car stereo installation, speaker replacement and amplifier installs for Beverly Hills drivers at Audio MotorSports in Carson, 18.5 miles. Call (310) 513-8800.
+meta: Car stereo installation, speaker replacement and amplifier installs for Beverly Hills drivers at Audio MotorSports in Carson, 18.5 miles. Call (213) 429-1092.
 ---
 # Car Audio Installation for Beverly Hills Drivers
 
@@ -25,6 +25,9 @@ Audio MotorSports does car stereo installation, speaker replacement and amplifie
 ## Beverly Hills to Carson
 
 The shop is about 18.5 miles from Beverly Hills, which is thirty-seven to forty-four minutes outside rush hour (approx). Hours are Monday through Saturday, 9:30 AM to 6:00 PM; closed Sunday. Schedule by call or text, then wait on site or leave the car and return when it is finished. Audio installed through the factory wiring, with nothing cut and nothing rattling, is work that holds up, and that is why people make the drive.
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Beverly Hills drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. The shop is LGBTQ-friendly and everyone from Beverly Hills is welcome, as our Google and Yelp listings state. From Beverly Hills you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Audio questions from Beverly Hills
 
@@ -64,7 +67,7 @@ Pages for cities next to Beverly Hills:
 
 ## Book from Beverly Hills
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday, 9:30 AM to 6:00 PM; closed on Sunday.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday, 9:30 AM to 6:00 PM; closed on Sunday.
 
 ```json
 {
@@ -75,7 +78,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio 
    "@id": "https://www.audiomotorsports.com/beverly-hills/#webpage",
    "url": "https://www.audiomotorsports.com/beverly-hills/",
    "name": "Car Audio Installation, Beverly Hills | Audio MotorSports",
-   "description": "Car stereo installation, speaker replacement and amplifier installs for Beverly Hills drivers at Audio MotorSports in Carson, 18.5 miles. Call (310) 513-8800.",
+   "description": "Car stereo installation, speaker replacement and amplifier installs for Beverly Hills drivers at Audio MotorSports in Carson, 18.5 miles. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

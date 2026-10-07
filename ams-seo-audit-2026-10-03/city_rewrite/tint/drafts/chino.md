@@ -4,7 +4,7 @@ city: Chino
 miles: 44.0
 lead_service: car window tint
 title: Car Window Tint Chino | LA Car Tint, Carson
-meta: Car window tint and ceramic film for Chino trucks, SUVs and sedans, hand-cut and installed by Audio MotorSports in Carson, 44 miles away. Call (310) 513-8800.
+meta: Car window tint and ceramic film for Chino trucks, SUVs and sedans, hand-cut and installed by Audio MotorSports in Carson, 44 miles away. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Window Tint for Chino Drivers, by Audio MotorSports, Carson
@@ -26,11 +26,14 @@ Plan on about 44 miles and roughly an hour and a half (approx) outside rush hour
 
 [SHOP NOTE: 2-3 sentences from Nick about Chino customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Chino customers tell us makes the drop-off painless. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. From Chino you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
+
 ## Chino drivers ask
 
 ### Is it really worth driving from Chino to Carson for car window tint?
 
-Owners who have had a cheap job peel say yes. The film here is cut on your glass, tucked under the seal and heat-set, by a crew that tints daily with Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. One good trip replaces two bad ones.
+Owners who have had a cheap job peel say yes. The film here is cut on your glass, tucked under the seal and heat-set, by a crew that tints daily with Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. One good trip replaces two bad ones.
 
 ### Can two vehicles from the same Chino household be tinted on one trip?
 
@@ -42,7 +45,7 @@ Trucks get the slider filmed in separate panels so it still slides, door glass t
 
 ### How should a Chino driver plan the day around the appointment?
 
-Book a morning slot, leave early, and either wait at the shop or drop the vehicle and come back in the afternoon. Keep the windows up for a few days afterward while the film cures. Call (310) 513-8800 or text (213) 429-1092 with the year, make and model to set it up.
+Book a morning slot, leave early, and either wait at the shop or drop the vehicle and come back in the afternoon. Keep the windows up for a few days afterward while the film cures. Call (213) 429-1092 or text (213) 429-1092 with the year, make and model to set it up.
 
 ### Does ceramic tint help with the long commute glare as well as heat?
 
@@ -61,7 +64,7 @@ Solar window tint $249 installed and Solar Ceramic $329 installed, as of October
 
 ## Book it
 
-Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
+Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
 
 ```json
 {
@@ -72,7 +75,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-chino/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-chino/",
    "name": "Car Window Tint Chino | LA Car Tint, Carson",
-   "description": "Car window tint and ceramic film for Chino trucks, SUVs and sedans, hand-cut and installed by Audio MotorSports in Carson, 44 miles away. Call (310) 513-8800.",
+   "description": "Car window tint and ceramic film for Chino trucks, SUVs and sedans, hand-cut and installed by Audio MotorSports in Carson, 44 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -112,7 +115,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "Is it really worth driving from Chino to Carson for car window tint?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Owners who have had a cheap job peel say yes. The film here is cut on your glass, tucked under the seal and heat-set, by a crew that tints daily with Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. One good trip replaces two bad ones."
+      "text": "Owners who have had a cheap job peel say yes. The film here is cut on your glass, tucked under the seal and heat-set, by a crew that tints daily with Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. One good trip replaces two bad ones."
      }
     },
     {
@@ -136,7 +139,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "How should a Chino driver plan the day around the appointment?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Book a morning slot, leave early, and either wait at the shop or drop the vehicle and come back in the afternoon. Keep the windows up for a few days afterward while the film cures. Call (310) 513-8800 or text (213) 429-1092 with the year, make and model to set it up."
+      "text": "Book a morning slot, leave early, and either wait at the shop or drop the vehicle and come back in the afternoon. Keep the windows up for a few days afterward while the film cures. Call (213) 429-1092 or text (213) 429-1092 with the year, make and model to set it up."
      }
     },
     {

@@ -5,7 +5,7 @@ miles: 11.7
 lead_service: Tesla window tint (Model Y)
 source: hub-mounted copy; standalone www host not verified
 title: Cerritos Model Y Window Tint | Tesla Tint LA
-meta: Model Y and Tesla window tint for Cerritos drivers: ceramic film hand-cut at Audio MotorSports in Carson, 11.7 miles from Cerritos. Call (310) 513-8800 for a quote by model.
+meta: Model Y and Tesla window tint for Cerritos drivers: ceramic film hand-cut at Audio MotorSports in Carson, 11.7 miles from Cerritos. Call (213) 429-1092 for a quote by model.
 ---
 # Model Y Window Tint for Cerritos Tesla Owners
 
@@ -28,6 +28,9 @@ Audio MotorSports can also fit a dash camera, a GPS tracker or an alarm with rem
 The trip is about 11.7 miles, around 23 to 28 minutes outside rush hour (approx). We are open Monday through Saturday, 9:30 AM to 6:00 PM, closed Sunday. Make the appointment first, then drop the Y for the day or wait at the shop.
 
 [SHOP NOTE: 2-3 sentences from Nick about Cerritos customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Cerritos customers tell us makes the drop-off painless. The shop is LGBTQ-friendly and everyone from Cerritos is welcome, as our Google and Yelp listings state. Coming from Cerritos, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Cerritos Tesla tint questions
 
@@ -53,7 +56,7 @@ Not here. Camera areas are masked before the film goes on and left uncovered, an
 
 ## Pricing
 
-Tesla tint, Model Y included, is quoted by model at the shop; text the year and model for the figure. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Tesla tint, Model Y included, is quoted by model at the shop; text the year and model for the figure. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint drive-ins near Cerritos
 
@@ -65,7 +68,7 @@ Tesla tint, Model Y included, is quoted by model at the shop; text the year and 
 
 ## Book from Cerritos
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -76,7 +79,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-cerritos/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-cerritos/",
    "name": "Cerritos Model Y Window Tint | Tesla Tint LA",
-   "description": "Model Y and Tesla window tint for Cerritos drivers: ceramic film hand-cut at Audio MotorSports in Carson, 11.7 miles from Cerritos. Call (310) 513-8800 for a quote by model.",
+   "description": "Model Y and Tesla window tint for Cerritos drivers: ceramic film hand-cut at Audio MotorSports in Carson, 11.7 miles from Cerritos. Call (213) 429-1092 for a quote by model.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

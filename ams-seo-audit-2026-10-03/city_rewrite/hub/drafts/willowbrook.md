@@ -4,7 +4,7 @@ city: Willowbrook
 miles: 6.0
 lead_service: Car window tint
 title: Car Window Tint & Stereo, Willowbrook | Audio MotorSports
-meta: Car window tint, ceramic window tint, car stereo installation and remote start for Willowbrook drivers. Audio MotorSports, Carson. Call (310) 513-8800 to book.
+meta: Car window tint, ceramic window tint, car stereo installation and remote start for Willowbrook drivers. Audio MotorSports, Carson. Call (213) 429-1092 to book.
 ---
 # Car Window Tint for Willowbrook Drivers
 
@@ -24,9 +24,12 @@ Willowbrook drivers get car window tint, car stereo installation, car alarm inst
 
 **GPS tracker installation and dash camera installation.** Trackers hidden out of sight, and dash cams hardwired so they keep recording in the lot.
 
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Willowbrook, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. From Willowbrook you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
+
 ## The drive from Willowbrook to Carson
 
-Willowbrook to the shop is about 6.0 miles, call it 12 to 14 minutes (approx) with normal traffic. We are open Monday through Saturday from 9:30 to 6 and closed on Sunday. Set an appointment, then either leave the car with us or wait while it is done; tint on a sedan is usually a wait-length job. Booking is by phone at (310) 513-8800 or text at (213) 429-1092. The reviews are public: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, most of them from people who drove in like you will.
+Willowbrook to the shop is about 6.0 miles, call it 12 to 14 minutes (approx) with normal traffic. We are open Monday through Saturday from 9:30 to 6 and closed on Sunday. Set an appointment, then either leave the car with us or wait while it is done; tint on a sedan is usually a wait-length job. Booking is by phone at (213) 429-1092 or text at (213) 429-1092. The reviews are public: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, most of them from people who drove in like you will.
 
 [SHOP NOTE: 2-3 sentences from Nick about Willowbrook customers, routes or jobs]
 
@@ -73,7 +76,7 @@ Stereo installs, amplifiers, CarPlay units, GPS and dash cams get quoted at the 
 
 ## Book window tint from Willowbrook
 
-Phone (310) 513-8800. Text (213) 429-1092. The shop is Audio MotorSports at 22025 S Avalon Blvd Ste A, Carson 90745. Open Mon-Sat 9:30-18:00, closed Sunday.
+Phone (213) 429-1092. Text (213) 429-1092. The shop is Audio MotorSports at 22025 S Avalon Blvd Ste A, Carson 90745. Open Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {

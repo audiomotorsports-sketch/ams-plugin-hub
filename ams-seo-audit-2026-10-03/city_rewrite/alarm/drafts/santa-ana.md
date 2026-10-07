@@ -4,7 +4,7 @@ city: Santa Ana
 miles: 23.5
 lead_service: Viper alarm installation
 title: Viper Alarm Installation for Santa Ana | LA Car Alarm
-meta: Viper alarm installation for Santa Ana drivers at LA Car Alarm by Audio MotorSports in Carson, 23.5 miles. Remote start, GPS trackers, dash cameras. Call (310) 513-8800.
+meta: Viper alarm installation for Santa Ana drivers at LA Car Alarm by Audio MotorSports in Carson, 23.5 miles. Remote start, GPS trackers, dash cameras. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Viper Alarm Installation for Santa Ana Drivers
@@ -22,6 +22,9 @@ Santa Ana drivers travel about 23.5 miles to LA Car Alarm at Audio MotorSports, 
 **Dash camera installation.** Fused hardwire kit, cable in the headliner, parking mode on, cutoff set.
 
 Window tint and a car stereo installation can join the same appointment so the drive from Santa Ana counts once.
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Santa Ana drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. The shop is LGBTQ-friendly and everyone from Santa Ana is welcome, as our Google and Yelp listings state. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Santa Ana traffic sends you.
 
 ## Santa Ana to the shop
 
@@ -56,7 +59,7 @@ Nobody here thinks 23 miles is far; drivers come from over 100 miles away for an
 
 Sensors, trackers and dash cameras are quoted on the vehicle at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby alarm pages
 
@@ -67,7 +70,7 @@ Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
 
 ## Reserve a Santa Ana appointment
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make and model so the right interface is on hand. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make and model so the right interface is on hand. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

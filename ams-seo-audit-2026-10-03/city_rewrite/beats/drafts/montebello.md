@@ -6,7 +6,7 @@ lead_service: car stereo installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Montebello Car Stereo Installation | LA Car Beats
-meta: Car stereo installation and head unit installation for Montebello drivers at LA Car Beats, Audio MotorSports, Carson, 15.3 miles. Call (310) 513-8800.
+meta: Car stereo installation and head unit installation for Montebello drivers at LA Car Beats, Audio MotorSports, Carson, 15.3 miles. Call (213) 429-1092.
 ---
 # Car Stereo Installation for Montebello
 
@@ -22,7 +22,10 @@ Montebello drivers come to LA Car Beats by Audio MotorSports, Carson, 22025 S Av
 
 ## Montebello to the shop
 
-From Montebello the shop is about 15.3 miles, roughly 31 to 37 minutes outside rush hour (approx). Open Monday through Saturday 9:30 to 6:00, closed Sunday. Call (310) 513-8800 or text (213) 429-1092 for an appointment. A full car stereo installation is a day drop-off; a head unit alone can be waited on. [SHOP NOTE: 2-3 sentences from Nick about Montebello customers, routes or jobs]
+From Montebello the shop is about 15.3 miles, roughly 31 to 37 minutes outside rush hour (approx). Open Monday through Saturday 9:30 to 6:00, closed Sunday. Call (213) 429-1092 or text (213) 429-1092 for an appointment. A full car stereo installation is a day drop-off; a head unit alone can be waited on. [SHOP NOTE: 2-3 sentences from Nick about Montebello customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Montebello, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Montebello traffic sends you.
 
 ## Montebello car stereo questions
 
@@ -48,7 +51,7 @@ No. At about 15.3 miles it is a routine drive, and the shop regularly sees drive
 
 ## Montebello pricing
 
-Dual Kicker Comp loaded box: $249, box only, as of October 2026. Car stereo installation, head unit installation, speaker replacement, amplifier installation and subwoofer installation are priced at the shop for your exact vehicle. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. The same crew also does car window tint and ceramic window tint, Tesla window tint, Viper alarm installation, remote start installation, GPS tracker installation, dash camera installation and AMS pods for Harley baggers.
+Dual Kicker Comp loaded box: $249, box only, as of October 2026. Car stereo installation, head unit installation, speaker replacement, amplifier installation and subwoofer installation are priced at the shop for your exact vehicle. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. The same crew also does car window tint and ceramic window tint, Tesla window tint, Viper alarm installation, remote start installation, GPS tracker installation, dash camera installation and AMS pods for Harley baggers.
 
 ## Neighbors of Montebello
 
@@ -62,7 +65,7 @@ Car stereo installation pages for the cities around Montebello:
 
 ## Book from Montebello
 
-Call (310) 513-8800 or text (213) 429-1092 with the vehicle details. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the vehicle details. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -74,7 +77,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the vehicle details. Audio Motor
    "name": "Montebello Car Stereo Installation | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-montebello/",
    "dateModified": "2026-10-08",
-   "description": "Car stereo installation and head unit installation for Montebello drivers at LA Car Beats, Audio MotorSports, Carson, 15.3 miles. Call (310) 513-8800.",
+   "description": "Car stereo installation and head unit installation for Montebello drivers at LA Car Beats, Audio MotorSports, Carson, 15.3 miles. Call (213) 429-1092.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

@@ -6,7 +6,7 @@ lead_service: Apple CarPlay and Android Auto installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: La Palma CarPlay & Android Auto Installation | LA Car Beats
-meta: Apple CarPlay and Android Auto installation and head unit installation for La Palma drivers at LA Car Beats, Audio MotorSports, Carson. Call (310) 513-8800.
+meta: Apple CarPlay and Android Auto installation and head unit installation for La Palma drivers at LA Car Beats, Audio MotorSports, Carson. Call (213) 429-1092.
 ---
 # Apple CarPlay and Android Auto Installation for La Palma
 
@@ -21,7 +21,10 @@ La Palma drivers tend to arrive at LA Car Beats with a specific ask: navigation 
 
 ## La Palma to Carson
 
-La Palma to the shop is about 12.5 miles, roughly 25 to 30 minutes outside rush hour (approx). Call (310) 513-8800 or text (213) 429-1092 to get a slot. A CarPlay interface or head unit install is a wait-in-the-lobby job for most cars; a full system is a drop-off. Hours: Monday through Saturday 9:30 to 6:00, closed Sunday. [SHOP NOTE: 2-3 sentences from Nick about La Palma customers, routes or jobs]
+La Palma to the shop is about 12.5 miles, roughly 25 to 30 minutes outside rush hour (approx). Call (213) 429-1092 or text (213) 429-1092 to get a slot. A CarPlay interface or head unit install is a wait-inside job for most cars; a full system is a drop-off. Hours: Monday through Saturday 9:30 to 6:00, closed Sunday. [SHOP NOTE: 2-3 sentences from Nick about La Palma customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from La Palma, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. The shop is LGBTQ-friendly and everyone from La Palma is welcome, as our Google and Yelp listings state. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way La Palma traffic sends you.
 
 ## La Palma CarPlay questions
 
@@ -47,7 +50,7 @@ Music, yes, noticeably. Calls depend more on the microphone placement, which we 
 
 ## La Palma pricing
 
-Dual Kicker Comp loaded box, $249 box only, as of October 2026. Apple CarPlay and Android Auto installation, head unit installation, speaker replacement, amplifier installation and subwoofer installation for La Palma cars are quoted once we have the year and trim. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. La Palma drivers can also book window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation, Tesla window tint and Harley bagger audio here.
+Dual Kicker Comp loaded box, $249 box only, as of October 2026. Apple CarPlay and Android Auto installation, head unit installation, speaker replacement, amplifier installation and subwoofer installation for La Palma cars are quoted once we have the year and trim. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. La Palma drivers can also book window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation, Tesla window tint and Harley bagger audio here.
 
 ## Cities beside La Palma
 
@@ -55,7 +58,7 @@ LA Car Beats pages for nearby towns: [Cerritos](/beats/car-stereo-cerritos/) · 
 
 ## Schedule from La Palma
 
-Tell us the car and whether the screen runs climate, and we will quote the right CarPlay route. Call (310) 513-8800 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Tell us the car and whether the screen runs climate, and we will quote the right CarPlay route. Call (213) 429-1092 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -66,7 +69,7 @@ Tell us the car and whether the screen runs climate, and we will quote the right
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-la-palma/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-la-palma/",
    "name": "La Palma CarPlay & Android Auto Installation | LA Car Beats",
-   "description": "Apple CarPlay and Android Auto installation and head unit installation for La Palma drivers at LA Car Beats, Audio MotorSports, Carson. Call (310) 513-8800.",
+   "description": "Apple CarPlay and Android Auto installation and head unit installation for La Palma drivers at LA Car Beats, Audio MotorSports, Carson. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

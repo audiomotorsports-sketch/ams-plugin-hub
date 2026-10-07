@@ -6,7 +6,7 @@ lead_service: subwoofer and amplifier installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Glendale Subwoofer & Amplifier Installation | LA Car Beats
-meta: Subwoofer installation and amplifier installation for Glendale drivers at LA Car Beats by Audio MotorSports in Carson, about 26.9 miles. Call (310) 513-8800.
+meta: Subwoofer installation and amplifier installation for Glendale drivers at LA Car Beats by Audio MotorSports in Carson, about 26.9 miles. Call (213) 429-1092.
 ---
 # Subwoofer and Amplifier Installation for Glendale
 
@@ -21,7 +21,10 @@ Glendale drivers who want bass done safely bring the car to LA Car Beats by Audi
 
 ## Glendale to the shop
 
-Glendale to Carson is about 26.9 miles, roughly 54 to 65 minutes outside rush hour (approx). We are open Monday to Saturday, 9:30 to 6:00, and closed Sunday. Call (310) 513-8800 or text (213) 429-1092 to book. Given the distance, Glendale drivers usually drop the car off in the morning for a sub and amp build and pick it up in the afternoon. Customers drive to this shop from over 100 miles away, so Glendale is a normal trip for us.
+Glendale to Carson is about 26.9 miles, roughly 54 to 65 minutes outside rush hour (approx). We are open Monday to Saturday, 9:30 to 6:00, and closed Sunday. Call (213) 429-1092 or text (213) 429-1092 to book. Given the distance, Glendale drivers usually drop the car off in the morning for a sub and amp build and pick it up in the afternoon. Customers drive to this shop from over 100 miles away, so Glendale is a normal trip for us.
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Glendale customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. The shop is LGBTQ-friendly and everyone from Glendale is welcome, as our Google and Yelp listings state. Coming from Glendale, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Glendale subwoofer and amp questions
 
@@ -47,7 +50,7 @@ Window tint and ceramic window tint, car alarm installation, remote start instal
 
 ## Dated prices for the build
 
-Dual Kicker Comp box, $249, box only, as of October 2026. Amplifier installation, subwoofer installation, subwoofer upgrades and speaker replacement are quoted at the shop on your vehicle. Payment plan available, ask Nick. Glendale drivers can read Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, before deciding.
+Dual Kicker Comp box, $249, box only, as of October 2026. Amplifier installation, subwoofer installation, subwoofer upgrades and speaker replacement are quoted at the shop on your vehicle. Payment plan available, ask Nick. Glendale drivers can read Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, before deciding.
 
 ## Near Glendale
 
@@ -55,7 +58,7 @@ Car stereo installation pages for cities around Glendale: [Pasadena](/beats/car-
 
 ## Schedule the Glendale sub and amp build
 
-Text (213) 429-1092 or call (310) 513-8800. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745; Mon-Sat 9:30-18:00, closed Sunday.
+Text (213) 429-1092 or call (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745; Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -67,7 +70,7 @@ Text (213) 429-1092 or call (310) 513-8800. Audio MotorSports, 22025 S Avalon Bl
    "name": "Glendale Subwoofer & Amplifier Installation | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-glendale/",
    "dateModified": "2026-10-08",
-   "description": "Subwoofer installation and amplifier installation for Glendale drivers at LA Car Beats by Audio MotorSports in Carson, about 26.9 miles. Call (310) 513-8800.",
+   "description": "Subwoofer installation and amplifier installation for Glendale drivers at LA Car Beats by Audio MotorSports in Carson, about 26.9 miles. Call (213) 429-1092.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

@@ -4,7 +4,7 @@ city: Westminster
 miles: 16.4
 lead_service: window tinting (SUV and minivan privacy)
 title: Westminster Window Tinting | LA Car Tint, Audio MotorSports
-meta: Window tinting for Westminster SUVs, minivans and sedans, hand-cut and installed by Audio MotorSports in Carson, 16.4 miles away. Call (310) 513-8800 to book.
+meta: Window tinting for Westminster SUVs, minivans and sedans, hand-cut and installed by Audio MotorSports in Carson, 16.4 miles away. Call (213) 429-1092 to book.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Window Tinting for Westminster SUVs, Minivans and Sedans
@@ -21,7 +21,10 @@ Westminster families bring minivans and three-row SUVs to LA Car Tint by Audio M
 
 ## Getting here from Westminster
 
-Westminster is roughly 16.4 miles from the shop, about 33 to 39 minutes outside rush hour (approx). Call or text to book, then either leave the van with us for the day or wait in the lobby. Hours are Monday through Saturday 9:30 a.m. to 6:00 p.m., closed Sunday. [SHOP NOTE: 2-3 sentences from Nick about Westminster customers, routes or jobs]
+Westminster is roughly 16.4 miles from the shop, about 33 to 39 minutes outside rush hour (approx). Call or text to book, then either leave the van with us for the day or wait inside. Hours are Monday through Saturday 9:30 a.m. to 6:00 p.m., closed Sunday. [SHOP NOTE: 2-3 sentences from Nick about Westminster customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Westminster customers tell us makes the drop-off painless. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. Coming from Westminster, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Westminster window tinting questions
 
@@ -47,7 +50,7 @@ Plan on a good part of the day for a minivan or large SUV, because there is more
 
 ## Westminster tint prices
 
-Solar four-door window tint is $249 installed and Solar Ceramic four-door is $329 installed, as of October 2026, covering four doors plus the rear window. Minivans, three-row SUVs, trucks, windshield strips and Tesla roof glass are quoted in the store. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews) are the current standings as of October 2026.
+Solar four-door window tint is $249 installed and Solar Ceramic four-door is $329 installed, as of October 2026, covering four doors plus the rear window. Minivans, three-row SUVs, trucks, windshield strips and Tesla roof glass are quoted in the store. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews) are the current standings as of October 2026.
 
 ## Tint near Westminster
 
@@ -55,7 +58,7 @@ Solar four-door window tint is $249 installed and Solar Ceramic four-door is $32
 
 ## Book the van or the SUV
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports — 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports — 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30-18:00, Sunday closed.
 
 ```json
 {

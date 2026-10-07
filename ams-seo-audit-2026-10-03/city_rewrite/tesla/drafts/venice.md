@@ -5,7 +5,7 @@ miles: 15.9
 lead_service: Tesla window tint (Model S)
 source: hub-mounted copy; standalone www host not verified
 title: Model S Window Tint for Venice Tesla Owners | Tesla Tint LA
-meta: Model S ceramic window tint for Venice Tesla owners, curved doors heat-formed to fit. Audio MotorSports, Carson, 15.9 miles away. Call (310) 513-8800.
+meta: Model S ceramic window tint for Venice Tesla owners, curved doors heat-formed to fit. Audio MotorSports, Carson, 15.9 miles away. Call (213) 429-1092.
 ---
 # Model S Window Tint for Venice Tesla Owners
 
@@ -28,6 +28,9 @@ Audio MotorSports also installs dash cameras and GPS trackers on Teslas and hand
 Venice is about 15.9 miles from the shop, roughly 32 to 38 minutes outside rush hour (approx). We are open Mon-Sat from 9:30 AM to 6:00 PM, closed Sunday. Book a slot, then drop the Model S for the day or wait at the shop and drive it home when the film is on.
 
 [SHOP NOTE: 2-3 sentences from Nick about Venice customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Venice, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Coming from Venice, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Venice Model S tint questions
 
@@ -53,7 +56,7 @@ Leave the windows up for several days while the film cures. A little haze or a f
 
 ## Pricing
 
-Model S tint, like every Tesla, is quoted by model at the shop; text the year and model for yours. For a non-Tesla, Solar window tint is $249 and Solar Ceramic is $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Model S tint, like every Tesla, is quoted by model at the shop; text the year and model for yours. For a non-Tesla, Solar window tint is $249 and Solar Ceramic is $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near Venice
 
@@ -65,7 +68,7 @@ Model S tint, like every Tesla, is quoted by model at the shop; text the year an
 
 ## Book your appointment
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -76,7 +79,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-venice/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-venice/",
    "name": "Model S Window Tint for Venice Tesla Owners | Tesla Tint LA",
-   "description": "Model S ceramic window tint for Venice Tesla owners, curved doors heat-formed to fit. Audio MotorSports, Carson, 15.9 miles away. Call (310) 513-8800.",
+   "description": "Model S ceramic window tint for Venice Tesla owners, curved doors heat-formed to fit. Audio MotorSports, Carson, 15.9 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

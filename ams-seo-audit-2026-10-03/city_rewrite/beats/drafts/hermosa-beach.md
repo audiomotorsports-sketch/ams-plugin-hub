@@ -6,7 +6,7 @@ lead_service: subwoofer installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Subwoofer Installation for Hermosa Beach | LA Car Beats
-meta: Subwoofer installation and amplifier installation for Hermosa Beach drivers at LA Car Beats, Audio MotorSports in Carson, 8.1 miles. Call (310) 513-8800.
+meta: Subwoofer installation and amplifier installation for Hermosa Beach drivers at LA Car Beats, Audio MotorSports in Carson, 8.1 miles. Call (213) 429-1092.
 ---
 # Subwoofer Installation for Hermosa Beach Drivers
 
@@ -22,7 +22,10 @@ For Hermosa Beach drivers who want real low end without giving up the trunk, LA 
 
 ## Hermosa Beach to Carson
 
-The shop is about 8.1 miles from Hermosa Beach, roughly 16 to 19 minutes outside rush hour (approx). Set an appointment at (310) 513-8800 or by text at (213) 429-1092, then either wait in the lobby for a straightforward box-and-amp install or drop off and come back after lunch. Monday through Saturday 9:30 to 6:00, Sunday closed. Customers come from over 100 miles away for audio work here, so a trip up from the beach is nothing.
+The shop is about 8.1 miles from Hermosa Beach, roughly 16 to 19 minutes outside rush hour (approx). Set an appointment at (213) 429-1092 or by text at (213) 429-1092, then either wait inside for a straightforward box-and-amp install or drop off and come back after lunch. Monday through Saturday 9:30 to 6:00, Sunday closed. Customers come from over 100 miles away for audio work here, so a trip up from the beach is nothing.
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Hermosa Beach drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. From Hermosa Beach you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Subwoofer questions from Hermosa Beach
 
@@ -48,7 +51,7 @@ As of October 2026, $249 is for the loaded Dual Kicker Comp box only, two subwoo
 
 ## Prices as of October 2026
 
-Dual Kicker Comp loaded box, $249 box only, as of October 2026. Subwoofer installation, amplifier installation, car stereo installation, Apple CarPlay and Android Auto installation and speaker replacement get a written quote at the shop after we see the vehicle; payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. If the car also needs window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation or Tesla window tint, book it for the same day.
+Dual Kicker Comp loaded box, $249 box only, as of October 2026. Subwoofer installation, amplifier installation, car stereo installation, Apple CarPlay and Android Auto installation and speaker replacement get a written quote at the shop after we see the vehicle; payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. If the car also needs window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation or Tesla window tint, book it for the same day.
 
 ## Beach cities nearby
 
@@ -56,7 +59,7 @@ LA Car Beats pages for cities near Hermosa Beach: [Redondo Beach](/beats/car-ste
 
 ## Book a Hermosa Beach sub install
 
-Send the make and model and whether you want to keep the spare tire, and we will quote the box that fits. Call (310) 513-8800 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Send the make and model and whether you want to keep the spare tire, and we will quote the box that fits. Call (213) 429-1092 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -67,7 +70,7 @@ Send the make and model and whether you want to keep the spare tire, and we will
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-hermosa-beach/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-hermosa-beach/",
    "name": "Subwoofer Installation for Hermosa Beach | LA Car Beats",
-   "description": "Subwoofer installation and amplifier installation for Hermosa Beach drivers at LA Car Beats, Audio MotorSports in Carson, 8.1 miles. Call (310) 513-8800.",
+   "description": "Subwoofer installation and amplifier installation for Hermosa Beach drivers at LA Car Beats, Audio MotorSports in Carson, 8.1 miles. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

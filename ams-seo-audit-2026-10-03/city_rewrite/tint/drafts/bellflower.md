@@ -4,12 +4,12 @@ city: Bellflower
 miles: 9.3
 lead_service: car window tint for fleet and work vehicles
 title: Fleet & Car Window Tint Bellflower | LA Car Tint
-meta: Window tinting for Bellflower work vans, trucks and daily drivers at LA Car Tint by Audio MotorSports in Carson, 9.3 miles away. Call (310) 513-8800.
+meta: Window tinting for Bellflower work vans, trucks and daily drivers at LA Car Tint by Audio MotorSports in Carson, 9.3 miles away. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Fleet and Car Window Tint for Bellflower, by Audio MotorSports, Carson
 
-Bellflower businesses and drivers get car window tint at LA Car Tint, the window tinting desk at Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, about 9.3 miles away. Work vans, pickups and the family sedan all get Solar or Solar Ceramic film hand-cut on the glass, and the bay also does car alarm installation, GPS tracker installation, dash camera installation and car stereo installation. Call (310) 513-8800 to book one vehicle or ten.
+Bellflower businesses and drivers get car window tint at LA Car Tint, the window tinting desk at Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, about 9.3 miles away. Work vans, pickups and the family sedan all get Solar or Solar Ceramic film hand-cut on the glass, and the bay also does car alarm installation, GPS tracker installation, dash camera installation and car stereo installation. Call (213) 429-1092 to book one vehicle or ten.
 
 ## What Bellflower drivers bring us
 
@@ -23,6 +23,9 @@ Bellflower businesses and drivers get car window tint at LA Car Tint, the window
 Bellflower is roughly 9.3 miles from the shop, about a twenty-minute drive (approx) outside the commute peaks. We are open 9:30 AM to 6:00 PM, Monday through Saturday, closed Sunday. Call or text to reserve a slot, then drop the vehicle and pick it up later or wait on site. Customers come from over 100 miles away for this work, so Bellflower is a short run. For a fleet, one appointment and one crew means every window looks the same across the whole lineup.
 
 [SHOP NOTE: 2-3 sentences from Nick about Bellflower customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Bellflower job is finished. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Bellflower.
 
 ## Questions from Bellflower drivers
 
@@ -44,7 +47,7 @@ Yes. A GPS tracker is hidden and hard-wired on the same visit as the window tint
 
 ### How far is the shop from Bellflower, and can I wait while the work is done?
 
-About 9.3 miles, around twenty minutes on a normal day. You can wait in the shop, and a single car is usually done the same day. Bellflower drivers can check Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, before making the trip.
+About 9.3 miles, around twenty minutes on a normal day. You can wait in the shop, and a single car is usually done the same day. Bellflower drivers can check Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, before making the trip.
 
 ## Prices, as of October 2026
 
@@ -59,7 +62,7 @@ Per vehicle, Solar window tinting is $249 installed and Solar Ceramic is $329 in
 
 ## Book it
 
-Phone (310) 513-8800. Text (213) 429-1092. 22025 S Avalon Blvd Ste A. Carson, CA 90745. Open Monday-Saturday 9:30 to 6:00. Closed Sundays.
+Phone (213) 429-1092. Text (213) 429-1092. 22025 S Avalon Blvd Ste A. Carson, CA 90745. Open Monday-Saturday 9:30 to 6:00. Closed Sundays.
 
 ```json
 {
@@ -70,7 +73,7 @@ Phone (310) 513-8800. Text (213) 429-1092. 22025 S Avalon Blvd Ste A. Carson, CA
    "@id": "https://www.audiomotorsports.com/tint/window-tint-bellflower/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-bellflower/",
    "name": "Fleet & Car Window Tint Bellflower | LA Car Tint",
-   "description": "Window tinting for Bellflower work vans, trucks and daily drivers at LA Car Tint by Audio MotorSports in Carson, 9.3 miles away. Call (310) 513-8800.",
+   "description": "Window tinting for Bellflower work vans, trucks and daily drivers at LA Car Tint by Audio MotorSports in Carson, 9.3 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -142,7 +145,7 @@ Phone (310) 513-8800. Text (213) 429-1092. 22025 S Avalon Blvd Ste A. Carson, CA
      "name": "How far is the shop from Bellflower, and can I wait while the work is done?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "About 9.3 miles, around twenty minutes on a normal day. You can wait in the shop, and a single car is usually done the same day. Bellflower drivers can check Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, before making the trip."
+      "text": "About 9.3 miles, around twenty minutes on a normal day. You can wait in the shop, and a single car is usually done the same day. Bellflower drivers can check Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, before making the trip."
      }
     }
    ]

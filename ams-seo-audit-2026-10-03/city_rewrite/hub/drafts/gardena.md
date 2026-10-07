@@ -4,7 +4,7 @@ city: Gardena
 miles: 4.9
 lead_service: Apple CarPlay and Android Auto installation
 title: CarPlay Installation & Tint, Gardena | Audio MotorSports
-meta: Apple CarPlay and Android Auto installation, car window tint, car stereo and alarm installs for Gardena drivers. Audio MotorSports, Carson. Call (310) 513-8800.
+meta: Apple CarPlay and Android Auto installation, car window tint, car stereo and alarm installs for Gardena drivers. Audio MotorSports, Carson. Call (213) 429-1092.
 ---
 # Apple CarPlay and Android Auto Installation for Gardena
 
@@ -22,9 +22,12 @@ Audio MotorSports does Apple CarPlay and Android Auto installation, car window t
 
 **Dash camera installation and GPS tracker installation.** Dash cams hardwired to record while parked, with the wiring hidden in the trim, and trackers tucked where they are not found.
 
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Gardena customers tell us makes the drop-off painless. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Gardena traffic sends you. Gardena sends us Metro bus operators and plenty of commuters who work at the bigger employers around the 110 and the 405.
+
 ## Getting here from Gardena
 
-Gardena sits about 4.9 miles from the shop, which works out to roughly 10-12 minutes (approx) when traffic is light. Hours are Monday through Saturday, 9:30 AM to 6:00 PM, closed Sunday. Book a time first, then drop the car off or wait in the shop while the work gets done. Call (310) 513-8800 or text (213) 429-1092 with your year, make and model to set it up. Gardena drivers can check the record before they come: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Gardena sits about 4.9 miles from the shop, which works out to roughly 10-12 minutes (approx) when traffic is light. Hours are Monday through Saturday, 9:30 AM to 6:00 PM, closed Sunday. Book a time first, then drop the car off or wait in the shop while the work gets done. Call (213) 429-1092 or text (213) 429-1092 with your year, make and model to set it up. Gardena drivers can check the record before they come: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 [SHOP NOTE: 2-3 sentences from Nick about Gardena customers, routes or jobs]
 
@@ -71,7 +74,7 @@ CarPlay head unit installation, amplifier installation, dash cams and GPS tracke
 
 ## Book your Gardena CarPlay or tint appointment
 
-Call (310) 513-8800 to book. Text (213) 429-1092 with your vehicle. Find the bay at 22025 S Avalon Blvd Ste A in Carson, 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 to book. Text (213) 429-1092 with your vehicle. Find the bay at 22025 S Avalon Blvd Ste A in Carson, 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

@@ -5,7 +5,7 @@ miles: 11.0
 lead_service: car window tint (night glare and old-film replacement angle)
 source: hub-mounted copy; standalone www host not verified
 title: South Los Angeles Window Tint | LA Car Tint, Carson
-meta: Car window tint and old-tint replacement for South Los Angeles, by Audio MotorSports in Carson, 11 miles away. Call (310) 513-8800 or text (213) 429-1092.
+meta: Car window tint and old-tint replacement for South Los Angeles, by Audio MotorSports in Carson, 11 miles away. Call (213) 429-1092 or text (213) 429-1092.
 ---
 # Car Window Tint for South Los Angeles Drivers
 
@@ -20,6 +20,9 @@ South Los Angeles drivers come to LA Car Tint at Audio MotorSports, 22025 S Aval
 ## South Los Angeles to the shop
 
 The shop is about 11 miles from South Los Angeles, roughly 22 to 26 minutes (approx) outside rush hour. Book by phone or text; we are open Monday through Saturday 9:30 to 6:00 and closed Sunday. Wait at the shop or drop the car; a straightforward sedan is a couple of hours, old-film removal adds time.
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the South Los Angeles job is finished. The shop is LGBTQ-friendly and everyone from South Los Angeles is welcome, as our Google and Yelp listings state. From South Los Angeles you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Questions from South Los Angeles
 
@@ -45,7 +48,7 @@ The outside of the car can be washed right away since the film is on the inside 
 
 ## South Los Angeles pricing
 
-Solar $249 installed and Solar Ceramic $329 installed for a four-door car, as of October 2026, covering four doors and the back glass. Removal of old film, trucks, SUVs, coupes and Teslas are quoted at the shop. Ask Nick about the payment plan. Rated 4.8 on Google (650+ reviews) and 4.7 on Yelp (770+ reviews) as of October 2026.
+Solar $249 installed and Solar Ceramic $329 installed for a four-door car, as of October 2026, covering four doors and the back glass. Removal of old film, trucks, SUVs, coupes and Teslas are quoted at the shop. Ask Nick about the payment plan. Rated 4.8 on Google (654 reviews) and 4.7 on Yelp (777 reviews) as of October 2026.
 
 ## Nearby window tint pages
 
@@ -58,7 +61,7 @@ Car alarm installation, remote start installation, GPS tracker installation, car
 
 ## Book from South Los Angeles
 
-Call (310) 513-8800 or text (213) 429-1092, with a photo of the old tint if you are replacing it, and find us at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30 to 6:00.
+Call (213) 429-1092 or text (213) 429-1092, with a photo of the old tint if you are replacing it, and find us at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30 to 6:00.
 
 ```json
 {
@@ -69,7 +72,7 @@ Call (310) 513-8800 or text (213) 429-1092, with a photo of the old tint if you 
       "@id": "https://www.audiomotorsports.com/tint/window-tint-south-los-angeles/#webpage",
       "url": "https://www.audiomotorsports.com/tint/window-tint-south-los-angeles/",
       "name": "South Los Angeles Window Tint | LA Car Tint, Carson",
-      "description": "Car window tint and old-tint replacement for South Los Angeles, by Audio MotorSports in Carson, 11 miles away. Call (310) 513-8800 or text (213) 429-1092.",
+      "description": "Car window tint and old-tint replacement for South Los Angeles, by Audio MotorSports in Carson, 11 miles away. Call (213) 429-1092 or text (213) 429-1092.",
       "dateModified": "2026-10-08",
       "about": {
         "@id": "https://www.audiomotorsports.com/#business"

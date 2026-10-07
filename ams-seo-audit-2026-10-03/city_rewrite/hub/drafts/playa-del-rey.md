@@ -4,7 +4,7 @@ city: Playa del Rey
 miles: 13.3
 lead_service: window tint
 title: Car Window Tint for Playa del Rey | Audio MotorSports
-meta: Car window tinting, ceramic tint, car stereo installation and alarms for Playa del Rey drivers at Audio MotorSports in Carson, 13.3 miles. (310) 513-8800.
+meta: Car window tinting, ceramic tint, car stereo installation and alarms for Playa del Rey drivers at Audio MotorSports in Carson, 13.3 miles. (213) 429-1092.
 ---
 # Car Window Tint for Playa del Rey Drivers
 
@@ -21,6 +21,9 @@ Playa del Rey drivers get car window tint at Audio MotorSports, 22025 S Avalon B
 **Car alarm installation and remote start installation.** Viper and Compustar, wired into factory circuits and hidden so the system cannot be pulled apart from under the dash.
 
 **Dash camera installation.** Hardwired with the cable behind the headliner, parked recording for lot bumps.
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Playa del Rey, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Playa del Rey.
 
 ## Playa del Rey to the shop
 
@@ -44,7 +47,7 @@ Solar is $249 and Solar Ceramic is $329 installed as of October 2026. That is fo
 
 ### Can I add a dash camera installation to the tint appointment?
 
-Yes. The camera is wired to a fuse tap with a voltage cutoff so it never drains the battery, the cable goes up the A-pillar out of sight, and then the tint goes on. One visit, one pickup. The shop holds Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Yes. The camera is wired to a fuse tap with a voltage cutoff so it never drains the battery, the cable goes up the A-pillar out of sight, and then the tint goes on. One visit, one pickup. The shop holds Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Prices as of October 2026
 
@@ -56,7 +59,7 @@ Solar window tint $249 installed, Solar Ceramic $329 installed. Viper 3108V alar
 
 ## Book your Playa del Rey appointment
 
-Call (310) 513-8800 or text the year, make and model to (213) 429-1092. The shop address is 22025 S Avalon Blvd Ste A, Carson, CA 90745; hours Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text the year, make and model to (213) 429-1092. The shop address is 22025 S Avalon Blvd Ste A, Carson, CA 90745; hours Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -67,7 +70,7 @@ Call (310) 513-8800 or text the year, make and model to (213) 429-1092. The shop
    "@id": "https://www.audiomotorsports.com/playa-del-rey/#webpage",
    "url": "https://www.audiomotorsports.com/playa-del-rey/",
    "name": "Car Window Tint for Playa del Rey | Audio MotorSports",
-   "description": "Car window tinting, ceramic tint, car stereo installation and alarms for Playa del Rey drivers at Audio MotorSports in Carson, 13.3 miles away. Call (310) 513-8800.",
+   "description": "Car window tinting, ceramic tint, car stereo installation and alarms for Playa del Rey drivers at Audio MotorSports in Carson, 13.3 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -141,7 +144,7 @@ Call (310) 513-8800 or text the year, make and model to (213) 429-1092. The shop
      "name": "Can I add a dash camera installation to the tint appointment?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. The camera is wired to a fuse tap with a voltage cutoff so it never drains the battery, the cable goes up the A-pillar out of sight, and then the tint goes on. One visit, one pickup. The shop holds Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026."
+      "text": "Yes. The camera is wired to a fuse tap with a voltage cutoff so it never drains the battery, the cable goes up the A-pillar out of sight, and then the tint goes on. One visit, one pickup. The shop holds Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026."
      }
     }
    ]

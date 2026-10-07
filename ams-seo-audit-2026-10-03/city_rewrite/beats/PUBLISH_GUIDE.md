@@ -5,7 +5,7 @@ Drafts: `city_rewrite/beats/drafts/<slug>.md` (109). Index: `beats/REVIEW_INDEX.
 ## Before the first page
 1. Run the snapshot tool once: `python3 hub_deep_dive/harness/hub_snapshot.py` (keep the file as BEFORE).
 2. Save a copy of the current city-page template and of each page you replace.
-3. Decide the two shop facts the drafts cite everywhere: "Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026" and the price lines. If either is wrong, fix it in the drafts first (one search-and-replace across the folder).
+3. Decide the two shop facts the drafts cite everywhere: "Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026" and the price lines. If either is wrong, fix it in the drafts first (one search-and-replace across the folder).
 
 ## Each draft file
 - Frontmatter: url, title (<=60), meta (120-160), H1 in the body.

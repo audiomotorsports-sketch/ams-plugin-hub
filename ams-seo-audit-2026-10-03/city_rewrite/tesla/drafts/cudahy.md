@@ -5,7 +5,7 @@ miles: 10.0
 lead_service: Tesla window tint (Model X)
 source: hub-mounted copy; standalone www host not verified
 title: Cudahy Model X Window Tint | Tesla Tint LA
-meta: Model X and Tesla window tint for Cudahy owners: tall glass, ceramic film, cameras left clear, at Audio MotorSports in Carson, 10 miles away. Call (310) 513-8800 or text (213) 429-1092.
+meta: Model X and Tesla window tint for Cudahy owners: tall glass, ceramic film, cameras left clear, at Audio MotorSports in Carson, 10 miles away. Call (213) 429-1092 or text (213) 429-1092.
 ---
 # Model X Window Tint for Cudahy Tesla Owners
 
@@ -28,6 +28,9 @@ Audio MotorSports also does car alarm installation, GPS tracker installation, da
 About 10 miles, roughly 20 to 24 minutes outside rush hour (approx). We are open Monday through Saturday, 9:30 AM to 6:00 PM, and closed Sunday. Make the appointment first; then wait at the shop or drop the X and come back when it is finished. Owners come from over 100 miles away for this, so Cudahy is a short one.
 
 [SHOP NOTE: 2-3 sentences from Nick about Cudahy customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Cudahy customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. From Cudahy you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Cudahy Model X tint questions
 
@@ -53,7 +56,7 @@ By model, at the shop. The X uses more film and more hours than a Model 3, so a 
 
 ## Pricing
 
-The Model X and all Tesla models are quoted by model at the shop; text the year and model to get the number. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+The Model X and all Tesla models are quoted by model at the shop; text the year and model to get the number. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near Cudahy
 
@@ -65,7 +68,7 @@ The Model X and all Tesla models are quoted by model at the shop; text the year 
 
 ## Book from Cudahy
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -76,7 +79,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-cudahy/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-cudahy/",
    "name": "Cudahy Model X Window Tint | Tesla Tint LA",
-   "description": "Model X and Tesla window tint for Cudahy owners: tall glass, ceramic film, cameras left clear, at Audio MotorSports in Carson, 10 miles away. Call (310) 513-8800 or text (213) 429-1092.",
+   "description": "Model X and Tesla window tint for Cudahy owners: tall glass, ceramic film, cameras left clear, at Audio MotorSports in Carson, 10 miles away. Call (213) 429-1092 or text (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

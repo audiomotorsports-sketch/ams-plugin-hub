@@ -5,7 +5,7 @@ miles: 15.6
 lead_service: Tesla window tint (new delivery)
 source: hub-mounted copy; standalone www host not verified
 title: New Tesla Tint for Stanton Deliveries | Tesla Tint LA
-meta: Ceramic Tesla window tint for a Stanton owner's new delivery. Tesla Tint LA by Audio MotorSports in Carson, 15.6 miles away. Call (310) 513-8800 to book.
+meta: Ceramic Tesla window tint for a Stanton owner's new delivery. Tesla Tint LA by Audio MotorSports in Carson, 15.6 miles away. Call (213) 429-1092 to book.
 ---
 # Tesla Window Tint for Stanton Owners With a New Delivery
 
@@ -31,11 +31,14 @@ From Stanton it is about 15.6 miles, roughly 31 to 37 minutes outside rush hour 
 
 [SHOP NOTE: 2-3 sentences from Nick about Stanton customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+For a longer job from Stanton, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Stanton traffic sends you.
+
 ## Stanton new-Tesla tint questions
 
 ### How soon after delivery should a Stanton owner tint a Tesla?
 
-As soon as you can book it. There is no waiting period for new factory glass, and the earlier the film goes on, the sooner the cabin stops baking under the glass roof. Call (310) 513-8800 with the delivery date and a slot can be set for the week the car arrives.
+As soon as you can book it. There is no waiting period for new factory glass, and the earlier the film goes on, the sooner the cabin stops baking under the glass roof. Call (213) 429-1092 with the delivery date and a slot can be set for the week the car arrives.
 
 ### Is a new Tesla from Stanton safe to tint without harming the paint?
 
@@ -55,7 +58,7 @@ Much farther than Stanton. Owners have come from San Diego, about 120 miles, and
 
 ## Pricing
 
-New or not, every Tesla is quoted by model at the shop; text the year and model for a number. The non-Tesla reference, as of October 2026, is Solar $249 and Solar Ceramic $329 installed. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+New or not, every Tesla is quoted by model at the shop; text the year and model for a number. The non-Tesla reference, as of October 2026, is Solar $249 and Solar Ceramic $329 installed. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near Stanton
 
@@ -67,7 +70,7 @@ New or not, every Tesla is quoted by model at the shop; text the year and model 
 
 ## Book your appointment
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -78,7 +81,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-stanton/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-stanton/",
    "name": "New Tesla Tint for Stanton Deliveries | Tesla Tint LA",
-   "description": "Ceramic Tesla window tint for a Stanton owner's new delivery. Tesla Tint LA by Audio MotorSports in Carson, 15.6 miles away. Call (310) 513-8800 to book.",
+   "description": "Ceramic Tesla window tint for a Stanton owner's new delivery. Tesla Tint LA by Audio MotorSports in Carson, 15.6 miles away. Call (213) 429-1092 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -120,7 +123,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "How soon after delivery should a Stanton owner tint a Tesla?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "As soon as you can book it. There is no waiting period for new factory glass, and the earlier the film goes on, the sooner the cabin stops baking under the glass roof. Call (310) 513-8800 with the delivery date and a slot can be set for the week the car arrives."
+      "text": "As soon as you can book it. There is no waiting period for new factory glass, and the earlier the film goes on, the sooner the cabin stops baking under the glass roof. Call (213) 429-1092 with the delivery date and a slot can be set for the week the car arrives."
      }
     },
     {

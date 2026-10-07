@@ -4,7 +4,7 @@ city: Wilmington
 miles: 3.3
 lead_service: car alarms & remote start
 title: Car Alarm & Remote Start for Wilmington | Audio MotorSports
-meta: Wilmington drivers get car alarms, remote start, window tint and car stereo installs at Audio MotorSports in Carson, 3.3 miles away. Call (310) 513-8800.
+meta: Wilmington drivers get car alarms, remote start, window tint and car stereo installs at Audio MotorSports in Carson, 3.3 miles away. Call (213) 429-1092.
 ---
 # Car Alarms & Remote Start for Wilmington Drivers
 
@@ -28,11 +28,14 @@ Wilmington is the closest city on this list that is not Carson itself: 3.3 miles
 
 [SHOP NOTE: 2-3 sentences from Nick about Wilmington customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Wilmington job is finished. The shop is LGBTQ-friendly and everyone from Wilmington is welcome, as our Google and Yelp listings state. From Wilmington you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd. Wilmington is longshore, rail-yard and refinery country, and workers from all three come through the shop regularly.
+
 ## Wilmington questions, straight answers
 
 ### Can I get a car alarm installed the same day I drive over from Wilmington?
 
-Usually, yes, if you book first. A Viper 3108V alarm on a common vehicle takes a few hours, so a Wilmington driver can drop off in the morning and pick up the same afternoon. Call (310) 513-8800 or text your year, make and model to (213) 429-1092 and we will hold a slot.
+Usually, yes, if you book first. A Viper 3108V alarm on a common vehicle takes a few hours, so a Wilmington driver can drop off in the morning and pick up the same afternoon. Call (213) 429-1092 or text your year, make and model to (213) 429-1092 and we will hold a slot.
 
 ### Does remote start work on a push-button-start vehicle?
 
@@ -70,7 +73,7 @@ These figures are current as of October 2026. Anything not on this list gets quo
 
 ## Book your Wilmington install
 
-Call (310) 513-8800 or text (213) 429-1092 with your year, make and model. The shop is Audio MotorSports at 22025 S Avalon Blvd Ste A in Carson, CA 90745, open Mon-Sat 9:30-18:00 and closed Sunday. Drop off or wait, your choice.
+Call (213) 429-1092 or text (213) 429-1092 with your year, make and model. The shop is Audio MotorSports at 22025 S Avalon Blvd Ste A in Carson, CA 90745, open Mon-Sat 9:30-18:00 and closed Sunday. Drop off or wait, your choice.
 
 ```json
 {
@@ -81,7 +84,7 @@ Call (310) 513-8800 or text (213) 429-1092 with your year, make and model. The s
    "@id": "https://www.audiomotorsports.com/wilmington/#webpage",
    "url": "https://www.audiomotorsports.com/wilmington/",
    "name": "Car Alarm & Remote Start for Wilmington | Audio MotorSports",
-   "description": "Wilmington drivers get car alarms, remote start, window tint and car stereo installs at Audio MotorSports in Carson, 3.3 miles away. Call (310) 513-8800.",
+   "description": "Wilmington drivers get car alarms, remote start, window tint and car stereo installs at Audio MotorSports in Carson, 3.3 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -123,7 +126,7 @@ Call (310) 513-8800 or text (213) 429-1092 with your year, make and model. The s
      "name": "Can I get a car alarm installed the same day I drive over from Wilmington?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Usually, yes, if you book first. A Viper 3108V alarm on a common vehicle takes a few hours, so a Wilmington driver can drop off in the morning and pick up the same afternoon. Call (310) 513-8800 or text your year, make and model to (213) 429-1092 and we will hold a slot."
+      "text": "Usually, yes, if you book first. A Viper 3108V alarm on a common vehicle takes a few hours, so a Wilmington driver can drop off in the morning and pick up the same afternoon. Call (213) 429-1092 or text your year, make and model to (213) 429-1092 and we will hold a slot."
      }
     },
     {

@@ -4,7 +4,7 @@ city: Maywood
 miles: 11.9
 lead_service: Tesla window tint (camera and sensor clearance)
 title: Maywood Tesla Window Tint | Tesla Tint LA, Carson
-meta: Tesla window tint that leaves every camera clear, for Maywood owners at Tesla Tint LA by Audio MotorSports in Carson, 11.9 miles away. Ceramic film. Call (310) 513-8800.
+meta: Tesla window tint that leaves every camera clear, for Maywood owners at Tesla Tint LA by Audio MotorSports in Carson, 11.9 miles away. Ceramic film. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla Window Tint for Maywood Without Covering a Single Camera
@@ -24,6 +24,9 @@ Maywood is about 11.9 miles from Tesla Tint LA, the Tesla window tint shop at Au
 ## Maywood to the shop
 
 Roughly 11.9 miles, about 24 to 29 minutes outside rush hour (approx). Hours are Monday to Saturday 9:30 to 6:00; closed Sunday. Book a time, then wait at the shop or leave the car and pick it up later. [SHOP NOTE: 2-3 sentences from Nick about Maywood customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Maywood job is finished. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Maywood.
 
 ## Maywood Tesla tint questions
 
@@ -49,7 +52,7 @@ Yes. GPS tracker installation is a frequent add-on, with the unit and wiring hid
 
 ## Prices
 
-Tesla tint is priced per model after Nick sees the car, and the quote is given at the shop. Non-Tesla window tint at the same bay runs Solar $249 or Solar Ceramic $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Tesla tint is priced per model after Nick sees the car, and the quote is given at the shop. Non-Tesla window tint at the same bay runs Solar $249 or Solar Ceramic $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby Tesla tint pages
 
@@ -57,7 +60,7 @@ Tesla tint is priced per model after Nick sees the car, and the quote is given a
 
 ## Set a time
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

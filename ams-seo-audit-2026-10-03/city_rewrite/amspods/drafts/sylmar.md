@@ -4,7 +4,7 @@ city: Sylmar
 miles: 34.9
 lead_service: Harley amplifier installation and tuning
 title: Sylmar Harley Amplifier Install & Tuning | AMS Pods
-meta: Harley amplifier installation and tuning on the bike for Sylmar bagger riders, with AMS lower-fairing pods, at Audio MotorSports in Carson. Call (310) 513-8800.
+meta: Harley amplifier installation and tuning on the bike for Sylmar bagger riders, with AMS lower-fairing pods, at Audio MotorSports in Carson. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Harley Amplifier Installation and Tuning for Sylmar Riders
@@ -26,6 +26,9 @@ The same building does car stereo installation, Apple CarPlay and Android Auto, 
 ## Sylmar to the shop
 
 Sylmar to Carson is 34.9 miles, roughly 70 to 84 minutes outside rush hour (approx). Book a slot, ride or trailer in, then drop the bike or wait at the shop for an amp-and-pods day. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed. Riders have trailered in from San Diego, so the north Valley is nowhere near the far end of the range.
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Sylmar, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. From Sylmar you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Sylmar riders ask
 
@@ -54,7 +57,7 @@ Text (213) 429-1092 with the model year, which of the three baggers you ride, an
 - AMS pods from $649 a pair, chrome or gloss, as of October 2026, bracket and hardware included.
 - The amplifier install and tuning, fairing speakers, radios and bag-lid bass are quoted once Nick has the bike in front of him. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby cities
 
@@ -62,7 +65,7 @@ Other AMS Pods pages nearby: [Granada Hills](/amspods/bagger-audio-granada-hills
 
 ## Call from Sylmar
 
-(310) 513-8800 voice, (213) 429-1092 text. 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+(213) 429-1092 voice, (213) 429-1092 text. 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -73,7 +76,7 @@ Other AMS Pods pages nearby: [Granada Hills](/amspods/bagger-audio-granada-hills
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-sylmar/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-sylmar/",
    "name": "Sylmar Harley Amplifier Install & Tuning | AMS Pods",
-   "description": "Harley amplifier installation and tuning on the bike for Sylmar bagger riders, with AMS lower-fairing pods, at Audio MotorSports in Carson. Call (310) 513-8800.",
+   "description": "Harley amplifier installation and tuning on the bike for Sylmar bagger riders, with AMS lower-fairing pods, at Audio MotorSports in Carson. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

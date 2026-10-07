@@ -4,7 +4,7 @@ city: La Canada Flintridge
 miles: 26.4
 lead_service: car alarm installation & remote start installation
 title: Car Alarm Install, La Canada Flintridge | Audio MotorSports
-meta: Viper alarm installation, Compustar remote start, tint and stereo installs for La Canada Flintridge at Audio MotorSports in Carson, 26.4 miles. (310) 513-8800.
+meta: Viper alarm installation, Compustar remote start, tint and stereo installs for La Canada Flintridge at Audio MotorSports in Carson, 26.4 miles. (213) 429-1092.
 ---
 # Car Alarm & Remote Start Installation for La Canada Flintridge
 
@@ -26,11 +26,14 @@ La Canada Flintridge drivers get Viper alarm installation and Compustar remote s
 
 It is 26.4 miles from La Canada Flintridge to the shop, roughly fifty-three to sixty-three minutes outside rush hour (approx). We are open Monday through Saturday 9:30 to 6:00; Sunday we are closed. Book by phone or text, then drop the car and pick it up later, or wait while the alarm goes in. Customers regularly drive more than 100 miles to this bay, so the foothills are well within range.
 
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the La Canada Flintridge job is finished. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from La Canada Flintridge.
+
 ## Alarm questions from La Canada Flintridge
 
 ### Is driving from La Canada Flintridge to Carson sensible for a car alarm?
 
-Yes, because alarm installation is only as good as the wiring. At 26.4 miles you get a Viper 3108V wired to the ignition and locks, hidden in the factory loom and tested before you leave, for $269 installed as of October 2026. Call (310) 513-8800 or text (213) 429-1092 to book.
+Yes, because alarm installation is only as good as the wiring. At 26.4 miles you get a Viper 3108V wired to the ignition and locks, hidden in the factory loom and tested before you leave, for $269 installed as of October 2026. Call (213) 429-1092 or text (213) 429-1092 to book.
 
 ### Does remote start installation work on a hybrid?
 
@@ -62,7 +65,7 @@ Viper 3108V alarm installation $269. Compustar 9910 remote start installation fr
 
 ## Schedule the install
 
-Phone (310) 513-8800 or text (213) 429-1092 with your year, make and model. Audio MotorSports is at 22025 S Avalon Blvd Ste A in Carson, CA 90745; hours are Mon-Sat 9:30-18:00, Sunday closed. Drop the car or wait.
+Phone (213) 429-1092 or text (213) 429-1092 with your year, make and model. Audio MotorSports is at 22025 S Avalon Blvd Ste A in Carson, CA 90745; hours are Mon-Sat 9:30-18:00, Sunday closed. Drop the car or wait.
 
 ```json
 {
@@ -73,7 +76,7 @@ Phone (310) 513-8800 or text (213) 429-1092 with your year, make and model. Audi
    "@id": "https://www.audiomotorsports.com/la-canada-flintridge/#webpage",
    "url": "https://www.audiomotorsports.com/la-canada-flintridge/",
    "name": "Car Alarm Install, La Canada Flintridge | Audio MotorSports",
-   "description": "Viper alarm installation, Compustar remote start, tint and stereo installs for La Canada Flintridge at Audio MotorSports in Carson, 26.4 miles. (310) 513-8800.",
+   "description": "Viper alarm installation, Compustar remote start, tint and stereo installs for La Canada Flintridge at Audio MotorSports in Carson, 26.4 miles. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -115,7 +118,7 @@ Phone (310) 513-8800 or text (213) 429-1092 with your year, make and model. Audi
      "name": "Is driving from La Canada Flintridge to Carson sensible for a car alarm?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes, because alarm installation is only as good as the wiring. At 26.4 miles you get a Viper 3108V wired to the ignition and locks, hidden in the factory loom and tested before you leave, for $269 installed as of October 2026. Call (310) 513-8800 or text (213) 429-1092 to book."
+      "text": "Yes, because alarm installation is only as good as the wiring. At 26.4 miles you get a Viper 3108V wired to the ignition and locks, hidden in the factory loom and tested before you leave, for $269 installed as of October 2026. Call (213) 429-1092 or text (213) 429-1092 to book."
      }
     },
     {

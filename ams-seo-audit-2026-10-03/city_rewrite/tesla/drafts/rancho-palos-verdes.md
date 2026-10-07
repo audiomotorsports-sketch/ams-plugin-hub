@@ -4,7 +4,7 @@ city: Rancho Palos Verdes
 miles: 9.0
 lead_service: Tesla window tint (glass roof heat)
 title: Rancho Palos Verdes Tesla Tint | Tesla Tint LA, Carson
-meta: Tesla glass roof and window tint for Rancho Palos Verdes at Tesla Tint LA by Audio MotorSports in Carson, 9 miles away. Ceramic film. Call (310) 513-8800.
+meta: Tesla glass roof and window tint for Rancho Palos Verdes at Tesla Tint LA by Audio MotorSports in Carson, 9 miles away. Ceramic film. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla Glass Roof and Window Tint for Rancho Palos Verdes
@@ -24,6 +24,9 @@ A Tesla parked on a sunny Rancho Palos Verdes driveway heats up through the roof
 ## The drive from Rancho Palos Verdes
 
 Roughly 9 miles, about 18 to 22 minutes outside rush hour (approx). Shop hours are Monday to Saturday 9:30 to 6:00, closed Sunday. Reserve a time, then wait at the shop or leave the car and pick it up later. [SHOP NOTE: 2-3 sentences from Nick about Rancho Palos Verdes customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Rancho Palos Verdes customers tell us makes the drop-off painless. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Rancho Palos Verdes traffic sends you.
 
 ## Rancho Palos Verdes Tesla tint questions
 
@@ -49,7 +52,7 @@ Yes, and most owners do. A full Tesla tint covers the roof, four door windows, t
 
 ## Prices
 
-Roof tint on a Tesla is part of the model-by-model quote Nick gives at the shop. For reference, the same bay installs Solar on non-Tesla cars for $249 and Solar Ceramic for $329, as of October 2026. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Roof tint on a Tesla is part of the model-by-model quote Nick gives at the shop. For reference, the same bay installs Solar on non-Tesla cars for $249 and Solar Ceramic for $329, as of October 2026. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby Tesla tint pages
 
@@ -57,7 +60,7 @@ Roof tint on a Tesla is part of the model-by-model quote Nick gives at the shop.
 
 ## Book the roof
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

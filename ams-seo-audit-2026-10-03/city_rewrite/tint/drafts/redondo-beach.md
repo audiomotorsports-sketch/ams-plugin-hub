@@ -4,7 +4,7 @@ city: Redondo Beach
 miles: 7.2
 lead_service: car window tint (UV)
 title: Redondo Beach Car Window Tint | LA Car Tint, Carson
-meta: Car window tint with UV protection for Redondo Beach drivers, installed at Audio MotorSports in Carson, 7.2 miles away. Call (310) 513-8800 to schedule.
+meta: Car window tint with UV protection for Redondo Beach drivers, installed at Audio MotorSports in Carson, 7.2 miles away. Call (213) 429-1092 to schedule.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Window Tint for Redondo Beach
@@ -22,6 +22,9 @@ Redondo Beach cars live in the sun, and car window tint from LA Car Tint by Audi
 ## Getting here from Redondo Beach
 
 It is roughly 7.2 miles from Redondo Beach to the shop, a 15 to 17 minute drive outside rush hour (approx). Set an appointment, then drop off or wait; a sedan is usually done within the afternoon. Doors open 9:30 a.m. to 6:00 p.m. Monday through Saturday, Sunday closed. [SHOP NOTE: 2-3 sentences from Nick about Redondo Beach customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Redondo Beach, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. The shop is LGBTQ-friendly and everyone from Redondo Beach is welcome, as our Google and Yelp listings state. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Redondo Beach.
 
 ## Redondo Beach window tint FAQ
 
@@ -47,7 +50,7 @@ Give it a few days. The film needs time to cure to the glass, and rolling the wi
 
 ## Tint pricing for Redondo Beach customers
 
-Four-door Solar: $249 installed. Four-door Solar Ceramic: $329 installed. Both prices are as of October 2026 and include four doors plus the back glass. Coupes, convertibles, SUVs, Tesla roof glass and windshield strips are quoted at the shop. Payment plan available, ask Nick. As of October 2026 we hold Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews).
+Four-door Solar: $249 installed. Four-door Solar Ceramic: $329 installed. Both prices are as of October 2026 and include four doors plus the back glass. Coupes, convertibles, SUVs, Tesla roof glass and windshield strips are quoted at the shop. Payment plan available, ask Nick. As of October 2026 we hold Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews).
 
 ## Tint pages for nearby beach cities
 
@@ -55,7 +58,7 @@ Four-door Solar: $249 installed. Four-door Solar Ceramic: $329 installed. Both p
 
 ## Get on the schedule
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -66,7 +69,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tint/window-tint-redondo-beach/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-redondo-beach/",
    "name": "Redondo Beach Car Window Tint | LA Car Tint, Carson",
-   "description": "Car window tint with UV protection for Redondo Beach drivers, installed at Audio MotorSports in Carson, 7.2 miles away. Call (310) 513-8800 to schedule.",
+   "description": "Car window tint with UV protection for Redondo Beach drivers, installed at Audio MotorSports in Carson, 7.2 miles away. Call (213) 429-1092 to schedule.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

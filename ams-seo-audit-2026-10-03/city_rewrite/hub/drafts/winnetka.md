@@ -4,7 +4,7 @@ city: Winnetka
 miles: 31.5
 lead_service: Harley bagger audio
 title: Harley Bagger Audio for Winnetka | Audio MotorSports
-meta: Bagger audio installation with AMS pods for Winnetka Harley riders, plus car window tint and stereo at Audio MotorSports in Carson, 31.5 miles. (310) 513-8800.
+meta: Bagger audio installation with AMS pods for Winnetka Harley riders, plus car window tint and stereo at Audio MotorSports in Carson, 31.5 miles. (213) 429-1092.
 ---
 # Harley-Davidson Motorcycle Audio for Winnetka Riders
 
@@ -25,6 +25,9 @@ Winnetka riders bring touring Harleys about 31.5 miles to Audio MotorSports at 2
 ## Winnetka to the Carson bay
 
 Winnetka is about 31.5 miles from the shop, roughly sixty-three to seventy-six minutes outside rush hour (approx). We take appointments Monday through Saturday, 9:30 AM to 6:00 PM, and are closed Sunday. Call or text first, then wait while the pods are installed or leave the bike and ride back on a borrowed seat. Bike wiring sealed and routed right the first time is what the ride buys you. [SHOP NOTE: 2-3 sentences from Nick about Winnetka customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Winnetka drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. From Winnetka you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Bagger audio questions from Winnetka
 
@@ -64,7 +67,7 @@ We also serve the cities around Winnetka:
 
 ## Book from Winnetka
 
-Call (310) 513-8800 or text (213) 429-1092 with the bike's year and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745; Monday to Saturday 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the bike's year and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745; Monday to Saturday 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -75,7 +78,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the bike's year and model. Audio
    "@id": "https://www.audiomotorsports.com/winnetka/#webpage",
    "url": "https://www.audiomotorsports.com/winnetka/",
    "name": "Harley Bagger Audio for Winnetka | Audio MotorSports",
-   "description": "Bagger audio installation with AMS pods for Winnetka Harley riders, plus car window tint and stereo installs, at Audio MotorSports in Carson, 31.5 miles. Call (310) 513-8800.",
+   "description": "Bagger audio installation with AMS pods for Winnetka Harley riders, plus car window tint and stereo installs, at Audio MotorSports in Carson, 31.5 miles. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

@@ -5,7 +5,7 @@ miles: 10.8
 lead_service: Tesla window tint (camera and sensor clearance)
 source: hub-mounted copy; standalone www host not verified
 title: Artesia Tesla Tint, Sensors Clear | Tesla Tint LA
-meta: Tesla window tint for Artesia owners with cameras and sensors left clear: ceramic film installed at Audio MotorSports in Carson, 10.8 miles away. Call (310) 513-8800 or text (213) 429-1092.
+meta: Tesla window tint for Artesia owners with cameras and sensors left clear: ceramic film installed at Audio MotorSports in Carson, 10.8 miles away. Call (213) 429-1092 or text (213) 429-1092.
 ---
 # Tesla Window Tint for Artesia, Cameras and Sensors Untouched
 
@@ -28,6 +28,9 @@ Audio MotorSports also does dash camera installation, GPS tracker installation, 
 About 10.8 miles, roughly 22 to 26 minutes outside rush hour (approx). Hours run Monday through Saturday, 9:30 AM to 6:00 PM, closed Sunday. Schedule first, then wait at the shop or drop the car and pick it up later the same day.
 
 [SHOP NOTE: 2-3 sentences from Nick about Artesia customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Artesia drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Artesia.
 
 ## Artesia Tesla tint questions
 
@@ -53,7 +56,7 @@ By model, at the shop. A Model 3 and a Model X do not take the same film or labo
 
 ## Pricing
 
-Tesla window tint is quoted per model at the shop; text the year and model to get a number. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Tesla window tint is quoted per model at the shop; text the year and model to get a number. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near Artesia
 
@@ -65,7 +68,7 @@ Tesla window tint is quoted per model at the shop; text the year and model to ge
 
 ## Book from Artesia
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -76,7 +79,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-artesia/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-artesia/",
    "name": "Artesia Tesla Tint, Sensors Clear | Tesla Tint LA",
-   "description": "Tesla window tint for Artesia owners with cameras and sensors left clear: ceramic film installed at Audio MotorSports in Carson, 10.8 miles away. Call (310) 513-8800 or text (213) 429-1092.",
+   "description": "Tesla window tint for Artesia owners with cameras and sensors left clear: ceramic film installed at Audio MotorSports in Carson, 10.8 miles away. Call (213) 429-1092 or text (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

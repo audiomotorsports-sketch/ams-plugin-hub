@@ -4,7 +4,7 @@ city: Irwindale
 miles: 33.5
 lead_service: window tinting
 title: Window Tinting Irwindale | LA Car Tint, Carson
-meta: Window tinting for Irwindale work vans, fleet trucks and personal cars, installed by hand at Audio MotorSports in Carson, 33.5 miles out. Call (310) 513-8800.
+meta: Window tinting for Irwindale work vans, fleet trucks and personal cars, installed by hand at Audio MotorSports in Carson, 33.5 miles out. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Window Tinting for Irwindale Vans, Trucks and Cars, by Audio MotorSports, Carson
@@ -26,6 +26,9 @@ The run is about 33.5 miles, roughly an hour and ten minutes (approx) outside ru
 
 [SHOP NOTE: 2-3 sentences from Nick about Irwindale customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+For a longer job from Irwindale, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Irwindale traffic sends you.
+
 ## Irwindale owners ask
 
 ### Can a company van from Irwindale get its cargo windows blacked out for security?
@@ -42,11 +45,11 @@ For a driver who sits in that cab all day, yes. Solar Ceramic blocks the infrare
 
 ### How does an Irwindale driver book and what happens on the day?
 
-Call (310) 513-8800 or text (213) 429-1092 with the vehicle and the windows you want done. On the day, drop the vehicle in Carson and pick it up later, or wait while it is tinted. The drive from Irwindale is roughly an hour and ten minutes outside rush hour.
+Call (213) 429-1092 or text (213) 429-1092 with the vehicle and the windows you want done. On the day, drop the vehicle in Carson and pick it up later, or wait while it is tinted. The drive from Irwindale is roughly an hour and ten minutes outside rush hour.
 
 ### Why not just have the tint done at the closest shop to Irwindale?
 
-Closest is not the same as right. This bay cuts film on your glass, tucks the edges under the seal and heat-sets each panel, and it carries Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. A fleet with peeling tint looks worse than a fleet with none.
+Closest is not the same as right. This bay cuts film on your glass, tucks the edges under the seal and heat-sets each panel, and it carries Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. A fleet with peeling tint looks worse than a fleet with none.
 
 ## Prices, as of October 2026
 
@@ -61,7 +64,7 @@ Solar window tint $249 installed and Solar Ceramic $329 installed, as of October
 
 ## Book it
 
-Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
+Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
 
 ```json
 {
@@ -72,7 +75,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-irwindale/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-irwindale/",
    "name": "Window Tinting Irwindale | LA Car Tint, Carson",
-   "description": "Window tinting for Irwindale work vans, fleet trucks and personal cars, installed by hand at Audio MotorSports in Carson, 33.5 miles out. Call (310) 513-8800.",
+   "description": "Window tinting for Irwindale work vans, fleet trucks and personal cars, installed by hand at Audio MotorSports in Carson, 33.5 miles out. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -136,7 +139,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "How does an Irwindale driver book and what happens on the day?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Call (310) 513-8800 or text (213) 429-1092 with the vehicle and the windows you want done. On the day, drop the vehicle in Carson and pick it up later, or wait while it is tinted. The drive from Irwindale is roughly an hour and ten minutes outside rush hour."
+      "text": "Call (213) 429-1092 or text (213) 429-1092 with the vehicle and the windows you want done. On the day, drop the vehicle in Carson and pick it up later, or wait while it is tinted. The drive from Irwindale is roughly an hour and ten minutes outside rush hour."
      }
     },
     {
@@ -144,7 +147,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "Why not just have the tint done at the closest shop to Irwindale?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Closest is not the same as right. This bay cuts film on your glass, tucks the edges under the seal and heat-sets each panel, and it carries Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. A fleet with peeling tint looks worse than a fleet with none."
+      "text": "Closest is not the same as right. This bay cuts film on your glass, tucks the edges under the seal and heat-sets each panel, and it carries Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. A fleet with peeling tint looks worse than a fleet with none."
      }
     }
    ]

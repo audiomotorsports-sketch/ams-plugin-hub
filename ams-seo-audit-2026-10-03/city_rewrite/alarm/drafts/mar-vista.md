@@ -4,7 +4,7 @@ city: Mar Vista
 miles: 15.4
 lead_service: street-parked car security
 title: Car Alarm Installation for Mar Vista | LA Car Alarm
-meta: Car alarm installation for street-parked Mar Vista cars at LA Car Alarm by Audio MotorSports, Carson, 15.4 miles. Viper, GPS, dash cams. Call (310) 513-8800.
+meta: Car alarm installation for street-parked Mar Vista cars at LA Car Alarm by Audio MotorSports, Carson, 15.4 miles. Viper, GPS, dash cams. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Alarm Installation for Mar Vista Street Parking
@@ -22,6 +22,9 @@ Street parking is the norm in Mar Vista, so the alarm has to be installed to res
 **Compustar remote start installation.** Bypass matched to the car, doors secured while it idles, engine cut if driven without the key.
 
 Ceramic window tint and Apple CarPlay installation can be booked into the same visit.
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Mar Vista, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. Coming from Mar Vista, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Mar Vista to Carson
 
@@ -56,7 +59,7 @@ Nobody here thinks 15 miles is far; drivers come from over 100 miles away for an
 
 Sensors, trackers and dash cameras are quoted on the vehicle at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby alarm pages
 
@@ -68,7 +71,7 @@ Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
 
 ## Set up a Mar Vista appointment
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

@@ -5,7 +5,7 @@ miles: 3.7
 lead_service: Window tint / ceramic window tint (LA Car Tint)
 source: hub-mounted copy; standalone www host not verified
 title: Lomita Window Tint | LA Car Tint by Audio MotorSports
-meta: Car window tint and ceramic window tint for Lomita drivers, installed at Audio MotorSports in Carson, 3.7 miles away. Hand-cut film. Call (310) 513-8800.
+meta: Car window tint and ceramic window tint for Lomita drivers, installed at Audio MotorSports in Carson, 3.7 miles away. Hand-cut film. Call (213) 429-1092.
 ---
 # Car Window Tint for Lomita Drivers
 
@@ -26,6 +26,9 @@ LA Car Tint by Audio MotorSports installs car window tint and ceramic window tin
 Lomita to 22025 S Avalon Blvd is about 3.7 miles, roughly a 7 to 9 minute drive (approx) outside rush hour. Book a time by phone or text, then either leave the car with us or wait in the shop while the tint goes on; most sedans are done the same day. We are open Monday through Saturday, 9:30 to 6:00, closed Sunday. Lomita is one of our shortest trips, and people drive in from well over 100 miles for the same work.
 
 [SHOP NOTE: 2-3 sentences from Nick about Lomita customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Lomita, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. Lomita customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. From Lomita you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd. Lomita customers include port and refinery workers on shift schedules, so early drop-offs are normal here.
 
 ## Lomita window tint questions
 
@@ -59,7 +62,7 @@ Solar window tint is $249 installed and Solar Ceramic window tint is $329 instal
 
 ## Book Lomita window tint
 
-Call (310) 513-8800 or text (213) 429-1092 for a slot. Find us at 22025 S Avalon Blvd Ste A, Carson, CA 90745 (Audio MotorSports). Monday to Saturday 9:30 to 6:00; Sunday closed. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Call (213) 429-1092 or text (213) 429-1092 for a slot. Find us at 22025 S Avalon Blvd Ste A, Carson, CA 90745 (Audio MotorSports). Monday to Saturday 9:30 to 6:00; Sunday closed. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ```json
 {
@@ -70,7 +73,7 @@ Call (310) 513-8800 or text (213) 429-1092 for a slot. Find us at 22025 S Avalon
    "@id": "https://www.audiomotorsports.com/tint/window-tint-lomita/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-lomita/",
    "name": "Lomita Window Tint | LA Car Tint by Audio MotorSports",
-   "description": "Car window tint and ceramic window tint for Lomita drivers, installed at Audio MotorSports in Carson, 3.7 miles away. Hand-cut film. Call (310) 513-8800.",
+   "description": "Car window tint and ceramic window tint for Lomita drivers, installed at Audio MotorSports in Carson, 3.7 miles away. Hand-cut film. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

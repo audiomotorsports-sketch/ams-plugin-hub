@@ -4,7 +4,7 @@ city: Malibu
 miles: 32.6
 lead_service: GPS tracker installation
 title: GPS Tracker & Car Alarm Installation Malibu | LA Car Alarm
-meta: GPS tracker and car alarm installation for Malibu drivers at LA Car Alarm by Audio MotorSports, Carson, 32.6 miles. Viper, Compustar remote start, dash cams. Call (310) 513-8800.
+meta: GPS tracker and car alarm installation for Malibu drivers at LA Car Alarm by Audio MotorSports, Carson, 32.6 miles. Viper, Compustar remote start, dash cams. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # GPS Tracker and Car Alarm Installation for Malibu Drivers
@@ -22,6 +22,9 @@ Malibu drivers cover about 32.6 miles to reach LA Car Alarm at Audio MotorSports
 **Dash camera installation.** Fused hardwire, hidden cable, parking mode, voltage cutoff so the battery is safe.
 
 Ceramic window tint and a CarPlay head unit can be done on the same visit, which makes the trip from Malibu count twice.
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Malibu drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Malibu.
 
 ## Making the Malibu trip count
 
@@ -54,7 +57,7 @@ A tracker alone is a few hours; a tracker plus alarm is most of a day. We give a
 
 GPS trackers, sensors and dash cameras are quoted on the vehicle at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby alarm pages
 
@@ -65,7 +68,7 @@ Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
 
 ## Schedule a Malibu install
 
-Call (310) 513-8800 or text (213) 429-1092 with your year, make and model before you leave. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with your year, make and model before you leave. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

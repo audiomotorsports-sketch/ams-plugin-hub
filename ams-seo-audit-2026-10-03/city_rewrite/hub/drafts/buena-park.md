@@ -4,7 +4,7 @@ city: Buena Park
 miles: 15.4
 lead_service: Tesla window tint
 title: Tesla Window Tint & Alarms, Buena Park | Audio MotorSports
-meta: Tesla window tint, ceramic tint, car alarm installation and car stereo installs for Buena Park drivers at Audio MotorSports in Carson. Call (310) 513-8800.
+meta: Tesla window tint, ceramic tint, car alarm installation and car stereo installs for Buena Park drivers at Audio MotorSports in Carson. Call (213) 429-1092.
 ---
 # Tesla Window Tint for Buena Park Owners
 
@@ -22,9 +22,12 @@ Buena Park Tesla owners get Tesla window tint at Audio MotorSports, 22025 S Aval
 
 **Dash camera installation.** Front and rear cameras hardwired for parking mode with the cable hidden behind the headliner and pillar trim.
 
+<!-- owner-details-2026-10-07 -->
+Plenty of Buena Park drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. From Buena Park you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
+
 ## Buena Park to the shop
 
-Figure about 15.4 miles and roughly 31 to 37 minutes (approx) when the roads are clear. Hours are Monday through Saturday, 9:30 AM to 6:00 PM, closed Sunday. Schedule your slot, then drop the car or wait in the shop while the film cures enough to drive. Booking is by phone at (310) 513-8800 or by text at (213) 429-1092. Buena Park drivers can see what others thought first: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Figure about 15.4 miles and roughly 31 to 37 minutes (approx) when the roads are clear. Hours are Monday through Saturday, 9:30 AM to 6:00 PM, closed Sunday. Schedule your slot, then drop the car or wait in the shop while the film cures enough to drive. Booking is by phone at (213) 429-1092 or by text at (213) 429-1092. Buena Park drivers can see what others thought first: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 [SHOP NOTE: 2-3 sentences from Nick about Buena Park customers, routes or jobs]
 
@@ -71,7 +74,7 @@ Head units, amps, GPS trackers and dash cameras get a quote once we see the vehi
 
 ## Book Tesla tint from Buena Park
 
-Call (310) 513-8800 or text (213) 429-1092 with your model and year. The bay is at 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00. Closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092 with your model and year. The bay is at 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00. Closed Sunday.
 
 ```json
 {
@@ -82,7 +85,7 @@ Call (310) 513-8800 or text (213) 429-1092 with your model and year. The bay is 
    "@id": "https://www.audiomotorsports.com/buena-park/#webpage",
    "url": "https://www.audiomotorsports.com/buena-park/",
    "name": "Tesla Window Tint & Alarms, Buena Park | Audio MotorSports",
-   "description": "Tesla window tint, ceramic tint, car alarm installation and car stereo installs for Buena Park drivers at Audio MotorSports in Carson. Call (310) 513-8800.",
+   "description": "Tesla window tint, ceramic tint, car alarm installation and car stereo installs for Buena Park drivers at Audio MotorSports in Carson. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

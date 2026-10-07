@@ -5,7 +5,7 @@ miles: 18.5
 lead_service: Tesla window tint (new delivery)
 source: hub-mounted copy; standalone www host not verified
 title: New Tesla Tint for Beverly Hills | Tesla Tint LA
-meta: Tesla window tint for Beverly Hills owners fresh from delivery: ceramic film hand-cut at Audio MotorSports in Carson, 18.5 miles away. Call (310) 513-8800 or text (213) 429-1092 to book.
+meta: Tesla window tint for Beverly Hills owners fresh from delivery: ceramic film hand-cut at Audio MotorSports in Carson, 18.5 miles away. Call (213) 429-1092 or text (213) 429-1092 to book.
 ---
 # Tesla Window Tint for Beverly Hills, Right After Delivery
 
@@ -28,6 +28,9 @@ While the Tesla is in the bay, Audio MotorSports can also do a dash camera insta
 About 18.5 miles, 37 to 44 minutes outside rush hour (approx). We are open Monday through Saturday, 9:30 AM to 6:00 PM, closed Sunday. Book the appointment, then drop the car for the day or wait at the shop. The shop sits near the beach in Carson, and owners drive in from over 100 miles away, so the trip from Beverly Hills is routine.
 
 [SHOP NOTE: 2-3 sentences from Nick about Beverly Hills customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Beverly Hills drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. Coming from Beverly Hills, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Beverly Hills new-Tesla tint questions
 
@@ -53,7 +56,7 @@ No. Every piece is cut on a glass board away from the car, then transferred. Cut
 
 ## Pricing
 
-New-delivery or not, each Tesla is quoted by model at the shop; text the year and model for the figure. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+New-delivery or not, each Tesla is quoted by model at the shop; text the year and model for the figure. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near Beverly Hills
 
@@ -64,7 +67,7 @@ New-delivery or not, each Tesla is quoted by model at the shop; text the year an
 
 ## Book from Beverly Hills
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -75,7 +78,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-beverly-hills/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-beverly-hills/",
    "name": "New Tesla Tint for Beverly Hills | Tesla Tint LA",
-   "description": "Tesla window tint for Beverly Hills owners fresh from delivery: ceramic film hand-cut at Audio MotorSports in Carson, 18.5 miles away. Call (310) 513-8800 or text (213) 429-1092 to book.",
+   "description": "Tesla window tint for Beverly Hills owners fresh from delivery: ceramic film hand-cut at Audio MotorSports in Carson, 18.5 miles away. Call (213) 429-1092 or text (213) 429-1092 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

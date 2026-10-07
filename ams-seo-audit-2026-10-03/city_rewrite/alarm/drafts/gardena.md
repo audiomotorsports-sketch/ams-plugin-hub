@@ -4,7 +4,7 @@ city: Gardena
 miles: 4.9
 lead_service: dash camera installation
 title: Dash Cam & Car Alarm Installation in Gardena | LA Car Alarm
-meta: Dash camera and car alarm installation for Gardena, done at LA Car Alarm by Audio MotorSports in Carson, 22025 S Avalon Blvd. Call (310) 513-8800 to book.
+meta: Dash camera and car alarm installation for Gardena, done at LA Car Alarm by Audio MotorSports in Carson, 22025 S Avalon Blvd. Call (213) 429-1092 to book.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Dash Camera and Car Alarm Installation for Gardena
@@ -22,6 +22,9 @@ Gardena drivers come to LA Car Alarm, the security desk at Audio MotorSports, 22
 **GPS tracker installation.** Hidden, hardwired, and checked on your phone in the parking lot. A Gardena commuter who leaves the car in a lot all day is the typical candidate.
 
 Window tint, car stereo installation and CarPlay head units are available in the same visit if you want to knock out two jobs.
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Gardena drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Coming from Gardena, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710. Gardena sends us Metro bus operators and plenty of commuters who work at the bigger employers around the 110 and the 405.
 
 ## Getting here from Gardena
 
@@ -54,7 +57,7 @@ Shock sensitivity is adjusted on your car, in our lot, with the doors closed. Th
 
 Dash cameras and GPS trackers are quoted at the shop for your vehicle. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Other cities near Gardena
 
@@ -66,7 +69,7 @@ Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
 
 ## Call or text to book
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

@@ -4,7 +4,7 @@ city: La Habra Heights
 miles: 20.1
 lead_service: Window tint
 title: Window Tinting for La Habra Heights | Audio MotorSports
-meta: Car window tint, ceramic tint, car stereo installation and alarms for La Habra Heights drivers at Audio MotorSports in Carson, 20.1 miles. Call (310) 513-8800.
+meta: Car window tint, ceramic tint, car stereo installation and alarms for La Habra Heights drivers at Audio MotorSports in Carson, 20.1 miles. Call (213) 429-1092.
 ---
 # Car Window Tinting for La Habra Heights
 
@@ -27,6 +27,9 @@ La Habra Heights drivers come to Audio MotorSports in Carson for car window tint
 Plan on about 20.1 miles and 40 to 48 minutes (approx) outside rush hour. Book a slot by phone or text, then leave the car with us or wait while the tint goes on, which is a few hours. We are open Monday through Saturday, 9:30 in the morning to 6:00, and closed Sunday.
 
 [SHOP NOTE: 2-3 sentences from Nick about La Habra Heights customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Plenty of La Habra Heights drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from La Habra Heights.
 
 ## La Habra Heights questions
 
@@ -60,7 +63,7 @@ Solar window tint $249 installed · Solar Ceramic window tint $329 installed · 
 
 ## Book window tinting from La Habra Heights
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. The shop address is 22025 S Avalon Blvd Ste A, Carson, CA 90745, with hours Mon-Sat 9:30-6:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. The shop address is 22025 S Avalon Blvd Ste A, Carson, CA 90745, with hours Mon-Sat 9:30-6:00, Sunday closed.
 
 ```json
 {
@@ -71,7 +74,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. The sh
    "@id": "https://www.audiomotorsports.com/la-habra-heights/#webpage",
    "url": "https://www.audiomotorsports.com/la-habra-heights/",
    "name": "Window Tinting for La Habra Heights | Audio MotorSports",
-   "description": "Car window tint, ceramic tint, car stereo installation and alarms for La Habra Heights drivers at Audio MotorSports in Carson, 20.1 miles. Call (310) 513-8800.",
+   "description": "Car window tint, ceramic tint, car stereo installation and alarms for La Habra Heights drivers at Audio MotorSports in Carson, 20.1 miles. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

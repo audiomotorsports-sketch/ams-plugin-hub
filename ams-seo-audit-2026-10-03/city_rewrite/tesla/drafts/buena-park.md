@@ -5,7 +5,7 @@ miles: 15.4
 lead_service: Tesla window tint (Model S)
 source: hub-mounted copy; standalone www host not verified
 title: Buena Park Model S Window Tint | Tesla Tint LA
-meta: Tesla window tint for Buena Park owners, Model S first: ceramic film shaped by hand at Audio MotorSports in Carson, 15.4 miles from Buena Park. Call (310) 513-8800 to book by model.
+meta: Tesla window tint for Buena Park owners, Model S first: ceramic film shaped by hand at Audio MotorSports in Carson, 15.4 miles from Buena Park. Call (213) 429-1092 to book by model.
 ---
 # Tesla Window Tint for Buena Park, Model S Leading
 
@@ -28,6 +28,9 @@ The same shop does Compustar installation, GPS tracker installation, dash camera
 About 15.4 miles, roughly 31 to 37 minutes outside rush hour (approx). We are open Monday through Saturday, 9:30 AM to 6:00 PM, and closed Sunday. Schedule the appointment, then wait at the shop or drop the car and return later in the day. Customers drive in from over 100 miles away, so Buena Park is a short run.
 
 [SHOP NOTE: 2-3 sentences from Nick about Buena Park customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Buena Park, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. The shop is LGBTQ-friendly and everyone from Buena Park is welcome, as our Google and Yelp listings state. From Buena Park you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Buena Park Tesla tint questions
 
@@ -53,7 +56,7 @@ Always. Camera zones on the glass are masked and left clear, and the ceramic fil
 
 ## Pricing
 
-The Model S and every Tesla here are quoted by model at the shop; text the year and model for a number. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+The Model S and every Tesla here are quoted by model at the shop; text the year and model for a number. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint pages near Buena Park
 
@@ -65,7 +68,7 @@ The Model S and every Tesla here are quoted by model at the shop; text the year 
 
 ## Book from Buena Park
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -76,7 +79,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-buena-park/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-buena-park/",
    "name": "Buena Park Model S Window Tint | Tesla Tint LA",
-   "description": "Tesla window tint for Buena Park owners, Model S first: ceramic film shaped by hand at Audio MotorSports in Carson, 15.4 miles from Buena Park. Call (310) 513-8800 to book by model.",
+   "description": "Tesla window tint for Buena Park owners, Model S first: ceramic film shaped by hand at Audio MotorSports in Carson, 15.4 miles from Buena Park. Call (213) 429-1092 to book by model.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

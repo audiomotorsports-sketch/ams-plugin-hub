@@ -5,7 +5,7 @@ miles: 9.3
 lead_service: Tesla window tint (glass roof heat)
 source: hub-mounted copy; standalone www host not verified
 title: South Gate Tesla Tint That Beats Roof Heat | Tesla Tint LA
-meta: Ceramic Tesla window tint for South Gate owners fighting glass-roof heat. Tesla Tint LA by Audio MotorSports in Carson, 9.3 miles away. Call (310) 513-8800.
+meta: Ceramic Tesla window tint for South Gate owners fighting glass-roof heat. Tesla Tint LA by Audio MotorSports in Carson, 9.3 miles away. Call (213) 429-1092.
 ---
 # Tesla Window Tint for South Gate: Cooling a Car With a Glass Roof
 
@@ -28,6 +28,9 @@ The same bay handles dash camera installation, GPS tracker installation, car ala
 South Gate is about 9.3 miles out, roughly 19 to 22 minutes outside rush hour (approx). The shop is open Mon-Sat from 9:30 AM to 6:00 PM and closed Sunday. Set an appointment, then wait at the shop or drop the Tesla off and pick it up when the tint is finished.
 
 [SHOP NOTE: 2-3 sentences from Nick about South Gate customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the South Gate job is finished. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from South Gate.
 
 ## South Gate Tesla tint questions
 
@@ -53,7 +56,7 @@ No. The windshield camera cluster and the side repeaters are masked and the film
 
 ## Pricing
 
-Tesla tint is priced by model at the shop; text the year and model and you will get a quote. Non-Tesla reference, as of October 2026: Solar $249, Solar Ceramic $329 installed. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Tesla tint is priced by model at the shop; text the year and model and you will get a quote. Non-Tesla reference, as of October 2026: Solar $249, Solar Ceramic $329 installed. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint around South Gate
 
@@ -65,7 +68,7 @@ Tesla tint is priced by model at the shop; text the year and model and you will 
 
 ## Book your appointment
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -76,7 +79,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-south-gate/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-south-gate/",
    "name": "South Gate Tesla Tint That Beats Roof Heat | Tesla Tint LA",
-   "description": "Ceramic Tesla window tint for South Gate owners fighting glass-roof heat. Tesla Tint LA by Audio MotorSports in Carson, 9.3 miles away. Call (310) 513-8800.",
+   "description": "Ceramic Tesla window tint for South Gate owners fighting glass-roof heat. Tesla Tint LA by Audio MotorSports in Carson, 9.3 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

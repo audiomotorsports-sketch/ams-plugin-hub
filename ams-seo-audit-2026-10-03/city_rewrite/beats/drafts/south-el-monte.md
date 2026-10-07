@@ -6,7 +6,7 @@ lead_service: head unit installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: South El Monte Head Unit Installation | LA Car Beats
-meta: Head unit installation and car stereo installation for South El Monte at LA Car Beats by Audio MotorSports in Carson, 19.7 miles. Call (310) 513-8800 to book.
+meta: Head unit installation and car stereo installation for South El Monte at LA Car Beats by Audio MotorSports in Carson, 19.7 miles. Call (213) 429-1092 to book.
 ---
 # Head Unit Installation for South El Monte Drivers
 
@@ -22,7 +22,10 @@ South El Monte drivers replace an aging factory radio at LA Car Beats by Audio M
 
 ## South El Monte to Carson
 
-South El Monte to the shop is about 19.7 miles, roughly 39 to 47 minutes outside rush hour (approx). Open Monday through Saturday 9:30 to 6:00, closed Sunday. Call (310) 513-8800 or text (213) 429-1092 to arrange a time. A head unit alone can usually be waited on; with speakers or an amp it is a morning drop-off. People have driven from Temecula for this shop, so South El Monte is a comfortable distance.
+South El Monte to the shop is about 19.7 miles, roughly 39 to 47 minutes outside rush hour (approx). Open Monday through Saturday 9:30 to 6:00, closed Sunday. Call (213) 429-1092 or text (213) 429-1092 to arrange a time. A head unit alone can usually be waited on; with speakers or an amp it is a morning drop-off. People have driven from Temecula for this shop, so South El Monte is a comfortable distance.
+
+<!-- owner-details-2026-10-07 -->
+Plenty of South El Monte drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. Coming from South El Monte, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## South El Monte head unit questions
 
@@ -48,7 +51,7 @@ Yes. Speaker replacement is easiest while the dash is apart, and a subwoofer wit
 
 ## South El Monte pricing
 
-Dual Kicker Comp loaded box: $249, box only, as of October 2026. Head unit installation, Apple CarPlay and Android Auto installation, speaker replacement, amplifier installation and subwoofer installation are priced at the shop for the vehicle you bring. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Window tint and ceramic window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation, Tesla window tint and Harley bagger audio with AMS pods are done in the same bay.
+Dual Kicker Comp loaded box: $249, box only, as of October 2026. Head unit installation, Apple CarPlay and Android Auto installation, speaker replacement, amplifier installation and subwoofer installation are priced at the shop for the vehicle you bring. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Window tint and ceramic window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation, Tesla window tint and Harley bagger audio with AMS pods are done in the same bay.
 
 ## San Gabriel Valley neighbors of South El Monte
 
@@ -62,7 +65,7 @@ Car stereo installation pages nearby:
 
 ## Book from South El Monte
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -74,7 +77,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio 
    "name": "South El Monte Head Unit Installation | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-south-el-monte/",
    "dateModified": "2026-10-08",
-   "description": "Head unit installation and car stereo installation for South El Monte at LA Car Beats by Audio MotorSports in Carson, 19.7 miles. Call (310) 513-8800 to book.",
+   "description": "Head unit installation and car stereo installation for South El Monte at LA Car Beats by Audio MotorSports in Carson, 19.7 miles. Call (213) 429-1092 to book.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

@@ -4,7 +4,7 @@ city: Montebello
 miles: 15.3
 lead_service: Car alarms & remote start
 title: Car Alarm Installation for Montebello | Audio MotorSports
-meta: Viper alarm installation, remote start, GPS trackers and window tint for Montebello drivers at Audio MotorSports in Carson, 15.3 miles. Call (310) 513-8800.
+meta: Viper alarm installation, remote start, GPS trackers and window tint for Montebello drivers at Audio MotorSports in Carson, 15.3 miles. Call (213) 429-1092.
 ---
 # Car Alarm Installation and Remote Start for Montebello
 
@@ -27,6 +27,9 @@ Montebello drivers come to Audio MotorSports in Carson for car alarm installatio
 It is about 15.3 miles from Montebello to Carson, which is 31 to 37 minutes (approx) when traffic is light. Set an appointment by phone or text, and on the day either leave the car with us or wait in the shop; a Viper alarm installation is a few hours. Open Monday to Saturday from 9:30 until 6:00; closed Sunday.
 
 [SHOP NOTE: 2-3 sentences from Nick about Montebello customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Montebello, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Montebello.
 
 ## Questions from Montebello
 
@@ -60,7 +63,7 @@ Viper 3108V alarm installation $269. Compustar 9910 remote start installation fr
 
 ## Book an alarm installation from Montebello
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. The address is 22025 S Avalon Blvd Ste A, Carson, CA 90745, and hours are Mon-Sat 9:30 to 6:00; Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. The address is 22025 S Avalon Blvd Ste A, Carson, CA 90745, and hours are Mon-Sat 9:30 to 6:00; Sunday closed.
 
 ```json
 {
@@ -71,7 +74,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. The ad
    "@id": "https://www.audiomotorsports.com/montebello/#webpage",
    "url": "https://www.audiomotorsports.com/montebello/",
    "name": "Car Alarm Installation for Montebello | Audio MotorSports",
-   "description": "Viper alarm installation, remote start, GPS trackers and window tint for Montebello drivers at Audio MotorSports in Carson, 15.3 miles. Call (310) 513-8800.",
+   "description": "Viper alarm installation, remote start, GPS trackers and window tint for Montebello drivers at Audio MotorSports in Carson, 15.3 miles. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

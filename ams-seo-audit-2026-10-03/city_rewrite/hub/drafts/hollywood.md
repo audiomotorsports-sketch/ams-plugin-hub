@@ -4,7 +4,7 @@ city: Hollywood
 miles: 23.3
 lead_service: car window tint / ceramic window tint
 title: Window Tinting for Hollywood Drivers | Audio MotorSports
-meta: Car window tint, ceramic window tint, car stereo installation and alarms for Hollywood drivers at Audio MotorSports in Carson, 23.3 miles. Call (310) 513-8800.
+meta: Car window tint, ceramic window tint, car stereo installation and alarms for Hollywood drivers at Audio MotorSports in Carson, 23.3 miles. Call (213) 429-1092.
 ---
 # Car Window Tint & Window Tinting for Hollywood
 
@@ -26,6 +26,9 @@ Hollywood drivers get car window tint hand-cut on the glass at Audio MotorSports
 
 The shop is 23.3 miles from Hollywood, roughly forty-seven to fifty-six minutes outside rush hour (approx). Hours are Monday through Saturday from 9:30 to 6:00, Sunday closed. Call or text to reserve a slot, then drop the car and come back later, or wait on site while the film goes on. Drivers have made the trip from Temecula for this bay, so Hollywood is a comfortable run down the 110.
 
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Hollywood customers tell us makes the drop-off painless. The shop is LGBTQ-friendly and everyone from Hollywood is welcome, as our Google and Yelp listings state. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Hollywood.
+
 ## Hollywood window tint questions
 
 ### Why would a Hollywood driver go all the way to Carson for window tinting?
@@ -42,7 +45,7 @@ No. Ceramic film blocks heat through the ceramic layer rather than the color, so
 
 ### Can I wait at the shop while my car is tinted?
 
-Yes. A sedan or coupe takes roughly two to three hours and most people wait in the lobby. A larger SUV or a Tesla with the rear glass takes longer, so dropping off and picking up later is the better plan. Set the time by calling (310) 513-8800 or texting (213) 429-1092.
+Yes. A sedan or coupe takes roughly two to three hours and most people wait inside. A larger SUV or a Tesla with the rear glass takes longer, so dropping off and picking up later is the better plan. Set the time by calling (213) 429-1092 or texting (213) 429-1092.
 
 ### Do you install dash cameras for cars parked on the street overnight?
 
@@ -62,7 +65,7 @@ Solar car window tint is $249 installed. Solar Ceramic window tint is $329 insta
 
 ## Book your tint
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. The shop is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00, closed Sunday. Drop off or wait.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. The shop is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00, closed Sunday. Drop off or wait.
 
 ```json
 {
@@ -73,7 +76,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. The sh
    "@id": "https://www.audiomotorsports.com/hollywood/#webpage",
    "url": "https://www.audiomotorsports.com/hollywood/",
    "name": "Window Tinting for Hollywood Drivers | Audio MotorSports",
-   "description": "Car window tint, ceramic window tint, car stereo installation and alarms for Hollywood drivers at Audio MotorSports in Carson, 23.3 miles. Call (310) 513-8800.",
+   "description": "Car window tint, ceramic window tint, car stereo installation and alarms for Hollywood drivers at Audio MotorSports in Carson, 23.3 miles. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -139,7 +142,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. The sh
      "name": "Can I wait at the shop while my car is tinted?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. A sedan or coupe takes roughly two to three hours and most people wait in the lobby. A larger SUV or a Tesla with the rear glass takes longer, so dropping off and picking up later is the better plan. Set the time by calling (310) 513-8800 or texting (213) 429-1092."
+      "text": "Yes. A sedan or coupe takes roughly two to three hours and most people wait inside. A larger SUV or a Tesla with the rear glass takes longer, so dropping off and picking up later is the better plan. Set the time by calling (213) 429-1092 or texting (213) 429-1092."
      }
     },
     {

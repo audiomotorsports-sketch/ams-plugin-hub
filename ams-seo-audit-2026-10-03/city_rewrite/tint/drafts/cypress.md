@@ -4,7 +4,7 @@ city: Cypress
 miles: 13.0
 lead_service: car window tint (UV and interior fading)
 title: Cypress Car Window Tint | LA Car Tint by Audio MotorSports
-meta: Car window tint that stops UV fading for Cypress drivers, hand-cut and installed by Audio MotorSports in Carson, 13 miles away. Call (310) 513-8800.
+meta: Car window tint that stops UV fading for Cypress drivers, hand-cut and installed by Audio MotorSports in Carson, 13 miles away. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Window Tint for Cypress: Stop the Fade Before It Starts
@@ -22,6 +22,9 @@ A new car from Cypress with light leather and a dark dash will fade fast in Oran
 ## Getting here from Cypress
 
 Cypress to Carson is roughly 13 miles, about a 26 to 31 minute drive outside rush hour (approx). Set a time by phone or text, then drop the car and run errands or sit in the waiting area; a four-door is normally done the same day. We are open Monday to Saturday, 9:30 a.m. to 6:00 p.m., and closed Sunday. [SHOP NOTE: 2-3 sentences from Nick about Cypress customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Cypress, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. From Cypress you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Cypress car window tint questions
 
@@ -47,7 +50,7 @@ The glass is cleaned inside and out, the film is cut by hand on each window and 
 
 ## Prices for Cypress customers
 
-Four-door Solar window tint, $249 installed; four-door Solar Ceramic, $329 installed; prices as of October 2026 and covering four doors plus the rear window. SUVs, trucks, windshield strips and Tesla roof glass are quoted at the shop. Payment plan available, ask Nick. Rated Google 4.8 on 650+ reviews and Yelp 4.7 on 770+ reviews, as of October 2026.
+Four-door Solar window tint, $249 installed; four-door Solar Ceramic, $329 installed; prices as of October 2026 and covering four doors plus the rear window. SUVs, trucks, windshield strips and Tesla roof glass are quoted at the shop. Payment plan available, ask Nick. Rated Google 4.8 on 654 reviews and Yelp 4.7 on 777 reviews, as of October 2026.
 
 ## Tint pages for nearby Orange County cities
 
@@ -55,7 +58,7 @@ Four-door Solar window tint, $249 installed; four-door Solar Ceramic, $329 insta
 
 ## Protect the interior now
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports: 22025 S Avalon Blvd Ste A, Carson, CA 90745. Hours Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports: 22025 S Avalon Blvd Ste A, Carson, CA 90745. Hours Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

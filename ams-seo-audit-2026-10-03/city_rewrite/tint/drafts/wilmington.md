@@ -5,7 +5,7 @@ miles: 3.3
 lead_service: car window tint (heat angle)
 source: hub-mounted copy; standalone www host not verified
 title: Wilmington Window Tint | LA Car Tint by Audio MotorSports
-meta: Car window tint and ceramic window tint for Wilmington drivers, installed at Audio MotorSports in Carson, 3.3 miles away. Call (310) 513-8800 to book.
+meta: Car window tint and ceramic window tint for Wilmington drivers, installed at Audio MotorSports in Carson, 3.3 miles away. Call (213) 429-1092 to book.
 ---
 # Car Window Tint for Wilmington Drivers
 
@@ -21,11 +21,14 @@ LA Car Tint is the window tinting bay at Audio MotorSports, 22025 S Avalon Blvd 
 
 Wilmington is about 3.3 miles out, roughly a 7 to 8 minute drive (approx) outside rush hour. The shop is open Monday through Saturday, 9:30 to 6:00, and closed Sunday. Book a slot first, then either leave the car with us or wait while the tint goes on; most sedans are done the same day. [SHOP NOTE: 2-3 sentences from Nick about Wilmington customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+For a longer job from Wilmington, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Wilmington customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. From Wilmington you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd. Wilmington is longshore, rail-yard and refinery country, and workers from all three come through the shop regularly.
+
 ## Wilmington window tint questions
 
 ### Is Wilmington close enough to get window tint done and go home the same afternoon?
 
-Yes. Wilmington is a few minutes from the Carson shop, so a morning appointment usually means the car is ready by early afternoon. Book ahead, drop the car or wait in the lobby, and plan on keeping the windows rolled up for a few days while the film cures.
+Yes. Wilmington is a few minutes from the Carson shop, so a morning appointment usually means the car is ready by early afternoon. Book ahead, drop the car or wait inside, and plan on keeping the windows rolled up for a few days while the film cures.
 
 ### How dark can I legally tint the front windows on a car registered in Wilmington?
 
@@ -45,7 +48,7 @@ We can. Rear sliders, quarter glass and tall cab windows are measured and quoted
 
 ## Window tint prices for Wilmington
 
-For a four-door car, Solar window tint is $249 installed and Solar Ceramic is $329 installed, as of October 2026. That covers four doors plus the back glass. Trucks, SUVs, Teslas and windshields are quoted at the shop once we see the glass. Payment plan available, ask Nick. Rated Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, by people who made the same short drive.
+For a four-door car, Solar window tint is $249 installed and Solar Ceramic is $329 installed, as of October 2026. That covers four doors plus the back glass. Trucks, SUVs, Teslas and windshields are quoted at the shop once we see the glass. Payment plan available, ask Nick. Rated Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, by people who made the same short drive.
 
 ## Window tint near Wilmington
 
@@ -58,7 +61,7 @@ Car stereo installation, Apple CarPlay and Android Auto installation, car alarm 
 
 ## Book window tint from Wilmington
 
-Call (310) 513-8800 or text (213) 429-1092 and tell us the year, make and model, then head to Audio MotorSports at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday to Saturday 9:30 to 6:00 and closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092 and tell us the year, make and model, then head to Audio MotorSports at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday to Saturday 9:30 to 6:00 and closed Sunday.
 
 ```json
 {
@@ -69,7 +72,7 @@ Call (310) 513-8800 or text (213) 429-1092 and tell us the year, make and model,
       "@id": "https://www.audiomotorsports.com/tint/window-tint-wilmington/#webpage",
       "url": "https://www.audiomotorsports.com/tint/window-tint-wilmington/",
       "name": "Wilmington Window Tint | LA Car Tint by Audio MotorSports",
-      "description": "Car window tint and ceramic window tint for Wilmington drivers, installed at Audio MotorSports in Carson, 3.3 miles away. Call (310) 513-8800 to book.",
+      "description": "Car window tint and ceramic window tint for Wilmington drivers, installed at Audio MotorSports in Carson, 3.3 miles away. Call (213) 429-1092 to book.",
       "dateModified": "2026-10-08",
       "about": {
         "@id": "https://www.audiomotorsports.com/#business"
@@ -111,7 +114,7 @@ Call (310) 513-8800 or text (213) 429-1092 and tell us the year, make and model,
           "name": "Is Wilmington close enough to get window tint done and go home the same afternoon?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. Wilmington is a few minutes from the Carson shop, so a morning appointment usually means the car is ready by early afternoon. Book ahead, drop the car or wait in the lobby, and plan on keeping the windows rolled up for a few days while the film cures."
+            "text": "Yes. Wilmington is a few minutes from the Carson shop, so a morning appointment usually means the car is ready by early afternoon. Book ahead, drop the car or wait inside, and plan on keeping the windows rolled up for a few days while the film cures."
           }
         },
         {

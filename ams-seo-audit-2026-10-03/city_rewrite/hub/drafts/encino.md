@@ -4,7 +4,7 @@ city: Encino
 miles: 30.9
 lead_service: Apple CarPlay and Android Auto installation
 title: CarPlay & Android Auto Installs, Encino | Audio MotorSports
-meta: Apple CarPlay and Android Auto installation, car window tint, stereo and alarm installs for Encino drivers at Audio MotorSports in Carson. Call (310) 513-8800.
+meta: Apple CarPlay and Android Auto installation, car window tint, stereo and alarm installs for Encino drivers at Audio MotorSports in Carson. Call (213) 429-1092.
 ---
 # Apple CarPlay and Android Auto Installation for Encino Drivers
 
@@ -22,9 +22,12 @@ Encino drivers make the trip to Audio MotorSports at 22025 S Avalon Blvd Ste A i
 
 **Dash camera installation.** Front and rear cameras on a hardwire kit for parking mode, cable routed behind the trim from windshield to tailgate.
 
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Encino, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. From Encino you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
+
 ## Encino to Carson
 
-Count on about 30.9 miles and a 62 to 74 minute drive (approx) outside rush hour. The shop opens Monday through Saturday at 9:30 and closes at 6:00, and it is closed on Sunday. Make an appointment first, then choose between waiting in the shop for a CarPlay deck or dropping the car for the day when tint or an alarm is added. People have come from Temecula for the same work, so Encino is a short hop by comparison. Encino drivers can read the record before they commit: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Count on about 30.9 miles and a 62 to 74 minute drive (approx) outside rush hour. The shop opens Monday through Saturday at 9:30 and closes at 6:00, and it is closed on Sunday. Make an appointment first, then choose between waiting in the shop for a CarPlay deck or dropping the car for the day when tint or an alarm is added. People have come from Temecula for the same work, so Encino is a short hop by comparison. Encino drivers can read the record before they commit: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 [SHOP NOTE: 2-3 sentences from Nick about Encino customers, routes or jobs]
 
@@ -68,7 +71,7 @@ Receivers, speaker replacement, amplifier installation, dash cameras and GPS tra
 
 ## Book CarPlay installation from Encino
 
-Call (310) 513-8800 or text (213) 429-1092 with your year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with your year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -79,7 +82,7 @@ Call (310) 513-8800 or text (213) 429-1092 with your year, make and model. Audio
    "@id": "https://www.audiomotorsports.com/encino/#webpage",
    "url": "https://www.audiomotorsports.com/encino/",
    "name": "CarPlay & Android Auto Installs, Encino | Audio MotorSports",
-   "description": "Apple CarPlay and Android Auto installation, car window tint, stereo and alarm installs for Encino drivers at Audio MotorSports in Carson. Call (310) 513-8800.",
+   "description": "Apple CarPlay and Android Auto installation, car window tint, stereo and alarm installs for Encino drivers at Audio MotorSports in Carson. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

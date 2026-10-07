@@ -5,7 +5,7 @@ miles: 36.5
 lead_service: Tesla window tint (new delivery)
 source: hub-mounted copy; standalone www host not verified
 title: New Tesla Delivery Tint for Azusa | Tesla Tint LA
-meta: Just took delivery in Azusa? Tesla window tint with ceramic film, cameras left clear, at Audio MotorSports in Carson, 36.5 miles away. Call (310) 513-8800 or text (213) 429-1092.
+meta: Just took delivery in Azusa? Tesla window tint with ceramic film, cameras left clear, at Audio MotorSports in Carson, 36.5 miles away. Call (213) 429-1092 or text (213) 429-1092.
 ---
 # Tesla Window Tint for Azusa: First Stop After Delivery
 
@@ -28,6 +28,9 @@ While the car is here, Audio MotorSports can also do a dash camera installation 
 It is about 36.5 miles, roughly 73 to 88 minutes outside rush hour (approx). Hours are Monday through Saturday, 9:30 AM to 6:00 PM, with Sunday closed. Schedule the appointment, then either wait at the shop or drop the car and make a day of it. Owners have come from as far as Temecula, so Azusa is a routine drive for this work.
 
 [SHOP NOTE: 2-3 sentences from Nick about Azusa customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Azusa drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. Coming from Azusa, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Azusa new-owner Tesla tint questions
 
@@ -53,7 +56,7 @@ It needs a thorough clean and a careful mask of the camera and sensor areas, but
 
 ## Pricing
 
-New or not, every Tesla is quoted by model at the shop; text the year and model for a figure. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+New or not, every Tesla is quoted by model at the shop; text the year and model for a figure. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near Azusa
 
@@ -65,7 +68,7 @@ New or not, every Tesla is quoted by model at the shop; text the year and model 
 
 ## Book from Azusa
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -76,7 +79,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-azusa/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-azusa/",
    "name": "New Tesla Delivery Tint for Azusa | Tesla Tint LA",
-   "description": "Just took delivery in Azusa? Tesla window tint with ceramic film, cameras left clear, at Audio MotorSports in Carson, 36.5 miles away. Call (310) 513-8800 or text (213) 429-1092.",
+   "description": "Just took delivery in Azusa? Tesla window tint with ceramic film, cameras left clear, at Audio MotorSports in Carson, 36.5 miles away. Call (213) 429-1092 or text (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

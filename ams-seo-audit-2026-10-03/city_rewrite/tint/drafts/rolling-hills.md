@@ -5,7 +5,7 @@ miles: 7.2
 lead_service: ceramic window tint (UV and interior protection angle)
 source: hub-mounted copy; standalone www host not verified
 title: Rolling Hills Window Tint | LA Car Tint by Audio MotorSports
-meta: Ceramic window tint for Rolling Hills drivers: UV protection and a factory look, by Audio MotorSports in Carson, 7.2 miles away. Call (310) 513-8800.
+meta: Ceramic window tint for Rolling Hills drivers: UV protection and a factory look, by Audio MotorSports in Carson, 7.2 miles away. Call (213) 429-1092.
 ---
 # Ceramic Window Tint for Rolling Hills Drivers
 
@@ -20,6 +20,9 @@ Rolling Hills drivers come to LA Car Tint at Audio MotorSports, 22025 S Avalon B
 ## Coming down from Rolling Hills
 
 The shop is about 7.2 miles from Rolling Hills, roughly a 14 to 17 minute drive (approx) outside rush hour. Schedule a time, then drop the car or settle in and wait; a sedan is typically a couple of hours. We are open Monday through Saturday 9:30 to 6:00 and closed on Sunday. [SHOP NOTE: 2-3 sentences from Nick about Rolling Hills customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Rolling Hills customers tell us makes the drop-off painless. Rolling Hills customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Rolling Hills traffic sends you.
 
 ## Common questions from Rolling Hills
 
@@ -45,7 +48,7 @@ Keep the windows up for a few days so the film can bond. You may notice slight h
 
 ## Rolling Hills tint pricing
 
-On a four-door car, Solar film is $249 installed and Solar Ceramic is $329 installed, as of October 2026, four doors and the back glass included. SUVs, coupes, Teslas and roof glass are quoted at the shop. A payment plan is available; ask Nick. As of October 2026 the shop is rated 4.8 on Google (650+ reviews) and 4.7 on Yelp (770+ reviews).
+On a four-door car, Solar film is $249 installed and Solar Ceramic is $329 installed, as of October 2026, four doors and the back glass included. SUVs, coupes, Teslas and roof glass are quoted at the shop. A payment plan is available; ask Nick. As of October 2026 the shop is rated 4.8 on Google (654 reviews) and 4.7 on Yelp (777 reviews).
 
 ## Nearby Peninsula cities
 
@@ -58,7 +61,7 @@ Head unit installation, Apple CarPlay and Android Auto installation, amplifier i
 
 ## Book your Rolling Hills tint
 
-Call (310) 513-8800 or send a text to (213) 429-1092 to pick a time, then come down to 22025 S Avalon Blvd Ste A, Carson, CA 90745, any Monday to Saturday between 9:30 and 6:00.
+Call (213) 429-1092 or send a text to (213) 429-1092 to pick a time, then come down to 22025 S Avalon Blvd Ste A, Carson, CA 90745, any Monday to Saturday between 9:30 and 6:00.
 
 ```json
 {
@@ -69,7 +72,7 @@ Call (310) 513-8800 or send a text to (213) 429-1092 to pick a time, then come d
       "@id": "https://www.audiomotorsports.com/tint/window-tint-rolling-hills/#webpage",
       "url": "https://www.audiomotorsports.com/tint/window-tint-rolling-hills/",
       "name": "Rolling Hills Window Tint | LA Car Tint by Audio MotorSports",
-      "description": "Ceramic window tint for Rolling Hills drivers: UV protection and a factory look, by Audio MotorSports in Carson, 7.2 miles away. Call (310) 513-8800.",
+      "description": "Ceramic window tint for Rolling Hills drivers: UV protection and a factory look, by Audio MotorSports in Carson, 7.2 miles away. Call (213) 429-1092.",
       "dateModified": "2026-10-08",
       "about": {
         "@id": "https://www.audiomotorsports.com/#business"

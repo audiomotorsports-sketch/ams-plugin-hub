@@ -4,7 +4,7 @@ city: La Crescenta-Montrose
 miles: 28.0
 lead_service: Harley bagger amplifier installation and tuning
 title: La Crescenta-Montrose Bagger Amp Install & Tuning | AMS Pods
-meta: Harley bagger amplifier installation and on-bike tuning with AMS pods for La Crescenta-Montrose riders. AMS Pods by Audio MotorSports, Carson. (310) 513-8800.
+meta: Harley bagger amplifier installation and on-bike tuning with AMS pods for La Crescenta-Montrose riders. AMS Pods by Audio MotorSports, Carson. (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Bagger Amplifier Installation and On-Bike Tuning for La Crescenta-Montrose
@@ -26,6 +26,9 @@ Audio MotorSports also installs car stereos, subwoofers, window tint, remote sta
 ## La Crescenta-Montrose to the shop
 
 The ride is 28.0 miles, roughly 56 to 67 minutes outside rush hour (approx). Call or text for an appointment, ride down, and leave the bike for the day or wait at the shop on a quick job. Mon-Sat 9:30-18:00, Sunday closed. Customers come to this shop from over 100 miles away, so the foothills are an easy trip. [SHOP NOTE: 2-3 sentences from Nick about La Crescenta-Montrose riders, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from La Crescenta-Montrose, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. La Crescenta-Montrose customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from La Crescenta-Montrose.
 
 ## Amplifier questions from La Crescenta-Montrose riders
 
@@ -54,7 +57,7 @@ Yes. We will say plainly whether it suits the pods and your deck before it goes 
 - AMS lower-fairing pods from $649 a pair, as of October 2026, chrome or gloss, hardware included.
 - Amplifiers, tuning, head units and speakers: quoted at the shop with the bike in front of us. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby cities
 
@@ -62,7 +65,7 @@ Pages for riders in [La Canada Flintridge](/amspods/bagger-audio-la-canada-flint
 
 ## Book the tune
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -73,7 +76,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-la-crescenta-montrose/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-la-crescenta-montrose/",
    "name": "La Crescenta-Montrose Bagger Amp Install & Tuning | AMS Pods",
-   "description": "Harley bagger amplifier installation and on-bike tuning with AMS pods for La Crescenta-Montrose riders. AMS Pods by Audio MotorSports, Carson. (310) 513-8800.",
+   "description": "Harley bagger amplifier installation and on-bike tuning with AMS pods for La Crescenta-Montrose riders. AMS Pods by Audio MotorSports, Carson. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

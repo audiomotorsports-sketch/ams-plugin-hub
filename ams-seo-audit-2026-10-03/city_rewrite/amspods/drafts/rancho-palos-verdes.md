@@ -4,7 +4,7 @@ city: Rancho Palos Verdes
 miles: 9.0
 lead_service: AMS pods install
 title: Rancho Palos Verdes AMS Pods Install | Harley Bagger Audio
-meta: AMS pods installed on Street Glide, Road Glide and Road King for Rancho Palos Verdes riders. Harley bagger audio by Audio MotorSports, Carson. (310) 513-8800.
+meta: AMS pods installed on Street Glide, Road Glide and Road King for Rancho Palos Verdes riders. Harley bagger audio by Audio MotorSports, Carson. (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # AMS Pods Installed for Rancho Palos Verdes Riders
@@ -26,6 +26,9 @@ Audio MotorSports also installs car stereos, Apple CarPlay, window tint, alarms 
 ## Rancho Palos Verdes to the shop
 
 It is 9.0 miles, around 18 to 22 minutes outside rush hour (approx). Make an appointment, ride in, and either leave the bike or wait at the shop while the pods go on. Hours: Mon-Sat 9:30-18:00, Sunday closed. [SHOP NOTE: 2-3 sentences from Nick about Rancho Palos Verdes riders, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Rancho Palos Verdes job is finished. The shop is LGBTQ-friendly and everyone from Rancho Palos Verdes is welcome, as our Google and Yelp listings state. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Rancho Palos Verdes.
 
 ## Pods questions from Rancho Palos Verdes
 
@@ -54,7 +57,7 @@ Riders come from well over 100 miles for pods, and the ride down the hill is one
 - AMS lower-fairing pods from $649 a pair, as of October 2026, chrome or gloss, hardware included.
 - Speakers, amplifier installation and head units are quoted on the bike at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby cities
 
@@ -62,7 +65,7 @@ Pages for riders in [Palos Verdes Estates](/amspods/bagger-audio-palos-verdes-es
 
 ## Order and book
 
-Call (310) 513-8800 or text (213) 429-1092 with your model year. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with your model year. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -73,7 +76,7 @@ Call (310) 513-8800 or text (213) 429-1092 with your model year. Audio MotorSpor
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-rancho-palos-verdes/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-rancho-palos-verdes/",
    "name": "Rancho Palos Verdes AMS Pods Install | Harley Bagger Audio",
-   "description": "AMS pods installed on Street Glide, Road Glide and Road King for Rancho Palos Verdes riders. Harley bagger audio by Audio MotorSports, Carson. (310) 513-8800.",
+   "description": "AMS pods installed on Street Glide, Road Glide and Road King for Rancho Palos Verdes riders. Harley bagger audio by Audio MotorSports, Carson. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

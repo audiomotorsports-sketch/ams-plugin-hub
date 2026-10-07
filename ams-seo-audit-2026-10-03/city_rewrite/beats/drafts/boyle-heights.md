@@ -6,7 +6,7 @@ lead_service: car stereo installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Boyle Heights Car Stereo Installation | LA Car Beats
-meta: Car stereo installation and head unit installation for Boyle Heights at LA Car Beats by Audio MotorSports in Carson, 14.3 miles. Call (310) 513-8800.
+meta: Car stereo installation and head unit installation for Boyle Heights at LA Car Beats by Audio MotorSports in Carson, 14.3 miles. Call (213) 429-1092.
 ---
 # Car Stereo Installation for Boyle Heights
 
@@ -22,7 +22,10 @@ Boyle Heights drivers who want a new radio that works like it came from the fact
 
 ## Boyle Heights to the shop
 
-Boyle Heights to the Carson bay is about 14.3 miles, roughly 29 to 34 minutes outside rush hour (approx). Get on the schedule at (310) 513-8800 or by text at (213) 429-1092. Wait on a head unit install, or drop off for a head unit plus sub and speakers and pick up later that day. Monday through Saturday 9:30 to 6:00, closed Sunday. [SHOP NOTE: 2-3 sentences from Nick about Boyle Heights customers, routes or jobs]
+Boyle Heights to the Carson bay is about 14.3 miles, roughly 29 to 34 minutes outside rush hour (approx). Get on the schedule at (213) 429-1092 or by text at (213) 429-1092. Wait on a head unit install, or drop off for a head unit plus sub and speakers and pick up later that day. Monday through Saturday 9:30 to 6:00, closed Sunday. [SHOP NOTE: 2-3 sentences from Nick about Boyle Heights customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Boyle Heights, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. Coming from Boyle Heights, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Boyle Heights stereo questions
 
@@ -48,7 +51,7 @@ Car stereo installation still works, with the right integration harness so the f
 
 ## Boyle Heights pricing
 
-Dual Kicker Comp loaded box: $249, box only, as of October 2026. Car stereo installation, Apple CarPlay and Android Auto installation, subwoofer installation, speaker replacement and amplifier installation on a Boyle Heights car get a quote once we see it. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation, Tesla window tint and Harley bagger audio share the same bay.
+Dual Kicker Comp loaded box: $249, box only, as of October 2026. Car stereo installation, Apple CarPlay and Android Auto installation, subwoofer installation, speaker replacement and amplifier installation on a Boyle Heights car get a quote once we see it. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation, Tesla window tint and Harley bagger audio share the same bay.
 
 ## Near Boyle Heights
 
@@ -56,7 +59,7 @@ LA Car Beats pages for surrounding areas: [East Los Angeles](/beats/car-stereo-e
 
 ## Book from Boyle Heights
 
-Send the year, make, model and trim and the parts will be ready when you arrive. Call (310) 513-8800 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Send the year, make, model and trim and the parts will be ready when you arrive. Call (213) 429-1092 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -67,7 +70,7 @@ Send the year, make, model and trim and the parts will be ready when you arrive.
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-boyle-heights/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-boyle-heights/",
    "name": "Boyle Heights Car Stereo Installation | LA Car Beats",
-   "description": "Car stereo installation and head unit installation for Boyle Heights at LA Car Beats by Audio MotorSports in Carson, 14.3 miles. Call (310) 513-8800.",
+   "description": "Car stereo installation and head unit installation for Boyle Heights at LA Car Beats by Audio MotorSports in Carson, 14.3 miles. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

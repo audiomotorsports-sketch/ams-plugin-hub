@@ -6,7 +6,7 @@ lead_service: speaker replacement and amplifier installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Speaker & Amplifier Installation for Bell | LA Car Beats
-meta: Speaker replacement and amplifier installation for Bell drivers at LA Car Beats by Audio MotorSports in Carson, 11.3 miles out. Call (310) 513-8800.
+meta: Speaker replacement and amplifier installation for Bell drivers at LA Car Beats by Audio MotorSports in Carson, 11.3 miles out. Call (213) 429-1092.
 ---
 # Speaker Replacement and Amplifier Installation for Bell
 
@@ -22,7 +22,10 @@ Bell drivers who want their music clear at freeway volume come to LA Car Beats f
 
 ## Bell to the Carson bay
 
-Bell is about 11.3 miles from the shop, roughly 23 to 27 minutes outside rush hour (approx). Book by calling (310) 513-8800 or texting (213) 429-1092. Front speakers alone can be waited on; speakers plus an amplifier is a drop-off and we text when it is done. Open Monday to Saturday 9:30 to 6:00, closed Sunday. Customers come from over 100 miles for this work, so Bell is an easy morning.
+Bell is about 11.3 miles from the shop, roughly 23 to 27 minutes outside rush hour (approx). Book by calling (213) 429-1092 or texting (213) 429-1092. Front speakers alone can be waited on; speakers plus an amplifier is a drop-off and we text when it is done. Open Monday to Saturday 9:30 to 6:00, closed Sunday. Customers come from over 100 miles for this work, so Bell is an easy morning.
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Bell, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Bell customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Bell traffic sends you.
 
 ## Questions from Bell
 
@@ -48,7 +51,7 @@ If the amp is fed by a line-output converter from a factory radio, a head unit w
 
 ## Bell pricing
 
-Dual Kicker Comp loaded box: $249 box only, as of October 2026. Speaker replacement, amplifier installation, car stereo installation, subwoofer installation and Apple CarPlay and Android Auto installation are priced at the shop for your exact car. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. One line on the rest: window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation, Tesla window tint and Harley bagger audio are all booked through the same counter.
+Dual Kicker Comp loaded box: $249 box only, as of October 2026. Speaker replacement, amplifier installation, car stereo installation, subwoofer installation and Apple CarPlay and Android Auto installation are priced at the shop for your exact car. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. One line on the rest: window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation, Tesla window tint and Harley bagger audio are all booked through the same counter.
 
 ## Near Bell
 
@@ -56,7 +59,7 @@ Other LA Car Beats pages in the area: [Cudahy](/beats/car-stereo-cudahy/) · [al
 
 ## Book speaker and amp work from Bell
 
-Text the vehicle and what is already installed so we can spec the amp and speakers as a set. Call (310) 513-8800 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Text the vehicle and what is already installed so we can spec the amp and speakers as a set. Call (213) 429-1092 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -67,7 +70,7 @@ Text the vehicle and what is already installed so we can spec the amp and speake
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-bell/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-bell/",
    "name": "Speaker & Amplifier Installation for Bell | LA Car Beats",
-   "description": "Speaker replacement and amplifier installation for Bell drivers at LA Car Beats by Audio MotorSports in Carson, 11.3 miles out. Call (310) 513-8800.",
+   "description": "Speaker replacement and amplifier installation for Bell drivers at LA Car Beats by Audio MotorSports in Carson, 11.3 miles out. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

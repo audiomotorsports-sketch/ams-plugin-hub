@@ -4,7 +4,7 @@ city: Rolling Hills Estates
 miles: 6.0
 lead_service: work-truck security
 title: Work Truck Alarms Rolling Hills Estates | LA Car Alarm
-meta: Work-truck security, car alarm installation and GPS trackers for Rolling Hills Estates, done at Audio MotorSports in Carson, 6 miles away. Call (310) 513-8800.
+meta: Work-truck security, car alarm installation and GPS trackers for Rolling Hills Estates, done at Audio MotorSports in Carson, 6 miles away. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Work-Truck Security and Car Alarm Installation for Rolling Hills Estates
@@ -25,6 +25,9 @@ The same bay also does ceramic window tint, car audio and Tesla window tint, so 
 The shop is about 6 miles out, which is a 12- to 14-minute drive (approx) outside of rush hour. Make an appointment, then either drop the truck and get on with the day or wait at the shop while the crew works. Monday through Saturday, 9:30 AM to 6:00 PM; closed Sundays.
 
 [SHOP NOTE: 2-3 sentences from Nick about Rolling Hills Estates customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Rolling Hills Estates, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. From Rolling Hills Estates you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Rolling Hills Estates questions
 
@@ -60,7 +63,7 @@ As of October 2026, the Viper 3108V alarm is $269 installed at the shop in Carso
 
 ## Book it
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

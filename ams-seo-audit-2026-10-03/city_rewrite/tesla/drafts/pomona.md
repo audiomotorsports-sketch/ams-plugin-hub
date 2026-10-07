@@ -4,7 +4,7 @@ city: Pomona
 miles: 41.6
 lead_service: Tesla window tint (glass roof heat)
 title: Pomona Tesla Roof & Window Tint | Tesla Tint LA, Carson
-meta: Tesla glass roof and window tint for Pomona owners at Tesla Tint LA by Audio MotorSports in Carson, 41.6 miles away. Ceramic film, every model. Call (310) 513-8800.
+meta: Tesla glass roof and window tint for Pomona owners at Tesla Tint LA by Audio MotorSports in Carson, 41.6 miles away. Ceramic film, every model. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla Window Tint for Pomona: Take the Heat Out of the Glass Roof
@@ -24,6 +24,9 @@ Pomona summers are hard on a Tesla's glass roof, and that is the job Pomona owne
 ## The drive from Pomona
 
 About 41.6 miles, so plan on roughly an hour and twenty-five minutes to an hour and forty outside rush hour (approx). The shop is open Monday to Saturday 9:30 to 6:00 and closed Sunday. Book ahead, then wait at the shop or drop the car and spend a few hours near the coast. [SHOP NOTE: 2-3 sentences from Nick about Pomona customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Pomona customers tell us makes the drop-off painless. The shop is LGBTQ-friendly and everyone from Pomona is welcome, as our Google and Yelp listings state. Coming from Pomona, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Pomona Tesla roof tint questions
 
@@ -49,7 +52,7 @@ No. Ceramic film has no metal layer, so the phone key, card reader and the car's
 
 ## Prices
 
-Roof and full Tesla tint are quoted by model at the shop, since each model's glass is different. The non-Tesla reference at the same bay is Solar $249 or Solar Ceramic $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Roof and full Tesla tint are quoted by model at the shop, since each model's glass is different. The non-Tesla reference at the same bay is Solar $249 or Solar Ceramic $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby Tesla tint pages
 
@@ -57,7 +60,7 @@ Roof and full Tesla tint are quoted by model at the shop, since each model's gla
 
 ## Book the roof
 
-Call (310) 513-8800 or text (213) 429-1092 with the model and year. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the model and year. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

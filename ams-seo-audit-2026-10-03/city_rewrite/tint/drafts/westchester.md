@@ -4,7 +4,7 @@ city: Westchester
 miles: 12.1
 lead_service: car window tint (airport-area commuters)
 title: Car Window Tint Westchester | LA Car Tint, Carson
-meta: Car window tint and ceramic film for Westchester drivers, hand-cut and installed by Audio MotorSports in Carson, 12.1 miles away. Call (310) 513-8800 to book.
+meta: Car window tint and ceramic film for Westchester drivers, hand-cut and installed by Audio MotorSports in Carson, 12.1 miles away. Call (213) 429-1092 to book.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Window Tint for Westchester, by Audio MotorSports in Carson
@@ -26,6 +26,9 @@ About 12.1 miles, roughly twenty-five minutes (approx) outside the commute. We a
 
 [SHOP NOTE: 2-3 sentences from Nick about Westchester customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Westchester customers tell us makes the drop-off painless. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Westchester.
+
 ## Westchester questions
 
 ### How quickly can a Westchester driver get in for window tint?
@@ -34,7 +37,7 @@ Book by phone or text and we will give you the next open time. Once you arrive t
 
 ### Why choose Audio MotorSports over a tint shop closer to Westchester?
 
-The work is hand-cut and sealed at the edge, and the reviews are public: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Twenty-five minutes for film that does not have to be redone is a fair trade.
+The work is hand-cut and sealed at the edge, and the reviews are public: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Twenty-five minutes for film that does not have to be redone is a fair trade.
 
 ### Does ceramic tint block heat without going dark?
 
@@ -62,7 +65,7 @@ Solar window tinting $249 installed; Solar Ceramic window tinting $329 installed
 
 ## Book it
 
-Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
+Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
 
 ```json
 {
@@ -73,7 +76,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-westchester/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-westchester/",
    "name": "Car Window Tint Westchester | LA Car Tint, Carson",
-   "description": "Car window tint and ceramic film for Westchester drivers, hand-cut and installed by Audio MotorSports in Carson, 12.1 miles away. Call (310) 513-8800 to book.",
+   "description": "Car window tint and ceramic film for Westchester drivers, hand-cut and installed by Audio MotorSports in Carson, 12.1 miles away. Call (213) 429-1092 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -121,7 +124,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "Why choose Audio MotorSports over a tint shop closer to Westchester?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "The work is hand-cut and sealed at the edge, and the reviews are public: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Twenty-five minutes for film that does not have to be redone is a fair trade."
+      "text": "The work is hand-cut and sealed at the edge, and the reviews are public: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Twenty-five minutes for film that does not have to be redone is a fair trade."
      }
     },
     {

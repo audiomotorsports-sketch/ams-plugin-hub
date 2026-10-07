@@ -4,7 +4,7 @@ city: Sierra Madre
 miles: 32.3
 lead_service: Apple CarPlay and Android Auto installation
 title: Sierra Madre CarPlay Installation | LA Car Beats, Carson
-meta: Apple CarPlay and Android Auto installation for Sierra Madre drivers at LA Car Beats by Audio MotorSports in Carson. Camera kept. Call (310) 513-8800.
+meta: Apple CarPlay and Android Auto installation for Sierra Madre drivers at LA Car Beats by Audio MotorSports in Carson. Camera kept. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Apple CarPlay and Android Auto Installation for Sierra Madre
@@ -24,6 +24,9 @@ Sierra Madre drivers add Apple CarPlay and Android Auto at LA Car Beats, the car
 ## Sierra Madre to Carson
 
 Sierra Madre to the shop is about 32.3 miles, roughly 65 to 78 minutes outside rush hour (approx). Book ahead and text the year, make and model so the head unit, kit and interface are ready, then drop the car for the day or wait while it is installed. Hours: Monday through Saturday 9:30-18:00, closed Sunday. Customers have driven in from San Diego and called from as far as San Jose, so Sierra Madre is an easy one for us.
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Sierra Madre customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. Sierra Madre customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. From Sierra Madre you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Sierra Madre CarPlay questions
 
@@ -49,7 +52,7 @@ It is the best time. Speaker replacement during car stereo installation uses the
 
 ## Sierra Madre pricing
 
-The Dual Kicker Comp loaded subwoofer box is $249, box only, as of October 2026. Apple CarPlay and Android Auto installation, head unit installation, speaker replacement, subwoofer installation and amplifier installation are quoted at the shop once we see the car; payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Window tint, Tesla window tint, car alarm installation, remote start installation, GPS tracker installation and dash camera installation are available in the same bay.
+The Dual Kicker Comp loaded subwoofer box is $249, box only, as of October 2026. Apple CarPlay and Android Auto installation, head unit installation, speaker replacement, subwoofer installation and amplifier installation are quoted at the shop once we see the car; payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Window tint, Tesla window tint, car alarm installation, remote start installation, GPS tracker installation and dash camera installation are available in the same bay.
 
 ## Nearby cities
 
@@ -62,7 +65,7 @@ LA Car Beats pages for areas near Sierra Madre:
 
 ## Book CarPlay installation
 
-Phone (310) 513-8800 or text (213) 429-1092 to schedule. LA Car Beats, Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday-Saturday 9:30-18:00; closed Sunday.
+Phone (213) 429-1092 or text (213) 429-1092 to schedule. LA Car Beats, Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday-Saturday 9:30-18:00; closed Sunday.
 
 ```json
 {
@@ -73,7 +76,7 @@ Phone (310) 513-8800 or text (213) 429-1092 to schedule. LA Car Beats, Audio Mot
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-sierra-madre/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-sierra-madre/",
    "name": "Sierra Madre CarPlay Installation | LA Car Beats, Carson",
-   "description": "Apple CarPlay and Android Auto installation for Sierra Madre drivers at LA Car Beats by Audio MotorSports in Carson. Camera kept. Call (310) 513-8800.",
+   "description": "Apple CarPlay and Android Auto installation for Sierra Madre drivers at LA Car Beats by Audio MotorSports in Carson. Camera kept. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

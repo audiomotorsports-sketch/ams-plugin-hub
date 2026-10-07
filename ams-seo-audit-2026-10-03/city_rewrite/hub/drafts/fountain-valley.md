@@ -4,7 +4,7 @@ city: Fountain Valley
 miles: 19.7
 lead_service: Car window tint
 title: Car Window Tint & Audio, Fountain Valley | Audio MotorSports
-meta: Car window tint, ceramic tint, car stereo installation and alarm installs for Fountain Valley drivers at Audio MotorSports in Carson. Call (310) 513-8800.
+meta: Car window tint, ceramic tint, car stereo installation and alarm installs for Fountain Valley drivers at Audio MotorSports in Carson. Call (213) 429-1092.
 ---
 # Car Window Tint for Fountain Valley Drivers
 
@@ -22,9 +22,12 @@ Fountain Valley drivers make the trip to Audio MotorSports, 22025 S Avalon Blvd 
 
 **GPS tracker installation and dash camera installation.** Trackers hidden and on constant power, dash cams hardwired for parking mode.
 
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Fountain Valley customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Coming from Fountain Valley, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
+
 ## Fountain Valley to Carson
 
-Plan on about 19.7 miles and roughly 39 to 47 minutes (approx) in light traffic. A customer drove up from San Diego for tint, so Fountain Valley is a comfortable trip. Hours are Monday through Saturday 9:30 AM to 6:00 PM, closed Sunday. Set an appointment, then drop the car or wait at the shop while the film goes on. Call (310) 513-8800 or text (213) 429-1092 with your year, make and model. Before the drive, Fountain Valley drivers can read Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Plan on about 19.7 miles and roughly 39 to 47 minutes (approx) in light traffic. A customer drove up from San Diego for tint, so Fountain Valley is a comfortable trip. Hours are Monday through Saturday 9:30 AM to 6:00 PM, closed Sunday. Set an appointment, then drop the car or wait at the shop while the film goes on. Call (213) 429-1092 or text (213) 429-1092 with your year, make and model. Before the drive, Fountain Valley drivers can read Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 [SHOP NOTE: 2-3 sentences from Nick about Fountain Valley customers, routes or jobs]
 
@@ -71,7 +74,7 @@ Stereo, amp, CarPlay, GPS and dash camera jobs are quoted after we look at the c
 
 ## Book window tint from Fountain Valley
 
-Call (310) 513-8800. Text (213) 429-1092 with the car. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745; hours Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092. Text (213) 429-1092 with the car. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745; hours Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -82,7 +85,7 @@ Call (310) 513-8800. Text (213) 429-1092 with the car. Audio MotorSports, 22025 
    "@id": "https://www.audiomotorsports.com/fountain-valley/#webpage",
    "url": "https://www.audiomotorsports.com/fountain-valley/",
    "name": "Car Window Tint & Audio, Fountain Valley | Audio MotorSports",
-   "description": "Car window tint, ceramic tint, car stereo installation and alarm installs for Fountain Valley drivers at Audio MotorSports in Carson. Call (310) 513-8800.",
+   "description": "Car window tint, ceramic tint, car stereo installation and alarm installs for Fountain Valley drivers at Audio MotorSports in Carson. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

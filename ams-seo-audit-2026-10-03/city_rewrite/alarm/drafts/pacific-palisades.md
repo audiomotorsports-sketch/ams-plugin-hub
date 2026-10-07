@@ -4,7 +4,7 @@ city: Pacific Palisades
 miles: 21.4
 lead_service: Viper alarm installation
 title: Viper Alarm Installation Pacific Palisades | LA Car Alarm
-meta: Viper alarm installation for Pacific Palisades drivers at LA Car Alarm by Audio MotorSports, Carson, 21.4 miles. Remote start, GPS. Call (310) 513-8800.
+meta: Viper alarm installation for Pacific Palisades drivers at LA Car Alarm by Audio MotorSports, Carson, 21.4 miles. Remote start, GPS. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Viper Alarm Installation for Pacific Palisades Drivers
@@ -22,6 +22,9 @@ Pacific Palisades drivers travel about 21.4 miles to LA Car Alarm at Audio Motor
 **Dash camera installation.** Fused hardwire kit, cable in the headliner, parking mode on, cutoff set.
 
 Ceramic window tint and a CarPlay head unit can join the same appointment so the drive counts once.
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Pacific Palisades customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Coming from Pacific Palisades, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Pacific Palisades to Carson
 
@@ -56,7 +59,7 @@ Customers have come from Temecula for the same install, so the drive from the Pa
 
 Sensors, trackers and dash cameras are quoted on the vehicle at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby alarm pages
 
@@ -67,7 +70,7 @@ Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
 
 ## Reserve a Pacific Palisades appointment
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make and model so the right interface is on hand. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make and model so the right interface is on hand. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

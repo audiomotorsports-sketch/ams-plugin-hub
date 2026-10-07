@@ -1,62 +1,71 @@
 ---
-url: https://www.audiomotorsports.com/lomita/
+url: https://www.audiomotorsports.com/amspods/bagger-audio-lomita/
 city: Lomita
 miles: 3.7
-lead_service: Tesla window tint
-title: Tesla Window Tint & Car Audio for Lomita | Audio MotorSports
-meta: Tesla window tint, ceramic tint, car audio and alarms for Lomita drivers at Audio MotorSports in Carson, 3.7 miles away. Call (310) 513-8800 to book.
+lead_service: amplifier installation and tuning
+title: Harley Bagger Audio Lomita | AMS Pods
+meta: Amplifier installation and tuning for Lomita Harley baggers, plus AMS lower-fairing pods, at AMS Pods by Audio MotorSports in Carson. Call (213) 429-1092.
+source: hub-mounted copy; standalone www host not verified
 ---
-# Tesla Window Tint and Car Audio for Lomita Drivers
+# Amplifier Installation and Tuning for Lomita Baggers
 
-Audio MotorSports tints Teslas, installs car stereos and fits alarms for Lomita owners from one bay in Carson at 22025 S Avalon Blvd Ste A, about 3.7 miles from Lomita. Tesla window tint is the job Lomita drivers ask about most, and the glass roof, the big rear hatch and the camera housings all get handled in the same visit.
+Lomita riders are 3.7 miles from AMS Pods, the Harley-Davidson bagger audio bay inside Audio MotorSports at 22025 S Avalon Blvd Ste A, Carson. The job booked most from this close is amplifier installation and tuning: real power behind the fairing speakers and the pods on a Street Glide, Road Glide or Road King, set up with the engine running.
 
-## What Lomita drivers bring us
+## What Lomita riders bring us
 
-**Tesla window tint.** Model 3, Model Y and Model S glass is large and curved, and the film has to clear the cameras and the rear defroster lines without lifting. We cut each panel on glass and shrink it to the curve, so the edge sits tight at the gasket.
+**Amplifier installation on the bike.** On the Glides the amp mounts in the fairing and the power wire is pulled under the tank, fused at the battery, with no shortcut across the frame. On a Road King the amp lives in a saddlebag on a carpeted board with an AMS quick disconnect.
 
-**Ceramic window tint for everything else.** Car window tint here means film hand-cut on your glass, not a plotter pattern. Solar film cuts glare and heat; Solar Ceramic adds the infrared rejection that keeps a black interior from cooking on a sunny afternoon. Both run four doors plus the back glass.
+**Tuning with the engine running.** Gains, crossover points and levels are set at idle and then checked at road speed with the fairing closed. That is what keeps the system clear instead of harsh.
 
-**Apple CarPlay and Android Auto installation.** A Lomita daily driver usually wants CarPlay or Android Auto without losing the factory backup camera or steering-wheel buttons. We pick the head unit and the integration module together so nothing gets orphaned.
+**AMS lower-fairing pods.** The pods are made in the Carson shop, chrome or gloss, bracket and screws included, and a properly set amp is what makes them worth having.
 
-**Viper alarm installation and remote start installation.** A Viper alarm or a Compustar remote start, wired clean and tied in so it cannot be defeated from the fuse box, with the door panels closing the way they did from the factory.
+**Speaker replacement.** Hertz Neo speakers in the fairing and the pods, matched to the amplifier's output so nothing gets overdriven.
 
-**Dash camera installation and GPS tracker installation.** Hardwired to a fuse tap, cable hidden behind the trim, nothing dangling off the windshield.
+The car side of the building does ceramic window tint, car stereo installation, CarPlay and Android Auto, Viper and Compustar alarms, remote start, GPS trackers and dash cameras.
 
-## Getting here from Lomita
+## The short ride from Lomita
 
-Lomita sits about 3.7 miles from the shop, which works out to roughly a 7 to 9 minute drive outside rush hour (approx). Hours are Mon-Sat 9:30-18:00, Sunday closed. Schedule a time, then either leave the car with us and go about your day or wait in the shop while the work gets done. [SHOP NOTE: 2-3 sentences from Nick about Lomita customers, routes or jobs]
+At 3.7 miles, Lomita to the shop is about 7 to 9 minutes outside rush hour (approx), a quick surface-street hop. Make an appointment, ride over, and leave the bike for the day or wait at the shop while the amp goes in and gets tuned. Hours run Monday through Saturday 9:30 AM to 6:00 PM, Sunday closed. Customers have called from as far as San Jose about this install; from Lomita you could be back home before lunch. [SHOP NOTE: 2-3 sentences from Nick about Lomita riders, routes or jobs]
 
-### Can I get my Tesla tinted the same day I drive in from Lomita?
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Lomita customers tell us makes the drop-off painless. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Lomita traffic sends you. Lomita customers include port and refinery workers on shift schedules, so early drop-offs are normal here.
 
-Yes, if you book first. A Tesla tint on four doors and the rear glass is a same-day job, and Lomita is close enough that you can drop the car, run errands and be back before we finish. Walk-ins get worked in when the bay is open, but a scheduled slot is the sure thing. Reviews stand at Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+## Questions Lomita riders ask
 
-### Does ceramic tint make a real difference in a Tesla with a glass roof?
+### Why is the amp tuned with the engine running instead of on a bench?
 
-It does. The factory glass already blocks some UV, but it lets a lot of heat through, and the interior warms fast when parked. Solar Ceramic film adds infrared rejection on the side and rear glass, which is where most of the cabin heat enters while you drive.
+Because the charging system, vibration and exhaust note are the conditions the amp will live in. Gains set in a quiet shop end up wrong on the road. The shop sets levels with the engine on and the fairing closed, then rides the bike to confirm nothing clips.
 
-### Does a head unit installation keep my steering-wheel controls working?
+### Can a Lomita rider bring an amp bought online for the shop to install?
 
-Yes. We use an integration interface matched to your year, make and model, so volume, track and voice buttons keep working on the new head unit. The factory camera and the parking sensors stay too. Bring the car and we confirm the exact parts before anything is pulled apart.
+You can ask, and Nick will tell you honestly whether it suits the bike and the speakers. The reason to ride in is the installation and tuning, not the box. A mismatched amp installed perfectly still sounds wrong, so expect a straight answer before any wiring starts.
 
-### Is driving from Lomita to Carson worth it for a car alarm?
+### What is a tank pull and why does the power run need it?
 
-For a short hop like this, absolutely. The Viper 3108V alarm is $269 installed as of October 2026, and the install is done in one visit. Owners already drive to this bay from well over 100 miles away, so a few minutes from Lomita is an easy call.
+The tank is lifted so the power and signal wires can route cleanly from the battery to the fairing amp without being pinched or laid across hot or moving parts. It takes longer than draping a wire over the frame, and it is the difference between a clean install and a future fault.
 
-### What is the turnaround on a Compustar remote start installation?
+### How is a Road King amp mounted when there is no fairing?
 
-Most Compustar remote start installs are finished the same day, often in a few hours depending on the vehicle and whether we add an alarm at the same time. Push-button start cars take a bit longer because of the bypass module. Schedule it and we will tell you an honest time.
+It goes in a saddlebag on a carpeted board with an AMS quick disconnect at the bag. Pull the plug and the bag lifts off like stock while the pods and fairing speakers keep playing. Power still comes off the battery with a fuse at the source.
+
+### Is it practical for Lomita riders to stage the work over two visits?
+
+Very. Being this close, many riders have the amplifier and speakers done first, order the pods at that visit, and come back three weeks later for the pods fitting and a final tune. Each stage sounds complete on its own, and nothing has to be redone.
 
 ## Prices as of October 2026
 
-Window tint runs Solar $249 or Solar Ceramic $329 installed. The Viper 3108V alarm is $269 installed and the Compustar 9910 remote start starts from $499. Tesla tint and anything not listed here is quoted at the shop by year, make and model. Payment plan available, ask Nick.
+- AMS lower-fairing pods: from $649 a pair, chrome or gloss, bracket and screws included, as of October 2026.
+- Amplifier installation and tuning, speaker replacement, head units and Road King bag amps are quoted on the bike at the shop. Payment plan available, ask Nick.
 
-## Nearby cities we also serve
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
-[Torrance](/torrance/) · [Harbor City](/harbor-city/) · [Wilmington](/wilmington/) · [Rolling Hills Estates](/rolling-hills-estates/) · [West Carson](/west-carson/)
+## Nearby cities
 
-## Book your Lomita visit
+More AMS Pods pages close to Lomita: [Harbor City](/amspods/bagger-audio-harbor-city/), [West Carson](/amspods/bagger-audio-west-carson/), [Wilmington](/amspods/bagger-audio-wilmington/), [Torrance](/amspods/bagger-audio-torrance/) and [Rolling Hills Estates](/amspods/bagger-audio-rolling-hills-estates/).
 
-Call (310) 513-8800 or text your year, make and model to (213) 429-1092. The shop is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00 and closed Sunday.
+## Book an amp install
+
+Call (213) 429-1092 or text (213) 429-1092 with the bike's year and whether the radio is stock. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -64,21 +73,18 @@ Call (310) 513-8800 or text your year, make and model to (213) 429-1092. The sho
  "@graph": [
   {
    "@type": "WebPage",
-   "@id": "https://www.audiomotorsports.com/lomita/#webpage",
-   "url": "https://www.audiomotorsports.com/lomita/",
-   "name": "Tesla Window Tint & Car Audio for Lomita | Audio MotorSports",
-   "description": "Tesla window tint, ceramic tint, car audio and alarms for Lomita drivers at Audio MotorSports in Carson, 3.7 miles away. Call (310) 513-8800 to book.",
+   "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-lomita/#webpage",
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-lomita/",
+   "name": "Harley Bagger Audio Lomita | AMS Pods",
+   "description": "Amplifier installation and tuning for Lomita Harley baggers, plus AMS lower-fairing pods, at AMS Pods by Audio MotorSports in Carson. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
-   },
-   "isPartOf": {
-    "@id": "https://www.audiomotorsports.com/#website"
    }
   },
   {
    "@type": "BreadcrumbList",
-   "@id": "https://www.audiomotorsports.com/lomita/#breadcrumb",
+   "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-lomita/#breadcrumb",
    "itemListElement": [
     {
      "@type": "ListItem",
@@ -90,58 +96,58 @@ Call (310) 513-8800 or text your year, make and model to (213) 429-1092. The sho
      "@type": "ListItem",
      "position": 2,
      "name": "Locations",
-     "item": "https://www.audiomotorsports.com/amspods/"
+     "item": "https://www.audiomotorsports.com/locations/"
     },
     {
      "@type": "ListItem",
      "position": 3,
      "name": "Lomita",
-     "item": "https://www.audiomotorsports.com/lomita/"
+     "item": "https://www.audiomotorsports.com/amspods/bagger-audio-lomita/"
     }
    ]
   },
   {
    "@type": "FAQPage",
-   "@id": "https://www.audiomotorsports.com/lomita/#faq",
+   "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-lomita/#faq",
    "mainEntity": [
     {
      "@type": "Question",
-     "name": "Can I get my Tesla tinted the same day I drive in from Lomita?",
+     "name": "Why is the amp tuned with the engine running instead of on a bench?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes, if you book first. A Tesla tint on four doors and the rear glass is a same-day job, and Lomita is close enough that you can drop the car, run errands and be back before we finish. Walk-ins get worked in when the bay is open, but a scheduled slot is the sure thing. Reviews stand at Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026."
+      "text": "Because the charging system, vibration and exhaust note are the conditions the amp will live in. Gains set in a quiet shop end up wrong on the road. The shop sets levels with the engine on and the fairing closed, then rides the bike to confirm nothing clips."
      }
     },
     {
      "@type": "Question",
-     "name": "Does ceramic tint make a real difference in a Tesla with a glass roof?",
+     "name": "Can a Lomita rider bring an amp bought online for the shop to install?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "It does. The factory glass already blocks some UV, but it lets a lot of heat through, and the interior warms fast when parked. Solar Ceramic film adds infrared rejection on the side and rear glass, which is where most of the cabin heat enters while you drive."
+      "text": "You can ask, and Nick will tell you honestly whether it suits the bike and the speakers. The reason to ride in is the installation and tuning, not the box. A mismatched amp installed perfectly still sounds wrong, so expect a straight answer before any wiring starts."
      }
     },
     {
      "@type": "Question",
-     "name": "Does a head unit installation keep my steering-wheel controls working?",
+     "name": "What is a tank pull and why does the power run need it?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. We use an integration interface matched to your year, make and model, so volume, track and voice buttons keep working on the new head unit. The factory camera and the parking sensors stay too. Bring the car and we confirm the exact parts before anything is pulled apart."
+      "text": "The tank is lifted so the power and signal wires can route cleanly from the battery to the fairing amp without being pinched or laid across hot or moving parts. It takes longer than draping a wire over the frame, and it is the difference between a clean install and a future fault."
      }
     },
     {
      "@type": "Question",
-     "name": "Is driving from Lomita to Carson worth it for a car alarm?",
+     "name": "How is a Road King amp mounted when there is no fairing?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "For a short hop like this, absolutely. The Viper 3108V alarm is $269 installed as of October 2026, and the install is done in one visit. Owners already drive to this bay from well over 100 miles away, so a few minutes from Lomita is an easy call."
+      "text": "It goes in a saddlebag on a carpeted board with an AMS quick disconnect at the bag. Pull the plug and the bag lifts off like stock while the pods and fairing speakers keep playing. Power still comes off the battery with a fuse at the source."
      }
     },
     {
      "@type": "Question",
-     "name": "What is the turnaround on a Compustar remote start installation?",
+     "name": "Is it practical for Lomita riders to stage the work over two visits?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Most Compustar remote start installs are finished the same day, often in a few hours depending on the vehicle and whether we add an alarm at the same time. Push-button start cars take a bit longer because of the bypass module. Schedule it and we will tell you an honest time."
+      "text": "Very. Being this close, many riders have the amplifier and speakers done first, order the pods at that visit, and come back three weeks later for the pods fitting and a final tune. Each stage sounds complete on its own, and nothing has to be redone."
      }
     }
    ]
@@ -149,7 +155,6 @@ Call (310) 513-8800 or text your year, make and model to (213) 429-1092. The sho
  ]
 }
 ```
-
 [CONFIRM]
-- SHOP NOTE slot in the route block (Nick: Lomita customers, routes or jobs).
-- Drive time: 7-9 minutes computed at 25-30 mph from the 3.7-mile figure.
+- SHOP NOTE slot in the ride-in section needs 2-3 sentences from Nick about Lomita riders.
+- Drive time 7 to 9 minutes from Lomita is computed at 25-30 mph from the 3.7-mile figure; confirm.

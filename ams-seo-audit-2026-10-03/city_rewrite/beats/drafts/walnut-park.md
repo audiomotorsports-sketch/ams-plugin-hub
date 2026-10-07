@@ -6,7 +6,7 @@ lead_service: speaker replacement
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Speaker Replacement for Walnut Park | LA Car Beats
-meta: Speaker replacement, car stereo installation and subwoofer upgrades for Walnut Park at LA Car Beats, Audio MotorSports, Carson, 9.7 miles. Call (310) 513-8800.
+meta: Speaker replacement, car stereo installation and subwoofer upgrades for Walnut Park at LA Car Beats, Audio MotorSports, Carson, 9.7 miles. Call (213) 429-1092.
 ---
 # Speaker Replacement and Car Stereo Installation for Walnut Park
 
@@ -22,7 +22,10 @@ Walnut Park drivers with crackling door speakers bring them to LA Car Beats by A
 
 ## Walnut Park to Carson
 
-The shop is about 9.7 miles from Walnut Park, roughly 19 to 23 minutes when traffic is light (approx). Hours: Monday through Saturday, 9:30 a.m. to 6:00 p.m., closed Sunday. Call (310) 513-8800 or text (213) 429-1092 to schedule. Speaker replacement is normally a wait job; a stereo plus sub install is better dropped off in the morning. Carson is near the beach and the shop has done work for people who drove from Temecula, so Walnut Park is an easy ride.
+The shop is about 9.7 miles from Walnut Park, roughly 19 to 23 minutes when traffic is light (approx). Hours: Monday through Saturday, 9:30 a.m. to 6:00 p.m., closed Sunday. Call (213) 429-1092 or text (213) 429-1092 to schedule. Speaker replacement is normally a wait job; a stereo plus sub install is better dropped off in the morning. Carson is near the beach and the shop has done work for people who drove from Temecula, so Walnut Park is an easy ride.
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Walnut Park, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. Coming from Walnut Park, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Questions Walnut Park drivers ask
 
@@ -48,7 +51,7 @@ Window tint and ceramic window tint, car alarm installation, remote start instal
 
 ## Prices you can count on
 
-Dual Kicker Comp box: $249 box only, as of October 2026. Speaker replacement, head unit installation and amplifier installation are quoted at the shop on the car in front of us. Payment plan available, ask Nick. Before driving from Walnut Park, check Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Dual Kicker Comp box: $249 box only, as of October 2026. Speaker replacement, head unit installation and amplifier installation are quoted at the shop on the car in front of us. Payment plan available, ask Nick. Before driving from Walnut Park, check Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Near Walnut Park
 
@@ -56,7 +59,7 @@ Related city pages: [Huntington Park](/beats/car-stereo-huntington-park/) · [al
 
 ## Book Walnut Park speaker replacement
 
-Text (213) 429-1092 or call (310) 513-8800. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30-18:00; Sunday closed.
+Text (213) 429-1092 or call (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30-18:00; Sunday closed.
 
 ```json
 {
@@ -68,7 +71,7 @@ Text (213) 429-1092 or call (310) 513-8800. Audio MotorSports, 22025 S Avalon Bl
    "name": "Speaker Replacement for Walnut Park | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-walnut-park/",
    "dateModified": "2026-10-08",
-   "description": "Speaker replacement, car stereo installation and subwoofer upgrades for Walnut Park at LA Car Beats, Audio MotorSports, Carson, 9.7 miles. Call (310) 513-8800.",
+   "description": "Speaker replacement, car stereo installation and subwoofer upgrades for Walnut Park at LA Car Beats, Audio MotorSports, Carson, 9.7 miles. Call (213) 429-1092.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

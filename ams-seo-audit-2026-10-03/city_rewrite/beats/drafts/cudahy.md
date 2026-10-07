@@ -6,7 +6,7 @@ lead_service: amplifier installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Amplifier Installation for Cudahy Drivers | LA Car Beats
-meta: Amplifier installation, subwoofer installation and car stereo installation for Cudahy at LA Car Beats by Audio MotorSports in Carson. Call (310) 513-8800.
+meta: Amplifier installation, subwoofer installation and car stereo installation for Cudahy at LA Car Beats by Audio MotorSports in Carson. Call (213) 429-1092.
 ---
 # Amplifier Installation for Cudahy
 
@@ -22,7 +22,10 @@ Cudahy drivers who want volume without distortion bring their cars to LA Car Bea
 
 ## From Cudahy to the shop
 
-Cudahy to the Carson bay is about 10.0 miles, roughly 20 to 24 minutes outside rush hour (approx). Schedule by phone at (310) 513-8800 or text at (213) 429-1092; an amplifier and sub install is usually a drop-off, and a single amp on existing speakers can be waited on. Open Monday to Saturday 9:30 to 6:00, closed Sunday. People drive here from Temecula for amplifier work, so Cudahy is an easy trip.
+Cudahy to the Carson bay is about 10.0 miles, roughly 20 to 24 minutes outside rush hour (approx). Schedule by phone at (213) 429-1092 or text at (213) 429-1092; an amplifier and sub install is usually a drop-off, and a single amp on existing speakers can be waited on. Open Monday to Saturday 9:30 to 6:00, closed Sunday. People drive here from Temecula for amplifier work, so Cudahy is an easy trip.
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Cudahy, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Cudahy.
 
 ## Cudahy amplifier questions
 
@@ -48,7 +51,7 @@ Yes, and that is the ideal moment for it. New speakers on sealed adapters take t
 
 ## Cudahy pricing
 
-Dual Kicker Comp loaded box: $249 box only, as of October 2026. Amplifier installation, subwoofer installation, car stereo installation, speaker replacement and Apple CarPlay and Android Auto installation are priced at the shop for the exact vehicle. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation, Tesla window tint and Harley bagger audio can go on the same ticket.
+Dual Kicker Comp loaded box: $249 box only, as of October 2026. Amplifier installation, subwoofer installation, car stereo installation, speaker replacement and Apple CarPlay and Android Auto installation are priced at the shop for the exact vehicle. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation, Tesla window tint and Harley bagger audio can go on the same ticket.
 
 ## Around Cudahy
 
@@ -56,7 +59,7 @@ Neighboring city pages for car stereo installation: [Bell Gardens](/beats/car-st
 
 ## Book amplifier work from Cudahy
 
-Send the year, make, model and what you already have in the car, and we will spec the amp before you leave Cudahy. Call (310) 513-8800 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Send the year, make, model and what you already have in the car, and we will spec the amp before you leave Cudahy. Call (213) 429-1092 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -67,7 +70,7 @@ Send the year, make, model and what you already have in the car, and we will spe
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-cudahy/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-cudahy/",
    "name": "Amplifier Installation for Cudahy Drivers | LA Car Beats",
-   "description": "Amplifier installation, subwoofer installation and car stereo installation for Cudahy at LA Car Beats by Audio MotorSports in Carson. Call (310) 513-8800.",
+   "description": "Amplifier installation, subwoofer installation and car stereo installation for Cudahy at LA Car Beats by Audio MotorSports in Carson. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

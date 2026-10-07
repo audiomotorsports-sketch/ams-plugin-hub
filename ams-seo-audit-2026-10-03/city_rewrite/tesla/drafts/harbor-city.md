@@ -5,7 +5,7 @@ miles: 2.8
 lead_service: Tesla window tint (Model Y)
 source: hub-mounted copy; standalone www host not verified
 title: Model Y Window Tint for Harbor City | Tesla Tint LA
-meta: Tesla window tint for Harbor City Model Y, 3, S and X owners, installed in Carson at 22025 S Avalon Blvd, 2.8 miles away. Call (310) 513-8800.
+meta: Tesla window tint for Harbor City Model Y, 3, S and X owners, installed in Carson at 22025 S Avalon Blvd, 2.8 miles away. Call (213) 429-1092.
 ---
 # Tesla Window Tint for Harbor City: Model Y First
 
@@ -28,6 +28,9 @@ One shop, one bay, every Tesla gets the same hands. The non-Tesla reference, as 
 About 2.8 miles, roughly a 6 to 7 minute drive outside rush hour (approx). Hours are Monday through Saturday, 9:30 AM to 6:00 PM, Sunday closed. Book a time, then drop the car off or wait at the shop while the film goes on. People drive to this bay from well over 100 miles away for Tesla tint; from Harbor City you are practically a neighbor.
 
 [SHOP NOTE: 2-3 sentences from Nick about Harbor City customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Harbor City drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Harbor City customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Coming from Harbor City, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710. Harbor City neighbors who work the port, the refineries or the rail yard are regulars here, often dropping the car off on the way to a shift.
 
 ## Questions from Harbor City Tesla drivers
 
@@ -53,7 +56,7 @@ Never. Every piece is cut on a glass board first and then applied to the car. Cu
 
 ## Tesla tint pricing
 
-Tesla window tint is quoted by model at the shop; call or text with the year and model for a number. As of October 2026 the non-Tesla reference is Solar $249 and Solar Ceramic $329 installed. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Tesla window tint is quoted by model at the shop; call or text with the year and model for a number. As of October 2026 the non-Tesla reference is Solar $249 and Solar Ceramic $329 installed. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby Tesla tint pages
 
@@ -64,7 +67,7 @@ Tesla window tint is quoted by model at the shop; call or text with the year and
 
 ## Book your Tesla tint
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -75,7 +78,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-harbor-city/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-harbor-city/",
    "name": "Model Y Window Tint for Harbor City | Tesla Tint LA",
-   "description": "Tesla window tint for Harbor City Model Y, 3, S and X owners, installed in Carson at 22025 S Avalon Blvd, 2.8 miles away. Call (310) 513-8800.",
+   "description": "Tesla window tint for Harbor City Model Y, 3, S and X owners, installed in Carson at 22025 S Avalon Blvd, 2.8 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

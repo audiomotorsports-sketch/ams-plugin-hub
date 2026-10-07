@@ -4,7 +4,7 @@ city: San Marino
 miles: 27.0
 lead_service: car alarm & remote start installation
 title: Car Alarm Installation for San Marino | Audio MotorSports
-meta: San Marino car alarm installation, remote start and GPS trackers, plus window tint and car stereo at Audio MotorSports in Carson, 27 miles away. (310) 513-8800.
+meta: San Marino car alarm installation, remote start and GPS trackers, plus window tint and car stereo at Audio MotorSports in Carson, 27 miles away. (213) 429-1092.
 ---
 # Car Alarm Installation and Remote Start Installation for San Marino
 
@@ -24,7 +24,10 @@ San Marino drivers come about 27 miles to Audio MotorSports, 22025 S Avalon Blvd
 
 ## San Marino to Carson
 
-Plan on about 27 miles and a 54 to 65 minute drive when the freeways are clear (approx). The shop is open Monday to Saturday 9:30 AM to 6:00 PM, closed Sunday. Book a slot, then stay for the alarm install or drop the car and come back for it that afternoon. San Marino drivers tend to read the reviews first: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. [SHOP NOTE: 2-3 sentences from Nick about San Marino customers, routes or jobs]
+Plan on about 27 miles and a 54 to 65 minute drive when the freeways are clear (approx). The shop is open Monday to Saturday 9:30 AM to 6:00 PM, closed Sunday. Book a slot, then stay for the alarm install or drop the car and come back for it that afternoon. San Marino drivers tend to read the reviews first: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. [SHOP NOTE: 2-3 sentences from Nick about San Marino customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from San Marino, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from San Marino.
 
 ## San Marino alarm questions
 
@@ -58,7 +61,7 @@ San Marino neighbors on the drive-in list: [Pasadena](/pasadena/), [South Pasade
 
 ## Book San Marino alarm installation
 
-Phone (310) 513-8800 or text (213) 429-1092 with your year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30 AM to 6:00 PM; closed Sunday.
+Phone (213) 429-1092 or text (213) 429-1092 with your year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30 AM to 6:00 PM; closed Sunday.
 
 ```json
 {
@@ -69,7 +72,7 @@ Phone (310) 513-8800 or text (213) 429-1092 with your year, make and model. Audi
    "@id": "https://www.audiomotorsports.com/san-marino/#webpage",
    "url": "https://www.audiomotorsports.com/san-marino/",
    "name": "Car Alarm Installation for San Marino | Audio MotorSports",
-   "description": "San Marino car alarm installation, remote start installation and GPS trackers, plus window tint and car stereo at Audio MotorSports in Carson, 27 miles away. Call (310) 513-8800.",
+   "description": "San Marino car alarm installation, remote start installation and GPS trackers, plus window tint and car stereo at Audio MotorSports in Carson, 27 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

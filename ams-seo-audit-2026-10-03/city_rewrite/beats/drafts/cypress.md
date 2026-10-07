@@ -6,7 +6,7 @@ lead_service: car stereo installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Cypress Car Stereo Installation | LA Car Beats
-meta: Car stereo installation and head unit installation for Cypress drivers at LA Car Beats by Audio MotorSports in Carson, 13 miles. Call (310) 513-8800.
+meta: Car stereo installation and head unit installation for Cypress drivers at LA Car Beats by Audio MotorSports in Carson, 13 miles. Call (213) 429-1092.
 ---
 # Car Stereo Installation for Cypress Drivers
 
@@ -22,7 +22,10 @@ Car stereo installation for Cypress is done at LA Car Beats, the audio departmen
 
 ## Cypress to the bay
 
-From Cypress the shop is about 13.0 miles, roughly 26 to 31 minutes outside rush hour (approx). Set a time by phone at (310) 513-8800 or by text at (213) 429-1092. Wait for a head unit install, or drop off for a full system and collect the car in the afternoon. Monday through Saturday 9:30 to 6:00; Sunday closed. We have had calls from as far as San Jose, so a Cypress drive is nothing unusual.
+From Cypress the shop is about 13.0 miles, roughly 26 to 31 minutes outside rush hour (approx). Set a time by phone at (213) 429-1092 or by text at (213) 429-1092. Wait for a head unit install, or drop off for a full system and collect the car in the afternoon. Monday through Saturday 9:30 to 6:00; Sunday closed. We have had calls from as far as San Jose, so a Cypress drive is nothing unusual.
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Cypress customers tell us makes the drop-off painless. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. Coming from Cypress, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Cypress car stereo FAQ
 
@@ -48,7 +51,7 @@ Yes. A shallow loaded box sits in a cargo-area corner and leaves the floor usabl
 
 ## Cypress pricing
 
-Dual Kicker Comp loaded box: $249, box only, as of October 2026. Car stereo installation, Apple CarPlay and Android Auto installation, speaker replacement, subwoofer installation and amplifier installation are quoted on the car at the shop. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Cross-sell for Cypress drivers: window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation, Tesla window tint and Harley bagger audio.
+Dual Kicker Comp loaded box: $249, box only, as of October 2026. Car stereo installation, Apple CarPlay and Android Auto installation, speaker replacement, subwoofer installation and amplifier installation are quoted on the car at the shop. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Cross-sell for Cypress drivers: window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation, Tesla window tint and Harley bagger audio.
 
 ## Near Cypress
 
@@ -56,7 +59,7 @@ Nearby LA Car Beats city pages: [La Palma](/beats/car-stereo-la-palma/) · [all 
 
 ## Book from Cypress
 
-Text the year, make, model and trim; the kit and harness will be waiting. Call (310) 513-8800 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Text the year, make, model and trim; the kit and harness will be waiting. Call (213) 429-1092 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -67,7 +70,7 @@ Text the year, make, model and trim; the kit and harness will be waiting. Call (
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-cypress/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-cypress/",
    "name": "Cypress Car Stereo Installation | LA Car Beats",
-   "description": "Car stereo installation and head unit installation for Cypress drivers at LA Car Beats by Audio MotorSports in Carson, 13 miles. Call (310) 513-8800.",
+   "description": "Car stereo installation and head unit installation for Cypress drivers at LA Car Beats by Audio MotorSports in Carson, 13 miles. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

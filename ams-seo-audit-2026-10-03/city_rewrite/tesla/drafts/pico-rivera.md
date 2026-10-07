@@ -4,7 +4,7 @@ city: Pico Rivera
 miles: 14.2
 lead_service: Tesla window tint (new-delivery tint)
 title: Pico Rivera Tesla Window Tint | Tesla Tint LA, Carson
-meta: Fresh delivery? Tesla window tint for Pico Rivera owners at Tesla Tint LA by Audio MotorSports in Carson, 14.2 miles away. Ceramic film, all models. Call (310) 513-8800.
+meta: Fresh delivery? Tesla window tint for Pico Rivera owners at Tesla Tint LA by Audio MotorSports in Carson, 14.2 miles away. Ceramic film, all models. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla Window Tint for Pico Rivera: Do It Before the First Heat Wave
@@ -24,6 +24,9 @@ A new Tesla with clear glass is the easiest car to tint and the one that benefit
 ## From Pico Rivera to Carson
 
 About 14.2 miles, roughly 28 to 34 minutes outside rush hour (approx). Open Monday through Saturday 9:30 to 6:00; closed on Sunday. Book first, then wait at the shop or drop the car and come back when the film is on. [SHOP NOTE: 2-3 sentences from Nick about Pico Rivera customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Pico Rivera, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Pico Rivera.
 
 ## Pico Rivera new Tesla questions
 
@@ -49,7 +52,7 @@ Yes. Dash camera installation fits easily into the same appointment, with the po
 
 ## Prices
 
-A new Tesla is quoted by model at the shop after Nick looks it over. The non-Tesla reference at the same bay is Solar $249 or Solar Ceramic $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+A new Tesla is quoted by model at the shop after Nick looks it over. The non-Tesla reference at the same bay is Solar $249 or Solar Ceramic $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby Tesla tint pages
 
@@ -57,7 +60,7 @@ A new Tesla is quoted by model at the shop after Nick looks it over. The non-Tes
 
 ## Book the new car
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

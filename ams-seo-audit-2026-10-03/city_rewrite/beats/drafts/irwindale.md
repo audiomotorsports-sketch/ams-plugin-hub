@@ -6,7 +6,7 @@ lead_service: amplifier installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Irwindale Amplifier Installation | LA Car Beats
-meta: Amplifier installation and subwoofer installation for Irwindale drivers at LA Car Beats by Audio MotorSports in Carson, 33.5 miles. Call (310) 513-8800.
+meta: Amplifier installation and subwoofer installation for Irwindale drivers at LA Car Beats by Audio MotorSports in Carson, 33.5 miles. Call (213) 429-1092.
 ---
 # Amplifier Installation for Irwindale Drivers
 
@@ -22,7 +22,10 @@ Irwindale drivers who want clean power behind their speakers and subwoofer make 
 
 ## Irwindale to Carson
 
-The shop is about 33.5 miles from Irwindale, roughly 67 to 80 minutes outside rush hour (approx). Call (310) 513-8800 or text (213) 429-1092 to book, and plan a morning drop-off so the amp, sub and speakers are all done in one day; we text when the car is ready. Open Monday to Saturday 9:30 to 6:00, closed Sunday. [SHOP NOTE: 2-3 sentences from Nick about Irwindale customers, routes or jobs]
+The shop is about 33.5 miles from Irwindale, roughly 67 to 80 minutes outside rush hour (approx). Call (213) 429-1092 or text (213) 429-1092 to book, and plan a morning drop-off so the amp, sub and speakers are all done in one day; we text when the car is ready. Open Monday to Saturday 9:30 to 6:00, closed Sunday. [SHOP NOTE: 2-3 sentences from Nick about Irwindale customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Irwindale customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Irwindale traffic sends you.
 
 ## Irwindale amplifier FAQ
 
@@ -48,7 +51,7 @@ Yes, and it is the right order. New speakers on sealed adapters can use the ampl
 
 ## Irwindale pricing
 
-Dual Kicker Comp loaded box, $249 box only, as of October 2026. Amplifier installation, subwoofer installation, speaker replacement, car stereo installation and Apple CarPlay and Android Auto installation are quoted at the shop for the Irwindale car in front of us. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation, Tesla window tint and Harley bagger audio go on the same ticket if you want them.
+Dual Kicker Comp loaded box, $249 box only, as of October 2026. Amplifier installation, subwoofer installation, speaker replacement, car stereo installation and Apple CarPlay and Android Auto installation are quoted at the shop for the Irwindale car in front of us. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation, Tesla window tint and Harley bagger audio go on the same ticket if you want them.
 
 ## Near Irwindale
 
@@ -56,7 +59,7 @@ LA Car Beats pages for surrounding cities: [Baldwin Park](/beats/car-stereo-bald
 
 ## Book amplifier work from Irwindale
 
-Text the year, make, model and what is already in the car so the amp is specced before you leave. Call (310) 513-8800 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Text the year, make, model and what is already in the car so the amp is specced before you leave. Call (213) 429-1092 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -67,7 +70,7 @@ Text the year, make, model and what is already in the car so the amp is specced 
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-irwindale/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-irwindale/",
    "name": "Irwindale Amplifier Installation | LA Car Beats",
-   "description": "Amplifier installation and subwoofer installation for Irwindale drivers at LA Car Beats by Audio MotorSports in Carson, 33.5 miles. Call (310) 513-8800.",
+   "description": "Amplifier installation and subwoofer installation for Irwindale drivers at LA Car Beats by Audio MotorSports in Carson, 33.5 miles. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

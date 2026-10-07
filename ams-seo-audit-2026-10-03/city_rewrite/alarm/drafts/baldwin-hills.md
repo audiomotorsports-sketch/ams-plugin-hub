@@ -5,7 +5,7 @@ city: Baldwin Hills
 miles: 13.3
 lead_service: work-truck security
 title: Work Truck Alarm & GPS for Baldwin Hills | LA Car Alarm
-meta: Work truck alarm installation, GPS trackers and remote start for Baldwin Hills drivers at LA Car Alarm by Audio MotorSports, Carson. Call (310) 513-8800.
+meta: Work truck alarm installation, GPS trackers and remote start for Baldwin Hills drivers at LA Car Alarm by Audio MotorSports, Carson. Call (213) 429-1092.
 ---
 # Work Truck Security and Car Alarm Installation for Baldwin Hills
 
@@ -23,6 +23,9 @@ Baldwin Hills contractors and commuters drive 13.3 miles to LA Car Alarm by Audi
 
 Audio MotorSports also handles car window tint, car stereo installation, Apple CarPlay and Android Auto, subwoofers and amplifiers, and Harley bagger audio if you want to book it together.
 
+<!-- owner-details-2026-10-07 -->
+Plenty of Baldwin Hills drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. From Baldwin Hills you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
+
 ## Baldwin Hills to the shop
 
 The 13.3 miles run about 27 to 32 minutes outside rush hour (approx). Call ahead for an appointment, drop the truck or car, or wait at the shop while we wire it. Open Mon-Sat 9:30-18:00, closed Sunday. [SHOP NOTE: 2-3 sentences from Nick about Baldwin Hills customers, routes or jobs]
@@ -37,7 +40,7 @@ The brain sits deep behind the dash with its own fused power, and the starter in
 
 ### Is remote start installation available for a diesel work truck?
 
-Many diesels are supported with a Compustar bypass that honors the glow-plug wait before cranking. We confirm the year, make and model before you drive over so there are no surprises. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Many diesels are supported with a Compustar bypass that honors the glow-plug wait before cranking. We confirm the year, make and model before you drive over so there are no surprises. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ### Why would a Baldwin Hills driver choose Carson for this work?
 
@@ -57,7 +60,7 @@ Viper 3108V alarm $269 installed. Compustar 9910 remote start from $499. GPS tra
 
 ## Book your Baldwin Hills truck or car
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -122,7 +125,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. LA Car
      "name": "Is remote start installation available for a diesel work truck?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Many diesels are supported with a Compustar bypass that honors the glow-plug wait before cranking. We confirm the year, make and model before you drive over so there are no surprises. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026."
+      "text": "Many diesels are supported with a Compustar bypass that honors the glow-plug wait before cranking. We confirm the year, make and model before you drive over so there are no surprises. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026."
      }
     },
     {

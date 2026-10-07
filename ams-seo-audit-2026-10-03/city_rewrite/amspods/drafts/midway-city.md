@@ -4,7 +4,7 @@ city: Midway City
 miles: 17.0
 lead_service: Harley bagger audio for group rides
 title: Midway City Harley Bagger Audio for Group Rides | AMS Pods
-meta: Group-ride Harley bagger audio installation and AMS lower-fairing pods for Midway City riders. AMS Pods by Audio MotorSports, Carson. (310) 513-8800.
+meta: Group-ride Harley bagger audio installation and AMS lower-fairing pods for Midway City riders. AMS Pods by Audio MotorSports, Carson. (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Harley Bagger Audio for Midway City Riders Who Ride in a Pack
@@ -26,6 +26,9 @@ If the group includes a truck or two, Audio MotorSports does car stereo installa
 ## Getting here from Midway City
 
 Midway City to Carson is 17.0 miles, roughly 34 to 41 minutes outside rush hour (approx). Schedule by phone or text, ride in, and drop the bike or wait at the shop depending on the job. Hours are Mon-Sat 9:30-18:00, Sunday closed. If a few of you want work done, call ahead and Nick will line the appointments up. [SHOP NOTE: 2-3 sentences from Nick about Midway City riders, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Midway City customers tell us makes the drop-off painless. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. From Midway City you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Group-ride questions from Midway City
 
@@ -54,7 +57,7 @@ Pods-only is a common first step and a same-day job once the pair is built. Many
 - AMS lower-fairing pods from $649 a pair, as of October 2026, chrome or gloss, bracket and hardware included.
 - Amplifier installation, speaker replacement and head units are quoted on the bike at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby cities
 
@@ -62,7 +65,7 @@ See the pages for [Los Angeles](/amspods/bagger-audio-los-angeles/), [Brea](/ams
 
 ## Set it up
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -73,7 +76,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-midway-city/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-midway-city/",
    "name": "Midway City Harley Bagger Audio for Group Rides | AMS Pods",
-   "description": "Group-ride Harley bagger audio installation and AMS lower-fairing pods for Midway City riders. AMS Pods by Audio MotorSports, Carson. (310) 513-8800.",
+   "description": "Group-ride Harley bagger audio installation and AMS lower-fairing pods for Midway City riders. AMS Pods by Audio MotorSports, Carson. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

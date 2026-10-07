@@ -4,7 +4,7 @@ city: Chino
 miles: 44.0
 lead_service: Harley bagger audio
 title: Harley Bagger Audio Installation, Chino | Audio MotorSports
-meta: Harley bagger audio installation with AMS pods, window tint, car stereo and alarms for Chino riders and drivers at Audio MotorSports in Carson. (310) 513-8800.
+meta: Harley bagger audio installation with AMS pods, window tint, car stereo and alarms for Chino riders and drivers at Audio MotorSports in Carson. (213) 429-1092.
 ---
 # Harley Bagger Audio Installation for Chino Riders
 
@@ -21,6 +21,9 @@ Chino riders bring their baggers about 44 miles to Audio MotorSports at 22025 S 
 **Head unit installation.** Pioneer and Kenwood decks with CarPlay, the factory camera and wheel buttons kept.
 
 **Viper alarm installation and remote start installation.** Modules hidden from the fuse box, wiring blended into the factory harness.
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Chino job is finished. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. From Chino you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Chino to the shop
 
@@ -40,7 +43,7 @@ Usually not. We check the bike's charging output before choosing the amplifier a
 
 ### Can my truck get car window tint while the bike is on the lift?
 
-If both are booked, yes, with a full day planned. Solar is $249 and Solar Ceramic $329 installed as of October 2026 for the truck. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, if you want to know how the shop handles a long day.
+If both are booked, yes, with a full day planned. Solar is $249 and Solar Ceramic $329 installed as of October 2026 for the truck. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, if you want to know how the shop handles a long day.
 
 ### What is a Viper alarm installation on a Chino truck?
 
@@ -56,7 +59,7 @@ AMS Harley pods from $649 a pair. Window tint Solar $249, Solar Ceramic $329 ins
 
 ## Book from Chino
 
-Call (310) 513-8800 or text (213) 429-1092 with the bike or vehicle year, make and model. Audio MotorSports is at 22025 S Avalon Blvd Ste A in Carson, CA 90745, Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the bike or vehicle year, make and model. Audio MotorSports is at 22025 S Avalon Blvd Ste A in Carson, CA 90745, Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -67,7 +70,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the bike or vehicle year, make a
    "@id": "https://www.audiomotorsports.com/chino/#webpage",
    "url": "https://www.audiomotorsports.com/chino/",
    "name": "Harley Bagger Audio Installation, Chino | Audio MotorSports",
-   "description": "Harley bagger audio installation with AMS pods, window tint, car stereo and alarms for Chino riders and drivers at Audio MotorSports in Carson. (310) 513-8800.",
+   "description": "Harley bagger audio installation with AMS pods, window tint, car stereo and alarms for Chino riders and drivers at Audio MotorSports in Carson. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {
@@ -134,7 +137,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the bike or vehicle year, make a
      "name": "Can my truck get car window tint while the bike is on the lift?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "If both are booked, yes, with a full day planned. Solar is $249 and Solar Ceramic $329 installed as of October 2026 for the truck. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, if you want to know how the shop handles a long day."
+      "text": "If both are booked, yes, with a full day planned. Solar is $249 and Solar Ceramic $329 installed as of October 2026 for the truck. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, if you want to know how the shop handles a long day."
      }
     },
     {

@@ -6,11 +6,11 @@ lead_service: head unit installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Rossmoor Head Unit Installation | LA Car Beats
-meta: Head unit installation with CarPlay for Rossmoor drivers at LA Car Beats by Audio MotorSports in Carson, 11 miles away. Call (310) 513-8800 to book.
+meta: Head unit installation with CarPlay for Rossmoor drivers at LA Car Beats by Audio MotorSports in Carson, 11 miles away. Call (213) 429-1092 to book.
 ---
 # Head Unit Installation for Rossmoor Drivers
 
-Rossmoor drivers swap a tired factory radio for a touchscreen at LA Car Beats by Audio MotorSports, Carson, 22025 S Avalon Blvd Ste A, about 11 miles from Rossmoor. Head unit installation brings Apple CarPlay and Android Auto, keeps the steering-wheel buttons and backup camera, and uses a dash kit that fits like factory. Reserve a slot, then wait in the lobby or leave the car with us.
+Rossmoor drivers swap a tired factory radio for a touchscreen at LA Car Beats by Audio MotorSports, Carson, 22025 S Avalon Blvd Ste A, about 11 miles from Rossmoor. Head unit installation brings Apple CarPlay and Android Auto, keeps the steering-wheel buttons and backup camera, and uses a dash kit that fits like factory. Reserve a slot, then wait inside or leave the car with us.
 
 ## Rossmoor head unit and stereo work
 
@@ -22,7 +22,10 @@ Rossmoor drivers swap a tired factory radio for a touchscreen at LA Car Beats by
 
 ## Rossmoor to the Carson shop
 
-Rossmoor to 22025 S Avalon Blvd is about 11 miles, roughly 22 to 26 minutes outside rush hour (approx). Hours are Monday through Saturday 9:30 to 6:00; closed Sunday. Call (310) 513-8800 or text (213) 429-1092 to make an appointment. A head unit on its own is usually a lobby wait; with speakers or a sub it becomes a morning drop-off. [SHOP NOTE: 2-3 sentences from Nick about Rossmoor customers, routes or jobs]
+Rossmoor to 22025 S Avalon Blvd is about 11 miles, roughly 22 to 26 minutes outside rush hour (approx). Hours are Monday through Saturday 9:30 to 6:00; closed Sunday. Call (213) 429-1092 or text (213) 429-1092 to make an appointment. A head unit on its own is usually a waiting area inside wait; with speakers or a sub it becomes a morning drop-off. [SHOP NOTE: 2-3 sentences from Nick about Rossmoor customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Rossmoor drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Rossmoor traffic sends you.
 
 ## Rossmoor head unit questions
 
@@ -40,7 +43,7 @@ You can. We check that it fits the vehicle and that the dash kit, harness and mo
 
 ### Is Rossmoor close enough to wait for a head unit installation?
 
-Yes, it is about 11 miles, roughly 25 minutes on a normal day, and a straightforward head unit swap can be waited on in the lobby. If you add speaker replacement or an amplifier, dropping the car off in the morning and picking it up later is simpler.
+Yes, it is about 11 miles, roughly 25 minutes on a normal day, and a straightforward head unit swap can be waited on inside the shop. If you add speaker replacement or an amplifier, dropping the car off in the morning and picking it up later is simpler.
 
 ### Why not have a chain store do the head unit installation?
 
@@ -48,7 +51,7 @@ The parts are the same anywhere; the labor is not. A dash kit that sits flush, a
 
 ## Rossmoor pricing
 
-Dual Kicker Comp loaded box, $249, box only, as of October 2026. Head unit installation, Apple CarPlay and Android Auto installation, speaker replacement, amplifier installation and subwoofer installation are quoted at the shop once we know the vehicle. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Window tint and ceramic window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation, Tesla window tint and Harley bagger audio with AMS pods are handled in the same shop.
+Dual Kicker Comp loaded box, $249, box only, as of October 2026. Head unit installation, Apple CarPlay and Android Auto installation, speaker replacement, amplifier installation and subwoofer installation are quoted at the shop once we know the vehicle. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Window tint and ceramic window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation, Tesla window tint and Harley bagger audio with AMS pods are handled in the same shop.
 
 ## Around Rossmoor
 
@@ -61,7 +64,7 @@ Car stereo installation pages for cities near Rossmoor:
 
 ## Book from Rossmoor
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -73,7 +76,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio 
    "name": "Rossmoor Head Unit Installation | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-rossmoor/",
    "dateModified": "2026-10-08",
-   "description": "Head unit installation with CarPlay for Rossmoor drivers at LA Car Beats by Audio MotorSports in Carson, 11 miles away. Call (310) 513-8800 to book.",
+   "description": "Head unit installation with CarPlay for Rossmoor drivers at LA Car Beats by Audio MotorSports in Carson, 11 miles away. Call (213) 429-1092 to book.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }
@@ -135,7 +138,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio 
      "name": "Is Rossmoor close enough to wait for a head unit installation?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes, it is about 11 miles, roughly 25 minutes on a normal day, and a straightforward head unit swap can be waited on in the lobby. If you add speaker replacement or an amplifier, dropping the car off in the morning and picking it up later is simpler."
+      "text": "Yes, it is about 11 miles, roughly 25 minutes on a normal day, and a straightforward head unit swap can be waited on inside the shop. If you add speaker replacement or an amplifier, dropping the car off in the morning and picking it up later is simpler."
      }
     },
     {

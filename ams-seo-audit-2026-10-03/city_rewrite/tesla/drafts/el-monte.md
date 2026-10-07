@@ -5,7 +5,7 @@ miles: 26.6
 lead_service: Tesla window tint (glass roof heat)
 source: hub-mounted copy; standalone www host not verified
 title: Tesla Glass Roof Tint for El Monte | Tesla Tint LA
-meta: Tesla glass roof and window tint for El Monte owners at Audio MotorSports in Carson, 26.6 miles away. Ceramic film cuts overhead heat. Call (310) 513-8800.
+meta: Tesla glass roof and window tint for El Monte owners at Audio MotorSports in Carson, 26.6 miles away. Ceramic film cuts overhead heat. Call (213) 429-1092.
 ---
 # Tesla Glass Roof and Window Tint for El Monte Owners
 
@@ -28,6 +28,9 @@ Audio MotorSports installs dash cameras, car alarms, GPS trackers and car audio 
 About 26.6 miles, roughly 53 to 64 minutes outside rush hour (approx). Open Monday through Saturday, 9:30 AM to 6:00 PM, closed on Sunday. Make an appointment, then drop the car for the day or wait at the shop. Tesla owners have driven in from Temecula for this; El Monte is closer than that by a good margin.
 
 [SHOP NOTE: 2-3 sentences from Nick about El Monte customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Plenty of El Monte drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. The shop is LGBTQ-friendly and everyone from El Monte is welcome, as our Google and Yelp listings state. Coming from El Monte, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## El Monte Tesla roof and tint questions
 
@@ -53,7 +56,7 @@ The front doors must pass 70% of visible light. Ceramic film at that shade looks
 
 ## Pricing
 
-Roof film and window tint on a Tesla are quoted by model at the shop; text the year and model for a figure. The non-Tesla reference, as of October 2026: Solar $249, Solar Ceramic $329 installed. Other work is quoted at the shop. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Roof film and window tint on a Tesla are quoted by model at the shop; text the year and model for a figure. The non-Tesla reference, as of October 2026: Solar $249, Solar Ceramic $329 installed. Other work is quoted at the shop. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near El Monte
 
@@ -64,7 +67,7 @@ Roof film and window tint on a Tesla are quoted by model at the shop; text the y
 
 ## Call or text
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -75,7 +78,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-el-monte/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-el-monte/",
    "name": "Tesla Glass Roof Tint for El Monte | Tesla Tint LA",
-   "description": "Tesla glass roof and window tint for El Monte owners at Audio MotorSports in Carson, 26.6 miles away. Ceramic film cuts overhead heat. Call (310) 513-8800.",
+   "description": "Tesla glass roof and window tint for El Monte owners at Audio MotorSports in Carson, 26.6 miles away. Ceramic film cuts overhead heat. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

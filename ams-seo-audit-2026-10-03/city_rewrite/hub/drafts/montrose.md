@@ -4,7 +4,7 @@ city: Montrose
 miles: 29.9
 lead_service: Tesla window tint
 title: Tesla Window Tint for Montrose | Audio MotorSports
-meta: Tesla window tint and ceramic window tinting for Montrose owners at Audio MotorSports in Carson, 29.9 miles away. Car audio and alarms too. (310) 513-8800.
+meta: Tesla window tint and ceramic window tinting for Montrose owners at Audio MotorSports in Carson, 29.9 miles away. Car audio and alarms too. (213) 429-1092.
 ---
 # Tesla Window Tint for Montrose Owners
 
@@ -25,6 +25,9 @@ Montrose Tesla owners drive about 29.9 miles to Audio MotorSports, 22025 S Avalo
 ## Montrose to Carson
 
 Montrose is about 29.9 miles from the shop, around sixty to seventy-two minutes outside rush hour (approx). Hours are Monday through Saturday, 9:30 AM to 6:00 PM; Sunday closed. Call or text to schedule, then wait in the shop or drop the car and pick it up when it is done. Owners drive more than 100 miles for Tesla tint here, and film fitted right the first time is why.
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Montrose, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Coming from Montrose, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Montrose Tesla tint questions
 
@@ -64,7 +67,7 @@ Pages for the cities around Montrose:
 
 ## Book Tesla tint from Montrose
 
-Text (213) 429-1092 with your Tesla model and year, or call (310) 513-8800. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30 AM to 6:00 PM, closed Sunday.
+Text (213) 429-1092 with your Tesla model and year, or call (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -75,7 +78,7 @@ Text (213) 429-1092 with your Tesla model and year, or call (310) 513-8800. Audi
    "@id": "https://www.audiomotorsports.com/montrose/#webpage",
    "url": "https://www.audiomotorsports.com/montrose/",
    "name": "Tesla Window Tint for Montrose | Audio MotorSports",
-   "description": "Tesla window tint and ceramic window tinting for Montrose owners at Audio MotorSports in Carson, 29.9 miles away. Car audio and alarm installs too. Call (310) 513-8800.",
+   "description": "Tesla window tint and ceramic window tinting for Montrose owners at Audio MotorSports in Carson, 29.9 miles away. Car audio and alarm installs too. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

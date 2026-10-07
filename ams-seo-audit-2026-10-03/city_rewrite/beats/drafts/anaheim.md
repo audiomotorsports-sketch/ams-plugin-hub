@@ -6,7 +6,7 @@ lead_service: truck and SUV car audio
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Anaheim Truck & SUV Car Stereo Installation | LA Car Beats
-meta: Truck and SUV car stereo installation, subwoofer and amplifier installation for Anaheim at Audio MotorSports in Carson, 20 miles. Call (310) 513-8800.
+meta: Truck and SUV car stereo installation, subwoofer and amplifier installation for Anaheim at Audio MotorSports in Carson, 20 miles. Call (213) 429-1092.
 ---
 # Truck and SUV Car Stereo Installation for Anaheim
 
@@ -22,7 +22,10 @@ Anaheim truck and SUV owners come to LA Car Beats by Audio MotorSports, Carson, 
 
 ## Anaheim to the Carson bay
 
-Anaheim sits about 20 miles from the shop, roughly 40 to 48 minutes outside rush hour (approx). We run Monday through Saturday from 9:30 to 6:00 and are closed on Sunday. Call (310) 513-8800 or text (213) 429-1092 to schedule. A full sub and amp build in a truck is a morning drop-off from Anaheim with afternoon pickup; speaker replacement or an interface can be waited on. The shop is near the beach in Carson and has done work for people from Temecula, so Anaheim is a reasonable run.
+Anaheim sits about 20 miles from the shop, roughly 40 to 48 minutes outside rush hour (approx). We run Monday through Saturday from 9:30 to 6:00 and are closed on Sunday. Call (213) 429-1092 or text (213) 429-1092 to schedule. A full sub and amp build in a truck is a morning drop-off from Anaheim with afternoon pickup; speaker replacement or an interface can be waited on. The shop is near the beach in Carson and has done work for people from Temecula, so Anaheim is a reasonable run.
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Anaheim, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. The shop is LGBTQ-friendly and everyone from Anaheim is welcome, as our Google and Yelp listings state. Coming from Anaheim, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Anaheim truck and SUV questions
 
@@ -48,7 +51,7 @@ The same bay handles window tint and ceramic window tint, car alarm installation
 
 ## Prices for Anaheim drivers
 
-Dual Kicker Comp box: $249 box only, as of October 2026. Truck and SUV subwoofer installation, amplifier installation, car stereo installation and speaker replacement get a quote at the shop once we see the cab. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, are there for Anaheim drivers to read.
+Dual Kicker Comp box: $249 box only, as of October 2026. Truck and SUV subwoofer installation, amplifier installation, car stereo installation and speaker replacement get a quote at the shop once we see the cab. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, are there for Anaheim drivers to read.
 
 ## Cities near Anaheim
 
@@ -56,7 +59,7 @@ Car stereo installation pages for Anaheim neighbors: [Fullerton](/beats/car-ster
 
 ## Bring the truck from Anaheim
 
-Call (310) 513-8800 or text (213) 429-1092 with the truck or SUV details. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the truck or SUV details. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -68,7 +71,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the truck or SUV details. Audio 
    "name": "Anaheim Truck & SUV Car Stereo Installation | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-anaheim/",
    "dateModified": "2026-10-08",
-   "description": "Truck and SUV car stereo installation, subwoofer and amplifier installation for Anaheim at Audio MotorSports in Carson, 20 miles. Call (310) 513-8800.",
+   "description": "Truck and SUV car stereo installation, subwoofer and amplifier installation for Anaheim at Audio MotorSports in Carson, 20 miles. Call (213) 429-1092.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

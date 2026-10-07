@@ -4,7 +4,7 @@ city: Whittier
 miles: 16.7
 lead_service: car audio & stereo installation
 title: Car Stereo Installation for Whittier | Audio MotorSports
-meta: Whittier car stereo installation, speaker replacement, subwoofer installs, window tint and alarms at Audio MotorSports in Carson, 16.7 miles. (310) 513-8800.
+meta: Whittier car stereo installation, speaker replacement, subwoofer installs, window tint and alarms at Audio MotorSports in Carson, 16.7 miles. (213) 429-1092.
 ---
 # Car Stereo Installation for Whittier Drivers
 
@@ -24,7 +24,10 @@ Whittier drivers bring their cars about 16.7 miles to Audio MotorSports, 22025 S
 
 ## Whittier to Carson
 
-Whittier is about 16.7 miles out, which works out to a 33 to 40 minute drive outside rush hour (approx). The shop runs Monday to Saturday from 9:30 AM to 6:00 PM, closed Sunday. Call or text for an appointment; a head unit installation is a wait-at-the-shop job, while a full system is better dropped off for the day. Whittier drivers can look us up before they commit: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. [SHOP NOTE: 2-3 sentences from Nick about Whittier customers, routes or jobs]
+Whittier is about 16.7 miles out, which works out to a 33 to 40 minute drive outside rush hour (approx). The shop runs Monday to Saturday from 9:30 AM to 6:00 PM, closed Sunday. Call or text for an appointment; a head unit installation is a wait-at-the-shop job, while a full system is better dropped off for the day. Whittier drivers can look us up before they commit: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. [SHOP NOTE: 2-3 sentences from Nick about Whittier customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Whittier, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Coming from Whittier, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Whittier car stereo questions
 
@@ -58,7 +61,7 @@ Also driving in from [Pico Rivera](/pico-rivera/), [Santa Fe Springs](/santa-fe-
 
 ## Schedule Whittier car stereo installation
 
-Text your year, make and model to (213) 429-1092 or call (310) 513-8800. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30 AM to 6:00 PM; Sunday closed.
+Text your year, make and model to (213) 429-1092 or call (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30 AM to 6:00 PM; Sunday closed.
 
 ```json
 {
@@ -69,7 +72,7 @@ Text your year, make and model to (213) 429-1092 or call (310) 513-8800. Audio M
    "@id": "https://www.audiomotorsports.com/whittier/#webpage",
    "url": "https://www.audiomotorsports.com/whittier/",
    "name": "Car Stereo Installation for Whittier | Audio MotorSports",
-   "description": "Whittier car stereo installation, speaker replacement, subwoofer and amplifier installs, plus window tint and alarms at Audio MotorSports in Carson, 16.7 miles away. Call (310) 513-8800.",
+   "description": "Whittier car stereo installation, speaker replacement, subwoofer and amplifier installs, plus window tint and alarms at Audio MotorSports in Carson, 16.7 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

@@ -4,7 +4,7 @@ city: Glendale
 miles: 26.9
 lead_service: Viper alarm installation
 title: Viper Alarm Installation for Glendale Drivers | LA Car Alarm
-meta: Viper alarm installation, Compustar remote start and GPS tracker installation for Glendale drivers at LA Car Alarm by Audio MotorSports, Carson. (310) 513-8800.
+meta: Viper alarm installation, Compustar remote start and GPS tracker installation for Glendale drivers at LA Car Alarm by Audio MotorSports, Carson. (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Viper Alarm Installation for Glendale
@@ -22,6 +22,9 @@ A Viper alarm is only as good as the hands that wired it. Glendale drivers make 
 **Dash camera installation.** Fused into the car's wiring with parking mode and a battery cutoff, cables hidden behind the headliner.
 
 If you are already here, the same shop does window tint, car stereo installation and Android Auto head units.
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Glendale drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Glendale customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Glendale.
 
 ## From Glendale to the shop
 
@@ -54,7 +57,7 @@ No. It is about an hour each way, and the work takes a half day, so a morning ap
 
 Tilt sensors, GPS trackers and dash cameras are quoted on your vehicle at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Other cities nearby
 
@@ -66,7 +69,7 @@ Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
 
 ## Call or text to book
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

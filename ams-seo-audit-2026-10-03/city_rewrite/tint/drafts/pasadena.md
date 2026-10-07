@@ -4,7 +4,7 @@ city: Pasadena
 miles: 28.6
 lead_service: ceramic window tint (dry heat, no marine layer)
 title: Ceramic Window Tint Pasadena | LA Car Tint, Carson
-meta: Ceramic window tint for Pasadena dry heat, hand-cut and installed by Audio MotorSports in Carson, 28.6 miles away. Dated prices. Call (310) 513-8800 to book.
+meta: Ceramic window tint for Pasadena dry heat, hand-cut and installed by Audio MotorSports in Carson, 28.6 miles away. Dated prices. Call (213) 429-1092 to book.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Ceramic Window Tint for Pasadena Drivers, by Audio MotorSports, Carson
@@ -26,11 +26,14 @@ From Pasadena it is about 28.6 miles, roughly an hour (approx) outside the commu
 
 [SHOP NOTE: 2-3 sentences from Nick about Pasadena customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+For a longer job from Pasadena, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. From Pasadena you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
+
 ## Pasadena drivers ask
 
 ### Why would a Pasadena driver go to Carson for ceramic tint?
 
-For film fitted by hand and sealed at the edge, dated prices, and a record you can read: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. One good install beats a cheap one that has to be scraped off.
+For film fitted by hand and sealed at the edge, dated prices, and a record you can read: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. One good install beats a cheap one that has to be scraped off.
 
 ### How much does ceramic tint help with Pasadena heat?
 
@@ -61,7 +64,7 @@ Solar window tinting $249 installed; Solar Ceramic window tinting $329 installed
 
 ## Book it
 
-Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
+Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
 
 ```json
 {
@@ -72,7 +75,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-pasadena/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-pasadena/",
    "name": "Ceramic Window Tint Pasadena | LA Car Tint, Carson",
-   "description": "Ceramic window tint for Pasadena dry heat, hand-cut and installed by Audio MotorSports in Carson, 28.6 miles away. Dated prices. Call (310) 513-8800 to book.",
+   "description": "Ceramic window tint for Pasadena dry heat, hand-cut and installed by Audio MotorSports in Carson, 28.6 miles away. Dated prices. Call (213) 429-1092 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -112,7 +115,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "Why would a Pasadena driver go to Carson for ceramic tint?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "For film fitted by hand and sealed at the edge, dated prices, and a record you can read: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. One good install beats a cheap one that has to be scraped off."
+      "text": "For film fitted by hand and sealed at the edge, dated prices, and a record you can read: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. One good install beats a cheap one that has to be scraped off."
      }
     },
     {

@@ -4,7 +4,7 @@ city: Harbor City
 miles: 2.8
 lead_service: car window tint (heat)
 title: Harbor City Car Window Tint | LA Car Tint, Carson
-meta: Car window tint and ceramic window tint for Harbor City, installed at Audio MotorSports in Carson, 2.8 miles away. Call (310) 513-8800 to book.
+meta: Car window tint and ceramic window tint for Harbor City, installed at Audio MotorSports in Carson, 2.8 miles away. Call (213) 429-1092 to book.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Window Tint for Harbor City Drivers
@@ -22,6 +22,9 @@ LA Car Tint by Audio MotorSports installs car window tint and ceramic window tin
 ## Getting here from Harbor City
 
 Harbor City to the shop is roughly 2.8 miles, call it a 6 to 8 minute drive outside rush hour (approx). We are open Monday through Saturday, 9:30 a.m. to 6:00 p.m., closed Sunday. Book first, then either leave the car with us or stay in the waiting area while the tint goes on. Being this close, most Harbor City customers simply wait. [SHOP NOTE: 2-3 sentences from Nick about Harbor City customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Harbor City drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Harbor City traffic sends you. Harbor City neighbors who work the port, the refineries or the rail yard are regulars here, often dropping the car off on the way to a shift.
 
 ## Harbor City window tint questions
 
@@ -47,7 +50,7 @@ We do. Tesla window tint is a regular job here: Model 3, Model Y, Model S and Mo
 
 ## Window tint prices for Harbor City
 
-Four-door Solar window tint is $249 installed and Solar Ceramic is $329 installed, as of October 2026. Both cover the four doors and the back window. Windshield strips, trucks, SUVs, Tesla roof glass and fleet work are quoted in person at the shop. Payment plan available, ask Nick. Reviews, as of October 2026: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews).
+Four-door Solar window tint is $249 installed and Solar Ceramic is $329 installed, as of October 2026. Both cover the four doors and the back window. Windshield strips, trucks, SUVs, Tesla roof glass and fleet work are quoted in person at the shop. Payment plan available, ask Nick. Reviews, as of October 2026: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews).
 
 ## Window tint near Harbor City
 
@@ -55,7 +58,7 @@ Neighbors who use the same Carson bay: [Lomita](/tint/window-tint-lomita/), [Wil
 
 ## Book your Harbor City tint appointment
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745; open Mon-Sat 9:30-18:00, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745; open Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -66,7 +69,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio 
    "@id": "https://www.audiomotorsports.com/tint/window-tint-harbor-city/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-harbor-city/",
    "name": "Harbor City Car Window Tint | LA Car Tint, Carson",
-   "description": "Car window tint and ceramic window tint for Harbor City, installed at Audio MotorSports in Carson, 2.8 miles away. Call (310) 513-8800 to book.",
+   "description": "Car window tint and ceramic window tint for Harbor City, installed at Audio MotorSports in Carson, 2.8 miles away. Call (213) 429-1092 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

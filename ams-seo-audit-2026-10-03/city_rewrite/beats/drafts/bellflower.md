@@ -6,7 +6,7 @@ lead_service: truck and SUV car stereo installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Bellflower Truck & SUV Car Stereo Install | LA Car Beats
-meta: Car stereo installation, subwoofer and amplifier installation for Bellflower trucks and SUVs at LA Car Beats, Audio MotorSports, Carson. Call (310) 513-8800.
+meta: Car stereo installation, subwoofer and amplifier installation for Bellflower trucks and SUVs at LA Car Beats, Audio MotorSports, Carson. Call (213) 429-1092.
 ---
 # Car Stereo Installation for Bellflower Trucks and SUVs
 
@@ -22,7 +22,10 @@ Family trucks and SUVs from Bellflower are a big share of what rolls into LA Car
 
 ## Bellflower to the Carson bay
 
-Bellflower is about 9.3 miles from the shop, roughly 19 to 22 minutes outside rush hour (approx). Book by calling (310) 513-8800 or texting (213) 429-1092. A head unit swap on a truck can be waited on; a sub, amp and speakers together is a morning drop-off with pickup later the same day. The shop is open Monday through Saturday 9:30 to 6:00 and closed Sunday. [SHOP NOTE: 2-3 sentences from Nick about Bellflower customers, routes or jobs]
+Bellflower is about 9.3 miles from the shop, roughly 19 to 22 minutes outside rush hour (approx). Book by calling (213) 429-1092 or texting (213) 429-1092. A head unit swap on a truck can be waited on; a sub, amp and speakers together is a morning drop-off with pickup later the same day. The shop is open Monday through Saturday 9:30 to 6:00 and closed Sunday. [SHOP NOTE: 2-3 sentences from Nick about Bellflower customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Bellflower customers tell us makes the drop-off painless. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Bellflower traffic sends you.
 
 ## Bellflower truck audio FAQ
 
@@ -48,7 +51,7 @@ A head unit alone is a few hours. Add a sub box, mono amp and door speakers and 
 
 ## Bellflower pricing
 
-Dual Kicker Comp loaded box: $249, box only, as of October 2026. Car stereo installation, subwoofer installation, amplifier installation, Apple CarPlay and Android Auto installation and speaker replacement on trucks and SUVs are quoted at the shop. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Bellflower drivers also book window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation, Tesla window tint and Harley bagger audio here.
+Dual Kicker Comp loaded box: $249, box only, as of October 2026. Car stereo installation, subwoofer installation, amplifier installation, Apple CarPlay and Android Auto installation and speaker replacement on trucks and SUVs are quoted at the shop. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Bellflower drivers also book window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation, Tesla window tint and Harley bagger audio here.
 
 ## Near Bellflower
 
@@ -56,7 +59,7 @@ Stereo pages for the next towns over: [Lakewood](/beats/car-stereo-lakewood/) ·
 
 ## Book your Bellflower truck
 
-Tell us the cab style and whether the truck has a factory amp, and the quote will be ready before you arrive. Call (310) 513-8800 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Tell us the cab style and whether the truck has a factory amp, and the quote will be ready before you arrive. Call (213) 429-1092 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -67,7 +70,7 @@ Tell us the cab style and whether the truck has a factory amp, and the quote wil
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-bellflower/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-bellflower/",
    "name": "Bellflower Truck & SUV Car Stereo Install | LA Car Beats",
-   "description": "Car stereo installation, subwoofer and amplifier installation for Bellflower trucks and SUVs at LA Car Beats, Audio MotorSports, Carson. Call (310) 513-8800.",
+   "description": "Car stereo installation, subwoofer and amplifier installation for Bellflower trucks and SUVs at LA Car Beats, Audio MotorSports, Carson. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

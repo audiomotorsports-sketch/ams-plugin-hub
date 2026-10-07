@@ -5,7 +5,7 @@ miles: 19.5
 lead_service: Tesla window tint (Model S)
 source: hub-mounted copy; standalone www host not verified
 title: Model S Window Tint for La Habra | Tesla Tint LA
-meta: Model S and Tesla window tint for La Habra owners at Audio MotorSports in Carson, 19.5 miles away. Ceramic film formed to long door glass. Call (310) 513-8800.
+meta: Model S and Tesla window tint for La Habra owners at Audio MotorSports in Carson, 19.5 miles away. Ceramic film formed to long door glass. Call (213) 429-1092.
 ---
 # Model S Window Tint for La Habra Owners
 
@@ -28,6 +28,9 @@ Audio MotorSports installs dash cameras, Viper alarms, GPS trackers and car ster
 About 19.5 miles, roughly 39 to 47 minutes outside rush hour (approx). Hours: Monday through Saturday, 9:30 AM to 6:00 PM, closed Sunday. Book first, then drop the Model S off for the day or wait at the shop. Customers come to us from over 100 miles away for Tesla tint; La Habra is well inside that.
 
 [SHOP NOTE: 2-3 sentences from Nick about La Habra customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which La Habra customers tell us makes the drop-off painless. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from La Habra.
 
 ## La Habra Model S questions
 
@@ -53,7 +56,7 @@ Wait a few days. The film is curing against the glass during that time, so keep 
 
 ## Pricing
 
-Model S tint, like every Tesla, is quoted by model at the shop; text the year and model for a figure. For a non-Tesla reference, Solar is $249 and Solar Ceramic is $329 installed, as of October 2026. Everything else is quoted at the shop. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Model S tint, like every Tesla, is quoted by model at the shop; text the year and model for a figure. For a non-Tesla reference, Solar is $249 and Solar Ceramic is $329 installed, as of October 2026. Everything else is quoted at the shop. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near La Habra
 
@@ -65,7 +68,7 @@ Model S tint, like every Tesla, is quoted by model at the shop; text the year an
 
 ## Get in touch
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -76,7 +79,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-la-habra/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-la-habra/",
    "name": "Model S Window Tint for La Habra | Tesla Tint LA",
-   "description": "Model S and Tesla window tint for La Habra owners at Audio MotorSports in Carson, 19.5 miles away. Ceramic film formed to long door glass. Call (310) 513-8800.",
+   "description": "Model S and Tesla window tint for La Habra owners at Audio MotorSports in Carson, 19.5 miles away. Ceramic film formed to long door glass. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

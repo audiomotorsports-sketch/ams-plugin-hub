@@ -5,7 +5,7 @@ miles: 12.3
 lead_service: Tesla window tint (camera and sensor clearance)
 source: hub-mounted copy; standalone www host not verified
 title: View Park-Windsor Hills Tesla Tint | Tesla Tint LA
-meta: Tesla window tint for View Park-Windsor Hills owners, cameras kept clear. Audio MotorSports in Carson, 12.3 miles away. Call (310) 513-8800 to book.
+meta: Tesla window tint for View Park-Windsor Hills owners, cameras kept clear. Audio MotorSports in Carson, 12.3 miles away. Call (213) 429-1092 to book.
 ---
 # Tesla Window Tint for View Park-Windsor Hills, Cameras Kept Clear
 
@@ -28,6 +28,9 @@ Dash camera installation and GPS tracker installation for Teslas, plus car stere
 View Park-Windsor Hills is about 12.3 miles from the shop, roughly 25 to 30 minutes outside rush hour (approx). Hours are Monday to Saturday 9:30 AM to 6:00 PM, Sunday closed. Schedule a slot, then wait at the shop or drop the Tesla off and pick it up later.
 
 [SHOP NOTE: 2-3 sentences from Nick about View Park-Windsor Hills customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the View Park-Windsor Hills job is finished. The shop is LGBTQ-friendly and everyone from View Park-Windsor Hills is welcome, as our Google and Yelp listings state. Coming from View Park-Windsor Hills, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## View Park-Windsor Hills Tesla tint questions
 
@@ -53,7 +56,7 @@ Yes. The speakers and wiring behind the rear glass are covered before the glass 
 
 ## Pricing
 
-Tesla tint is quoted by model at the shop; send the year and model by text for yours. Non-Tesla reference pricing, as of October 2026: Solar $249, Solar Ceramic $329 installed. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Tesla tint is quoted by model at the shop; send the year and model by text for yours. Non-Tesla reference pricing, as of October 2026: Solar $249, Solar Ceramic $329 installed. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near View Park-Windsor Hills
 
@@ -64,7 +67,7 @@ Tesla tint is quoted by model at the shop; send the year and model by text for y
 
 ## Book your appointment
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -75,7 +78,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-view-park-windsor-hills/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-view-park-windsor-hills/",
    "name": "View Park-Windsor Hills Tesla Tint | Tesla Tint LA",
-   "description": "Tesla window tint for View Park-Windsor Hills owners, cameras kept clear. Audio MotorSports in Carson, 12.3 miles away. Call (310) 513-8800 to book.",
+   "description": "Tesla window tint for View Park-Windsor Hills owners, cameras kept clear. Audio MotorSports in Carson, 12.3 miles away. Call (213) 429-1092 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

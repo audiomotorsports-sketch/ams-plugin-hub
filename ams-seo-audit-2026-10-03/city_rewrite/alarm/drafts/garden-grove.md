@@ -4,7 +4,7 @@ city: Garden Grove
 miles: 18.9
 lead_service: work-truck security
 title: Work Truck Alarm & GPS Install, Garden Grove | LA Car Alarm
-meta: Work truck car alarm installation, GPS tracker and Compustar remote start for Garden Grove at LA Car Alarm by Audio MotorSports in Carson. Call (310) 513-8800.
+meta: Work truck car alarm installation, GPS tracker and Compustar remote start for Garden Grove at LA Car Alarm by Audio MotorSports in Carson. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Work Truck Security and Car Alarm Installation for Garden Grove
@@ -22,6 +22,9 @@ A truck full of tools is a payday for someone else if the door only has a factor
 **Dash camera installation.** Hardwired front and cab cameras protect the driver in an at-fault dispute and record who opened the doors overnight.
 
 Window tint for the cab, a CarPlay head unit or a stereo upgrade can be added to the same appointment if the truck is already in the bay.
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Garden Grove, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. From Garden Grove you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## From Garden Grove to the shop
 
@@ -54,7 +57,7 @@ About 18.9 miles, under an hour most of the day. It is worth it because a work v
 
 Cargo-door sensors, GPS trackers and dash cameras are quoted per truck at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Neighboring cities
 
@@ -66,7 +69,7 @@ Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
 
 ## Reach the shop
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

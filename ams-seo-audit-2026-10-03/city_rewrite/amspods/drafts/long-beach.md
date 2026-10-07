@@ -4,7 +4,7 @@ city: Long Beach
 miles: 5.7
 lead_service: Harley bagger audio for group rides
 title: Long Beach Harley Bagger Audio | AMS Pods, Carson
-meta: Harley bagger audio installation and AMS lower-fairing pods for Long Beach riders who ride in groups. Audio MotorSports, Carson, 5.7 miles. Call (310) 513-8800.
+meta: Harley bagger audio installation and AMS lower-fairing pods for Long Beach riders who ride in groups. Audio MotorSports, Carson, 5.7 miles. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Harley Bagger Audio for Long Beach Riders
@@ -26,6 +26,9 @@ Need the car done too? Audio MotorSports installs car stereo systems, subwoofers
 ## Getting here from Long Beach
 
 Long Beach to the Carson shop is 5.7 miles, around 11 to 14 minutes outside of rush hour (approx). Schedule first by phone or text, then ride over and decide whether to drop the bike or wait at the shop. Open Monday to Saturday, 9:30 AM to 6:00 PM, Sunday closed. Several riders in a group can book back to back; ask Nick about lining up a run of installs. [SHOP NOTE: 2-3 sentences from Nick about Long Beach riders, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Long Beach, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. Long Beach is home to many of our LGBTQ customers, and everyone is welcome at the shop; it is on our Google and Yelp pages and it is how we work. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Long Beach.
 
 ## What Long Beach riders want to know
 
@@ -54,7 +57,7 @@ Bring the keys and any aftermarket parts you want used, such as cut saddlebag li
 - AMS lower-fairing pods from $649 a pair, as of October 2026.
 - Amplifiers, head units, speaker installation and bag-lid work are quoted on the bike at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby cities
 
@@ -62,7 +65,7 @@ Pages for riders in [Signal Hill](/amspods/bagger-audio-signal-hill/), [Wilmingt
 
 ## Reach the shop
 
-Call (310) 513-8800, text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092, text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -73,7 +76,7 @@ Call (310) 513-8800, text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-long-beach/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-long-beach/",
    "name": "Long Beach Harley Bagger Audio | AMS Pods, Carson",
-   "description": "Harley bagger audio installation and AMS lower-fairing pods for Long Beach riders who ride in groups. Audio MotorSports, Carson, 5.7 miles. Call (310) 513-8800.",
+   "description": "Harley bagger audio installation and AMS lower-fairing pods for Long Beach riders who ride in groups. Audio MotorSports, Carson, 5.7 miles. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

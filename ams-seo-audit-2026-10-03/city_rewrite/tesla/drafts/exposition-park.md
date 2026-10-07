@@ -5,7 +5,7 @@ miles: 15.9
 lead_service: Tesla window tint (Model Y)
 source: hub-mounted copy; standalone www host not verified
 title: Model Y Tint for Exposition Park | Tesla Tint LA
-meta: Model Y and Tesla window tint for Exposition Park owners at Audio MotorSports in Carson, 15.9 miles away. Hatch glass in one piece. Call (310) 513-8800.
+meta: Model Y and Tesla window tint for Exposition Park owners at Audio MotorSports in Carson, 15.9 miles away. Hatch glass in one piece. Call (213) 429-1092.
 ---
 # Model Y Window Tint for Exposition Park Owners
 
@@ -28,6 +28,9 @@ Audio MotorSports also installs dash cameras, GPS trackers, alarms with remote s
 Roughly 15.9 miles, about 32 to 38 minutes outside rush hour (approx). Open Monday to Saturday, 9:30 AM to 6:00 PM; Sunday closed. Set an appointment, then drop the Model Y off for the day or wait at the shop. We have tinted Teslas for owners who drove in from Temecula, so Exposition Park is a modest trip.
 
 [SHOP NOTE: 2-3 sentences from Nick about Exposition Park customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Exposition Park job is finished. Exposition Park customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Exposition Park traffic sends you.
 
 ## Exposition Park Model Y questions
 
@@ -53,7 +56,7 @@ Yes. The dash camera is wired to a fused source with the cable hidden behind the
 
 ## Pricing
 
-Text us the year and trim of your Model Y and we will quote it by model at the shop, as we do every Tesla. The non-Tesla reference, as of October 2026: Solar $249 and Solar Ceramic $329 installed. Other work is quoted at the shop. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Text us the year and trim of your Model Y and we will quote it by model at the shop, as we do every Tesla. The non-Tesla reference, as of October 2026: Solar $249 and Solar Ceramic $329 installed. Other work is quoted at the shop. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near Exposition Park
 
@@ -64,7 +67,7 @@ Text us the year and trim of your Model Y and we will quote it by model at the s
 
 ## Book from Exposition Park
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -75,7 +78,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-exposition-park/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-exposition-park/",
    "name": "Model Y Tint for Exposition Park | Tesla Tint LA",
-   "description": "Model Y and Tesla window tint for Exposition Park owners at Audio MotorSports in Carson, 15.9 miles away. Hatch glass in one piece. Call (310) 513-8800.",
+   "description": "Model Y and Tesla window tint for Exposition Park owners at Audio MotorSports in Carson, 15.9 miles away. Hatch glass in one piece. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

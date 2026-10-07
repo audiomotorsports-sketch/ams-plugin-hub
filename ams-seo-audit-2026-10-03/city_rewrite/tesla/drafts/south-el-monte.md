@@ -5,7 +5,7 @@ miles: 19.7
 lead_service: Tesla window tint (Model S)
 source: hub-mounted copy; standalone www host not verified
 title: Model S Tint for South El Monte Owners | Tesla Tint LA
-meta: Model S ceramic window tint for South El Monte Tesla owners, curved doors formed to fit. Audio MotorSports, Carson, 19.7 miles away. Call (310) 513-8800.
+meta: Model S ceramic window tint for South El Monte Tesla owners, curved doors formed to fit. Audio MotorSports, Carson, 19.7 miles away. Call (213) 429-1092.
 ---
 # Model S Window Tint for South El Monte Tesla Owners
 
@@ -28,6 +28,9 @@ Audio MotorSports can add a dash camera or GPS tracker to the Model S in the sam
 From South El Monte it is about 19.7 miles, roughly 39 to 47 minutes outside rush hour (approx). Hours are Mon-Sat 9:30 AM to 6:00 PM, closed Sunday. Make an appointment and drop the Model S for the day, or wait at the shop if a single trip suits you better.
 
 [SHOP NOTE: 2-3 sentences from Nick about South El Monte customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for South El Monte customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. The shop is LGBTQ-friendly and everyone from South El Monte is welcome, as our Google and Yelp listings state. From South El Monte you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## South El Monte Model S tint questions
 
@@ -53,7 +56,7 @@ Give the film several days with the windows up so it bonds to the glass. Slight 
 
 ## Pricing
 
-Model S and every other Tesla are quoted by model at the shop; text the year and model to get yours. Non-Tesla reference, as of October 2026: Solar $249, Solar Ceramic $329 installed. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Model S and every other Tesla are quoted by model at the shop; text the year and model to get yours. Non-Tesla reference, as of October 2026: Solar $249, Solar Ceramic $329 installed. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near South El Monte
 
@@ -65,7 +68,7 @@ Model S and every other Tesla are quoted by model at the shop; text the year and
 
 ## Book your appointment
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -76,7 +79,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-south-el-monte/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-south-el-monte/",
    "name": "Model S Tint for South El Monte Owners | Tesla Tint LA",
-   "description": "Model S ceramic window tint for South El Monte Tesla owners, curved doors formed to fit. Audio MotorSports, Carson, 19.7 miles away. Call (310) 513-8800.",
+   "description": "Model S ceramic window tint for South El Monte Tesla owners, curved doors formed to fit. Audio MotorSports, Carson, 19.7 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

@@ -4,7 +4,7 @@ city: West Los Angeles
 miles: 18.0
 lead_service: ceramic window tint (commuter glare)
 title: Ceramic Window Tint West Los Angeles | LA Car Tint
-meta: Ceramic window tint for West Los Angeles commuters, hand-cut and installed by LA Car Tint at Audio MotorSports in Carson, 18 miles away. Call (310) 513-8800.
+meta: Ceramic window tint for West Los Angeles commuters, hand-cut and installed by LA Car Tint at Audio MotorSports in Carson, 18 miles away. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Ceramic Window Tint for West Los Angeles Commuters, by Audio MotorSports, Carson
@@ -25,6 +25,9 @@ While the car is here you can add car stereo installation, Apple CarPlay and And
 The run from West Los Angeles is about 18 miles, around forty minutes (approx) outside the commute. The shop is open Monday through Saturday from 9:30 AM to 6:00 PM and closed Sunday. Set a time by calling or texting, then hand over the keys and come back when it is done, or stay and wait. Customers have come from more than 100 miles away for the same work.
 
 [SHOP NOTE: 2-3 sentences from Nick about West Los Angeles customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Plenty of West Los Angeles drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. West Los Angeles customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way West Los Angeles traffic sends you.
 
 ## West Los Angeles questions, answered
 
@@ -61,7 +64,7 @@ Solar window tinting $249 installed; Solar Ceramic window tinting $329 installed
 
 ## Book it
 
-Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
+Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
 
 ```json
 {
@@ -72,7 +75,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-west-los-angeles/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-west-los-angeles/",
    "name": "Ceramic Window Tint West Los Angeles | LA Car Tint",
-   "description": "Ceramic window tint for West Los Angeles commuters, hand-cut and installed by LA Car Tint at Audio MotorSports in Carson, 18 miles away. Call (310) 513-8800.",
+   "description": "Ceramic window tint for West Los Angeles commuters, hand-cut and installed by LA Car Tint at Audio MotorSports in Carson, 18 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

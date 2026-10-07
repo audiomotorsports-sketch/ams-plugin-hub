@@ -4,7 +4,7 @@ city: Midway City
 miles: 17.0
 lead_service: Tesla window tint (Model S)
 title: Midway City Tesla Window Tint | Tesla Tint LA, Carson
-meta: Model S and every Tesla window tint for Midway City owners at Tesla Tint LA by Audio MotorSports in Carson, 17 miles away. Ceramic film. Call (310) 513-8800.
+meta: Model S and every Tesla window tint for Midway City owners at Tesla Tint LA by Audio MotorSports in Carson, 17 miles away. Ceramic film. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla Window Tint for Midway City, Beginning With the Model S
@@ -24,6 +24,9 @@ Midway City is about 17 miles from Tesla Tint LA, the Tesla window tint shop ins
 ## Midway City to the shop
 
 Count on about 17 miles and roughly 34 to 41 minutes outside rush hour (approx). Audio MotorSports is open Monday through Saturday 9:30 to 6:00 and closed on Sunday. Book first, then wait at the shop or drop the car and pick it up later in the day. [SHOP NOTE: 2-3 sentences from Nick about Midway City customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Midway City, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Midway City traffic sends you.
 
 ## Midway City Model S questions
 
@@ -49,7 +52,7 @@ Remote start is not needed on a Tesla, but the shop installs it on other vehicle
 
 ## Prices
 
-The Model S and every other Tesla get a quote by model at the shop. For a non-Tesla reference, the same bay installs Solar for $249 and Solar Ceramic for $329, as of October 2026. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+The Model S and every other Tesla get a quote by model at the shop. For a non-Tesla reference, the same bay installs Solar for $249 and Solar Ceramic for $329, as of October 2026. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby Tesla tint pages
 
@@ -57,7 +60,7 @@ The Model S and every other Tesla get a quote by model at the shop. For a non-Te
 
 ## Book the S
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

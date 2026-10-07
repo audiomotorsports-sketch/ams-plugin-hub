@@ -4,7 +4,7 @@ city: Woodland Hills
 miles: 30.6
 lead_service: AMS lower-fairing pod installation
 title: AMS Pods Installed for Woodland Hills Harleys | AMS Pods
-meta: AMS lower-fairing pod installation for Woodland Hills Harley riders: pods built in Carson, fitted and tuned on the bike. Call (310) 513-8800.
+meta: AMS lower-fairing pod installation for Woodland Hills Harley riders: pods built in Carson, fitted and tuned on the bike. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Lower-Fairing Pod Installation for Woodland Hills Harleys
@@ -26,6 +26,9 @@ Audio MotorSports also installs car stereos, CarPlay and Android Auto, ceramic w
 ## Woodland Hills to Carson
 
 Woodland Hills to the shop is 30.6 miles, about 61 to 73 minutes at normal speeds (approx). Book ahead, ride in, and leave the bike or wait at the shop on a pods-only day. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed. Customers have come from over 100 miles for this work, so the west Valley is an ordinary trip.
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Woodland Hills job is finished. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Woodland Hills traffic sends you.
 
 ## Woodland Hills riders ask
 
@@ -54,7 +57,7 @@ The crash-bar mount is the same on all three bikes. What changes is the amplifie
 - AMS pods from $649 a pair, chrome or gloss, bracket and screws included, as of October 2026.
 - Fitting the pods, amplifier installation and tuning, fairing speakers and radios are all quoted on your bike at the counter. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby cities
 
@@ -62,7 +65,7 @@ Other AMS Pods pages nearby: [Tarzana](/amspods/bagger-audio-tarzana/), [Winnetk
 
 ## Order pods from Woodland Hills
 
-Call (310) 513-8800 or text (213) 429-1092. 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -73,7 +76,7 @@ Call (310) 513-8800 or text (213) 429-1092. 22025 S Avalon Blvd Ste A, Carson, C
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-woodland-hills/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-woodland-hills/",
    "name": "AMS Pods Installed for Woodland Hills Harleys | AMS Pods",
-   "description": "AMS lower-fairing pod installation for Woodland Hills Harley riders: pods built in Carson, fitted and tuned on the bike. Call (310) 513-8800.",
+   "description": "AMS lower-fairing pod installation for Woodland Hills Harley riders: pods built in Carson, fitted and tuned on the bike. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

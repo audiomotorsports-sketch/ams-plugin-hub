@@ -6,7 +6,7 @@ lead_service: car stereo installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: West Covina Car Stereo Installation | LA Car Beats
-meta: Car stereo installation and head unit installation for West Covina drivers at LA Car Beats by Audio MotorSports in Carson, 31 miles. Call (310) 513-8800.
+meta: Car stereo installation and head unit installation for West Covina drivers at LA Car Beats by Audio MotorSports in Carson, 31 miles. Call (213) 429-1092.
 ---
 # Car Stereo Installation for West Covina Drivers
 
@@ -22,7 +22,10 @@ West Covina drivers make the trip to LA Car Beats by Audio MotorSports, Carson, 
 
 ## West Covina to Carson
 
-West Covina to the shop is about 31 miles, roughly 62 to 74 minutes outside rush hour (approx). We are open Monday through Saturday 9:30 to 6:00 and closed Sunday. Call (310) 513-8800 or text (213) 429-1092 to set aside a full day, then drop the car in the morning. Drivers have come from San Diego, about 120 miles, for the same work, so West Covina is well within the range people already travel. [SHOP NOTE: 2-3 sentences from Nick about West Covina customers, routes or jobs]
+West Covina to the shop is about 31 miles, roughly 62 to 74 minutes outside rush hour (approx). We are open Monday through Saturday 9:30 to 6:00 and closed Sunday. Call (213) 429-1092 or text (213) 429-1092 to set aside a full day, then drop the car in the morning. Drivers have come from San Diego, about 120 miles, for the same work, so West Covina is well within the range people already travel. [SHOP NOTE: 2-3 sentences from Nick about West Covina customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the West Covina job is finished. The shop is LGBTQ-friendly and everyone from West Covina is welcome, as our Google and Yelp listings state. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from West Covina.
 
 ## West Covina car stereo questions
 
@@ -40,7 +43,7 @@ Yes. The head units we fit carry Apple CarPlay and Android Auto, the backup came
 
 ### Why drive 31 miles instead of using a shop near West Covina?
 
-Because the installation is what you are buying. Clean wiring, factory controls kept, a dash with no gaps and an amplifier that is quiet at idle come from a shop that does this every day. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, is the record behind the drive.
+Because the installation is what you are buying. Clean wiring, factory controls kept, a dash with no gaps and an amplifier that is quiet at idle come from a shop that does this every day. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, is the record behind the drive.
 
 ### How are the amplifier and subwoofer checked before I head back to West Covina?
 
@@ -62,7 +65,7 @@ Car stereo installation pages for West Covina's neighbors:
 
 ## Book your West Covina build
 
-Call (310) 513-8800 or text (213) 429-1092 and we will hold the day. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 and we will hold the day. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -74,7 +77,7 @@ Call (310) 513-8800 or text (213) 429-1092 and we will hold the day. Audio Motor
    "name": "West Covina Car Stereo Installation | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-west-covina/",
    "dateModified": "2026-10-08",
-   "description": "Car stereo installation and head unit installation for West Covina drivers at LA Car Beats by Audio MotorSports in Carson, 31 miles. Call (310) 513-8800.",
+   "description": "Car stereo installation and head unit installation for West Covina drivers at LA Car Beats by Audio MotorSports in Carson, 31 miles. Call (213) 429-1092.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }
@@ -136,7 +139,7 @@ Call (310) 513-8800 or text (213) 429-1092 and we will hold the day. Audio Motor
      "name": "Why drive 31 miles instead of using a shop near West Covina?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Because the installation is what you are buying. Clean wiring, factory controls kept, a dash with no gaps and an amplifier that is quiet at idle come from a shop that does this every day. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, is the record behind the drive."
+      "text": "Because the installation is what you are buying. Clean wiring, factory controls kept, a dash with no gaps and an amplifier that is quiet at idle come from a shop that does this every day. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, is the record behind the drive."
      }
     },
     {

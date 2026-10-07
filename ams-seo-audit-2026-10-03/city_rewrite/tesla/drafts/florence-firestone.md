@@ -5,7 +5,7 @@ miles: 10.0
 lead_service: Tesla window tint (Model X)
 source: hub-mounted copy; standalone www host not verified
 title: Model X Window Tint, Florence-Firestone | Tesla Tint LA
-meta: Model X and Tesla window tint for Florence-Firestone owners at Audio MotorSports in Carson, 10 miles away. Ceramic film, clean edges. Call (310) 513-8800.
+meta: Model X and Tesla window tint for Florence-Firestone owners at Audio MotorSports in Carson, 10 miles away. Ceramic film, clean edges. Call (213) 429-1092.
 ---
 # Model X and Tesla Window Tint for Florence-Firestone
 
@@ -28,6 +28,9 @@ A car alarm, a remote start, a GPS tracker or a dash camera can be installed at 
 The trip is about 10 miles, roughly 20 to 24 minutes outside rush hour (approx). Shop hours run Monday through Saturday, 9:30 AM to 6:00 PM, with Sunday closed. Make an appointment, then choose: hand us the keys and come back later, or wait at the shop while the Model X is finished.
 
 [SHOP NOTE: 2-3 sentences from Nick about Florence-Firestone customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Florence-Firestone job is finished. The shop is LGBTQ-friendly and everyone from Florence-Firestone is welcome, as our Google and Yelp listings state. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Florence-Firestone.
 
 ## Florence-Firestone Tesla owners ask
 
@@ -53,7 +56,7 @@ Ceramic film is made for exactly this kind of sun. It does not turn purple or bu
 
 ## Pricing
 
-Tesla window tint, including the Model X, is quoted by model at the shop. For a non-Tesla comparison, Solar runs $249 and Solar Ceramic $329 installed, as of October 2026. All other work is quoted at the shop. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Tesla window tint, including the Model X, is quoted by model at the shop. For a non-Tesla comparison, Solar runs $249 and Solar Ceramic $329 installed, as of October 2026. All other work is quoted at the shop. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near Florence-Firestone
 
@@ -64,7 +67,7 @@ Tesla window tint, including the Model X, is quoted by model at the shop. For a 
 
 ## Get on the schedule
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -75,7 +78,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-florence-firestone/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-florence-firestone/",
    "name": "Model X Window Tint, Florence-Firestone | Tesla Tint LA",
-   "description": "Model X and Tesla window tint for Florence-Firestone owners at Audio MotorSports in Carson, 10 miles away. Ceramic film, clean edges. Call (310) 513-8800.",
+   "description": "Model X and Tesla window tint for Florence-Firestone owners at Audio MotorSports in Carson, 10 miles away. Ceramic film, clean edges. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

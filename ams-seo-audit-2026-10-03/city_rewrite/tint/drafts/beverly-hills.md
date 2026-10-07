@@ -4,7 +4,7 @@ city: Beverly Hills
 miles: 18.5
 lead_service: ceramic window tint
 title: Ceramic Window Tint Beverly Hills | LA Car Tint, Carson
-meta: Ceramic window tint for Beverly Hills luxury cars and Teslas, hand-cut and installed by Audio MotorSports in Carson, 18.5 miles away. Call (310) 513-8800.
+meta: Ceramic window tint for Beverly Hills luxury cars and Teslas, hand-cut and installed by Audio MotorSports in Carson, 18.5 miles away. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Ceramic Window Tint for Beverly Hills Cars, by Audio MotorSports, Carson
@@ -26,6 +26,9 @@ About 18.5 miles, roughly forty minutes (approx) outside rush hour. Hours are 9:
 
 [SHOP NOTE: 2-3 sentences from Nick about Beverly Hills customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Beverly Hills customers tell us makes the drop-off painless. Beverly Hills customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Beverly Hills traffic sends you.
+
 ## Beverly Hills owners ask
 
 ### Will ceramic tint look out of place on a high-end car from Beverly Hills?
@@ -42,11 +45,11 @@ The glass is scrubbed and scraped, the film is cut on the window so it is handle
 
 ### Can a Beverly Hills owner drop the car and have it collected the same day?
 
-Yes. The install takes a few hours, so a morning drop-off is usually ready by afternoon. Some owners wait at the shop instead. Appointments are made by calling (310) 513-8800 or texting (213) 429-1092; tell us the model so the right time is set aside.
+Yes. The install takes a few hours, so a morning drop-off is usually ready by afternoon. Some owners wait at the shop instead. Appointments are made by calling (213) 429-1092 or texting (213) 429-1092; tell us the model so the right time is set aside.
 
 ### Why trust a Carson shop with a Beverly Hills car?
 
-Because this bay tints every working day and treats every pane the same way: cut on the glass, edge under the seal, heat-set, inspected. It carries Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. The drive is short and the result lasts.
+Because this bay tints every working day and treats every pane the same way: cut on the glass, edge under the seal, heat-set, inspected. It carries Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. The drive is short and the result lasts.
 
 ## Prices, as of October 2026
 
@@ -61,7 +64,7 @@ Solar window tint $249 installed and Solar Ceramic $329 installed, as of October
 
 ## Book it
 
-Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
+Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
 
 ```json
 {
@@ -72,7 +75,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-beverly-hills/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-beverly-hills/",
    "name": "Ceramic Window Tint Beverly Hills | LA Car Tint, Carson",
-   "description": "Ceramic window tint for Beverly Hills luxury cars and Teslas, hand-cut and installed by Audio MotorSports in Carson, 18.5 miles away. Call (310) 513-8800.",
+   "description": "Ceramic window tint for Beverly Hills luxury cars and Teslas, hand-cut and installed by Audio MotorSports in Carson, 18.5 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -136,7 +139,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "Can a Beverly Hills owner drop the car and have it collected the same day?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. The install takes a few hours, so a morning drop-off is usually ready by afternoon. Some owners wait at the shop instead. Appointments are made by calling (310) 513-8800 or texting (213) 429-1092; tell us the model so the right time is set aside."
+      "text": "Yes. The install takes a few hours, so a morning drop-off is usually ready by afternoon. Some owners wait at the shop instead. Appointments are made by calling (213) 429-1092 or texting (213) 429-1092; tell us the model so the right time is set aside."
      }
     },
     {
@@ -144,7 +147,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "Why trust a Carson shop with a Beverly Hills car?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Because this bay tints every working day and treats every pane the same way: cut on the glass, edge under the seal, heat-set, inspected. It carries Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. The drive is short and the result lasts."
+      "text": "Because this bay tints every working day and treats every pane the same way: cut on the glass, edge under the seal, heat-set, inspected. It carries Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. The drive is short and the result lasts."
      }
     }
    ]

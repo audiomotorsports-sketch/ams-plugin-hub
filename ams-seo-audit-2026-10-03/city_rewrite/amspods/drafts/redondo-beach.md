@@ -4,7 +4,7 @@ city: Redondo Beach
 miles: 7.2
 lead_service: First Harley bagger audio upgrade
 title: Redondo Beach Harley Bagger Audio Upgrade | AMS Pods
-meta: First bagger audio upgrade for Redondo Beach riders: AMS lower-fairing pods, speaker and amp installation at Audio MotorSports in Carson. Call (310) 513-8800.
+meta: First bagger audio upgrade for Redondo Beach riders: AMS lower-fairing pods, speaker and amp installation at Audio MotorSports in Carson. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Your First Harley Bagger Audio Upgrade, Redondo Beach
@@ -26,6 +26,9 @@ Audio MotorSports installs car stereos, subwoofers, Apple CarPlay, window tint, 
 ## Redondo Beach to Carson
 
 The ride from Redondo Beach is about 7.2 miles, roughly 14 to 17 minutes when the freeway is moving (approx). Make an appointment, ride in, and either hand over the keys for the day or wait at the shop for a shorter job. Hours are Monday through Saturday 9:30 AM to 6:00 PM, Sunday closed. [SHOP NOTE: 2-3 sentences from Nick about Redondo Beach riders, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Redondo Beach job is finished. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Redondo Beach traffic sends you.
 
 ## First-timer questions from Redondo Beach
 
@@ -54,7 +57,7 @@ Once your pods are built, which takes around three weeks, the install is a same-
 - AMS lower-fairing pods: from $649 a pair as of October 2026, chrome or gloss, hardware included.
 - Head units, amplifier installation, speaker replacement and bag-lid speakers are quoted on the bike at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby cities
 
@@ -62,7 +65,7 @@ Also serving [Hermosa Beach](/amspods/bagger-audio-hermosa-beach/), [Torrance](/
 
 ## Talk to Nick
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -73,7 +76,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-redondo-beach/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-redondo-beach/",
    "name": "Redondo Beach Harley Bagger Audio Upgrade | AMS Pods",
-   "description": "First bagger audio upgrade for Redondo Beach riders: AMS lower-fairing pods, speaker and amp installation at Audio MotorSports in Carson. Call (310) 513-8800.",
+   "description": "First bagger audio upgrade for Redondo Beach riders: AMS lower-fairing pods, speaker and amp installation at Audio MotorSports in Carson. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

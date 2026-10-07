@@ -5,7 +5,7 @@ miles: 5.9
 lead_service: Tesla window tint (Model X)
 source: hub-mounted copy; standalone www host not verified
 title: Model X Tint for Alondra Park Teslas | Tesla Tint LA
-meta: Model X and every other Tesla tinted with ceramic film for Alondra Park drivers at Audio MotorSports, Carson, about 5.9 miles. Call (310) 513-8800.
+meta: Model X and every other Tesla tinted with ceramic film for Alondra Park drivers at Audio MotorSports, Carson, about 5.9 miles. Call (213) 429-1092.
 ---
 # Model X Window Tint for Alondra Park, Done in Carson
 
@@ -28,6 +28,9 @@ Audio MotorSports is one shop that also installs car stereos, Apple CarPlay and 
 Roughly 5.9 miles, or about a 12 to 14 minute drive outside rush hour (approx). Open Monday to Saturday, 9:30 AM to 6:00 PM; Sunday the doors are closed. Make an appointment, then drop off or wait at the shop, whichever suits your day. Customers have driven in from Temecula for Tesla tint, so Alondra Park is an easy trip.
 
 [SHOP NOTE: 2-3 sentences from Nick about Alondra Park customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Alondra Park customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Alondra Park traffic sends you.
 
 ## Alondra Park owners ask
 
@@ -53,7 +56,7 @@ No, and that matters. Film is cut on a glass board, shaped and then applied to t
 
 ## What it costs
 
-Tesla window tint is quoted by model at the shop, with the Model X at the top of the range because of its glass area. The non-Tesla reference, as of October 2026: Solar $249, Solar Ceramic $329 installed. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Tesla window tint is quoted by model at the shop, with the Model X at the top of the range because of its glass area. The non-Tesla reference, as of October 2026: Solar $249, Solar Ceramic $329 installed. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Close to Alondra Park
 
@@ -64,7 +67,7 @@ Tesla window tint is quoted by model at the shop, with the Model X at the top of
 
 ## Book it
 
-Call (310) 513-8800, text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092, text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -75,7 +78,7 @@ Call (310) 513-8800, text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-alondra-park/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-alondra-park/",
    "name": "Model X Tint for Alondra Park Teslas | Tesla Tint LA",
-   "description": "Model X and every other Tesla tinted with ceramic film for Alondra Park drivers at Audio MotorSports, Carson, about 5.9 miles. Call (310) 513-8800.",
+   "description": "Model X and every other Tesla tinted with ceramic film for Alondra Park drivers at Audio MotorSports, Carson, about 5.9 miles. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

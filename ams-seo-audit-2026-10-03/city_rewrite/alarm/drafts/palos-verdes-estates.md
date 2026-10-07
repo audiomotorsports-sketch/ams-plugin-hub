@@ -4,7 +4,7 @@ city: Palos Verdes Estates
 miles: 8.0
 lead_service: Viper alarm installation
 title: Palos Verdes Estates Viper Alarm Installation | LA Car Alarm
-meta: Viper alarm installation for Palos Verdes Estates drivers at LA Car Alarm by Audio MotorSports, Carson. Remote start, GPS, dash cams. Call (310) 513-8800.
+meta: Viper alarm installation for Palos Verdes Estates drivers at LA Car Alarm by Audio MotorSports, Carson. Remote start, GPS, dash cams. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Viper Alarm Installation for Palos Verdes Estates
@@ -22,6 +22,9 @@ Palos Verdes Estates drivers bring their cars to LA Car Alarm at Audio MotorSpor
 **Dash camera installation.** Front and rear, hardwired to a fused circuit, cable concealed along the headliner. Parking mode keeps watch in the driveway and the lot.
 
 Need ceramic window tint or a CarPlay head unit while the car is here? Same shop, same appointment.
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Palos Verdes Estates customers tell us makes the drop-off painless. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. From Palos Verdes Estates you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## From Palos Verdes Estates to Carson
 
@@ -54,7 +57,7 @@ A few days is usually enough, and the drive is short. Text the year, make and mo
 
 GPS trackers and dash cameras are quoted at the shop on your vehicle. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby alarm pages
 
@@ -65,7 +68,7 @@ Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
 
 ## Schedule from Palos Verdes Estates
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

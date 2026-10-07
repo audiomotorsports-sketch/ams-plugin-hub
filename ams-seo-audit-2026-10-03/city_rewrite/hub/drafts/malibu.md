@@ -4,7 +4,7 @@ city: Malibu
 miles: 32.6
 lead_service: car window tint / ceramic window tint
 title: Car Window Tint for Malibu Drivers | Audio MotorSports
-meta: Malibu car window tint and ceramic tint at Audio MotorSports in Carson, 32.6 miles away, plus car stereo, CarPlay and alarm installation. Call (310) 513-8800.
+meta: Malibu car window tint and ceramic tint at Audio MotorSports in Carson, 32.6 miles away, plus car stereo, CarPlay and alarm installation. Call (213) 429-1092.
 ---
 # Car Window Tint for Malibu Drivers
 
@@ -22,13 +22,16 @@ Malibu drivers bring their cars about 32.6 miles to Audio MotorSports, 22025 S A
 
 **Dash camera installation and GPS tracker installation.** Cameras hardwired for parking mode, trackers tucked away on a circuit of their own, nothing left on display.
 
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Malibu, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. The shop is LGBTQ-friendly and everyone from Malibu is welcome, as our Google and Yelp listings state. Coming from Malibu, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
+
 ## Malibu to Carson
 
 Count on about 32.6 miles, roughly 65 to 78 minutes (approx) when traffic is light. Book a slot first, then decide whether to wait in the shop or leave the car and come back; a full tint is a few hours, so many drivers drop off in the morning and make a day of it. The shop is open Monday to Saturday 9:30 AM to 6:00 PM and closed Sunday. Customers come from over 100 miles away for this work, so Malibu is a short hop by comparison. [SHOP NOTE: 2-3 sentences from Nick about Malibu customers, routes or jobs]
 
 ### Is the drive from Malibu worth it for car window tint?
 
-For film cut on your own glass and tucked under the seal, yes. Tint is a labor job: the material is a small part of the price, and the hands doing the shrink and the edge decide whether the rear window stays clean or bubbles by summer. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+For film cut on your own glass and tucked under the seal, yes. Tint is a labor job: the material is a small part of the price, and the hands doing the shrink and the edge decide whether the rear window stays clean or bubbles by summer. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ### How dark can a Malibu driver legally go in California?
 
@@ -56,7 +59,7 @@ Solar window tint $249 installed. Solar Ceramic window tint $329 installed. Vipe
 
 ## Book window tint from Malibu
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -67,7 +70,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio 
    "@id": "https://www.audiomotorsports.com/malibu/#webpage",
    "url": "https://www.audiomotorsports.com/malibu/",
    "name": "Car Window Tint for Malibu Drivers | Audio MotorSports",
-   "description": "Malibu car window tint and ceramic tint at Audio MotorSports in Carson, 32.6 miles away, plus car stereo, CarPlay and alarm installation. Call (310) 513-8800.",
+   "description": "Malibu car window tint and ceramic tint at Audio MotorSports in Carson, 32.6 miles away, plus car stereo, CarPlay and alarm installation. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -106,7 +109,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio 
      "name": "Is the drive from Malibu worth it for car window tint?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "For film cut on your own glass and tucked under the seal, yes. Tint is a labor job: the material is a small part of the price, and the hands doing the shrink and the edge decide whether the rear window stays clean or bubbles by summer. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026."
+      "text": "For film cut on your own glass and tucked under the seal, yes. Tint is a labor job: the material is a small part of the price, and the hands doing the shrink and the edge decide whether the rear window stays clean or bubbles by summer. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026."
      }
     },
     {

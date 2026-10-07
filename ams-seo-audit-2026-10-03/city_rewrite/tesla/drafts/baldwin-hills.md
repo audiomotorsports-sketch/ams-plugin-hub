@@ -5,7 +5,7 @@ miles: 13.3
 lead_service: Tesla window tint (glass roof heat)
 source: hub-mounted copy; standalone www host not verified
 title: Tesla Tint for Baldwin Hills Heat | Tesla Tint LA
-meta: Tesla window tint for Baldwin Hills owners fighting glass-roof heat: ceramic film installed at Audio MotorSports in Carson, 13.3 miles away. Call (310) 513-8800 or text (213) 429-1092.
+meta: Tesla window tint for Baldwin Hills owners fighting glass-roof heat: ceramic film installed at Audio MotorSports in Carson, 13.3 miles away. Call (213) 429-1092 or text (213) 429-1092.
 ---
 # Tesla Window Tint for Baldwin Hills: Beating the Glass Roof Heat
 
@@ -28,6 +28,9 @@ The same Carson shop does car stereo installation, Apple CarPlay and Android Aut
 It is about 13.3 miles, roughly 27 to 32 minutes outside rush hour (approx). Hours run Monday through Saturday, 9:30 AM to 6:00 PM, with Sunday closed. Book ahead, then drop the car for the day or wait at the shop. People drive in from over 100 miles away for this work, so the trip from Baldwin Hills is an easy one.
 
 [SHOP NOTE: 2-3 sentences from Nick about Baldwin Hills customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Baldwin Hills customers tell us makes the drop-off painless. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Baldwin Hills traffic sends you.
 
 ## Baldwin Hills Tesla tint, answered
 
@@ -53,7 +56,7 @@ No. Camera windows on the glass are masked and left clear, and there is no metal
 
 ## Pricing
 
-Tesla tint is quoted by model at the shop, roof panel on its own line; text the year and model to get the figure. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Tesla tint is quoted by model at the shop, roof panel on its own line; text the year and model to get the figure. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint close to Baldwin Hills
 
@@ -64,7 +67,7 @@ Tesla tint is quoted by model at the shop, roof panel on its own line; text the 
 
 ## Book from Baldwin Hills
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -75,7 +78,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-baldwin-hills/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-baldwin-hills/",
    "name": "Tesla Tint for Baldwin Hills Heat | Tesla Tint LA",
-   "description": "Tesla window tint for Baldwin Hills owners fighting glass-roof heat: ceramic film installed at Audio MotorSports in Carson, 13.3 miles away. Call (310) 513-8800 or text (213) 429-1092.",
+   "description": "Tesla window tint for Baldwin Hills owners fighting glass-roof heat: ceramic film installed at Audio MotorSports in Carson, 13.3 miles away. Call (213) 429-1092 or text (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

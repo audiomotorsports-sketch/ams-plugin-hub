@@ -4,7 +4,7 @@ city: Playa del Rey
 miles: 13.3
 lead_service: window tinting (beach glare and salt air)
 title: Window Tinting Playa del Rey | LA Car Tint, Carson
-meta: Window tinting and ceramic window tint for Playa del Rey cars, hand-cut and installed by Audio MotorSports in Carson, 13.3 miles away. Call (310) 513-8800.
+meta: Window tinting and ceramic window tint for Playa del Rey cars, hand-cut and installed by Audio MotorSports in Carson, 13.3 miles away. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Window Tinting for Playa del Rey, by Audio MotorSports in Carson
@@ -26,6 +26,9 @@ About 13.3 miles, roughly thirty minutes (approx) when traffic is light. The sho
 
 [SHOP NOTE: 2-3 sentences from Nick about Playa del Rey customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+Plenty of Playa del Rey drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Playa del Rey.
+
 ## Playa del Rey questions
 
 ### Does window tint survive salt air in Playa del Rey?
@@ -42,7 +45,7 @@ Yes. Book a time, drive down, and leave the keys. Most cars are finished the sam
 
 ### How do I know the film will be fitted properly?
 
-Read the reviews before you drive: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. The film is hand-cut on your glass, not pre-cut, so it matches the exact shape of each window. That is the difference between a tint that lasts and one that lifts.
+Read the reviews before you drive: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. The film is hand-cut on your glass, not pre-cut, so it matches the exact shape of each window. That is the difference between a tint that lasts and one that lifts.
 
 ### Can tint be removed later without damaging the glass?
 
@@ -61,7 +64,7 @@ Solar window tinting $249 installed; Solar Ceramic window tinting $329 installed
 
 ## Book it
 
-Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
+Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
 
 ```json
 {
@@ -72,7 +75,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-playa-del-rey/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-playa-del-rey/",
    "name": "Window Tinting Playa del Rey | LA Car Tint, Carson",
-   "description": "Window tinting and ceramic window tint for Playa del Rey cars, hand-cut and installed by Audio MotorSports in Carson, 13.3 miles away. Call (310) 513-8800.",
+   "description": "Window tinting and ceramic window tint for Playa del Rey cars, hand-cut and installed by Audio MotorSports in Carson, 13.3 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -136,7 +139,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "How do I know the film will be fitted properly?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Read the reviews before you drive: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. The film is hand-cut on your glass, not pre-cut, so it matches the exact shape of each window. That is the difference between a tint that lasts and one that lifts."
+      "text": "Read the reviews before you drive: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. The film is hand-cut on your glass, not pre-cut, so it matches the exact shape of each window. That is the difference between a tint that lasts and one that lifts."
      }
     },
     {

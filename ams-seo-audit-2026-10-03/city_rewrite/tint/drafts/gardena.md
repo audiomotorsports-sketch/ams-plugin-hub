@@ -4,7 +4,7 @@ city: Gardena
 miles: 4.9
 lead_service: window tinting (glare)
 title: Gardena Window Tinting | LA Car Tint by Audio MotorSports
-meta: Window tinting and ceramic window tint for Gardena drivers, done at Audio MotorSports in Carson, 4.9 miles away. Hand-cut film. Call (310) 513-8800.
+meta: Window tinting and ceramic window tint for Gardena drivers, done at Audio MotorSports in Carson, 4.9 miles away. Hand-cut film. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Window Tinting for Gardena Drivers
@@ -22,6 +22,9 @@ Gardena drivers bring their cars to LA Car Tint by Audio MotorSports, 22025 S Av
 ## Getting here from Gardena
 
 From Gardena the shop is roughly 4.9 miles, about a 10 to 12 minute drive outside rush hour (approx). Schedule a time, then decide whether to drop the car and come back or sit in the waiting area; a four-door tint is normally finished the same day. Hours are 9:30 a.m. to 6:00 p.m. Monday through Saturday, closed Sunday. [SHOP NOTE: 2-3 sentences from Nick about Gardena customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Gardena customers tell us makes the drop-off painless. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Gardena traffic sends you. Gardena sends us Metro bus operators and plenty of commuters who work at the bigger employers around the 110 and the 405.
 
 ## Questions Gardena drivers ask about tint
 
@@ -47,7 +50,7 @@ Yes, and that back window is where a careful installer earns their keep. We shri
 
 ## Gardena tint pricing
 
-As of October 2026 the four-door packages are Solar at $249 installed and Solar Ceramic at $329 installed, covering four doors plus the rear window. SUVs, trucks, windshields and Tesla roof glass are quoted at the counter. Ask Nick about the payment plan. Our ratings as of October 2026 stand at Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews).
+As of October 2026 the four-door packages are Solar at $249 installed and Solar Ceramic at $329 installed, covering four doors plus the rear window. SUVs, trucks, windshields and Tesla roof glass are quoted at the counter. Ask Nick about the payment plan. Our ratings as of October 2026 stand at Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews).
 
 ## Nearby tint pages
 
@@ -55,7 +58,7 @@ Also served from the Carson bay: [Torrance](/tint/window-tint-torrance/), [Lawnd
 
 ## Schedule window tinting from Gardena
 
-Text (213) 429-1092 or call (310) 513-8800 to pick a slot. Find us at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-18:00, Sunday closed.
+Text (213) 429-1092 or call (213) 429-1092 to pick a slot. Find us at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -66,7 +69,7 @@ Text (213) 429-1092 or call (310) 513-8800 to pick a slot. Find us at 22025 S Av
    "@id": "https://www.audiomotorsports.com/tint/window-tint-gardena/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-gardena/",
    "name": "Gardena Window Tinting | LA Car Tint by Audio MotorSports",
-   "description": "Window tinting and ceramic window tint for Gardena drivers, done at Audio MotorSports in Carson, 4.9 miles away. Hand-cut film. Call (310) 513-8800.",
+   "description": "Window tinting and ceramic window tint for Gardena drivers, done at Audio MotorSports in Carson, 4.9 miles away. Hand-cut film. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

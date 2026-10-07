@@ -4,7 +4,7 @@ city: Anaheim Hills
 miles: 29.9
 lead_service: Car stereo installation
 title: Car Stereo Installation, Anaheim Hills | Audio MotorSports
-meta: Car stereo installation, speaker, subwoofer and amplifier installs, window tint and alarms for Anaheim Hills drivers. Audio MotorSports, Carson. (310) 513-8800.
+meta: Car stereo installation, speaker, subwoofer and amplifier installs, window tint and alarms for Anaheim Hills drivers. Audio MotorSports, Carson. (213) 429-1092.
 ---
 # Car Stereo Installation for Anaheim Hills Drivers
 
@@ -22,9 +22,12 @@ Anaheim Hills drivers come to Audio MotorSports, 22025 S Avalon Blvd Ste A in Ca
 
 **Viper alarm installation and GPS tracker installation.** Alarms spliced into the harness and trackers hidden on constant power.
 
+<!-- owner-details-2026-10-07 -->
+For a longer job from Anaheim Hills, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Anaheim Hills traffic sends you.
+
 ## Anaheim Hills to Carson
 
-About 29.9 miles, roughly 60 to 72 minutes (approx) when the freeway is clear. Hours are Monday through Saturday 9:30 AM to 6:00 PM, closed Sunday. Make an appointment, then drop the car for the day or wait at the shop; a full system is usually a drop-off. Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Anaheim Hills drivers can read Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, before making the trip.
+About 29.9 miles, roughly 60 to 72 minutes (approx) when the freeway is clear. Hours are Monday through Saturday 9:30 AM to 6:00 PM, closed Sunday. Make an appointment, then drop the car for the day or wait at the shop; a full system is usually a drop-off. Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Anaheim Hills drivers can read Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, before making the trip.
 
 [SHOP NOTE: 2-3 sentences from Nick about Anaheim Hills customers, routes or jobs]
 
@@ -70,7 +73,7 @@ Head units, speakers, amplifiers, GPS trackers and dash cams are quoted at the s
 
 ## Book car audio from Anaheim Hills
 
-Call (310) 513-8800 or text (213) 429-1092 to set a time. Audio MotorSports is one bay at 22025 S Avalon Blvd Ste A in Carson, 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 to set a time. Audio MotorSports is one bay at 22025 S Avalon Blvd Ste A in Carson, 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -81,7 +84,7 @@ Call (310) 513-8800 or text (213) 429-1092 to set a time. Audio MotorSports is o
    "@id": "https://www.audiomotorsports.com/anaheim-hills/#webpage",
    "url": "https://www.audiomotorsports.com/anaheim-hills/",
    "name": "Car Stereo Installation, Anaheim Hills | Audio MotorSports",
-   "description": "Car stereo installation, speaker, subwoofer and amplifier installs, window tint and alarms for Anaheim Hills drivers. Audio MotorSports, Carson. (310) 513-8800.",
+   "description": "Car stereo installation, speaker, subwoofer and amplifier installs, window tint and alarms for Anaheim Hills drivers. Audio MotorSports, Carson. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

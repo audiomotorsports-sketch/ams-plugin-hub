@@ -4,7 +4,7 @@ city: Baldwin Park
 miles: 30.8
 lead_service: car window tint
 title: Car Window Tint Baldwin Park | LA Car Tint, Carson
-meta: Car window tint for Baldwin Park trucks, SUVs and sedans, Solar and ceramic film hand-cut at Audio MotorSports in Carson, 30.8 miles away. Call (310) 513-8800.
+meta: Car window tint for Baldwin Park trucks, SUVs and sedans, Solar and ceramic film hand-cut at Audio MotorSports in Carson, 30.8 miles away. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Window Tint for Baldwin Park Trucks and Sedans, by Audio MotorSports, Carson
@@ -26,6 +26,9 @@ It is about 30.8 miles from Baldwin Park to Carson, a little over an hour (appro
 
 [SHOP NOTE: 2-3 sentences from Nick about Baldwin Park customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Baldwin Park, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Coming from Baldwin Park, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
+
 ## Baldwin Park drivers ask
 
 ### Will window tint keep a Baldwin Park work truck cooler on a job site?
@@ -42,7 +45,7 @@ The install itself takes a few hours. Afterward the windows should stay up for s
 
 ### Is it worth an hour each way from Baldwin Park for window tinting?
 
-For a vehicle you depend on, yes. The film is hand-cut on your glass, the edges hide under the seal, and the shop holds Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. A redo after a cheap install costs more than the extra miles.
+For a vehicle you depend on, yes. The film is hand-cut on your glass, the edges hide under the seal, and the shop holds Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. A redo after a cheap install costs more than the extra miles.
 
 ### Can a Baldwin Park owner get the car alarm and tint done on one trip?
 
@@ -61,7 +64,7 @@ Solar window tint $249 installed and Solar Ceramic $329 installed, as of October
 
 ## Book it
 
-Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
+Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
 
 ```json
 {
@@ -72,7 +75,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-baldwin-park/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-baldwin-park/",
    "name": "Car Window Tint Baldwin Park | LA Car Tint, Carson",
-   "description": "Car window tint for Baldwin Park trucks, SUVs and sedans, Solar and ceramic film hand-cut at Audio MotorSports in Carson, 30.8 miles away. Call (310) 513-8800.",
+   "description": "Car window tint for Baldwin Park trucks, SUVs and sedans, Solar and ceramic film hand-cut at Audio MotorSports in Carson, 30.8 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -136,7 +139,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "Is it worth an hour each way from Baldwin Park for window tinting?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "For a vehicle you depend on, yes. The film is hand-cut on your glass, the edges hide under the seal, and the shop holds Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. A redo after a cheap install costs more than the extra miles."
+      "text": "For a vehicle you depend on, yes. The film is hand-cut on your glass, the edges hide under the seal, and the shop holds Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. A redo after a cheap install costs more than the extra miles."
      }
     },
     {

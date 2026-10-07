@@ -4,7 +4,7 @@ city: Hawaiian Gardens
 miles: 11.0
 lead_service: Tesla window tint
 title: Tesla Tint & Car Audio, Hawaiian Gardens | Audio MotorSports
-meta: Tesla window tint, ceramic tint, car stereo, alarms and remote start for Hawaiian Gardens drivers at Audio MotorSports in Carson, 11 miles. (310) 513-8800.
+meta: Tesla window tint, ceramic tint, car stereo, alarms and remote start for Hawaiian Gardens drivers at Audio MotorSports in Carson, 11 miles. (213) 429-1092.
 ---
 # Tesla Window Tint and Car Audio for Hawaiian Gardens
 
@@ -22,9 +22,12 @@ For Hawaiian Gardens Tesla owners, window tint means a trip of about 11 miles to
 
 **GPS tracker installation and dash camera installation.** Hidden, hardwired, and tied to your phone.
 
+<!-- owner-details-2026-10-07 -->
+Plenty of Hawaiian Gardens drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. The shop is LGBTQ-friendly and everyone from Hawaiian Gardens is welcome, as our Google and Yelp listings state. Coming from Hawaiian Gardens, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
+
 ## Driving in from Hawaiian Gardens
 
-Hawaiian Gardens is roughly 11 miles from the shop, around 22 to 26 minutes outside rush hour (approx). Set up an appointment, then drop the car and pick it up when we call, or wait here while the work is done. We are open Mon-Sat 9:30-18:00 and closed Sunday. Google rates the shop 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. [SHOP NOTE: 2-3 sentences from Nick about Hawaiian Gardens customers, routes or jobs]
+Hawaiian Gardens is roughly 11 miles from the shop, around 22 to 26 minutes outside rush hour (approx). Set up an appointment, then drop the car and pick it up when we call, or wait here while the work is done. We are open Mon-Sat 9:30-18:00 and closed Sunday. Google rates the shop 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. [SHOP NOTE: 2-3 sentences from Nick about Hawaiian Gardens customers, routes or jobs]
 
 ### Is Tesla tint any different from tinting a regular car?
 
@@ -56,7 +59,7 @@ Window tint Solar $249 and Solar Ceramic $329 installed, on standard vehicles. C
 
 ## Book from Hawaiian Gardens
 
-Call (310) 513-8800 or send a text to (213) 429-1092 with the year, make and model. Find the shop at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-18:00, closed Sunday.
+Call (213) 429-1092 or send a text to (213) 429-1092 with the year, make and model. Find the shop at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -67,7 +70,7 @@ Call (310) 513-8800 or send a text to (213) 429-1092 with the year, make and mod
    "@id": "https://www.audiomotorsports.com/hawaiian-gardens/#webpage",
    "url": "https://www.audiomotorsports.com/hawaiian-gardens/",
    "name": "Tesla Tint & Car Audio, Hawaiian Gardens | Audio MotorSports",
-   "description": "Tesla window tint, ceramic tint, car stereo, alarms and remote start for Hawaiian Gardens drivers at Audio MotorSports in Carson, 11 miles. (310) 513-8800.",
+   "description": "Tesla window tint, ceramic tint, car stereo, alarms and remote start for Hawaiian Gardens drivers at Audio MotorSports in Carson, 11 miles. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

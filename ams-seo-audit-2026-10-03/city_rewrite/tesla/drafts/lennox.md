@@ -5,7 +5,7 @@ miles: 9.0
 lead_service: Tesla window tint (Model 3)
 source: hub-mounted copy; standalone www host not verified
 title: Model 3 Window Tint for Lennox Drivers | Tesla Tint LA
-meta: Model 3 and Tesla window tint for Lennox drivers at Audio MotorSports in Carson, 9 miles away. Ceramic film, one-piece rear glass. Call (310) 513-8800.
+meta: Model 3 and Tesla window tint for Lennox drivers at Audio MotorSports in Carson, 9 miles away. Ceramic film, one-piece rear glass. Call (213) 429-1092.
 ---
 # Model 3 Window Tint for Lennox Drivers
 
@@ -28,6 +28,9 @@ Audio MotorSports also installs dash cameras, GPS trackers, alarms with remote s
 About 9 miles, roughly 18 to 22 minutes outside rush hour (approx). Hours: Monday through Saturday, 9:30 AM to 6:00 PM, Sunday closed. Reserve a spot, then either drop the Model 3 off or wait at the shop while the tint goes on. Short trip; most Lennox drivers stay.
 
 [SHOP NOTE: 2-3 sentences from Nick about Lennox customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Lennox drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Lennox.
 
 ## Lennox Model 3 tint questions
 
@@ -53,7 +56,7 @@ Most Model 3 jobs are done the same day, and you can drive it home as soon as it
 
 ## Pricing
 
-Model 3 and every other Tesla are quoted by model at the shop; text the year and model for a figure. The non-Tesla reference, as of October 2026: Solar $249 and Solar Ceramic $329 installed. Other installs are quoted at the shop. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Model 3 and every other Tesla are quoted by model at the shop; text the year and model for a figure. The non-Tesla reference, as of October 2026: Solar $249 and Solar Ceramic $329 installed. Other installs are quoted at the shop. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near Lennox
 
@@ -64,7 +67,7 @@ Model 3 and every other Tesla are quoted by model at the shop; text the year and
 
 ## Call or text to schedule
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -75,7 +78,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-lennox/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-lennox/",
    "name": "Model 3 Window Tint for Lennox Drivers | Tesla Tint LA",
-   "description": "Model 3 and Tesla window tint for Lennox drivers at Audio MotorSports in Carson, 9 miles away. Ceramic film, one-piece rear glass. Call (310) 513-8800.",
+   "description": "Model 3 and Tesla window tint for Lennox drivers at Audio MotorSports in Carson, 9 miles away. Ceramic film, one-piece rear glass. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

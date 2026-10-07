@@ -6,7 +6,7 @@ lead_service: factory-look head unit installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Azusa Factory-Look Head Unit Installation | LA Car Beats
-meta: Factory-look head unit and car stereo installation for Azusa drivers at LA Car Beats by Audio MotorSports in Carson, 36.5 miles. Call (310) 513-8800.
+meta: Factory-look head unit and car stereo installation for Azusa drivers at LA Car Beats by Audio MotorSports in Carson, 36.5 miles. Call (213) 429-1092.
 ---
 # Factory-Look Head Unit Installation for Azusa
 
@@ -21,7 +21,10 @@ Azusa drivers get factory-look head unit installation at LA Car Beats by Audio M
 
 ## Azusa to Carson
 
-From Azusa the shop is about 36.5 miles, roughly 73 to 88 minutes outside peak traffic (approx). We are open Monday through Saturday, 9:30 to 6:00; Sunday closed. Book at (310) 513-8800 or by text at (213) 429-1092. Azusa drivers usually make the trip count by bundling a head unit installation with speakers or an amp and dropping the car off in the morning for afternoon pickup. People drive to this Carson shop from over 100 miles away, so Azusa is a routine distance.
+From Azusa the shop is about 36.5 miles, roughly 73 to 88 minutes outside peak traffic (approx). We are open Monday through Saturday, 9:30 to 6:00; Sunday closed. Book at (213) 429-1092 or by text at (213) 429-1092. Azusa drivers usually make the trip count by bundling a head unit installation with speakers or an amp and dropping the car off in the morning for afternoon pickup. People drive to this Carson shop from over 100 miles away, so Azusa is a routine distance.
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Azusa, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. From Azusa you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Azusa head unit questions
 
@@ -47,7 +50,7 @@ It does. Window tint and ceramic window tint are done here, and so are car alarm
 
 ## Dated prices
 
-The Dual Kicker Comp box is $249 box only, as of October 2026. Head unit installation, Apple CarPlay and Android Auto installation, speaker replacement and amplifier installation are priced at the shop once we see the Azusa car. Payment plan available, ask Nick. Azusa drivers can see Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, before they commit to the drive.
+The Dual Kicker Comp box is $249 box only, as of October 2026. Head unit installation, Apple CarPlay and Android Auto installation, speaker replacement and amplifier installation are priced at the shop once we see the Azusa car. Payment plan available, ask Nick. Azusa drivers can see Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, before they commit to the drive.
 
 ## Near Azusa
 
@@ -55,7 +58,7 @@ Car stereo installation pages for cities near Azusa: [Covina](/beats/car-stereo-
 
 ## Book a factory-look install from Azusa
 
-Text (213) 429-1092 or call (310) 513-8800. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Hours Mon-Sat 9:30-18:00, Sunday closed.
+Text (213) 429-1092 or call (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Hours Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -67,7 +70,7 @@ Text (213) 429-1092 or call (310) 513-8800. Audio MotorSports, 22025 S Avalon Bl
    "name": "Azusa Factory-Look Head Unit Installation | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-azusa/",
    "dateModified": "2026-10-08",
-   "description": "Factory-look head unit and car stereo installation for Azusa drivers at LA Car Beats by Audio MotorSports in Carson, 36.5 miles. Call (310) 513-8800.",
+   "description": "Factory-look head unit and car stereo installation for Azusa drivers at LA Car Beats by Audio MotorSports in Carson, 36.5 miles. Call (213) 429-1092.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

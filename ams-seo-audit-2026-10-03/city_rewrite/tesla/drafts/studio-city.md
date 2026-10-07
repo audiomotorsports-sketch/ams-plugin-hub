@@ -5,7 +5,7 @@ miles: 23.4
 lead_service: Tesla window tint (new delivery)
 source: hub-mounted copy; standalone www host not verified
 title: Studio City New-Tesla Window Tint | Tesla Tint LA
-meta: Ceramic window tint for a new Tesla delivery in Studio City. Tesla Tint LA by Audio MotorSports in Carson, 23.4 miles away. Call (310) 513-8800 to book.
+meta: Ceramic window tint for a new Tesla delivery in Studio City. Tesla Tint LA by Audio MotorSports in Carson, 23.4 miles away. Call (213) 429-1092 to book.
 ---
 # Tesla Window Tint for Studio City's New Deliveries
 
@@ -31,11 +31,14 @@ Studio City is about 23.4 miles out, roughly 47 to 56 minutes outside rush hour 
 
 [SHOP NOTE: 2-3 sentences from Nick about Studio City customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Studio City, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Studio City traffic sends you.
+
 ## Studio City new-Tesla tint questions
 
 ### Should a Studio City owner tint a new Tesla right away?
 
-Yes, if the plan is to tint at all. New factory glass needs no stripping, and the earlier the film goes on, the earlier the cabin stops heating up under the glass roof. Call (310) 513-8800 with the delivery week and a slot can be set for just after pickup.
+Yes, if the plan is to tint at all. New factory glass needs no stripping, and the earlier the film goes on, the earlier the cabin stops heating up under the glass roof. Call (213) 429-1092 with the delivery week and a slot can be set for just after pickup.
 
 ### Is the drive from Studio City too long for Tesla tint?
 
@@ -55,7 +58,7 @@ No. The camera cluster and the side repeaters are masked and the film pattern st
 
 ## Pricing
 
-Every Tesla, new or not, is quoted by model at the shop; text the year and model for a number. For a non-Tesla, Solar is $249 and Solar Ceramic is $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Every Tesla, new or not, is quoted by model at the shop; text the year and model for a number. For a non-Tesla, Solar is $249 and Solar Ceramic is $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near Studio City
 
@@ -66,7 +69,7 @@ Every Tesla, new or not, is quoted by model at the shop; text the year and model
 
 ## Book your appointment
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -77,7 +80,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-studio-city/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-studio-city/",
    "name": "Studio City New-Tesla Window Tint | Tesla Tint LA",
-   "description": "Ceramic window tint for a new Tesla delivery in Studio City. Tesla Tint LA by Audio MotorSports in Carson, 23.4 miles away. Call (310) 513-8800 to book.",
+   "description": "Ceramic window tint for a new Tesla delivery in Studio City. Tesla Tint LA by Audio MotorSports in Carson, 23.4 miles away. Call (213) 429-1092 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -119,7 +122,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "Should a Studio City owner tint a new Tesla right away?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes, if the plan is to tint at all. New factory glass needs no stripping, and the earlier the film goes on, the earlier the cabin stops heating up under the glass roof. Call (310) 513-8800 with the delivery week and a slot can be set for just after pickup."
+      "text": "Yes, if the plan is to tint at all. New factory glass needs no stripping, and the earlier the film goes on, the earlier the cabin stops heating up under the glass roof. Call (213) 429-1092 with the delivery week and a slot can be set for just after pickup."
      }
     },
     {

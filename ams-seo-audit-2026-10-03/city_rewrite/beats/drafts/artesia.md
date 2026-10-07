@@ -6,7 +6,7 @@ lead_service: factory-look car stereo installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Artesia Factory-Look Car Stereo Installation | LA Car Beats
-meta: Factory-look car stereo installation and CarPlay for Artesia drivers at LA Car Beats by Audio MotorSports, Carson, about 10.8 miles away. Call (310) 513-8800.
+meta: Factory-look car stereo installation and CarPlay for Artesia drivers at LA Car Beats by Audio MotorSports, Carson, about 10.8 miles away. Call (213) 429-1092.
 ---
 # Factory-Look Car Stereo Installation for Artesia
 
@@ -22,7 +22,10 @@ Artesia drivers who want better sound and a screen that still looks stock book c
 
 ## Artesia to the shop
 
-Artesia is about 10.8 miles from the bay, roughly 22 to 26 minutes outside the rush (approx). We are open Monday through Saturday, 9:30 to 6:00, closed Sunday. To book, call (310) 513-8800 or text (213) 429-1092 with the vehicle. Factory-look installs are commonly a morning drop-off with afternoon pickup; a quick CarPlay interface can be waited on. People come to this Carson shop from more than 100 miles away, so Artesia is well within range. [SHOP NOTE: 2-3 sentences from Nick about Artesia customers, routes or jobs]
+Artesia is about 10.8 miles from the bay, roughly 22 to 26 minutes outside the rush (approx). We are open Monday through Saturday, 9:30 to 6:00, closed Sunday. To book, call (213) 429-1092 or text (213) 429-1092 with the vehicle. Factory-look installs are commonly a morning drop-off with afternoon pickup; a quick CarPlay interface can be waited on. People come to this Carson shop from more than 100 miles away, so Artesia is well within range. [SHOP NOTE: 2-3 sentences from Nick about Artesia customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Artesia customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Artesia traffic sends you.
 
 ## Artesia car stereo questions
 
@@ -48,7 +51,7 @@ It does. Window tint and ceramic window tint, car alarm installation, remote sta
 
 ## Prices, October 2026
 
-The Dual Kicker Comp box is $249 box only, as of October 2026. Car stereo installation, Apple CarPlay and Android Auto installation, amplifier installation and speaker replacement are quoted at the shop for the exact vehicle. Payment plan available, ask Nick. Artesia drivers can look at Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+The Dual Kicker Comp box is $249 box only, as of October 2026. Car stereo installation, Apple CarPlay and Android Auto installation, amplifier installation and speaker replacement are quoted at the shop for the exact vehicle. Payment plan available, ask Nick. Artesia drivers can look at Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Other cities around Artesia
 
@@ -56,7 +59,7 @@ Also see car stereo installation for [Cerritos](/beats/car-stereo-cerritos/) · 
 
 ## Book a factory-look install from Artesia
 
-Reach the shop at (310) 513-8800 or by text at (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00, closed Sunday.
+Reach the shop at (213) 429-1092 or by text at (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -68,7 +71,7 @@ Reach the shop at (310) 513-8800 or by text at (213) 429-1092. Audio MotorSports
    "name": "Artesia Factory-Look Car Stereo Installation | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-artesia/",
    "dateModified": "2026-10-08",
-   "description": "Factory-look car stereo installation and CarPlay for Artesia drivers at LA Car Beats by Audio MotorSports, Carson, about 10.8 miles away. Call (310) 513-8800.",
+   "description": "Factory-look car stereo installation and CarPlay for Artesia drivers at LA Car Beats by Audio MotorSports, Carson, about 10.8 miles away. Call (213) 429-1092.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

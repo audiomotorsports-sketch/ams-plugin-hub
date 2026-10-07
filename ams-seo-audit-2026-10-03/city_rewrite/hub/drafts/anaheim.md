@@ -4,7 +4,7 @@ city: Anaheim
 miles: 20.0
 lead_service: CarPlay/Android Auto
 title: CarPlay & Android Auto Installs, Anaheim | Audio MotorSports
-meta: Apple CarPlay and Android Auto installation, car stereo, window tint and alarms for Anaheim drivers at Audio MotorSports in Carson, 20 miles. (310) 513-8800.
+meta: Apple CarPlay and Android Auto installation, car stereo, window tint and alarms for Anaheim drivers at Audio MotorSports in Carson, 20 miles. (213) 429-1092.
 ---
 # Apple CarPlay and Android Auto Installation for Anaheim
 
@@ -21,6 +21,9 @@ Anaheim drivers make the 20-mile trip to Audio MotorSports at 22025 S Avalon Blv
 **Viper alarm installation and Compustar installation.** Wired into factory circuits, module hidden, panels back without rattles.
 
 **Dash camera installation and GPS tracker installation.** Fuse-tapped, hidden, tied to your phone.
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Anaheim, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. Coming from Anaheim, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Anaheim to the shop
 
@@ -44,7 +47,7 @@ Yes, because the install is what you are paying for. One installer does the whol
 
 ### Can I add a Viper alarm installation on the same visit?
 
-You can. The alarm goes in while the head unit is being tested, with the module hidden away from the fuse box so it cannot be pulled apart from under the dash. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, if you want to read what other owners say.
+You can. The alarm goes in while the head unit is being tested, with the module hidden away from the fuse box so it cannot be pulled apart from under the dash. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, if you want to read what other owners say.
 
 ## Prices as of October 2026
 
@@ -56,7 +59,7 @@ Window tint Solar $249 or Solar Ceramic $329 installed. Viper 3108V alarm $269 i
 
 ## Schedule an Anaheim install
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745; open Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745; open Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -67,7 +70,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio 
    "@id": "https://www.audiomotorsports.com/anaheim/#webpage",
    "url": "https://www.audiomotorsports.com/anaheim/",
    "name": "CarPlay & Android Auto Installs, Anaheim | Audio MotorSports",
-   "description": "Apple CarPlay and Android Auto installation, car stereo, window tint and alarms for Anaheim drivers at Audio MotorSports in Carson, 20 miles. (310) 513-8800.",
+   "description": "Apple CarPlay and Android Auto installation, car stereo, window tint and alarms for Anaheim drivers at Audio MotorSports in Carson, 20 miles. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {
@@ -142,7 +145,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio 
      "name": "Can I add a Viper alarm installation on the same visit?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "You can. The alarm goes in while the head unit is being tested, with the module hidden away from the fuse box so it cannot be pulled apart from under the dash. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, if you want to read what other owners say."
+      "text": "You can. The alarm goes in while the head unit is being tested, with the module hidden away from the fuse box so it cannot be pulled apart from under the dash. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, if you want to read what other owners say."
      }
     }
    ]

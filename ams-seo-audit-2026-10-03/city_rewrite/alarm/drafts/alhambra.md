@@ -5,7 +5,7 @@ city: Alhambra
 miles: 19.9
 lead_service: theft recovery
 title: Theft Recovery & Car Alarm Install, Alhambra | LA Car Alarm
-meta: GPS theft recovery, Viper car alarm installation and remote start for Alhambra drivers at LA Car Alarm by Audio MotorSports in Carson. (310) 513-8800.
+meta: GPS theft recovery, Viper car alarm installation and remote start for Alhambra drivers at LA Car Alarm by Audio MotorSports in Carson. (213) 429-1092.
 ---
 # Theft Recovery and Car Alarm Installation for Alhambra
 
@@ -23,6 +23,9 @@ Alhambra drivers make the 19.9-mile trip to LA Car Alarm by Audio MotorSports, 2
 
 Audio MotorSports also does car window tint, car stereo installation, Apple CarPlay and Android Auto, subwoofers and amplifiers and Harley bagger audio, should you want the car to get it all in one trip.
 
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Alhambra customers tell us makes the drop-off painless. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. From Alhambra you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
+
 ## From Alhambra to the shop
 
 The 19.9 miles take roughly 40 to 48 minutes outside rush hour (approx). Call or text to set a time, then drop the car or wait at the shop while we work. Mon-Sat 9:30-18:00, Sunday closed. [SHOP NOTE: 2-3 sentences from Nick about Alhambra customers, routes or jobs]
@@ -37,7 +40,7 @@ Yes, and that is the usual way to do it. The Viper handles the break-in; the tra
 
 ### Why is a soldered alarm install better than a plug-in kit?
 
-Plug-in taps loosen and corrode, and the alarm then gets blamed for every electrical ghost in the car. A soldered, taped joint holds for the life of the vehicle. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, comes from doing it that way.
+Plug-in taps loosen and corrode, and the alarm then gets blamed for every electrical ghost in the car. A soldered, taped joint holds for the life of the vehicle. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, comes from doing it that way.
 
 ### Does Compustar remote start installation keep the car secure while it idles?
 
@@ -57,7 +60,7 @@ Viper 3108V alarm $269 installed. Compustar 9910 remote start from $499. GPS tra
 
 ## Book an Alhambra theft recovery install
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -122,7 +125,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. LA Car
      "name": "Why is a soldered alarm install better than a plug-in kit?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Plug-in taps loosen and corrode, and the alarm then gets blamed for every electrical ghost in the car. A soldered, taped joint holds for the life of the vehicle. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, comes from doing it that way."
+      "text": "Plug-in taps loosen and corrode, and the alarm then gets blamed for every electrical ghost in the car. A soldered, taped joint holds for the life of the vehicle. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, comes from doing it that way."
      }
     },
     {

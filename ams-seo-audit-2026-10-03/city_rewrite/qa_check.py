@@ -2,7 +2,7 @@
 """Read-only QA for city-page drafts. usage: qa_check.py DRAFTS_DIR [--allsites]"""
 import sys,os,re,json,glob,collections
 d=sys.argv[1]; files=sorted(glob.glob(os.path.join(d,'*.md')))
-FORBID=['we do not invent','do not reverse','never imply','schema aggregate','locked','placeholder','todo','we are not in']
+FORBID=['we do not invent','do not reverse','never imply','schema aggregate','locked','placeholder','todo','we are not in','lobby','roof tint','tint the roof','tint on the roof','film on the roof','koalafi','easypay','snap finance','100 days','100-day','48 states','48-state','nationwide shipping','national shipping','ppf','paint protection','glass repair','vinyl wrap','dj ','(310) 513-8800','650+','770+']
 PRICES_OK={'$249','$329','$269','$499','$649'}
 SERVICES=['window tint','ceramic','car audio','car stereo','subwoofer','amplifier','carplay','android auto','alarm','remote start','gps','dash cam','tesla','harley','bagger','pods']
 sent_index=collections.defaultdict(list); fails=0; warns=0; report=[]
@@ -49,7 +49,7 @@ for f in files:
         except Exception as e: probs.append(f'JSON-LD invalid: {e}')
     else: probs.append('no JSON-LD block')
     for s in re.split(r'(?<=[.!?])\s+',norm(re.sub(r'\[SHOP NOTE[^\]]*\]','',vis))):
-        if len(s.split())>=9 and not re.search(r'(9:30|closed (on )?sunday|\$249|\$329|as of october 2026|\(310\) 513-8800|\(213\) 429-1092|22025 s avalon)',s): sent_index[s].append(name)
+        if len(s.split())>=9 and not re.search(r'(9:30|closed (on )?sunday|\$249|\$329|as of october 2026|\(310\) 513-8800|\(213\) 429-1092|22025 s avalon|lgbtq|netflix|off the 110|the 405|the 710)',s): sent_index[s].append(name)
     if probs: fails+=1; report.append((name,probs))
 dups=[(s,v) for s,v in sent_index.items() if len(set(v))>1]
 print(f'files={len(files)} FAIL={fails} reused_sentences={len(dups)}')

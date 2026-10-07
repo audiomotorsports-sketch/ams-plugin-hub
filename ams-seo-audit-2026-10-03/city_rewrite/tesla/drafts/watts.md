@@ -5,7 +5,7 @@ miles: 7.6
 lead_service: Tesla window tint (Cybertruck)
 source: hub-mounted copy; standalone www host not verified
 title: Cybertruck & Tesla Window Tint for Watts | Tesla Tint LA
-meta: Cybertruck and Tesla window tint for Watts drivers at Tesla Tint LA by Audio MotorSports in Carson, 7.6 miles away. Hand-cut panels. Call (310) 513-8800.
+meta: Cybertruck and Tesla window tint for Watts drivers at Tesla Tint LA by Audio MotorSports in Carson, 7.6 miles away. Hand-cut panels. Call (213) 429-1092.
 ---
 # Cybertruck and Tesla Window Tint for Watts Drivers
 
@@ -28,6 +28,9 @@ Dash camera installation and GPS tracker installation are available on the same 
 Watts is about 7.6 miles from the shop, roughly 15 to 18 minutes outside rush hour (approx). Open Monday through Saturday, 9:30 AM to 6:00 PM, and closed Sunday. Schedule first, then wait at the shop or drop the Tesla off and come back when the tint is on.
 
 [SHOP NOTE: 2-3 sentences from Nick about Watts customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Watts drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. From Watts you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Watts Tesla and Cybertruck tint questions
 
@@ -53,7 +56,7 @@ By model. A Cybertruck, a Model Y and a Model X do not have the same glass or th
 
 ## Pricing
 
-Cybertruck and all other Tesla tint is quoted by model at the shop; text your year and model. The non-Tesla reference is Solar at $249 and Solar Ceramic at $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Cybertruck and all other Tesla tint is quoted by model at the shop; text your year and model. The non-Tesla reference is Solar at $249 and Solar Ceramic at $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near Watts
 
@@ -65,7 +68,7 @@ Cybertruck and all other Tesla tint is quoted by model at the shop; text your ye
 
 ## Book your appointment
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -76,7 +79,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-watts/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-watts/",
    "name": "Cybertruck & Tesla Window Tint for Watts | Tesla Tint LA",
-   "description": "Cybertruck and Tesla window tint for Watts drivers at Tesla Tint LA by Audio MotorSports in Carson, 7.6 miles away. Hand-cut panels. Call (310) 513-8800.",
+   "description": "Cybertruck and Tesla window tint for Watts drivers at Tesla Tint LA by Audio MotorSports in Carson, 7.6 miles away. Hand-cut panels. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

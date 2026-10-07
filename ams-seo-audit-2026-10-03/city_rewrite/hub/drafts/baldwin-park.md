@@ -4,7 +4,7 @@ city: Baldwin Park
 miles: 30.8
 lead_service: window tint
 title: Car Window Tint for Baldwin Park | Audio MotorSports
-meta: Car window tinting, ceramic tint, car stereo installation and alarms for Baldwin Park drivers at Audio MotorSports in Carson, 30.8 miles. Call (310) 513-8800.
+meta: Car window tinting, ceramic tint, car stereo installation and alarms for Baldwin Park drivers at Audio MotorSports in Carson, 30.8 miles. Call (213) 429-1092.
 ---
 # Car Window Tint for Baldwin Park Drivers
 
@@ -21,6 +21,9 @@ Baldwin Park drivers travel about 30.8 miles to Audio MotorSports at 22025 S Ava
 **Car alarm installation and remote start installation.** Viper and Compustar wired into factory circuits, module hidden, so it cannot be defeated from the fuse box.
 
 **Subwoofer installation and amplifier installation.** Fused at the battery, box strapped, gains set with a meter.
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Baldwin Park customers tell us makes the drop-off painless. The shop is LGBTQ-friendly and everyone from Baldwin Park is welcome, as our Google and Yelp listings state. From Baldwin Park you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Baldwin Park to the shop
 
@@ -44,7 +47,7 @@ Yes. The deck goes in first with the dash kit, harness and camera interface matc
 
 ### How do I know the shop is worth the drive?
 
-Check the record: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Owners have driven in from over 100 miles away for the same tint job. Nick gives you the price before anything starts, and the install is done once, done right.
+Check the record: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Owners have driven in from over 100 miles away for the same tint job. Nick gives you the price before anything starts, and the install is done once, done right.
 
 ## Prices as of October 2026
 
@@ -56,7 +59,7 @@ Solar window tint $249 installed, Solar Ceramic $329 installed. Viper 3108V alar
 
 ## Schedule from Baldwin Park
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Head to 22025 S Avalon Blvd Ste A, Carson, CA 90745; hours are Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Head to 22025 S Avalon Blvd Ste A, Carson, CA 90745; hours are Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -67,7 +70,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Head t
    "@id": "https://www.audiomotorsports.com/baldwin-park/#webpage",
    "url": "https://www.audiomotorsports.com/baldwin-park/",
    "name": "Car Window Tint for Baldwin Park | Audio MotorSports",
-   "description": "Car window tinting, ceramic tint, car stereo installation and alarms for Baldwin Park drivers at Audio MotorSports in Carson, 30.8 miles. Call (310) 513-8800.",
+   "description": "Car window tinting, ceramic tint, car stereo installation and alarms for Baldwin Park drivers at Audio MotorSports in Carson, 30.8 miles. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {
@@ -142,7 +145,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Head t
      "name": "How do I know the shop is worth the drive?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Check the record: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Owners have driven in from over 100 miles away for the same tint job. Nick gives you the price before anything starts, and the install is done once, done right."
+      "text": "Check the record: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Owners have driven in from over 100 miles away for the same tint job. Nick gives you the price before anything starts, and the install is done once, done right."
      }
     }
    ]

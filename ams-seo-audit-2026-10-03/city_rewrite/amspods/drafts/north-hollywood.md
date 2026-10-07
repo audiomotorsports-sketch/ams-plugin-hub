@@ -4,7 +4,7 @@ city: North Hollywood
 miles: 24.7
 lead_service: Harley bagger audio for long rides
 title: North Hollywood Harley Bagger Audio, Long Rides | AMS Pods
-meta: Long-ride Harley bagger audio installation with AMS lower-fairing pods for North Hollywood riders. AMS Pods by Audio MotorSports, Carson. (310) 513-8800.
+meta: Long-ride Harley bagger audio installation with AMS lower-fairing pods for North Hollywood riders. AMS Pods by Audio MotorSports, Carson. (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Harley Bagger Audio Built for Long Rides, North Hollywood
@@ -26,6 +26,9 @@ For the car that stays home, Audio MotorSports does car stereo installation, App
 ## North Hollywood to Carson
 
 From North Hollywood the shop is 24.7 miles, about 49 to 59 minutes outside rush hour (approx). Make an appointment, ride down, and leave the bike for the day or wait at the shop for a shorter install. Open Mon-Sat 9:30-18:00, Sunday closed. Customers come from over 100 miles away for this work, so a ride down from the Valley is routine. [SHOP NOTE: 2-3 sentences from Nick about North Hollywood riders, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from North Hollywood, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. From North Hollywood you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Long-ride questions from North Hollywood
 
@@ -54,7 +57,7 @@ Tell us when you book. Pods aim at the rider, so for a passenger we look at bag-
 - AMS lower-fairing pods from $649 a pair, as of October 2026, chrome or gloss, bracket and hardware included.
 - Amplifier installation, head units, bag-lid speakers and tuning are quoted on the bike at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby cities
 
@@ -62,7 +65,7 @@ Pages for riders in [Sherman Oaks](/amspods/bagger-audio-sherman-oaks/), [Studio
 
 ## Book before the next trip
 
-Call (310) 513-8800 or text (213) 429-1092 with your bike's year and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with your bike's year and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -73,7 +76,7 @@ Call (310) 513-8800 or text (213) 429-1092 with your bike's year and model. Audi
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-north-hollywood/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-north-hollywood/",
    "name": "North Hollywood Harley Bagger Audio, Long Rides | AMS Pods",
-   "description": "Long-ride Harley bagger audio installation with AMS lower-fairing pods for North Hollywood riders. AMS Pods by Audio MotorSports, Carson. (310) 513-8800.",
+   "description": "Long-ride Harley bagger audio installation with AMS lower-fairing pods for North Hollywood riders. AMS Pods by Audio MotorSports, Carson. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

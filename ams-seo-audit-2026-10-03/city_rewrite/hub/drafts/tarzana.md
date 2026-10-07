@@ -4,7 +4,7 @@ city: Tarzana
 miles: 29.0
 lead_service: Window tint
 title: Ceramic Window Tint for Tarzana | Audio MotorSports
-meta: Ceramic window tint, car window tinting, car stereo installation and alarms for Tarzana drivers at Audio MotorSports in Carson, 29 miles. (310) 513-8800.
+meta: Ceramic window tint, car window tinting, car stereo installation and alarms for Tarzana drivers at Audio MotorSports in Carson, 29 miles. (213) 429-1092.
 ---
 # Ceramic Window Tint for Tarzana Drivers
 
@@ -29,6 +29,9 @@ Tarzana drivers bring their cars to Audio MotorSports in Carson for ceramic wind
 The drive is about 29 miles, roughly 58 to 70 minutes (approx) when traffic is light. Reserve a time first, then either drop the car off or wait at the shop; a tint job is a few hours. We are open Monday through Saturday from 9:30 to 6:00 and closed Sundays.
 
 [SHOP NOTE: 2-3 sentences from Nick about Tarzana customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Tarzana, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. The shop is LGBTQ-friendly and everyone from Tarzana is welcome, as our Google and Yelp listings state. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Tarzana traffic sends you.
 
 ## Tarzana questions
 
@@ -62,7 +65,7 @@ Solar window tint, $249 installed. Solar Ceramic window tint, $329 installed. Vi
 
 ## Book ceramic window tint from Tarzana
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. The shop is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30 to 6:00 and closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. The shop is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30 to 6:00 and closed Sunday.
 
 ```json
 {
@@ -73,7 +76,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. The sh
    "@id": "https://www.audiomotorsports.com/tarzana/#webpage",
    "url": "https://www.audiomotorsports.com/tarzana/",
    "name": "Ceramic Window Tint for Tarzana | Audio MotorSports",
-   "description": "Ceramic window tint, car window tinting, car stereo installation and alarm installation for Tarzana drivers at Audio MotorSports in Carson, 29 miles. Call (310) 513-8800.",
+   "description": "Ceramic window tint, car window tinting, car stereo installation and alarm installation for Tarzana drivers at Audio MotorSports in Carson, 29 miles. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

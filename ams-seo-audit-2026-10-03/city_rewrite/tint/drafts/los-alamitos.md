@@ -5,7 +5,7 @@ miles: 11.2
 lead_service: Window tint / ceramic window tint (LA Car Tint)
 source: hub-mounted copy; standalone www host not verified
 title: Los Alamitos Tesla & Ceramic Window Tint | LA Car Tint
-meta: Tesla window tint, ceramic window tint and car window tinting for Los Alamitos, installed by Audio MotorSports in Carson, 11.2 miles away. Call (310) 513-8800.
+meta: Tesla window tint, ceramic window tint and car window tinting for Los Alamitos, installed by Audio MotorSports in Carson, 11.2 miles away. Call (213) 429-1092.
 ---
 # Ceramic and Tesla Window Tint for Los Alamitos
 
@@ -27,6 +27,9 @@ Los Alamitos to 22025 S Avalon Blvd is about 11.2 miles, roughly 22 to 27 minute
 
 [SHOP NOTE: 2-3 sentences from Nick about Los Alamitos customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Los Alamitos customers tell us makes the drop-off painless. Los Alamitos customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Los Alamitos traffic sends you.
+
 ## Los Alamitos questions about ceramic and Tesla tint
 
 ### Why is ceramic window tint the right film for a newer car?
@@ -39,7 +42,7 @@ No. It is about 11.2 miles and under half an hour outside rush hour. The rear gl
 
 ### Do you take walk-ins from Los Alamitos or should I book?
 
-Book. Audio MotorSports is one shop with one bay, and tint is scheduled so the glass is prepped and the time is yours. Call (310) 513-8800 or text (213) 429-1092, then choose to drop the car or wait. Walk-ins are fit in when the floor allows, but a booked slot is certain.
+Book. Audio MotorSports is one shop with one bay, and tint is scheduled so the glass is prepped and the time is yours. Call (213) 429-1092 or text (213) 429-1092, then choose to drop the car or wait. Walk-ins are fit in when the floor allows, but a booked slot is certain.
 
 ### What is included in a sedan window tint price?
 
@@ -59,7 +62,7 @@ For a standard four-door sedan with rear glass, as of October 2026, Solar window
 
 ## Book ceramic or Tesla window tint from Los Alamitos
 
-Phone (310) 513-8800, text (213) 429-1092. Audio MotorSports at 22025 S Avalon Blvd Ste A, Carson, CA 90745; open Mon-Sat 9:30-6:00, closed Sunday. Check the record first if you like: Google 4.8 across 650+ reviews, Yelp 4.7 across 770+, as of October 2026.
+Phone (213) 429-1092, text (213) 429-1092. Audio MotorSports at 22025 S Avalon Blvd Ste A, Carson, CA 90745; open Mon-Sat 9:30-6:00, closed Sunday. Check the record first if you like: Google 4.8 across 654 reviews, Yelp 4.7 across 777, as of October 2026.
 
 ```json
 {
@@ -70,7 +73,7 @@ Phone (310) 513-8800, text (213) 429-1092. Audio MotorSports at 22025 S Avalon B
    "@id": "https://www.audiomotorsports.com/tint/window-tint-los-alamitos/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-los-alamitos/",
    "name": "Los Alamitos Tesla & Ceramic Window Tint | LA Car Tint",
-   "description": "Tesla window tint, ceramic window tint and car window tinting for Los Alamitos, installed by Audio MotorSports in Carson, 11.2 miles away. Call (310) 513-8800.",
+   "description": "Tesla window tint, ceramic window tint and car window tinting for Los Alamitos, installed by Audio MotorSports in Carson, 11.2 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -128,7 +131,7 @@ Phone (310) 513-8800, text (213) 429-1092. Audio MotorSports at 22025 S Avalon B
      "name": "Do you take walk-ins from Los Alamitos or should I book?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Book. Audio MotorSports is one shop with one bay, and tint is scheduled so the glass is prepped and the time is yours. Call (310) 513-8800 or text (213) 429-1092, then choose to drop the car or wait. Walk-ins are fit in when the floor allows, but a booked slot is certain."
+      "text": "Book. Audio MotorSports is one shop with one bay, and tint is scheduled so the glass is prepped and the time is yours. Call (213) 429-1092 or text (213) 429-1092, then choose to drop the car or wait. Walk-ins are fit in when the floor allows, but a booked slot is certain."
      }
     },
     {

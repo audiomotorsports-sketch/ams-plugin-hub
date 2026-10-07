@@ -6,7 +6,7 @@ lead_service: Apple CarPlay and Android Auto installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Los Angeles CarPlay & Android Auto | LA Car Beats
-meta: Apple CarPlay and Android Auto installation for Los Angeles drivers at LA Car Beats by Audio MotorSports in Carson, 15.6 miles. Call (310) 513-8800 to book.
+meta: Apple CarPlay and Android Auto installation for Los Angeles drivers at LA Car Beats by Audio MotorSports in Carson, 15.6 miles. Call (213) 429-1092 to book.
 ---
 # Apple CarPlay and Android Auto Installation for Los Angeles
 
@@ -22,7 +22,10 @@ Los Angeles drivers get Apple CarPlay and Android Auto installation at LA Car Be
 
 ## Los Angeles to the Carson shop
 
-Central Los Angeles to 22025 S Avalon Blvd is about 15.6 miles, roughly 31 to 37 minutes outside rush hour (approx). Hours are Monday through Saturday 9:30 to 6:00, closed Sunday. Call (310) 513-8800 or text (213) 429-1092 to set a time. A CarPlay interface or head unit is a lobby wait; a system with speakers and an amp is a morning drop-off. Customers have driven in from San Diego for this shop, so the run from Los Angeles is nothing unusual.
+Central Los Angeles to 22025 S Avalon Blvd is about 15.6 miles, roughly 31 to 37 minutes outside rush hour (approx). Hours are Monday through Saturday 9:30 to 6:00, closed Sunday. Call (213) 429-1092 or text (213) 429-1092 to set a time. A CarPlay interface or head unit is a wait-inside job; a system with speakers and an amp is a morning drop-off. Customers have driven in from San Diego for this shop, so the run from Los Angeles is nothing unusual.
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Los Angeles drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. The shop is LGBTQ-friendly and everyone from Los Angeles is welcome, as our Google and Yelp listings state. Coming from Los Angeles, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Los Angeles CarPlay questions
 
@@ -40,7 +43,7 @@ Current head units and interface modules hold a wireless connection reliably, an
 
 ### Is it practical to come from Los Angeles for a CarPlay install?
 
-Yes. It is about 15.6 miles, roughly 35 minutes on a normal day, and the install is usually a wait in the lobby. Drivers come from much farther for the same work, because a clean integration with the camera and buttons retained is what they are paying for.
+Yes. It is about 15.6 miles, roughly 35 minutes on a normal day, and the install is usually a wait inside. Drivers come from much farther for the same work, because a clean integration with the camera and buttons retained is what they are paying for.
 
 ### What else can be done during the Apple CarPlay and Android Auto installation?
 
@@ -48,7 +51,7 @@ Speaker replacement is the most common add-on, since the doors can come off whil
 
 ## Los Angeles pricing
 
-Dual Kicker Comp loaded box, $249 box only, as of October 2026. The interface or head unit for Apple CarPlay and Android Auto installation, plus speaker replacement, amplifier installation and subwoofer installation, is quoted at the shop for your specific car. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Window tint and ceramic window tint, Tesla window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation and Harley bagger audio with AMS pods are in the same building.
+Dual Kicker Comp loaded box, $249 box only, as of October 2026. The interface or head unit for Apple CarPlay and Android Auto installation, plus speaker replacement, amplifier installation and subwoofer installation, is quoted at the shop for your specific car. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Window tint and ceramic window tint, Tesla window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation and Harley bagger audio with AMS pods are in the same building.
 
 ## Los Angeles neighborhoods and nearby cities
 
@@ -62,7 +65,7 @@ More car stereo installation pages around Los Angeles:
 
 ## Book from Los Angeles
 
-Text (213) 429-1092 or call (310) 513-8800. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Text (213) 429-1092 or call (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -74,7 +77,7 @@ Text (213) 429-1092 or call (310) 513-8800. Audio MotorSports, 22025 S Avalon Bl
    "name": "Los Angeles CarPlay & Android Auto | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-los-angeles/",
    "dateModified": "2026-10-08",
-   "description": "Apple CarPlay and Android Auto installation for Los Angeles drivers at LA Car Beats by Audio MotorSports in Carson, 15.6 miles. Call (310) 513-8800 to book.",
+   "description": "Apple CarPlay and Android Auto installation for Los Angeles drivers at LA Car Beats by Audio MotorSports in Carson, 15.6 miles. Call (213) 429-1092 to book.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }
@@ -136,7 +139,7 @@ Text (213) 429-1092 or call (310) 513-8800. Audio MotorSports, 22025 S Avalon Bl
      "name": "Is it practical to come from Los Angeles for a CarPlay install?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. It is about 15.6 miles, roughly 35 minutes on a normal day, and the install is usually a wait in the lobby. Drivers come from much farther for the same work, because a clean integration with the camera and buttons retained is what they are paying for."
+      "text": "Yes. It is about 15.6 miles, roughly 35 minutes on a normal day, and the install is usually a wait inside. Drivers come from much farther for the same work, because a clean integration with the camera and buttons retained is what they are paying for."
      }
     },
     {

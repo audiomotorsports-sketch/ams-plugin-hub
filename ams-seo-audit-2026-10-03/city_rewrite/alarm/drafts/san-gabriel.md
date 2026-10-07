@@ -4,7 +4,7 @@ city: San Gabriel
 miles: 20.4
 lead_service: theft recovery
 title: Theft Recovery & Alarm Install San Gabriel | LA Car Alarm
-meta: Theft recovery GPS and car alarm installation for San Gabriel at LA Car Alarm by Audio MotorSports, Carson, 20.4 miles. Viper, Compustar. Call (310) 513-8800.
+meta: Theft recovery GPS and car alarm installation for San Gabriel at LA Car Alarm by Audio MotorSports, Carson, 20.4 miles. Viper, Compustar. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Theft Recovery and Car Alarm Installation for San Gabriel
@@ -22,6 +22,9 @@ Getting a stolen car back depends on a tracker nobody can find and an alarm that
 **Dash camera installation.** Parking-mode recording through a fused hardwire kit with the cable hidden in the trim.
 
 Ceramic window tint, car stereo installation and CarPlay upgrades can be added to the same booking.
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for San Gabriel customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. Coming from San Gabriel, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## How San Gabriel drivers get here
 
@@ -56,7 +59,7 @@ We have had cars driven in from San Diego for this work; San Gabriel is a routin
 
 Trackers, tilt sensors and dash cameras are quoted on the vehicle at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby alarm pages
 
@@ -68,7 +71,7 @@ Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
 
 ## Book from San Gabriel
 
-Call (310) 513-8800 or text (213) 429-1092; include the year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092; include the year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

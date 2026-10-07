@@ -6,7 +6,7 @@ lead_service: head unit installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Harbor City Head Unit Installation | LA Car Beats
-meta: Head unit installation and car stereo installation for Harbor City, under 3 miles from LA Car Beats by Audio MotorSports in Carson. Call (310) 513-8800.
+meta: Head unit installation and car stereo installation for Harbor City, under 3 miles from LA Car Beats by Audio MotorSports in Carson. Call (213) 429-1092.
 ---
 # Head Unit Installation for Harbor City Drivers
 
@@ -22,7 +22,10 @@ Harbor City is the closest thing LA Car Beats has to a home crowd. The bay at Au
 
 ## A short run from Harbor City
 
-Harbor City to the Carson shop is about 2.8 miles, roughly 6 to 7 minutes outside rush hour (approx). Because it is that close, most Harbor City customers wait in the lobby for a head unit installation and drive home with the new radio the same hour. Bigger jobs, like speakers plus an amplifier, are easier as a morning drop-off. The shop is open Monday through Saturday 9:30 to 6:00 and closed Sunday; set a time by calling (310) 513-8800 or texting (213) 429-1092. [SHOP NOTE: 2-3 sentences from Nick about Harbor City customers, routes or jobs]
+Harbor City to the Carson shop is about 2.8 miles, roughly 6 to 7 minutes outside rush hour (approx). Because it is that close, most Harbor City customers wait inside for a head unit installation and drive home with the new radio the same hour. Bigger jobs, like speakers plus an amplifier, are easier as a morning drop-off. The shop is open Monday through Saturday 9:30 to 6:00 and closed Sunday; set a time by calling (213) 429-1092 or texting (213) 429-1092. [SHOP NOTE: 2-3 sentences from Nick about Harbor City customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Harbor City customers tell us makes the drop-off painless. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. From Harbor City you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd. Harbor City neighbors who work the port, the refineries or the rail yard are regulars here, often dropping the car off on the way to a shift.
 
 ## Harbor City stereo questions
 
@@ -48,7 +51,7 @@ It depends on the trunk or cab, which is why we look at the car first. A compact
 
 ## What Harbor City pays
 
-The one fixed audio price is the Dual Kicker Comp loaded box at $249, box only, as of October 2026. Head unit installation, Apple CarPlay and Android Auto installation, speaker replacement, subwoofer installation and amplifier installation are quoted at the shop once we see the vehicle. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. The same shop also does window tint and ceramic window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation, Tesla window tint and Harley bagger audio with AMS pods if you want to combine trips.
+The one fixed audio price is the Dual Kicker Comp loaded box at $249, box only, as of October 2026. Head unit installation, Apple CarPlay and Android Auto installation, speaker replacement, subwoofer installation and amplifier installation are quoted at the shop once we see the vehicle. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. The same shop also does window tint and ceramic window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation, Tesla window tint and Harley bagger audio with AMS pods if you want to combine trips.
 
 ## Other South Bay stereo pages
 
@@ -56,7 +59,7 @@ Car stereo installation pages for the cities next to Harbor City: [West Carson](
 
 ## Book a Harbor City install
 
-Pick a time, then wait or drop off; either way the radio is tested before the car moves. Call (310) 513-8800 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Pick a time, then wait or drop off; either way the radio is tested before the car moves. Call (213) 429-1092 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -67,7 +70,7 @@ Pick a time, then wait or drop off; either way the radio is tested before the ca
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-harbor-city/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-harbor-city/",
    "name": "Harbor City Head Unit Installation | LA Car Beats",
-   "description": "Head unit installation and car stereo installation for Harbor City, under 3 miles from LA Car Beats by Audio MotorSports in Carson. Call (310) 513-8800.",
+   "description": "Head unit installation and car stereo installation for Harbor City, under 3 miles from LA Car Beats by Audio MotorSports in Carson. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

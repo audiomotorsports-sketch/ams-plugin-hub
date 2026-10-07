@@ -5,7 +5,7 @@ miles: 11.7
 lead_service: Window tint / ceramic window tint (LA Car Tint)
 source: hub-mounted copy; standalone www host not verified
 title: Norwalk Window Tint for Fleets & Commuters | LA Car Tint
-meta: Car window tint for Norwalk commuters, work trucks and fleet vans, installed at Audio MotorSports in Carson, 11.7 miles away. Call (310) 513-8800 to book.
+meta: Car window tint for Norwalk commuters, work trucks and fleet vans, installed at Audio MotorSports in Carson, 11.7 miles away. Call (213) 429-1092 to book.
 ---
 # Car Window Tint for Norwalk Commuters and Work Fleets
 
@@ -27,11 +27,14 @@ Norwalk to 22025 S Avalon Blvd is about 11.7 miles, which is 23 to 28 minutes (a
 
 [SHOP NOTE: 2-3 sentences from Nick about Norwalk customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+For a longer job from Norwalk, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Norwalk customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Norwalk.
+
 ## What Norwalk drivers and fleet managers ask
 
 ### Can you tint several company vehicles from Norwalk in one visit?
 
-Yes, with notice. Fleet vehicles are booked back to back so your trucks rotate through the bay rather than all sitting at once. Each gets the same hand-cut film and edge-to-gasket fit. Vans and pickups are quoted per vehicle at the shop; call (310) 513-8800 with the count.
+Yes, with notice. Fleet vehicles are booked back to back so your trucks rotate through the bay rather than all sitting at once. Each gets the same hand-cut film and edge-to-gasket fit. Vans and pickups are quoted per vehicle at the shop; call (213) 429-1092 with the count.
 
 ### Which window tint is best for a car that commutes from Norwalk every day?
 
@@ -59,7 +62,7 @@ Sedan pricing as of October 2026 is $249 installed for Solar window tint and $32
 
 ## Schedule Norwalk window tint
 
-Call (310) 513-8800 or text (213) 429-1092 to set a date. Audio MotorSports is at 22025 S Avalon Blvd Ste A in Carson, CA 90745, with hours Mon-Sat 9:30-6:00 and Sunday closed. Norwalk drivers can check us first: Google 4.8 from 650+ reviews and Yelp 4.7 from 770+, as of October 2026.
+Call (213) 429-1092 or text (213) 429-1092 to set a date. Audio MotorSports is at 22025 S Avalon Blvd Ste A in Carson, CA 90745, with hours Mon-Sat 9:30-6:00 and Sunday closed. Norwalk drivers can check us first: Google 4.8 from 654 reviews and Yelp 4.7 from 777, as of October 2026.
 
 ```json
 {
@@ -70,7 +73,7 @@ Call (310) 513-8800 or text (213) 429-1092 to set a date. Audio MotorSports is a
    "@id": "https://www.audiomotorsports.com/tint/window-tint-norwalk/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-norwalk/",
    "name": "Norwalk Window Tint for Fleets & Commuters | LA Car Tint",
-   "description": "Car window tint for Norwalk commuters, work trucks and fleet vans, installed at Audio MotorSports in Carson, 11.7 miles away. Call (310) 513-8800 to book.",
+   "description": "Car window tint for Norwalk commuters, work trucks and fleet vans, installed at Audio MotorSports in Carson, 11.7 miles away. Call (213) 429-1092 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -112,7 +115,7 @@ Call (310) 513-8800 or text (213) 429-1092 to set a date. Audio MotorSports is a
      "name": "Can you tint several company vehicles from Norwalk in one visit?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes, with notice. Fleet vehicles are booked back to back so your trucks rotate through the bay rather than all sitting at once. Each gets the same hand-cut film and edge-to-gasket fit. Vans and pickups are quoted per vehicle at the shop; call (310) 513-8800 with the count."
+      "text": "Yes, with notice. Fleet vehicles are booked back to back so your trucks rotate through the bay rather than all sitting at once. Each gets the same hand-cut film and edge-to-gasket fit. Vans and pickups are quoted per vehicle at the shop; call (213) 429-1092 with the count."
      }
     },
     {

@@ -4,7 +4,7 @@ city: Brea
 miles: 21.8
 lead_service: Car alarm installation and remote start installation
 title: Alarm & Remote Start Installation, Brea | Audio MotorSports
-meta: Viper alarm installation, Compustar remote start, window tint and stereo installs for Brea drivers at Audio MotorSports in Carson. Call (310) 513-8800.
+meta: Viper alarm installation, Compustar remote start, window tint and stereo installs for Brea drivers at Audio MotorSports in Carson. Call (213) 429-1092.
 ---
 # Car Alarm Installation and Remote Start for Brea Drivers
 
@@ -22,9 +22,12 @@ Brea drivers come to Audio MotorSports, 22025 S Avalon Blvd Ste A in Carson, for
 
 **Car stereo installation and amplifier installation.** Decks on the right dash kit, amps fused and grounded, nothing cut.
 
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Brea job is finished. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. From Brea you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
+
 ## Brea to Carson
 
-Expect about 21.8 miles and roughly 44 to 52 minutes (approx) in normal traffic. People have come from Temecula for this shop, so Brea is a reasonable morning. Hours are Monday through Saturday, 9:30 to 6, closed Sunday. Pick a time, then drop the car or wait while the alarm goes in. Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. The reviews are there for Brea drivers to read: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Expect about 21.8 miles and roughly 44 to 52 minutes (approx) in normal traffic. People have come from Temecula for this shop, so Brea is a reasonable morning. Hours are Monday through Saturday, 9:30 to 6, closed Sunday. Pick a time, then drop the car or wait while the alarm goes in. Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. The reviews are there for Brea drivers to read: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 [SHOP NOTE: 2-3 sentences from Nick about Brea customers, routes or jobs]
 
@@ -71,7 +74,7 @@ Tracker, dash camera, stereo and CarPlay work is priced on your car when you com
 
 ## Book alarm installation from Brea
 
-Call (310) 513-8800 or text (213) 429-1092 with your vehicle. Audio MotorSports is one bay at 22025 S Avalon Blvd Ste A, Carson 90745. Mon-Sat 9:30-18:00, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092 with your vehicle. Audio MotorSports is one bay at 22025 S Avalon Blvd Ste A, Carson 90745. Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -82,7 +85,7 @@ Call (310) 513-8800 or text (213) 429-1092 with your vehicle. Audio MotorSports 
    "@id": "https://www.audiomotorsports.com/brea/#webpage",
    "url": "https://www.audiomotorsports.com/brea/",
    "name": "Alarm & Remote Start Installation, Brea | Audio MotorSports",
-   "description": "Viper alarm installation, Compustar remote start, window tint and stereo installs for Brea drivers at Audio MotorSports in Carson. Call (310) 513-8800.",
+   "description": "Viper alarm installation, Compustar remote start, window tint and stereo installs for Brea drivers at Audio MotorSports in Carson. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

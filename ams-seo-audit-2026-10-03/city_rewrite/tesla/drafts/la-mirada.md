@@ -5,7 +5,7 @@ miles: 15.6
 lead_service: Tesla window tint (Model Y)
 source: hub-mounted copy; standalone www host not verified
 title: Model Y Window Tint for La Mirada | Tesla Tint LA
-meta: Model Y and Tesla window tint for La Mirada owners at Audio MotorSports in Carson, 15.6 miles away. Ceramic film, hatch glass in one sheet. Call (310) 513-8800 to book.
+meta: Model Y and Tesla window tint for La Mirada owners at Audio MotorSports in Carson, 15.6 miles away. Ceramic film, hatch glass in one sheet. Call (213) 429-1092 to book.
 ---
 # Model Y Window Tint for La Mirada Owners
 
@@ -28,6 +28,9 @@ Audio MotorSports also installs dash cameras, GPS trackers, Viper alarms, remote
 About 15.6 miles, roughly 31 to 37 minutes outside rush hour (approx). Open Monday through Saturday, 9:30 AM to 6:00 PM; closed Sunday. Book first, then drop the Model Y off for the day or wait at the shop. Tesla owners drive in from over 100 miles for this work; La Mirada is a half-hour trip.
 
 [SHOP NOTE: 2-3 sentences from Nick about La Mirada customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the La Mirada job is finished. La Mirada customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. From La Mirada you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## La Mirada Model Y questions
 
@@ -53,7 +56,7 @@ Yes. The dash camera is wired to a fused source with the cable hidden behind the
 
 ## Pricing
 
-Text the year and trim of your Model Y and we will quote it by model at the shop, like every Tesla. For a non-Tesla reference, Solar is $249 and Solar Ceramic is $329 installed, as of October 2026. Other work is quoted at the shop. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Text the year and trim of your Model Y and we will quote it by model at the shop, like every Tesla. For a non-Tesla reference, Solar is $249 and Solar Ceramic is $329 installed, as of October 2026. Other work is quoted at the shop. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near La Mirada
 
@@ -65,7 +68,7 @@ Text the year and trim of your Model Y and we will quote it by model at the shop
 
 ## Book from La Mirada
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -76,7 +79,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-la-mirada/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-la-mirada/",
    "name": "Model Y Window Tint for La Mirada | Tesla Tint LA",
-   "description": "Model Y and Tesla window tint for La Mirada owners at Audio MotorSports in Carson, 15.6 miles away. Ceramic film, hatch glass in one sheet. Call (310) 513-8800 to book.",
+   "description": "Model Y and Tesla window tint for La Mirada owners at Audio MotorSports in Carson, 15.6 miles away. Ceramic film, hatch glass in one sheet. Call (213) 429-1092 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

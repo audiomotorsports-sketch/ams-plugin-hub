@@ -4,7 +4,7 @@ city: Lakewood
 miles: 7.7
 lead_service: Harley bagger amplifier installation and tuning
 title: Lakewood Harley Bagger Amp Install & Tuning | AMS Pods
-meta: Harley bagger amplifier installation, tuning on the bike and AMS lower-fairing pods for Lakewood riders. AMS Pods by Audio MotorSports, Carson. (310) 513-8800.
+meta: Harley bagger amplifier installation, tuning on the bike and AMS lower-fairing pods for Lakewood riders. AMS Pods by Audio MotorSports, Carson. (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Harley Bagger Amplifier Installation and Tuning for Lakewood Riders
@@ -26,6 +26,9 @@ Car in the driveway too? The same shop handles car stereo installation, subwoofe
 ## Riding in from Lakewood
 
 Lakewood to the shop is 7.7 miles, about 15 to 18 minutes outside rush hour (approx). Set an appointment first, ride down, then leave the bike with us for the day or wait at the shop if it is a shorter job. Hours are Mon-Sat 9:30-18:00, Sunday closed. [SHOP NOTE: 2-3 sentences from Nick about Lakewood riders, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Lakewood, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Lakewood customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Lakewood traffic sends you.
 
 ## Amplifier questions from Lakewood riders
 
@@ -54,7 +57,7 @@ You can, and we will tell you up front whether it is a good match for the pods a
 - AMS lower-fairing pods from $649 a pair, as of October 2026, chrome or gloss, hardware included.
 - Amplifier installation, tuning, head units and speaker work are quoted on the bike at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby cities
 
@@ -62,7 +65,7 @@ Riders also come in from [Paramount](/amspods/bagger-audio-paramount/), [Lynwood
 
 ## Book the bike in
 
-Call (310) 513-8800 or text (213) 429-1092 with your year and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with your year and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -73,7 +76,7 @@ Call (310) 513-8800 or text (213) 429-1092 with your year and model. Audio Motor
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-lakewood/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-lakewood/",
    "name": "Lakewood Harley Bagger Amp Install & Tuning | AMS Pods",
-   "description": "Harley bagger amplifier installation, tuning on the bike and AMS lower-fairing pods for Lakewood riders. AMS Pods by Audio MotorSports, Carson. (310) 513-8800.",
+   "description": "Harley bagger amplifier installation, tuning on the bike and AMS lower-fairing pods for Lakewood riders. AMS Pods by Audio MotorSports, Carson. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

@@ -4,7 +4,7 @@ city: Los Angeles
 miles: 15.6
 lead_service: Harley bagger audio for long rides
 title: Los Angeles Harley Bagger Audio for Long Rides | AMS Pods
-meta: Long-ride Harley bagger audio, AMS lower-fairing pods and amp tuning for Los Angeles riders. AMS Pods by Audio MotorSports, Carson. (310) 513-8800.
+meta: Long-ride Harley bagger audio, AMS lower-fairing pods and amp tuning for Los Angeles riders. AMS Pods by Audio MotorSports, Carson. (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Long-Ride Harley Bagger Audio for Los Angeles Riders
@@ -26,6 +26,9 @@ Audio MotorSports also does car stereo installation, Apple CarPlay and Android A
 ## Los Angeles to the shop
 
 Depending on where in Los Angeles you start, the ride is about 15.6 miles, roughly 31 to 37 minutes outside rush hour (approx). Call or text to book, ride down, and leave the bike for the day or wait at the shop on a shorter job. Mon-Sat 9:30-18:00, Sunday closed. [SHOP NOTE: 2-3 sentences from Nick about Los Angeles riders, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Los Angeles customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. Coming from Los Angeles, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Long-ride questions from Los Angeles riders
 
@@ -54,7 +57,7 @@ Riders have come from San Diego and Temecula, and the shop has taken calls from 
 - AMS lower-fairing pods from $649 a pair, as of October 2026, chrome or gloss, bracket and hardware included.
 - Amplifier installation, head units, speaker work and tuning are quoted on the bike at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby cities
 
@@ -62,7 +65,7 @@ See the pages for riders in [Westmont](/amspods/bagger-audio-westmont/), [South 
 
 ## Book the ride down
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -73,7 +76,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-los-angeles/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-los-angeles/",
    "name": "Los Angeles Harley Bagger Audio for Long Rides | AMS Pods",
-   "description": "Long-ride Harley bagger audio, AMS lower-fairing pods and amp tuning for Los Angeles riders. AMS Pods by Audio MotorSports, Carson. (310) 513-8800.",
+   "description": "Long-ride Harley bagger audio, AMS lower-fairing pods and amp tuning for Los Angeles riders. AMS Pods by Audio MotorSports, Carson. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

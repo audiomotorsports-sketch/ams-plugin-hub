@@ -4,7 +4,7 @@ city: Winnetka
 miles: 31.5
 lead_service: First Harley bagger audio upgrade
 title: Winnetka First Bagger Audio Upgrade | AMS Pods, Carson
-meta: First Harley bagger audio upgrade for Winnetka riders: speaker replacement, amplifier installation and AMS lower-fairing pods in Carson. Call (310) 513-8800.
+meta: First Harley bagger audio upgrade for Winnetka riders: speaker replacement, amplifier installation and AMS lower-fairing pods in Carson. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # First Harley Bagger Audio Upgrade for Winnetka Riders
@@ -26,6 +26,9 @@ Audio MotorSports also does car stereo installation, Apple CarPlay and Android A
 ## Winnetka to Carson
 
 Winnetka to the shop is 31.5 miles, about 63 to 76 minutes when traffic is light (approx). Schedule it, ride or trailer in, then drop the bike or wait at the shop for the quicker work. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed. Riders have trailered in from Temecula, so an hour from the west Valley is normal.
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Winnetka drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Winnetka.
 
 ## Winnetka riders ask
 
@@ -54,7 +57,7 @@ Yes. Staging a first upgrade is the normal way to do it, and a payment plan is a
 - AMS pods from $649 a pair, chrome or gloss, as of October 2026, bracket and hardware included.
 - Speakers, amplifier, radio and bag-lid work are quoted stage by stage on the bike at the counter. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby cities
 
@@ -62,7 +65,7 @@ Other AMS Pods pages nearby: [Reseda](/amspods/bagger-audio-reseda/), [Woodland 
 
 ## Book from Winnetka
 
-(310) 513-8800 voice, (213) 429-1092 text. 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+(213) 429-1092 voice, (213) 429-1092 text. 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -73,7 +76,7 @@ Other AMS Pods pages nearby: [Reseda](/amspods/bagger-audio-reseda/), [Woodland 
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-winnetka/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-winnetka/",
    "name": "Winnetka First Bagger Audio Upgrade | AMS Pods, Carson",
-   "description": "First Harley bagger audio upgrade for Winnetka riders: speaker replacement, amplifier installation and AMS lower-fairing pods in Carson. Call (310) 513-8800.",
+   "description": "First Harley bagger audio upgrade for Winnetka riders: speaker replacement, amplifier installation and AMS lower-fairing pods in Carson. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

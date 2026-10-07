@@ -4,7 +4,7 @@ city: Reseda
 miles: 30.1
 lead_service: Harley bagger audio installation (AMS pods)
 title: Bagger Audio Installation for Reseda | Audio MotorSports
-meta: Reseda Harley bagger audio installation with AMS pods at Audio MotorSports in Carson, 30.1 miles away, plus car window tint, stereo and alarms. (310) 513-8800.
+meta: Reseda Harley bagger audio installation with AMS pods at Audio MotorSports in Carson, 30.1 miles away, plus car window tint, stereo and alarms. (213) 429-1092.
 ---
 # Harley Bagger Audio Installation for Reseda Riders
 
@@ -24,7 +24,10 @@ Reseda riders ride about 30.1 miles to Audio MotorSports, 22025 S Avalon Blvd St
 
 ## Reseda to the shop
 
-From Reseda it is about 30.1 miles, which is a 60 to 72 minute ride outside rush hour (approx). We are open Monday through Saturday 9:30 AM to 6:00 PM and closed Sunday. Call or text to book; pods are a wait-at-the-shop job for most riders, and a car can be dropped off for the day. Riders have come from Temecula for AMS pods, so Reseda is a normal Saturday run. Reseda riders can read up before they leave: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. [SHOP NOTE: 2-3 sentences from Nick about Reseda customers, routes or jobs]
+From Reseda it is about 30.1 miles, which is a 60 to 72 minute ride outside rush hour (approx). We are open Monday through Saturday 9:30 AM to 6:00 PM and closed Sunday. Call or text to book; pods are a wait-at-the-shop job for most riders, and a car can be dropped off for the day. Riders have come from Temecula for AMS pods, so Reseda is a normal Saturday run. Reseda riders can read up before they leave: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. [SHOP NOTE: 2-3 sentences from Nick about Reseda customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Reseda, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Reseda traffic sends you.
 
 ## Reseda bagger questions
 
@@ -58,7 +61,7 @@ Riders and drivers near Reseda who make the same ride: [Tarzana](/tarzana/), [Wi
 
 ## Book Reseda bagger audio
 
-Call (310) 513-8800 or text the bike year and model to (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30 AM to 6:00 PM; closed Sunday.
+Call (213) 429-1092 or text the bike year and model to (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30 AM to 6:00 PM; closed Sunday.
 
 ```json
 {
@@ -69,7 +72,7 @@ Call (310) 513-8800 or text the bike year and model to (213) 429-1092. Audio Mot
    "@id": "https://www.audiomotorsports.com/reseda/#webpage",
    "url": "https://www.audiomotorsports.com/reseda/",
    "name": "Bagger Audio Installation for Reseda | Audio MotorSports",
-   "description": "Reseda Harley bagger audio installation with AMS pods at Audio MotorSports in Carson, 30.1 miles away, plus car window tint, stereo and alarm installs. Call (310) 513-8800.",
+   "description": "Reseda Harley bagger audio installation with AMS pods at Audio MotorSports in Carson, 30.1 miles away, plus car window tint, stereo and alarm installs. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

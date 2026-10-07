@@ -4,7 +4,7 @@ city: Glendale
 miles: 26.9
 lead_service: Apple CarPlay and Android Auto installation
 title: CarPlay Installation & Tint, Glendale | Audio MotorSports
-meta: Apple CarPlay and Android Auto installation, car window tint, car stereo and alarm installs for Glendale drivers at Audio MotorSports in Carson. (310) 513-8800.
+meta: Apple CarPlay and Android Auto installation, car window tint, car stereo and alarm installs for Glendale drivers at Audio MotorSports in Carson. (213) 429-1092.
 ---
 # Apple CarPlay and Android Auto Installation for Glendale
 
@@ -22,9 +22,12 @@ Glendale drivers come to Audio MotorSports, 22025 S Avalon Blvd Ste A in Carson,
 
 **Dash camera installation.** Hardwired front and rear cameras with parking mode and the cable hidden in the trim.
 
+<!-- owner-details-2026-10-07 -->
+For a longer job from Glendale, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Glendale customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Glendale.
+
 ## Glendale to Carson
 
-Plan on about 26.9 miles and roughly 54 to 65 minutes (approx) when the freeway is moving. Open Monday through Saturday from 9:30 to 6, closed Sunday. Reserve a time, then drop the car or wait at the shop; a CarPlay deck is usually a couple of hours. Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Glendale drivers can read the record first: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Plan on about 26.9 miles and roughly 54 to 65 minutes (approx) when the freeway is moving. Open Monday through Saturday from 9:30 to 6, closed Sunday. Reserve a time, then drop the car or wait at the shop; a CarPlay deck is usually a couple of hours. Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Glendale drivers can read the record first: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 [SHOP NOTE: 2-3 sentences from Nick about Glendale customers, routes or jobs]
 
@@ -71,7 +74,7 @@ CarPlay head units, speakers, amplifiers, GPS trackers and dash cams are quoted 
 
 ## Book CarPlay installation from Glendale
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports: 22025 S Avalon Blvd Ste A, Carson, CA 90745, one bay, Mon-Sat 9:30-18:00, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports: 22025 S Avalon Blvd Ste A, Carson, CA 90745, one bay, Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -82,7 +85,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports: 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/glendale/#webpage",
    "url": "https://www.audiomotorsports.com/glendale/",
    "name": "CarPlay Installation & Tint, Glendale | Audio MotorSports",
-   "description": "Apple CarPlay and Android Auto installation, car window tint, car stereo and alarm installs for Glendale drivers at Audio MotorSports in Carson. (310) 513-8800.",
+   "description": "Apple CarPlay and Android Auto installation, car window tint, car stereo and alarm installs for Glendale drivers at Audio MotorSports in Carson. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

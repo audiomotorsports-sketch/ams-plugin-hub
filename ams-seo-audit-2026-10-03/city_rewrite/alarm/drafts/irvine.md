@@ -4,7 +4,7 @@ city: Irvine
 miles: 27.0
 lead_service: street-parked car security
 title: Car Alarm Installation for Irvine Street Parking | LA Car Alarm
-meta: Car alarm installation for street-parked cars, GPS trackers and Compustar remote start for Irvine drivers at LA Car Alarm by Audio MotorSports, Carson. (310) 513-8800.
+meta: Car alarm installation for street-parked cars, GPS trackers and Compustar remote start for Irvine drivers at LA Car Alarm by Audio MotorSports, Carson. (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Alarm Installation for Street-Parked Cars from Irvine
@@ -22,6 +22,9 @@ Apartment and campus parking means the car sleeps outside, often far from your w
 **Dash camera installation.** Hardwired parking mode on a fused circuit, with a battery cutoff, so a side-swipe in a shared lot is on video.
 
 Window tint, car stereo installation and Apple CarPlay are done at the same address, so a long drive can cover two jobs.
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Irvine customers tell us makes the drop-off painless. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. From Irvine you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Coming up from Irvine
 
@@ -54,7 +57,7 @@ An alarm is a half-day job; adding a tracker or tilt sensor the same day stretch
 
 Tilt sensors, GPS trackers and dash cameras are quoted on your car at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby Orange County cities
 
@@ -65,6 +68,6 @@ Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
 
 ## Book from Irvine
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 [CONFIRM] SHOP NOTE slot for Irvine; drive time 54-65 minutes (approx) at 25-30 mph.

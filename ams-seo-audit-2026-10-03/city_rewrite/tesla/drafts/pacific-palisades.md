@@ -4,7 +4,7 @@ city: Pacific Palisades
 miles: 21.4
 lead_service: Tesla window tint (Model X)
 title: Pacific Palisades Tesla Tint | Tesla Tint LA, Carson
-meta: Model X and all Tesla window tint for Pacific Palisades at Tesla Tint LA by Audio MotorSports in Carson, 21.4 miles away. Ceramic film. Call (310) 513-8800.
+meta: Model X and all Tesla window tint for Pacific Palisades at Tesla Tint LA by Audio MotorSports in Carson, 21.4 miles away. Ceramic film. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Model X and Tesla Window Tint for Pacific Palisades
@@ -24,6 +24,9 @@ Pacific Palisades Model X owners travel about 21.4 miles to Tesla Tint LA, the T
 ## The drive from Pacific Palisades
 
 Roughly 21.4 miles, about 43 to 51 minutes outside rush hour (approx). Shop hours are Monday to Saturday 9:30 to 6:00; closed Sunday. Book a slot, then wait at the shop or leave the car and come back later. [SHOP NOTE: 2-3 sentences from Nick about Pacific Palisades customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Pacific Palisades, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. From Pacific Palisades you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Pacific Palisades Model X questions
 
@@ -49,7 +52,7 @@ Yes. The front door windows go at the legal shade; the rear doors and the hatch 
 
 ## Prices
 
-Model X tint, like every Tesla here, is quoted by model at the shop. Non-Tesla window tint at the same bay runs Solar $249 or Solar Ceramic $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Model X tint, like every Tesla here, is quoted by model at the shop. Non-Tesla window tint at the same bay runs Solar $249 or Solar Ceramic $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby Tesla tint pages
 
@@ -57,7 +60,7 @@ Model X tint, like every Tesla here, is quoted by model at the shop. Non-Tesla w
 
 ## Book the X
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

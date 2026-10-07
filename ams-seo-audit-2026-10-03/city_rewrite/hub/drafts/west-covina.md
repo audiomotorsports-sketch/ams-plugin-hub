@@ -4,7 +4,7 @@ city: West Covina
 miles: 31.0
 lead_service: Car alarm installation and remote start installation
 title: Alarm & Remote Start, West Covina | Audio MotorSports
-meta: Viper alarm installation, Compustar remote start, car window tint and stereo installs for West Covina drivers at Audio MotorSports, Carson. (310) 513-8800.
+meta: Viper alarm installation, Compustar remote start, car window tint and stereo installs for West Covina drivers at Audio MotorSports, Carson. (213) 429-1092.
 ---
 # Car Alarm Installation and Remote Start for West Covina
 
@@ -22,9 +22,12 @@ West Covina drivers come to Audio MotorSports, 22025 S Avalon Blvd Ste A in Cars
 
 **Car stereo installation and subwoofer installation.** A receiver on the correct dash kit and harness, a sub box anchored so it does not slide, and an amplifier fused at the battery.
 
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which West Covina customers tell us makes the drop-off painless. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way West Covina traffic sends you.
+
 ## West Covina to the Carson bay
 
-Plan on about 31.0 miles and roughly 62 to 74 minutes (approx) when the freeway is moving. Customers have driven from Temecula for this shop, so West Covina is well inside the usual range. Open Monday to Saturday, 9:30 to 6, closed Sunday. Book a time, then drop the car for the day or wait at the shop while the alarm goes in. Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. West Covina drivers can check Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Plan on about 31.0 miles and roughly 62 to 74 minutes (approx) when the freeway is moving. Customers have driven from Temecula for this shop, so West Covina is well inside the usual range. Open Monday to Saturday, 9:30 to 6, closed Sunday. Book a time, then drop the car for the day or wait at the shop while the alarm goes in. Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. West Covina drivers can check Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 [SHOP NOTE: 2-3 sentences from Nick about West Covina customers, routes or jobs]
 
@@ -71,7 +74,7 @@ GPS trackers, dash cams, stereo and CarPlay head units are quoted at the shop. P
 
 ## Book alarm installation from West Covina
 
-Call (310) 513-8800 or text (213) 429-1092 with the vehicle. One bay: 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092 with the vehicle. One bay: 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -82,7 +85,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the vehicle. One bay: 22025 S Av
    "@id": "https://www.audiomotorsports.com/west-covina/#webpage",
    "url": "https://www.audiomotorsports.com/west-covina/",
    "name": "Alarm & Remote Start, West Covina | Audio MotorSports",
-   "description": "Viper alarm installation, Compustar remote start, car window tint and stereo installs for West Covina drivers at Audio MotorSports, Carson. (310) 513-8800.",
+   "description": "Viper alarm installation, Compustar remote start, car window tint and stereo installs for West Covina drivers at Audio MotorSports, Carson. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

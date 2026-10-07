@@ -4,7 +4,7 @@ city: Rancho Cucamonga
 miles: 53.6
 lead_service: Tesla window tint (Model S)
 title: Rancho Cucamonga Tesla Tint | Tesla Tint LA, Carson
-meta: Model S and all Tesla window tint for Rancho Cucamonga owners at Tesla Tint LA by Audio MotorSports in Carson, 53.6 miles. Ceramic film. Call (310) 513-8800.
+meta: Model S and all Tesla window tint for Rancho Cucamonga owners at Tesla Tint LA by Audio MotorSports in Carson, 53.6 miles. Ceramic film. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla Window Tint for Rancho Cucamonga, Model S First
@@ -24,6 +24,9 @@ Model S owners from Rancho Cucamonga drive about 53.6 miles to Tesla Tint LA, th
 ## The drive from Rancho Cucamonga
 
 It is roughly 53.6 miles, so plan on about one hour fifty minutes to two hours ten minutes outside rush hour (approx). The shop is open Monday to Saturday 9:30 to 6:00 and closed Sunday. Book your time, then wait at the shop or drop the car and spend the day near the coast. [SHOP NOTE: 2-3 sentences from Nick about Rancho Cucamonga customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Rancho Cucamonga customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. Coming from Rancho Cucamonga, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Rancho Cucamonga Tesla questions
 
@@ -49,7 +52,7 @@ Yes. Rancho Cucamonga owners often pair Tesla tint with dash camera installation
 
 ## Prices
 
-Your Model S, or any Tesla, is quoted by model at the shop. For a non-Tesla reference, the same shop installs Solar for $249 and Solar Ceramic for $329, as of October 2026. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Your Model S, or any Tesla, is quoted by model at the shop. For a non-Tesla reference, the same shop installs Solar for $249 and Solar Ceramic for $329, as of October 2026. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby Tesla tint pages
 
@@ -57,7 +60,7 @@ Your Model S, or any Tesla, is quoted by model at the shop. For a non-Tesla refe
 
 ## Book the Model S
 
-Call (310) 513-8800 or text (213) 429-1092 with the model and year. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the model and year. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

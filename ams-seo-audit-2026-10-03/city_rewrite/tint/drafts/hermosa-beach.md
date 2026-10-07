@@ -4,7 +4,7 @@ city: Hermosa Beach
 miles: 8.1
 lead_service: Tesla window tint
 title: Hermosa Beach Tesla & Car Window Tint | LA Car Tint
-meta: Tesla window tint and ceramic car window tint for Hermosa Beach, installed by Audio MotorSports in Carson, 8.1 miles away. Book: (310) 513-8800.
+meta: Tesla window tint and ceramic car window tint for Hermosa Beach, installed by Audio MotorSports in Carson, 8.1 miles away. Book: (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla Window Tint and Car Window Tint for Hermosa Beach
@@ -22,6 +22,9 @@ Hermosa Beach has a lot of Teslas and a lot of sun, and LA Car Tint by Audio Mot
 ## Getting here from Hermosa Beach
 
 Hermosa Beach to the shop is roughly 8.1 miles, about a 16 to 19 minute drive outside rush hour (approx). Pick a slot by phone or text, then hand over the keys for the day or wait with us; most tint jobs wrap up the same afternoon. Open Monday through Saturday 9:30 a.m. to 6:00 p.m., closed Sunday. Customers have driven up from San Diego for this, so the trip from the beach is a short one.
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Hermosa Beach customers tell us makes the drop-off painless. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Hermosa Beach.
 
 ## Hermosa Beach Tesla and tint questions
 
@@ -47,7 +50,7 @@ California keeps the front side windows mostly clear, and we stay within that li
 
 ## Tint prices for Hermosa Beach
 
-Four-door Solar is $249 installed and four-door Solar Ceramic is $329 installed, as of October 2026, each covering four doors and the rear window. Tesla roof glass, windshield strips, SUVs and trucks are quoted at the shop once we see the vehicle, and there is no separate Tesla model pricing listed here. Payment plan available, ask Nick. Reputation as of October 2026: Google 4.8 (650+ reviews), Yelp 4.7 (770+ reviews).
+Four-door Solar is $249 installed and four-door Solar Ceramic is $329 installed, as of October 2026, each covering four doors and the rear window. Tesla roof glass, windshield strips, SUVs and trucks are quoted at the shop once we see the vehicle, and there is no separate Tesla model pricing listed here. Payment plan available, ask Nick. Reputation as of October 2026: Google 4.8 (654 reviews), Yelp 4.7 (777 reviews).
 
 ## Tint near Hermosa Beach
 
@@ -55,7 +58,7 @@ Four-door Solar is $249 installed and four-door Solar Ceramic is $329 installed,
 
 ## Book a Tesla or car tint slot
 
-Call (310) 513-8800 or text (213) 429-1092 with your model and year. We are at 22025 S Avalon Blvd Ste A, Carson, CA 90745 (Audio MotorSports). Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with your model and year. We are at 22025 S Avalon Blvd Ste A, Carson, CA 90745 (Audio MotorSports). Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

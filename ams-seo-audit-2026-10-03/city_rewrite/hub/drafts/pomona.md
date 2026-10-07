@@ -4,7 +4,7 @@ city: Pomona
 miles: 41.6
 lead_service: car audio/stereo
 title: Car Audio Installation for Pomona | Audio MotorSports
-meta: Car stereo installation, subwoofer and amplifier installs and speaker replacement for Pomona drivers at Audio MotorSports in Carson, 41.6 miles. (310) 513-8800.
+meta: Car stereo installation, subwoofer and amplifier installs and speaker replacement for Pomona drivers at Audio MotorSports in Carson, 41.6 miles. (213) 429-1092.
 ---
 # Car Audio Installation for Pomona Drivers
 
@@ -25,6 +25,9 @@ Pomona drivers bring cars and trucks about 41.6 miles to Audio MotorSports at 22
 ## Pomona to Carson
 
 Pomona is about 41.6 miles from the shop, roughly eighty-three to one hundred minutes outside rush hour (approx). We take appointments Monday through Saturday, 9:30 AM to 6:00 PM, and are closed Sunday. Call or text to book, then wait on site or drop the car for the day and pick it up before close. Customers drive in from over 100 miles for audio work here; Pomona is a normal trip for this bay.
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Pomona job is finished. Pomona customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Coming from Pomona, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Pomona car audio questions
 
@@ -64,7 +67,7 @@ Pages for the cities around Pomona:
 
 ## Book from Pomona
 
-Call (310) 513-8800 or text your year, make and model to (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday, 9:30 AM to 6:00 PM; closed Sunday.
+Call (213) 429-1092 or text your year, make and model to (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday, 9:30 AM to 6:00 PM; closed Sunday.
 
 ```json
 {
@@ -75,7 +78,7 @@ Call (310) 513-8800 or text your year, make and model to (213) 429-1092. Audio M
    "@id": "https://www.audiomotorsports.com/pomona/#webpage",
    "url": "https://www.audiomotorsports.com/pomona/",
    "name": "Car Audio Installation for Pomona | Audio MotorSports",
-   "description": "Car stereo installation, subwoofer and amplifier installs and speaker replacement for Pomona drivers at Audio MotorSports in Carson, 41.6 miles. Call (310) 513-8800.",
+   "description": "Car stereo installation, subwoofer and amplifier installs and speaker replacement for Pomona drivers at Audio MotorSports in Carson, 41.6 miles. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

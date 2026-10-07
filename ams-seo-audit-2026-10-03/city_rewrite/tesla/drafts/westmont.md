@@ -5,7 +5,7 @@ miles: 8.2
 lead_service: Tesla window tint (Model Y)
 source: hub-mounted copy; standalone www host not verified
 title: Model Y Window Tint for Westmont Drivers | Tesla Tint LA
-meta: Model Y ceramic window tint for Westmont Tesla owners, hatch glass in one piece. Audio MotorSports in Carson, 8.2 miles away. Call (310) 513-8800 to book.
+meta: Model Y ceramic window tint for Westmont Tesla owners, hatch glass in one piece. Audio MotorSports in Carson, 8.2 miles away. Call (213) 429-1092 to book.
 ---
 # Model Y Window Tint for Westmont Tesla Drivers
 
@@ -28,6 +28,9 @@ Dash camera installation, GPS tracker installation, car alarm and remote start i
 Westmont is about 8.2 miles away, roughly 16 to 20 minutes outside rush hour (approx). Hours are Monday through Saturday 9:30 AM to 6:00 PM, closed Sunday. Set an appointment, then wait at the shop or drop the Model Y and return once the tint is on.
 
 [SHOP NOTE: 2-3 sentences from Nick about Westmont customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Westmont drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. Coming from Westmont, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Westmont Model Y tint questions
 
@@ -53,7 +56,7 @@ No. The camera cluster at the top of the windshield and the fender repeaters are
 
 ## Pricing
 
-Model Y and every other Tesla are quoted by model at the shop; text the year and model for a number. Non-Tesla reference, as of October 2026: Solar $249, Solar Ceramic $329 installed. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Model Y and every other Tesla are quoted by model at the shop; text the year and model for a number. Non-Tesla reference, as of October 2026: Solar $249, Solar Ceramic $329 installed. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near Westmont
 
@@ -65,7 +68,7 @@ Model Y and every other Tesla are quoted by model at the shop; text the year and
 
 ## Book your appointment
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -76,7 +79,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-westmont/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-westmont/",
    "name": "Model Y Window Tint for Westmont Drivers | Tesla Tint LA",
-   "description": "Model Y ceramic window tint for Westmont Tesla owners, hatch glass in one piece. Audio MotorSports in Carson, 8.2 miles away. Call (310) 513-8800 to book.",
+   "description": "Model Y ceramic window tint for Westmont Tesla owners, hatch glass in one piece. Audio MotorSports in Carson, 8.2 miles away. Call (213) 429-1092 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

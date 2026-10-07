@@ -4,7 +4,7 @@ city: Garden Grove
 miles: 18.9
 lead_service: car window tint
 title: Car Window Tint Garden Grove | LA Car Tint, Carson
-meta: Car window tint for Garden Grove commuters, Solar and Solar Ceramic film installed by hand at Audio MotorSports in Carson, 18.9 miles away. Call (310) 513-8800.
+meta: Car window tint for Garden Grove commuters, Solar and Solar Ceramic film installed by hand at Audio MotorSports in Carson, 18.9 miles away. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Window Tint for Garden Grove Commuters, by Audio MotorSports, Carson
@@ -26,6 +26,9 @@ Garden Grove to the shop is about 18.9 miles, around forty minutes (approx) outs
 
 [SHOP NOTE: 2-3 sentences from Nick about Garden Grove customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+For a longer job from Garden Grove, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. The shop is LGBTQ-friendly and everyone from Garden Grove is welcome, as our Google and Yelp listings state. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Garden Grove traffic sends you.
+
 ## Garden Grove questions, answered
 
 ### Does window tint actually help with glare on a Garden Grove commute?
@@ -42,7 +45,7 @@ Give it a few days. The film is applied with a slip solution that needs time to 
 
 ### Is it worth driving from Garden Grove for window tinting?
 
-For an install that will not peel, yes. The film is cut on your glass rather than pre-trimmed from a pattern, the edges sit under the seal, and the shop carries Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Forty minutes each way is a small price for not doing it twice.
+For an install that will not peel, yes. The film is cut on your glass rather than pre-trimmed from a pattern, the edges sit under the seal, and the shop carries Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Forty minutes each way is a small price for not doing it twice.
 
 ### Can a work van get the back and side windows tinted for privacy?
 
@@ -61,7 +64,7 @@ Solar car window tint $249 installed and Solar Ceramic $329 installed, as of Oct
 
 ## Book it
 
-Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
+Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
 
 ```json
 {
@@ -72,7 +75,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-garden-grove/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-garden-grove/",
    "name": "Car Window Tint Garden Grove | LA Car Tint, Carson",
-   "description": "Car window tint for Garden Grove commuters, Solar and Solar Ceramic film installed by hand at Audio MotorSports in Carson, 18.9 miles away. Call (310) 513-8800.",
+   "description": "Car window tint for Garden Grove commuters, Solar and Solar Ceramic film installed by hand at Audio MotorSports in Carson, 18.9 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -136,7 +139,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "Is it worth driving from Garden Grove for window tinting?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "For an install that will not peel, yes. The film is cut on your glass rather than pre-trimmed from a pattern, the edges sit under the seal, and the shop carries Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Forty minutes each way is a small price for not doing it twice."
+      "text": "For an install that will not peel, yes. The film is cut on your glass rather than pre-trimmed from a pattern, the edges sit under the seal, and the shop carries Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Forty minutes each way is a small price for not doing it twice."
      }
     },
     {

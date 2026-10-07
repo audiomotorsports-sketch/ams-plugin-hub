@@ -4,7 +4,7 @@ city: Lancaster
 miles: 86.8
 lead_service: Tesla window tint
 title: Tesla Window Tint for Lancaster Owners | Audio MotorSports
-meta: Lancaster Tesla window tint and ceramic tint at Audio MotorSports in Carson, 86.8 miles away, plus car stereo and alarm installs. Call (310) 513-8800.
+meta: Lancaster Tesla window tint and ceramic tint at Audio MotorSports in Carson, 86.8 miles away, plus car stereo and alarm installs. Call (213) 429-1092.
 ---
 # Tesla Window Tint for Lancaster
 
@@ -24,7 +24,10 @@ Lancaster Tesla owners plan a day and drive about 86.8 miles to Audio MotorSport
 
 ## Lancaster to the Carson bay
 
-Lancaster to the shop is about 86.8 miles, which at an honest surface-street average is roughly three to three and a half hours (approx); on open freeway it is considerably less. Hours are Monday to Saturday 9:30 AM to 6:00 PM, Sunday closed. Book ahead so the bay is ready when you arrive, then wait while the Tesla is tinted or drop it and make a day of it. Owners have driven from Temecula and San Diego, about 120 miles, for this tint; Lancaster is closer than that. The record is public: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. [SHOP NOTE: 2-3 sentences from Nick about Lancaster customers, routes or jobs]
+Lancaster to the shop is about 86.8 miles, which at an honest surface-street average is roughly three to three and a half hours (approx); on open freeway it is considerably less. Hours are Monday to Saturday 9:30 AM to 6:00 PM, Sunday closed. Book ahead so the bay is ready when you arrive, then wait while the Tesla is tinted or drop it and make a day of it. Owners have driven from Temecula and San Diego, about 120 miles, for this tint; Lancaster is closer than that. The record is public: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. [SHOP NOTE: 2-3 sentences from Nick about Lancaster customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Lancaster, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Lancaster traffic sends you.
 
 ## Lancaster Tesla tint questions
 
@@ -42,7 +45,7 @@ No. Ceramic film has no metal in it, so the Bluetooth signal the phone key uses,
 
 ### How should I plan the Lancaster drive down?
 
-Call (310) 513-8800 or text (213) 429-1092 a few days ahead with the model and what you want done, and we will hold the bay for you. The shop is at 22025 S Avalon Blvd Ste A in Carson. Tell us your arrival time; if traffic runs long, text and we will adjust.
+Call (213) 429-1092 or text (213) 429-1092 a few days ahead with the model and what you want done, and we will hold the bay for you. The shop is at 22025 S Avalon Blvd Ste A in Carson. Tell us your arrival time; if traffic runs long, text and we will adjust.
 
 ### Does the shop do car window tint on a non-Tesla from Lancaster?
 
@@ -58,7 +61,7 @@ Lancaster owners share the drive south with [Sylmar](/sylmar/), [San Fernando](/
 
 ## Book Lancaster Tesla tint
 
-Text the model and year to (213) 429-1092 or call (310) 513-8800. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30 AM to 6:00 PM; Sunday closed.
+Text the model and year to (213) 429-1092 or call (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30 AM to 6:00 PM; Sunday closed.
 
 ```json
 {
@@ -69,7 +72,7 @@ Text the model and year to (213) 429-1092 or call (310) 513-8800. Audio MotorSpo
    "@id": "https://www.audiomotorsports.com/lancaster/#webpage",
    "url": "https://www.audiomotorsports.com/lancaster/",
    "name": "Tesla Window Tint for Lancaster Owners | Audio MotorSports",
-   "description": "Lancaster Tesla window tint and ceramic window tint at Audio MotorSports in Carson, 86.8 miles away, plus car stereo installation and alarms. Call (310) 513-8800 to book.",
+   "description": "Lancaster Tesla window tint and ceramic window tint at Audio MotorSports in Carson, 86.8 miles away, plus car stereo installation and alarms. Call (213) 429-1092 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -132,7 +135,7 @@ Text the model and year to (213) 429-1092 or call (310) 513-8800. Audio MotorSpo
      "name": "How should I plan the Lancaster drive down?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Call (310) 513-8800 or text (213) 429-1092 a few days ahead with the model and what you want done, and we will hold the bay for you. The shop is at 22025 S Avalon Blvd Ste A in Carson. Tell us your arrival time; if traffic runs long, text and we will adjust."
+      "text": "Call (213) 429-1092 or text (213) 429-1092 a few days ahead with the model and what you want done, and we will hold the bay for you. The shop is at 22025 S Avalon Blvd Ste A in Carson. Tell us your arrival time; if traffic runs long, text and we will adjust."
      }
     },
     {

@@ -4,7 +4,7 @@ city: Downey
 miles: 10.9
 lead_service: window tint
 title: Ceramic Window Tint for Downey Drivers | Audio MotorSports
-meta: Ceramic window tint, car audio, alarms and remote start for Downey drivers at Audio MotorSports in Carson, 10.9 miles away. Call (310) 513-8800 to book.
+meta: Ceramic window tint, car audio, alarms and remote start for Downey drivers at Audio MotorSports in Carson, 10.9 miles away. Call (213) 429-1092 to book.
 ---
 # Ceramic Window Tint for Downey, Installed in Carson
 
@@ -23,6 +23,9 @@ Audio MotorSports tints cars for Downey drivers at 22025 S Avalon Blvd Ste A in 
 ## Downey to the shop
 
 From Downey it is about 10.9 miles, call it twenty-two to twenty-six minutes outside rush hour (approx). We are open Monday through Saturday, 9:30 AM to 6:00 PM, closed Sunday. Book ahead, then either wait while the film goes on or drop the car in the morning and collect it in the afternoon. Customers regularly drive in from Temecula for the same work, so Downey is close by our standards, and tint cut on the glass by hand is a job you only pay for once.
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Downey customers tell us makes the drop-off painless. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Downey.
 
 ## Downey tint questions
 
@@ -62,7 +65,7 @@ We also wrote pages for Downey's neighbors:
 
 ## Book Downey window tint
 
-Call (310) 513-8800 or send your year, make and model by text to (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30 AM to 6:00 PM; closed Sunday.
+Call (213) 429-1092 or send your year, make and model by text to (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30 AM to 6:00 PM; closed Sunday.
 
 ```json
 {
@@ -73,7 +76,7 @@ Call (310) 513-8800 or send your year, make and model by text to (213) 429-1092.
    "@id": "https://www.audiomotorsports.com/downey/#webpage",
    "url": "https://www.audiomotorsports.com/downey/",
    "name": "Ceramic Window Tint for Downey Drivers | Audio MotorSports",
-   "description": "Ceramic window tint, car audio, alarms and remote start for Downey drivers at Audio MotorSports in Carson, 10.9 miles away. Call (310) 513-8800 to book.",
+   "description": "Ceramic window tint, car audio, alarms and remote start for Downey drivers at Audio MotorSports in Carson, 10.9 miles away. Call (213) 429-1092 to book.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

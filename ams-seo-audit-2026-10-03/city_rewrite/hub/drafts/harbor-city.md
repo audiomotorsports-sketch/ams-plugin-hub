@@ -4,7 +4,7 @@ city: Harbor City
 miles: 2.8
 lead_service: car audio & stereo installation
 title: Car Stereo Installation for Harbor City | Audio MotorSports
-meta: Harbor City car stereo installation, subwoofer and amplifier installs, window tint and alarms at Audio MotorSports in Carson, 2.8 miles. Call (310) 513-8800.
+meta: Harbor City car stereo installation, subwoofer and amplifier installs, window tint and alarms at Audio MotorSports in Carson, 2.8 miles. Call (213) 429-1092.
 ---
 # Car Stereo Installation for Harbor City Drivers
 
@@ -24,7 +24,10 @@ Harbor City is the closest thing Audio MotorSports has to a hometown crowd. The 
 
 ## Getting here from Harbor City
 
-It is roughly 2.8 miles from Harbor City to the shop, call it a 6 to 7 minute drive outside rush hour (approx). We are open Monday through Saturday, 9:30 AM to 6:00 PM, and closed Sunday. Book a time, then drop the car and walk back to your day, or wait in the shop while the work is done. People drive in from Temecula for this bay; Harbor City is practically next door. Harbor City drivers can read the record before they come: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. [SHOP NOTE: 2-3 sentences from Nick about Harbor City customers, routes or jobs]
+It is roughly 2.8 miles from Harbor City to the shop, call it a 6 to 7 minute drive outside rush hour (approx). We are open Monday through Saturday, 9:30 AM to 6:00 PM, and closed Sunday. Book a time, then drop the car and walk back to your day, or wait in the shop while the work is done. People drive in from Temecula for this bay; Harbor City is practically next door. Harbor City drivers can read the record before they come: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. [SHOP NOTE: 2-3 sentences from Nick about Harbor City customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Harbor City, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. Harbor City customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Harbor City traffic sends you. Harbor City neighbors who work the port, the refineries or the rail yard are regulars here, often dropping the car off on the way to a shift.
 
 ## Harbor City questions we hear
 
@@ -58,7 +61,7 @@ Harbor City neighbors who come to the same bay: [West Carson](/west-carson/), [W
 
 ## Book your Harbor City car stereo installation
 
-Call (310) 513-8800 or text your year, make and model to (213) 429-1092 and we will set a time. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday to Saturday 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text your year, make and model to (213) 429-1092 and we will set a time. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday to Saturday 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -69,7 +72,7 @@ Call (310) 513-8800 or text your year, make and model to (213) 429-1092 and we w
    "@id": "https://www.audiomotorsports.com/harbor-city/#webpage",
    "url": "https://www.audiomotorsports.com/harbor-city/",
    "name": "Car Stereo Installation for Harbor City | Audio MotorSports",
-   "description": "Harbor City car stereo installation, subwoofer and amplifier installs, window tint and alarms at Audio MotorSports in Carson, 2.8 miles. Call (310) 513-8800.",
+   "description": "Harbor City car stereo installation, subwoofer and amplifier installs, window tint and alarms at Audio MotorSports in Carson, 2.8 miles. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

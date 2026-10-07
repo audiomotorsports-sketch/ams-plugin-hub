@@ -4,7 +4,7 @@ city: Covina
 miles: 34.8
 lead_service: ceramic window tint
 title: Ceramic Window Tint Covina | LA Car Tint, Carson
-meta: Ceramic window tint for Covina summers and car window tint for any model, installed by Audio MotorSports in Carson, 34.8 miles away. Call (310) 513-8800.
+meta: Ceramic window tint for Covina summers and car window tint for any model, installed by Audio MotorSports in Carson, 34.8 miles away. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Ceramic Window Tint for Covina Summers, by Audio MotorSports, Carson
@@ -26,6 +26,9 @@ Plan on about 34.8 miles and roughly an hour and fifteen minutes (approx) outsid
 
 [SHOP NOTE: 2-3 sentences from Nick about Covina customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Covina job is finished. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Covina.
+
 ## Covina drivers ask
 
 ### Does ceramic window tint really beat regular tint in Covina heat?
@@ -46,7 +49,7 @@ For inland summers, many think so. Remote start installation lets the air condit
 
 ### What makes an hour-plus drive to Carson worth it for window tint?
 
-The install. Film cut on your glass, edges under the seal, every panel heat-set and checked, by a crew that does this every day with Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Done once, done right, is the cheaper path.
+The install. Film cut on your glass, edges under the seal, every panel heat-set and checked, by a crew that does this every day with Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Done once, done right, is the cheaper path.
 
 ## Prices, as of October 2026
 
@@ -61,7 +64,7 @@ Solar window tint $249 installed and Solar Ceramic $329 installed, as of October
 
 ## Book it
 
-Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
+Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
 
 ```json
 {
@@ -72,7 +75,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-covina/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-covina/",
    "name": "Ceramic Window Tint Covina | LA Car Tint, Carson",
-   "description": "Ceramic window tint for Covina summers and car window tint for any model, installed by Audio MotorSports in Carson, 34.8 miles away. Call (310) 513-8800.",
+   "description": "Ceramic window tint for Covina summers and car window tint for any model, installed by Audio MotorSports in Carson, 34.8 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -144,7 +147,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "What makes an hour-plus drive to Carson worth it for window tint?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "The install. Film cut on your glass, edges under the seal, every panel heat-set and checked, by a crew that does this every day with Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Done once, done right, is the cheaper path."
+      "text": "The install. Film cut on your glass, edges under the seal, every panel heat-set and checked, by a crew that does this every day with Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Done once, done right, is the cheaper path."
      }
     }
    ]

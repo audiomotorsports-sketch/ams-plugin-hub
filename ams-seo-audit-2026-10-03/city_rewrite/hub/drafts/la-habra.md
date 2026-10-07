@@ -4,7 +4,7 @@ city: La Habra
 miles: 19.5
 lead_service: Apple CarPlay / Android Auto
 title: CarPlay Installation & Tint for La Habra | Audio MotorSports
-meta: Apple CarPlay and Android Auto installation, window tint, car stereo and alarms for La Habra drivers at Audio MotorSports, Carson, 19.5 miles. (310) 513-8800.
+meta: Apple CarPlay and Android Auto installation, window tint, car stereo and alarms for La Habra drivers at Audio MotorSports, Carson, 19.5 miles. (213) 429-1092.
 ---
 # Apple CarPlay and Android Auto Installation for La Habra
 
@@ -27,6 +27,9 @@ Audio MotorSports does Apple CarPlay and Android Auto installation for La Habra 
 The trip is about 19.5 miles, around 39 to 47 minutes (approx) when the roads are clear. Call or text to book, then drop the car off for the day or wait at the shop; a CarPlay head unit installation is usually a morning. Hours: Monday through Saturday 9:30 to 6:00, closed Sunday. People drive in from Temecula for this work, so La Habra is well inside the normal range.
 
 [SHOP NOTE: 2-3 sentences from Nick about La Habra customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for La Habra customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. Coming from La Habra, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## La Habra drivers ask
 
@@ -69,7 +72,7 @@ Head units, modules, speakers, Tesla window tint, GPS tracker and dash camera in
 
 ## Book your CarPlay installation from La Habra
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745; open Monday through Saturday 9:30 to 6:00, closed Sundays.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745; open Monday through Saturday 9:30 to 6:00, closed Sundays.
 
 ```json
 {
@@ -80,7 +83,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/la-habra/#webpage",
    "url": "https://www.audiomotorsports.com/la-habra/",
    "name": "CarPlay Installation & Tint for La Habra | Audio MotorSports",
-   "description": "Apple CarPlay and Android Auto installation, window tint, car stereo and alarms for La Habra drivers at Audio MotorSports, Carson, 19.5 miles. (310) 513-8800.",
+   "description": "Apple CarPlay and Android Auto installation, window tint, car stereo and alarms for La Habra drivers at Audio MotorSports, Carson, 19.5 miles. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

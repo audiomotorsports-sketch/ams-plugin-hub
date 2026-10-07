@@ -4,7 +4,7 @@ city: Whittier
 miles: 16.7
 lead_service: ceramic window tint (family cars and trucks)
 title: Ceramic Window Tint Whittier | LA Car Tint, Carson
-meta: Ceramic window tint for Whittier cars and trucks, hand-cut and installed by Audio MotorSports in Carson, 16.7 miles away. Dated prices. Call (310) 513-8800.
+meta: Ceramic window tint for Whittier cars and trucks, hand-cut and installed by Audio MotorSports in Carson, 16.7 miles away. Dated prices. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Ceramic Window Tint for Whittier Cars and Trucks, by Audio MotorSports, Carson
@@ -26,11 +26,14 @@ Whittier to Carson is about 16.7 miles, thirty-five to forty minutes (approx) wi
 
 [SHOP NOTE: 2-3 sentences from Nick about Whittier customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Whittier, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. From Whittier you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
+
 ## Questions from Whittier
 
 ### Is it worth driving from Whittier for ceramic window tint?
 
-Yes. The film is cut on your glass and sealed at the edge, so it stays put for the life of the car. You can read Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, before you make the trip.
+Yes. The film is cut on your glass and sealed at the edge, so it stays put for the life of the car. You can read Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, before you make the trip.
 
 ### Can you tint a work truck and a family car on the same booking?
 
@@ -46,7 +49,7 @@ Front side windows must pass most of the visible light, so they get a light film
 
 ### How do I book from Whittier?
 
-Call (310) 513-8800 or text (213) 429-1092 with the vehicle and the film. We set a time, you drive over, and the car goes straight in. Wait or leave it; either works. Most cars are done the same day they come in, so you will have it back by evening.
+Call (213) 429-1092 or text (213) 429-1092 with the vehicle and the film. We set a time, you drive over, and the car goes straight in. Wait or leave it; either works. Most cars are done the same day they come in, so you will have it back by evening.
 
 ## Prices, as of October 2026
 
@@ -62,7 +65,7 @@ Solar window tinting $249 installed; Solar Ceramic window tinting $329 installed
 
 ## Book it
 
-Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
+Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
 
 ```json
 {
@@ -73,7 +76,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-whittier/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-whittier/",
    "name": "Ceramic Window Tint Whittier | LA Car Tint, Carson",
-   "description": "Ceramic window tint for Whittier cars and trucks, hand-cut and installed by Audio MotorSports in Carson, 16.7 miles away. Dated prices. Call (310) 513-8800.",
+   "description": "Ceramic window tint for Whittier cars and trucks, hand-cut and installed by Audio MotorSports in Carson, 16.7 miles away. Dated prices. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -113,7 +116,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "Is it worth driving from Whittier for ceramic window tint?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. The film is cut on your glass and sealed at the edge, so it stays put for the life of the car. You can read Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, before you make the trip."
+      "text": "Yes. The film is cut on your glass and sealed at the edge, so it stays put for the life of the car. You can read Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, before you make the trip."
      }
     },
     {
@@ -145,7 +148,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "How do I book from Whittier?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Call (310) 513-8800 or text (213) 429-1092 with the vehicle and the film. We set a time, you drive over, and the car goes straight in. Wait or leave it; either works. Most cars are done the same day they come in, so you will have it back by evening."
+      "text": "Call (213) 429-1092 or text (213) 429-1092 with the vehicle and the film. We set a time, you drive over, and the car goes straight in. Wait or leave it; either works. Most cars are done the same day they come in, so you will have it back by evening."
      }
     }
    ]

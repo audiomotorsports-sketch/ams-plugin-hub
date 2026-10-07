@@ -4,7 +4,7 @@ city: Hidden Hills
 miles: 32.3
 lead_service: Viper alarm installation
 title: Viper Alarm Installation for Hidden Hills | LA Car Alarm
-meta: Viper alarm installation, GPS tracker installation and Compustar remote start for Hidden Hills drivers at LA Car Alarm by Audio MotorSports in Carson. (310) 513-8800.
+meta: Viper alarm installation, GPS tracker installation and Compustar remote start for Hidden Hills drivers at LA Car Alarm by Audio MotorSports in Carson. (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Viper Alarm Installation for Hidden Hills Drivers
@@ -22,6 +22,9 @@ A gated driveway is not a security system. Hidden Hills drivers bring their cars
 **Dash camera installation.** Front and rear on a hardwire kit with parking mode, so a driveway incident is recorded without a cord in sight.
 
 The same shop does window tint, car stereo installation and Apple CarPlay installation for anyone who wants to make one long drive count twice.
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Hidden Hills drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Coming from Hidden Hills, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Getting to the shop from Hidden Hills
 
@@ -54,7 +57,7 @@ $269 installed, as of October 2026, covers the Viper 3108V alarm, the shock sens
 
 Tilt sensors, GPS trackers and dash cameras are quoted per vehicle at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby west valley cities
 
@@ -65,6 +68,6 @@ Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
 
 ## Get in touch
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 [CONFIRM] SHOP NOTE slot for Hidden Hills; drive time 65-78 minutes (approx) at 25-30 mph.

@@ -5,7 +5,7 @@ miles: 10.9
 lead_service: Tesla window tint (one-piece rear glass)
 source: hub-mounted copy; standalone www host not verified
 title: Seal Beach Tesla Tint, One-Piece Rear Glass | Tesla Tint LA
-meta: Tesla window tint for Seal Beach owners, rear window tinted as one piece. Tesla Tint LA by Audio MotorSports in Carson, 10.9 miles away. Call (310) 513-8800.
+meta: Tesla window tint for Seal Beach owners, rear window tinted as one piece. Tesla Tint LA by Audio MotorSports in Carson, 10.9 miles away. Call (213) 429-1092.
 ---
 # Tesla Window Tint for Seal Beach, Rear Glass as One Piece
 
@@ -28,6 +28,9 @@ Audio MotorSports also offers dash camera and GPS tracker installation for Tesla
 From Seal Beach it is about 10.9 miles, roughly 22 to 26 minutes outside rush hour (approx). We are open Monday to Saturday, 9:30 AM to 6:00 PM, closed Sunday. Book first, then wait at the shop or leave the car and come back for it.
 
 [SHOP NOTE: 2-3 sentences from Nick about Seal Beach customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Seal Beach customers tell us makes the drop-off painless. Seal Beach customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Seal Beach.
 
 ## Seal Beach Tesla tint questions
 
@@ -53,7 +56,7 @@ No. The windshield camera cluster and the fender repeaters are masked and the fi
 
 ## Pricing
 
-Every Tesla is priced by model at the shop; text the year and model for a figure. The non-Tesla reference is Solar at $249 and Solar Ceramic at $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Every Tesla is priced by model at the shop; text the year and model for a figure. The non-Tesla reference is Solar at $249 and Solar Ceramic at $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near Seal Beach
 
@@ -65,7 +68,7 @@ Every Tesla is priced by model at the shop; text the year and model for a figure
 
 ## Book your appointment
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -76,7 +79,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-seal-beach/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-seal-beach/",
    "name": "Seal Beach Tesla Tint, One-Piece Rear Glass | Tesla Tint LA",
-   "description": "Tesla window tint for Seal Beach owners, rear window tinted as one piece. Tesla Tint LA by Audio MotorSports in Carson, 10.9 miles away. Call (310) 513-8800.",
+   "description": "Tesla window tint for Seal Beach owners, rear window tinted as one piece. Tesla Tint LA by Audio MotorSports in Carson, 10.9 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

@@ -4,7 +4,7 @@ city: Irvine
 miles: 27.0
 lead_service: Tesla window tint
 title: Tesla & Ceramic Window Tint Irvine | LA Car Tint, Carson
-meta: Tesla window tint and ceramic car window tint for Irvine EV and luxury owners, installed by Audio MotorSports in Carson, 27 miles away. Call (310) 513-8800.
+meta: Tesla window tint and ceramic car window tint for Irvine EV and luxury owners, installed by Audio MotorSports in Carson, 27 miles away. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla and Ceramic Window Tint for Irvine, by Audio MotorSports, Carson
@@ -26,6 +26,9 @@ The trip is about 27 miles, close to an hour (approx) outside rush hour. Hours: 
 
 [SHOP NOTE: 2-3 sentences from Nick about Irvine customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Irvine job is finished. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Irvine.
+
 ## Irvine owners ask
 
 ### Why is Tesla window tint a different job than tinting a regular sedan?
@@ -38,7 +41,7 @@ Ceramic film blocks infrared heat, so the cabin starts cooler and the climate sy
 
 ### Is an hour's drive from Irvine worth it for window tinting?
 
-If you care how the car looks in three years, yes. Film is cut on your glass, edges sit under the seal, and the crew tints every day, at a shop with Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Customers from far beyond Irvine make the same trip for the same reason.
+If you care how the car looks in three years, yes. Film is cut on your glass, edges sit under the seal, and the crew tints every day, at a shop with Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Customers from far beyond Irvine make the same trip for the same reason.
 
 ### Can the glass roof on a Tesla or a panoramic sunroof be tinted?
 
@@ -61,7 +64,7 @@ Solar window tint $249 installed and Solar Ceramic $329 installed, as of October
 
 ## Book it
 
-Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
+Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
 
 ```json
 {
@@ -72,7 +75,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-irvine/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-irvine/",
    "name": "Tesla & Ceramic Window Tint Irvine | LA Car Tint, Carson",
-   "description": "Tesla window tint and ceramic car window tint for Irvine EV and luxury owners, installed by Audio MotorSports in Carson, 27 miles away. Call (310) 513-8800.",
+   "description": "Tesla window tint and ceramic car window tint for Irvine EV and luxury owners, installed by Audio MotorSports in Carson, 27 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -128,7 +131,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "Is an hour's drive from Irvine worth it for window tinting?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "If you care how the car looks in three years, yes. Film is cut on your glass, edges sit under the seal, and the crew tints every day, at a shop with Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Customers from far beyond Irvine make the same trip for the same reason."
+      "text": "If you care how the car looks in three years, yes. Film is cut on your glass, edges sit under the seal, and the crew tints every day, at a shop with Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Customers from far beyond Irvine make the same trip for the same reason."
      }
     },
     {

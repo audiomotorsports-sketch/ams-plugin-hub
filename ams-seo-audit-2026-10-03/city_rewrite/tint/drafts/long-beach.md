@@ -5,7 +5,7 @@ miles: 5.7
 lead_service: Window tint / ceramic window tint (LA Car Tint)
 source: hub-mounted copy; standalone www host not verified
 title: Ceramic Window Tint Long Beach | LA Car Tint, Carson
-meta: Ceramic window tint and car window tinting for Long Beach drivers, installed by Audio MotorSports in Carson, 5.7 miles away. Call (310) 513-8800 to book.
+meta: Ceramic window tint and car window tinting for Long Beach drivers, installed by Audio MotorSports in Carson, 5.7 miles away. Call (213) 429-1092 to book.
 ---
 # Ceramic Window Tint for Long Beach
 
@@ -27,6 +27,9 @@ From Long Beach it is about 5.7 miles to the bay at 22025 S Avalon Blvd, roughly
 
 [SHOP NOTE: 2-3 sentences from Nick about Long Beach customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Long Beach customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. Long Beach is home to many of our LGBTQ customers, and everyone is welcome at the shop; it is on our Google and Yelp pages and it is how we work. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Long Beach traffic sends you.
+
 ## Questions from Long Beach drivers
 
 ### Is ceramic window tint worth it for a car parked near the water in Long Beach?
@@ -35,7 +38,7 @@ Yes, if heat and glare bother you. Ceramic film rejects a lot more infrared heat
 
 ### Do I need an appointment to get window tinting from Long Beach?
 
-We ask for one. Audio MotorSports is a single-bay shop and tint jobs are scheduled so the glass is clean and the bay is yours when you arrive. Call (310) 513-8800 or text (213) 429-1092, pick a morning or midday slot, and the car is usually ready the same afternoon.
+We ask for one. Audio MotorSports is a single-bay shop and tint jobs are scheduled so the glass is clean and the bay is yours when you arrive. Call (213) 429-1092 or text (213) 429-1092, pick a morning or midday slot, and the car is usually ready the same afternoon.
 
 ### What does a car window tint installation actually involve at LA Car Tint?
 
@@ -59,7 +62,7 @@ As of October 2026 a standard sedan is $249 installed for Solar window tint and 
 
 ## Schedule ceramic window tint from Long Beach
 
-Text (213) 429-1092 or call (310) 513-8800. The shop is Audio MotorSports at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-6:00 and closed Sundays. Reviews as of October 2026: Google 4.8 from 650+ reviews, Yelp 4.7 from 770+.
+Text (213) 429-1092 or call (213) 429-1092. The shop is Audio MotorSports at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-6:00 and closed Sundays. Reviews as of October 2026: Google 4.8 from 654 reviews, Yelp 4.7 from 777.
 
 ```json
 {
@@ -70,7 +73,7 @@ Text (213) 429-1092 or call (310) 513-8800. The shop is Audio MotorSports at 220
    "@id": "https://www.audiomotorsports.com/tint/window-tint-long-beach/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-long-beach/",
    "name": "Ceramic Window Tint Long Beach | LA Car Tint, Carson",
-   "description": "Ceramic window tint and car window tinting for Long Beach drivers, installed by Audio MotorSports in Carson, 5.7 miles away. Call (310) 513-8800 to book.",
+   "description": "Ceramic window tint and car window tinting for Long Beach drivers, installed by Audio MotorSports in Carson, 5.7 miles away. Call (213) 429-1092 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -120,7 +123,7 @@ Text (213) 429-1092 or call (310) 513-8800. The shop is Audio MotorSports at 220
      "name": "Do I need an appointment to get window tinting from Long Beach?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "We ask for one. Audio MotorSports is a single-bay shop and tint jobs are scheduled so the glass is clean and the bay is yours when you arrive. Call (310) 513-8800 or text (213) 429-1092, pick a morning or midday slot, and the car is usually ready the same afternoon."
+      "text": "We ask for one. Audio MotorSports is a single-bay shop and tint jobs are scheduled so the glass is clean and the bay is yours when you arrive. Call (213) 429-1092 or text (213) 429-1092, pick a morning or midday slot, and the car is usually ready the same afternoon."
      }
     },
     {

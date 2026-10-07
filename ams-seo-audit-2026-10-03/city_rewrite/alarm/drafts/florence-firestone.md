@@ -4,7 +4,7 @@ city: Florence-Firestone
 miles: 10.0
 lead_service: GPS tracker installation
 title: GPS Tracker & Alarm, Florence-Firestone | LA Car Alarm
-meta: GPS tracker installation and car alarm installation for Florence-Firestone at LA Car Alarm by Audio MotorSports in Carson, 10 miles out. Call (310) 513-8800.
+meta: GPS tracker installation and car alarm installation for Florence-Firestone at LA Car Alarm by Audio MotorSports in Carson, 10 miles out. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # GPS Tracker Installation for Florence-Firestone Drivers
@@ -22,6 +22,9 @@ If your car disappears, a hidden GPS tracker is the difference between a police 
 **Dash camera installation.** Hardwired so it records while parked, with the wire hidden along the headliner and A-pillar instead of taped across the glass.
 
 Beyond security, the same shop handles window tint, car audio and Apple CarPlay installs when you want to bundle the trip.
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Florence-Firestone, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. The shop is LGBTQ-friendly and everyone from Florence-Firestone is welcome, as our Google and Yelp listings state. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Florence-Firestone traffic sends you.
 
 ## Getting to the shop from Florence-Firestone
 
@@ -54,7 +57,7 @@ Your factory immobilizer checks for a chip in the key; a starter kill is an adde
 
 GPS trackers and dash cameras are quoted for your vehicle at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Other cities near Florence-Firestone
 
@@ -65,7 +68,7 @@ Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
 
 ## Call or text
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

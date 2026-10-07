@@ -5,7 +5,7 @@ city: Duarte
 miles: 27.1
 lead_service: Viper alarm installation
 title: Viper Alarm Installation for Duarte | LA Car Alarm
-meta: Viper alarm installation for Duarte drivers at LA Car Alarm by Audio MotorSports in Carson, 27.1 miles away. Remote start, GPS, dash cams. (310) 513-8800.
+meta: Viper alarm installation for Duarte drivers at LA Car Alarm by Audio MotorSports in Carson, 27.1 miles away. Remote start, GPS, dash cams. (213) 429-1092.
 ---
 # Viper Alarm Installation for Duarte Drivers
 
@@ -22,6 +22,9 @@ A Viper alarm installation for a Duarte car happens 27.1 miles away at LA Car Al
 **Dash camera installation.** Hardwired with a voltage cutoff, parking mode on, cable inside the trim rather than across the glass.
 
 If the car also needs car window tint, car stereo installation, Apple CarPlay and Android Auto, a subwoofer or Harley bagger audio, the same shop does it.
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Duarte, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Duarte.
 
 ## Duarte to Carson
 
@@ -45,7 +48,7 @@ Yes. If the existing alarm was installed well, the Compustar 9910 ties in beside
 
 ### How do I know the install was done right before I leave?
 
-You watch it tested. Every door, the hood, the shock sensor, the siren and the starter interrupt are triggered with you standing there, and the remote start is run with the hood closed. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+You watch it tested. Every door, the hood, the shock sensor, the siren and the starter interrupt are triggered with you standing there, and the remote start is run with the hood closed. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Prices as of October 2026
 
@@ -57,7 +60,7 @@ Viper 3108V alarm $269 installed. Compustar 9910 remote start from $499. Tracker
 
 ## Book a Duarte alarm install
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -138,7 +141,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. LA Car
      "name": "How do I know the install was done right before I leave?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "You watch it tested. Every door, the hood, the shock sensor, the siren and the starter interrupt are triggered with you standing there, and the remote start is run with the hood closed. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026."
+      "text": "You watch it tested. Every door, the hood, the shock sensor, the siren and the starter interrupt are triggered with you standing there, and the remote start is run with the hood closed. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026."
      }
     }
    ]

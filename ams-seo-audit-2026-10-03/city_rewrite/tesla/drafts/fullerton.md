@@ -5,7 +5,7 @@ miles: 19.7
 lead_service: Tesla window tint (one-piece rear glass)
 source: hub-mounted copy; standalone www host not verified
 title: One-Piece Tesla Rear Glass Tint, Fullerton | Tesla Tint LA
-meta: Tesla window tint for Fullerton owners, rear glass done in one piece, at Audio MotorSports in Carson, 19.7 miles away. Ceramic film. Call (310) 513-8800.
+meta: Tesla window tint for Fullerton owners, rear glass done in one piece, at Audio MotorSports in Carson, 19.7 miles away. Ceramic film. Call (213) 429-1092.
 ---
 # Tesla Window Tint for Fullerton, Rear Glass in One Piece
 
@@ -28,6 +28,9 @@ Audio MotorSports installs car alarms, remote start, GPS trackers, dash cameras 
 Count on about 19.7 miles and roughly 39 to 47 minutes outside rush hour (approx). Shop hours are Monday through Saturday, 9:30 AM to 6:00 PM, closed Sunday. Make an appointment, then leave the car for the day or wait at the shop. We regularly tint Teslas for owners who drive in from over 100 miles out, so Fullerton is an easy one.
 
 [SHOP NOTE: 2-3 sentences from Nick about Fullerton customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Fullerton customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. The shop is LGBTQ-friendly and everyone from Fullerton is welcome, as our Google and Yelp listings state. Coming from Fullerton, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Fullerton Tesla tint questions
 
@@ -53,7 +56,7 @@ As dark as you like. California limits only the front doors, which must pass 70%
 
 ## Pricing
 
-Tesla window tint, with the rear glass in one piece, is quoted by model at the shop. For reference on a non-Tesla, Solar is $249 and Solar Ceramic is $329 installed, as of October 2026. Any other job is quoted at the shop. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Tesla window tint, with the rear glass in one piece, is quoted by model at the shop. For reference on a non-Tesla, Solar is $249 and Solar Ceramic is $329 installed, as of October 2026. Any other job is quoted at the shop. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near Fullerton
 
@@ -65,7 +68,7 @@ Tesla window tint, with the rear glass in one piece, is quoted by model at the s
 
 ## Set a time
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -76,7 +79,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-fullerton/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-fullerton/",
    "name": "One-Piece Tesla Rear Glass Tint, Fullerton | Tesla Tint LA",
-   "description": "Tesla window tint for Fullerton owners, rear glass done in one piece, at Audio MotorSports in Carson, 19.7 miles away. Ceramic film. Call (310) 513-8800.",
+   "description": "Tesla window tint for Fullerton owners, rear glass done in one piece, at Audio MotorSports in Carson, 19.7 miles away. Ceramic film. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

@@ -4,7 +4,7 @@ city: Glendora
 miles: 39.0
 lead_service: Tesla window tint
 title: Tesla Window Tint for Glendora Drivers | Audio MotorSports
-meta: Tesla window tint, ceramic tint, car stereo installation and alarms for Glendora drivers at Audio MotorSports in Carson, 39 miles. Call (310) 513-8800.
+meta: Tesla window tint, ceramic tint, car stereo installation and alarms for Glendora drivers at Audio MotorSports in Carson, 39 miles. Call (213) 429-1092.
 ---
 # Tesla Window Tint for Glendora Drivers
 
@@ -21,6 +21,9 @@ Glendora Tesla owners drive about 39 miles to Audio MotorSports at 22025 S Avalo
 **Viper alarm installation and Compustar installation.** Modules hidden from the fuse box, wiring blended into the factory loom.
 
 **Dash camera installation.** Hardwired, cable hidden, parked recording on.
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Glendora, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Glendora traffic sends you.
 
 ## Glendora to Carson
 
@@ -44,7 +47,7 @@ Same as any car in California: the front side windows must pass at least 70 perc
 
 ### What else can a Glendora household get done the same day?
 
-Standard vehicles get car window tint at Solar $249 or Solar Ceramic $329 installed as of October 2026. The Viper 3108V alarm is $269 installed and Compustar remote start installation starts from $499. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, if you want the record.
+Standard vehicles get car window tint at Solar $249 or Solar Ceramic $329 installed as of October 2026. The Viper 3108V alarm is $269 installed and Compustar remote start installation starts from $499. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, if you want the record.
 
 ## Prices as of October 2026
 
@@ -56,7 +59,7 @@ Standard-vehicle window tint Solar $249, Solar Ceramic $329 installed. Viper 310
 
 ## Book from Glendora
 
-Call (310) 513-8800 or text (213) 429-1092 with your Tesla model and year. The shop is 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00 and closed on Sunday.
+Call (213) 429-1092 or text (213) 429-1092 with your Tesla model and year. The shop is 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00 and closed on Sunday.
 
 ```json
 {
@@ -67,7 +70,7 @@ Call (310) 513-8800 or text (213) 429-1092 with your Tesla model and year. The s
    "@id": "https://www.audiomotorsports.com/glendora/#webpage",
    "url": "https://www.audiomotorsports.com/glendora/",
    "name": "Tesla Window Tint for Glendora Drivers | Audio MotorSports",
-   "description": "Tesla window tint, ceramic tint, car stereo installation and alarms for Glendora drivers at Audio MotorSports in Carson, 39 miles. Call (310) 513-8800.",
+   "description": "Tesla window tint, ceramic tint, car stereo installation and alarms for Glendora drivers at Audio MotorSports in Carson, 39 miles. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {
@@ -142,7 +145,7 @@ Call (310) 513-8800 or text (213) 429-1092 with your Tesla model and year. The s
      "name": "What else can a Glendora household get done the same day?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Standard vehicles get car window tint at Solar $249 or Solar Ceramic $329 installed as of October 2026. The Viper 3108V alarm is $269 installed and Compustar remote start installation starts from $499. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, if you want the record."
+      "text": "Standard vehicles get car window tint at Solar $249 or Solar Ceramic $329 installed as of October 2026. The Viper 3108V alarm is $269 installed and Compustar remote start installation starts from $499. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, if you want the record."
      }
     }
    ]

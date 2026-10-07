@@ -5,7 +5,7 @@ miles: 31.0
 lead_service: Tesla window tint (Model X)
 source: hub-mounted copy; standalone www host not verified
 title: Model X Window Tint for West Covina | Tesla Tint LA
-meta: Model X ceramic window tint for West Covina Tesla owners at Tesla Tint LA by Audio MotorSports in Carson, 31 miles away. Quoted by model. Call (310) 513-8800.
+meta: Model X ceramic window tint for West Covina Tesla owners at Tesla Tint LA by Audio MotorSports in Carson, 31 miles away. Quoted by model. Call (213) 429-1092.
 ---
 # Model X Window Tint for West Covina Tesla Owners
 
@@ -31,6 +31,9 @@ From West Covina it is about 31 miles, roughly 62 to 74 minutes outside rush hou
 
 [SHOP NOTE: 2-3 sentences from Nick about West Covina customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from West Covina, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from West Covina.
+
 ## Model X tint questions from West Covina
 
 ### Is it worth driving a Model X from West Covina for tint?
@@ -55,7 +58,7 @@ Book a morning appointment. The Model X takes longer than a Model 3 because of t
 
 ## Pricing
 
-Model X tint, like every other Tesla, is quoted by model at the shop; send the year and model by text for a figure. For a non-Tesla, Solar window tint runs $249 and Solar Ceramic $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Model X tint, like every other Tesla, is quoted by model at the shop; send the year and model by text for a figure. For a non-Tesla, Solar window tint runs $249 and Solar Ceramic $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near West Covina
 
@@ -67,7 +70,7 @@ Model X tint, like every other Tesla, is quoted by model at the shop; send the y
 
 ## Book your appointment
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -78,7 +81,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-west-covina/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-west-covina/",
    "name": "Model X Window Tint for West Covina | Tesla Tint LA",
-   "description": "Model X ceramic window tint for West Covina Tesla owners at Tesla Tint LA by Audio MotorSports in Carson, 31 miles away. Quoted by model. Call (310) 513-8800.",
+   "description": "Model X ceramic window tint for West Covina Tesla owners at Tesla Tint LA by Audio MotorSports in Carson, 31 miles away. Quoted by model. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

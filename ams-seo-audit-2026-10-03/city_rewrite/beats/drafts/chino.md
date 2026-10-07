@@ -4,7 +4,7 @@ city: Chino
 miles: 44.0
 lead_service: factory-look car stereo installation
 title: Chino Factory-Look Car Stereo Install | LA Car Beats
-meta: Factory-look car stereo installation, CarPlay and truck audio for Chino drivers at LA Car Beats by Audio MotorSports in Carson. Call (310) 513-8800.
+meta: Factory-look car stereo installation, CarPlay and truck audio for Chino drivers at LA Car Beats by Audio MotorSports in Carson. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Factory-Look Car Stereo Installation for Chino
@@ -24,6 +24,9 @@ Chino drivers who want a modern stereo that still looks original drive to LA Car
 ## Chino to Carson
 
 Chino is about 44 miles from the shop, roughly 88 to 106 minutes outside rush hour (approx). At that distance we plan the job before you leave: text the year, make and model, we confirm the parts, and you drop the car for the day. Hours are Monday to Saturday 9:30-18:00, closed Sunday. Customers have made the 120-mile trip from San Diego for a factory-look install, so Chino is closer than it sounds.
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Chino customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. Chino customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Chino.
 
 ## Chino questions
 
@@ -49,7 +52,7 @@ Always. Speaker replacement is done behind the original grilles with adapter rin
 
 ## Chino pricing
 
-The Dual Kicker Comp loaded subwoofer box is $249, box only, as of October 2026. Head unit installation, Apple CarPlay and Android Auto installation, speaker replacement, subwoofer installation and amplifier installation get quoted at the shop for Chino drivers; payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation and Harley bagger audio can be done in the same long visit.
+The Dual Kicker Comp loaded subwoofer box is $249, box only, as of October 2026. Head unit installation, Apple CarPlay and Android Auto installation, speaker replacement, subwoofer installation and amplifier installation get quoted at the shop for Chino drivers; payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation and Harley bagger audio can be done in the same long visit.
 
 ## Nearby cities
 
@@ -62,7 +65,7 @@ LA Car Beats pages for cities around Chino:
 
 ## Book a factory-look install
 
-Call (310) 513-8800 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30 to 6:00; Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30 to 6:00; Sunday closed.
 
 ```json
 {
@@ -73,7 +76,7 @@ Call (310) 513-8800 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 2
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-chino/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-chino/",
    "name": "Chino Factory-Look Car Stereo Install | LA Car Beats",
-   "description": "Factory-look car stereo installation, CarPlay and truck audio for Chino drivers at LA Car Beats by Audio MotorSports in Carson. Call (310) 513-8800.",
+   "description": "Factory-look car stereo installation, CarPlay and truck audio for Chino drivers at LA Car Beats by Audio MotorSports in Carson. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

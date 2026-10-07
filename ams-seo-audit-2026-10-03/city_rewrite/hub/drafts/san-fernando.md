@@ -4,7 +4,7 @@ city: San Fernando
 miles: 38.9
 lead_service: car alarm installation & remote start installation
 title: Car Alarm Installation, San Fernando | Audio MotorSports
-meta: Viper car alarm installation, remote start, window tint and car stereo for San Fernando drivers at Audio MotorSports in Carson, 38.9 miles. (310) 513-8800.
+meta: Viper car alarm installation, remote start, window tint and car stereo for San Fernando drivers at Audio MotorSports in Carson, 38.9 miles. (213) 429-1092.
 ---
 # Car Alarm & Remote Start Installation for San Fernando
 
@@ -27,6 +27,9 @@ San Fernando drivers get Viper alarm installation and Compustar remote start ins
 The shop is 38.9 miles from San Fernando, roughly seventy-eight to ninety-three minutes outside rush hour (approx). Hours are Monday through Saturday 9:30 to 6:00, Sunday closed. Book by phone or text, then drop the car for the day and come back, or wait on site; an alarm by itself is a few hours, alarm plus remote start is most of a day.
 
 [SHOP NOTE: 2-3 sentences from Nick about San Fernando customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Plenty of San Fernando drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Coming from San Fernando, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## San Fernando alarm questions
 
@@ -63,7 +66,7 @@ Viper 3108V alarm installation is $269. Compustar 9910 remote start installation
 
 ## Book from San Fernando
 
-Call (310) 513-8800 or text your year, make and model to (213) 429-1092. The shop is Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00 and closed Sunday. Drop off or wait.
+Call (213) 429-1092 or text your year, make and model to (213) 429-1092. The shop is Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00 and closed Sunday. Drop off or wait.
 
 ```json
 {
@@ -74,7 +77,7 @@ Call (310) 513-8800 or text your year, make and model to (213) 429-1092. The sho
    "@id": "https://www.audiomotorsports.com/san-fernando/#webpage",
    "url": "https://www.audiomotorsports.com/san-fernando/",
    "name": "Car Alarm Installation, San Fernando | Audio MotorSports",
-   "description": "Viper car alarm installation, Compustar remote start, window tint and car stereo installs for San Fernando drivers at Audio MotorSports in Carson, 38.9 miles. (310) 513-8800.",
+   "description": "Viper car alarm installation, Compustar remote start, window tint and car stereo installs for San Fernando drivers at Audio MotorSports in Carson, 38.9 miles. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

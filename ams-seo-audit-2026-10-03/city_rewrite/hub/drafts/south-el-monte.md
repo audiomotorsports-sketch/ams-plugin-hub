@@ -4,7 +4,7 @@ city: South El Monte
 miles: 19.7
 lead_service: Tesla window tint
 title: Tesla Window Tint for South El Monte | Audio MotorSports
-meta: South El Monte Tesla window tint and ceramic tint at Audio MotorSports in Carson, 19.7 miles away, plus car stereo installation and alarms. (310) 513-8800.
+meta: South El Monte Tesla window tint and ceramic tint at Audio MotorSports in Carson, 19.7 miles away, plus car stereo installation and alarms. (213) 429-1092.
 ---
 # Tesla Window Tint for South El Monte
 
@@ -24,7 +24,10 @@ South El Monte Tesla owners drive about 19.7 miles to Audio MotorSports, 22025 S
 
 ## South El Monte to the Carson bay
 
-South El Monte to the shop is about 19.7 miles, a 39 to 47 minute drive outside rush hour (approx). Hours are Monday to Saturday 9:30 AM to 6:00 PM, closed Sunday. Reserve a time, then wait while the Tesla is tinted or drop it and pick it up later in the day. South El Monte owners can read the reviews on the way: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. [SHOP NOTE: 2-3 sentences from Nick about South El Monte customers, routes or jobs]
+South El Monte to the shop is about 19.7 miles, a 39 to 47 minute drive outside rush hour (approx). Hours are Monday to Saturday 9:30 AM to 6:00 PM, closed Sunday. Reserve a time, then wait while the Tesla is tinted or drop it and pick it up later in the day. South El Monte owners can read the reviews on the way: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. [SHOP NOTE: 2-3 sentences from Nick about South El Monte customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from South El Monte, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. South El Monte customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. From South El Monte you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## South El Monte Tesla tint questions
 
@@ -58,7 +61,7 @@ South El Monte shares the drive with [El Monte](/el-monte/), [Rosemead](/rosemea
 
 ## Book South El Monte Tesla tint
 
-Text the model and year to (213) 429-1092 or call (310) 513-8800. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30 AM to 6:00 PM, closed Sunday.
+Text the model and year to (213) 429-1092 or call (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -69,7 +72,7 @@ Text the model and year to (213) 429-1092 or call (310) 513-8800. Audio MotorSpo
    "@id": "https://www.audiomotorsports.com/south-el-monte/#webpage",
    "url": "https://www.audiomotorsports.com/south-el-monte/",
    "name": "Tesla Window Tint for South El Monte | Audio MotorSports",
-   "description": "South El Monte Tesla window tint and ceramic window tint at Audio MotorSports in Carson, 19.7 miles away, plus car stereo installation and alarms. Call (310) 513-8800.",
+   "description": "South El Monte Tesla window tint and ceramic window tint at Audio MotorSports in Carson, 19.7 miles away, plus car stereo installation and alarms. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

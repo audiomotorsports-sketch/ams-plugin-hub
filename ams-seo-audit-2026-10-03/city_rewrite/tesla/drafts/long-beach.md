@@ -4,7 +4,7 @@ city: Long Beach
 miles: 5.7
 lead_service: Tesla window tint (one-piece rear glass)
 title: Long Beach Tesla Tint | Tesla Tint LA by Audio MotorSports
-meta: Long Beach Tesla window tint done in Carson by Tesla Tint LA, the Tesla side of Audio MotorSports. One-piece rear glass, ceramic film. Call (310) 513-8800.
+meta: Long Beach Tesla window tint done in Carson by Tesla Tint LA, the Tesla side of Audio MotorSports. One-piece rear glass, ceramic film. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla Window Tint for Long Beach Owners, Including the One-Piece Rear Glass
@@ -26,6 +26,9 @@ Long Beach Tesla owners get their window tint at Tesla Tint LA, the Tesla side o
 ## The drive from Long Beach
 
 It is about 5.7 miles from Long Beach to the shop, roughly 11 to 14 minutes when traffic is normal (approx). Hours are Monday to Saturday 9:30 AM to 6:00 PM, closed Sunday. Set an appointment, then drop the car or wait at the shop; either works. [SHOP NOTE: 2-3 sentences from Nick about Long Beach customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Long Beach job is finished. Long Beach is home to many of our LGBTQ customers, and everyone is welcome at the shop; it is on our Google and Yelp pages and it is how we work. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Long Beach traffic sends you.
 
 ## Long Beach Tesla tint questions
 
@@ -51,7 +54,7 @@ Each model is quoted at the shop because the glass differs so much. A Model X ha
 
 ## Prices
 
-All Tesla models are quoted by model at the shop, not from a chart. If you want a non-Tesla reference point, the standard window tint at this bay is Solar $249 or Solar Ceramic $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+All Tesla models are quoted by model at the shop, not from a chart. If you want a non-Tesla reference point, the standard window tint at this bay is Solar $249 or Solar Ceramic $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Other drive-ins near Long Beach
 
@@ -59,7 +62,7 @@ All Tesla models are quoted by model at the shop, not from a chart. If you want 
 
 ## Book it
 
-Text (213) 429-1092 or call (310) 513-8800 to book. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30-18:00, closed Sunday.
+Text (213) 429-1092 or call (213) 429-1092 to book. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {

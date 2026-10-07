@@ -4,7 +4,7 @@ city: Manhattan Beach
 miles: 9.3
 lead_service: dash camera installation
 title: Dash Camera Installation for Manhattan Beach | LA Car Alarm
-meta: Dash camera installation for Manhattan Beach drivers at LA Car Alarm by Audio MotorSports, Carson, 9.3 miles out. Alarms, remote start, GPS. Call (310) 513-8800.
+meta: Dash camera installation for Manhattan Beach drivers at LA Car Alarm by Audio MotorSports, Carson, 9.3 miles out. Alarms, remote start, GPS. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Dash Camera Installation for Manhattan Beach Drivers
@@ -22,6 +22,9 @@ Manhattan Beach drivers bring their cars about 9.3 miles to LA Car Alarm at Audi
 **GPS tracker installation.** A tracker tucked behind factory trim on constant power, tested on your phone before you leave the lot.
 
 If the car needs ceramic window tint or a CarPlay head unit, the same appointment can cover it.
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Manhattan Beach drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. Coming from Manhattan Beach, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Manhattan Beach to the Carson shop
 
@@ -56,7 +59,7 @@ Customers have driven in from as far as Temecula for security work, so a beach-c
 
 Dash cameras and GPS trackers are quoted on the vehicle at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby alarm pages
 
@@ -68,7 +71,7 @@ Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
 
 ## Schedule from Manhattan Beach
 
-Call (310) 513-8800 or text (213) 429-1092 and tell Nick what you drive. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 and tell Nick what you drive. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

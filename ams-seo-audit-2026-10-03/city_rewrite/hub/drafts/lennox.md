@@ -4,7 +4,7 @@ city: Lennox
 miles: 9.0
 lead_service: Apple CarPlay and Android Auto installation
 title: CarPlay & Android Auto Installs, Lennox | Audio MotorSports
-meta: Lennox Apple CarPlay and Android Auto installation, car stereo, window tint and alarms at Audio MotorSports in Carson, 9 miles away. Call (310) 513-8800.
+meta: Lennox Apple CarPlay and Android Auto installation, car stereo, window tint and alarms at Audio MotorSports in Carson, 9 miles away. Call (213) 429-1092.
 ---
 # Apple CarPlay and Android Auto Installation for Lennox Drivers
 
@@ -24,7 +24,10 @@ Apple CarPlay and Android Auto installation in an older car is the number one re
 
 ## Lennox to the shop
 
-Count on about 9 miles and an 18 to 22 minute drive when the roads are clear (approx). Hours are Monday to Saturday, 9:30 AM until 6:00 PM, closed Sunday. Book by phone or text, then wait in the shop for a head unit swap or drop the car for a bigger job. The reviews are where Lennox drivers usually start: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. [SHOP NOTE: 2-3 sentences from Nick about Lennox customers, routes or jobs]
+Count on about 9 miles and an 18 to 22 minute drive when the roads are clear (approx). Hours are Monday to Saturday, 9:30 AM until 6:00 PM, closed Sunday. Book by phone or text, then wait in the shop for a head unit swap or drop the car for a bigger job. The reviews are where Lennox drivers usually start: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. [SHOP NOTE: 2-3 sentences from Nick about Lennox customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Lennox customers tell us makes the drop-off painless. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. From Lennox you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## CarPlay questions from Lennox
 
@@ -58,7 +61,7 @@ Lennox shares the drive with [Inglewood](/inglewood/), [Hawthorne](/hawthorne/),
 
 ## Get CarPlay installed in your Lennox car
 
-Reach the shop at (310) 513-8800 by phone or (213) 429-1092 by text with your year, make and model. 22025 S Avalon Blvd Ste A, Carson, CA 90745; Monday through Saturday 9:30 AM to 6:00 PM, Sunday closed.
+Reach the shop at (213) 429-1092 by phone or (213) 429-1092 by text with your year, make and model. 22025 S Avalon Blvd Ste A, Carson, CA 90745; Monday through Saturday 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -69,7 +72,7 @@ Reach the shop at (310) 513-8800 by phone or (213) 429-1092 by text with your ye
    "@id": "https://www.audiomotorsports.com/lennox/#webpage",
    "url": "https://www.audiomotorsports.com/lennox/",
    "name": "CarPlay & Android Auto Installation, Lennox | Audio MotorSports",
-   "description": "Lennox Apple CarPlay and Android Auto installation, car stereo, window tint and alarm installs at Audio MotorSports in Carson, 9 miles away. Call (310) 513-8800 to book.",
+   "description": "Lennox Apple CarPlay and Android Auto installation, car stereo, window tint and alarm installs at Audio MotorSports in Carson, 9 miles away. Call (213) 429-1092 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

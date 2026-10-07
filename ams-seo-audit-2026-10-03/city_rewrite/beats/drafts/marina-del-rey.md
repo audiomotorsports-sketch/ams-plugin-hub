@@ -6,7 +6,7 @@ lead_service: truck and SUV car audio
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Marina del Rey SUV & Truck Car Audio | LA Car Beats
-meta: SUV and truck car stereo installation, speakers and subwoofers for Marina del Rey drivers at Audio MotorSports in Carson, 14.9 miles. Call (310) 513-8800.
+meta: SUV and truck car stereo installation, speakers and subwoofers for Marina del Rey drivers at Audio MotorSports in Carson, 14.9 miles. Call (213) 429-1092.
 ---
 # SUV and Truck Car Audio Installation for Marina del Rey
 
@@ -21,7 +21,10 @@ Marina del Rey SUV and truck owners book car stereo installation, speaker replac
 
 ## Marina del Rey to Carson
 
-From Marina del Rey it is about 14.9 miles to the shop, roughly 30 to 36 minutes with normal traffic (approx). We work Monday through Saturday, 9:30 to 6:00, and are closed on Sunday. Call (310) 513-8800 or text (213) 429-1092 to book. Full sub and amp installs in an SUV are best dropped off in the morning; speaker replacement or an interface can be waited on. Carson is near the beach too, and we have had calls from as far as San Jose, so Marina del Rey is close. [SHOP NOTE: 2-3 sentences from Nick about Marina del Rey customers, routes or jobs]
+From Marina del Rey it is about 14.9 miles to the shop, roughly 30 to 36 minutes with normal traffic (approx). We work Monday through Saturday, 9:30 to 6:00, and are closed on Sunday. Call (213) 429-1092 or text (213) 429-1092 to book. Full sub and amp installs in an SUV are best dropped off in the morning; speaker replacement or an interface can be waited on. Carson is near the beach too, and we have had calls from as far as San Jose, so Marina del Rey is close. [SHOP NOTE: 2-3 sentences from Nick about Marina del Rey customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Marina del Rey, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. From Marina del Rey you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Marina del Rey SUV questions
 
@@ -47,7 +50,7 @@ Window tinting including ceramic and Tesla window tint, car alarm installation, 
 
 ## Prices (October 2026)
 
-Dual Kicker Comp box at $249, box only, as of October 2026. Amplifier installation, subwoofer installation, car stereo installation and speaker replacement on an SUV or truck are quoted at the shop. Payment plan available, ask Nick. Marina del Rey drivers can read Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, before booking.
+Dual Kicker Comp box at $249, box only, as of October 2026. Amplifier installation, subwoofer installation, car stereo installation and speaker replacement on an SUV or truck are quoted at the shop. Payment plan available, ask Nick. Marina del Rey drivers can read Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, before booking.
 
 ## Also near Marina del Rey
 
@@ -55,7 +58,7 @@ Related car stereo installation pages: [Venice](/beats/car-stereo-venice/) · [a
 
 ## Book your Marina del Rey SUV in
 
-Text (213) 429-1092 with the vehicle or call (310) 513-8800. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30-18:00, closed Sunday.
+Text (213) 429-1092 with the vehicle or call (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -67,7 +70,7 @@ Text (213) 429-1092 with the vehicle or call (310) 513-8800. Audio MotorSports, 
    "name": "Marina del Rey SUV & Truck Car Audio | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-marina-del-rey/",
    "dateModified": "2026-10-08",
-   "description": "SUV and truck car stereo installation, speakers and subwoofers for Marina del Rey drivers at Audio MotorSports in Carson, 14.9 miles. Call (310) 513-8800.",
+   "description": "SUV and truck car stereo installation, speakers and subwoofers for Marina del Rey drivers at Audio MotorSports in Carson, 14.9 miles. Call (213) 429-1092.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

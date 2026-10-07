@@ -5,7 +5,7 @@ miles: 10.9
 lead_service: Window tint / ceramic window tint (LA Car Tint)
 source: hub-mounted copy; standalone www host not verified
 title: Seal Beach Window Tint & Glare Control | LA Car Tint
-meta: Car window tint and ceramic window tint for Seal Beach drivers, installed at Audio MotorSports in Carson, 10.9 miles up the coast. Call (310) 513-8800 to book.
+meta: Car window tint and ceramic window tint for Seal Beach drivers, installed at Audio MotorSports in Carson, 10.9 miles up the coast. Call (213) 429-1092 to book.
 ---
 # Window Tint for Seal Beach: Glare, UV and Salt-Air Sun
 
@@ -26,6 +26,9 @@ Low sun over the water is hard on the eyes and on the interior. LA Car Tint by A
 From Seal Beach to 22025 S Avalon Blvd is about 10.9 miles, around 22 to 26 minutes (approx) with light traffic. Book by call or text, then drop the car and come back, or wait while the film goes on. We are open Monday through Saturday, 9:30 to 6:00, and closed Sunday. The shop is near the beach itself, and cars arrive from as far as San Diego for the same work.
 
 [SHOP NOTE: 2-3 sentences from Nick about Seal Beach customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Seal Beach, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. From Seal Beach you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Seal Beach drivers ask
 
@@ -59,7 +62,7 @@ Standard sedan, side glass and rear window, as of October 2026: Solar $249 insta
 
 ## Book Seal Beach window tint
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745; Monday-Saturday 9:30 to 6:00, Sunday closed. Reviews as of October 2026: 4.8 on Google from 650+ reviews and 4.7 on Yelp from 770+.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745; Monday-Saturday 9:30 to 6:00, Sunday closed. Reviews as of October 2026: 4.8 on Google from 654 reviews and 4.7 on Yelp from 777.
 
 ```json
 {
@@ -70,7 +73,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tint/window-tint-seal-beach/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-seal-beach/",
    "name": "Seal Beach Window Tint & Glare Control | LA Car Tint",
-   "description": "Car window tint and ceramic window tint for Seal Beach drivers, installed at Audio MotorSports in Carson, 10.9 miles up the coast. Call (310) 513-8800 to book.",
+   "description": "Car window tint and ceramic window tint for Seal Beach drivers, installed at Audio MotorSports in Carson, 10.9 miles up the coast. Call (213) 429-1092 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

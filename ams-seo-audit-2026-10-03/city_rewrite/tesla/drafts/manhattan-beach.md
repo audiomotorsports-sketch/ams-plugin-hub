@@ -4,7 +4,7 @@ city: Manhattan Beach
 miles: 9.3
 lead_service: Tesla window tint (Model X)
 title: Manhattan Beach Tesla Tint | Tesla Tint LA, Carson
-meta: Tesla Tint LA by Audio MotorSports in Carson tints Model X, 3, Y and more for Manhattan Beach, 9.3 miles away. Ceramic window tint. Call (310) 513-8800.
+meta: Tesla Tint LA by Audio MotorSports in Carson tints Model X, 3, Y and more for Manhattan Beach, 9.3 miles away. Ceramic window tint. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Model X and Tesla Window Tint for Manhattan Beach
@@ -24,6 +24,9 @@ Manhattan Beach Tesla owners drive 9.3 miles to Tesla Tint LA, the Tesla window 
 ## Getting here from Manhattan Beach
 
 Figure about 9.3 miles and 19 to 22 minutes outside rush hour (approx). We are open Monday through Saturday from 9:30 to 6:00 and closed on Sunday. Book first, then choose: wait at the shop while the film goes on, or drop the X and come back later in the day. [SHOP NOTE: 2-3 sentences from Nick about Manhattan Beach customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Manhattan Beach drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. From Manhattan Beach you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Manhattan Beach Tesla tint questions
 
@@ -49,7 +52,7 @@ Yes, and it is the common setup. The front doors go at the California legal leve
 
 ## What it costs
 
-Tesla window tint is quoted by model at the shop; a Model X and a Model 3 are not the same job. For reference, non-Tesla cars at the same bay run Solar $249 or Solar Ceramic $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Tesla window tint is quoted by model at the shop; a Model X and a Model 3 are not the same job. For reference, non-Tesla cars at the same bay run Solar $249 or Solar Ceramic $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby Tesla tint pages
 
@@ -57,7 +60,7 @@ Tesla window tint is quoted by model at the shop; a Model X and a Model 3 are no
 
 ## Reserve a slot
 
-Call (310) 513-8800 or text (213) 429-1092 with your model and the coverage you want. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with your model and the coverage you want. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

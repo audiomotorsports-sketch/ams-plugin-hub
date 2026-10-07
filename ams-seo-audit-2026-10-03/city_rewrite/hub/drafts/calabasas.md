@@ -4,7 +4,7 @@ city: Calabasas
 miles: 39.6
 lead_service: Tesla window tint
 title: Tesla Window Tint for Calabasas Owners | Audio MotorSports
-meta: Tesla window tint, ceramic window tint, car stereo installation and alarm installs for Calabasas drivers at Audio MotorSports in Carson. Call (310) 513-8800.
+meta: Tesla window tint, ceramic window tint, car stereo installation and alarm installs for Calabasas drivers at Audio MotorSports in Carson. Call (213) 429-1092.
 ---
 # Tesla Window Tint for Calabasas Owners
 
@@ -22,9 +22,12 @@ Calabasas Tesla owners drive about 39.6 miles to Audio MotorSports, 22025 S Aval
 
 **Dash camera installation.** Hardwired front and rear cameras with parking mode, wiring tucked behind the pillar trim.
 
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Calabasas, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Calabasas.
+
 ## Calabasas to Carson
 
-Expect 39.6 miles and 79 to 95 minutes (approx) when the freeways are moving. Hours are Monday through Saturday, 9:30 to 6:00, Sunday closed. Set an appointment, then wait in the shop while the film goes on or leave the car and collect it later. The bay is near the beach in Carson and Tesla owners have driven in from San Diego for this tint, so Calabasas is well inside the usual range. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Expect 39.6 miles and 79 to 95 minutes (approx) when the freeways are moving. Hours are Monday through Saturday, 9:30 to 6:00, Sunday closed. Set an appointment, then wait in the shop while the film goes on or leave the car and collect it later. The bay is near the beach in Carson and Tesla owners have driven in from San Diego for this tint, so Calabasas is well inside the usual range. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 [SHOP NOTE: 2-3 sentences from Nick about Calabasas customers, routes or jobs]
 
@@ -69,7 +72,7 @@ Tesla window tint is quoted by model; stereo, CarPlay, GPS tracker and dash came
 
 ## Book Tesla tint from Calabasas
 
-Call (310) 513-8800 or text (213) 429-1092 with the model and year. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092 with the model and year. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -80,7 +83,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the model and year. Audio MotorS
    "@id": "https://www.audiomotorsports.com/calabasas/#webpage",
    "url": "https://www.audiomotorsports.com/calabasas/",
    "name": "Tesla Window Tint for Calabasas Owners | Audio MotorSports",
-   "description": "Tesla window tint, ceramic window tint, car stereo installation and alarm installs for Calabasas drivers at Audio MotorSports in Carson. Call (310) 513-8800.",
+   "description": "Tesla window tint, ceramic window tint, car stereo installation and alarm installs for Calabasas drivers at Audio MotorSports in Carson. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

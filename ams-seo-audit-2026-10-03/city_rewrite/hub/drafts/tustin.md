@@ -4,7 +4,7 @@ city: Tustin
 miles: 25.8
 lead_service: Tesla window tint
 title: Tesla Tint & Car Stereo for Tustin | Audio MotorSports
-meta: Tesla window tint, ceramic window tint, car stereo installation and alarms for Tustin drivers at Audio MotorSports in Carson, 25.8 miles. (310) 513-8800.
+meta: Tesla window tint, ceramic window tint, car stereo installation and alarms for Tustin drivers at Audio MotorSports in Carson, 25.8 miles. (213) 429-1092.
 ---
 # Tesla Window Tint for Tustin Drivers
 
@@ -27,6 +27,9 @@ Tustin Tesla owners drive to Audio MotorSports in Carson for Tesla window tint w
 Tustin is about 25.8 miles from the shop, which is 52 to 62 minutes (approx) when traffic is normal. Set an appointment first; then drop the car and pick it up later, or wait at the shop since a tint job is a few hours. Hours are Monday to Saturday 9:30 to 6:00, Sunday closed. Customers have driven from San Diego for Tesla window tint here, so Tustin is a routine distance.
 
 [SHOP NOTE: 2-3 sentences from Nick about Tustin customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Tustin customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Tustin traffic sends you.
 
 ## Tustin questions
 
@@ -69,7 +72,7 @@ Tesla window tint, roof film, car stereo installation, GPS tracker installation 
 
 ## Book Tesla window tint from Tustin
 
-Call (310) 513-8800 or text (213) 429-1092 with your Tesla model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745; Monday to Saturday 9:30 to 6:00, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092 with your Tesla model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745; Monday to Saturday 9:30 to 6:00, closed Sunday.
 
 ```json
 {
@@ -80,7 +83,7 @@ Call (310) 513-8800 or text (213) 429-1092 with your Tesla model. Audio MotorSpo
    "@id": "https://www.audiomotorsports.com/tustin/#webpage",
    "url": "https://www.audiomotorsports.com/tustin/",
    "name": "Tesla Window Tint & Car Stereo for Tustin | Audio MotorSports",
-   "description": "Tesla window tint, ceramic window tint, car stereo installation and alarm installation for Tustin drivers at Audio MotorSports in Carson, 25.8 miles. Call (310) 513-8800.",
+   "description": "Tesla window tint, ceramic window tint, car stereo installation and alarm installation for Tustin drivers at Audio MotorSports in Carson, 25.8 miles. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

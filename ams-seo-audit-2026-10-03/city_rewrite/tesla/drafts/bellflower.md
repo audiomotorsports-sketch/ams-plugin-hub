@@ -5,7 +5,7 @@ miles: 9.3
 lead_service: Tesla window tint (Cybertruck)
 source: hub-mounted copy; standalone www host not verified
 title: Bellflower Cybertruck Window Tint | Tesla Tint LA
-meta: Cybertruck and Tesla window tint for Bellflower owners, ceramic film cut to the glass at Audio MotorSports in Carson, 9.3 miles away. Call (310) 513-8800 or text (213) 429-1092 to book.
+meta: Cybertruck and Tesla window tint for Bellflower owners, ceramic film cut to the glass at Audio MotorSports in Carson, 9.3 miles away. Call (213) 429-1092 or text (213) 429-1092 to book.
 ---
 # Cybertruck and Tesla Window Tint for Bellflower
 
@@ -28,6 +28,9 @@ Audio MotorSports also installs GPS trackers, dash cameras, Compustar remote sta
 About 9.3 miles, 19 to 22 minutes outside rush hour (approx). Hours are Monday through Saturday, 9:30 AM to 6:00 PM, closed Sunday. Set an appointment, then drop the Cybertruck for the day or wait at the shop while it is done.
 
 [SHOP NOTE: 2-3 sentences from Nick about Bellflower customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Bellflower, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Bellflower.
 
 ## Bellflower Cybertruck and Tesla tint questions
 
@@ -53,7 +56,7 @@ No. The Cybertruck uses more film and more bay time than a Model Y, so it is quo
 
 ## Pricing
 
-The Cybertruck and every Tesla model are quoted at the shop; text the year and model and Nick will reply with a number. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+The Cybertruck and every Tesla model are quoted at the shop; text the year and model and Nick will reply with a number. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near Bellflower
 
@@ -65,7 +68,7 @@ The Cybertruck and every Tesla model are quoted at the shop; text the year and m
 
 ## Book from Bellflower
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -76,7 +79,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-bellflower/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-bellflower/",
    "name": "Bellflower Cybertruck Window Tint | Tesla Tint LA",
-   "description": "Cybertruck and Tesla window tint for Bellflower owners, ceramic film cut to the glass at Audio MotorSports in Carson, 9.3 miles away. Call (310) 513-8800 or text (213) 429-1092 to book.",
+   "description": "Cybertruck and Tesla window tint for Bellflower owners, ceramic film cut to the glass at Audio MotorSports in Carson, 9.3 miles away. Call (213) 429-1092 or text (213) 429-1092 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

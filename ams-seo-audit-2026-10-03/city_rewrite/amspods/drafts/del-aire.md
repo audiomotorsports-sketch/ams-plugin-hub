@@ -4,7 +4,7 @@ city: Del Aire
 miles: 8.6
 lead_service: Harley bagger amplifier installation and tuning
 title: Harley Bagger Audio Del Aire | AMS Pods
-meta: Harley bagger amplifier installation and tuning plus AMS lower-fairing pods for Del Aire riders at AMS Pods by Audio MotorSports, Carson. (310) 513-8800.
+meta: Harley bagger amplifier installation and tuning plus AMS lower-fairing pods for Del Aire riders at AMS Pods by Audio MotorSports, Carson. (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Bagger Amplifier Installation and Tuning for Del Aire Riders
@@ -26,6 +26,9 @@ Audio MotorSports also installs car stereo systems, window tint, car alarms, rem
 ## The ride from Del Aire
 
 Del Aire sits about 8.6 miles from the shop, which works out to roughly 17 to 21 minutes outside rush hour (approx). Book a time, ride down, and decide whether to leave the bike or wait at the shop while the amp goes in and gets tuned. Open Monday through Saturday 9:30 AM to 6:00 PM, closed Sunday. [SHOP NOTE: 2-3 sentences from Nick about Del Aire riders, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Del Aire job is finished. Del Aire customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Coming from Del Aire, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Questions Del Aire riders ask
 
@@ -54,7 +57,7 @@ Amplifier installation is quoted at the shop after Nick sees the bike, the radio
 - AMS lower-fairing pods: from $649 a pair, chrome or gloss, bracket and screws included, as of October 2026.
 - Amplifier installation and tuning, head units, speaker replacement and bag subwoofers are quoted on the bike. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby cities
 
@@ -62,7 +65,7 @@ Riders also come in from [Hawthorne](/amspods/bagger-audio-hawthorne/), [Lawndal
 
 ## Book the amp install
 
-Call (310) 513-8800 or text (213) 429-1092 with the year and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the year and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -73,7 +76,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year and model. Audio MotorS
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-del-aire/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-del-aire/",
    "name": "Harley Bagger Audio Del Aire | AMS Pods",
-   "description": "Harley bagger amplifier installation and tuning plus AMS lower-fairing pods for Del Aire riders at AMS Pods by Audio MotorSports, Carson. (310) 513-8800.",
+   "description": "Harley bagger amplifier installation and tuning plus AMS lower-fairing pods for Del Aire riders at AMS Pods by Audio MotorSports, Carson. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

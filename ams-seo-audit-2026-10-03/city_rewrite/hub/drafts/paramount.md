@@ -4,7 +4,7 @@ city: Paramount
 miles: 7.4
 lead_service: Window tint
 title: Window Tint & Car Audio for Paramount | Audio MotorSports
-meta: Ceramic window tint, car audio, alarms and remote start for Paramount drivers at Audio MotorSports in Carson, 7.4 miles away. Call (310) 513-8800 to book.
+meta: Ceramic window tint, car audio, alarms and remote start for Paramount drivers at Audio MotorSports in Carson, 7.4 miles away. Call (213) 429-1092 to book.
 ---
 # Window Tint and Car Audio for Paramount
 
@@ -25,6 +25,9 @@ Paramount drivers get window tint, ceramic window tint, car audio and alarms don
 Paramount sits about 7.4 miles from the Carson shop, roughly 15 to 18 minutes (approx) when the roads are clear. Set up an appointment by phone or text, then either leave the car with us or wait in the shop while the tint cures. Open Monday through Saturday 9:30 to 6:00, Sunday closed.
 
 [SHOP NOTE: 2-3 sentences from Nick about Paramount customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Paramount drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Paramount.
 
 ## Paramount drivers ask
 
@@ -67,7 +70,7 @@ Other work is quoted at the shop. Payment plan available, ask Nick.
 
 ## Book your tint from Paramount
 
-Call (310) 513-8800 or text (213) 429-1092 with your vehicle and the service you want. We are at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-6:00 and closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092 with your vehicle and the service you want. We are at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-6:00 and closed Sunday.
 
 ```json
 {
@@ -78,7 +81,7 @@ Call (310) 513-8800 or text (213) 429-1092 with your vehicle and the service you
    "@id": "https://www.audiomotorsports.com/paramount/#webpage",
    "url": "https://www.audiomotorsports.com/paramount/",
    "name": "Window Tint & Car Audio for Paramount | Audio MotorSports",
-   "description": "Ceramic window tint, car audio, alarms and remote start for Paramount drivers at Audio MotorSports in Carson, 7.4 miles away. Call (310) 513-8800 to book.",
+   "description": "Ceramic window tint, car audio, alarms and remote start for Paramount drivers at Audio MotorSports in Carson, 7.4 miles away. Call (213) 429-1092 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

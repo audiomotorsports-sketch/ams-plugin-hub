@@ -4,7 +4,7 @@ city: Los Angeles
 miles: 15.6
 lead_service: car window tint
 title: Los Angeles Car Window Tint | LA Car Tint, Carson
-meta: Car window tint, ceramic window tint and Tesla tint for Los Angeles drivers, installed by Audio MotorSports in Carson, 15.6 miles away. Call (310) 513-8800.
+meta: Car window tint, ceramic window tint and Tesla tint for Los Angeles drivers, installed by Audio MotorSports in Carson, 15.6 miles away. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Window Tint for Los Angeles Drivers
@@ -22,6 +22,9 @@ Los Angeles has no shortage of tint shops, and drivers still come to LA Car Tint
 ## Getting here from Los Angeles
 
 From central Los Angeles the shop is roughly 15.6 miles, a 31 to 37 minute drive outside rush hour (approx). Book by phone or text, then drop the car for the day or wait at the shop; most jobs are done the same afternoon. Open Monday through Saturday, 9:30 a.m. to 6:00 p.m., closed Sunday. [SHOP NOTE: 2-3 sentences from Nick about Los Angeles customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Los Angeles, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Coming from Los Angeles, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Los Angeles car window tint questions
 
@@ -43,11 +46,11 @@ Yes, all models. The rear glass on a Model 3 or Model Y is done as one sheet, no
 
 ### How do I book a tint appointment from Los Angeles?
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make and model and the shade you are thinking about. We confirm a time, you drive to Audio MotorSports at 22025 S Avalon Blvd Ste A in Carson, and you either wait or drop the car and come back when we text.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make and model and the shade you are thinking about. We confirm a time, you drive to Audio MotorSports at 22025 S Avalon Blvd Ste A in Carson, and you either wait or drop the car and come back when we text.
 
 ## Window tint prices for Los Angeles
 
-Solar four-door window tint is $249 installed and Solar Ceramic four-door is $329 installed, as of October 2026, each covering the four doors plus the rear window. SUVs, trucks, Tesla roof glass and windshield strips are quoted at the shop. Payment plan available, ask Nick. Ratings as of October 2026: Google 4.8 with 650+ reviews, Yelp 4.7 with 770+ reviews.
+Solar four-door window tint is $249 installed and Solar Ceramic four-door is $329 installed, as of October 2026, each covering the four doors plus the rear window. SUVs, trucks, Tesla roof glass and windshield strips are quoted at the shop. Payment plan available, ask Nick. Ratings as of October 2026: Google 4.8 with 654 reviews, Yelp 4.7 with 777 reviews.
 
 ## More Los Angeles-area tint pages
 
@@ -55,7 +58,7 @@ Solar four-door window tint is $249 installed and Solar Ceramic four-door is $32
 
 ## Book from anywhere in Los Angeles
 
-Call (310) 513-8800 or text (213) 429-1092. The shop: Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. The shop: Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -134,7 +137,7 @@ Call (310) 513-8800 or text (213) 429-1092. The shop: Audio MotorSports, 22025 S
      "name": "How do I book a tint appointment from Los Angeles?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Call (310) 513-8800 or text (213) 429-1092 with the year, make and model and the shade you are thinking about. We confirm a time, you drive to Audio MotorSports at 22025 S Avalon Blvd Ste A in Carson, and you either wait or drop the car and come back when we text."
+      "text": "Call (213) 429-1092 or text (213) 429-1092 with the year, make and model and the shade you are thinking about. We confirm a time, you drive to Audio MotorSports at 22025 S Avalon Blvd Ste A in Carson, and you either wait or drop the car and come back when we text."
      }
     }
    ]

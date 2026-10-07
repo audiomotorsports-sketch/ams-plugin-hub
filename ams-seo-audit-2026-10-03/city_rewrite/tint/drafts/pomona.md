@@ -4,7 +4,7 @@ city: Pomona
 miles: 41.6
 lead_service: ceramic window tint (inland heat)
 title: Ceramic Window Tint Pomona | LA Car Tint, Carson
-meta: Ceramic window tint and window tinting for Pomona drivers, hand-cut and installed by Audio MotorSports in Carson, 41.6 miles away. Call (310) 513-8800.
+meta: Ceramic window tint and window tinting for Pomona drivers, hand-cut and installed by Audio MotorSports in Carson, 41.6 miles away. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Ceramic Window Tint for Pomona Drivers, by Audio MotorSports in Carson
@@ -26,11 +26,14 @@ The trip is about 41.6 miles, roughly an hour and a half (approx) outside rush h
 
 [SHOP NOTE: 2-3 sentences from Nick about Pomona customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Pomona customers tell us makes the drop-off painless. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Coming from Pomona, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
+
 ## Questions we hear from Pomona
 
 ### Why do Pomona drivers come to Carson for ceramic tint?
 
-For film that is fitted properly and a track record they can check: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. A hand-cut install with sealed edges lasts; a rushed one bubbles and gets stripped off.
+For film that is fitted properly and a track record they can check: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. A hand-cut install with sealed edges lasts; a rushed one bubbles and gets stripped off.
 
 ### Which film should a Pomona driver pick for heat?
 
@@ -61,7 +64,7 @@ Solar window tinting $249 installed; Solar Ceramic window tinting $329 installed
 
 ## Book it
 
-Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
+Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
 
 ```json
 {
@@ -72,7 +75,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-pomona/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-pomona/",
    "name": "Ceramic Window Tint Pomona | LA Car Tint, Carson",
-   "description": "Ceramic window tint and window tinting for Pomona drivers, hand-cut and installed by Audio MotorSports in Carson, 41.6 miles away. Call (310) 513-8800.",
+   "description": "Ceramic window tint and window tinting for Pomona drivers, hand-cut and installed by Audio MotorSports in Carson, 41.6 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -112,7 +115,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "Why do Pomona drivers come to Carson for ceramic tint?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "For film that is fitted properly and a track record they can check: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. A hand-cut install with sealed edges lasts; a rushed one bubbles and gets stripped off."
+      "text": "For film that is fitted properly and a track record they can check: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. A hand-cut install with sealed edges lasts; a rushed one bubbles and gets stripped off."
      }
     },
     {

@@ -4,7 +4,7 @@ city: South Los Angeles
 miles: 11.0
 lead_service: truck and SUV car audio installation
 title: South Los Angeles Truck & SUV Audio | LA Car Beats, Carson
-meta: Truck and SUV car stereo installation, subwoofer and amplifier installation for South Los Angeles drivers at Audio MotorSports in Carson. Call (310) 513-8800.
+meta: Truck and SUV car stereo installation, subwoofer and amplifier installation for South Los Angeles drivers at Audio MotorSports in Carson. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Truck and SUV Car Stereo Installation for South Los Angeles
@@ -24,6 +24,9 @@ South Los Angeles pickup and SUV owners come to LA Car Beats, the car audio bay 
 ## South Los Angeles to Carson
 
 South Los Angeles to the shop is about 11 miles, roughly 22 to 26 minutes outside rush hour (approx). Make an appointment, then leave the truck with us for the day or stay for a quicker install. Hours are Monday through Saturday 9:30 to 6:00, closed Sunday. We have customers who make a 120-mile trip from San Diego for a truck system, so from South Los Angeles this is a quick run.
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from South Los Angeles, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. The shop is LGBTQ-friendly and everyone from South Los Angeles is welcome, as our Google and Yelp listings state. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from South Los Angeles.
 
 ## South Los Angeles truck audio questions
 
@@ -49,7 +52,7 @@ Usually yes. Speaker replacement in most trucks uses adapter brackets that bolt 
 
 ## Pricing for South Los Angeles
 
-The Dual Kicker Comp loaded subwoofer box is $249, box only, as of October 2026. Truck and SUV car stereo installation, subwoofer installation, amplifier installation and speaker replacement are quoted at the shop because every cabin is different. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Window tint, car alarm installation, remote start, GPS tracker installation and dash camera installation can be done in the same visit.
+The Dual Kicker Comp loaded subwoofer box is $249, box only, as of October 2026. Truck and SUV car stereo installation, subwoofer installation, amplifier installation and speaker replacement are quoted at the shop because every cabin is different. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Window tint, car alarm installation, remote start, GPS tracker installation and dash camera installation can be done in the same visit.
 
 ## Nearby service areas
 
@@ -62,7 +65,7 @@ More LA Car Beats pages near South Los Angeles:
 
 ## Book your truck install
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make and model of your truck or SUV. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make and model of your truck or SUV. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -73,7 +76,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model of your
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-south-los-angeles/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-south-los-angeles/",
    "name": "South Los Angeles Truck & SUV Audio | LA Car Beats, Carson",
-   "description": "Truck and SUV car stereo installation, subwoofer and amplifier installation for South Los Angeles drivers at Audio MotorSports in Carson. Call (310) 513-8800.",
+   "description": "Truck and SUV car stereo installation, subwoofer and amplifier installation for South Los Angeles drivers at Audio MotorSports in Carson. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

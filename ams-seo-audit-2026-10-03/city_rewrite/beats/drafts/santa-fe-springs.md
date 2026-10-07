@@ -6,7 +6,7 @@ lead_service: speaker replacement
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Santa Fe Springs Speaker Replacement | LA Car Beats
-meta: Speaker replacement and speaker installation for Santa Fe Springs drivers at LA Car Beats by Audio MotorSports, Carson, 13 miles away. Call (310) 513-8800.
+meta: Speaker replacement and speaker installation for Santa Fe Springs drivers at LA Car Beats by Audio MotorSports, Carson, 13 miles away. Call (213) 429-1092.
 ---
 # Speaker Replacement and Speaker Installation for Santa Fe Springs
 
@@ -22,7 +22,10 @@ Speaker replacement for Santa Fe Springs drivers is done at LA Car Beats by Audi
 
 ## Santa Fe Springs to Carson
 
-Santa Fe Springs sits about 13 miles from the shop, roughly 26 to 31 minutes outside peak traffic (approx). Hours are Monday through Saturday from 9:30 to 6:00; closed Sunday. Book first at (310) 513-8800 or by text at (213) 429-1092. Speaker replacement on its own is a wait job; combined with a head unit or sub it is a morning drop-off. People have driven here from Temecula for a speaker job, so Santa Fe Springs is not far at all. [SHOP NOTE: 2-3 sentences from Nick about Santa Fe Springs customers, routes or jobs]
+Santa Fe Springs sits about 13 miles from the shop, roughly 26 to 31 minutes outside peak traffic (approx). Hours are Monday through Saturday from 9:30 to 6:00; closed Sunday. Book first at (213) 429-1092 or by text at (213) 429-1092. Speaker replacement on its own is a wait job; combined with a head unit or sub it is a morning drop-off. People have driven here from Temecula for a speaker job, so Santa Fe Springs is not far at all. [SHOP NOTE: 2-3 sentences from Nick about Santa Fe Springs customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Santa Fe Springs customers tell us makes the drop-off painless. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. From Santa Fe Springs you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Speaker questions from Santa Fe Springs
 
@@ -48,7 +51,7 @@ Window tint and ceramic window tint, car alarm installation, remote start instal
 
 ## Price list
 
-Dual Kicker Comp box, $249 box only (as of October 2026). Speaker replacement, speaker installation, amplifier installation and car stereo installation are quoted at the shop on your vehicle. Payment plan available, ask Nick. For Santa Fe Springs drivers checking first: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Dual Kicker Comp box, $249 box only (as of October 2026). Speaker replacement, speaker installation, amplifier installation and car stereo installation are quoted at the shop on your vehicle. Payment plan available, ask Nick. For Santa Fe Springs drivers checking first: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Near Santa Fe Springs
 
@@ -56,7 +59,7 @@ More car stereo installation pages nearby: [Norwalk](/beats/car-stereo-norwalk/)
 
 ## Book speaker replacement from Santa Fe Springs
 
-Call (310) 513-8800 or send a text to (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Hours Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or send a text to (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Hours Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -68,7 +71,7 @@ Call (310) 513-8800 or send a text to (213) 429-1092. Audio MotorSports, 22025 S
    "name": "Santa Fe Springs Speaker Replacement | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-santa-fe-springs/",
    "dateModified": "2026-10-08",
-   "description": "Speaker replacement and speaker installation for Santa Fe Springs drivers at LA Car Beats by Audio MotorSports, Carson, 13 miles away. Call (310) 513-8800.",
+   "description": "Speaker replacement and speaker installation for Santa Fe Springs drivers at LA Car Beats by Audio MotorSports, Carson, 13 miles away. Call (213) 429-1092.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

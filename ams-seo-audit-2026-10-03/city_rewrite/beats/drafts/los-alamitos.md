@@ -6,7 +6,7 @@ lead_service: car stereo installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Los Alamitos Car Stereo Installation | LA Car Beats
-meta: Car stereo installation and head unit installation for Los Alamitos drivers at LA Car Beats, Audio MotorSports in Carson, 11.2 miles. Call (310) 513-8800.
+meta: Car stereo installation and head unit installation for Los Alamitos drivers at LA Car Beats, Audio MotorSports in Carson, 11.2 miles. Call (213) 429-1092.
 ---
 # Car Stereo Installation for Los Alamitos
 
@@ -21,7 +21,10 @@ Car stereo installation for Los Alamitos is done at LA Car Beats by Audio MotorS
 
 ## Los Alamitos to the Carson bay
 
-Los Alamitos is about 11.2 miles from the shop, roughly 22 to 27 minutes outside rush hour (approx). Hours are Monday through Saturday, 9:30 to 6:00, and the shop is closed Sunday. Schedule by calling (310) 513-8800 or texting (213) 429-1092. A head unit installation can be waited on in most cars; add speakers or a sub and it becomes a morning drop-off. We have done work for people who drove in from San Diego, so Los Alamitos is a short hop.
+Los Alamitos is about 11.2 miles from the shop, roughly 22 to 27 minutes outside rush hour (approx). Hours are Monday through Saturday, 9:30 to 6:00, and the shop is closed Sunday. Schedule by calling (213) 429-1092 or texting (213) 429-1092. A head unit installation can be waited on in most cars; add speakers or a sub and it becomes a morning drop-off. We have done work for people who drove in from San Diego, so Los Alamitos is a short hop.
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Los Alamitos customers tell us makes the drop-off painless. Los Alamitos customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. From Los Alamitos you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Los Alamitos car stereo FAQ
 
@@ -35,7 +38,7 @@ Yes. A steering-wheel control module is part of the installation on any vehicle 
 
 ### Is 11.2 miles from Los Alamitos too far to wait for the install?
 
-No. Most Los Alamitos drivers book a morning head unit installation, wait in the lobby and are back on the road the same morning. If the job grows into speaker replacement or a subwoofer installation, dropping off and returning later the same day is the easier plan.
+No. Most Los Alamitos drivers book a morning head unit installation, wait inside and are back on the road the same morning. If the job grows into speaker replacement or a subwoofer installation, dropping off and returning later the same day is the easier plan.
 
 ### Can Apple CarPlay and Android Auto installation be done without a new radio?
 
@@ -47,7 +50,7 @@ Ceramic window tint, car alarm installation and remote start installation, GPS t
 
 ## Prices and quotes
 
-One fixed audio price: Dual Kicker Comp box at $249 box only, as of October 2026. Head unit installation, speaker replacement, amplifier installation and the interface for CarPlay are quoted at the shop for your vehicle. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, if Los Alamitos drivers want to check first.
+One fixed audio price: Dual Kicker Comp box at $249 box only, as of October 2026. Head unit installation, speaker replacement, amplifier installation and the interface for CarPlay are quoted at the shop for your vehicle. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, if Los Alamitos drivers want to check first.
 
 ## Around Los Alamitos
 
@@ -55,7 +58,7 @@ Neighboring city pages for car stereo installation: [Seal Beach](/beats/car-ster
 
 ## Book from Los Alamitos
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -67,7 +70,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "name": "Los Alamitos Car Stereo Installation | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-los-alamitos/",
    "dateModified": "2026-10-08",
-   "description": "Car stereo installation and head unit installation for Los Alamitos drivers at LA Car Beats, Audio MotorSports in Carson, 11.2 miles. Call (310) 513-8800.",
+   "description": "Car stereo installation and head unit installation for Los Alamitos drivers at LA Car Beats, Audio MotorSports in Carson, 11.2 miles. Call (213) 429-1092.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }
@@ -121,7 +124,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "Is 11.2 miles from Los Alamitos too far to wait for the install?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "No. Most Los Alamitos drivers book a morning head unit installation, wait in the lobby and are back on the road the same morning. If the job grows into speaker replacement or a subwoofer installation, dropping off and returning later the same day is the easier plan."
+      "text": "No. Most Los Alamitos drivers book a morning head unit installation, wait inside and are back on the road the same morning. If the job grows into speaker replacement or a subwoofer installation, dropping off and returning later the same day is the easier plan."
      }
     },
     {

@@ -6,7 +6,7 @@ lead_service: car stereo installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Chino Hills Car Stereo Installation | LA Car Beats
-meta: Car stereo installation, head unit installation and speaker replacement for Chino Hills drivers at LA Car Beats, Audio MotorSports, Carson. Call (310) 513-8800.
+meta: Car stereo installation, head unit installation and speaker replacement for Chino Hills drivers at LA Car Beats, Audio MotorSports, Carson. Call (213) 429-1092.
 ---
 # Car Stereo Installation for Chino Hills Drivers
 
@@ -22,7 +22,10 @@ Chino Hills drivers plan a day for LA Car Beats and get a complete car stereo in
 
 ## Chino Hills to Carson
 
-Chino Hills to the shop is about 38.8 miles, roughly 78 to 93 minutes outside rush hour (approx). Call (310) 513-8800 or text (213) 429-1092 to book a morning drop-off; a full system is a day in the bay and we text when the car is ready. Monday through Saturday 9:30 to 6:00, closed Sunday. People drive in from Temecula for this, so Chino Hills is a normal day trip. [SHOP NOTE: 2-3 sentences from Nick about Chino Hills customers, routes or jobs]
+Chino Hills to the shop is about 38.8 miles, roughly 78 to 93 minutes outside rush hour (approx). Call (213) 429-1092 or text (213) 429-1092 to book a morning drop-off; a full system is a day in the bay and we text when the car is ready. Monday through Saturday 9:30 to 6:00, closed Sunday. People drive in from Temecula for this, so Chino Hills is a normal day trip. [SHOP NOTE: 2-3 sentences from Nick about Chino Hills customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Chino Hills job is finished. Chino Hills customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Coming from Chino Hills, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Chino Hills stereo FAQ
 
@@ -48,7 +51,7 @@ It can still be done; the integration harness for that system wakes the factory 
 
 ## Chino Hills pricing
 
-Dual Kicker Comp loaded box, $249 box only, as of October 2026. A full system for a Chino Hills car, meaning car stereo installation, Apple CarPlay and Android Auto installation, speaker replacement, amplifier installation and subwoofer installation, is quoted as one package at the shop. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation, Tesla window tint and Harley bagger audio can be added to the same day.
+Dual Kicker Comp loaded box, $249 box only, as of October 2026. A full system for a Chino Hills car, meaning car stereo installation, Apple CarPlay and Android Auto installation, speaker replacement, amplifier installation and subwoofer installation, is quoted as one package at the shop. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation, Tesla window tint and Harley bagger audio can be added to the same day.
 
 ## Near Chino Hills
 
@@ -56,7 +59,7 @@ LA Car Beats pages for neighboring cities: [Chino](/beats/car-stereo-chino/) · 
 
 ## Book a Chino Hills day
 
-Text the year, make, model and trim and everything will be on the bench when you arrive. Call (310) 513-8800 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Text the year, make, model and trim and everything will be on the bench when you arrive. Call (213) 429-1092 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -67,7 +70,7 @@ Text the year, make, model and trim and everything will be on the bench when you
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-chino-hills/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-chino-hills/",
    "name": "Chino Hills Car Stereo Installation | LA Car Beats",
-   "description": "Car stereo installation, head unit installation and speaker replacement for Chino Hills drivers at LA Car Beats, Audio MotorSports, Carson. Call (310) 513-8800.",
+   "description": "Car stereo installation, head unit installation and speaker replacement for Chino Hills drivers at LA Car Beats, Audio MotorSports, Carson. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

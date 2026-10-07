@@ -11,7 +11,7 @@ Nothing has been published. Every file here is a draft for Zack and Tom to revie
 - Spot-read before publishing: `torrance.md` (close city) and `lancaster.md` (far city) are good examples of the two styles.
 
 ## Facts the drafts cite everywhere (confirm once, fix once)
-- Reviews: "Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026".
+- Reviews: "Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026".
 - Prices as of October 2026: Solar tint $249, Solar Ceramic $329 installed; Viper 3108V $269 installed; Compustar 9910 from $499; AMS pods from $649 a pair; Dual Kicker Comp box $249 box only. No Tesla model prices anywhere (they conflict on the live site).
 - Drive times are computed from the site's own mileage at 25-30 mph and marked (approx).
 - "Does an install void my factory warranty?" appears on 3 pages, worded as "in most cases, no; the maker can only refuse a claim on a part the install damaged". If you would rather not touch the topic at all, say so and I will remove those 3 questions.

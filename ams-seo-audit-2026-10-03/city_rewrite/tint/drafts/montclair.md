@@ -4,7 +4,7 @@ city: Montclair
 miles: 46.3
 lead_service: ceramic window tint (Inland Empire heat)
 title: Ceramic Window Tint Montclair | LA Car Tint, Carson
-meta: Ceramic window tint for Montclair heat, hand-cut and installed by Audio MotorSports in Carson, 46.3 miles away. Dated prices. Call (310) 513-8800 to book.
+meta: Ceramic window tint for Montclair heat, hand-cut and installed by Audio MotorSports in Carson, 46.3 miles away. Dated prices. Call (213) 429-1092 to book.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Ceramic Window Tint for Montclair Drivers, by Audio MotorSports, Carson
@@ -26,11 +26,14 @@ It is about 46.3 miles, roughly an hour and three-quarters (approx) outside rush
 
 [SHOP NOTE: 2-3 sentences from Nick about Montclair customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Montclair customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Montclair.
+
 ## Montclair drivers ask
 
 ### Why do Montclair drivers make the trip to Carson for ceramic tint?
 
-For film that is fitted by hand, sealed at the edge and priced with a date, backed by a record anyone can read: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. One trip, done right.
+For film that is fitted by hand, sealed at the edge and priced with a date, backed by a record anyone can read: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. One trip, done right.
 
 ### What is the best film for a car parked outside in Montclair all day?
 
@@ -60,7 +63,7 @@ Solar window tinting $249 installed; Solar Ceramic window tinting $329 installed
 
 ## Book it
 
-Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
+Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
 
 ```json
 {
@@ -71,7 +74,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-montclair/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-montclair/",
    "name": "Ceramic Window Tint Montclair | LA Car Tint, Carson",
-   "description": "Ceramic window tint for Montclair heat, hand-cut and installed by Audio MotorSports in Carson, 46.3 miles away. Dated prices. Call (310) 513-8800 to book.",
+   "description": "Ceramic window tint for Montclair heat, hand-cut and installed by Audio MotorSports in Carson, 46.3 miles away. Dated prices. Call (213) 429-1092 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -111,7 +114,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "Why do Montclair drivers make the trip to Carson for ceramic tint?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "For film that is fitted by hand, sealed at the edge and priced with a date, backed by a record anyone can read: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. One trip, done right."
+      "text": "For film that is fitted by hand, sealed at the edge and priced with a date, backed by a record anyone can read: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. One trip, done right."
      }
     },
     {

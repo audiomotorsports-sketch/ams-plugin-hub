@@ -4,7 +4,7 @@ city: Seal Beach
 miles: 10.9
 lead_service: car alarms & remote start
 title: Remote Start & Car Alarms for Seal Beach | Audio MotorSports
-meta: Compustar remote start, Viper car alarms, window tint and car audio for Seal Beach drivers. Audio MotorSports in Carson is 10.9 miles away. Call (310) 513-8800.
+meta: Compustar remote start, Viper car alarms, window tint and car audio for Seal Beach drivers. Audio MotorSports in Carson is 10.9 miles away. Call (213) 429-1092.
 ---
 # Car Alarms & Remote Start for Seal Beach
 
@@ -24,6 +24,9 @@ Seal Beach drivers get Viper car alarms and Compustar remote start installed at 
 
 The run from Seal Beach to Carson is 10.9 miles, roughly twenty-two to twenty-six minutes when traffic is reasonable (approx). We work Monday through Saturday, 9:30 to 6:00, and we are closed on Sunday. Schedule by phone or text, then drop the car and come back from Seal Beach later, or wait on site; an alarm install is usually finished in an afternoon. People drive here from Temecula for this work, so the trip from Orange County is a short one.
 
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Seal Beach job is finished. Seal Beach customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Seal Beach traffic sends you.
+
 ## Seal Beach alarm and remote start questions
 
 ### Will a car alarm go off every time a truck passes on PCH?
@@ -36,7 +39,7 @@ It can, with a manual-transmission-safe setup that confirms the car is in neutra
 
 ### How far is the drive from Seal Beach for an alarm install?
 
-Seal Beach to Audio MotorSports is 10.9 miles, roughly twenty-two to twenty-six minutes outside rush hour. Call (310) 513-8800 or text (213) 429-1092 to book, then drop the car with us or wait while the Viper alarm goes in. Most alarm jobs are done the same day.
+Seal Beach to Audio MotorSports is 10.9 miles, roughly twenty-two to twenty-six minutes outside rush hour. Call (213) 429-1092 or text (213) 429-1092 to book, then drop the car with us or wait while the Viper alarm goes in. Most alarm jobs are done the same day.
 
 ### Can you install a GPS tracker that I can check from my phone?
 
@@ -66,7 +69,7 @@ Good as of October 2026. GPS trackers, dash cams, stereo gear and labor are quot
 
 ## Book from Seal Beach
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745; Mon-Sat 9:30-18:00, closed Sunday. Drop off or wait while it is done.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745; Mon-Sat 9:30-18:00, closed Sunday. Drop off or wait while it is done.
 
 ```json
 {
@@ -77,7 +80,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio 
    "@id": "https://www.audiomotorsports.com/seal-beach/#webpage",
    "url": "https://www.audiomotorsports.com/seal-beach/",
    "name": "Remote Start & Car Alarms for Seal Beach | Audio MotorSports",
-   "description": "Compustar remote start, Viper car alarms, window tint and car audio for Seal Beach drivers. Audio MotorSports in Carson is 10.9 miles away. Call (310) 513-8800.",
+   "description": "Compustar remote start, Viper car alarms, window tint and car audio for Seal Beach drivers. Audio MotorSports in Carson is 10.9 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -135,7 +138,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio 
      "name": "How far is the drive from Seal Beach for an alarm install?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Seal Beach to Audio MotorSports is 10.9 miles, roughly twenty-two to twenty-six minutes outside rush hour. Call (310) 513-8800 or text (213) 429-1092 to book, then drop the car with us or wait while the Viper alarm goes in. Most alarm jobs are done the same day."
+      "text": "Seal Beach to Audio MotorSports is 10.9 miles, roughly twenty-two to twenty-six minutes outside rush hour. Call (213) 429-1092 or text (213) 429-1092 to book, then drop the car with us or wait while the Viper alarm goes in. Most alarm jobs are done the same day."
      }
     },
     {

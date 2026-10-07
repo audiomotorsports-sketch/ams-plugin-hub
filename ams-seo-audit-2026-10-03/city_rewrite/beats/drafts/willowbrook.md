@@ -4,7 +4,7 @@ city: Willowbrook
 miles: 6.0
 lead_service: factory-look car stereo installation
 title: Factory-Look Car Stereo Install, Willowbrook | LA Car Beats
-meta: Factory-look car stereo installation, CarPlay and speaker upgrades for Willowbrook drivers at Audio MotorSports in Carson. Call (310) 513-8800 to book.
+meta: Factory-look car stereo installation, CarPlay and speaker upgrades for Willowbrook drivers at Audio MotorSports in Carson. Call (213) 429-1092 to book.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Factory-Look Car Stereo Installation for Willowbrook
@@ -24,6 +24,9 @@ A stereo upgrade should not look like an upgrade. That is the standard at LA Car
 ## Willowbrook to Carson
 
 Willowbrook sits about 6 miles from the shop, which works out to roughly 12 to 14 minutes outside rush hour (approx). Set an appointment, then drop the car or stay and wait; most Willowbrook installs are done while you wait or by the end of the day. Hours are Monday through Saturday 9:30 to 6:00, with Sunday closed. People drive in from more than 100 miles out for this kind of work, so a six-mile hop is an easy decision.
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Willowbrook drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Willowbrook customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Willowbrook traffic sends you.
 
 ## Willowbrook frequently asked questions
 
@@ -49,7 +52,7 @@ Yes. Subwoofer installation can use a compact enclosure under a seat, against a 
 
 ## Prices for Willowbrook jobs
 
-Dual Kicker Comp loaded subwoofer box: $249, box only, as of October 2026. Installation of the box, head unit installation, speaker replacement, CarPlay and amplifier work are quoted at the shop once we see the car. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Window tint, Viper alarm installation, remote start, GPS tracker and dash camera installation can be added to the same appointment.
+Dual Kicker Comp loaded subwoofer box: $249, box only, as of October 2026. Installation of the box, head unit installation, speaker replacement, CarPlay and amplifier work are quoted at the shop once we see the car. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Window tint, Viper alarm installation, remote start, GPS tracker and dash camera installation can be added to the same appointment.
 
 ## Nearby service areas
 
@@ -62,7 +65,7 @@ Willowbrook neighbors with their own car stereo installation pages:
 
 ## Book a factory-look install
 
-Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Call (310) 513-8800 or text (213) 429-1092. Open Mon-Sat 9:30-18:00; closed Sunday.
+Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Call (213) 429-1092 or text (213) 429-1092. Open Mon-Sat 9:30-18:00; closed Sunday.
 
 ```json
 {
@@ -73,7 +76,7 @@ Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Call (310) 513-8
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-willowbrook/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-willowbrook/",
    "name": "Factory-Look Car Stereo Install, Willowbrook | LA Car Beats",
-   "description": "Factory-look car stereo installation, CarPlay and speaker upgrades for Willowbrook drivers at Audio MotorSports in Carson. Call (310) 513-8800 to book.",
+   "description": "Factory-look car stereo installation, CarPlay and speaker upgrades for Willowbrook drivers at Audio MotorSports in Carson. Call (213) 429-1092 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

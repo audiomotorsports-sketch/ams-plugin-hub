@@ -5,7 +5,7 @@ miles: 34.8
 lead_service: Tesla window tint (Model Y)
 source: hub-mounted copy; standalone www host not verified
 title: Covina Model Y Window Tint | Tesla Tint LA
-meta: Model Y and Tesla window tint for Covina owners: ceramic film, one-piece rear glass, cameras clear, at Audio MotorSports in Carson, 34.8 miles away. Call (310) 513-8800 or text (213) 429-1092.
+meta: Model Y and Tesla window tint for Covina owners: ceramic film, one-piece rear glass, cameras clear, at Audio MotorSports in Carson, 34.8 miles away. Call (213) 429-1092 or text (213) 429-1092.
 ---
 # Model Y Window Tint for Covina Tesla Owners
 
@@ -28,6 +28,9 @@ The same Carson shop installs dash cameras, GPS trackers, car alarms with remote
 About 34.8 miles, roughly 70 to 84 minutes outside rush hour (approx). We are open Monday through Saturday, 9:30 AM to 6:00 PM, and closed Sunday. Book ahead, then drop the Y for the day or wait at the shop. Owners drive in from Temecula and San Diego, so Covina is a normal distance.
 
 [SHOP NOTE: 2-3 sentences from Nick about Covina customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Covina drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Covina traffic sends you.
 
 ## Covina Model Y tint questions
 
@@ -53,7 +56,7 @@ Yes. Each camera zone on the glass is masked and left clear, and the ceramic fil
 
 ## Pricing
 
-The Model Y and every Tesla are quoted by model at the shop; text the year and model to get the number. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+The Model Y and every Tesla are quoted by model at the shop; text the year and model to get the number. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near Covina
 
@@ -64,7 +67,7 @@ The Model Y and every Tesla are quoted by model at the shop; text the year and m
 
 ## Book from Covina
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -75,7 +78,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-covina/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-covina/",
    "name": "Covina Model Y Window Tint | Tesla Tint LA",
-   "description": "Model Y and Tesla window tint for Covina owners: ceramic film, one-piece rear glass, cameras clear, at Audio MotorSports in Carson, 34.8 miles away. Call (310) 513-8800 or text (213) 429-1092.",
+   "description": "Model Y and Tesla window tint for Covina owners: ceramic film, one-piece rear glass, cameras clear, at Audio MotorSports in Carson, 34.8 miles away. Call (213) 429-1092 or text (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

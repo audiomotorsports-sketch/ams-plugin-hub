@@ -4,7 +4,7 @@ city: Monterey Park
 miles: 17.9
 lead_service: window tinting (heat and privacy)
 title: Window Tinting Monterey Park | LA Car Tint, Carson
-meta: Window tinting and ceramic window tint for Monterey Park drivers, hand-cut and installed by Audio MotorSports in Carson, 17.9 miles away. Call (310) 513-8800.
+meta: Window tinting and ceramic window tint for Monterey Park drivers, hand-cut and installed by Audio MotorSports in Carson, 17.9 miles away. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Window Tinting for Monterey Park, by Audio MotorSports in Carson
@@ -26,15 +26,18 @@ Plan on about 17.9 miles and roughly forty minutes (approx) with light traffic. 
 
 [SHOP NOTE: 2-3 sentences from Nick about Monterey Park customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Monterey Park, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. Coming from Monterey Park, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
+
 ## Questions from Monterey Park
 
 ### Why do Monterey Park drivers choose Audio MotorSports for window tinting?
 
-Hand-cut film, sealed edges, dated prices and a public record: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. A forty-minute drive for film that never needs redoing is a good trade. Ask for Nick when you call.
+Hand-cut film, sealed edges, dated prices and a public record: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. A forty-minute drive for film that never needs redoing is a good trade. Ask for Nick when you call.
 
 ### Can a Monterey Park driver get in the same week?
 
-Usually. Call (310) 513-8800 or text (213) 429-1092 with the car and the film, and we will give you the next open time. The car is tinted the day it arrives. Say whether you plan to wait or drop the car, and we will set the time accordingly.
+Usually. Call (213) 429-1092 or text (213) 429-1092 with the car and the film, and we will give you the next open time. The car is tinted the day it arrives. Say whether you plan to wait or drop the car, and we will set the time accordingly.
 
 ### Is ceramic film clearer than regular tint?
 
@@ -62,7 +65,7 @@ Solar window tinting $249 installed; Solar Ceramic window tinting $329 installed
 
 ## Book it
 
-Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
+Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
 
 ```json
 {
@@ -73,7 +76,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-monterey-park/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-monterey-park/",
    "name": "Window Tinting Monterey Park | LA Car Tint, Carson",
-   "description": "Window tinting and ceramic window tint for Monterey Park drivers, hand-cut and installed by Audio MotorSports in Carson, 17.9 miles away. Call (310) 513-8800.",
+   "description": "Window tinting and ceramic window tint for Monterey Park drivers, hand-cut and installed by Audio MotorSports in Carson, 17.9 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -113,7 +116,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "Why do Monterey Park drivers choose Audio MotorSports for window tinting?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Hand-cut film, sealed edges, dated prices and a public record: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. A forty-minute drive for film that never needs redoing is a good trade. Ask for Nick when you call."
+      "text": "Hand-cut film, sealed edges, dated prices and a public record: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. A forty-minute drive for film that never needs redoing is a good trade. Ask for Nick when you call."
      }
     },
     {
@@ -121,7 +124,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "Can a Monterey Park driver get in the same week?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Usually. Call (310) 513-8800 or text (213) 429-1092 with the car and the film, and we will give you the next open time. The car is tinted the day it arrives. Say whether you plan to wait or drop the car, and we will set the time accordingly."
+      "text": "Usually. Call (213) 429-1092 or text (213) 429-1092 with the car and the film, and we will give you the next open time. The car is tinted the day it arrives. Say whether you plan to wait or drop the car, and we will set the time accordingly."
      }
     },
     {

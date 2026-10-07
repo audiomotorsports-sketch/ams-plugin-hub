@@ -5,7 +5,7 @@ miles: 34.9
 lead_service: Tesla window tint (Cybertruck)
 source: hub-mounted copy; standalone www host not verified
 title: Cybertruck & Tesla Tint for Sylmar Owners | Tesla Tint LA
-meta: Cybertruck and Tesla window tint for Sylmar owners, panels cut to the trim line. Tesla Tint LA by Audio MotorSports, Carson, 34.9 miles. Call (310) 513-8800.
+meta: Cybertruck and Tesla window tint for Sylmar owners, panels cut to the trim line. Tesla Tint LA by Audio MotorSports, Carson, 34.9 miles. Call (213) 429-1092.
 ---
 # Cybertruck and Tesla Window Tint for Sylmar Owners
 
@@ -29,6 +29,9 @@ Sylmar is about 34.9 miles from the shop, roughly 70 to 84 minutes outside rush 
 
 [SHOP NOTE: 2-3 sentences from Nick about Sylmar customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Sylmar job is finished. The shop is LGBTQ-friendly and everyone from Sylmar is welcome, as our Google and Yelp listings state. From Sylmar you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
+
 ## Sylmar Cybertruck and Tesla tint questions
 
 ### Is Sylmar too far from Carson for Cybertruck tint?
@@ -49,11 +52,11 @@ No. Camera positions are masked before the glass is prepped and the film pattern
 
 ### How should a Sylmar owner plan the day?
 
-Book the earliest slot available, drop the Cybertruck off, and either wait at the shop or head out and return in the afternoon. Keep the windows up for several days while the film sets. Call (310) 513-8800 to set the time before you leave Sylmar.
+Book the earliest slot available, drop the Cybertruck off, and either wait at the shop or head out and return in the afternoon. Keep the windows up for several days while the film sets. Call (213) 429-1092 to set the time before you leave Sylmar.
 
 ## Pricing
 
-Cybertruck and every other Tesla are quoted by model at the shop; text the year and model for yours. For a non-Tesla, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Cybertruck and every other Tesla are quoted by model at the shop; text the year and model for yours. For a non-Tesla, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near Sylmar
 
@@ -63,7 +66,7 @@ Cybertruck and every other Tesla are quoted by model at the shop; text the year 
 
 ## Book your appointment
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -74,7 +77,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-sylmar/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-sylmar/",
    "name": "Cybertruck & Tesla Tint for Sylmar Owners | Tesla Tint LA",
-   "description": "Cybertruck and Tesla window tint for Sylmar owners, panels cut to the trim line. Tesla Tint LA by Audio MotorSports, Carson, 34.9 miles. Call (310) 513-8800.",
+   "description": "Cybertruck and Tesla window tint for Sylmar owners, panels cut to the trim line. Tesla Tint LA by Audio MotorSports, Carson, 34.9 miles. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -148,7 +151,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "How should a Sylmar owner plan the day?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Book the earliest slot available, drop the Cybertruck off, and either wait at the shop or head out and return in the afternoon. Keep the windows up for several days while the film sets. Call (310) 513-8800 to set the time before you leave Sylmar."
+      "text": "Book the earliest slot available, drop the Cybertruck off, and either wait at the shop or head out and return in the afternoon. Keep the windows up for several days while the film sets. Call (213) 429-1092 to set the time before you leave Sylmar."
      }
     }
    ]

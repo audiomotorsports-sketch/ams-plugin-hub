@@ -6,11 +6,11 @@ lead_service: speaker replacement
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Speaker Replacement for Watts Drivers | LA Car Beats
-meta: Speaker replacement and car stereo installation for Watts drivers at LA Car Beats by Audio MotorSports in Carson, 7.6 miles away. Call (310) 513-8800.
+meta: Speaker replacement and car stereo installation for Watts drivers at LA Car Beats by Audio MotorSports in Carson, 7.6 miles away. Call (213) 429-1092.
 ---
 # Speaker Replacement and Car Stereo Installation for Watts
 
-Watts drivers with blown or tired factory speakers come to LA Car Beats by Audio MotorSports, Carson, 22025 S Avalon Blvd Ste A, about 7.6 miles away, for speaker replacement that is mounted, sealed and wired properly. The car leaves with clear sound and door panels that do not buzz. Make an appointment and wait in the lobby or drop the car off for the day.
+Watts drivers with blown or tired factory speakers come to LA Car Beats by Audio MotorSports, Carson, 22025 S Avalon Blvd Ste A, about 7.6 miles away, for speaker replacement that is mounted, sealed and wired properly. The car leaves with clear sound and door panels that do not buzz. Make an appointment and wait inside or drop the car off for the day.
 
 ## What Watts drivers bring in
 
@@ -22,7 +22,10 @@ Watts drivers with blown or tired factory speakers come to LA Car Beats by Audio
 
 ## Watts to the shop
 
-Watts is about 7.6 miles from 22025 S Avalon Blvd, roughly 15 to 18 minutes outside rush hour (approx). Hours run Monday through Saturday 9:30 to 6:00, closed on Sunday. Call (310) 513-8800 or text (213) 429-1092 to set a time; a front-speaker replacement is a wait-in-the-lobby job, while four doors plus an amp is better as a drop-off. [SHOP NOTE: 2-3 sentences from Nick about Watts customers, routes or jobs]
+Watts is about 7.6 miles from 22025 S Avalon Blvd, roughly 15 to 18 minutes outside rush hour (approx). Hours run Monday through Saturday 9:30 to 6:00, closed on Sunday. Call (213) 429-1092 or text (213) 429-1092 to set a time; a front-speaker replacement is a wait-inside job, while four doors plus an amp is better as a drop-off. [SHOP NOTE: 2-3 sentences from Nick about Watts customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Watts drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Watts customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. From Watts you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Watts speaker and stereo questions
 
@@ -48,7 +51,7 @@ Speakers that are screwed straight to a door with no adapter or seal sound thin 
 
 ## Pricing for Watts drivers
 
-Dual Kicker Comp loaded box, $249, box only, as of October 2026. Speaker replacement, amplifier installation, head unit installation, Apple CarPlay and Android Auto installation and subwoofer installation are quoted at the shop after we see the vehicle. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Window tint and ceramic window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation, Tesla window tint and Harley bagger audio with AMS pods come out of the same shop.
+Dual Kicker Comp loaded box, $249, box only, as of October 2026. Speaker replacement, amplifier installation, head unit installation, Apple CarPlay and Android Auto installation and subwoofer installation are quoted at the shop after we see the vehicle. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Window tint and ceramic window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation, Tesla window tint and Harley bagger audio with AMS pods come out of the same shop.
 
 ## Close to Watts
 
@@ -62,7 +65,7 @@ Car stereo installation pages for the cities around Watts:
 
 ## Book from Watts
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -74,7 +77,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio 
    "name": "Speaker Replacement for Watts Drivers | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-watts/",
    "dateModified": "2026-10-08",
-   "description": "Speaker replacement and car stereo installation for Watts drivers at LA Car Beats by Audio MotorSports in Carson, 7.6 miles away. Call (310) 513-8800.",
+   "description": "Speaker replacement and car stereo installation for Watts drivers at LA Car Beats by Audio MotorSports in Carson, 7.6 miles away. Call (213) 429-1092.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

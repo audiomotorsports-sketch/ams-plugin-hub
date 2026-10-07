@@ -4,7 +4,7 @@ city: Alhambra
 miles: 19.9
 lead_service: factory-look car stereo installation
 title: Alhambra Factory-Look Car Stereo Install | LA Car Beats
-meta: Factory-look car stereo installation, head unit installation and CarPlay for Alhambra drivers at LA Car Beats, Audio MotorSports, Carson. Call (310) 513-8800.
+meta: Factory-look car stereo installation, head unit installation and CarPlay for Alhambra drivers at LA Car Beats, Audio MotorSports, Carson. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Factory-Look Car Stereo Installation for Alhambra
@@ -24,6 +24,9 @@ Alhambra drivers who want modern features without a modified-looking dash come t
 ## Alhambra to Carson
 
 From Alhambra the shop is about 19.9 miles, roughly 40 to 48 minutes outside rush hour (approx). Book a slot, then drop the car for the day or wait on site for a shorter install. Open Monday through Saturday 9:30-18:00, closed Sunday. People drive in from San Diego for a stereo that looks factory, so Alhambra is well within range.
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Alhambra job is finished. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Alhambra.
 
 ## Alhambra questions
 
@@ -49,7 +52,7 @@ Always. Speaker replacement is done behind the original grilles using adapter ri
 
 ## Alhambra pricing
 
-The Dual Kicker Comp loaded subwoofer box is $249, box only, as of October 2026. Head unit installation, Apple CarPlay and Android Auto installation, speaker replacement, subwoofer installation and amplifier installation are each quoted at the shop for your Alhambra car. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Window tint, Viper alarm installation, Compustar remote start installation, GPS tracker installation, dash camera installation and Tesla window tint are available in the same bay.
+The Dual Kicker Comp loaded subwoofer box is $249, box only, as of October 2026. Head unit installation, Apple CarPlay and Android Auto installation, speaker replacement, subwoofer installation and amplifier installation are each quoted at the shop for your Alhambra car. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Window tint, Viper alarm installation, Compustar remote start installation, GPS tracker installation, dash camera installation and Tesla window tint are available in the same bay.
 
 ## Nearby cities
 
@@ -62,7 +65,7 @@ LA Car Beats pages for cities around Alhambra:
 
 ## Book a factory-look install
 
-Call (310) 513-8800 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30 to 6:00; Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30 to 6:00; Sunday closed.
 
 ```json
 {
@@ -73,7 +76,7 @@ Call (310) 513-8800 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 2
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-alhambra/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-alhambra/",
    "name": "Alhambra Factory-Look Car Stereo Install | LA Car Beats",
-   "description": "Factory-look car stereo installation, head unit installation and CarPlay for Alhambra drivers at LA Car Beats, Audio MotorSports, Carson. Call (310) 513-8800.",
+   "description": "Factory-look car stereo installation, head unit installation and CarPlay for Alhambra drivers at LA Car Beats, Audio MotorSports, Carson. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

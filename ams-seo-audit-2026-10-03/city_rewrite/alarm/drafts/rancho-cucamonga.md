@@ -4,7 +4,7 @@ city: Rancho Cucamonga
 miles: 53.6
 lead_service: dash camera installation
 title: Dash Camera Installation Rancho Cucamonga | LA Car Alarm
-meta: Dash camera installation for Rancho Cucamonga drivers at LA Car Alarm by Audio MotorSports, Carson, 53.6 miles. Viper alarms, remote start, GPS. Call (310) 513-8800.
+meta: Dash camera installation for Rancho Cucamonga drivers at LA Car Alarm by Audio MotorSports, Carson, 53.6 miles. Viper alarms, remote start, GPS. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Dash Camera Installation for Rancho Cucamonga Drivers
@@ -22,6 +22,9 @@ Rancho Cucamonga drivers make the 53.6-mile trip to LA Car Alarm at Audio MotorS
 **GPS tracker installation.** Constant power, behind factory panels, locate test on your phone before pickup.
 
 Window tint and car stereo installation are done at the same address, so one trip from Rancho Cucamonga can cover several jobs.
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Rancho Cucamonga, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. The shop is LGBTQ-friendly and everyone from Rancho Cucamonga is welcome, as our Google and Yelp listings state. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Rancho Cucamonga.
 
 ## Planning the drive from Rancho Cucamonga
 
@@ -54,7 +57,7 @@ Book early, bring the car, and either wait at the shop or hand over the keys and
 
 Dash cameras, GPS trackers and sensors are quoted on the vehicle at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby alarm pages
 
@@ -66,7 +69,7 @@ Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
 
 ## Book from Rancho Cucamonga
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make and model and what you want installed. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make and model and what you want installed. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

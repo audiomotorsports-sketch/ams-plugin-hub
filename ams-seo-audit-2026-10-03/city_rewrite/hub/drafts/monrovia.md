@@ -4,7 +4,7 @@ city: Monrovia
 miles: 33.3
 lead_service: Tesla window tint
 title: Tesla Window Tint & Car Alarms, Monrovia | Audio MotorSports
-meta: Tesla window tint, ceramic window tint, car alarm installation and car stereo installs for Monrovia drivers at Audio MotorSports in Carson. Call (310) 513-8800.
+meta: Tesla window tint, ceramic window tint, car alarm installation and car stereo installs for Monrovia drivers at Audio MotorSports in Carson. Call (213) 429-1092.
 ---
 # Tesla Window Tint for Monrovia Owners
 
@@ -22,9 +22,12 @@ Monrovia Tesla owners drive to Audio MotorSports, 22025 S Avalon Blvd Ste A in C
 
 **Dash camera installation.** Front and rear cameras wired to a fuse tap so parking mode works, with the cable run through the headliner and pillar trim rather than draped across the glass.
 
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Monrovia, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Monrovia traffic sends you.
+
 ## Monrovia to Carson
 
-Figure about 33.3 miles and roughly 67 to 80 minutes (approx) with the freeway moving. Open Monday through Saturday 9:30 AM to 6:00 PM, closed Sunday. Schedule your time, then drop the car or wait at the shop while it is tinted. Call (310) 513-8800 or text (213) 429-1092 with the model and year. Monrovia owners can see the reviews on Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Figure about 33.3 miles and roughly 67 to 80 minutes (approx) with the freeway moving. Open Monday through Saturday 9:30 AM to 6:00 PM, closed Sunday. Schedule your time, then drop the car or wait at the shop while it is tinted. Call (213) 429-1092 or text (213) 429-1092 with the model and year. Monrovia owners can see the reviews on Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 [SHOP NOTE: 2-3 sentences from Nick about Monrovia customers, routes or jobs]
 
@@ -71,7 +74,7 @@ Stereo, subwoofer installation, GPS tracker installation and dash cams are quote
 
 ## Book Tesla tint from Monrovia
 
-Call (310) 513-8800 or text (213) 429-1092 with the model. Audio MotorSports, 22025 S Avalon Blvd Ste A in Carson, CA 90745, is open Mon-Sat 9:30-18:00 and closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092 with the model. Audio MotorSports, 22025 S Avalon Blvd Ste A in Carson, CA 90745, is open Mon-Sat 9:30-18:00 and closed Sunday.
 
 ```json
 {
@@ -82,7 +85,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the model. Audio MotorSports, 22
    "@id": "https://www.audiomotorsports.com/monrovia/#webpage",
    "url": "https://www.audiomotorsports.com/monrovia/",
    "name": "Tesla Window Tint & Car Alarms, Monrovia | Audio MotorSports",
-   "description": "Tesla window tint, ceramic window tint, car alarm installation and car stereo installs for Monrovia drivers at Audio MotorSports in Carson. Call (310) 513-8800.",
+   "description": "Tesla window tint, ceramic window tint, car alarm installation and car stereo installs for Monrovia drivers at Audio MotorSports in Carson. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

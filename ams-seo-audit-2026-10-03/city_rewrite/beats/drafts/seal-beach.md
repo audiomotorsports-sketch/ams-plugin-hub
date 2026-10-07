@@ -6,7 +6,7 @@ lead_service: truck and SUV car audio
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Seal Beach Truck & SUV Car Audio Installation | LA Car Beats
-meta: Truck and SUV car stereo installation, subwoofers and speaker replacement for Seal Beach at Audio MotorSports in Carson, 10.9 miles. Call (310) 513-8800.
+meta: Truck and SUV car stereo installation, subwoofers and speaker replacement for Seal Beach at Audio MotorSports in Carson, 10.9 miles. Call (213) 429-1092.
 ---
 # Truck and SUV Car Audio Installation for Seal Beach
 
@@ -21,7 +21,10 @@ Seal Beach truck and SUV owners get car stereo installation, subwoofer installat
 
 ## Seal Beach to Carson
 
-From Seal Beach the shop is about 10.9 miles, roughly 22 to 26 minutes outside commute hours (approx). We are open Monday to Saturday from 9:30 to 6:00 and closed on Sunday. Call (310) 513-8800 or text (213) 429-1092 to set a time, then wait for a short job or drop off a full sub and amp install. The shop is near the beach in Carson, and customers regularly make a longer drive than Seal Beach for this work.
+From Seal Beach the shop is about 10.9 miles, roughly 22 to 26 minutes outside commute hours (approx). We are open Monday to Saturday from 9:30 to 6:00 and closed on Sunday. Call (213) 429-1092 or text (213) 429-1092 to set a time, then wait for a short job or drop off a full sub and amp install. The shop is near the beach in Carson, and customers regularly make a longer drive than Seal Beach for this work.
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Seal Beach customers tell us makes the drop-off painless. The shop is LGBTQ-friendly and everyone from Seal Beach is welcome, as our Google and Yelp listings state. Coming from Seal Beach, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Seal Beach truck and SUV questions
 
@@ -47,7 +50,7 @@ Window tint in Solar or Solar Ceramic film, car alarm and remote start installat
 
 ## Current prices
 
-Dual Kicker Comp box, $249 box only, as of October 2026. Subwoofer installation, amplifier installation, car stereo installation and speaker replacement labor on a truck or SUV are quoted at the shop. Payment plan available, ask Nick. Seal Beach drivers can read Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Dual Kicker Comp box, $249 box only, as of October 2026. Subwoofer installation, amplifier installation, car stereo installation and speaker replacement labor on a truck or SUV are quoted at the shop. Payment plan available, ask Nick. Seal Beach drivers can read Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Cities close to Seal Beach
 
@@ -55,7 +58,7 @@ Car stereo installation for nearby cities: [Los Alamitos](/beats/car-stereo-los-
 
 ## Bring the truck in from Seal Beach
 
-Call (310) 513-8800 or text (213) 429-1092 with your truck or SUV details. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-18:00, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092 with your truck or SUV details. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -67,7 +70,7 @@ Call (310) 513-8800 or text (213) 429-1092 with your truck or SUV details. Audio
    "name": "Seal Beach Truck & SUV Car Audio Installation | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-seal-beach/",
    "dateModified": "2026-10-08",
-   "description": "Truck and SUV car stereo installation, subwoofers and speaker replacement for Seal Beach at Audio MotorSports in Carson, 10.9 miles. Call (310) 513-8800.",
+   "description": "Truck and SUV car stereo installation, subwoofers and speaker replacement for Seal Beach at Audio MotorSports in Carson, 10.9 miles. Call (213) 429-1092.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

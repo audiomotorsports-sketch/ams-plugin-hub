@@ -4,7 +4,7 @@ city: Temple City
 miles: 22.7
 lead_service: Harley fairing wiring and audio installation
 title: Temple City Harley Bagger Audio Wiring | AMS Pods
-meta: Clean fairing wiring and Harley bagger audio installation for Temple City riders: AMS lower-fairing pods and amplifier installs in Carson. Call (310) 513-8800.
+meta: Clean fairing wiring and Harley bagger audio installation for Temple City riders: AMS lower-fairing pods and amplifier installs in Carson. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Harley Fairing Wiring and Bagger Audio for Temple City
@@ -26,6 +26,9 @@ The same shop installs car stereos, CarPlay and Android Auto, ceramic window tin
 ## Temple City to the shop
 
 Temple City to Carson is 22.7 miles, roughly 45 to 55 minutes outside rush hour (approx). Book a slot, ride in, and either drop the bike or wait at the shop while the fairing is open. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed. Riders travel in from Temecula for this work, so the San Gabriel Valley is close by comparison.
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Temple City job is finished. Temple City customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. From Temple City you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Temple City riders ask
 
@@ -54,7 +57,7 @@ Text (213) 429-1092 with the model year, which of the three baggers you have, an
 - AMS pods from $649 a pair, chrome or gloss, bracket and screws included, as of October 2026.
 - Fairing wiring, amplifier installation, head units and speaker work are quoted on the bike at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby cities
 
@@ -62,7 +65,7 @@ Other AMS Pods pages nearby: [Arcadia](/amspods/bagger-audio-arcadia/), [Rosemea
 
 ## Book from Temple City
 
-Call (310) 513-8800 or text (213) 429-1092. 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -73,7 +76,7 @@ Call (310) 513-8800 or text (213) 429-1092. 22025 S Avalon Blvd Ste A, Carson, C
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-temple-city/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-temple-city/",
    "name": "Temple City Harley Bagger Audio Wiring | AMS Pods",
-   "description": "Clean fairing wiring and Harley bagger audio installation for Temple City riders: AMS lower-fairing pods and amplifier installs in Carson. Call (310) 513-8800.",
+   "description": "Clean fairing wiring and Harley bagger audio installation for Temple City riders: AMS lower-fairing pods and amplifier installs in Carson. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

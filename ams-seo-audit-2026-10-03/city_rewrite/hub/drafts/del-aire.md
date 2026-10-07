@@ -4,7 +4,7 @@ city: Del Aire
 miles: 8.6
 lead_service: Harley bagger audio
 title: Harley Bagger Audio & Tint for Del Aire | Audio MotorSports
-meta: Harley bagger audio with AMS pods, window tint and car stereo for Del Aire riders and drivers at Audio MotorSports in Carson, 8.6 miles. Call (310) 513-8800.
+meta: Harley bagger audio with AMS pods, window tint and car stereo for Del Aire riders and drivers at Audio MotorSports in Carson, 8.6 miles. Call (213) 429-1092.
 ---
 # Harley Bagger Audio for Del Aire Riders
 
@@ -23,6 +23,9 @@ Del Aire riders bring Street Glides, Road Glides and Road Kings to Audio MotorSp
 ## Del Aire to the Carson bay
 
 Del Aire is about 8.6 miles from Audio MotorSports, roughly seventeen to twenty-one minutes when the freeways are moving (approx). The shop runs Monday through Saturday, 9:30 AM to 6:00 PM, and is closed Sunday. Reserve a slot by phone or text, ride or drive in, and either hang around while the pods go on or leave the bike and come back. Bike wiring that is routed and sealed properly the first time is the reason to ride to a shop that does it every week. [SHOP NOTE: 2-3 sentences from Nick about Del Aire customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Del Aire job is finished. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. From Del Aire you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Questions from Del Aire riders and drivers
 
@@ -61,7 +64,7 @@ Our pages for the cities around Del Aire:
 
 ## Get on the schedule
 
-Call (310) 513-8800 or text (213) 429-1092 with your bike or vehicle and what you want done. Find us at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Monday through Saturday from 9:30 AM until 6:00 PM. Closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092 with your bike or vehicle and what you want done. Find us at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Monday through Saturday from 9:30 AM until 6:00 PM. Closed Sunday.
 
 ```json
 {
@@ -72,7 +75,7 @@ Call (310) 513-8800 or text (213) 429-1092 with your bike or vehicle and what yo
    "@id": "https://www.audiomotorsports.com/del-aire/#webpage",
    "url": "https://www.audiomotorsports.com/del-aire/",
    "name": "Harley Bagger Audio & Tint for Del Aire | Audio MotorSports",
-   "description": "Harley bagger audio with AMS pods, window tint and car stereo for Del Aire riders and drivers at Audio MotorSports in Carson, 8.6 miles. Call (310) 513-8800.",
+   "description": "Harley bagger audio with AMS pods, window tint and car stereo for Del Aire riders and drivers at Audio MotorSports in Carson, 8.6 miles. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

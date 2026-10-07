@@ -5,7 +5,7 @@ miles: 27.0
 lead_service: Tesla window tint (Model X)
 source: hub-mounted copy; standalone www host not verified
 title: Model X Window Tint for Irvine | Tesla Tint LA
-meta: Model X and Tesla window tint for Irvine owners at Audio MotorSports in Carson, 27 miles away. Ceramic film on falcon-wing glass, sensors clear. Call (310) 513-8800.
+meta: Model X and Tesla window tint for Irvine owners at Audio MotorSports in Carson, 27 miles away. Ceramic film on falcon-wing glass, sensors clear. Call (213) 429-1092.
 ---
 # Model X Window Tint for Irvine Owners
 
@@ -28,6 +28,9 @@ Audio MotorSports also installs dash cameras, GPS trackers, remote start and car
 About 27 miles, roughly 54 to 65 minutes outside rush hour (approx). Open Monday to Saturday, 9:30 AM to 6:00 PM, closed on Sunday. Book a time and plan to drop the Model X off for the day, or wait at the shop if you prefer. We have tinted Teslas for owners who drove up from San Diego, so Irvine is well within the usual range.
 
 [SHOP NOTE: 2-3 sentences from Nick about Irvine customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Irvine drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Irvine traffic sends you.
 
 ## Irvine Model X questions
 
@@ -53,7 +56,7 @@ Yes. The film is on the inside of the glass and never touches the hinge or seal,
 
 ## Pricing
 
-Model X tint is quoted by model at the shop, as every Tesla is; text the year and model for a figure. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Any additional work is quoted at the shop. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Model X tint is quoted by model at the shop, as every Tesla is; text the year and model for a figure. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Any additional work is quoted at the shop. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near Irvine
 
@@ -64,7 +67,7 @@ Model X tint is quoted by model at the shop, as every Tesla is; text the year an
 
 ## Reserve a time
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -75,7 +78,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-irvine/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-irvine/",
    "name": "Model X Window Tint for Irvine | Tesla Tint LA",
-   "description": "Model X and Tesla window tint for Irvine owners at Audio MotorSports in Carson, 27 miles away. Ceramic film on falcon-wing glass, sensors clear. Call (310) 513-8800.",
+   "description": "Model X and Tesla window tint for Irvine owners at Audio MotorSports in Carson, 27 miles away. Ceramic film on falcon-wing glass, sensors clear. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

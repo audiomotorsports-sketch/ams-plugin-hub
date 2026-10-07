@@ -4,7 +4,7 @@ city: Vernon
 miles: 12.1
 lead_service: alarm & remote start
 title: Viper Alarm & Remote Start for Vernon | Audio MotorSports
-meta: Viper alarm installation, remote start and GPS tracking for Vernon trucks and cars at Audio MotorSports in Carson, 12.1 miles. Call (310) 513-8800.
+meta: Viper alarm installation, remote start and GPS tracking for Vernon trucks and cars at Audio MotorSports in Carson, 12.1 miles. Call (213) 429-1092.
 ---
 # Car Alarm Installation for Vernon Trucks and Cars
 
@@ -25,6 +25,9 @@ Vernon drivers and fleet owners bring trucks and cars to Audio MotorSports, 2202
 ## Vernon to the shop
 
 Figure about 12.1 miles from Vernon, around twenty-four to twenty-nine minutes outside rush hour (approx). We take appointments Monday through Saturday from 9:30 AM to 6:00 PM and are closed Sunday. Schedule by phone or text, then leave the vehicle with us or wait while the alarm goes in. We have had calls from as far as San Jose about this work; Vernon is a short drive by comparison. [SHOP NOTE: 2-3 sentences from Nick about Vernon customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Vernon drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Coming from Vernon, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Alarm questions from Vernon
 
@@ -64,7 +67,7 @@ Also see our pages for:
 
 ## Schedule from Vernon
 
-Call (310) 513-8800 or text (213) 429-1092 with the vehicle details and what you want installed. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open 9:30 AM to 6:00 PM Monday through Saturday and closed Sundays.
+Call (213) 429-1092 or text (213) 429-1092 with the vehicle details and what you want installed. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open 9:30 AM to 6:00 PM Monday through Saturday and closed Sundays.
 
 ```json
 {
@@ -75,7 +78,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the vehicle details and what you
    "@id": "https://www.audiomotorsports.com/vernon/#webpage",
    "url": "https://www.audiomotorsports.com/vernon/",
    "name": "Viper Alarm & Remote Start for Vernon | Audio MotorSports",
-   "description": "Viper alarm installation, remote start and GPS tracking for Vernon trucks and cars at Audio MotorSports in Carson, 12.1 miles. Call (310) 513-8800.",
+   "description": "Viper alarm installation, remote start and GPS tracking for Vernon trucks and cars at Audio MotorSports in Carson, 12.1 miles. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

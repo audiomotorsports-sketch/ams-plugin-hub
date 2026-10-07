@@ -4,7 +4,7 @@ city: Marina del Rey
 miles: 14.9
 lead_service: Tesla window tint (Model 3)
 title: Marina del Rey Tesla Tint | Tesla Tint LA, Carson
-meta: Model 3 and all Tesla window tint for Marina del Rey owners at Tesla Tint LA by Audio MotorSports in Carson, 14.9 miles away. Ceramic film. Call (310) 513-8800.
+meta: Model 3 and all Tesla window tint for Marina del Rey owners at Tesla Tint LA by Audio MotorSports in Carson, 14.9 miles away. Ceramic film. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla Window Tint for Marina del Rey, Model 3 Leading
@@ -24,6 +24,9 @@ Marina del Rey Model 3 owners cover about 14.9 miles to reach Tesla Tint LA, the
 ## Marina del Rey to the shop
 
 About 14.9 miles, roughly 30 to 36 minutes outside rush hour (approx). Hours are Monday to Saturday 9:30 to 6:00; closed Sunday. Reserve a time, then wait at the shop or leave the car and come back. [SHOP NOTE: 2-3 sentences from Nick about Marina del Rey customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Marina del Rey job is finished. Marina del Rey customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Marina del Rey traffic sends you.
 
 ## Marina del Rey Model 3 questions
 
@@ -49,7 +52,7 @@ Yes. Audio MotorSports tints non-Tesla vehicles too, so a household's second car
 
 ## Prices
 
-The Model 3, and every other Tesla, is quoted by model at the shop. Non-Tesla window tint at the same bay runs Solar $249 or Solar Ceramic $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+The Model 3, and every other Tesla, is quoted by model at the shop. Non-Tesla window tint at the same bay runs Solar $249 or Solar Ceramic $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby Tesla tint pages
 
@@ -57,7 +60,7 @@ The Model 3, and every other Tesla, is quoted by model at the shop. Non-Tesla wi
 
 ## Book it
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

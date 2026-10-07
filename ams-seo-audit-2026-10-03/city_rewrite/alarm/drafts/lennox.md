@@ -4,7 +4,7 @@ city: Lennox
 miles: 9.0
 lead_service: Compustar remote start installation
 title: Compustar Remote Start & Alarms for Lennox | LA Car Alarm
-meta: Compustar remote start installation, Viper car alarm installation and GPS trackers for Lennox at LA Car Alarm by Audio MotorSports, Carson. Call (310) 513-8800.
+meta: Compustar remote start installation, Viper car alarm installation and GPS trackers for Lennox at LA Car Alarm by Audio MotorSports, Carson. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Compustar Remote Start Installation for Lennox
@@ -22,6 +22,9 @@ Nine miles separates Lennox from LA Car Alarm, the security desk at Audio MotorS
 **Dash camera installation.** Parking mode on a fused circuit with a voltage cutoff, so the camera watches overnight without draining the battery.
 
 Need more than security? Window tint, car stereo installation and Apple CarPlay are available at the same shop.
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Lennox customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Lennox traffic sends you.
 
 ## Getting here from Lennox
 
@@ -54,7 +57,7 @@ Often, yes. If the existing alarm is a brand that accepts a remote start add-on,
 
 Remote start on vehicles needing extra interface modules, GPS trackers and dash cameras are quoted at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Close to Lennox
 
@@ -66,7 +69,7 @@ Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
 
 ## Book your slot
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

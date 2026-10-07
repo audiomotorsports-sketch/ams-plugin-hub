@@ -4,7 +4,7 @@ city: Huntington Park
 miles: 10.9
 lead_service: GPS tracker installation
 title: GPS Tracker & Alarm Install, Huntington Park | LA Car Alarm
-meta: GPS tracker installation, Viper car alarm installation and remote start for Huntington Park drivers at LA Car Alarm, Audio MotorSports, Carson. (310) 513-8800.
+meta: GPS tracker installation, Viper car alarm installation and remote start for Huntington Park drivers at LA Car Alarm, Audio MotorSports, Carson. (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # GPS Tracker Installation for Huntington Park
@@ -22,6 +22,9 @@ The best alarm in the world cannot tell you where your car went. That is why Hun
 **Dash camera installation.** Hardwired front and rear cameras, with the cable run behind the headliner and the parking mode set to cut off before the battery gets low.
 
 The same building also does window tint, car stereo installation and CarPlay head units if you want to use one trip for two jobs.
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Huntington Park customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Huntington Park.
 
 ## Huntington Park to the shop
 
@@ -54,7 +57,7 @@ For a while, yes. Hardwired trackers carry an internal backup battery that keeps
 
 GPS trackers and dash cameras are priced for your vehicle at the counter. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Around Huntington Park
 
@@ -66,7 +69,7 @@ Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
 
 ## Contact the shop
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

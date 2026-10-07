@@ -5,7 +5,7 @@ miles: 26.9
 lead_service: Tesla window tint (Cybertruck)
 source: hub-mounted copy; standalone www host not verified
 title: Cybertruck Window Tint for Glendale | Tesla Tint LA
-meta: Cybertruck and Tesla window tint for Glendale owners at Audio MotorSports in Carson, 26.9 miles away. Ceramic film cut flat to the glass. Call (310) 513-8800.
+meta: Cybertruck and Tesla window tint for Glendale owners at Audio MotorSports in Carson, 26.9 miles away. Ceramic film cut flat to the glass. Call (213) 429-1092.
 ---
 # Cybertruck and Tesla Window Tint for Glendale Owners
 
@@ -28,6 +28,9 @@ Audio MotorSports can also wire a dash camera, a GPS tracker, a Compustar remote
 The run is about 26.9 miles, roughly 54 to 65 minutes outside rush hour (approx). Open Monday through Saturday, 9:30 AM to 6:00 PM; closed Sunday. Set an appointment, then drop the Cybertruck off or wait at the shop. Owners have brought Teslas from San Diego for this work, so Glendale is well inside the usual range.
 
 [SHOP NOTE: 2-3 sentences from Nick about Glendale customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Glendale job is finished. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Glendale traffic sends you.
 
 ## Glendale Cybertruck questions
 
@@ -53,7 +56,7 @@ Keep the windows up for a few days while the film cures. After that, clean it wi
 
 ## Pricing
 
-Cybertruck tint, like every Tesla, is quoted by model at the shop; text the year and model for a figure. The non-Tesla reference, as of October 2026, is Solar $249 and Solar Ceramic $329 installed. Other installs are quoted at the shop. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Cybertruck tint, like every Tesla, is quoted by model at the shop; text the year and model for a figure. The non-Tesla reference, as of October 2026, is Solar $249 and Solar Ceramic $329 installed. Other installs are quoted at the shop. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near Glendale
 
@@ -65,7 +68,7 @@ Cybertruck tint, like every Tesla, is quoted by model at the shop; text the year
 
 ## Book from Glendale
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -76,7 +79,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-glendale/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-glendale/",
    "name": "Cybertruck Window Tint for Glendale | Tesla Tint LA",
-   "description": "Cybertruck and Tesla window tint for Glendale owners at Audio MotorSports in Carson, 26.9 miles away. Ceramic film cut flat to the glass. Call (310) 513-8800.",
+   "description": "Cybertruck and Tesla window tint for Glendale owners at Audio MotorSports in Carson, 26.9 miles away. Ceramic film cut flat to the glass. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

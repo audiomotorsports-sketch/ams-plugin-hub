@@ -4,7 +4,7 @@ city: Brentwood
 miles: 20.2
 lead_service: AMS pods installation on Road King and Glides
 title: Harley Bagger Audio Brentwood | AMS Pods
-meta: AMS lower-fairing pods installed on Street Glide, Road Glide and Road King for Brentwood riders at AMS Pods by Audio MotorSports, Carson. (310) 513-8800.
+meta: AMS lower-fairing pods installed on Street Glide, Road Glide and Road King for Brentwood riders at AMS Pods by Audio MotorSports, Carson. (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # AMS Pods Installed for Brentwood Harley Riders
@@ -26,6 +26,9 @@ The car side of Audio MotorSports covers window tint, car stereo installation, C
 ## From Brentwood to the shop
 
 Brentwood is about 20.2 miles from Carson, roughly 40 to 48 minutes outside rush hour (approx). Make an appointment, ride in, then leave the bike for the day or wait at the shop while the pods go on. Open Monday through Saturday 9:30 AM to 6:00 PM, closed Sunday. People ride here from more than 100 miles away for these pods; the Westside is a short trip by comparison. [SHOP NOTE: 2-3 sentences from Nick about Brentwood riders, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Brentwood, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Brentwood.
 
 ## Questions Brentwood riders ask
 
@@ -54,7 +57,7 @@ AMS lower-fairing pods start from $649 a pair as of October 2026, chrome or glos
 - AMS lower-fairing pods: from $649 a pair, chrome or gloss, bracket and screws included, as of October 2026.
 - Pod speakers, amplifier installation and tuning, and fairing speaker replacement are quoted on the bike. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby cities
 
@@ -62,7 +65,7 @@ Riders also come in from [Pacific Palisades](/amspods/bagger-audio-pacific-palis
 
 ## Order your pods
 
-Call (310) 513-8800 or text (213) 429-1092 with your year and which bagger you ride. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with your year and which bagger you ride. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -73,7 +76,7 @@ Call (310) 513-8800 or text (213) 429-1092 with your year and which bagger you r
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-brentwood/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-brentwood/",
    "name": "Harley Bagger Audio Brentwood | AMS Pods",
-   "description": "AMS lower-fairing pods installed on Street Glide, Road Glide and Road King for Brentwood riders at AMS Pods by Audio MotorSports, Carson. (310) 513-8800.",
+   "description": "AMS lower-fairing pods installed on Street Glide, Road Glide and Road King for Brentwood riders at AMS Pods by Audio MotorSports, Carson. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

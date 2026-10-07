@@ -4,7 +4,7 @@ city: Santa Ana
 miles: 23.5
 lead_service: car window tint (Orange County commuters)
 title: Car Window Tint Santa Ana | LA Car Tint by Audio MotorSports
-meta: Car window tint and ceramic film for Santa Ana drivers, hand-cut and installed by Audio MotorSports in Carson, 23.5 miles away. Call (310) 513-8800 to book.
+meta: Car window tint and ceramic film for Santa Ana drivers, hand-cut and installed by Audio MotorSports in Carson, 23.5 miles away. Call (213) 429-1092 to book.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Window Tint for Santa Ana, by Audio MotorSports in Carson
@@ -26,11 +26,14 @@ Figure about 23.5 miles and roughly fifty minutes (approx) outside the commute. 
 
 [SHOP NOTE: 2-3 sentences from Nick about Santa Ana customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Santa Ana, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. Coming from Santa Ana, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
+
 ## Santa Ana drivers ask us
 
 ### Is it worth leaving Santa Ana for window tint when there are shops closer?
 
-Plenty of Santa Ana drivers think so. The film is hand-cut on your glass, the edges are sealed, and the reviews are public: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Film fitted properly once does not need to be redone.
+Plenty of Santa Ana drivers think so. The film is hand-cut on your glass, the edges are sealed, and the reviews are public: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Film fitted properly once does not need to be redone.
 
 ### What does a Santa Ana driver need to do before coming up?
 
@@ -61,7 +64,7 @@ Solar window tinting $249 installed; Solar Ceramic window tinting $329 installed
 
 ## Book it
 
-Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
+Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
 
 ```json
 {
@@ -72,7 +75,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-santa-ana/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-santa-ana/",
    "name": "Car Window Tint Santa Ana | LA Car Tint by Audio MotorSports",
-   "description": "Car window tint and ceramic film for Santa Ana drivers, hand-cut and installed by Audio MotorSports in Carson, 23.5 miles away. Call (310) 513-8800 to book.",
+   "description": "Car window tint and ceramic film for Santa Ana drivers, hand-cut and installed by Audio MotorSports in Carson, 23.5 miles away. Call (213) 429-1092 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -112,7 +115,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "Is it worth leaving Santa Ana for window tint when there are shops closer?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Plenty of Santa Ana drivers think so. The film is hand-cut on your glass, the edges are sealed, and the reviews are public: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Film fitted properly once does not need to be redone."
+      "text": "Plenty of Santa Ana drivers think so. The film is hand-cut on your glass, the edges are sealed, and the reviews are public: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Film fitted properly once does not need to be redone."
      }
     },
     {

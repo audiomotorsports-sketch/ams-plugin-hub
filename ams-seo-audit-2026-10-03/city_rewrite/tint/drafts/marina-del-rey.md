@@ -5,7 +5,7 @@ miles: 14.9
 lead_service: Window tint / ceramic window tint (LA Car Tint)
 source: hub-mounted copy; standalone www host not verified
 title: Marina del Rey Window Tint & Glare | LA Car Tint, Carson
-meta: Car window tint and ceramic window tint for Marina del Rey drivers, installed at Audio MotorSports in Carson, 14.9 miles away. Call (310) 513-8800 to book.
+meta: Car window tint and ceramic window tint for Marina del Rey drivers, installed at Audio MotorSports in Carson, 14.9 miles away. Call (213) 429-1092 to book.
 ---
 # Window Tint for Marina del Rey: Cut the Glare off the Water
 
@@ -26,6 +26,9 @@ Sun bouncing off the marina is a special kind of glare, and it comes in from the
 The bay at 22025 S Avalon Blvd is about 14.9 miles from Marina del Rey, roughly 30 to 36 minutes (approx) in light traffic. Call or text for a slot, then drop the car or wait. Open Monday through Saturday 9:30 to 6:00, Sunday closed. We are near the beach ourselves, and customers have driven in from Temecula for the same install, so the marina is close by comparison.
 
 [SHOP NOTE: 2-3 sentences from Nick about Marina del Rey customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Marina del Rey customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Marina del Rey traffic sends you.
 
 ## Marina del Rey drivers ask about glare and tint
 
@@ -59,7 +62,7 @@ As of October 2026 a standard sedan runs $249 installed for Solar window tint an
 
 ## Book Marina del Rey window tint
 
-Call (310) 513-8800 or text (213) 429-1092 to pick a day. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, is open Mon-Sat 9:30-6:00 and closed Sunday. As of October 2026 the ratings are Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews).
+Call (213) 429-1092 or text (213) 429-1092 to pick a day. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, is open Mon-Sat 9:30-6:00 and closed Sunday. As of October 2026 the ratings are Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews).
 
 ```json
 {
@@ -70,7 +73,7 @@ Call (310) 513-8800 or text (213) 429-1092 to pick a day. Audio MotorSports, 220
    "@id": "https://www.audiomotorsports.com/tint/window-tint-marina-del-rey/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-marina-del-rey/",
    "name": "Marina del Rey Window Tint & Glare | LA Car Tint, Carson",
-   "description": "Car window tint and ceramic window tint for Marina del Rey drivers, installed at Audio MotorSports in Carson, 14.9 miles away. Call (310) 513-8800 to book.",
+   "description": "Car window tint and ceramic window tint for Marina del Rey drivers, installed at Audio MotorSports in Carson, 14.9 miles away. Call (213) 429-1092 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

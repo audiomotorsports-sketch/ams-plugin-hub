@@ -4,7 +4,7 @@ city: Santa Fe Springs
 miles: 13.0
 lead_service: Tesla window tint (camera and sensor clearance)
 title: Santa Fe Springs Tesla Tint | Tesla Tint LA, Carson
-meta: Tesla window tint with cameras kept clear, for Santa Fe Springs owners at Tesla Tint LA by Audio MotorSports in Carson, 13 miles away. Call (310) 513-8800.
+meta: Tesla window tint with cameras kept clear, for Santa Fe Springs owners at Tesla Tint LA by Audio MotorSports in Carson, 13 miles away. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla Window Tint for Santa Fe Springs That Respects the Cameras
@@ -24,6 +24,9 @@ Santa Fe Springs Tesla owners drive about 13 miles to Tesla Tint LA, the Tesla w
 ## Getting here from Santa Fe Springs
 
 About 13 miles and roughly 26 to 31 minutes outside rush hour (approx). Hours are Monday to Saturday 9:30 to 6:00; closed Sunday. Book a time, then wait at the shop or drop the car and return. [SHOP NOTE: 2-3 sentences from Nick about Santa Fe Springs customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Santa Fe Springs customers tell us makes the drop-off painless. Santa Fe Springs customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. From Santa Fe Springs you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Santa Fe Springs Tesla questions
 
@@ -49,7 +52,7 @@ Yes. GPS tracker installation is a common pairing with Tesla tint, and Audio Mot
 
 ## Prices
 
-Each Tesla is priced after Nick sees it; the quote is by model at the shop. The non-Tesla reference at the same bay is Solar $249 or Solar Ceramic $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Each Tesla is priced after Nick sees it; the quote is by model at the shop. The non-Tesla reference at the same bay is Solar $249 or Solar Ceramic $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby Tesla tint pages
 
@@ -57,7 +60,7 @@ Each Tesla is priced after Nick sees it; the quote is by model at the shop. The 
 
 ## Set a time
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

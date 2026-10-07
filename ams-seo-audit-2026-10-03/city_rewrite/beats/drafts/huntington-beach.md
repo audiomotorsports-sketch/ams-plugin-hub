@@ -6,7 +6,7 @@ lead_service: head unit installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Huntington Beach Head Unit Installation | LA Car Beats
-meta: Head unit installation and car stereo installation for Huntington Beach drivers at LA Car Beats by Audio MotorSports in Carson, 19.3 miles. Call (310) 513-8800.
+meta: Head unit installation and car stereo installation for Huntington Beach drivers at LA Car Beats by Audio MotorSports in Carson, 19.3 miles. Call (213) 429-1092.
 ---
 # Head Unit Installation for Huntington Beach Drivers
 
@@ -22,7 +22,10 @@ Huntington Beach drivers make the trip to LA Car Beats for head unit installatio
 
 ## Huntington Beach to the shop
 
-Huntington Beach is about 19.3 miles from the Carson bay, roughly 39 to 46 minutes outside rush hour (approx). Book at (310) 513-8800 or by text at (213) 429-1092, then wait on a head unit install or drop off for a full system and collect the car in the afternoon. Hours are Monday through Saturday 9:30 to 6:00; Sunday closed. [SHOP NOTE: 2-3 sentences from Nick about Huntington Beach customers, routes or jobs]
+Huntington Beach is about 19.3 miles from the Carson bay, roughly 39 to 46 minutes outside rush hour (approx). Book at (213) 429-1092 or by text at (213) 429-1092, then wait on a head unit install or drop off for a full system and collect the car in the afternoon. Hours are Monday through Saturday 9:30 to 6:00; Sunday closed. [SHOP NOTE: 2-3 sentences from Nick about Huntington Beach customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Huntington Beach customers tell us makes the drop-off painless. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. From Huntington Beach you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Huntington Beach head unit FAQ
 
@@ -48,7 +51,7 @@ A few hours for most cars, so Huntington Beach drivers usually wait. Vehicles wi
 
 ## Huntington Beach pricing
 
-The Dual Kicker Comp loaded box is $249, box only, as of October 2026. Head unit installation, Apple CarPlay and Android Auto installation, speaker replacement, subwoofer installation and amplifier installation on a Huntington Beach car are quoted at the shop by model and trim. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation, Tesla window tint and Harley bagger audio are booked through the same counter.
+The Dual Kicker Comp loaded box is $249, box only, as of October 2026. Head unit installation, Apple CarPlay and Android Auto installation, speaker replacement, subwoofer installation and amplifier installation on a Huntington Beach car are quoted at the shop by model and trim. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation, Tesla window tint and Harley bagger audio are booked through the same counter.
 
 ## Coast and county neighbors
 
@@ -56,7 +59,7 @@ LA Car Beats pages near Huntington Beach: [Fountain Valley](/beats/car-stereo-fo
 
 ## Book from Huntington Beach
 
-Year, make, model and trim by text and the kit and harness will be on the bench. Call (310) 513-8800 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Year, make, model and trim by text and the kit and harness will be on the bench. Call (213) 429-1092 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -67,7 +70,7 @@ Year, make, model and trim by text and the kit and harness will be on the bench.
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-huntington-beach/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-huntington-beach/",
    "name": "Huntington Beach Head Unit Installation | LA Car Beats",
-   "description": "Head unit installation and car stereo installation for Huntington Beach drivers at LA Car Beats by Audio MotorSports in Carson, 19.3 miles. Call (310) 513-8800.",
+   "description": "Head unit installation and car stereo installation for Huntington Beach drivers at LA Car Beats by Audio MotorSports in Carson, 19.3 miles. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

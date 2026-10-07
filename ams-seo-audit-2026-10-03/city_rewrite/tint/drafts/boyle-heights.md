@@ -4,7 +4,7 @@ city: Boyle Heights
 miles: 14.3
 lead_service: Tesla window tint
 title: Boyle Heights Tesla & Car Window Tint | LA Car Tint
-meta: Tesla window tint and car window tint for Boyle Heights, hand-cut and installed by Audio MotorSports in Carson, 14.3 miles away. Call (310) 513-8800.
+meta: Tesla window tint and car window tint for Boyle Heights, hand-cut and installed by Audio MotorSports in Carson, 14.3 miles away. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla Window Tint and Car Window Tint for Boyle Heights
@@ -22,6 +22,9 @@ Boyle Heights Tesla owners drive to LA Car Tint by Audio MotorSports, 22025 S Av
 ## Getting here from Boyle Heights
 
 Boyle Heights to the shop is roughly 14.3 miles, around 29 to 34 minutes outside rush hour (approx). Make an appointment, then drop the car for the day or wait on site. We are open Monday to Saturday 9:30 a.m. to 6:00 p.m. and closed Sunday. [SHOP NOTE: 2-3 sentences from Nick about Boyle Heights customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Boyle Heights, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Boyle Heights traffic sends you.
 
 ## Boyle Heights Tesla tint questions
 
@@ -43,11 +46,11 @@ Yes. Older cars are often easier on the curves and harder on the seals, which ca
 
 ### How far is the tint shop from Boyle Heights?
 
-About 14.3 miles, roughly half an hour outside rush hour. You are heading to Audio MotorSports at 22025 S Avalon Blvd Ste A in Carson. Call (310) 513-8800 or text (213) 429-1092 before you leave. Customers have called from as far as San Jose about this work.
+About 14.3 miles, roughly half an hour outside rush hour. You are heading to Audio MotorSports at 22025 S Avalon Blvd Ste A in Carson. Call (213) 429-1092 or text (213) 429-1092 before you leave. Customers have called from as far as San Jose about this work.
 
 ## Tint prices, Boyle Heights
 
-Four-door Solar, $249 installed; four-door Solar Ceramic, $329 installed; as of October 2026, covering four doors plus the rear glass on any car including Tesla. Tesla roof glass, windshield strips, SUVs and trucks are quoted at the shop, and no separate Tesla model pricing is listed here. Payment plan available, ask Nick. On Google we are 4.8 (650+ reviews), on Yelp 4.7 (770+ reviews), as of October 2026.
+Four-door Solar, $249 installed; four-door Solar Ceramic, $329 installed; as of October 2026, covering four doors plus the rear glass on any car including Tesla. Tesla roof glass, windshield strips, SUVs and trucks are quoted at the shop, and no separate Tesla model pricing is listed here. Payment plan available, ask Nick. On Google we are 4.8 (654 reviews), on Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby tint pages
 
@@ -55,7 +58,7 @@ Four-door Solar, $249 installed; four-door Solar Ceramic, $329 installed; as of 
 
 ## Book your Tesla or car
 
-Call (310) 513-8800 or text (213) 429-1092 with the model. Audio MotorSports can be found at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-18:00, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092 with the model. Audio MotorSports can be found at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -134,7 +137,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the model. Audio MotorSports can
      "name": "How far is the tint shop from Boyle Heights?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "About 14.3 miles, roughly half an hour outside rush hour. You are heading to Audio MotorSports at 22025 S Avalon Blvd Ste A in Carson. Call (310) 513-8800 or text (213) 429-1092 before you leave. Customers have called from as far as San Jose about this work."
+      "text": "About 14.3 miles, roughly half an hour outside rush hour. You are heading to Audio MotorSports at 22025 S Avalon Blvd Ste A in Carson. Call (213) 429-1092 or text (213) 429-1092 before you leave. Customers have called from as far as San Jose about this work."
      }
     }
    ]

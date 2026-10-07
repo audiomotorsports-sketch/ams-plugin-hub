@@ -4,7 +4,7 @@ city: Fullerton
 miles: 19.7
 lead_service: window tinting
 title: Window Tinting for Fullerton | LA Car Tint, Carson
-meta: Window tinting for Fullerton sedans, SUVs and Teslas by LA Car Tint at Audio MotorSports in Carson, 19.7 miles away. Hand-cut ceramic film. Call (310) 513-8800.
+meta: Window tinting for Fullerton sedans, SUVs and Teslas by LA Car Tint at Audio MotorSports in Carson, 19.7 miles away. Hand-cut ceramic film. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Window Tinting for Fullerton Drivers, by Audio MotorSports, Carson
@@ -26,6 +26,9 @@ The run from Fullerton is about 19.7 miles, roughly forty-five minutes (approx) 
 
 [SHOP NOTE: 2-3 sentences from Nick about Fullerton customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+For a longer job from Fullerton, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. The shop is LGBTQ-friendly and everyone from Fullerton is welcome, as our Google and Yelp listings state. From Fullerton you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
+
 ## What Fullerton owners want to know
 
 ### What makes a window tint job look factory instead of aftermarket?
@@ -42,7 +45,7 @@ Yes. Rear doors and back glass alone is a common job, especially for parents and
 
 ### How far is the drive from Fullerton, and can I wait at the shop?
 
-About 19.7 miles, roughly forty-five minutes outside rush hour. You can wait at the shop while the car is tinted or leave it and pick up later in the day. Appointments are set by calling (310) 513-8800 or texting (213) 429-1092.
+About 19.7 miles, roughly forty-five minutes outside rush hour. You can wait at the shop while the car is tinted or leave it and pick up later in the day. Appointments are set by calling (213) 429-1092 or texting (213) 429-1092.
 
 ### Why does hand-cutting film on the car matter?
 
@@ -61,7 +64,7 @@ Solar window tint $249 installed and Solar Ceramic $329 installed, as of October
 
 ## Book it
 
-Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
+Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
 
 ```json
 {
@@ -72,7 +75,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-fullerton/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-fullerton/",
    "name": "Window Tinting for Fullerton | LA Car Tint, Carson",
-   "description": "Window tinting for Fullerton sedans, SUVs and Teslas by LA Car Tint at Audio MotorSports in Carson, 19.7 miles away. Hand-cut ceramic film. Call (310) 513-8800.",
+   "description": "Window tinting for Fullerton sedans, SUVs and Teslas by LA Car Tint at Audio MotorSports in Carson, 19.7 miles away. Hand-cut ceramic film. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -136,7 +139,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "How far is the drive from Fullerton, and can I wait at the shop?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "About 19.7 miles, roughly forty-five minutes outside rush hour. You can wait at the shop while the car is tinted or leave it and pick up later in the day. Appointments are set by calling (310) 513-8800 or texting (213) 429-1092."
+      "text": "About 19.7 miles, roughly forty-five minutes outside rush hour. You can wait at the shop while the car is tinted or leave it and pick up later in the day. Appointments are set by calling (213) 429-1092 or texting (213) 429-1092."
      }
     },
     {

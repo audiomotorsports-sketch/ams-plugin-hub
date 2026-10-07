@@ -4,7 +4,7 @@ city: Los Angeles
 miles: 15.6
 lead_service: dash camera installation
 title: Dash Camera & Alarm Installation, Los Angeles | LA Car Alarm
-meta: Dash camera installation, Viper alarms and Compustar remote start for Los Angeles drivers at LA Car Alarm by Audio MotorSports in Carson. Call (310) 513-8800.
+meta: Dash camera installation, Viper alarms and Compustar remote start for Los Angeles drivers at LA Car Alarm by Audio MotorSports in Carson. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Dash Camera Installation for Los Angeles Drivers
@@ -22,6 +22,9 @@ A dash camera only earns its keep if it is recording when the other driver swear
 **GPS tracker installation.** Hidden and hardwired, with phone alerts when the car moves outside the hours you expect.
 
 We also do window tint, car stereo installation and CarPlay head units in the same building, so a Los Angeles trip can cover more than one job.
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Los Angeles customers tell us makes the drop-off painless. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Coming from Los Angeles, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Driving down from Los Angeles
 
@@ -54,7 +57,7 @@ Yes, and plenty of people do. The reason is simple: the install decides whether 
 
 Dash cameras and GPS trackers are priced at the shop by vehicle and camera. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby pages
 
@@ -66,7 +69,7 @@ Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
 
 ## Call, text, come by
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

@@ -4,7 +4,7 @@ city: Irwindale
 miles: 33.5
 lead_service: Compustar remote start installation
 title: Compustar Remote Start for Irwindale Drivers | LA Car Alarm
-meta: Compustar remote start installation, Viper car alarm installation and GPS trackers for Irwindale drivers at LA Car Alarm by Audio MotorSports, Carson. (310) 513-8800.
+meta: Compustar remote start installation, Viper car alarm installation and GPS trackers for Irwindale drivers at LA Car Alarm by Audio MotorSports, Carson. (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Compustar Remote Start Installation for Irwindale
@@ -22,6 +22,9 @@ Irwindale summers make a parked car an oven, and a remote start fixes that from 
 **Dash camera installation.** Parking mode on a fused circuit with a cutoff that protects the battery; cables inside the headliner, not across the glass.
 
 Window tint, car stereo installation and Android Auto head units are also done here, so an Irwindale trip can cover two jobs.
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Irwindale customers tell us makes the drop-off painless. Irwindale customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Irwindale.
 
 ## Getting here from Irwindale
 
@@ -54,7 +57,7 @@ Because the drive is a one-time cost and the install is permanent. A remote star
 
 Phone modules, interface kits, GPS trackers and dash cameras are quoted at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby cities
 
@@ -66,6 +69,6 @@ Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
 
 ## Reserve a time
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 [CONFIRM] SHOP NOTE slot for Irwindale; drive time 67-80 minutes (approx) at 25-30 mph.

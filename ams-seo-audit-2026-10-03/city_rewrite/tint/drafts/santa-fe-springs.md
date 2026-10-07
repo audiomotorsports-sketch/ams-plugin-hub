@@ -5,7 +5,7 @@ miles: 13.0
 lead_service: Window tint / ceramic window tint (LA Car Tint)
 source: hub-mounted copy; standalone www host not verified
 title: Santa Fe Springs Fleet & Car Window Tint | LA Car Tint
-meta: Window tint for Santa Fe Springs work vans, trucks and cars, installed by Audio MotorSports in Carson, 13 miles away. Call (310) 513-8800 to book a slot.
+meta: Window tint for Santa Fe Springs work vans, trucks and cars, installed by Audio MotorSports in Carson, 13 miles away. Call (213) 429-1092 to book a slot.
 ---
 # Window Tint for Santa Fe Springs Work Vans, Trucks and Cars
 
@@ -26,6 +26,9 @@ Santa Fe Springs runs on warehouses and service fleets, and those vehicles sit i
 Santa Fe Springs to 22025 S Avalon Blvd is about 13 miles, around 26 to 31 minutes (approx) off peak. Call or text with the vehicle or the vehicle list, pick a time, then drop off or wait. The shop is open Monday through Saturday from 9:30 to 6:00 and closed Sunday. Fleet work is spread across days when the count is large so your crews keep rolling.
 
 [SHOP NOTE: 2-3 sentences from Nick about Santa Fe Springs customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Santa Fe Springs customers tell us makes the drop-off painless. The shop is LGBTQ-friendly and everyone from Santa Fe Springs is welcome, as our Google and Yelp listings state. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Santa Fe Springs.
 
 ## Santa Fe Springs companies and drivers ask
 
@@ -59,7 +62,7 @@ Sedan prices as of October 2026: Solar window tint $249 installed, Solar Ceramic
 
 ## Line up window tint for Santa Fe Springs vehicles
 
-Call (310) 513-8800 or text (213) 429-1092 with the vehicle list. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-6:00, closed on Sunday. Google: 4.8 from 650+ reviews. Yelp: 4.7 from 770+ reviews. Both as of October 2026.
+Call (213) 429-1092 or text (213) 429-1092 with the vehicle list. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-6:00, closed on Sunday. Google: 4.8 from 654 reviews. Yelp: 4.7 from 777 reviews. Both as of October 2026.
 
 ```json
 {
@@ -70,7 +73,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the vehicle list. Audio MotorSpo
    "@id": "https://www.audiomotorsports.com/tint/window-tint-santa-fe-springs/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-santa-fe-springs/",
    "name": "Santa Fe Springs Fleet & Car Window Tint | LA Car Tint",
-   "description": "Window tint for Santa Fe Springs work vans, trucks and cars, installed by Audio MotorSports in Carson, 13 miles away. Call (310) 513-8800 to book a slot.",
+   "description": "Window tint for Santa Fe Springs work vans, trucks and cars, installed by Audio MotorSports in Carson, 13 miles away. Call (213) 429-1092 to book a slot.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

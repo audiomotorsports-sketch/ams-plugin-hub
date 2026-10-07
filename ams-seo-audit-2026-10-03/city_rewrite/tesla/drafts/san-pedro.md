@@ -5,7 +5,7 @@ miles: 6.5
 lead_service: Tesla window tint (glass roof heat)
 source: hub-mounted copy; standalone www host not verified
 title: Tesla Glass Roof Heat Tint, San Pedro | Tesla Tint LA
-meta: San Pedro Tesla owners beat glass-roof heat with ceramic window tint at Audio MotorSports in Carson, 6.5 miles up the road. Call (310) 513-8800.
+meta: San Pedro Tesla owners beat glass-roof heat with ceramic window tint at Audio MotorSports in Carson, 6.5 miles up the road. Call (213) 429-1092.
 ---
 # Tesla Window Tint for San Pedro: Taming the Glass Roof
 
@@ -29,6 +29,9 @@ Figure 6.5 miles and roughly a 13 to 16 minute drive outside rush hour (approx).
 
 [SHOP NOTE: 2-3 sentences from Nick about San Pedro customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for San Pedro customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. The shop is LGBTQ-friendly and everyone from San Pedro is welcome, as our Google and Yelp listings state. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way San Pedro traffic sends you. A lot of our San Pedro customers are ILWU longshore workers and refinery and rail-yard crews who come in before or after a shift.
+
 ## San Pedro questions
 
 ### Is Tesla tint from a Carson shop worth the drive up from San Pedro?
@@ -49,11 +52,11 @@ No. Ceramic film is non-metallic, so there is no signal interference with the ke
 
 ### What should a San Pedro driver do to book Tesla window tint?
 
-Call (310) 513-8800 or text (213) 429-1092 with the year and model. Nick will quote it by model and set a time. On the day, drop off or wait at the shop; either way you drive back to San Pedro with the job finished and checked.
+Call (213) 429-1092 or text (213) 429-1092 with the year and model. Nick will quote it by model and set a time. On the day, drop off or wait at the shop; either way you drive back to San Pedro with the job finished and checked.
 
 ## Pricing
 
-Tesla tint is quoted by model at the shop. For a non-Tesla, as of October 2026, Solar is $249 and Solar Ceramic $329 installed. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Tesla tint is quoted by model at the shop. For a non-Tesla, as of October 2026, Solar is $249 and Solar Ceramic $329 installed. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby Tesla tint pages
 
@@ -65,7 +68,7 @@ Tesla tint is quoted by model at the shop. For a non-Tesla, as of October 2026, 
 
 ## Get in touch
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM. Closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM. Closed Sunday.
 
 ```json
 {
@@ -76,7 +79,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-san-pedro/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-san-pedro/",
    "name": "Tesla Glass Roof Heat Tint, San Pedro | Tesla Tint LA",
-   "description": "San Pedro Tesla owners beat glass-roof heat with ceramic window tint at Audio MotorSports in Carson, 6.5 miles up the road. Call (310) 513-8800.",
+   "description": "San Pedro Tesla owners beat glass-roof heat with ceramic window tint at Audio MotorSports in Carson, 6.5 miles up the road. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -150,7 +153,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "What should a San Pedro driver do to book Tesla window tint?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Call (310) 513-8800 or text (213) 429-1092 with the year and model. Nick will quote it by model and set a time. On the day, drop off or wait at the shop; either way you drive back to San Pedro with the job finished and checked."
+      "text": "Call (213) 429-1092 or text (213) 429-1092 with the year and model. Nick will quote it by model and set a time. On the day, drop off or wait at the shop; either way you drive back to San Pedro with the job finished and checked."
      }
     }
    ]

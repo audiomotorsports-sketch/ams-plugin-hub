@@ -4,7 +4,7 @@ city: Rossmoor
 miles: 11.0
 lead_service: work-truck security
 title: Work Truck Alarm Installation for Rossmoor | LA Car Alarm
-meta: Work truck and car alarm installation for Rossmoor at LA Car Alarm by Audio MotorSports in Carson, 11 miles away. GPS, remote start. Call (310) 513-8800.
+meta: Work truck and car alarm installation for Rossmoor at LA Car Alarm by Audio MotorSports in Carson, 11 miles away. GPS, remote start. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Work Truck and Car Alarm Installation for Rossmoor
@@ -22,6 +22,9 @@ Tools in the bed and a trailer on the hitch make a work truck the easiest target
 **Dash camera installation.** A forward and cabin camera hardwired for parking mode records who walked up to the truck overnight.
 
 The family sedan can get ceramic window tint or a car stereo installation at the same shop while the truck is in the bay.
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Rossmoor, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. The shop is LGBTQ-friendly and everyone from Rossmoor is welcome, as our Google and Yelp listings state. From Rossmoor you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## The run from Rossmoor
 
@@ -56,7 +59,7 @@ Customers have come from San Diego for this kind of install, so the drive from R
 
 Truck sensors, trackers and dash cameras are quoted on the vehicle at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby alarm pages
 
@@ -66,7 +69,7 @@ Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
 
 ## Book a truck install from Rossmoor
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make, model and what you want covered. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make, model and what you want covered. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

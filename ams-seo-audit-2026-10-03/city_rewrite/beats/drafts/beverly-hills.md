@@ -4,7 +4,7 @@ city: Beverly Hills
 miles: 18.5
 lead_service: Apple CarPlay and Android Auto installation
 title: Beverly Hills CarPlay Installation | LA Car Beats, Carson
-meta: Apple CarPlay and Android Auto installation for Beverly Hills drivers at LA Car Beats by Audio MotorSports in Carson. Factory look kept. Call (310) 513-8800.
+meta: Apple CarPlay and Android Auto installation for Beverly Hills drivers at LA Car Beats by Audio MotorSports in Carson. Factory look kept. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Apple CarPlay and Android Auto Installation for Beverly Hills
@@ -24,6 +24,9 @@ Beverly Hills drivers who want Apple CarPlay or Android Auto in a car that did n
 ## Beverly Hills to Carson
 
 Beverly Hills to the shop is about 18.5 miles, roughly 37 to 44 minutes outside rush hour (approx). Make an appointment, then leave the car with us for the day or wait while a simpler job is finished. We are open Monday through Saturday 9:30 to 6:00, closed Sunday. Customers come from well over 100 miles away for this work, so the drive from Beverly Hills is a short one.
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Beverly Hills, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Beverly Hills customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Beverly Hills.
 
 ## Beverly Hills CarPlay questions
 
@@ -49,7 +52,7 @@ Yes. Speaker replacement and amplifier installation can be done in the same visi
 
 ## Beverly Hills pricing
 
-The Dual Kicker Comp loaded box is $249, box only, as of October 2026. Apple CarPlay and Android Auto installation, head unit installation, speaker replacement, subwoofer installation and amplifier installation are quoted at the shop once we see the car. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Window tint, Tesla window tint, car alarm installation, remote start installation, GPS tracker installation and dash camera installation are available at the same shop.
+The Dual Kicker Comp loaded box is $249, box only, as of October 2026. Apple CarPlay and Android Auto installation, head unit installation, speaker replacement, subwoofer installation and amplifier installation are quoted at the shop once we see the car. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Window tint, Tesla window tint, car alarm installation, remote start installation, GPS tracker installation and dash camera installation are available at the same shop.
 
 ## Nearby cities
 
@@ -62,7 +65,7 @@ LA Car Beats pages for areas near Beverly Hills:
 
 ## Book CarPlay installation
 
-Call (310) 513-8800 or text (213) 429-1092 to schedule. LA Car Beats, Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday-Saturday 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 to schedule. LA Car Beats, Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday-Saturday 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -73,7 +76,7 @@ Call (310) 513-8800 or text (213) 429-1092 to schedule. LA Car Beats, Audio Moto
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-beverly-hills/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-beverly-hills/",
    "name": "Beverly Hills CarPlay Installation | LA Car Beats, Carson",
-   "description": "Apple CarPlay and Android Auto installation for Beverly Hills drivers at LA Car Beats by Audio MotorSports in Carson. Factory look kept. Call (310) 513-8800.",
+   "description": "Apple CarPlay and Android Auto installation for Beverly Hills drivers at LA Car Beats by Audio MotorSports in Carson. Factory look kept. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

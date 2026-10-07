@@ -4,7 +4,7 @@ city: Ladera Heights
 miles: 13.0
 lead_service: ceramic window tint (luxury cars and SUVs)
 title: Ceramic Window Tint Ladera Heights | LA Car Tint
-meta: Ceramic window tint for Ladera Heights sedans and SUVs, hand-cut and installed by Audio MotorSports in Carson, 13 miles away. Call (310) 513-8800 to book.
+meta: Ceramic window tint for Ladera Heights sedans and SUVs, hand-cut and installed by Audio MotorSports in Carson, 13 miles away. Call (213) 429-1092 to book.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Ceramic Window Tint for Ladera Heights, by Audio MotorSports, Carson
@@ -26,6 +26,9 @@ Plan on about 13 miles and under half an hour (approx) outside rush hour. Hours 
 
 [SHOP NOTE: 2-3 sentences from Nick about Ladera Heights customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Ladera Heights, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. Ladera Heights customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. From Ladera Heights you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
+
 ## Ladera Heights drivers ask
 
 ### Is ceramic window tint worth it on a luxury car from Ladera Heights?
@@ -34,7 +37,7 @@ Yes. Ceramic film protects leather and trim from infrared heat and UV, keeps the
 
 ### Who installs the tint at Audio MotorSports?
 
-A crew that tints cars every working day, in one bay, at one address in Carson. The track record is public: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Ask for Nick when you call.
+A crew that tints cars every working day, in one bay, at one address in Carson. The track record is public: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Ask for Nick when you call.
 
 ### Will the film show a visible edge on frameless doors?
 
@@ -46,7 +49,7 @@ Yes, and many Ladera Heights drivers do. California limits only the front side w
 
 ### How does a Ladera Heights driver book a slot?
 
-Call (310) 513-8800 or text (213) 429-1092 with the vehicle and the film you want. We confirm a time, you drive down, and the car is done that day while you wait or run errands. Mention anything else you want done so the bay is scheduled for the whole visit.
+Call (213) 429-1092 or text (213) 429-1092 with the vehicle and the film you want. We confirm a time, you drive down, and the car is done that day while you wait or run errands. Mention anything else you want done so the bay is scheduled for the whole visit.
 
 ## Prices, as of October 2026
 
@@ -61,7 +64,7 @@ Solar window tinting $249 installed; Solar Ceramic window tinting $329 installed
 
 ## Book it
 
-Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
+Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
 
 ```json
 {
@@ -72,7 +75,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-ladera-heights/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-ladera-heights/",
    "name": "Ceramic Window Tint Ladera Heights | LA Car Tint",
-   "description": "Ceramic window tint for Ladera Heights sedans and SUVs, hand-cut and installed by Audio MotorSports in Carson, 13 miles away. Call (310) 513-8800 to book.",
+   "description": "Ceramic window tint for Ladera Heights sedans and SUVs, hand-cut and installed by Audio MotorSports in Carson, 13 miles away. Call (213) 429-1092 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -120,7 +123,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "Who installs the tint at Audio MotorSports?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "A crew that tints cars every working day, in one bay, at one address in Carson. The track record is public: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Ask for Nick when you call."
+      "text": "A crew that tints cars every working day, in one bay, at one address in Carson. The track record is public: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Ask for Nick when you call."
      }
     },
     {
@@ -144,7 +147,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "How does a Ladera Heights driver book a slot?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Call (310) 513-8800 or text (213) 429-1092 with the vehicle and the film you want. We confirm a time, you drive down, and the car is done that day while you wait or run errands. Mention anything else you want done so the bay is scheduled for the whole visit."
+      "text": "Call (213) 429-1092 or text (213) 429-1092 with the vehicle and the film you want. We confirm a time, you drive down, and the car is done that day while you wait or run errands. Mention anything else you want done so the bay is scheduled for the whole visit."
      }
     }
    ]

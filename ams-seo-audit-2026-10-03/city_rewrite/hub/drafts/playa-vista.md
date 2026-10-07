@@ -4,7 +4,7 @@ city: Playa Vista
 miles: 13.5
 lead_service: Car audio / stereo installation
 title: Car Audio & Window Tint for Playa Vista | Audio MotorSports
-meta: Car audio, subwoofers, CarPlay, window tint and alarms for Playa Vista drivers at Audio MotorSports in Carson, 13.5 miles from Playa Vista. Call (310) 513-8800.
+meta: Car audio, subwoofers, CarPlay, window tint and alarms for Playa Vista drivers at Audio MotorSports in Carson, 13.5 miles from Playa Vista. Call (213) 429-1092.
 ---
 # Car Audio and Window Tint for Playa Vista
 
@@ -27,6 +27,9 @@ Playa Vista drivers use Audio MotorSports in Carson for car audio, from a single
 The trip from Playa Vista is about 13.5 miles, around 27 to 32 minutes (approx) off peak. Reserve a slot, then drop the car off for the day or wait at the shop for a shorter job. We are open Monday through Saturday 9:30 to 6:00 and closed on Sunday. The shop is near the beach in Carson, and people drive in from far past Playa Vista for a properly tuned system.
 
 [SHOP NOTE: 2-3 sentences from Nick about Playa Vista customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Playa Vista job is finished. Playa Vista customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. From Playa Vista you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Playa Vista questions
 
@@ -60,7 +63,7 @@ Solar window tint, $249 installed. Solar Ceramic window tint, $329 installed. Vi
 
 ## Book your audio build from Playa Vista
 
-Call (310) 513-8800 or text (213) 429-1092 with your year, make and model and what you want it to sound like. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-6:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with your year, make and model and what you want it to sound like. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-6:00, Sunday closed.
 
 ```json
 {
@@ -71,7 +74,7 @@ Call (310) 513-8800 or text (213) 429-1092 with your year, make and model and wh
    "@id": "https://www.audiomotorsports.com/playa-vista/#webpage",
    "url": "https://www.audiomotorsports.com/playa-vista/",
    "name": "Car Audio & Window Tint for Playa Vista | Audio MotorSports",
-   "description": "Car audio, subwoofers, CarPlay, window tint and alarms for Playa Vista drivers at Audio MotorSports in Carson, 13.5 miles from Playa Vista. Call (310) 513-8800.",
+   "description": "Car audio, subwoofers, CarPlay, window tint and alarms for Playa Vista drivers at Audio MotorSports in Carson, 13.5 miles from Playa Vista. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

@@ -4,7 +4,7 @@ city: San Gabriel
 miles: 20.4
 lead_service: Apple CarPlay and Android Auto installation
 title: CarPlay & Android Auto for San Gabriel | Audio MotorSports
-meta: Apple CarPlay and Android Auto installation, stereo installs, window tint and alarms for San Gabriel at Audio MotorSports in Carson, 20.4 miles. (310) 513-8800.
+meta: Apple CarPlay and Android Auto installation, stereo installs, window tint and alarms for San Gabriel at Audio MotorSports in Carson, 20.4 miles. (213) 429-1092.
 ---
 # Apple CarPlay and Android Auto Installation for San Gabriel
 
@@ -28,6 +28,9 @@ The bay is 20.4 miles from San Gabriel, roughly forty-one to forty-nine minutes 
 
 [SHOP NOTE: 2-3 sentences from Nick about San Gabriel customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+For a longer job from San Gabriel, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. Coming from San Gabriel, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
+
 ## San Gabriel CarPlay and stereo questions
 
 ### What does Apple CarPlay and Android Auto installation include?
@@ -36,7 +39,7 @@ A head unit that fits your dash with the correct kit and harness, a steering-whe
 
 ### Is a San Gabriel driver better off with a shop in Carson than a mobile installer?
 
-For head unit installation, yes. In the bay we have the dash kits, harnesses and tools to do it without cutting factory wiring or drilling the dash, and the car is tested before it leaves. San Gabriel is 20.4 miles away, roughly forty-one to forty-nine minutes outside rush hour. Call (310) 513-8800.
+For head unit installation, yes. In the bay we have the dash kits, harnesses and tools to do it without cutting factory wiring or drilling the dash, and the car is tested before it leaves. San Gabriel is 20.4 miles away, roughly forty-one to forty-nine minutes outside rush hour. Call (213) 429-1092.
 
 ### My car has a factory amplifier; will CarPlay still work?
 
@@ -71,7 +74,7 @@ Head units, interfaces, speakers, amplifiers and labor on your vehicle are quote
 
 ## Set up your CarPlay install
 
-Call (310) 513-8800 or text the year, make and model to (213) 429-1092. Audio MotorSports is located at 22025 S Avalon Blvd Ste A, Carson, CA 90745 and is open Mon-Sat 9:30-18:00; Sunday closed. Drop off or wait at the shop.
+Call (213) 429-1092 or text the year, make and model to (213) 429-1092. Audio MotorSports is located at 22025 S Avalon Blvd Ste A, Carson, CA 90745 and is open Mon-Sat 9:30-18:00; Sunday closed. Drop off or wait at the shop.
 
 ```json
 {
@@ -82,7 +85,7 @@ Call (310) 513-8800 or text the year, make and model to (213) 429-1092. Audio Mo
    "@id": "https://www.audiomotorsports.com/san-gabriel/#webpage",
    "url": "https://www.audiomotorsports.com/san-gabriel/",
    "name": "CarPlay & Android Auto for San Gabriel | Audio MotorSports",
-   "description": "Apple CarPlay and Android Auto installation, stereo installs, window tint and alarms for San Gabriel at Audio MotorSports in Carson, 20.4 miles. (310) 513-8800.",
+   "description": "Apple CarPlay and Android Auto installation, stereo installs, window tint and alarms for San Gabriel at Audio MotorSports in Carson, 20.4 miles. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -132,7 +135,7 @@ Call (310) 513-8800 or text the year, make and model to (213) 429-1092. Audio Mo
      "name": "Is a San Gabriel driver better off with a shop in Carson than a mobile installer?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "For head unit installation, yes. In the bay we have the dash kits, harnesses and tools to do it without cutting factory wiring or drilling the dash, and the car is tested before it leaves. San Gabriel is 20.4 miles away, roughly forty-one to forty-nine minutes outside rush hour. Call (310) 513-8800."
+      "text": "For head unit installation, yes. In the bay we have the dash kits, harnesses and tools to do it without cutting factory wiring or drilling the dash, and the car is tested before it leaves. San Gabriel is 20.4 miles away, roughly forty-one to forty-nine minutes outside rush hour. Call (213) 429-1092."
      }
     },
     {

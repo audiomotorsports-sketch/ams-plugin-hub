@@ -4,7 +4,7 @@ city: West Los Angeles
 miles: 18.0
 lead_service: Harley bagger audio
 title: Bagger Audio & Tint for West Los Angeles | Audio MotorSports
-meta: Harley bagger audio installation with AMS pods, window tint, car stereo and alarms for West Los Angeles at Audio MotorSports, Carson, 18 miles. (310) 513-8800.
+meta: Harley bagger audio installation with AMS pods, window tint, car stereo and alarms for West Los Angeles at Audio MotorSports, Carson, 18 miles. (213) 429-1092.
 ---
 # Harley Bagger Audio Installation for West Los Angeles
 
@@ -27,6 +27,9 @@ West Los Angeles riders bring Harley baggers to Audio MotorSports in Carson for 
 West Los Angeles is about 18 miles from the shop, roughly 36 to 43 minutes (approx) outside rush hour. Schedule first, then ride or drive in and either wait while we work or leave the bike or car for the day. We are open Monday through Saturday from 9:30 to 6:00 and closed Sunday. We have had calls about pods from as far as San Jose, so 18 miles is a normal commute for this work.
 
 [SHOP NOTE: 2-3 sentences from Nick about West Los Angeles customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which West Los Angeles customers tell us makes the drop-off painless. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. From West Los Angeles you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## West Los Angeles questions
 
@@ -60,7 +63,7 @@ AMS Harley pods from $649 a pair · Solar window tint $249 installed · Solar Ce
 
 ## Book your bagger from West Los Angeles
 
-Call (310) 513-8800 or text (213) 429-1092 with the year and model of the bike or car. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745; Mon-Sat 9:30-6:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the year and model of the bike or car. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745; Mon-Sat 9:30-6:00, Sunday closed.
 
 ```json
 {
@@ -71,7 +74,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year and model of the bike o
    "@id": "https://www.audiomotorsports.com/west-los-angeles/#webpage",
    "url": "https://www.audiomotorsports.com/west-los-angeles/",
    "name": "Bagger Audio & Tint for West Los Angeles | Audio MotorSports",
-   "description": "Harley bagger audio installation with AMS pods, window tint, car stereo and alarms for West Los Angeles at Audio MotorSports, Carson, 18 miles. Call (310) 513-8800.",
+   "description": "Harley bagger audio installation with AMS pods, window tint, car stereo and alarms for West Los Angeles at Audio MotorSports, Carson, 18 miles. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

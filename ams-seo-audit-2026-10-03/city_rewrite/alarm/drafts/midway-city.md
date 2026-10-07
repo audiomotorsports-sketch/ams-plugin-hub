@@ -4,7 +4,7 @@ city: Midway City
 miles: 17.0
 lead_service: theft recovery
 title: Theft Recovery Tracker & Alarms Midway City | LA Car Alarm
-meta: Theft recovery GPS tracker and car alarm installation for Midway City at LA Car Alarm by Audio MotorSports, Carson, 17 miles. Call (310) 513-8800.
+meta: Theft recovery GPS tracker and car alarm installation for Midway City at LA Car Alarm by Audio MotorSports, Carson, 17 miles. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Theft Recovery Tracker and Car Alarm Installation for Midway City
@@ -22,6 +22,9 @@ When a car is taken, the tracker is what brings it home, and the install is what
 **Dash camera installation.** Parking mode on a fused hardwire kit with the cable hidden and a voltage cutoff.
 
 Window tint and car stereo installation are done at the same shop, so the Midway City trip can cover both.
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Midway City customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. The shop is LGBTQ-friendly and everyone from Midway City is welcome, as our Google and Yelp listings state. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Midway City traffic sends you.
 
 ## Midway City to the Carson bay
 
@@ -54,7 +57,7 @@ Yes. Both systems go in while the panels are off, and everything is reassembled 
 
 Trackers, tilt sensors and dash cameras are quoted on the vehicle at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby alarm pages
 
@@ -64,7 +67,7 @@ Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
 
 ## Book from Midway City
 
-Call (310) 513-8800 or text (213) 429-1092 with the vehicle details. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the vehicle details. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

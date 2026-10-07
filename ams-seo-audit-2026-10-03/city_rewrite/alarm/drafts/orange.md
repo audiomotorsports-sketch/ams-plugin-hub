@@ -4,7 +4,7 @@ city: Orange
 miles: not in city_list.json
 lead_service: dash camera installation
 title: Dash Camera Installation for Orange, CA | LA Car Alarm
-meta: Dash camera installation for drivers from Orange, CA at LA Car Alarm by Audio MotorSports in Carson. Viper alarms, remote start, GPS. Call (310) 513-8800.
+meta: Dash camera installation for drivers from Orange, CA at LA Car Alarm by Audio MotorSports in Carson. Viper alarms, remote start, GPS. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Dash Camera Installation for Drivers from Orange
@@ -22,6 +22,9 @@ Drivers from Orange bring their cars to LA Car Alarm at Audio MotorSports, 22025
 **GPS tracker installation.** Constant power, behind factory panels, locate test on your phone before pickup.
 
 Window tint and car stereo installation are done at the same address, so an Orange trip can cover more than one job.
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Orange customers tell us makes the drop-off painless. Orange customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Coming from Orange, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Coming up from Orange
 
@@ -56,7 +59,7 @@ Drivers come to this shop from over 100 miles away for security installs, so the
 
 Dash cameras, GPS trackers and sensors are quoted on the vehicle at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby alarm pages
 
@@ -67,7 +70,7 @@ Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
 
 ## Book a camera install from Orange
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make and model and whether you want front only or front and rear. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make and model and whether you want front only or front and rear. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

@@ -5,7 +5,7 @@ miles: 9.0
 lead_service: Tesla window tint
 source: hub-mounted copy; standalone www host not verified
 title: Lennox Window Tint | LA Car Tint by Audio MotorSports
-meta: Tesla window tint and ceramic window tint for Lennox drivers, installed indoors at Audio MotorSports in Carson, 9 miles away. Call (310) 513-8800.
+meta: Tesla window tint and ceramic window tint for Lennox drivers, installed indoors at Audio MotorSports in Carson, 9 miles away. Call (213) 429-1092.
 ---
 # Tesla and Car Window Tint for Lennox
 
@@ -19,7 +19,10 @@ LA Car Tint at Audio MotorSports, 22025 S Avalon Blvd Ste A in Carson, is about 
 
 ## From Lennox to the Carson bay
 
-Lennox is about 9 miles from the shop, roughly 18 to 22 minutes (approx) outside the busy hours. We take appointments Monday through Saturday, 9:30 to 6:00, and are closed Sunday. Once booked, you can wait in the lobby or leave the car; a Tesla usually takes a bit longer than a sedan. We have had calls from as far as San Jose, so Lennox is a short trip by comparison. [SHOP NOTE: 2-3 sentences from Nick about Lennox customers, routes or jobs]
+Lennox is about 9 miles from the shop, roughly 18 to 22 minutes (approx) outside the busy hours. We take appointments Monday through Saturday, 9:30 to 6:00, and are closed Sunday. Once booked, you can wait inside or leave the car; a Tesla usually takes a bit longer than a sedan. We have had calls from as far as San Jose, so Lennox is a short trip by comparison. [SHOP NOTE: 2-3 sentences from Nick about Lennox customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Lennox customers tell us makes the drop-off painless. Lennox customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Lennox.
 
 ## Lennox tint questions
 
@@ -45,7 +48,7 @@ For a car with this much glass, the install quality matters more than the film b
 
 ## Pricing for Lennox drivers
 
-Four-door cars: Solar $249 installed, Solar Ceramic $329 installed, as of October 2026, four doors plus rear glass. Tesla glass, roofs, SUVs and two-doors are quoted at the counter. Payment plan available; ask Nick. Google 4.8 from 650+ reviews and Yelp 4.7 from 770+ reviews, both as of October 2026.
+Four-door cars: Solar $249 installed, Solar Ceramic $329 installed, as of October 2026, four doors plus rear glass. Tesla glass, roofs, SUVs and two-doors are quoted at the counter. Payment plan available; ask Nick. Google 4.8 from 654 reviews and Yelp 4.7 from 777 reviews, both as of October 2026.
 
 ## Nearby tint pages
 
@@ -58,7 +61,7 @@ Car alarm installation, remote start installation, car stereo installation with 
 
 ## Book from Lennox
 
-Call (310) 513-8800 or text (213) 429-1092 with your Tesla model or vehicle, and bring it to Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-6:00 (Sunday closed).
+Call (213) 429-1092 or text (213) 429-1092 with your Tesla model or vehicle, and bring it to Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-6:00 (Sunday closed).
 
 ```json
 {
@@ -69,7 +72,7 @@ Call (310) 513-8800 or text (213) 429-1092 with your Tesla model or vehicle, and
       "@id": "https://www.audiomotorsports.com/tint/window-tint-lennox/#webpage",
       "url": "https://www.audiomotorsports.com/tint/window-tint-lennox/",
       "name": "Lennox Window Tint | LA Car Tint by Audio MotorSports",
-      "description": "Tesla window tint and ceramic window tint for Lennox drivers, installed indoors at Audio MotorSports in Carson, 9 miles away. Call (310) 513-8800.",
+      "description": "Tesla window tint and ceramic window tint for Lennox drivers, installed indoors at Audio MotorSports in Carson, 9 miles away. Call (213) 429-1092.",
       "dateModified": "2026-10-08",
       "about": {
         "@id": "https://www.audiomotorsports.com/#business"

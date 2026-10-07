@@ -1,62 +1,71 @@
 ---
-url: https://www.audiomotorsports.com/arcadia/
+url: https://www.audiomotorsports.com/amspods/bagger-audio-arcadia/
 city: Arcadia
 miles: 25.3
-lead_service: alarm & remote start
-title: Alarm & Remote Start Install, Arcadia | Audio MotorSports
-meta: Viper alarm installation, Compustar remote start, GPS trackers and window tint for Arcadia drivers at Audio MotorSports in Carson. (310) 513-8800.
+lead_service: long-ride bagger audio
+title: Harley Bagger Audio Arcadia | AMS Pods
+meta: Long-ride Harley bagger audio for Arcadia riders: AMS lower-fairing pods, amplifier installation and tuning at Audio MotorSports in Carson. Call (213) 429-1092.
+source: hub-mounted copy; standalone www host not verified
 ---
-# Car Alarm and Remote Start Installation for Arcadia
+# Long-Ride Bagger Audio for Arcadia Harley Riders
 
-Arcadia drivers travel about 25.3 miles to Audio MotorSports at 22025 S Avalon Blvd Ste A in Carson for Viper alarm installation and Compustar remote start installation where the module is hidden, the wiring is blended into the factory loom and nothing can be defeated from the fuse box. The shop also does car window tint, car stereo installation, Apple CarPlay and Android Auto installation, GPS tracker installation, dash camera installation, Tesla tint and Harley bagger audio for Arcadia.
+An Arcadia rider covers about 25.3 miles to reach AMS Pods, the Harley-Davidson bagger audio shop inside Audio MotorSports at 22025 S Avalon Blvd Ste A in Carson, and that distance is the whole point. A system built here is tuned for hours at freeway speed on a Street Glide, Road Glide or Road King, not for the parking lot.
 
-## What Arcadia drivers bring us
+## What Arcadia riders bring us
 
-**Viper alarm installation.** Doors, hood, trunk and shock sensing with a starter interrupt, the brain mounted out of reach and the siren on its own feed.
+**Bagger audio installation tuned for distance.** On a long ride the volume stays up for an hour at a time, so the amplifier gains are set with the engine running and headroom left over. That keeps the speakers from clipping once the wind picks up past sixty.
 
-**Remote start installation.** Compustar 9910 with the bypass module matched to the vehicle, so the car starts from the remote and still will not drive without the key.
+**AMS lower-fairing pods.** Made in the Carson shop in chrome or gloss, bracket and screws in the box, mounted on the crash bar and angled at the rider. They fill in the low sound the fairing cannot throw back to you at speed.
 
-**GPS tracker installation.** On constant power, hidden, reporting location and movement to your phone.
+**Amplifier installation.** A fairing amp with a tank pull for the power run on the Glides; a bag amp on a carpeted board with an AMS quick disconnect on a Road King, so the bag still comes off at a hotel.
 
-**Dash camera installation.** Fuse-tapped with a voltage cutoff, cable up the A-pillar, parked recording.
+**Head unit installation.** When the factory radio runs out of clean output before the ride does, a Harley-specific radio from Diamond Audio, Sony or Soundstream goes in and gets tuned with the rest.
 
-**Car window tint and car stereo installation.** Solar or Solar Ceramic hand-cut on the glass; head unit installation, speaker replacement and subwoofer installation with the factory look kept.
+If the truck that hauls the bike needs window tint, a car stereo, CarPlay, a Viper alarm, remote start, a GPS tracker or a dash camera, all of it is installed in the same Carson bay.
 
-## Arcadia to the shop
+## Riding down from Arcadia
 
-Twenty-five point three miles is roughly 51 to 61 minutes outside rush hour (approx). Book a time first, then drop the car and get a call when it is ready, or wait at the shop while it is installed. Open Mon-Sat 9:30-18:00, closed Sunday. [SHOP NOTE: 2-3 sentences from Nick about Arcadia customers, routes or jobs]
+Arcadia to the shop is about 25.3 miles, call it 50 to 60 minutes outside rush hour (approx). Book first, then ride in and leave the bike for the day or wait at the shop while the install runs. Hours are Monday through Saturday 9:30 AM to 6:00 PM, Sunday closed. Riders have trailered bikes here from San Diego for the same system, so an hour down from Arcadia is a normal morning. [SHOP NOTE: 2-3 sentences from Nick about Arcadia riders, routes or jobs]
 
-### Why drive from Arcadia for a car alarm installation?
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Arcadia job is finished. Arcadia customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Coming from Arcadia, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
-Because an alarm is only as good as where the installer hides it. A module tucked next to the fuse panel is easy to find and cut; one buried in the dash with the wiring blended into the factory harness is not. The Viper 3108V is $269 installed as of October 2026 for that kind of install.
+## Questions Arcadia riders ask
 
-### What does a Compustar installation include for a push-button car?
+### Is an hour from Arcadia too far for a pods install?
 
-The remote start module, a bypass module that satisfies the immobilizer, the brake and hood safety circuits, and a demonstration before you leave. Compustar 9910 installs start from $499 as of October 2026. The car still needs the fob inside to shift and drive, so the remote start cannot be used to steal it.
+No. Riders cover far more than that to get to this shop, and the pods are built in the same building, so one ride down handles the fitting. Order the pair by phone with your year and model, let the three-week build run, then make the Arcadia trip once for the install.
 
-### Can I get a GPS tracker installation and an alarm at the same time?
+### Why does a bagger system fall apart on long rides?
 
-Yes, and they work well together. The alarm handles the deterrent and the starter interrupt, and the tracker tells you where the car is if someone tows it. Both are wired to constant power, hidden, and tested on your phone before you head back to Arcadia.
+Heat, wind and time. A system set up loud in a driveway runs out of clean power twenty minutes into a freeway stretch and starts to distort. The shop tunes gains and crossovers with the engine running and the fairing closed, then checks the setting on a ride before the bike goes home.
 
-### How much of the day does a Compustar remote start installation take?
+### Do AMS pods hold up to weather on an all-day ride?
 
-Plan on most of a day for a push-button vehicle, less for a standard key. The bypass module programming is the part that takes time. Drop the car in the morning and it is usually ready in the afternoon; waiting at the shop is fine if you would rather not make two trips.
+The pods carry Hertz Neo motorcycle speakers, which use a compact neodymium magnet and are built to be rained on. The leads are soldered with quick disconnects and tied off along the frame, so nothing chafes loose over a long day of vibration and heat.
 
-### Is the shop trustworthy enough to leave the car for the day?
+### Can an Arcadia rider get the pods, amp and speakers done in one visit?
 
-Judge it by the record: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Owners have driven in from Temecula and left the car for the day. Nick writes the quote before anything is opened, and the price you are told is the price you pay.
+Yes, if the pods are ordered ahead. With the pair already built, an amplifier, fairing speaker replacement and pods install is usually a single day. Adding a head unit and cut bag lids stretches it to as long as ten business days, which Nick confirms when the bike is in the bay.
+
+### What does the first conversation with Nick need to cover?
+
+Your model year, which of the three baggers you ride, whether the radio is factory, and a photo of the fairing and lids if anything is aftermarket. From that Nick sketches the build and a timeline; the final numbers are set on the bike at the shop.
 
 ## Prices as of October 2026
 
-Viper 3108V alarm $269 installed. Compustar 9910 remote start from $499. Window tint Solar $249 or Solar Ceramic $329 installed. Trackers, cameras and audio work are quoted on the vehicle. Payment plan available, ask Nick.
+- AMS lower-fairing pods: from $649 a pair, chrome or gloss, bracket and screws included, as of October 2026.
+- Amplifier installation and tuning, fairing speaker replacement, head units and bag-lid bass are priced on the bike at the shop. Payment plan available, ask Nick.
 
-## Nearby cities we also serve
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
-[Temple City](/temple-city/) · [Monrovia](/monrovia/) · [Sierra Madre](/sierra-madre/) · [Pasadena](/pasadena/) · [San Marino](/san-marino/)
+## Nearby cities
 
-## Schedule from Arcadia
+Other AMS Pods pages for riders near Arcadia: [Temple City](/amspods/bagger-audio-temple-city/), [Altadena](/amspods/bagger-audio-altadena/), [La Canada Flintridge](/amspods/bagger-audio-la-canada-flintridge/) and [Duarte](/amspods/bagger-audio-duarte/).
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio MotorSports is at 22025 S Avalon Blvd Ste A in Carson, CA 90745, open Mon-Sat 9:30-18:00, Sunday closed.
+## Book the ride from Arcadia
+
+Call (213) 429-1092 or text (213) 429-1092 before you leave so the bay is held for you. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -64,10 +73,10 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio 
  "@graph": [
   {
    "@type": "WebPage",
-   "@id": "https://www.audiomotorsports.com/arcadia/#webpage",
-   "url": "https://www.audiomotorsports.com/arcadia/",
-   "name": "Alarm & Remote Start Install, Arcadia | Audio MotorSports",
-   "description": "Viper alarm installation, Compustar remote start, GPS trackers and window tint for Arcadia drivers at Audio MotorSports in Carson. (310) 513-8800.",
+   "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-arcadia/#webpage",
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-arcadia/",
+   "name": "Harley Bagger Audio Arcadia | AMS Pods",
+   "description": "Long-ride Harley bagger audio for Arcadia riders: AMS lower-fairing pods, amplifier installation and tuning at Audio MotorSports in Carson. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -75,7 +84,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio 
   },
   {
    "@type": "BreadcrumbList",
-   "@id": "https://www.audiomotorsports.com/arcadia/#breadcrumb",
+   "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-arcadia/#breadcrumb",
    "itemListElement": [
     {
      "@type": "ListItem",
@@ -87,58 +96,58 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio 
      "@type": "ListItem",
      "position": 2,
      "name": "Locations",
-     "item": "https://www.audiomotorsports.com/amspods/"
+     "item": "https://www.audiomotorsports.com/locations/"
     },
     {
      "@type": "ListItem",
      "position": 3,
      "name": "Arcadia",
-     "item": "https://www.audiomotorsports.com/arcadia/"
+     "item": "https://www.audiomotorsports.com/amspods/bagger-audio-arcadia/"
     }
    ]
   },
   {
    "@type": "FAQPage",
-   "@id": "https://www.audiomotorsports.com/arcadia/#faq",
+   "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-arcadia/#faq",
    "mainEntity": [
     {
      "@type": "Question",
-     "name": "Why drive from Arcadia for a car alarm installation?",
+     "name": "Is an hour from Arcadia too far for a pods install?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Because an alarm is only as good as where the installer hides it. A module tucked next to the fuse panel is easy to find and cut; one buried in the dash with the wiring blended into the factory harness is not. The Viper 3108V is $269 installed as of October 2026 for that kind of install."
+      "text": "No. Riders cover far more than that to get to this shop, and the pods are built in the same building, so one ride down handles the fitting. Order the pair by phone with your year and model, let the three-week build run, then make the Arcadia trip once for the install."
      }
     },
     {
      "@type": "Question",
-     "name": "What does a Compustar installation include for a push-button car?",
+     "name": "Why does a bagger system fall apart on long rides?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "The remote start module, a bypass module that satisfies the immobilizer, the brake and hood safety circuits, and a demonstration before you leave. Compustar 9910 installs start from $499 as of October 2026. The car still needs the fob inside to shift and drive, so the remote start cannot be used to steal it."
+      "text": "Heat, wind and time. A system set up loud in a driveway runs out of clean power twenty minutes into a freeway stretch and starts to distort. The shop tunes gains and crossovers with the engine running and the fairing closed, then checks the setting on a ride before the bike goes home."
      }
     },
     {
      "@type": "Question",
-     "name": "Can I get a GPS tracker installation and an alarm at the same time?",
+     "name": "Do AMS pods hold up to weather on an all-day ride?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes, and they work well together. The alarm handles the deterrent and the starter interrupt, and the tracker tells you where the car is if someone tows it. Both are wired to constant power, hidden, and tested on your phone before you head back to Arcadia."
+      "text": "The pods carry Hertz Neo motorcycle speakers, which use a compact neodymium magnet and are built to be rained on. The leads are soldered with quick disconnects and tied off along the frame, so nothing chafes loose over a long day of vibration and heat."
      }
     },
     {
      "@type": "Question",
-     "name": "How much of the day does a Compustar remote start installation take?",
+     "name": "Can an Arcadia rider get the pods, amp and speakers done in one visit?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Plan on most of a day for a push-button vehicle, less for a standard key. The bypass module programming is the part that takes time. Drop the car in the morning and it is usually ready in the afternoon; waiting at the shop is fine if you would rather not make two trips."
+      "text": "Yes, if the pods are ordered ahead. With the pair already built, an amplifier, fairing speaker replacement and pods install is usually a single day. Adding a head unit and cut bag lids stretches it to as long as ten business days, which Nick confirms when the bike is in the bay."
      }
     },
     {
      "@type": "Question",
-     "name": "Is the shop trustworthy enough to leave the car for the day?",
+     "name": "What does the first conversation with Nick need to cover?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Judge it by the record: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Owners have driven in from Temecula and left the car for the day. Nick writes the quote before anything is opened, and the price you are told is the price you pay."
+      "text": "Your model year, which of the three baggers you ride, whether the radio is factory, and a photo of the fairing and lids if anything is aftermarket. From that Nick sketches the build and a timeline; the final numbers are set on the bike at the shop."
      }
     }
    ]
@@ -147,5 +156,6 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio 
 }
 ```
 [CONFIRM]
-- SHOP NOTE slot in the route block (Nick: Arcadia customers, routes or jobs).
-- Drive time: 51-61 minutes computed at 25-30 mph from the 25.3-mile figure.
+- SHOP NOTE slot in the ride-in section needs 2-3 sentences from Nick about Arcadia riders.
+- Drive time 50 to 60 minutes from Arcadia is computed at 25-30 mph from the 25.3-mile figure; confirm.
+- The live URL /amspods/bagger-audio-arcadia/ currently serves the LA Car Alarm Arcadia page (canonical /alarm/car-alarm-arcadia/), so no AMS Pods local details were available; page written from the work order.

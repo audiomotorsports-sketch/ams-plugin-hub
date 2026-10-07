@@ -4,7 +4,7 @@ city: Rosemead
 miles: 20.4
 lead_service: window tinting (privacy and heat)
 title: Window Tinting Rosemead | LA Car Tint by Audio MotorSports
-meta: Window tinting and ceramic window tint for Rosemead drivers, hand-cut and installed by Audio MotorSports in Carson, 20.4 miles away. Call (310) 513-8800.
+meta: Window tinting and ceramic window tint for Rosemead drivers, hand-cut and installed by Audio MotorSports in Carson, 20.4 miles away. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Window Tinting for Rosemead Drivers, by Audio MotorSports in Carson
@@ -26,15 +26,18 @@ The drive is about 20.4 miles, roughly forty-five minutes (approx) outside peak 
 
 [SHOP NOTE: 2-3 sentences from Nick about Rosemead customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+Plenty of Rosemead drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Rosemead customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Rosemead traffic sends you.
+
 ## Rosemead drivers ask
 
 ### What makes a Rosemead driver pick Audio MotorSports for window tinting?
 
-Film cut on the glass by hand, edges sealed, prices posted with a date, and a record anyone can check: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Done once, done right. A forty-five minute drive for work that never needs redoing is fair.
+Film cut on the glass by hand, edges sealed, prices posted with a date, and a record anyone can check: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Done once, done right. A forty-five minute drive for work that never needs redoing is fair.
 
 ### Do I need to book, or can I drive in from Rosemead without calling?
 
-Book first. The shop runs one bay, so a scheduled time means your car goes in on arrival instead of waiting behind someone else. Call (310) 513-8800 or text (213) 429-1092. Give us the vehicle and the film you want, and we will confirm a time that suits you.
+Book first. The shop runs one bay, so a scheduled time means your car goes in on arrival instead of waiting behind someone else. Call (213) 429-1092 or text (213) 429-1092. Give us the vehicle and the film you want, and we will confirm a time that suits you.
 
 ### How does ceramic film keep a car cooler?
 
@@ -61,7 +64,7 @@ Solar window tinting $249 installed; Solar Ceramic window tinting $329 installed
 
 ## Book it
 
-Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
+Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
 
 ```json
 {
@@ -72,7 +75,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-rosemead/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-rosemead/",
    "name": "Window Tinting Rosemead | LA Car Tint by Audio MotorSports",
-   "description": "Window tinting and ceramic window tint for Rosemead drivers, hand-cut and installed by Audio MotorSports in Carson, 20.4 miles away. Call (310) 513-8800.",
+   "description": "Window tinting and ceramic window tint for Rosemead drivers, hand-cut and installed by Audio MotorSports in Carson, 20.4 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -112,7 +115,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "What makes a Rosemead driver pick Audio MotorSports for window tinting?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Film cut on the glass by hand, edges sealed, prices posted with a date, and a record anyone can check: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Done once, done right. A forty-five minute drive for work that never needs redoing is fair."
+      "text": "Film cut on the glass by hand, edges sealed, prices posted with a date, and a record anyone can check: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Done once, done right. A forty-five minute drive for work that never needs redoing is fair."
      }
     },
     {
@@ -120,7 +123,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "Do I need to book, or can I drive in from Rosemead without calling?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Book first. The shop runs one bay, so a scheduled time means your car goes in on arrival instead of waiting behind someone else. Call (310) 513-8800 or text (213) 429-1092. Give us the vehicle and the film you want, and we will confirm a time that suits you."
+      "text": "Book first. The shop runs one bay, so a scheduled time means your car goes in on arrival instead of waiting behind someone else. Call (213) 429-1092 or text (213) 429-1092. Give us the vehicle and the film you want, and we will confirm a time that suits you."
      }
     },
     {

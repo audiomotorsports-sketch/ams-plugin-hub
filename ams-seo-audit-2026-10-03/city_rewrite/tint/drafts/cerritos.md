@@ -4,7 +4,7 @@ city: Cerritos
 miles: 11.7
 lead_service: car window tint
 title: Car Window Tint Cerritos | LA Car Tint, Carson
-meta: Car window tint for Cerritos family SUVs and sedans, Solar and Solar Ceramic film installed at Audio MotorSports, Carson, 11.7 miles away. Call (310) 513-8800.
+meta: Car window tint for Cerritos family SUVs and sedans, Solar and Solar Ceramic film installed at Audio MotorSports, Carson, 11.7 miles away. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Window Tint for Cerritos Families, by Audio MotorSports, Carson
@@ -26,6 +26,9 @@ About 11.7 miles, around twenty-five minutes (approx) when traffic is light. The
 
 [SHOP NOTE: 2-3 sentences from Nick about Cerritos customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Cerritos customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Cerritos.
+
 ## Cerritos parents ask
 
 ### Will tint on the back windows actually keep kids cooler in a Cerritos SUV?
@@ -46,7 +49,7 @@ Easily. The drive is about 11.7 miles, around twenty-five minutes outside rush h
 
 ### Does a cheaper tint job on a family car really come back to bite you?
 
-Often. Pattern-cut film laid in a hurry lifts at the edges, bubbles in summer and turns purple over time, and the fix is a full removal and redo. This shop cuts on the glass and holds Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Often. Pattern-cut film laid in a hurry lifts at the edges, bubbles in summer and turns purple over time, and the fix is a full removal and redo. This shop cuts on the glass and holds Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Prices, as of October 2026
 
@@ -62,7 +65,7 @@ Solar window tint $249 installed and Solar Ceramic $329 installed, as of October
 
 ## Book it
 
-Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
+Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
 
 ```json
 {
@@ -73,7 +76,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-cerritos/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-cerritos/",
    "name": "Car Window Tint Cerritos | LA Car Tint, Carson",
-   "description": "Car window tint for Cerritos family SUVs and sedans, Solar and Solar Ceramic film installed at Audio MotorSports, Carson, 11.7 miles away. Call (310) 513-8800.",
+   "description": "Car window tint for Cerritos family SUVs and sedans, Solar and Solar Ceramic film installed at Audio MotorSports, Carson, 11.7 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -145,7 +148,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "Does a cheaper tint job on a family car really come back to bite you?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Often. Pattern-cut film laid in a hurry lifts at the edges, bubbles in summer and turns purple over time, and the fix is a full removal and redo. This shop cuts on the glass and holds Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026."
+      "text": "Often. Pattern-cut film laid in a hurry lifts at the edges, bubbles in summer and turns purple over time, and the fix is a full removal and redo. This shop cuts on the glass and holds Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026."
      }
     }
    ]

@@ -4,7 +4,7 @@ city: Reseda
 miles: 30.1
 lead_service: AMS lower-fairing pod installation
 title: AMS Pods Install for Reseda Harley Riders | AMS Pods
-meta: AMS lower-fairing pod installation for Reseda Harley riders: pods built and fitted at Audio MotorSports in Carson, amp tuned on the bike. Call (310) 513-8800.
+meta: AMS lower-fairing pod installation for Reseda Harley riders: pods built and fitted at Audio MotorSports in Carson, amp tuned on the bike. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # AMS Lower-Fairing Pod Installation for Reseda Riders
@@ -26,6 +26,9 @@ For the car in the driveway, Audio MotorSports also does car stereo and CarPlay 
 ## Reseda to the shop
 
 Reseda to Carson is 30.1 miles, roughly 60 to 72 minutes at normal speeds (approx). Book first, then ride in and leave the bike, or wait at the shop if it is a pods-only day. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed. Riders come from much farther than the Valley; one has called from as far as San Jose.
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Reseda drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. The shop is LGBTQ-friendly and everyone from Reseda is welcome, as our Google and Yelp listings state. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Reseda traffic sends you.
 
 ## Reseda riders ask
 
@@ -54,7 +57,7 @@ The crash-bar mount is the same across the three bikes. The difference is where 
 - AMS pods from $649 a pair, chrome or gloss, bracket and screws included, as of October 2026.
 - Pod installation, amplifier installation and tuning, speakers and head units are quoted at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby cities
 
@@ -62,7 +65,7 @@ Other AMS Pods pages nearby: [Tarzana](/amspods/bagger-audio-tarzana/), [Winnetk
 
 ## Order pods from Reseda
 
-Call (310) 513-8800 or text (213) 429-1092. 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -73,7 +76,7 @@ Call (310) 513-8800 or text (213) 429-1092. 22025 S Avalon Blvd Ste A, Carson, C
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-reseda/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-reseda/",
    "name": "AMS Pods Install for Reseda Harley Riders | AMS Pods",
-   "description": "AMS lower-fairing pod installation for Reseda Harley riders: pods built and fitted at Audio MotorSports in Carson, amp tuned on the bike. Call (310) 513-8800.",
+   "description": "AMS lower-fairing pod installation for Reseda Harley riders: pods built and fitted at Audio MotorSports in Carson, amp tuned on the bike. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

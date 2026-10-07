@@ -4,7 +4,7 @@ city: Hawthorne
 miles: 8.0
 lead_service: Compustar remote start installation
 title: Remote Start & Alarm Installation, Hawthorne | LA Car Alarm
-meta: Compustar remote start installation and Viper car alarms for Hawthorne drivers at LA Car Alarm by Audio MotorSports, Carson, 8 miles away. Call (310) 513-8800.
+meta: Compustar remote start installation and Viper car alarms for Hawthorne drivers at LA Car Alarm by Audio MotorSports, Carson, 8 miles away. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Compustar Remote Start Installation for Hawthorne
@@ -22,6 +22,9 @@ LA Car Alarm is the security side of Audio MotorSports at 22025 S Avalon Blvd St
 **Dash camera installation.** Front and rear, fused into a circuit so parking mode keeps watching after you walk away, with no cord dangling over the dash.
 
 One cross-sell line, and then back to security: window tint, car stereo installation and CarPlay are done under the same roof if you want to combine trips.
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Hawthorne drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Hawthorne customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Hawthorne. A good number of Hawthorne customers are SpaceX employees and engineers who book a lunch-hour drop-off and pick up after work.
 
 ## The drive from Hawthorne
 
@@ -54,7 +57,7 @@ Yes. Compustar supports a phone module that lets you start, lock and locate the 
 
 GPS trackers, dash cameras and phone modules are quoted at the shop for your vehicle. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby cities we serve
 
@@ -66,7 +69,7 @@ Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
 
 ## Book it
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

@@ -5,7 +5,7 @@ miles: 11.3
 lead_service: Tesla window tint (glass roof heat)
 source: hub-mounted copy; standalone www host not verified
 title: Bell Gardens Tesla Tint for Heat | Tesla Tint LA
-meta: Tesla window tint for Bell Gardens owners tired of glass-roof heat: ceramic film hand-cut at Audio MotorSports in Carson, 11.3 miles away. Call (310) 513-8800 or text (213) 429-1092.
+meta: Tesla window tint for Bell Gardens owners tired of glass-roof heat: ceramic film hand-cut at Audio MotorSports in Carson, 11.3 miles away. Call (213) 429-1092 or text (213) 429-1092.
 ---
 # Tesla Window Tint for Bell Gardens: Taking the Heat Out of the Glass Roof
 
@@ -28,6 +28,9 @@ While the Tesla is here, Audio MotorSports can install a dash camera, a GPS trac
 About 11.3 miles, 23 to 27 minutes outside rush hour (approx). Hours are Monday through Saturday, 9:30 AM to 6:00 PM, closed Sunday. Book a time first, then drop the car for the day or wait at the shop until it is done.
 
 [SHOP NOTE: 2-3 sentences from Nick about Bell Gardens customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Bell Gardens job is finished. The shop is LGBTQ-friendly and everyone from Bell Gardens is welcome, as our Google and Yelp listings state. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Bell Gardens.
 
 ## Bell Gardens Tesla heat and tint questions
 
@@ -53,7 +56,7 @@ No. The camera zones on the glass are masked and left clear, and the ceramic fil
 
 ## Pricing
 
-Tesla tint, with or without the roof, is quoted by model at the shop; text the year and model and Nick will reply. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Tesla tint, with or without the roof, is quoted by model at the shop; text the year and model and Nick will reply. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near Bell Gardens
 
@@ -65,7 +68,7 @@ Tesla tint, with or without the roof, is quoted by model at the shop; text the y
 
 ## Book from Bell Gardens
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -76,7 +79,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-bell-gardens/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-bell-gardens/",
    "name": "Bell Gardens Tesla Tint for Heat | Tesla Tint LA",
-   "description": "Tesla window tint for Bell Gardens owners tired of glass-roof heat: ceramic film hand-cut at Audio MotorSports in Carson, 11.3 miles away. Call (310) 513-8800 or text (213) 429-1092.",
+   "description": "Tesla window tint for Bell Gardens owners tired of glass-roof heat: ceramic film hand-cut at Audio MotorSports in Carson, 11.3 miles away. Call (213) 429-1092 or text (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

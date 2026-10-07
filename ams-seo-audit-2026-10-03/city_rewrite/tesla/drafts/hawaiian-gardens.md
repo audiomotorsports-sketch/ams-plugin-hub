@@ -5,7 +5,7 @@ miles: 11.0
 lead_service: Tesla window tint (new-delivery tint)
 source: hub-mounted copy; standalone www host not verified
 title: New Tesla Tint, Hawaiian Gardens | Tesla Tint LA
-meta: New-delivery Tesla window tint for Hawaiian Gardens owners at Audio MotorSports in Carson, 11 miles away. Ceramic film on bare glass. Call (310) 513-8800 to book.
+meta: New-delivery Tesla window tint for Hawaiian Gardens owners at Audio MotorSports in Carson, 11 miles away. Ceramic film on bare glass. Call (213) 429-1092 to book.
 ---
 # New-Delivery Tesla Window Tint for Hawaiian Gardens Owners
 
@@ -28,6 +28,9 @@ Audio MotorSports can add a dash camera, a GPS tracker or a Compustar remote sta
 About 11 miles, roughly 22 to 26 minutes outside rush hour (approx). Open Monday through Saturday, 9:30 AM to 6:00 PM; Sunday closed. Set an appointment, then drop the car off or wait at the shop. People drive to us from more than 100 miles away for Tesla tint, so Hawaiian Gardens is a quick one.
 
 [SHOP NOTE: 2-3 sentences from Nick about Hawaiian Gardens customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Hawaiian Gardens customers tell us makes the drop-off painless. The shop is LGBTQ-friendly and everyone from Hawaiian Gardens is welcome, as our Google and Yelp listings state. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Hawaiian Gardens traffic sends you.
 
 ## Hawaiian Gardens new-Tesla questions
 
@@ -53,7 +56,7 @@ Keep the windows up for a few days while the film cures, and leave the rear defr
 
 ## Pricing
 
-A new Tesla is quoted by model at the shop; text the model and we will send a figure. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Add-ons are quoted at the shop. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+A new Tesla is quoted by model at the shop; text the model and we will send a figure. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Add-ons are quoted at the shop. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near Hawaiian Gardens
 
@@ -65,7 +68,7 @@ A new Tesla is quoted by model at the shop; text the model and we will send a fi
 
 ## Book the new car in
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -76,7 +79,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-hawaiian-gardens/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-hawaiian-gardens/",
    "name": "New Tesla Tint, Hawaiian Gardens | Tesla Tint LA",
-   "description": "New-delivery Tesla window tint for Hawaiian Gardens owners at Audio MotorSports in Carson, 11 miles away. Ceramic film on bare glass. Call (310) 513-8800 to book.",
+   "description": "New-delivery Tesla window tint for Hawaiian Gardens owners at Audio MotorSports in Carson, 11 miles away. Ceramic film on bare glass. Call (213) 429-1092 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

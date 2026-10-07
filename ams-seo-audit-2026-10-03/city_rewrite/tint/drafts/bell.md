@@ -4,7 +4,7 @@ city: Bell
 miles: 11.3
 lead_service: window tinting (glare on the commute)
 title: Bell Window Tinting | LA Car Tint by Audio MotorSports
-meta: Window tinting and ceramic window tint for Bell drivers, hand-cut and installed by Audio MotorSports in Carson, 11.3 miles from Bell. Call (310) 513-8800.
+meta: Window tinting and ceramic window tint for Bell drivers, hand-cut and installed by Audio MotorSports in Carson, 11.3 miles from Bell. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Window Tinting for Bell Commuters
@@ -22,6 +22,9 @@ Bell drivers spend a lot of time on crowded roads with low sun in their eyes, an
 ## Getting here from Bell
 
 Bell to the shop runs roughly 11.3 miles, about a 23 to 27 minute drive outside rush hour (approx). Book a time by call or text, then leave the car with us or wait while it is done. The shop is open Monday to Saturday from 9:30 a.m. to 6:00 p.m. and closed Sunday. [SHOP NOTE: 2-3 sentences from Nick about Bell customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Bell customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. Bell customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Coming from Bell, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Bell window tinting FAQ
 
@@ -47,7 +50,7 @@ Yes. The cab doors get the legal shade, sliding rear windows are done panel by p
 
 ## Window tint prices for Bell
 
-Solar, four doors plus rear glass: $249 installed. Solar Ceramic, same coverage: $329 installed. Both are as of October 2026. Trucks, vans, SUVs, windshield strips and Tesla roof glass are quoted at the counter. Payment plan available, ask Nick. The review record as of October 2026: Google 4.8 (650+ reviews), Yelp 4.7 (770+ reviews).
+Solar, four doors plus rear glass: $249 installed. Solar Ceramic, same coverage: $329 installed. Both are as of October 2026. Trucks, vans, SUVs, windshield strips and Tesla roof glass are quoted at the counter. Payment plan available, ask Nick. The review record as of October 2026: Google 4.8 (654 reviews), Yelp 4.7 (777 reviews).
 
 ## Tint pages near Bell
 
@@ -55,7 +58,7 @@ Solar, four doors plus rear glass: $249 installed. Solar Ceramic, same coverage:
 
 ## Schedule from Bell
 
-Call (310) 513-8800 or text (213) 429-1092. The shop is Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00 and closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. The shop is Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00 and closed Sunday.
 
 ```json
 {

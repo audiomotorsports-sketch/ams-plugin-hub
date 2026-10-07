@@ -5,7 +5,7 @@ miles: 6.0
 lead_service: Tesla window tint (Model 3)
 source: hub-mounted copy; standalone www host not verified
 title: Model 3 Window Tint for Willowbrook Owners | Tesla Tint LA
-meta: Model 3 ceramic window tint for Willowbrook Tesla owners, plus Model Y, S and X. Audio MotorSports in Carson, 6 miles away. Call (310) 513-8800 to book.
+meta: Model 3 ceramic window tint for Willowbrook Tesla owners, plus Model Y, S and X. Audio MotorSports in Carson, 6 miles away. Call (213) 429-1092 to book.
 ---
 # Model 3 Window Tint for Willowbrook Tesla Owners
 
@@ -28,6 +28,9 @@ Audio MotorSports also installs dash cameras and GPS trackers on Teslas and does
 Willowbrook is about 6 miles from the shop, roughly 12 to 14 minutes outside rush hour (approx). Open Monday through Saturday 9:30 AM to 6:00 PM, closed Sunday. Book an appointment, then wait at the shop or drop the Model 3 off and come back when it is done.
 
 [SHOP NOTE: 2-3 sentences from Nick about Willowbrook customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Willowbrook drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. The shop is LGBTQ-friendly and everyone from Willowbrook is welcome, as our Google and Yelp listings state. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Willowbrook.
 
 ## Willowbrook Model 3 tint questions
 
@@ -53,7 +56,7 @@ No. The windshield camera cluster and the side repeaters are masked and the film
 
 ## Pricing
 
-Model 3 and every other Tesla are quoted by model at the shop; text the year and model to get yours. For a non-Tesla, as of October 2026, Solar window tint is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Model 3 and every other Tesla are quoted by model at the shop; text the year and model to get yours. For a non-Tesla, as of October 2026, Solar window tint is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near Willowbrook
 
@@ -65,7 +68,7 @@ Model 3 and every other Tesla are quoted by model at the shop; text the year and
 
 ## Book your appointment
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -76,7 +79,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-willowbrook/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-willowbrook/",
    "name": "Model 3 Window Tint for Willowbrook Owners | Tesla Tint LA",
-   "description": "Model 3 ceramic window tint for Willowbrook Tesla owners, plus Model Y, S and X. Audio MotorSports in Carson, 6 miles away. Call (310) 513-8800 to book.",
+   "description": "Model 3 ceramic window tint for Willowbrook Tesla owners, plus Model Y, S and X. Audio MotorSports in Carson, 6 miles away. Call (213) 429-1092 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

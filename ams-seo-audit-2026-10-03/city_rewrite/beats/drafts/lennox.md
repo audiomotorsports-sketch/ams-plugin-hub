@@ -4,7 +4,7 @@ city: Lennox
 miles: 9.0
 lead_service: subwoofer installation and amplifier installation
 title: Lennox Subwoofer & Amplifier Installation | LA Car Beats
-meta: Subwoofer installation and amplifier installation for Lennox drivers at LA Car Beats by Audio MotorSports, Carson. Clean wiring, tuned. Call (310) 513-8800.
+meta: Subwoofer installation and amplifier installation for Lennox drivers at LA Car Beats by Audio MotorSports, Carson. Clean wiring, tuned. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Subwoofer and Amplifier Installation for Lennox
@@ -26,6 +26,9 @@ Lennox drivers who want real bass come to LA Car Beats, the car audio bay at Aud
 ## Coming from Lennox
 
 Lennox to Carson is about 9 miles, roughly 18 to 22 minutes outside rush hour (approx). Call ahead for an appointment, then drop off the car for the day or wait at the shop while a box and amplifier go in. Hours: Monday through Saturday 9:30 to 6:00, closed Sunday. [SHOP NOTE: 2-3 sentences from Nick about Lennox customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Lennox job is finished. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. From Lennox you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Lennox bass questions
 
@@ -51,7 +54,7 @@ Yes. A loaded Kicker box plus amplifier installation is one of the most common j
 
 ## Pricing for Lennox
 
-The Dual Kicker Comp loaded box is $249, box only, as of October 2026. Amplifier installation, subwoofer installation labor, head unit installation and speaker replacement are quoted at the shop, with a payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Window tint, car alarm installation, remote start, GPS tracking and dash camera installation share the same bay.
+The Dual Kicker Comp loaded box is $249, box only, as of October 2026. Amplifier installation, subwoofer installation labor, head unit installation and speaker replacement are quoted at the shop, with a payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Window tint, car alarm installation, remote start, GPS tracking and dash camera installation share the same bay.
 
 ## Nearby cities
 
@@ -64,7 +67,7 @@ LA Car Beats city pages for areas around Lennox:
 
 ## Book subwoofer or amplifier installation
 
-Text (213) 429-1092 or call (310) 513-8800 and tell us the car and what you want it to do. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sunday.
+Text (213) 429-1092 or call (213) 429-1092 and tell us the car and what you want it to do. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -75,7 +78,7 @@ Text (213) 429-1092 or call (310) 513-8800 and tell us the car and what you want
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-lennox/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-lennox/",
    "name": "Lennox Subwoofer & Amplifier Installation | LA Car Beats",
-   "description": "Subwoofer installation and amplifier installation for Lennox drivers at LA Car Beats by Audio MotorSports, Carson. Clean wiring, tuned. Call (310) 513-8800.",
+   "description": "Subwoofer installation and amplifier installation for Lennox drivers at LA Car Beats by Audio MotorSports, Carson. Clean wiring, tuned. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

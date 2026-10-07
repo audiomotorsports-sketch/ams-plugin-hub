@@ -6,7 +6,7 @@ lead_service: subwoofer and amplifier installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Norwalk Subwoofer & Amplifier Installation | LA Car Beats
-meta: Subwoofer installation, subwoofer upgrades and amplifier installation for Norwalk drivers at Audio MotorSports in Carson, 11.7 miles out. Call (310) 513-8800.
+meta: Subwoofer installation, subwoofer upgrades and amplifier installation for Norwalk drivers at Audio MotorSports in Carson, 11.7 miles out. Call (213) 429-1092.
 ---
 # Subwoofer and Amplifier Installation for Norwalk
 
@@ -22,7 +22,10 @@ Norwalk drivers who want bass that is wired safely and tuned properly come to LA
 
 ## From Norwalk to Carson
 
-Norwalk to the shop is about 11.7 miles, roughly 23 to 28 minutes with light traffic (approx). We are here Monday through Saturday from 9:30 to 6:00; Sunday the doors are closed. Call (310) 513-8800 or text (213) 429-1092 to schedule. Sub and amp work is normally a drop-off in the morning with pickup in the afternoon, and a simple subwoofer upgrade can be waited on. Customers drive to Carson from over 100 miles for the same bay. [SHOP NOTE: 2-3 sentences from Nick about Norwalk customers, routes or jobs]
+Norwalk to the shop is about 11.7 miles, roughly 23 to 28 minutes with light traffic (approx). We are here Monday through Saturday from 9:30 to 6:00; Sunday the doors are closed. Call (213) 429-1092 or text (213) 429-1092 to schedule. Sub and amp work is normally a drop-off in the morning with pickup in the afternoon, and a simple subwoofer upgrade can be waited on. Customers drive to Carson from over 100 miles for the same bay. [SHOP NOTE: 2-3 sentences from Nick about Norwalk customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Norwalk job is finished. Norwalk customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Norwalk traffic sends you.
 
 ## Norwalk bass questions
 
@@ -48,7 +51,7 @@ It does: window tint and ceramic window tint, car alarm installation, remote sta
 
 ## Dated pricing
 
-Dual Kicker Comp box: $249 box only as of October 2026. Amplifier installation, subwoofer installation, subwoofer upgrades and speaker replacement labor are quoted at the shop. Payment plan available, ask Nick. Norwalk customers can read Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Dual Kicker Comp box: $249 box only as of October 2026. Amplifier installation, subwoofer installation, subwoofer upgrades and speaker replacement labor are quoted at the shop. Payment plan available, ask Nick. Norwalk customers can read Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Cities near Norwalk
 
@@ -56,7 +59,7 @@ Other car stereo installation pages close to Norwalk: [Santa Fe Springs](/beats/
 
 ## Schedule your Norwalk sub install
 
-Text (213) 429-1092 or call (310) 513-8800 to book. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745; Mon-Sat 9:30-18:00, closed Sunday.
+Text (213) 429-1092 or call (213) 429-1092 to book. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745; Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -68,7 +71,7 @@ Text (213) 429-1092 or call (310) 513-8800 to book. Audio MotorSports, 22025 S A
    "name": "Norwalk Subwoofer & Amplifier Installation | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-norwalk/",
    "dateModified": "2026-10-08",
-   "description": "Subwoofer installation, subwoofer upgrades and amplifier installation for Norwalk drivers at Audio MotorSports in Carson, 11.7 miles out. Call (310) 513-8800.",
+   "description": "Subwoofer installation, subwoofer upgrades and amplifier installation for Norwalk drivers at Audio MotorSports in Carson, 11.7 miles out. Call (213) 429-1092.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

@@ -5,7 +5,7 @@ miles: 14.3
 lead_service: Tesla window tint (one-piece rear glass)
 source: hub-mounted copy; standalone www host not verified
 title: Tesla Rear Glass Tint, Boyle Heights | Tesla Tint LA
-meta: Tesla window tint for Boyle Heights: one-piece rear glass and ceramic doors, hand-cut at Audio MotorSports in Carson, 14.3 miles from Boyle Heights. Call (310) 513-8800 to book.
+meta: Tesla window tint for Boyle Heights: one-piece rear glass and ceramic doors, hand-cut at Audio MotorSports in Carson, 14.3 miles from Boyle Heights. Call (213) 429-1092 to book.
 ---
 # Tesla Window Tint for Boyle Heights, Done Right on the One-Piece Rear Glass
 
@@ -28,6 +28,9 @@ Audio MotorSports also installs car alarms, GPS trackers, dash cameras and car s
 About 14.3 miles, 29 to 34 minutes outside rush hour (approx). The shop is open Monday through Saturday, 9:30 AM to 6:00 PM, closed Sunday. Set an appointment and either wait at the shop or drop the car and come back when it is finished.
 
 [SHOP NOTE: 2-3 sentences from Nick about Boyle Heights customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Boyle Heights, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Boyle Heights.
 
 ## Boyle Heights Tesla tint questions
 
@@ -53,7 +56,7 @@ Off the car, on a glass board. Cutting on the vehicle risks the glass and the tr
 
 ## Pricing
 
-Every Tesla model is quoted at the shop, rear glass and doors together or separately; text the year and model for the figure. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Every Tesla model is quoted at the shop, rear glass and doors together or separately; text the year and model for the figure. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## More Tesla tint near Boyle Heights
 
@@ -65,7 +68,7 @@ Every Tesla model is quoted at the shop, rear glass and doors together or separa
 
 ## Book from Boyle Heights
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -76,7 +79,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-boyle-heights/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-boyle-heights/",
    "name": "Tesla Rear Glass Tint, Boyle Heights | Tesla Tint LA",
-   "description": "Tesla window tint for Boyle Heights: one-piece rear glass and ceramic doors, hand-cut at Audio MotorSports in Carson, 14.3 miles from Boyle Heights. Call (310) 513-8800 to book.",
+   "description": "Tesla window tint for Boyle Heights: one-piece rear glass and ceramic doors, hand-cut at Audio MotorSports in Carson, 14.3 miles from Boyle Heights. Call (213) 429-1092 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

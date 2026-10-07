@@ -4,7 +4,7 @@ city: Granada Hills
 miles: 33.7
 lead_service: car window tint / ceramic window tint
 title: Car Window Tint for Granada Hills | Audio MotorSports
-meta: Granada Hills car window tint and ceramic tint at Audio MotorSports in Carson, 33.7 miles away, plus car stereo, CarPlay and alarm installation. (310) 513-8800.
+meta: Granada Hills car window tint and ceramic tint at Audio MotorSports in Carson, 33.7 miles away, plus car stereo, CarPlay and alarm installation. (213) 429-1092.
 ---
 # Car Window Tint for Granada Hills Drivers
 
@@ -24,7 +24,10 @@ Granada Hills drivers bring their cars about 33.7 miles to Audio MotorSports, 22
 
 ## Granada Hills to the Carson bay
 
-Granada Hills to the shop is about 33.7 miles, a 67 to 81 minute drive outside rush hour (approx). Hours are Monday to Saturday 9:30 AM to 6:00 PM, closed Sunday. Reserve a time, then either sit in the shop while the tint goes on or hand over the keys and come back for the car later. Customers have driven from San Diego for this tint, so Granada Hills is comfortably inside the range. Granada Hills drivers can see the record before they leave: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. [SHOP NOTE: 2-3 sentences from Nick about Granada Hills customers, routes or jobs]
+Granada Hills to the shop is about 33.7 miles, a 67 to 81 minute drive outside rush hour (approx). Hours are Monday to Saturday 9:30 AM to 6:00 PM, closed Sunday. Reserve a time, then either sit in the shop while the tint goes on or hand over the keys and come back for the car later. Customers have driven from San Diego for this tint, so Granada Hills is comfortably inside the range. Granada Hills drivers can see the record before they leave: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. [SHOP NOTE: 2-3 sentences from Nick about Granada Hills customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Granada Hills drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Coming from Granada Hills, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Granada Hills window tint questions
 
@@ -58,7 +61,7 @@ Granada Hills neighbors on the same drive: [Northridge](/northridge/), [Sylmar](
 
 ## Book Granada Hills window tint
 
-Call (310) 513-8800 or text (213) 429-1092 with the car and the shade you want. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092 with the car and the shade you want. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -69,7 +72,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the car and the shade you want. 
    "@id": "https://www.audiomotorsports.com/granada-hills/#webpage",
    "url": "https://www.audiomotorsports.com/granada-hills/",
    "name": "Car Window Tint for Granada Hills | Audio MotorSports",
-   "description": "Granada Hills car window tint and ceramic tint at Audio MotorSports in Carson, 33.7 miles away, plus car stereo, CarPlay and alarm installation. (310) 513-8800.",
+   "description": "Granada Hills car window tint and ceramic tint at Audio MotorSports in Carson, 33.7 miles away, plus car stereo, CarPlay and alarm installation. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

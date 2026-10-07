@@ -5,7 +5,7 @@ city: Commerce
 miles: 13.1
 lead_service: street-parked cars
 title: Car Alarm Installation for Commerce | LA Car Alarm
-meta: Car alarm installation for street-parked Commerce cars at LA Car Alarm by Audio MotorSports in Carson, 13.1 miles. Viper, GPS trackers, dash cams. Call (310) 513-8800.
+meta: Car alarm installation for street-parked Commerce cars at LA Car Alarm by Audio MotorSports in Carson, 13.1 miles. Viper, GPS trackers, dash cams. Call (213) 429-1092.
 ---
 # Car Alarm Installation for Street-Parked Commerce Cars
 
@@ -23,6 +23,9 @@ A Commerce car that parks on the street or in an open lot by the warehouses is 1
 
 The same shop does car window tint, car stereo installation, Apple CarPlay and Android Auto, subwoofers and Harley bagger audio if you would like one trip to cover it.
 
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Commerce customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. Commerce customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Coming from Commerce, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
+
 ## Commerce to Carson
 
 Figure 26 to 31 minutes for the 13.1 miles outside rush hour (approx). Call or text for a slot, then drop the car or wait at the shop while the alarm goes in. Mon-Sat 9:30-18:00, Sunday closed. We get cars from Temecula; Commerce is a short run. [SHOP NOTE: 2-3 sentences from Nick about Commerce customers, routes or jobs]
@@ -37,7 +40,7 @@ Not once it is adjusted on your car, which is part of the installation. We set t
 
 ### Can someone silence the alarm by cutting power at the fuse panel?
 
-Not the way we wire it. The module is deep behind the dash, the siren has its own protected feed, and the starter interrupt sits in the ignition circuit. A fuse puller ends up with a car that still does not crank. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Not the way we wire it. The module is deep behind the dash, the siren has its own protected feed, and the starter interrupt sits in the ignition circuit. A fuse puller ends up with a car that still does not crank. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ### How much is the Viper alarm installation for a Commerce car?
 
@@ -57,7 +60,7 @@ Viper 3108V alarm $269 installed. Compustar 9910 remote start from $499. GPS tra
 
 ## Book a Commerce alarm install
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -122,7 +125,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. LA Car
      "name": "Can someone silence the alarm by cutting power at the fuse panel?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Not the way we wire it. The module is deep behind the dash, the siren has its own protected feed, and the starter interrupt sits in the ignition circuit. A fuse puller ends up with a car that still does not crank. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026."
+      "text": "Not the way we wire it. The module is deep behind the dash, the siren has its own protected feed, and the starter interrupt sits in the ignition circuit. A fuse puller ends up with a car that still does not crank. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026."
      }
     },
     {

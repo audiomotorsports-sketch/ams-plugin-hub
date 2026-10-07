@@ -5,7 +5,7 @@ miles: 6.0
 lead_service: car window tint (privacy angle)
 source: hub-mounted copy; standalone www host not verified
 title: Willowbrook Window Tint | LA Car Tint, Audio MotorSports
-meta: Privacy and ceramic window tint for Willowbrook cars, installed by Audio MotorSports in Carson, 6 miles away. Call (310) 513-8800 or text (213) 429-1092.
+meta: Privacy and ceramic window tint for Willowbrook cars, installed by Audio MotorSports in Carson, 6 miles away. Call (213) 429-1092 or text (213) 429-1092.
 ---
 # Car Window Tint for Willowbrook: Privacy Done Properly
 
@@ -19,7 +19,10 @@ For Willowbrook drivers who want a car that does not show what is inside, LA Car
 
 ## From Willowbrook to the shop
 
-Willowbrook sits about 6 miles from the bay, which works out to a 12 to 14 minute drive (approx) outside the commute peaks. Make an appointment by phone or text, then choose: wait in the lobby, or hand over the keys and come back later in the day. We are open 9:30 to 6:00 Monday through Saturday and closed Sundays. [SHOP NOTE: 2-3 sentences from Nick about Willowbrook customers, routes or jobs]
+Willowbrook sits about 6 miles from the bay, which works out to a 12 to 14 minute drive (approx) outside the commute peaks. Make an appointment by phone or text, then choose: wait inside, or hand over the keys and come back later in the day. We are open 9:30 to 6:00 Monday through Saturday and closed Sundays. [SHOP NOTE: 2-3 sentences from Nick about Willowbrook customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Willowbrook customers tell us makes the drop-off painless. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. Coming from Willowbrook, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Willowbrook tint questions, answered plainly
 
@@ -45,7 +48,7 @@ Leave them up for a few days. The film needs time to bond to the glass, and roll
 
 ## What Willowbrook drivers pay
 
-Standard four-door pricing is Solar $249 installed or Solar Ceramic $329 installed, as of October 2026, covering four doors and the rear glass. Larger vehicles, two-doors, removal and windshields are quoted in person. Ask Nick about the payment plan. Reviews as of October 2026: Google 4.8 with 650+ reviews, Yelp 4.7 with 770+ reviews.
+Standard four-door pricing is Solar $249 installed or Solar Ceramic $329 installed, as of October 2026, covering four doors and the rear glass. Larger vehicles, two-doors, removal and windshields are quoted in person. Ask Nick about the payment plan. Reviews as of October 2026: Google 4.8 with 654 reviews, Yelp 4.7 with 777 reviews.
 
 ## Other cities near Willowbrook
 
@@ -58,7 +61,7 @@ Car stereo installation, speaker replacement, Apple CarPlay and Android Auto ins
 
 ## Book from Willowbrook
 
-Call (310) 513-8800, or text (213) 429-1092 with a photo of the car if you like. You will find Audio MotorSports at 22025 S Avalon Blvd Ste A in Carson, CA 90745, Mon-Sat 9:30-6:00, Sunday closed.
+Call (213) 429-1092, or text (213) 429-1092 with a photo of the car if you like. You will find Audio MotorSports at 22025 S Avalon Blvd Ste A in Carson, CA 90745, Mon-Sat 9:30-6:00, Sunday closed.
 
 ```json
 {
@@ -69,7 +72,7 @@ Call (310) 513-8800, or text (213) 429-1092 with a photo of the car if you like.
       "@id": "https://www.audiomotorsports.com/tint/window-tint-willowbrook/#webpage",
       "url": "https://www.audiomotorsports.com/tint/window-tint-willowbrook/",
       "name": "Willowbrook Window Tint | LA Car Tint, Audio MotorSports",
-      "description": "Privacy and ceramic window tint for Willowbrook cars, installed by Audio MotorSports in Carson, 6 miles away. Call (310) 513-8800 or text (213) 429-1092.",
+      "description": "Privacy and ceramic window tint for Willowbrook cars, installed by Audio MotorSports in Carson, 6 miles away. Call (213) 429-1092 or text (213) 429-1092.",
       "dateModified": "2026-10-08",
       "about": {
         "@id": "https://www.audiomotorsports.com/#business"

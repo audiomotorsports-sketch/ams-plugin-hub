@@ -4,7 +4,7 @@ city: City of Industry
 miles: 27.2
 lead_service: Harley bagger audio
 title: Bagger Audio & Tint for City of Industry | Audio MotorSports
-meta: Harley bagger audio with AMS pods, window tint, car stereo and alarms for City of Industry riders and drivers at Audio MotorSports, Carson. (310) 513-8800.
+meta: Harley bagger audio with AMS pods, window tint, car stereo and alarms for City of Industry riders and drivers at Audio MotorSports, Carson. (213) 429-1092.
 ---
 # Harley Bagger Audio Installation for City of Industry
 
@@ -21,6 +21,9 @@ City of Industry riders bring their Harleys about 27.2 miles to Audio MotorSport
 **Car window tint.** Solar or Solar Ceramic, hand-cut on the glass, four doors and back window.
 
 **Head unit installation and subwoofer installation.** CarPlay decks with the factory camera kept; subs with fused power and a strapped enclosure.
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from City of Industry, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. City of Industry customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from City of Industry.
 
 ## From City of Industry to Carson
 
@@ -44,7 +47,7 @@ No. A properly sized fairing amp runs from the bike's charging system with a fus
 
 ### Can I get car window tint on my truck the same day as the bike?
 
-If both are booked, yes, but it is two vehicles so plan for a full day. Solar is $249 and Solar Ceramic $329 installed as of October 2026 on the truck. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, if you want to see how the day usually goes.
+If both are booked, yes, but it is two vehicles so plan for a full day. Solar is $249 and Solar Ceramic $329 installed as of October 2026 on the truck. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, if you want to see how the day usually goes.
 
 ## Prices as of October 2026
 
@@ -56,7 +59,7 @@ AMS Harley pods from $649 a pair. Window tint Solar $249, Solar Ceramic $329 ins
 
 ## Book from City of Industry
 
-Call (310) 513-8800 or text (213) 429-1092 with the bike or vehicle year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-18:00 and closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092 with the bike or vehicle year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-18:00 and closed Sunday.
 
 ```json
 {
@@ -67,7 +70,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the bike or vehicle year, make a
    "@id": "https://www.audiomotorsports.com/city-of-industry/#webpage",
    "url": "https://www.audiomotorsports.com/city-of-industry/",
    "name": "Bagger Audio & Tint for City of Industry | Audio MotorSports",
-   "description": "Harley bagger audio with AMS pods, window tint, car stereo and alarms for City of Industry riders and drivers at Audio MotorSports, Carson. (310) 513-8800.",
+   "description": "Harley bagger audio with AMS pods, window tint, car stereo and alarms for City of Industry riders and drivers at Audio MotorSports, Carson. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {
@@ -142,7 +145,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the bike or vehicle year, make a
      "name": "Can I get car window tint on my truck the same day as the bike?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "If both are booked, yes, but it is two vehicles so plan for a full day. Solar is $249 and Solar Ceramic $329 installed as of October 2026 on the truck. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, if you want to see how the day usually goes."
+      "text": "If both are booked, yes, but it is two vehicles so plan for a full day. Solar is $249 and Solar Ceramic $329 installed as of October 2026 on the truck. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, if you want to see how the day usually goes."
      }
     }
    ]

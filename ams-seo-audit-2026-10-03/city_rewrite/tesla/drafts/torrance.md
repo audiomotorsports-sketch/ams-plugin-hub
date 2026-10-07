@@ -5,7 +5,7 @@ miles: 4.4
 lead_service: Tesla window tint (one-piece rear glass)
 source: hub-mounted copy; standalone www host not verified
 title: Torrance Tesla Tint, One-Piece Rear Glass | Tesla Tint LA
-meta: One-piece rear glass Tesla window tint for Torrance owners at Tesla Tint LA by Audio MotorSports, Carson, 4.4 miles away. Call (310) 513-8800 to book.
+meta: One-piece rear glass Tesla window tint for Torrance owners at Tesla Tint LA by Audio MotorSports, Carson, 4.4 miles away. Call (213) 429-1092 to book.
 ---
 # Tesla Window Tint for Torrance Owners, Rear Glass Done in One Piece
 
@@ -31,6 +31,9 @@ From Torrance it is about 4.4 miles, which comes to roughly 9 to 11 minutes outs
 
 [SHOP NOTE: 2-3 sentences from Nick about Torrance customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Torrance customers tell us makes the drop-off painless. The shop is LGBTQ-friendly and everyone from Torrance is welcome, as our Google and Yelp listings state. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Torrance traffic sends you. Torrance customers range from refinery and port workers to engineers and staff at the corporate campuses along the 405.
+
 ## Questions Torrance Tesla owners ask before booking
 
 ### Is the drive from Torrance worth it for one-piece rear glass tint?
@@ -55,7 +58,7 @@ Plan on the better part of a morning or afternoon, depending on the model. Doors
 
 ## Pricing
 
-Each Tesla is priced by model at the shop, so send the year and model by text for a quote. For a non-Tesla, as of October 2026, Solar tint is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Each Tesla is priced by model at the shop, so send the year and model by text for a quote. For a non-Tesla, as of October 2026, Solar tint is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby Tesla tint pages
 
@@ -67,7 +70,7 @@ Each Tesla is priced by model at the shop, so send the year and model by text fo
 
 ## Book your appointment
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -78,7 +81,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-torrance/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-torrance/",
    "name": "Torrance Tesla Tint, One-Piece Rear Glass | Tesla Tint LA",
-   "description": "One-piece rear glass Tesla window tint for Torrance owners at Tesla Tint LA by Audio MotorSports, Carson, 4.4 miles away. Call (310) 513-8800 to book.",
+   "description": "One-piece rear glass Tesla window tint for Torrance owners at Tesla Tint LA by Audio MotorSports, Carson, 4.4 miles away. Call (213) 429-1092 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

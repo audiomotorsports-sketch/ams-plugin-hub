@@ -4,7 +4,7 @@ city: Lynwood
 miles: 7.8
 lead_service: Harley bagger audio installation (AMS pods)
 title: Bagger Audio Installation, Lynwood | Audio MotorSports
-meta: Lynwood Harley bagger audio installation with AMS pods, plus car window tint, stereo and alarms at Audio MotorSports in Carson, 7.8 miles. (310) 513-8800.
+meta: Lynwood Harley bagger audio installation with AMS pods, plus car window tint, stereo and alarms at Audio MotorSports in Carson, 7.8 miles. (213) 429-1092.
 ---
 # Harley Bagger Audio Installation for Lynwood
 
@@ -24,7 +24,10 @@ Lynwood riders bring their Street Glides and Road Glides to Audio MotorSports, 2
 
 ## Riding down from Lynwood
 
-Lynwood to the Carson bay is about 7.8 miles, a 16 to 19 minute ride outside peak traffic (approx). Doors open Monday to Saturday 9:30 AM to 6:00 PM, Sunday closed. Call or text to reserve a slot; bike audio is usually a wait-at-the-shop job, while car tint and alarms are easy to drop off. Riders have made the run from Temecula for pods, so Lynwood is nothing. Riders can see what others thought first: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. [SHOP NOTE: 2-3 sentences from Nick about Lynwood customers, routes or jobs]
+Lynwood to the Carson bay is about 7.8 miles, a 16 to 19 minute ride outside peak traffic (approx). Doors open Monday to Saturday 9:30 AM to 6:00 PM, Sunday closed. Call or text to reserve a slot; bike audio is usually a wait-at-the-shop job, while car tint and alarms are easy to drop off. Riders have made the run from Temecula for pods, so Lynwood is nothing. Riders can see what others thought first: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. [SHOP NOTE: 2-3 sentences from Nick about Lynwood customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Lynwood, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. From Lynwood you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Lynwood rider and driver questions
 
@@ -58,7 +61,7 @@ Close to Lynwood and also on our books: [South Gate](/south-gate/), [Compton](/c
 
 ## Book your Lynwood bagger build
 
-Call (310) 513-8800 or text your bike or car details to (213) 429-1092. Find us at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Monday to Saturday 9:30 AM to 6:00 PM; we are closed Sunday.
+Call (213) 429-1092 or text your bike or car details to (213) 429-1092. Find us at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Monday to Saturday 9:30 AM to 6:00 PM; we are closed Sunday.
 
 ```json
 {
@@ -69,7 +72,7 @@ Call (310) 513-8800 or text your bike or car details to (213) 429-1092. Find us 
    "@id": "https://www.audiomotorsports.com/lynwood/#webpage",
    "url": "https://www.audiomotorsports.com/lynwood/",
    "name": "Bagger Audio Installation for Lynwood Riders | Audio MotorSports",
-   "description": "Lynwood Harley bagger audio installation with AMS pods, plus car window tint, stereo and alarm installs at Audio MotorSports in Carson, 7.8 miles away. Call (310) 513-8800.",
+   "description": "Lynwood Harley bagger audio installation with AMS pods, plus car window tint, stereo and alarm installs at Audio MotorSports in Carson, 7.8 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

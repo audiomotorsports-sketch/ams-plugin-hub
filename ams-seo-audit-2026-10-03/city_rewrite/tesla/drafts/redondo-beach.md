@@ -4,7 +4,7 @@ city: Redondo Beach
 miles: 7.2
 lead_service: Tesla window tint (Cybertruck)
 title: Redondo Beach Cybertruck & Tesla Tint | Tesla Tint LA
-meta: Cybertruck and Tesla window tint for Redondo Beach owners at Tesla Tint LA by Audio MotorSports in Carson, 7.2 miles away. Ceramic film. Call (310) 513-8800.
+meta: Cybertruck and Tesla window tint for Redondo Beach owners at Tesla Tint LA by Audio MotorSports in Carson, 7.2 miles away. Ceramic film. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Cybertruck and Tesla Window Tint for Redondo Beach
@@ -24,6 +24,9 @@ Redondo Beach Cybertruck owners are 7.2 miles from Tesla Tint LA, the Tesla wind
 ## Redondo Beach to the shop
 
 About 7.2 miles, roughly 14 to 17 minutes outside rush hour (approx). Open Monday through Saturday, 9:30 to 6:00; closed Sunday. Set a time, then wait at the shop or drop the truck and come back. [SHOP NOTE: 2-3 sentences from Nick about Redondo Beach customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Redondo Beach customers tell us makes the drop-off painless. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Coming from Redondo Beach, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Redondo Beach Cybertruck and Tesla questions
 
@@ -49,7 +52,7 @@ Yes. Dash camera installation is a frequent add-on, with the wiring hidden along
 
 ## What it costs
 
-Cybertruck tint is its own quote, as is every Tesla model, and Nick gives it at the shop. The non-Tesla window tint reference at the same bay is Solar $249 or Solar Ceramic $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Cybertruck tint is its own quote, as is every Tesla model, and Nick gives it at the shop. The non-Tesla window tint reference at the same bay is Solar $249 or Solar Ceramic $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby Tesla tint pages
 
@@ -57,7 +60,7 @@ Cybertruck tint is its own quote, as is every Tesla model, and Nick gives it at 
 
 ## Book the truck
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

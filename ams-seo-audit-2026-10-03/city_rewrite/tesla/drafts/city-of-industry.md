@@ -5,7 +5,7 @@ miles: 27.2
 lead_service: Tesla window tint (Cybertruck)
 source: hub-mounted copy; standalone www host not verified
 title: Cybertruck Tint, City of Industry | Tesla Tint LA
-meta: Cybertruck and Tesla window tint for City of Industry owners, ceramic film hand-cut at Audio MotorSports in Carson, 27.2 miles away. Call (310) 513-8800 or text (213) 429-1092 to book.
+meta: Cybertruck and Tesla window tint for City of Industry owners, ceramic film hand-cut at Audio MotorSports in Carson, 27.2 miles away. Call (213) 429-1092 or text (213) 429-1092 to book.
 ---
 # Cybertruck and Tesla Window Tint for City of Industry
 
@@ -28,6 +28,9 @@ Audio MotorSports also handles car alarm installation, remote start installation
 Plan on about 27.2 miles and roughly 54 to 65 minutes outside rush hour (approx). We are open Monday through Saturday, 9:30 AM to 6:00 PM, and closed Sunday. Book a morning appointment, then drop the truck or wait at the shop. The shop is near the beach in Carson and people drive in from over 100 miles away, so this is an ordinary trip.
 
 [SHOP NOTE: 2-3 sentences from Nick about City of Industry customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from City of Industry, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. City of Industry customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Coming from City of Industry, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## City of Industry Cybertruck and Tesla tint questions
 
@@ -53,7 +56,7 @@ Because the film is hand-cut to the glass rather than a plotter pattern trimmed 
 
 ## Pricing
 
-The Cybertruck and every other Tesla are quoted by model at the shop; text the year and model to get a number. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+The Cybertruck and every other Tesla are quoted by model at the shop; text the year and model to get a number. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby Tesla tint pages
 
@@ -65,7 +68,7 @@ The Cybertruck and every other Tesla are quoted by model at the shop; text the y
 
 ## Book from City of Industry
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -76,7 +79,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-city-of-industry/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-city-of-industry/",
    "name": "Cybertruck Tint, City of Industry | Tesla Tint LA",
-   "description": "Cybertruck and Tesla window tint for City of Industry owners, ceramic film hand-cut at Audio MotorSports in Carson, 27.2 miles away. Call (310) 513-8800 or text (213) 429-1092 to book.",
+   "description": "Cybertruck and Tesla window tint for City of Industry owners, ceramic film hand-cut at Audio MotorSports in Carson, 27.2 miles away. Call (213) 429-1092 or text (213) 429-1092 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

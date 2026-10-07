@@ -4,7 +4,7 @@ city: Long Beach
 miles: 5.7
 lead_service: car alarm & remote start installation
 title: Car Alarm & Remote Start, Long Beach | Audio MotorSports
-meta: Long Beach car alarm installation, Compustar remote start, window tint and car stereo installs at Audio MotorSports in Carson, 5.7 miles. Call (310) 513-8800.
+meta: Long Beach car alarm installation, Compustar remote start, window tint and car stereo installs at Audio MotorSports in Carson, 5.7 miles. Call (213) 429-1092.
 ---
 # Car Alarm Installation and Remote Start for Long Beach
 
@@ -24,7 +24,10 @@ Long Beach drivers come to Audio MotorSports in Carson for car alarm installatio
 
 ## Long Beach to the Carson shop
 
-Figure about 5.7 miles and an 11 to 14 minute drive when traffic is light (approx). Hours are Monday to Saturday, 9:30 AM to 6:00 PM; Sunday the doors are shut. Call or text to pick a slot, then either wait in the shop while we work or leave the car and pick it up later that day. Customers come from over 100 miles away for this work, so Long Beach is an easy trip. The shop's record is public: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, most of them for installs like these. [SHOP NOTE: 2-3 sentences from Nick about Long Beach customers, routes or jobs]
+Figure about 5.7 miles and an 11 to 14 minute drive when traffic is light (approx). Hours are Monday to Saturday, 9:30 AM to 6:00 PM; Sunday the doors are shut. Call or text to pick a slot, then either wait in the shop while we work or leave the car and pick it up later that day. Customers come from over 100 miles away for this work, so Long Beach is an easy trip. The shop's record is public: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, most of them for installs like these. [SHOP NOTE: 2-3 sentences from Nick about Long Beach customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Long Beach, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Long Beach is home to many of our LGBTQ customers, and everyone is welcome at the shop; it is on our Google and Yelp pages and it is how we work. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Long Beach.
 
 ## Long Beach alarm and remote start questions
 
@@ -58,7 +61,7 @@ Drivers near Long Beach who use the same shop: [Signal Hill](/signal-hill/), [La
 
 ## Set up your Long Beach alarm or remote start installation
 
-Text your year, make and model to (213) 429-1092 or call (310) 513-8800. We are at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Monday through Saturday from 9:30 AM until 6:00 PM, closed on Sunday.
+Text your year, make and model to (213) 429-1092 or call (213) 429-1092. We are at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Monday through Saturday from 9:30 AM until 6:00 PM, closed on Sunday.
 
 ```json
 {
@@ -69,7 +72,7 @@ Text your year, make and model to (213) 429-1092 or call (310) 513-8800. We are 
    "@id": "https://www.audiomotorsports.com/long-beach/#webpage",
    "url": "https://www.audiomotorsports.com/long-beach/",
    "name": "Car Alarm & Remote Start Installation, Long Beach | Audio MotorSports",
-   "description": "Long Beach car alarm installation, Compustar remote start, window tint and car stereo installs at Audio MotorSports in Carson, 5.7 miles out. Call (310) 513-8800.",
+   "description": "Long Beach car alarm installation, Compustar remote start, window tint and car stereo installs at Audio MotorSports in Carson, 5.7 miles out. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

@@ -5,7 +5,7 @@ miles: 44.0
 lead_service: Tesla window tint (Model Y)
 source: hub-mounted copy; standalone www host not verified
 title: Chino Model Y Window Tint | Tesla Tint LA
-meta: Model Y and Tesla window tint for Chino owners who want it done once: ceramic film hand-cut at Audio MotorSports in Carson, 44 miles away. Call (310) 513-8800 or text (213) 429-1092.
+meta: Model Y and Tesla window tint for Chino owners who want it done once: ceramic film hand-cut at Audio MotorSports in Carson, 44 miles away. Call (213) 429-1092 or text (213) 429-1092.
 ---
 # Model Y Window Tint for Chino Tesla Owners
 
@@ -28,6 +28,9 @@ The same Carson shop installs dash cameras, GPS trackers, car alarms with remote
 About 44 miles, roughly 88 to 106 minutes outside rush hour (approx). Hours are Monday through Saturday, 9:30 AM to 6:00 PM, closed Sunday. Book ahead and come in the morning, then drop the Y for the day or wait at the shop. Owners drive in from Temecula and San Diego, which is farther than Chino, so the trip is a normal one for this work.
 
 [SHOP NOTE: 2-3 sentences from Nick about Chino customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Chino, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Coming from Chino, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Chino Model Y tint questions
 
@@ -53,7 +56,7 @@ Yes. Each camera zone on the glass is masked and left uncovered, and the ceramic
 
 ## Pricing
 
-The Model Y and every Tesla are quoted by model at the shop; text the year and model and Nick will send the number. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+The Model Y and every Tesla are quoted by model at the shop; text the year and model and Nick will send the number. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near Chino
 
@@ -64,7 +67,7 @@ The Model Y and every Tesla are quoted by model at the shop; text the year and m
 
 ## Book from Chino
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -75,7 +78,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-chino/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-chino/",
    "name": "Chino Model Y Window Tint | Tesla Tint LA",
-   "description": "Model Y and Tesla window tint for Chino owners who want it done once: ceramic film hand-cut at Audio MotorSports in Carson, 44 miles away. Call (310) 513-8800 or text (213) 429-1092.",
+   "description": "Model Y and Tesla window tint for Chino owners who want it done once: ceramic film hand-cut at Audio MotorSports in Carson, 44 miles away. Call (213) 429-1092 or text (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

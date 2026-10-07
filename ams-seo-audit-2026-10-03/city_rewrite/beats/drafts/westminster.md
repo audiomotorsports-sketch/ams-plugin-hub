@@ -6,7 +6,7 @@ lead_service: subwoofer installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Westminster Subwoofer Installation | LA Car Beats
-meta: Subwoofer installation and amplifier installation for Westminster drivers at LA Car Beats by Audio MotorSports in Carson, 16.4 miles. Call (310) 513-8800.
+meta: Subwoofer installation and amplifier installation for Westminster drivers at LA Car Beats by Audio MotorSports in Carson, 16.4 miles. Call (213) 429-1092.
 ---
 # Subwoofer Installation for Westminster Drivers
 
@@ -22,7 +22,10 @@ Westminster drivers who want bass that hits clean come to LA Car Beats by Audio 
 
 ## Westminster to Carson
 
-Westminster to the shop is about 16.4 miles, roughly 33 to 39 minutes outside rush hour (approx). We are open Monday through Saturday from 9:30 to 6:00 and closed on Sunday. Book by phone at (310) 513-8800 or by text at (213) 429-1092. A sub and amp with new wiring is a morning drop-off; a box hooked to an existing amp can be waited on. [SHOP NOTE: 2-3 sentences from Nick about Westminster customers, routes or jobs]
+Westminster to the shop is about 16.4 miles, roughly 33 to 39 minutes outside rush hour (approx). We are open Monday through Saturday from 9:30 to 6:00 and closed on Sunday. Book by phone at (213) 429-1092 or by text at (213) 429-1092. A sub and amp with new wiring is a morning drop-off; a box hooked to an existing amp can be waited on. [SHOP NOTE: 2-3 sentences from Nick about Westminster customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Westminster job is finished. Westminster customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Westminster.
 
 ## Westminster subwoofer questions
 
@@ -48,7 +51,7 @@ The things that fail later: an unfused power wire, a ground that hums, a clipped
 
 ## Westminster pricing
 
-Dual Kicker Comp loaded box, $249, box only, as of October 2026. Subwoofer installation, subwoofer upgrades, amplifier installation, head unit installation and speaker replacement are quoted at the shop after we look at the vehicle. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Window tint and ceramic window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation, Tesla window tint and Harley bagger audio with AMS pods are done under the same roof.
+Dual Kicker Comp loaded box, $249, box only, as of October 2026. Subwoofer installation, subwoofer upgrades, amplifier installation, head unit installation and speaker replacement are quoted at the shop after we look at the vehicle. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Window tint and ceramic window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation, Tesla window tint and Harley bagger audio with AMS pods are done under the same roof.
 
 ## Orange County neighbors of Westminster
 
@@ -62,7 +65,7 @@ Nearby car stereo installation pages:
 
 ## Book your Westminster sub install
 
-Call (310) 513-8800 or text (213) 429-1092 with the vehicle details. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the vehicle details. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -74,7 +77,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the vehicle details. Audio Motor
    "name": "Westminster Subwoofer Installation | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-westminster/",
    "dateModified": "2026-10-08",
-   "description": "Subwoofer installation and amplifier installation for Westminster drivers at LA Car Beats by Audio MotorSports in Carson, 16.4 miles. Call (310) 513-8800.",
+   "description": "Subwoofer installation and amplifier installation for Westminster drivers at LA Car Beats by Audio MotorSports in Carson, 16.4 miles. Call (213) 429-1092.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

@@ -5,7 +5,7 @@ miles: 6.5
 lead_service: Tesla window tint (Model Y)
 source: hub-mounted copy; standalone www host not verified
 title: Model Y Window Tint for Lawndale | Tesla Tint LA
-meta: Tesla window tint for Lawndale Model Y owners, done in Carson by Audio MotorSports about 6.5 miles away. Ceramic film, cameras kept clear. Call (310) 513-8800.
+meta: Tesla window tint for Lawndale Model Y owners, done in Carson by Audio MotorSports about 6.5 miles away. Ceramic film, cameras kept clear. Call (213) 429-1092.
 ---
 # Model Y Window Tint for Lawndale Owners
 
@@ -28,6 +28,9 @@ Audio MotorSports also installs dash cameras, car alarms with remote start, GPS 
 It is about 6.5 miles to the shop, roughly 13 to 16 minutes outside rush hour (approx). Hours are Monday to Saturday, 9:30 AM to 6:00 PM, closed Sunday. Book an appointment first; then drop the Model Y off or wait at the shop while the film goes on. Customers come to us from over 100 miles away, so a Lawndale trip is one of the short ones.
 
 [SHOP NOTE: 2-3 sentences from Nick about Lawndale customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Lawndale customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Coming from Lawndale, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Questions Lawndale Tesla owners ask
 
@@ -53,7 +56,7 @@ Most Model Y tint jobs are done the same day; book in the morning if you want it
 
 ## Pricing
 
-Tesla window tint is quoted by model at the shop, so text us the year and model for a figure. As a non-Tesla reference, Solar is $249 and Solar Ceramic is $329 installed, as of October 2026. Other work is quoted at the shop. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Tesla window tint is quoted by model at the shop, so text us the year and model for a figure. As a non-Tesla reference, Solar is $249 and Solar Ceramic is $329 installed, as of October 2026. Other work is quoted at the shop. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near Lawndale
 
@@ -64,7 +67,7 @@ Tesla window tint is quoted by model at the shop, so text us the year and model 
 
 ## Book it
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -75,7 +78,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-lawndale/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-lawndale/",
    "name": "Model Y Window Tint for Lawndale | Tesla Tint LA",
-   "description": "Tesla window tint for Lawndale Model Y owners, done in Carson by Audio MotorSports about 6.5 miles away. Ceramic film, cameras kept clear. Call (310) 513-8800.",
+   "description": "Tesla window tint for Lawndale Model Y owners, done in Carson by Audio MotorSports about 6.5 miles away. Ceramic film, cameras kept clear. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

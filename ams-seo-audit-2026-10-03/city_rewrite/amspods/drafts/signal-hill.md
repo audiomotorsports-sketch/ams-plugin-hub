@@ -4,7 +4,7 @@ city: Signal Hill
 miles: 5.8
 lead_service: Harley bagger audio for group rides
 title: Signal Hill Harley Bagger Audio | AMS Pods, Carson
-meta: Harley bagger audio for Signal Hill riders who ride with a group: AMS lower-fairing pods, amplifier installation and tuning in Carson. Call (310) 513-8800.
+meta: Harley bagger audio for Signal Hill riders who ride with a group: AMS lower-fairing pods, amplifier installation and tuning in Carson. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Group-Ride Harley Bagger Audio for Signal Hill
@@ -26,6 +26,9 @@ Audio MotorSports also installs car stereos, Apple CarPlay and Android Auto, cer
 ## Signal Hill to Carson
 
 Signal Hill to the shop is 5.8 miles, about a 12 to 14 minute ride (approx). Set the appointment, ride in, then leave the bike or wait at the shop while it is being done. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed. One customer has called from as far as San Jose about this work; Signal Hill is a quick run by comparison.
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Signal Hill job is finished. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. Coming from Signal Hill, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Signal Hill riders ask
 
@@ -54,7 +57,7 @@ A text to (213) 429-1092 with the model year, which of the three baggers you rid
 - AMS pods from $649 a pair, chrome or gloss, as of October 2026, bracket and hardware included.
 - Amp installation with tuning, fairing speakers, radios and cut bag lids are priced on the bike when Nick sees it. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby cities
 
@@ -62,7 +65,7 @@ Other AMS Pods pages nearby: [Long Beach](/amspods/bagger-audio-long-beach/), [L
 
 ## Call or text from Signal Hill
 
-(310) 513-8800 voice, (213) 429-1092 text. 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+(213) 429-1092 voice, (213) 429-1092 text. 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -73,7 +76,7 @@ Other AMS Pods pages nearby: [Long Beach](/amspods/bagger-audio-long-beach/), [L
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-signal-hill/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-signal-hill/",
    "name": "Signal Hill Harley Bagger Audio | AMS Pods, Carson",
-   "description": "Harley bagger audio for Signal Hill riders who ride with a group: AMS lower-fairing pods, amplifier installation and tuning in Carson. Call (310) 513-8800.",
+   "description": "Harley bagger audio for Signal Hill riders who ride with a group: AMS lower-fairing pods, amplifier installation and tuning in Carson. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

@@ -4,7 +4,7 @@ city: Huntington Park
 miles: 10.9
 lead_service: factory-look car stereo installation
 title: Huntington Park Factory-Look Stereo Install | LA Car Beats
-meta: Factory-look car stereo installation and head unit installation for Huntington Park drivers at LA Car Beats by Audio MotorSports in Carson. Call (310) 513-8800.
+meta: Factory-look car stereo installation and head unit installation for Huntington Park drivers at LA Car Beats by Audio MotorSports in Carson. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Factory-Look Car Stereo Installation for Huntington Park
@@ -26,6 +26,9 @@ Huntington Park drivers who want a modern stereo without a hacked-up dash come t
 ## Huntington Park to the shop
 
 The drive from Huntington Park is about 10.9 miles, roughly 22 to 26 minutes outside rush hour (approx). Book a time, then drop the car or wait in the shop while it is done. We are open Monday to Saturday 9:30-18:00 and closed on Sunday. [SHOP NOTE: 2-3 sentences from Nick about Huntington Park customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Huntington Park customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. Coming from Huntington Park, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Huntington Park questions
 
@@ -51,7 +54,7 @@ We do. Speaker replacement is done behind the original grilles using adapter rin
 
 ## Huntington Park pricing
 
-Dual Kicker Comp loaded box, $249 box only, as of October 2026. Head unit installation, Apple CarPlay and Android Auto installation, speaker replacement, subwoofer installation and amplifier installation are quoted at the shop once we see the vehicle; payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. The same shop does window tint, car alarm installation, remote start installation, GPS tracker installation and dash camera installation.
+Dual Kicker Comp loaded box, $249 box only, as of October 2026. Head unit installation, Apple CarPlay and Android Auto installation, speaker replacement, subwoofer installation and amplifier installation are quoted at the shop once we see the vehicle; payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. The same shop does window tint, car alarm installation, remote start installation, GPS tracker installation and dash camera installation.
 
 ## Nearby cities
 
@@ -65,7 +68,7 @@ Car stereo installation pages for cities near Huntington Park:
 
 ## Book your install
 
-Call (310) 513-8800 or send a text to (213) 429-1092. LA Car Beats at Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30 to 6:00; Sunday closed.
+Call (213) 429-1092 or send a text to (213) 429-1092. LA Car Beats at Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30 to 6:00; Sunday closed.
 
 ```json
 {
@@ -76,7 +79,7 @@ Call (310) 513-8800 or send a text to (213) 429-1092. LA Car Beats at Audio Moto
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-huntington-park/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-huntington-park/",
    "name": "Huntington Park Factory-Look Stereo Install | LA Car Beats",
-   "description": "Factory-look car stereo installation and head unit installation for Huntington Park drivers at LA Car Beats by Audio MotorSports in Carson. Call (310) 513-8800.",
+   "description": "Factory-look car stereo installation and head unit installation for Huntington Park drivers at LA Car Beats by Audio MotorSports in Carson. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

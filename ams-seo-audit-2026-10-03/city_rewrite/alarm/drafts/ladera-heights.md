@@ -4,7 +4,7 @@ city: Ladera Heights
 miles: 13.0
 lead_service: dash camera installation
 title: Dash Camera & Alarm Install, Ladera Heights | LA Car Alarm
-meta: Dash camera installation, Viper alarms and Compustar remote start for Ladera Heights drivers at LA Car Alarm by Audio MotorSports in Carson. (310) 513-8800.
+meta: Dash camera installation, Viper alarms and Compustar remote start for Ladera Heights drivers at LA Car Alarm by Audio MotorSports in Carson. (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Dash Camera Installation for Ladera Heights
@@ -22,6 +22,9 @@ Ladera Heights drivers come to LA Car Alarm, the security bay at Audio MotorSpor
 **GPS tracker installation.** Hidden and hardwired, reporting location and movement to your phone.
 
 Window tint, car stereo installation and Android Auto head units are handled by the same shop, so one appointment can cover more.
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Ladera Heights, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. From Ladera Heights you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## The drive from Ladera Heights
 
@@ -54,7 +57,7 @@ Yes. The camera takes an hour or two and the alarm a half day, and both are done
 
 Dash cameras, hardwire kits and GPS trackers are quoted at the shop for your vehicle. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby city pages
 
@@ -66,7 +69,7 @@ Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
 
 ## Call or text us
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

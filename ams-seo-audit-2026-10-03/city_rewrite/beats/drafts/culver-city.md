@@ -6,7 +6,7 @@ lead_service: Apple CarPlay and Android Auto installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Culver City CarPlay & Android Auto Install | LA Car Beats
-meta: Apple CarPlay and Android Auto installation and head unit installation for Culver City at LA Car Beats, Audio MotorSports, Carson. Call (310) 513-8800.
+meta: Apple CarPlay and Android Auto installation and head unit installation for Culver City at LA Car Beats, Audio MotorSports, Carson. Call (213) 429-1092.
 ---
 # Apple CarPlay and Android Auto Installation for Culver City
 
@@ -22,7 +22,10 @@ Culver City drivers come to LA Car Beats for Apple CarPlay and Android Auto inst
 
 ## Culver City to Carson
 
-The shop is about 15.2 miles from Culver City, roughly 30 to 36 minutes outside rush hour (approx). Call (310) 513-8800 or text (213) 429-1092 to set a time. A CarPlay interface is typically a wait; head unit plus speakers plus amp is a drop-off with a text when done. Hours are Monday to Saturday 9:30 to 6:00, closed Sunday. People have driven in from San Diego for this install, so Culver City is well within range.
+The shop is about 15.2 miles from Culver City, roughly 30 to 36 minutes outside rush hour (approx). Call (213) 429-1092 or text (213) 429-1092 to set a time. A CarPlay interface is typically a wait; head unit plus speakers plus amp is a drop-off with a text when done. Hours are Monday to Saturday 9:30 to 6:00, closed Sunday. People have driven in from San Diego for this install, so Culver City is well within range.
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Culver City, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Culver City.
 
 ## Culver City CarPlay FAQ
 
@@ -48,7 +51,7 @@ Yes. Factory speakers are the weak point in most systems, and new drivers on sea
 
 ## Culver City pricing
 
-Dual Kicker Comp loaded box, $249 box only, as of October 2026. Culver City drivers get Apple CarPlay and Android Auto installation, head unit installation, speaker replacement, amplifier installation and subwoofer installation quoted at the counter by model. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. The same building also handles window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation, Tesla window tint and Harley bagger audio.
+Dual Kicker Comp loaded box, $249 box only, as of October 2026. Culver City drivers get Apple CarPlay and Android Auto installation, head unit installation, speaker replacement, amplifier installation and subwoofer installation quoted at the counter by model. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. The same building also handles window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation, Tesla window tint and Harley bagger audio.
 
 ## Westside neighbors
 
@@ -56,7 +59,7 @@ LA Car Beats pages near Culver City: [Mar Vista](/beats/car-stereo-mar-vista/) Â
 
 ## Book from Culver City
 
-Tell us the year and model and whether the screen runs climate; we will know the right route before you arrive. Call (310) 513-8800 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Tell us the year and model and whether the screen runs climate; we will know the right route before you arrive. Call (213) 429-1092 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -67,7 +70,7 @@ Tell us the year and model and whether the screen runs climate; we will know the
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-culver-city/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-culver-city/",
    "name": "Culver City CarPlay & Android Auto Install | LA Car Beats",
-   "description": "Apple CarPlay and Android Auto installation and head unit installation for Culver City at LA Car Beats, Audio MotorSports, Carson. Call (310) 513-8800.",
+   "description": "Apple CarPlay and Android Auto installation and head unit installation for Culver City at LA Car Beats, Audio MotorSports, Carson. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

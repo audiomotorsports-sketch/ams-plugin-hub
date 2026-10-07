@@ -4,7 +4,7 @@ city: Compton
 miles: 5.4
 lead_service: AMS lower-fairing pods installation
 title: Harley Bagger Audio Compton | AMS Pods
-meta: AMS Pods by Audio MotorSports in Carson installs lower-fairing pods and bagger audio for Compton riders on Street Glide and Road Glide. Call (310) 513-8800.
+meta: AMS Pods by Audio MotorSports in Carson installs lower-fairing pods and bagger audio for Compton riders on Street Glide and Road Glide. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # AMS Pods Installation for Compton Harley Riders
@@ -26,6 +26,9 @@ If the truck needs work the same week, Audio MotorSports also does window tint, 
 ## Riding in from Compton
 
 Compton to the Carson shop is about 5.4 miles, roughly 11 to 13 minutes outside rush hour (approx). Schedule first, then ride the bagger down and either leave it for the day or wait at the shop while the pods go on. Hours are Monday through Saturday 9:30 AM to 6:00 PM, Sunday closed. Riders have trailered bikes here from Temecula for this exact job, so a short hop from Compton is an easy decision. [SHOP NOTE: 2-3 sentences from Nick about Compton riders, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Compton customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Compton traffic sends you. Compton customers include Metro operators and rail-yard and port workers who book around shift changes.
 
 ## Questions Compton riders ask
 
@@ -54,7 +57,7 @@ The shop fits Hertz Neo motorcycle speakers as the standard choice. They use a c
 - AMS lower-fairing pods: from $649 a pair, chrome or gloss, bracket and screws included, as of October 2026.
 - Amplifier installation, fairing speaker replacement, head units and Road King bag amps are quoted at the shop once the bike is in the bay. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby cities
 
@@ -62,7 +65,7 @@ Riders also come in from [Gardena](/amspods/bagger-audio-gardena/), [Long Beach]
 
 ## Book your pods install
 
-Call (310) 513-8800 or text (213) 429-1092 with your year and which of the three baggers you ride. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with your year and which of the three baggers you ride. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -73,7 +76,7 @@ Call (310) 513-8800 or text (213) 429-1092 with your year and which of the three
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-compton/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-compton/",
    "name": "Harley Bagger Audio Compton | AMS Pods",
-   "description": "AMS Pods by Audio MotorSports in Carson installs lower-fairing pods and bagger audio for Compton riders on Street Glide and Road Glide. Call (310) 513-8800.",
+   "description": "AMS Pods by Audio MotorSports in Carson installs lower-fairing pods and bagger audio for Compton riders on Street Glide and Road Glide. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

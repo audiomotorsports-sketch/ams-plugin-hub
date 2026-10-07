@@ -4,7 +4,7 @@ city: Harbor City
 miles: 2.8
 lead_service: GPS tracker installation
 title: Harbor City GPS Tracker & Alarm Installation | LA Car Alarm
-meta: GPS tracker and car alarm installation for Harbor City drivers at LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd, Carson. Call (310) 513-8800.
+meta: GPS tracker and car alarm installation for Harbor City drivers at LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd, Carson. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # GPS Tracker and Car Alarm Installation for Harbor City Drivers
@@ -22,6 +22,9 @@ LA Car Alarm is the security side of Audio MotorSports at 22025 S Avalon Blvd St
 **Dash camera installation.** Front and rear cameras hardwired to a fused circuit, cable run inside the headliner and A-pillar, parking mode set so it records bumps while you are away.
 
 We also do window tint, car stereo and CarPlay installation, and Harley bagger audio under the same roof if you want to combine trips.
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Harbor City drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Harbor City customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. From Harbor City you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd. Harbor City neighbors who work the port, the refineries or the rail yard are regulars here, often dropping the car off on the way to a shift.
 
 ## The drive from Harbor City
 
@@ -54,7 +57,7 @@ A plug-in tracker in the OBD port is the first thing a thief pulls. Having it in
 
 GPS trackers, dash cameras and immobilizer add-ons are quoted at the shop on your vehicle. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby alarm pages
 
@@ -65,7 +68,7 @@ Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
 
 ## Book your Harbor City install
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

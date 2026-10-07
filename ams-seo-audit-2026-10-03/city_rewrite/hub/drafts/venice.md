@@ -4,7 +4,7 @@ city: Venice
 miles: 15.9
 lead_service: Harley bagger audio installation
 title: Harley Bagger Audio Installation, Venice | Audio MotorSports
-meta: Harley bagger audio with AMS pods, car window tint, stereo and alarm installation for Venice riders and drivers at Audio MotorSports, Carson. (310) 513-8800.
+meta: Harley bagger audio with AMS pods, car window tint, stereo and alarm installation for Venice riders and drivers at Audio MotorSports, Carson. (213) 429-1092.
 ---
 # Harley-Davidson Motorcycle Audio for Venice Riders
 
@@ -22,9 +22,12 @@ Venice riders bring their baggers to Audio MotorSports, 22025 S Avalon Blvd Ste 
 
 **Apple CarPlay and Android Auto installation.** A touchscreen that runs your phone, camera retained.
 
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Venice customers tell us makes the drop-off painless. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. From Venice you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
+
 ## Venice to Carson
 
-About 15.9 miles and roughly 32 to 38 minutes (approx) in light traffic. Riders come to this bay from over 100 miles away, so Venice is an easy run. Hours are Monday through Saturday from 9:30 AM to 6:00 PM, closed Sunday. Book a slot, then leave the bike or wait while the pods go on. Call (310) 513-8800 or text (213) 429-1092 with the year and model. Venice riders can read the reviews: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+About 15.9 miles and roughly 32 to 38 minutes (approx) in light traffic. Riders come to this bay from over 100 miles away, so Venice is an easy run. Hours are Monday through Saturday from 9:30 AM to 6:00 PM, closed Sunday. Book a slot, then leave the bike or wait while the pods go on. Call (213) 429-1092 or text (213) 429-1092 with the year and model. Venice riders can read the reviews: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 [SHOP NOTE: 2-3 sentences from Nick about Venice customers, routes or jobs]
 
@@ -71,7 +74,7 @@ Amplifier installation, fairing speaker replacement, GPS tracker installation an
 
 ## Book bagger audio from Venice
 
-Call (310) 513-8800. Text (213) 429-1092 with your bike. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, is open Mon-Sat 9:30-18:00 and closed Sunday.
+Call (213) 429-1092. Text (213) 429-1092 with your bike. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, is open Mon-Sat 9:30-18:00 and closed Sunday.
 
 ```json
 {
@@ -82,7 +85,7 @@ Call (310) 513-8800. Text (213) 429-1092 with your bike. Audio MotorSports, 2202
    "@id": "https://www.audiomotorsports.com/venice/#webpage",
    "url": "https://www.audiomotorsports.com/venice/",
    "name": "Harley Bagger Audio Installation, Venice | Audio MotorSports",
-   "description": "Harley bagger audio with AMS pods, car window tint, stereo and alarm installation for Venice riders and drivers at Audio MotorSports, Carson. (310) 513-8800.",
+   "description": "Harley bagger audio with AMS pods, car window tint, stereo and alarm installation for Venice riders and drivers at Audio MotorSports, Carson. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

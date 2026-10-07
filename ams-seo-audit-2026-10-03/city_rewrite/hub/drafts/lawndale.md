@@ -4,7 +4,7 @@ city: Lawndale
 miles: 6.5
 lead_service: alarm & remote start
 title: Car Alarm & Remote Start for Lawndale | Audio MotorSports
-meta: Car alarms, remote start, window tint and car stereo for Lawndale at Audio MotorSports in Carson, 6.5 miles out. Call (310) 513-8800 or text (213) 429-1092.
+meta: Car alarms, remote start, window tint and car stereo for Lawndale at Audio MotorSports in Carson, 6.5 miles out. Call (213) 429-1092 or text (213) 429-1092.
 ---
 # Car Alarms and Remote Start for Lawndale Drivers
 
@@ -24,7 +24,10 @@ For Lawndale drivers, Audio MotorSports installs car alarms and remote start sys
 
 ## Lawndale to the shop
 
-Count on about 6.5 miles from Lawndale, which is a thirteen to sixteen minute drive when traffic is light (approx). The shop is open 9:30 AM to 6:00 PM, Monday through Saturday, closed Sunday. Call or text to pick a time, then drop the vehicle or stay in the lobby while the alarm goes in; most Viper alarm installation and remote start installation jobs are same-day, and an alarm wired clean the first time is one you never think about again. [SHOP NOTE: 2-3 sentences from Nick about Lawndale customers, routes or jobs]
+Count on about 6.5 miles from Lawndale, which is a thirteen to sixteen minute drive when traffic is light (approx). The shop is open 9:30 AM to 6:00 PM, Monday through Saturday, closed Sunday. Call or text to pick a time, then drop the vehicle or stay inside while the alarm goes in; most Viper alarm installation and remote start installation jobs are same-day, and an alarm wired clean the first time is one you never think about again. [SHOP NOTE: 2-3 sentences from Nick about Lawndale customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Lawndale customers tell us makes the drop-off painless. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Lawndale traffic sends you.
 
 ## Alarm and remote start questions from Lawndale
 
@@ -63,7 +66,7 @@ We also serve these neighboring South Bay cities:
 
 ## Schedule from Lawndale
 
-Call (310) 513-8800, or text (213) 429-1092 with the vehicle details, and we will set a time. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Monday through Saturday 9:30 AM to 6:00 PM, closed Sundays.
+Call (213) 429-1092, or text (213) 429-1092 with the vehicle details, and we will set a time. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Monday through Saturday 9:30 AM to 6:00 PM, closed Sundays.
 
 ```json
 {
@@ -74,7 +77,7 @@ Call (310) 513-8800, or text (213) 429-1092 with the vehicle details, and we wil
    "@id": "https://www.audiomotorsports.com/lawndale/#webpage",
    "url": "https://www.audiomotorsports.com/lawndale/",
    "name": "Car Alarm & Remote Start for Lawndale | Audio MotorSports",
-   "description": "Car alarms, remote start, window tint and car stereo for Lawndale at Audio MotorSports in Carson, 6.5 miles out. Call (310) 513-8800 or text (213) 429-1092.",
+   "description": "Car alarms, remote start, window tint and car stereo for Lawndale at Audio MotorSports in Carson, 6.5 miles out. Call (213) 429-1092 or text (213) 429-1092.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

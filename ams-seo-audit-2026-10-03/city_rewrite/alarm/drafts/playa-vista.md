@@ -4,7 +4,7 @@ city: Playa Vista
 miles: 13.5
 lead_service: dash camera installation
 title: Dash Camera Installation for Playa Vista | LA Car Alarm
-meta: Dash camera installation for Playa Vista drivers at LA Car Alarm by Audio MotorSports, Carson, 13.5 miles away. Viper alarms, remote start. Call (310) 513-8800.
+meta: Dash camera installation for Playa Vista drivers at LA Car Alarm by Audio MotorSports, Carson, 13.5 miles away. Viper alarms, remote start. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Dash Camera Installation for Playa Vista Drivers
@@ -22,6 +22,9 @@ Playa Vista drivers bring their cars about 13.5 miles to LA Car Alarm at Audio M
 **GPS tracker installation.** Constant power, behind factory trim, proven on your phone before pickup.
 
 Ceramic window tint and Apple CarPlay installation are done at the same shop and can be booked into the same visit.
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Playa Vista, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Playa Vista.
 
 ## Playa Vista to Carson
 
@@ -56,7 +59,7 @@ Customers have called from as far as San Jose about this work, so a drive from P
 
 Dash cameras and GPS trackers are quoted on the vehicle at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby alarm pages
 
@@ -66,7 +69,7 @@ Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
 
 ## Book a camera install from Playa Vista
 
-Call (310) 513-8800 or text (213) 429-1092 with your year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with your year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

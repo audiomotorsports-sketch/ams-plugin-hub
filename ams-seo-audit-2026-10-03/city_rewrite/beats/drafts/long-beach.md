@@ -6,7 +6,7 @@ lead_service: factory-look head unit installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Long Beach Head Unit Installation | LA Car Beats
-meta: Factory-look head unit installation and car audio for Long Beach, done in Carson at Audio MotorSports, 5.7 miles out. LA Car Beats, (310) 513-8800.
+meta: Factory-look head unit installation and car audio for Long Beach, done in Carson at Audio MotorSports, 5.7 miles out. LA Car Beats, (213) 429-1092.
 ---
 # Factory-Look Head Unit Installation for Long Beach
 
@@ -21,7 +21,10 @@ Long Beach drivers who want a modern screen without a hacked dash come to LA Car
 
 ## Getting here from Long Beach
 
-From Long Beach the shop is about 5.7 miles, roughly 11 to 14 minutes when traffic is normal (approx). Hours are Monday to Saturday, 9:30 a.m. to 6 p.m.; Sundays we are closed. The way it works: schedule an appointment at (310) 513-8800 or by text at (213) 429-1092, bring the car in, and either hang out while the head unit goes in or drop it and pick it up later. Carson is close to the water, and we regularly see cars from Temecula and San Diego, so Long Beach is an easy run.
+From Long Beach the shop is about 5.7 miles, roughly 11 to 14 minutes when traffic is normal (approx). Hours are Monday to Saturday, 9:30 a.m. to 6 p.m.; Sundays we are closed. The way it works: schedule an appointment at (213) 429-1092 or by text at (213) 429-1092, bring the car in, and either hang out while the head unit goes in or drop it and pick it up later. Carson is close to the water, and we regularly see cars from Temecula and San Diego, so Long Beach is an easy run.
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Long Beach customers tell us makes the drop-off painless. Long Beach is home to many of our LGBTQ customers, and everyone is welcome at the shop; it is on our Google and Yelp pages and it is how we work. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Long Beach traffic sends you.
 
 ## Long Beach car stereo questions
 
@@ -47,7 +50,7 @@ Window tint and ceramic window tint, car alarm installation, remote start instal
 
 ## What is priced and what is quoted
 
-The one fixed audio price is the Dual Kicker Comp box at $249, box only, as of October 2026. Every installation, head unit, CarPlay, speakers or amp, is quoted at the shop for your vehicle. Payment plan available, ask Nick. Long Beach customers can read Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, before deciding.
+The one fixed audio price is the Dual Kicker Comp box at $249, box only, as of October 2026. Every installation, head unit, CarPlay, speakers or amp, is quoted at the shop for your vehicle. Payment plan available, ask Nick. Long Beach customers can read Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, before deciding.
 
 ## Nearby cities with their own page
 
@@ -55,7 +58,7 @@ If you are not quite in Long Beach, see [Signal Hill](/beats/car-stereo-signal-h
 
 ## Schedule a Long Beach head unit installation
 
-Phone (310) 513-8800, text (213) 429-1092. Find us at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Monday through Saturday 9:30-18:00, Sunday closed.
+Phone (213) 429-1092, text (213) 429-1092. Find us at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Monday through Saturday 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -67,7 +70,7 @@ Phone (310) 513-8800, text (213) 429-1092. Find us at 22025 S Avalon Blvd Ste A,
    "name": "Long Beach Head Unit Installation | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-long-beach/",
    "dateModified": "2026-10-08",
-   "description": "Factory-look head unit installation and car audio for Long Beach, done in Carson at Audio MotorSports, 5.7 miles out. LA Car Beats, (310) 513-8800.",
+   "description": "Factory-look head unit installation and car audio for Long Beach, done in Carson at Audio MotorSports, 5.7 miles out. LA Car Beats, (213) 429-1092.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

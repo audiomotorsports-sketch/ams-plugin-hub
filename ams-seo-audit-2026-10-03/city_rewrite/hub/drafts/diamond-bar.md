@@ -4,7 +4,7 @@ city: Diamond Bar
 miles: 28.1
 lead_service: Tesla window tint
 title: Tesla Window Tint for Diamond Bar | Audio MotorSports
-meta: Diamond Bar Tesla window tint and ceramic window tint at Audio MotorSports in Carson, 28.1 miles away, plus car stereo installation and alarms. (310) 513-8800.
+meta: Diamond Bar Tesla window tint and ceramic window tint at Audio MotorSports in Carson, 28.1 miles away, plus car stereo installation and alarms. (213) 429-1092.
 ---
 # Tesla Window Tint for Diamond Bar Owners
 
@@ -24,7 +24,10 @@ Diamond Bar Tesla owners drive about 28.1 miles to Audio MotorSports, 22025 S Av
 
 ## Diamond Bar to the Carson bay
 
-Diamond Bar to the shop is about 28.1 miles, a 56 to 67 minute drive outside rush hour (approx). Hours are Monday to Saturday 9:30 AM to 6:00 PM, Sunday closed. Reserve a slot, then wait while the Tesla is tinted or drop it off and come back before close. Owners come from over 100 miles away for this tint, so Diamond Bar is an easy morning. Diamond Bar owners can look at the record on the way: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. [SHOP NOTE: 2-3 sentences from Nick about Diamond Bar customers, routes or jobs]
+Diamond Bar to the shop is about 28.1 miles, a 56 to 67 minute drive outside rush hour (approx). Hours are Monday to Saturday 9:30 AM to 6:00 PM, Sunday closed. Reserve a slot, then wait while the Tesla is tinted or drop it off and come back before close. Owners come from over 100 miles away for this tint, so Diamond Bar is an easy morning. Diamond Bar owners can look at the record on the way: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. [SHOP NOTE: 2-3 sentences from Nick about Diamond Bar customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Diamond Bar customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. From Diamond Bar you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Diamond Bar Tesla tint questions
 
@@ -58,7 +61,7 @@ Diamond Bar shares the drive with [Walnut](/walnut/), [Rowland Heights](/rowland
 
 ## Book Diamond Bar Tesla tint
 
-Text the model and year to (213) 429-1092 or call (310) 513-8800. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30 AM to 6:00 PM; Sunday closed.
+Text the model and year to (213) 429-1092 or call (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30 AM to 6:00 PM; Sunday closed.
 
 ```json
 {
@@ -69,7 +72,7 @@ Text the model and year to (213) 429-1092 or call (310) 513-8800. Audio MotorSpo
    "@id": "https://www.audiomotorsports.com/diamond-bar/#webpage",
    "url": "https://www.audiomotorsports.com/diamond-bar/",
    "name": "Tesla Window Tint for Diamond Bar | Audio MotorSports",
-   "description": "Diamond Bar Tesla window tint and ceramic window tint at Audio MotorSports in Carson, 28.1 miles away, plus car stereo installation and alarms. (310) 513-8800.",
+   "description": "Diamond Bar Tesla window tint and ceramic window tint at Audio MotorSports in Carson, 28.1 miles away, plus car stereo installation and alarms. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

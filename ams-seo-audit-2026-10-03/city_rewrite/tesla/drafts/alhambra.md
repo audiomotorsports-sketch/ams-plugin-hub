@@ -5,7 +5,7 @@ miles: 19.9
 lead_service: Tesla window tint (Model 3)
 source: hub-mounted copy; standalone www host not verified
 title: Alhambra Model 3 Window Tint | Tesla Tint LA
-meta: Model 3 and Tesla window tint for Alhambra drivers: ceramic film hand-cut on a board at Audio MotorSports in Carson, 19.9 miles from Alhambra. Call (310) 513-8800 to book by model.
+meta: Model 3 and Tesla window tint for Alhambra drivers: ceramic film hand-cut on a board at Audio MotorSports in Carson, 19.9 miles from Alhambra. Call (213) 429-1092 to book by model.
 ---
 # Model 3 Window Tint for Alhambra Tesla Drivers
 
@@ -28,6 +28,9 @@ Audio MotorSports also installs remote start, Viper alarms, GPS trackers, dash c
 About 19.9 miles, roughly 40 to 48 minutes outside rush hour (approx). Hours are Monday through Saturday, 9:30 AM to 6:00 PM, closed Sunday. Book first; then either wait at the shop or drop the car and come back when it is finished.
 
 [SHOP NOTE: 2-3 sentences from Nick about Alhambra customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Alhambra, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. The shop is LGBTQ-friendly and everyone from Alhambra is welcome, as our Google and Yelp listings state. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Alhambra traffic sends you.
 
 ## Alhambra Model 3 tint questions
 
@@ -53,7 +56,7 @@ Text the year and model to the shop. Teslas are quoted by model rather than list
 
 ## Pricing
 
-The Model 3 and all other Teslas are quoted by model at the shop; text the year and model for the number. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+The Model 3 and all other Teslas are quoted by model at the shop; text the year and model for the number. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near Alhambra
 
@@ -64,7 +67,7 @@ The Model 3 and all other Teslas are quoted by model at the shop; text the year 
 
 ## Book from Alhambra
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -75,7 +78,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-alhambra/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-alhambra/",
    "name": "Alhambra Model 3 Window Tint | Tesla Tint LA",
-   "description": "Model 3 and Tesla window tint for Alhambra drivers: ceramic film hand-cut on a board at Audio MotorSports in Carson, 19.9 miles from Alhambra. Call (310) 513-8800 to book by model.",
+   "description": "Model 3 and Tesla window tint for Alhambra drivers: ceramic film hand-cut on a board at Audio MotorSports in Carson, 19.9 miles from Alhambra. Call (213) 429-1092 to book by model.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

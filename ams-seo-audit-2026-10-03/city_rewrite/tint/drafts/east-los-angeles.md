@@ -4,7 +4,7 @@ city: East Los Angeles
 miles: 14.5
 lead_service: window tint removal and replacement
 title: Window Tint East Los Angeles | LA Car Tint, Carson
-meta: Car window tint, old tint removal and ceramic film for East Los Angeles drivers, installed by Audio MotorSports in Carson, 14.5 miles away. Call (310) 513-8800.
+meta: Car window tint, old tint removal and ceramic film for East Los Angeles drivers, installed by Audio MotorSports in Carson, 14.5 miles away. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Window Tint and Tint Replacement for East Los Angeles, by Audio MotorSports, Carson
@@ -26,6 +26,9 @@ The trip is about 14.5 miles, roughly thirty minutes (approx) outside rush hour.
 
 [SHOP NOTE: 2-3 sentences from Nick about East Los Angeles customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+For a longer job from East Los Angeles, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. Coming from East Los Angeles, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
+
 ## East Los Angeles drivers ask
 
 ### Why did the tint on my car turn purple and bubble?
@@ -46,7 +49,7 @@ Both are hand-cut and installed the same way and come in the same shades. Solar 
 
 ### Is it worth the half-hour drive from East Los Angeles for window tinting?
 
-For film that will not need replacing in two years, yes. The install is what makes tint last, and this bay does it daily with Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Done once, done right, costs less than doing it twice.
+For film that will not need replacing in two years, yes. The install is what makes tint last, and this bay does it daily with Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Done once, done right, costs less than doing it twice.
 
 ## Prices, as of October 2026
 
@@ -61,7 +64,7 @@ Solar window tint $249 installed and Solar Ceramic $329 installed, as of October
 
 ## Book it
 
-Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
+Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
 
 ```json
 {
@@ -72,7 +75,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-east-los-angeles/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-east-los-angeles/",
    "name": "Window Tint East Los Angeles | LA Car Tint, Carson",
-   "description": "Car window tint, old tint removal and ceramic film for East Los Angeles drivers, installed by Audio MotorSports in Carson, 14.5 miles away. Call (310) 513-8800.",
+   "description": "Car window tint, old tint removal and ceramic film for East Los Angeles drivers, installed by Audio MotorSports in Carson, 14.5 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -144,7 +147,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "Is it worth the half-hour drive from East Los Angeles for window tinting?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "For film that will not need replacing in two years, yes. The install is what makes tint last, and this bay does it daily with Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Done once, done right, costs less than doing it twice."
+      "text": "For film that will not need replacing in two years, yes. The install is what makes tint last, and this bay does it daily with Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Done once, done right, costs less than doing it twice."
      }
     }
    ]

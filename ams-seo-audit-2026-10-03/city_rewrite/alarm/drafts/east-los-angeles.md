@@ -5,7 +5,7 @@ city: East Los Angeles
 miles: 14.5
 lead_service: Compustar remote start installation
 title: Remote Start & Alarms, East Los Angeles | LA Car Alarm
-meta: Compustar remote start and Viper car alarm installation for East Los Angeles drivers at LA Car Alarm by Audio MotorSports in Carson. (310) 513-8800.
+meta: Compustar remote start and Viper car alarm installation for East Los Angeles drivers at LA Car Alarm by Audio MotorSports in Carson. (213) 429-1092.
 ---
 # Compustar Remote Start Installation for East Los Angeles
 
@@ -23,6 +23,9 @@ East Los Angeles drivers bring their cars 14.5 miles to LA Car Alarm by Audio Mo
 
 Car window tint, car stereo installation, Apple CarPlay and Android Auto, subwoofers and Harley bagger audio are done by the same shop if you want to combine the trip.
 
+<!-- owner-details-2026-10-07 -->
+For a longer job from East Los Angeles, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from East Los Angeles.
+
 ## East Los Angeles to Carson
 
 The 14.5 miles take about 29 to 35 minutes outside rush hour (approx). Make an appointment, then drop the car and pick it up later or wait at the shop while the remote start goes in. Hours are Mon-Sat 9:30-18:00, closed Sunday. [SHOP NOTE: 2-3 sentences from Nick about East Los Angeles customers, routes or jobs]
@@ -37,7 +40,7 @@ Yes. The doors stay shut, the steering stays immobilized, and if anyone presses 
 
 ### Why solder the alarm wiring instead of using clip-on taps?
 
-Because taps loosen, corrode and cause the ghost problems that get alarms blamed for everything. A soldered, taped joint holds for the life of the car. It takes longer, and that is part of what the drive to Carson is for. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Because taps loosen, corrode and cause the ghost problems that get alarms blamed for everything. A soldered, taped joint holds for the life of the car. It takes longer, and that is part of what the drive to Carson is for. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ### How much does a Compustar 9910 cost installed?
 
@@ -57,7 +60,7 @@ Compustar 9910 remote start from $499. Viper 3108V alarm $269 installed. GPS tra
 
 ## Book an East Los Angeles remote start
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -122,7 +125,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. LA Car
      "name": "Why solder the alarm wiring instead of using clip-on taps?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Because taps loosen, corrode and cause the ghost problems that get alarms blamed for everything. A soldered, taped joint holds for the life of the car. It takes longer, and that is part of what the drive to Carson is for. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026."
+      "text": "Because taps loosen, corrode and cause the ghost problems that get alarms blamed for everything. A soldered, taped joint holds for the life of the car. It takes longer, and that is part of what the drive to Carson is for. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026."
      }
     },
     {

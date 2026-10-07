@@ -5,7 +5,7 @@ miles: 11.3
 lead_service: Tesla window tint (Model S)
 source: hub-mounted copy; standalone www host not verified
 title: Model S Tint for Bell Tesla Owners | Tesla Tint LA
-meta: Tesla window tint for Bell, starting with the Model S: ceramic film cut by hand at Audio MotorSports in Carson, 11.3 miles from Bell. Call (310) 513-8800 for a quote by model.
+meta: Tesla window tint for Bell, starting with the Model S: ceramic film cut by hand at Audio MotorSports in Carson, 11.3 miles from Bell. Call (213) 429-1092 for a quote by model.
 ---
 # Model S and Tesla Window Tint for Bell
 
@@ -28,6 +28,9 @@ Beyond Tesla window tint, Audio MotorSports installs car alarms, remote start, G
 The run is about 11.3 miles, around 23 to 27 minutes outside rush hour (approx). Doors open Monday through Saturday, 9:30 AM to 6:00 PM, closed Sunday. Make an appointment, then drop the car for the day or wait at the shop while the film cures enough to drive.
 
 [SHOP NOTE: 2-3 sentences from Nick about Bell customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Bell, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Bell traffic sends you.
 
 ## Bell drivers ask
 
@@ -53,7 +56,7 @@ Just the car if you can, or text the year and model ahead of time. Glass shape i
 
 ## Pricing
 
-Tesla tint prices are set by model and confirmed at the counter, so bring the car or text the year and model. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Tesla tint prices are set by model and confirmed at the counter, so bring the car or text the year and model. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint pages near Bell
 
@@ -64,7 +67,7 @@ Tesla tint prices are set by model and confirmed at the counter, so bring the ca
 
 ## Call or text from Bell
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -75,7 +78,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-bell/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-bell/",
    "name": "Model S Tint for Bell Tesla Owners | Tesla Tint LA",
-   "description": "Tesla window tint for Bell, starting with the Model S: ceramic film cut by hand at Audio MotorSports in Carson, 11.3 miles from Bell. Call (310) 513-8800 for a quote by model.",
+   "description": "Tesla window tint for Bell, starting with the Model S: ceramic film cut by hand at Audio MotorSports in Carson, 11.3 miles from Bell. Call (213) 429-1092 for a quote by model.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

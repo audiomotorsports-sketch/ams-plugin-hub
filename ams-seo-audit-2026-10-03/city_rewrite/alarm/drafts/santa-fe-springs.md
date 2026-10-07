@@ -4,7 +4,7 @@ city: Santa Fe Springs
 miles: 13.0
 lead_service: GPS tracker installation
 title: GPS Tracker Installation Santa Fe Springs | LA Car Alarm
-meta: GPS tracker installation for Santa Fe Springs drivers and fleets at LA Car Alarm by Audio MotorSports, Carson, 13 miles. Alarms too. Call (310) 513-8800.
+meta: GPS tracker installation for Santa Fe Springs drivers and fleets at LA Car Alarm by Audio MotorSports, Carson, 13 miles. Alarms too. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # GPS Tracker Installation for Santa Fe Springs Vehicles
@@ -22,6 +22,9 @@ Santa Fe Springs drivers and small fleets bring their vehicles about 13 miles to
 **Dash camera installation.** Hardwired parking mode with a fused tap, hidden cable and a battery cutoff.
 
 Window tint and car stereo installation are available in the same bay if the vehicle is here anyway.
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Santa Fe Springs drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Santa Fe Springs.
 
 ## Santa Fe Springs to the shop
 
@@ -54,7 +57,7 @@ A few hours for a tracker alone. Combined with an alarm or remote start it runs 
 
 Trackers, fleet units and dash cameras are quoted on the vehicle at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby alarm pages
 
@@ -66,7 +69,7 @@ Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
 
 ## Schedule from Santa Fe Springs
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make and model, or the list of vehicles. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make and model, or the list of vehicles. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

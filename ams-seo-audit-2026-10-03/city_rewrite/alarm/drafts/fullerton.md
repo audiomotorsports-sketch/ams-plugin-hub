@@ -4,7 +4,7 @@ city: Fullerton
 miles: 19.7
 lead_service: street-parked car security
 title: Street-Parked Car Alarm Install, Fullerton | LA Car Alarm
-meta: Viper alarm installation for street-parked cars, GPS trackers and remote start for Fullerton at LA Car Alarm by Audio MotorSports, Carson. (310) 513-8800.
+meta: Viper alarm installation for street-parked cars, GPS trackers and remote start for Fullerton at LA Car Alarm by Audio MotorSports, Carson. (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Alarm Installation for Street-Parked Cars in Fullerton
@@ -22,6 +22,9 @@ Parking on the street every night means the car is on its own from dusk to break
 **Remote start installation.** Compustar installation done through the right bypass, so the engine warms up from your apartment window while the doors stay secured.
 
 If the car is already with us, window tint, a car stereo upgrade or Android Auto can be added to the same visit.
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Fullerton customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. Fullerton customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Fullerton.
 
 ## Getting to the shop from Fullerton
 
@@ -54,7 +57,7 @@ No. Book a 9:30 AM appointment, drop the car, and both jobs are usually finished
 
 GPS trackers, tilt sensors and dash cameras are quoted at the shop for your car. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Cities near Fullerton
 
@@ -65,7 +68,7 @@ Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
 
 ## Set up a time
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

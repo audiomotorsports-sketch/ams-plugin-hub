@@ -1,62 +1,71 @@
 ---
-url: https://www.audiomotorsports.com/alondra-park/
+url: https://www.audiomotorsports.com/amspods/bagger-audio-alondra-park/
 city: Alondra Park
 miles: 5.9
-lead_service: Harley bagger audio
-title: Harley Bagger Audio & Tint, Alondra Park | Audio MotorSports
-meta: Harley bagger audio with AMS pods, window tint, car stereo and alarms for Alondra Park riders and drivers at Audio MotorSports in Carson. Call (310) 513-8800.
+lead_service: first bagger audio upgrade
+title: Harley Bagger Audio Alondra Park | AMS Pods
+meta: First Harley bagger audio upgrade for Alondra Park riders: AMS pods, amplifier and speaker installation at Audio MotorSports in Carson. (213) 429-1092.
+source: hub-mounted copy; standalone www host not verified
 ---
-# Harley Bagger Audio and Window Tint for Alondra Park
+# First Bagger Audio Upgrade for Alondra Park Riders
 
-Alondra Park riders bring their Street Glides and Road Glides to Audio MotorSports in Carson, 22025 S Avalon Blvd Ste A, roughly 5.9 miles away, for AMS pods and bagger audio that can be heard over the pipes at speed. The same bay handles window tint, car stereo installation, car alarms, remote start, GPS tracking and dash cameras for Alondra Park cars and trucks.
+Bought your first Street Glide, Road Glide or Road King and the stock radio already sounds small on the freeway? AMS Pods, the Harley-Davidson bagger audio side of Audio MotorSports at 22025 S Avalon Blvd Ste A in Carson, is about 5.9 miles from Alondra Park, and a first upgrade is the job the shop plans most often: pods, an amplifier and speakers in the right order.
 
-## What Alondra Park drivers bring us
+## What Alondra Park riders bring us
 
-**Bagger audio installation.** AMS pods are our own lower-fairing speaker pods, built for Harley baggers and tuned to carry at highway speed. Pair them with a fairing amp and the sound stays clean instead of turning to mush when the wind picks up.
+**Planning the first upgrade in the right order.** New bagger owners tend to want everything at once, but the amplifier and front speakers are the base, the pods come next, and bag-lid bass goes last. Nick lays out the stages so each step still sounds complete on its own.
 
-**Subwoofer installation and amplifier installation.** Power wire fused at the battery, signal run away from the power, gains set with a meter. A Dual Kicker Comp box is the quick way to add low end to a car or truck; a custom amp and sub pairing is the way to do it right for a specific cabin.
+**AMS lower-fairing pods.** Built in the Carson shop, chrome or gloss, and shipped with the crash-bar bracket and screws. They mount at an angle toward the rider, so the sound reaches your ears instead of the asphalt.
 
-**Car window tint.** Solar or Solar Ceramic film on four doors and the back glass, hand-cut on the car so the edges line up with the gasket.
+**Amplifier installation.** On a Street Glide or Road Glide the amp sits in the fairing with a power run pulled under the tank and fused near the battery. On a Road King it rides in a saddlebag on a carpeted board with an AMS quick disconnect.
 
-**Apple CarPlay and Android Auto installation.** New head unit, factory camera kept, steering-wheel buttons kept, no drilled dash.
+**Speaker replacement.** Hertz Neo motorcycle speakers go in the fairing and the pods; they shrug off weather and stay clear when the volume climbs.
 
-**Car alarm installation and remote start installation.** Viper and Compustar systems, installed so the wiring is invisible and the panels fit like factory.
+The same building handles ceramic window tint, car stereo installation, Apple CarPlay and Android Auto, Viper alarms, remote start, GPS trackers and dash cameras for whatever else is in the driveway.
 
-## The drive from Alondra Park
+## The ride in from Alondra Park
 
-At about 5.9 miles, Alondra Park is roughly a 12 to 14 minute run to the shop outside rush hour (approx). Book a slot, then drop the bike or car and come back later, or wait in the shop while it is on the lift. We are open Mon-Sat 9:30-18:00 and closed Sunday. Customers have come to this bay from as far as San Diego, so a quick trip down from Alondra Park is nothing. [SHOP NOTE: 2-3 sentences from Nick about Alondra Park customers, routes or jobs]
+Alondra Park sits about 5.9 miles from the shop, roughly 12 to 14 minutes outside rush hour (approx), with most of the route running east along Redondo Beach Boulevard. Set an appointment, ride down, and either leave the bike for the day or wait at the shop while the work happens. Hours are Monday through Saturday 9:30 AM to 6:00 PM, Sunday closed. Riders come from more than 100 miles away for this install, so a hop this short is an easy call. [SHOP NOTE: 2-3 sentences from Nick about Alondra Park riders, routes or jobs]
 
-### What do AMS pods cost for a Harley bagger from Alondra Park?
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Alondra Park job is finished. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Alondra Park.
 
-AMS Harley pods start from $649 a pair as of October 2026. That covers the pods themselves; the amplifier, wiring and install are quoted on the bike once we see the fairing and the year. Ride it in from Alondra Park and you get a straight number before we touch anything.
+## Questions Alondra Park riders ask
 
-### Does a subwoofer installation mean replacing the whole stereo?
+### What should an Alondra Park rider buy first, pods or an amplifier?
 
-Yes. A Dual Kicker Comp box is $249 box only as of October 2026, and it runs off a small amplifier tapped into the factory speaker outputs with a line converter. The factory head unit stays in place and the bass comes up without touching the dash.
+Start with the amplifier and the fairing speakers, because the pods only sound as good as the power behind them. Order the pods at that same visit so the three-week build runs while the first stage goes in. By the second trip from Alondra Park the whole front stage is finished.
 
-### How dark can I legally tint a car registered in Alondra Park?
+### Does a first upgrade mean replacing the factory Harley radio?
 
-California allows any darkness on the rear side windows and back glass, but the front side windows must let at least 70 percent of light through, and the windshield can only carry a strip above the AS-1 line. We install to those limits and explain the options before cutting film.
+Not always. Many factory radios can feed an amplifier through the right adapter, and Nick checks that before quoting anything. When the radio is the weak link, the shop fits Harley-specific head units from Diamond Audio, Sony or Soundstream, priced on your year and model once the bike is in the bay.
 
-### Does a remote start work with a push-button ignition?
+### Can the crash bar still come off after the pods are installed?
 
-It does, with a bypass module matched to the vehicle. Compustar 9910 remote start installs begin from $499 as of October 2026, and push-button cars sit at the higher end because of the extra module. The car still needs the key fob present to actually drive.
+Yes. The speaker leads run along the frame and under the tank with soldered quick disconnects at the pods, so the bar unbolts for service or a tip-over repair without cutting a wire. The bracket is torqued to the bar and the pods angle up toward the rider.
 
-### Can I wait at the shop while my bike is being done?
+### Is riding from Alondra Park worth it for a first-time bagger build?
 
-You can. Bagger audio installs usually take a good part of the day depending on how much we are adding, so plenty of riders drop off in the morning and pick up in the afternoon. If you would rather stay, the shop is open and you can watch the work. Done once, done right is the whole point of riding down; the shop holds Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+It is one of the shortest rides on this site, and the pods are made in the building you ride to, so there is no shipping step and no second shop in the chain. Nick quotes the bike in person, which is how a first build stays honest and on budget.
+
+### How long does the first stage take once the bike is dropped off?
+
+An amplifier and speaker stage is usually a single day, and a pods fitting on a later visit takes about the same. A complete build with head unit, amplifier, pods and cut bag lids can run up to about ten business days, and Nick confirms the timing when he sees the bike.
 
 ## Prices as of October 2026
 
-AMS Harley pods from $649 a pair. Dual Kicker Comp box $249 box only. Window tint Solar $249, Solar Ceramic $329 installed. Everything else gets quoted at the shop once we see the vehicle. Payment plan available, ask Nick.
+- AMS lower-fairing pods: from $649 a pair, chrome or gloss, bracket and screws included, as of October 2026.
+- Amplifier installation, speaker replacement, head units and bag-lid bass are quoted at the shop with the bike in front of Nick. Payment plan available, ask Nick.
 
-## Nearby cities we also serve
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
-[Gardena](/gardena/) · [Lawndale](/lawndale/) · [Torrance](/torrance/) · [Hawthorne](/hawthorne/)
+## Nearby cities
 
-## Set up an Alondra Park appointment
+Riders also ride in from [Gardena](/amspods/bagger-audio-gardena/), [Lawndale](/amspods/bagger-audio-lawndale/), [Hawthorne](/amspods/bagger-audio-hawthorne/) and [Torrance](/amspods/bagger-audio-torrance/).
 
-Call (310) 513-8800, or text (213) 429-1092 with your year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sunday.
+## Book the first stage
+
+Text (213) 429-1092 or call (213) 429-1092 with your model year and which bagger you ride, and Nick will map out stage one. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -64,10 +73,10 @@ Call (310) 513-8800, or text (213) 429-1092 with your year, make and model. Audi
  "@graph": [
   {
    "@type": "WebPage",
-   "@id": "https://www.audiomotorsports.com/alondra-park/#webpage",
-   "url": "https://www.audiomotorsports.com/alondra-park/",
-   "name": "Harley Bagger Audio & Tint, Alondra Park | Audio MotorSports",
-   "description": "Harley bagger audio with AMS pods, window tint, car stereo and alarms for Alondra Park riders and drivers at Audio MotorSports in Carson. Call (310) 513-8800.",
+   "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-alondra-park/#webpage",
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-alondra-park/",
+   "name": "Harley Bagger Audio Alondra Park | AMS Pods",
+   "description": "First Harley bagger audio upgrade for Alondra Park riders: AMS pods, amplifier and speaker installation at Audio MotorSports in Carson. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -75,7 +84,7 @@ Call (310) 513-8800, or text (213) 429-1092 with your year, make and model. Audi
   },
   {
    "@type": "BreadcrumbList",
-   "@id": "https://www.audiomotorsports.com/alondra-park/#breadcrumb",
+   "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-alondra-park/#breadcrumb",
    "itemListElement": [
     {
      "@type": "ListItem",
@@ -87,58 +96,58 @@ Call (310) 513-8800, or text (213) 429-1092 with your year, make and model. Audi
      "@type": "ListItem",
      "position": 2,
      "name": "Locations",
-     "item": "https://www.audiomotorsports.com/amspods/"
+     "item": "https://www.audiomotorsports.com/locations/"
     },
     {
      "@type": "ListItem",
      "position": 3,
      "name": "Alondra Park",
-     "item": "https://www.audiomotorsports.com/alondra-park/"
+     "item": "https://www.audiomotorsports.com/amspods/bagger-audio-alondra-park/"
     }
    ]
   },
   {
    "@type": "FAQPage",
-   "@id": "https://www.audiomotorsports.com/alondra-park/#faq",
+   "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-alondra-park/#faq",
    "mainEntity": [
     {
      "@type": "Question",
-     "name": "What do AMS pods cost for a Harley bagger from Alondra Park?",
+     "name": "What should an Alondra Park rider buy first, pods or an amplifier?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "AMS Harley pods start from $649 a pair as of October 2026. That covers the pods themselves; the amplifier, wiring and install are quoted on the bike once we see the fairing and the year. Ride it in from Alondra Park and you get a straight number before we touch anything."
+      "text": "Start with the amplifier and the fairing speakers, because the pods only sound as good as the power behind them. Order the pods at that same visit so the three-week build runs while the first stage goes in. By the second trip from Alondra Park the whole front stage is finished."
      }
     },
     {
      "@type": "Question",
-     "name": "Does a subwoofer installation mean replacing the whole stereo?",
+     "name": "Does a first upgrade mean replacing the factory Harley radio?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. A Dual Kicker Comp box is $249 box only as of October 2026, and it runs off a small amplifier tapped into the factory speaker outputs with a line converter. The factory head unit stays in place and the bass comes up without touching the dash."
+      "text": "Not always. Many factory radios can feed an amplifier through the right adapter, and Nick checks that before quoting anything. When the radio is the weak link, the shop fits Harley-specific head units from Diamond Audio, Sony or Soundstream, priced on your year and model once the bike is in the bay."
      }
     },
     {
      "@type": "Question",
-     "name": "How dark can I legally tint a car registered in Alondra Park?",
+     "name": "Can the crash bar still come off after the pods are installed?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "California allows any darkness on the rear side windows and back glass, but the front side windows must let at least 70 percent of light through, and the windshield can only carry a strip above the AS-1 line. We install to those limits and explain the options before cutting film."
+      "text": "Yes. The speaker leads run along the frame and under the tank with soldered quick disconnects at the pods, so the bar unbolts for service or a tip-over repair without cutting a wire. The bracket is torqued to the bar and the pods angle up toward the rider."
      }
     },
     {
      "@type": "Question",
-     "name": "Does a remote start work with a push-button ignition?",
+     "name": "Is riding from Alondra Park worth it for a first-time bagger build?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "It does, with a bypass module matched to the vehicle. Compustar 9910 remote start installs begin from $499 as of October 2026, and push-button cars sit at the higher end because of the extra module. The car still needs the key fob present to actually drive."
+      "text": "It is one of the shortest rides on this site, and the pods are made in the building you ride to, so there is no shipping step and no second shop in the chain. Nick quotes the bike in person, which is how a first build stays honest and on budget."
      }
     },
     {
      "@type": "Question",
-     "name": "Can I wait at the shop while my bike is being done?",
+     "name": "How long does the first stage take once the bike is dropped off?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "You can. Bagger audio installs usually take a good part of the day depending on how much we are adding, so plenty of riders drop off in the morning and pick up in the afternoon. If you would rather stay, the shop is open and you can watch the work. Done once, done right is the whole point of riding down; the shop holds Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026."
+      "text": "An amplifier and speaker stage is usually a single day, and a pods fitting on a later visit takes about the same. A complete build with head unit, amplifier, pods and cut bag lids can run up to about ten business days, and Nick confirms the timing when he sees the bike."
      }
     }
    ]
@@ -147,5 +156,6 @@ Call (310) 513-8800, or text (213) 429-1092 with your year, make and model. Audi
 }
 ```
 [CONFIRM]
-- SHOP NOTE slot in the route block (Nick: Alondra Park customers, routes or jobs).
-- Drive time: 12-14 minutes computed at 25-30 mph from the 5.9-mile figure.
+- SHOP NOTE slot in the ride-in section needs 2-3 sentences from Nick about Alondra Park riders.
+- Drive time 12 to 14 minutes from Alondra Park is computed at 25-30 mph from the 5.9-mile figure; confirm.
+- Route mention (Redondo Beach Boulevard east) is taken from the live Alondra Park page; confirm it should stay.

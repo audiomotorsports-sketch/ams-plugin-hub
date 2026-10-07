@@ -4,7 +4,7 @@ city: Sierra Madre
 miles: 32.3
 lead_service: car audio/stereo
 title: Car Stereo Installation for Sierra Madre | Audio MotorSports
-meta: Car stereo installation, speaker replacement, subwoofer installs, window tint and alarms for Sierra Madre drivers at Audio MotorSports, Carson. (310) 513-8800.
+meta: Car stereo installation, speaker replacement, subwoofer installs, window tint and alarms for Sierra Madre drivers at Audio MotorSports, Carson. (213) 429-1092.
 ---
 # Car Stereo Installation for Sierra Madre Drivers
 
@@ -21,6 +21,9 @@ Sierra Madre drivers bring their cars about 32.3 miles to Audio MotorSports at 2
 **Car window tint.** Solar or Solar Ceramic film hand-cut on the glass.
 
 **Car alarm installation and dash camera installation.** Viper systems hidden from the fuse box; cameras fuse-tapped with the cable out of sight.
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Sierra Madre job is finished. The shop is LGBTQ-friendly and everyone from Sierra Madre is welcome, as our Google and Yelp listings state. Coming from Sierra Madre, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Sierra Madre to Carson
 
@@ -40,7 +43,7 @@ Yes. A line-output converter takes the signal from the factory speaker wires, an
 
 ### How long will my car be at the shop?
 
-A head unit installation is a few hours; add speakers and an amplifier and it is most of a day. Drop it in the morning and it is usually ready by late afternoon, or wait if you prefer. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, for anyone checking first.
+A head unit installation is a few hours; add speakers and an amplifier and it is most of a day. Drop it in the morning and it is usually ready by late afternoon, or wait if you prefer. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, for anyone checking first.
 
 ### Can window tint go on during the same visit as the stereo?
 
@@ -56,7 +59,7 @@ Dual Kicker Comp box $249 box only. Car window tint Solar $249, Solar Ceramic $3
 
 ## Book from Sierra Madre
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio MotorSports sits at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio MotorSports sits at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -67,7 +70,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio 
    "@id": "https://www.audiomotorsports.com/sierra-madre/#webpage",
    "url": "https://www.audiomotorsports.com/sierra-madre/",
    "name": "Car Stereo Installation for Sierra Madre | Audio MotorSports",
-   "description": "Car stereo installation, speaker replacement, subwoofer and amplifier installs, window tint and alarms for Sierra Madre drivers at Audio MotorSports in Carson. (310) 513-8800.",
+   "description": "Car stereo installation, speaker replacement, subwoofer and amplifier installs, window tint and alarms for Sierra Madre drivers at Audio MotorSports in Carson. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -133,7 +136,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio 
      "name": "How long will my car be at the shop?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "A head unit installation is a few hours; add speakers and an amplifier and it is most of a day. Drop it in the morning and it is usually ready by late afternoon, or wait if you prefer. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, for anyone checking first."
+      "text": "A head unit installation is a few hours; add speakers and an amplifier and it is most of a day. Drop it in the morning and it is usually ready by late afternoon, or wait if you prefer. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, for anyone checking first."
      }
     },
     {

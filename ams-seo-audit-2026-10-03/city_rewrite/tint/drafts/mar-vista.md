@@ -4,7 +4,7 @@ city: Mar Vista
 miles: 15.4
 lead_service: car window tint (street-parked cars)
 title: Car Window Tint Mar Vista | LA Car Tint by Audio MotorSports
-meta: Car window tint and ceramic film for Mar Vista cars, hand-cut and installed by LA Car Tint at Audio MotorSports in Carson, 15.4 miles away. Call (310) 513-8800.
+meta: Car window tint and ceramic film for Mar Vista cars, hand-cut and installed by LA Car Tint at Audio MotorSports in Carson, 15.4 miles away. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Window Tint for Mar Vista Drivers, by Audio MotorSports, Carson
@@ -26,11 +26,14 @@ The run is about 15.4 miles, half an hour or a bit more (approx) outside the com
 
 [SHOP NOTE: 2-3 sentences from Nick about Mar Vista customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Mar Vista customers tell us makes the drop-off painless. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. From Mar Vista you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
+
 ## Mar Vista questions
 
 ### Is Carson too far from Mar Vista for a tint job?
 
-Not at all; it is about half an hour. Customers come from more than 100 miles for this work. The film is hand-cut and sealed, and the reviews are public: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Not at all; it is about half an hour. Customers come from more than 100 miles for this work. The film is hand-cut and sealed, and the reviews are public: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ### Does window tint help a car that is parked on the street in Mar Vista?
 
@@ -61,7 +64,7 @@ Solar window tinting $249 installed; Solar Ceramic window tinting $329 installed
 
 ## Book it
 
-Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
+Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
 
 ```json
 {
@@ -72,7 +75,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-mar-vista/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-mar-vista/",
    "name": "Car Window Tint Mar Vista | LA Car Tint by Audio MotorSports",
-   "description": "Car window tint and ceramic film for Mar Vista cars, hand-cut and installed by LA Car Tint at Audio MotorSports in Carson, 15.4 miles away. Call (310) 513-8800.",
+   "description": "Car window tint and ceramic film for Mar Vista cars, hand-cut and installed by LA Car Tint at Audio MotorSports in Carson, 15.4 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -112,7 +115,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "Is Carson too far from Mar Vista for a tint job?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Not at all; it is about half an hour. Customers come from more than 100 miles for this work. The film is hand-cut and sealed, and the reviews are public: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026."
+      "text": "Not at all; it is about half an hour. Customers come from more than 100 miles for this work. The film is hand-cut and sealed, and the reviews are public: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026."
      }
     },
     {

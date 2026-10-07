@@ -5,7 +5,7 @@ miles: 6.5
 lead_service: Window tint / ceramic window tint (LA Car Tint)
 source: hub-mounted copy; standalone www host not verified
 title: Window Tinting for Lawndale | LA Car Tint, Carson
-meta: Legal front-window tint, ceramic window tint and window tinting for Lawndale drivers at Audio MotorSports in Carson, 6.5 miles out. Call (310) 513-8800.
+meta: Legal front-window tint, ceramic window tint and window tinting for Lawndale drivers at Audio MotorSports in Carson, 6.5 miles out. Call (213) 429-1092.
 ---
 # Window Tinting for Lawndale, Done to the California Rule
 
@@ -26,6 +26,9 @@ Lawndale drivers ask us one question more than any other: how dark can I legally
 Figure about 6.5 miles from Lawndale to 22025 S Avalon Blvd, around 13 to 16 minutes (approx) outside the commute. Set a time first by calling or texting, then choose: hand us the keys and come back later, or wait in the shop while the film is cut and applied. Open Monday through Saturday 9:30 to 6:00, Sunday closed. Customers regularly drive in from over 100 miles away for this work, so Lawndale is a short hop.
 
 [SHOP NOTE: 2-3 sentences from Nick about Lawndale customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Lawndale drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Lawndale traffic sends you.
 
 ## What Lawndale drivers ask about window tint
 
@@ -59,7 +62,7 @@ Two prices for a standard sedan, side windows plus rear glass, as of October 202
 
 ## Book window tinting from Lawndale
 
-Call (310) 513-8800, or text (213) 429-1092 if that is easier. Audio MotorSports sits at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday-Saturday 9:30-6:00 and closed Sunday. As of October 2026 the shop holds a 4.8 on Google (650+ reviews) and a 4.7 on Yelp (770+ reviews).
+Call (213) 429-1092, or text (213) 429-1092 if that is easier. Audio MotorSports sits at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday-Saturday 9:30-6:00 and closed Sunday. As of October 2026 the shop holds a 4.8 on Google (654 reviews) and a 4.7 on Yelp (777 reviews).
 
 ```json
 {
@@ -70,7 +73,7 @@ Call (310) 513-8800, or text (213) 429-1092 if that is easier. Audio MotorSports
    "@id": "https://www.audiomotorsports.com/tint/window-tint-lawndale/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-lawndale/",
    "name": "Window Tinting for Lawndale | LA Car Tint, Carson",
-   "description": "Legal front-window tint, ceramic window tint and window tinting for Lawndale drivers at Audio MotorSports in Carson, 6.5 miles out. Call (310) 513-8800.",
+   "description": "Legal front-window tint, ceramic window tint and window tinting for Lawndale drivers at Audio MotorSports in Carson, 6.5 miles out. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

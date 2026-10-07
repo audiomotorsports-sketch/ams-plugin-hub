@@ -6,7 +6,7 @@ lead_service: car stereo installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Car Stereo Installation for Mar Vista | LA Car Beats
-meta: Car stereo installation and head unit installation for Mar Vista drivers at LA Car Beats, Audio MotorSports in Carson, 15.4 miles. Call (310) 513-8800.
+meta: Car stereo installation and head unit installation for Mar Vista drivers at LA Car Beats, Audio MotorSports in Carson, 15.4 miles. Call (213) 429-1092.
 ---
 # Car Stereo Installation for Mar Vista Drivers
 
@@ -22,7 +22,10 @@ Mar Vista drivers book car stereo installation at LA Car Beats by Audio MotorSpo
 
 ## The run from Mar Vista
 
-Mar Vista is about 15.4 miles from the shop, roughly 31 to 37 minutes outside rush hour (approx). Hours are Monday through Saturday 9:30 to 6:00; we are closed Sunday. Schedule an appointment at (310) 513-8800 or by text at (213) 429-1092. Most Mar Vista drivers wait for a head unit installation and drop off anything that includes speakers or a sub. Customers come to Carson from more than 100 miles out, so the drive from Mar Vista is routine.
+Mar Vista is about 15.4 miles from the shop, roughly 31 to 37 minutes outside rush hour (approx). Hours are Monday through Saturday 9:30 to 6:00; we are closed Sunday. Schedule an appointment at (213) 429-1092 or by text at (213) 429-1092. Most Mar Vista drivers wait for a head unit installation and drop off anything that includes speakers or a sub. Customers come to Carson from more than 100 miles out, so the drive from Mar Vista is routine.
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Mar Vista job is finished. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. Coming from Mar Vista, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Mar Vista stereo questions
 
@@ -48,7 +51,7 @@ Yes. Window tint and ceramic window tint, car alarm installation, remote start i
 
 ## Prices, dated October 2026
 
-Dual Kicker Comp box, $249 box only, as of October 2026. Car stereo installation, head unit installation, speaker replacement and amplifier installation are quoted at the shop for your vehicle. Payment plan available, ask Nick. Mar Vista drivers can look up Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Dual Kicker Comp box, $249 box only, as of October 2026. Car stereo installation, head unit installation, speaker replacement and amplifier installation are quoted at the shop for your vehicle. Payment plan available, ask Nick. Mar Vista drivers can look up Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Cities near Mar Vista
 
@@ -56,7 +59,7 @@ Car stereo installation pages for the area: [Venice](/beats/car-stereo-venice/) 
 
 ## Set up a Mar Vista car stereo installation
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745; Mon-Sat 9:30-18:00, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745; Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -68,7 +71,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports is at 22025 S Aval
    "name": "Car Stereo Installation for Mar Vista | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-mar-vista/",
    "dateModified": "2026-10-08",
-   "description": "Car stereo installation and head unit installation for Mar Vista drivers at LA Car Beats, Audio MotorSports in Carson, 15.4 miles. Call (310) 513-8800.",
+   "description": "Car stereo installation and head unit installation for Mar Vista drivers at LA Car Beats, Audio MotorSports in Carson, 15.4 miles. Call (213) 429-1092.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

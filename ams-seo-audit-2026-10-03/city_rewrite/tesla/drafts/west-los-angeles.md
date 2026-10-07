@@ -5,7 +5,7 @@ miles: 18.0
 lead_service: Tesla window tint (Model Y)
 source: hub-mounted copy; standalone www host not verified
 title: Model Y Tint for West Los Angeles | Tesla Tint LA
-meta: Model Y ceramic window tint for West Los Angeles Tesla owners at Tesla Tint LA by Audio MotorSports in Carson, 18 miles away. Call (310) 513-8800 to book.
+meta: Model Y ceramic window tint for West Los Angeles Tesla owners at Tesla Tint LA by Audio MotorSports in Carson, 18 miles away. Call (213) 429-1092 to book.
 ---
 # Model Y Window Tint for West Los Angeles Drivers
 
@@ -28,6 +28,9 @@ Audio MotorSports also offers dash camera installation, GPS tracker installation
 It is about 18.0 miles from West Los Angeles, roughly 36 to 43 minutes outside rush hour (approx). The shop runs Monday to Saturday, 9:30 AM to 6:00 PM, closed Sunday. Set an appointment, then drop the Model Y and come back, or wait at the shop while the film goes on.
 
 [SHOP NOTE: 2-3 sentences from Nick about West Los Angeles customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from West Los Angeles, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. The shop is LGBTQ-friendly and everyone from West Los Angeles is welcome, as our Google and Yelp listings state. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from West Los Angeles.
 
 ## West Los Angeles Model Y questions
 
@@ -53,7 +56,7 @@ No. The camera zones on the windshield and fenders are masked and kept clear, an
 
 ## Pricing
 
-The Model Y and every other Tesla are quoted by model at the shop; text the year and model for yours. Non-Tesla reference prices, as of October 2026: Solar tint $249, Solar Ceramic $329 installed. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+The Model Y and every other Tesla are quoted by model at the shop; text the year and model for yours. Non-Tesla reference prices, as of October 2026: Solar tint $249, Solar Ceramic $329 installed. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint pages near West Los Angeles
 
@@ -65,7 +68,7 @@ The Model Y and every other Tesla are quoted by model at the shop; text the year
 
 ## Book your appointment
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -76,7 +79,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-west-los-angeles/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-west-los-angeles/",
    "name": "Model Y Tint for West Los Angeles | Tesla Tint LA",
-   "description": "Model Y ceramic window tint for West Los Angeles Tesla owners at Tesla Tint LA by Audio MotorSports in Carson, 18 miles away. Call (310) 513-8800 to book.",
+   "description": "Model Y ceramic window tint for West Los Angeles Tesla owners at Tesla Tint LA by Audio MotorSports in Carson, 18 miles away. Call (213) 429-1092 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

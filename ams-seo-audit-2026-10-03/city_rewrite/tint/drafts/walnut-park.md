@@ -5,7 +5,7 @@ miles: 9.7
 lead_service: Window tint / ceramic window tint (LA Car Tint)
 source: hub-mounted copy; standalone www host not verified
 title: Walnut Park Window Tint for Privacy | LA Car Tint, Carson
-meta: Privacy window tint and ceramic window tint for Walnut Park drivers, installed by Audio MotorSports in Carson, 9.7 miles away. Call (310) 513-8800 for a slot.
+meta: Privacy window tint and ceramic window tint for Walnut Park drivers, installed by Audio MotorSports in Carson, 9.7 miles away. Call (213) 429-1092 for a slot.
 ---
 # Privacy Window Tint for Walnut Park Drivers
 
@@ -26,6 +26,9 @@ Walnut Park drivers mostly want two things from window tint: nobody looking into
 Walnut Park to 22025 S Avalon Blvd is about 9.7 miles, somewhere around 19 to 23 minutes (approx) when the freeways are moving. Text or call for a time, drop the car or wait in the shop, and most sedans go home the same day. Open Monday through Saturday from 9:30 to 6:00; closed Sunday. Customers come from well over 100 miles out, so this is a short drive by our standards.
 
 [SHOP NOTE: 2-3 sentences from Nick about Walnut Park customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Walnut Park, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Walnut Park.
 
 ## Walnut Park window tint questions
 
@@ -59,7 +62,7 @@ As of October 2026: $249 installed for Solar window tint and $329 installed for 
 
 ## Book privacy tint from Walnut Park
 
-Call (310) 513-8800; texts go to (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday-Saturday 9:30-6:00 and closed Sunday. On the record as of October 2026: 4.8 on Google (650+ reviews) and 4.7 on Yelp (770+ reviews).
+Call (213) 429-1092; texts go to (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday-Saturday 9:30-6:00 and closed Sunday. On the record as of October 2026: 4.8 on Google (654 reviews) and 4.7 on Yelp (777 reviews).
 
 ```json
 {
@@ -70,7 +73,7 @@ Call (310) 513-8800; texts go to (213) 429-1092. Audio MotorSports, 22025 S Aval
    "@id": "https://www.audiomotorsports.com/tint/window-tint-walnut-park/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-walnut-park/",
    "name": "Walnut Park Window Tint for Privacy | LA Car Tint, Carson",
-   "description": "Privacy window tint and ceramic window tint for Walnut Park drivers, installed by Audio MotorSports in Carson, 9.7 miles away. Call (310) 513-8800 for a slot.",
+   "description": "Privacy window tint and ceramic window tint for Walnut Park drivers, installed by Audio MotorSports in Carson, 9.7 miles away. Call (213) 429-1092 for a slot.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

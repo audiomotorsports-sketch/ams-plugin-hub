@@ -5,7 +5,7 @@ miles: 10.6
 lead_service: Tesla window tint (Model Y)
 source: hub-mounted copy; standalone www host not verified
 title: Inglewood Model Y Window Tint | Tesla Tint LA
-meta: Model Y and Tesla window tint for Inglewood owners at Audio MotorSports in Carson, 10.6 miles away. Ceramic film, hatch glass in one piece. Call (310) 513-8800.
+meta: Model Y and Tesla window tint for Inglewood owners at Audio MotorSports in Carson, 10.6 miles away. Ceramic film, hatch glass in one piece. Call (213) 429-1092.
 ---
 # Tesla Window Tint for Inglewood, Led by the Model Y
 
@@ -28,6 +28,9 @@ Dash camera installation, GPS tracker installation, car alarm installation and c
 Roughly 10.6 miles, about 21 to 25 minutes outside rush hour (approx). Open Monday to Saturday, 9:30 AM to 6:00 PM; Sunday closed. Set an appointment first, then drop the Model Y off or wait at the shop until it is finished. Customers come from more than 100 miles away for Tesla tint; Inglewood is a short run.
 
 [SHOP NOTE: 2-3 sentences from Nick about Inglewood customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Inglewood customers tell us makes the drop-off painless. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Inglewood traffic sends you.
 
 ## Inglewood Model Y questions
 
@@ -53,7 +56,7 @@ Yes. A dash camera on a Model Y is wired to a fused source with the cable hidden
 
 ## Pricing
 
-Model Y tint, like every Tesla, is quoted by model at the shop; text the year and model for a figure. As a non-Tesla reference, Solar is $249 and Solar Ceramic is $329 installed, as of October 2026. Other services are quoted at the shop. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Model Y tint, like every Tesla, is quoted by model at the shop; text the year and model for a figure. As a non-Tesla reference, Solar is $249 and Solar Ceramic is $329 installed, as of October 2026. Other services are quoted at the shop. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near Inglewood
 
@@ -65,7 +68,7 @@ Model Y tint, like every Tesla, is quoted by model at the shop; text the year an
 
 ## Book from Inglewood
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -76,7 +79,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-inglewood/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-inglewood/",
    "name": "Inglewood Model Y Window Tint | Tesla Tint LA",
-   "description": "Model Y and Tesla window tint for Inglewood owners at Audio MotorSports in Carson, 10.6 miles away. Ceramic film, hatch glass in one piece. Call (310) 513-8800.",
+   "description": "Model Y and Tesla window tint for Inglewood owners at Audio MotorSports in Carson, 10.6 miles away. Ceramic film, hatch glass in one piece. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

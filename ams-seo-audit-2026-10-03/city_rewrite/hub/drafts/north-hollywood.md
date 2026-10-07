@@ -4,7 +4,7 @@ city: North Hollywood
 miles: 24.7
 lead_service: car window tint / ceramic window tint
 title: Car Window Tint for North Hollywood | Audio MotorSports
-meta: North Hollywood car window tint and ceramic tint at Audio MotorSports in Carson, 24.7 miles away, plus car stereo, CarPlay and alarm installs. (310) 513-8800.
+meta: North Hollywood car window tint and ceramic tint at Audio MotorSports in Carson, 24.7 miles away, plus car stereo, CarPlay and alarm installs. (213) 429-1092.
 ---
 # Car Window Tint for North Hollywood Drivers
 
@@ -24,7 +24,10 @@ North Hollywood drivers bring their cars about 24.7 miles to Audio MotorSports, 
 
 ## North Hollywood to the Carson bay
 
-North Hollywood to the shop is about 24.7 miles, a 49 to 59 minute drive outside rush hour (approx). Hours are Monday to Saturday 9:30 AM to 6:00 PM, closed Sunday. Make an appointment, then either sit in the shop while the film goes on or leave the car and collect it later. North Hollywood drivers can see the record before they leave: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. [SHOP NOTE: 2-3 sentences from Nick about North Hollywood customers, routes or jobs]
+North Hollywood to the shop is about 24.7 miles, a 49 to 59 minute drive outside rush hour (approx). Hours are Monday to Saturday 9:30 AM to 6:00 PM, closed Sunday. Make an appointment, then either sit in the shop while the film goes on or leave the car and collect it later. North Hollywood drivers can see the record before they leave: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. [SHOP NOTE: 2-3 sentences from Nick about North Hollywood customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from North Hollywood, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from North Hollywood.
 
 ## North Hollywood window tint questions
 
@@ -58,7 +61,7 @@ North Hollywood neighbors on the same drive: [Studio City](/studio-city/), [Burb
 
 ## Book North Hollywood window tint
 
-Call (310) 513-8800 or text (213) 429-1092 with the car and the shade you want. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092 with the car and the shade you want. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -69,7 +72,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the car and the shade you want. 
    "@id": "https://www.audiomotorsports.com/north-hollywood/#webpage",
    "url": "https://www.audiomotorsports.com/north-hollywood/",
    "name": "Car Window Tint for North Hollywood | Audio MotorSports",
-   "description": "North Hollywood car window tint and ceramic window tint at Audio MotorSports in Carson, 24.7 miles away, plus car stereo, CarPlay and alarm installation. Call (310) 513-8800.",
+   "description": "North Hollywood car window tint and ceramic window tint at Audio MotorSports in Carson, 24.7 miles away, plus car stereo, CarPlay and alarm installation. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

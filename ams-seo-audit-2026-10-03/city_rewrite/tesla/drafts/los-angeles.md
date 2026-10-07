@@ -5,7 +5,7 @@ miles: 15.6
 lead_service: Tesla window tint (Cybertruck)
 source: hub-mounted copy; standalone www host not verified
 title: Cybertruck & Tesla Tint, Los Angeles | Tesla Tint LA
-meta: Cybertruck and Tesla window tint for Los Angeles owners, done in Carson by Audio MotorSports 15.6 miles south. Ceramic film, flat edges. Call (310) 513-8800.
+meta: Cybertruck and Tesla window tint for Los Angeles owners, done in Carson by Audio MotorSports 15.6 miles south. Ceramic film, flat edges. Call (213) 429-1092.
 ---
 # Cybertruck and Tesla Window Tint for Los Angeles Owners
 
@@ -28,6 +28,9 @@ Audio MotorSports also fits dash cameras, GPS trackers, Compustar remote start a
 Plan on about 15.6 miles and roughly 31 to 37 minutes outside rush hour (approx). We are open Monday to Saturday, 9:30 AM to 6:00 PM, closed Sunday. Reserve a time, then either drop the truck off and pick it up later or wait at the shop. Owners drive to us from Temecula for this; a Los Angeles trip is routine.
 
 [SHOP NOTE: 2-3 sentences from Nick about Los Angeles customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Los Angeles, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. The shop is LGBTQ-friendly and everyone from Los Angeles is welcome, as our Google and Yelp listings state. Coming from Los Angeles, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## What Los Angeles Tesla owners want to know
 
@@ -53,7 +56,7 @@ Leave the windows up for several days while the film bonds to the glass. After t
 
 ## Pricing
 
-Cybertruck and every other Tesla model are quoted by model at the shop; text the year and model and we will send a figure. The non-Tesla reference is Solar $249 and Solar Ceramic $329 installed, as of October 2026. Other jobs are quoted at the shop. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Cybertruck and every other Tesla model are quoted by model at the shop; text the year and model and we will send a figure. The non-Tesla reference is Solar $249 and Solar Ceramic $329 installed, as of October 2026. Other jobs are quoted at the shop. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near Los Angeles
 
@@ -65,7 +68,7 @@ Cybertruck and every other Tesla model are quoted by model at the shop; text the
 
 ## Reach the shop
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -76,7 +79,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-los-angeles/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-los-angeles/",
    "name": "Cybertruck & Tesla Tint, Los Angeles | Tesla Tint LA",
-   "description": "Cybertruck and Tesla window tint for Los Angeles owners, done in Carson by Audio MotorSports 15.6 miles south. Ceramic film, flat edges. Call (310) 513-8800.",
+   "description": "Cybertruck and Tesla window tint for Los Angeles owners, done in Carson by Audio MotorSports 15.6 miles south. Ceramic film, flat edges. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

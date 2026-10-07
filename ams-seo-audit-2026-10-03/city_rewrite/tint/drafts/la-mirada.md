@@ -4,7 +4,7 @@ city: La Mirada
 miles: 15.6
 lead_service: ceramic window tint
 title: Ceramic Window Tint La Mirada | LA Car Tint, Carson
-meta: Ceramic window tint and car window tinting for La Mirada drivers, hand-cut and installed by Audio MotorSports in Carson, 15.6 miles away. Call (310) 513-8800.
+meta: Ceramic window tint and car window tinting for La Mirada drivers, hand-cut and installed by Audio MotorSports in Carson, 15.6 miles away. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Ceramic Window Tint for La Mirada Drivers, by Audio MotorSports, Carson
@@ -26,6 +26,9 @@ Carson is about 15.6 miles from La Mirada, close to a thirty-five-minute drive (
 
 [SHOP NOTE: 2-3 sentences from Nick about La Mirada customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for La Mirada customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. From La Mirada you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
+
 ## Questions La Mirada drivers ask
 
 ### Is ceramic window tint noticeably cooler than regular tint on a La Mirada SUV?
@@ -46,7 +49,7 @@ Usually, yes. Old film is peeled, the leftover adhesive is scraped and dissolved
 
 ### Why would someone in La Mirada drive to Carson for window tinting?
 
-Because the install is the whole product. Film ordered online is only as good as the hands that lay it, and this bay does it every working day, with Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Done once, done right, is cheaper than a redo.
+Because the install is the whole product. Film ordered online is only as good as the hands that lay it, and this bay does it every working day, with Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Done once, done right, is cheaper than a redo.
 
 ## Prices, as of October 2026
 
@@ -62,7 +65,7 @@ Solar window tint $249 installed and Solar Ceramic $329 installed, as of October
 
 ## Book it
 
-Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
+Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
 
 ```json
 {
@@ -73,7 +76,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-la-mirada/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-la-mirada/",
    "name": "Ceramic Window Tint La Mirada | LA Car Tint, Carson",
-   "description": "Ceramic window tint and car window tinting for La Mirada drivers, hand-cut and installed by Audio MotorSports in Carson, 15.6 miles away. Call (310) 513-8800.",
+   "description": "Ceramic window tint and car window tinting for La Mirada drivers, hand-cut and installed by Audio MotorSports in Carson, 15.6 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -145,7 +148,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "Why would someone in La Mirada drive to Carson for window tinting?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Because the install is the whole product. Film ordered online is only as good as the hands that lay it, and this bay does it every working day, with Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Done once, done right, is cheaper than a redo."
+      "text": "Because the install is the whole product. Film ordered online is only as good as the hands that lay it, and this bay does it every working day, with Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Done once, done right, is cheaper than a redo."
      }
     }
    ]

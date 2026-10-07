@@ -4,7 +4,7 @@ city: Bell Gardens
 miles: 11.3
 lead_service: car alarm & remote start installation
 title: Car Alarm Installation in Bell Gardens | Audio MotorSports
-meta: Bell Gardens car alarm installation, remote start and GPS trackers plus window tint and car stereo at Audio MotorSports in Carson, 11.3 miles. (310) 513-8800.
+meta: Bell Gardens car alarm installation, remote start and GPS trackers plus window tint and car stereo at Audio MotorSports in Carson, 11.3 miles. (213) 429-1092.
 ---
 # Car Alarm Installation and Remote Start Installation for Bell Gardens
 
@@ -24,7 +24,10 @@ Bell Gardens drivers who want a real alarm, not a factory chirp, drive about 11.
 
 ## Bell Gardens to Carson
 
-The run from Bell Gardens is about 11.3 miles, a 23 to 27 minute drive when traffic cooperates (approx). The shop is open Monday to Saturday, 9:30 AM to 6:00 PM, and closed Sunday. Make an appointment, then either wait while the alarm goes in or drop the car and collect it later. The shop sits near the beach in Carson and draws customers from well over 100 miles out, on the strength of Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. [SHOP NOTE: 2-3 sentences from Nick about Bell Gardens customers, routes or jobs]
+The run from Bell Gardens is about 11.3 miles, a 23 to 27 minute drive when traffic cooperates (approx). The shop is open Monday to Saturday, 9:30 AM to 6:00 PM, and closed Sunday. Make an appointment, then either wait while the alarm goes in or drop the car and collect it later. The shop sits near the beach in Carson and draws customers from well over 100 miles out, on the strength of Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. [SHOP NOTE: 2-3 sentences from Nick about Bell Gardens customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Bell Gardens, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. The shop is LGBTQ-friendly and everyone from Bell Gardens is welcome, as our Google and Yelp listings state. Coming from Bell Gardens, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Alarm questions from Bell Gardens
 
@@ -58,7 +61,7 @@ Also driving in from around Bell Gardens: [Bell](/bell/), [Downey](/downey/), [M
 
 ## Set up your Bell Gardens alarm appointment
 
-Phone (310) 513-8800 or text (213) 429-1092 with your year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Hours: Monday to Saturday 9:30 AM to 6:00 PM; Sunday closed.
+Phone (213) 429-1092 or text (213) 429-1092 with your year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Hours: Monday to Saturday 9:30 AM to 6:00 PM; Sunday closed.
 
 ```json
 {
@@ -69,7 +72,7 @@ Phone (310) 513-8800 or text (213) 429-1092 with your year, make and model. Audi
    "@id": "https://www.audiomotorsports.com/bell-gardens/#webpage",
    "url": "https://www.audiomotorsports.com/bell-gardens/",
    "name": "Car Alarm Installation in Bell Gardens | Audio MotorSports",
-   "description": "Bell Gardens car alarm installation, remote start and GPS trackers plus window tint and car stereo at Audio MotorSports in Carson, 11.3 miles. (310) 513-8800.",
+   "description": "Bell Gardens car alarm installation, remote start and GPS trackers plus window tint and car stereo at Audio MotorSports in Carson, 11.3 miles. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

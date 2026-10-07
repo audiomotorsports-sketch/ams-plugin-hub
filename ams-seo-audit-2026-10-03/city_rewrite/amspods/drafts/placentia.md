@@ -4,7 +4,7 @@ city: Placentia
 miles: 22.9
 lead_service: Replacing blown stock Harley bagger speakers
 title: Placentia Harley Bagger Blown Speaker Replacement | AMS Pods
-meta: Blown stock fairing speakers replaced, AMS lower-fairing pods and amp installation for Placentia riders. AMS Pods by Audio MotorSports, Carson. (310) 513-8800.
+meta: Blown stock fairing speakers replaced, AMS lower-fairing pods and amp installation for Placentia riders. AMS Pods by Audio MotorSports, Carson. (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Replacing Blown Stock Speakers on Harley Baggers for Placentia Riders
@@ -26,6 +26,9 @@ Audio MotorSports also handles car stereo installation, Apple CarPlay and Androi
 ## Placentia to the shop
 
 Placentia is 22.9 miles away, roughly 46 to 55 minutes outside rush hour (approx). Schedule by phone or text, ride in, and leave the bike for the day or wait at the shop for a short job. Mon-Sat 9:30-18:00, Sunday closed. Riders reach this bay from a lot farther than Orange County; Temecula is a regular. [SHOP NOTE: 2-3 sentences from Nick about Placentia riders, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Placentia, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. From Placentia you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Speaker questions from Placentia riders
 
@@ -54,7 +57,7 @@ Not over time. Each set that blows is money and a ride down. Fix the cause with 
 - AMS lower-fairing pods from $649 a pair, as of October 2026, chrome or gloss, bracket and hardware included.
 - Replacement speakers, amplifier installation and head units are priced on the bike when you bring it in. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby cities
 
@@ -62,7 +65,7 @@ Riders also come from [Brea](/amspods/bagger-audio-brea/), [Yorba Linda](/amspod
 
 ## Book the swap
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -73,7 +76,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-placentia/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-placentia/",
    "name": "Placentia Harley Bagger Blown Speaker Replacement | AMS Pods",
-   "description": "Blown stock fairing speakers replaced, AMS lower-fairing pods and amp installation for Placentia riders. AMS Pods by Audio MotorSports, Carson. (310) 513-8800.",
+   "description": "Blown stock fairing speakers replaced, AMS lower-fairing pods and amp installation for Placentia riders. AMS Pods by Audio MotorSports, Carson. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

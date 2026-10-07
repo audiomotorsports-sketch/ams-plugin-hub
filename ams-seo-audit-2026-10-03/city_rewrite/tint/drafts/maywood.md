@@ -4,12 +4,12 @@ city: Maywood
 miles: 11.9
 lead_service: car window tint (legal shade)
 title: Car Window Tint Maywood | LA Car Tint by AMS, Carson
-meta: Street-legal car window tint and ceramic window tinting for Maywood drivers at LA Car Tint by Audio MotorSports in Carson, 11.9 miles away. Call (310) 513-8800.
+meta: Street-legal car window tint and ceramic window tinting for Maywood drivers at LA Car Tint by Audio MotorSports in Carson, 11.9 miles away. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Street-Legal Car Window Tint for Maywood, by Audio MotorSports, Carson
 
-Maywood drivers get car window tint that keeps the front doors legal and the rear glass dark at LA Car Tint, the window tinting desk at Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, about 11.9 miles away. Solar and Solar Ceramic film hand-cut on the glass, Tesla window tint, car alarm installation, car stereo installation and GPS tracker installation, all booked through (310) 513-8800.
+Maywood drivers get car window tint that keeps the front doors legal and the rear glass dark at LA Car Tint, the window tinting desk at Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, about 11.9 miles away. Solar and Solar Ceramic film hand-cut on the glass, Tesla window tint, car alarm installation, car stereo installation and GPS tracker installation, all booked through (213) 429-1092.
 
 ## What Maywood drivers bring us
 
@@ -23,6 +23,9 @@ Maywood drivers get car window tint that keeps the front doors legal and the rea
 Maywood to the shop is roughly 11.9 miles, about a twenty-six-minute drive (approx) outside rush hour. Hours: Monday through Saturday, 9:30 AM to 6:00 PM, closed Sunday. Set up an appointment by phone or text, then drop the car or wait while the film is laid. A crew that cuts film on glass all week gets the fit right the first time, and that is what makes the drive pay.
 
 [SHOP NOTE: 2-3 sentences from Nick about Maywood customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Maywood drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Maywood customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Maywood.
 
 ## Questions from Maywood drivers
 
@@ -44,7 +47,7 @@ Yes, if heat is the complaint. Solar Ceramic blocks infrared heat, so the steeri
 
 ### Why do Maywood drivers choose Audio MotorSports for window tinting?
 
-A public record and posted prices. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, tells Maywood drivers what to expect, and the same visit can include car alarm installation, GPS tracker installation or car stereo installation.
+A public record and posted prices. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, tells Maywood drivers what to expect, and the same visit can include car alarm installation, GPS tracker installation or car stereo installation.
 
 ## Prices, as of October 2026
 
@@ -60,7 +63,7 @@ Solar window tinting, $249 installed. Solar Ceramic window tinting, $329 install
 
 ## Book it
 
-Call (310) 513-8800. Text (213) 429-1092. 22025 S Avalon Blvd Ste A. Carson, CA 90745. Open Mon-Sat 9:30 to 6:00. Sunday closed.
+Call (213) 429-1092. Text (213) 429-1092. 22025 S Avalon Blvd Ste A. Carson, CA 90745. Open Mon-Sat 9:30 to 6:00. Sunday closed.
 
 ```json
 {
@@ -71,7 +74,7 @@ Call (310) 513-8800. Text (213) 429-1092. 22025 S Avalon Blvd Ste A. Carson, CA 
    "@id": "https://www.audiomotorsports.com/tint/window-tint-maywood/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-maywood/",
    "name": "Car Window Tint Maywood | LA Car Tint by AMS, Carson",
-   "description": "Street-legal car window tint and ceramic window tinting for Maywood drivers at LA Car Tint by Audio MotorSports in Carson, 11.9 miles away. Call (310) 513-8800.",
+   "description": "Street-legal car window tint and ceramic window tinting for Maywood drivers at LA Car Tint by Audio MotorSports in Carson, 11.9 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -143,7 +146,7 @@ Call (310) 513-8800. Text (213) 429-1092. 22025 S Avalon Blvd Ste A. Carson, CA 
      "name": "Why do Maywood drivers choose Audio MotorSports for window tinting?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "A public record and posted prices. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, tells Maywood drivers what to expect, and the same visit can include car alarm installation, GPS tracker installation or car stereo installation."
+      "text": "A public record and posted prices. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, tells Maywood drivers what to expect, and the same visit can include car alarm installation, GPS tracker installation or car stereo installation."
      }
     }
    ]

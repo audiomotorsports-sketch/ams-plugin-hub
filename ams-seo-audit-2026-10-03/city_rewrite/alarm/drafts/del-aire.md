@@ -5,7 +5,7 @@ city: Del Aire
 miles: 8.6
 lead_service: Viper alarm installation
 title: Viper Alarm Installation for Del Aire | LA Car Alarm
-meta: Viper alarm installation for Del Aire drivers at LA Car Alarm by Audio MotorSports in Carson, 8.6 miles away. Remote start, GPS, dash cams. Call (310) 513-8800.
+meta: Viper alarm installation for Del Aire drivers at LA Car Alarm by Audio MotorSports in Carson, 8.6 miles away. Remote start, GPS, dash cams. Call (213) 429-1092.
 ---
 # Viper Alarm Installation for Del Aire Drivers
 
@@ -22,6 +22,9 @@ LA Car Alarm is the security side of Audio MotorSports at 22025 S Avalon Blvd St
 **Dash camera installation.** Front or front-and-rear cameras hardwired for parking mode, with the cable tucked along the headliner and A-pillar so there is no wire hanging off the mirror.
 
 Need something beyond security? The same shop handles car window tint, car stereo installation, Apple CarPlay and Android Auto installation, subwoofer installation and Harley bagger audio.
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Del Aire, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. The shop is LGBTQ-friendly and everyone from Del Aire is welcome, as our Google and Yelp listings state. Coming from Del Aire, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Getting here from Del Aire
 
@@ -41,7 +44,7 @@ Yes. Compustar makes bypass modules for most push-to-start vehicles, and the ins
 
 ### Is Del Aire close enough to make the trip worth it?
 
-At under nine miles you are one of our nearer cities. People drive in from over a hundred miles away for the same alarm work, because what matters is who does the wiring, not how far the shop is. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+At under nine miles you are one of our nearer cities. People drive in from over a hundred miles away for the same alarm work, because what matters is who does the wiring, not how far the shop is. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ### What does a GPS tracker installation protect against?
 
@@ -57,7 +60,7 @@ Viper 3108V alarm $269 installed. Compustar 9910 remote start from $499. GPS tra
 
 ## Book your Del Aire alarm install
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -130,7 +133,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. LA Car
      "name": "Is Del Aire close enough to make the trip worth it?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "At under nine miles you are one of our nearer cities. People drive in from over a hundred miles away for the same alarm work, because what matters is who does the wiring, not how far the shop is. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026."
+      "text": "At under nine miles you are one of our nearer cities. People drive in from over a hundred miles away for the same alarm work, because what matters is who does the wiring, not how far the shop is. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026."
      }
     },
     {

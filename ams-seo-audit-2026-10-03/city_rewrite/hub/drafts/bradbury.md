@@ -4,7 +4,7 @@ city: Bradbury
 miles: 34.4
 lead_service: alarm & remote start
 title: Car Alarm Installation for Bradbury | Audio MotorSports
-meta: Bradbury drivers: Viper alarm installation, Compustar remote start, GPS tracker installs, tint and car stereo at Audio MotorSports in Carson. (310) 513-8800.
+meta: Bradbury drivers: Viper alarm installation, Compustar remote start, GPS tracker installs, tint and car stereo at Audio MotorSports in Carson. (213) 429-1092.
 ---
 # Car Alarm and Remote Start Installation for Bradbury
 
@@ -21,6 +21,9 @@ Bradbury drivers come about 34.4 miles to Audio MotorSports at 22025 S Avalon Bl
 **Dash camera installation.** Fuse-tapped with a voltage cutoff, cable under the headliner, parked mode on.
 
 **Ceramic window tint and head unit installation.** Solar Ceramic film hand-cut on the glass; CarPlay decks with the factory camera and controls kept.
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Bradbury customers tell us makes the drop-off painless. Bradbury customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Coming from Bradbury, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Bradbury to the shop
 
@@ -44,7 +47,7 @@ Most of a day on a push-button vehicle, because of the bypass module programming
 
 ### Who should I ask for when I call?
 
-Ask for Nick. He takes the year, make and model, confirms the parts, and gives you the price before anything is opened. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, is the record, and payment plan is available if you ask.
+Ask for Nick. He takes the year, make and model, confirms the parts, and gives you the price before anything is opened. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, is the record, and payment plan is available if you ask.
 
 ## Prices as of October 2026
 
@@ -56,7 +59,7 @@ Viper 3108V alarm $269 installed. Compustar 9910 remote start from $499. Window 
 
 ## Schedule from Bradbury
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30-18:00; Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30-18:00; Sunday closed.
 
 ```json
 {
@@ -67,7 +70,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio 
    "@id": "https://www.audiomotorsports.com/bradbury/#webpage",
    "url": "https://www.audiomotorsports.com/bradbury/",
    "name": "Car Alarm Installation for Bradbury | Audio MotorSports",
-   "description": "Bradbury drivers: Viper alarm installation, Compustar remote start, GPS tracker installs, tint and car stereo at Audio MotorSports in Carson. (310) 513-8800.",
+   "description": "Bradbury drivers: Viper alarm installation, Compustar remote start, GPS tracker installs, tint and car stereo at Audio MotorSports in Carson. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {
@@ -142,7 +145,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio 
      "name": "Who should I ask for when I call?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Ask for Nick. He takes the year, make and model, confirms the parts, and gives you the price before anything is opened. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, is the record, and payment plan is available if you ask."
+      "text": "Ask for Nick. He takes the year, make and model, confirms the parts, and gives you the price before anything is opened. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, is the record, and payment plan is available if you ask."
      }
     }
    ]

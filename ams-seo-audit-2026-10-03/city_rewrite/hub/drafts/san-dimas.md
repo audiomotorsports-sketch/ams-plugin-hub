@@ -4,7 +4,7 @@ city: San Dimas
 miles: 42.1
 lead_service: Tesla window tint
 title: Tesla Window Tint for San Dimas | Audio MotorSports
-meta: Tesla window tint, ceramic window tint, car stereo installation and alarms for San Dimas drivers at Audio MotorSports in Carson, 42.1 miles. (310) 513-8800.
+meta: Tesla window tint, ceramic window tint, car stereo installation and alarms for San Dimas drivers at Audio MotorSports in Carson, 42.1 miles. (213) 429-1092.
 ---
 # Tesla Window Tint & Ceramic Tint for San Dimas
 
@@ -24,13 +24,16 @@ San Dimas Tesla owners drive 42.1 miles to Audio MotorSports in Carson, 22025 S 
 
 ## San Dimas to Carson
 
-San Dimas is 42.1 miles from the bay, roughly eighty-four to one hundred one minutes outside rush hour (approx). We are open Monday through Saturday from 9:30 to 6:00 and closed Sunday. Set the appointment by call or text, then leave the Tesla with us for the day or wait in the lobby; the rear glass makes it a longer job, so plan on an afternoon. Customers come from San Diego and from more than 100 miles out for this bay, so the drive from the east county is a normal one.
+San Dimas is 42.1 miles from the bay, roughly eighty-four to one hundred one minutes outside rush hour (approx). We are open Monday through Saturday from 9:30 to 6:00 and closed Sunday. Set the appointment by call or text, then leave the Tesla with us for the day or wait inside; the rear glass makes it a longer job, so plan on an afternoon. Customers come from San Diego and from more than 100 miles out for this bay, so the drive from the east county is a normal one.
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from San Dimas, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. The shop is LGBTQ-friendly and everyone from San Dimas is welcome, as our Google and Yelp listings state. Coming from San Dimas, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## San Dimas Tesla tint questions
 
 ### Is a Tesla from San Dimas worth driving to Carson for window tint?
 
-Yes. Tesla window tint lives or dies on the rear glass, and here it is one sheet of ceramic film shrunk to the curve in a clean bay, by people who do it regularly. San Dimas is 42.1 miles, roughly eighty-four to one hundred one minutes outside rush hour. Call (310) 513-8800 or text (213) 429-1092.
+Yes. Tesla window tint lives or dies on the rear glass, and here it is one sheet of ceramic film shrunk to the curve in a clean bay, by people who do it regularly. San Dimas is 42.1 miles, roughly eighty-four to one hundred one minutes outside rush hour. Call (213) 429-1092 or text (213) 429-1092.
 
 ### Will ceramic window tint change how Sentry Mode or Autopilot works?
 
@@ -69,7 +72,7 @@ Tesla packages with the roof are quoted at the shop. As of October 2026. Payment
 
 ## Book the Tesla from San Dimas
 
-Call (310) 513-8800 or text the model and year to (213) 429-1092. Audio MotorSports sits at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00 and closed Sunday. Drop the car or wait while it is done.
+Call (213) 429-1092 or text the model and year to (213) 429-1092. Audio MotorSports sits at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00 and closed Sunday. Drop the car or wait while it is done.
 
 ```json
 {
@@ -80,7 +83,7 @@ Call (310) 513-8800 or text the model and year to (213) 429-1092. Audio MotorSpo
    "@id": "https://www.audiomotorsports.com/san-dimas/#webpage",
    "url": "https://www.audiomotorsports.com/san-dimas/",
    "name": "Tesla Window Tint for San Dimas | Audio MotorSports",
-   "description": "Tesla window tint, ceramic window tint, car stereo installation and alarms for San Dimas drivers at Audio MotorSports in Carson, 42.1 miles. Call (310) 513-8800 to book.",
+   "description": "Tesla window tint, ceramic window tint, car stereo installation and alarms for San Dimas drivers at Audio MotorSports in Carson, 42.1 miles. Call (213) 429-1092 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -122,7 +125,7 @@ Call (310) 513-8800 or text the model and year to (213) 429-1092. Audio MotorSpo
      "name": "Is a Tesla from San Dimas worth driving to Carson for window tint?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. Tesla window tint lives or dies on the rear glass, and here it is one sheet of ceramic film shrunk to the curve in a clean bay, by people who do it regularly. San Dimas is 42.1 miles, roughly eighty-four to one hundred one minutes outside rush hour. Call (310) 513-8800 or text (213) 429-1092."
+      "text": "Yes. Tesla window tint lives or dies on the rear glass, and here it is one sheet of ceramic film shrunk to the curve in a clean bay, by people who do it regularly. San Dimas is 42.1 miles, roughly eighty-four to one hundred one minutes outside rush hour. Call (213) 429-1092 or text (213) 429-1092."
      }
     },
     {

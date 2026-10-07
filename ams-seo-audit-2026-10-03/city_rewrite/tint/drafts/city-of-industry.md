@@ -4,7 +4,7 @@ city: City of Industry
 miles: 27.2
 lead_service: car window tint
 title: Car Window Tint City of Industry | LA Car Tint, Carson
-meta: Car window tint for City of Industry company cars, trucks and commuters, installed by hand at Audio MotorSports in Carson, 27.2 miles away. Call (310) 513-8800.
+meta: Car window tint for City of Industry company cars, trucks and commuters, installed by hand at Audio MotorSports in Carson, 27.2 miles away. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Window Tint for City of Industry, by Audio MotorSports, Carson
@@ -26,6 +26,9 @@ It is about 27.2 miles, about an hour (approx) when the roads are open. We are o
 
 [SHOP NOTE: 2-3 sentences from Nick about City of Industry customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the City of Industry job is finished. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. Coming from City of Industry, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
+
 ## What City of Industry drivers ask
 
 ### Can a company car from City of Industry be tinted while I am at work?
@@ -42,7 +45,7 @@ If it parks outside between drives, yes. Solar Ceramic blocks infrared heat, so 
 
 ### Why drive from City of Industry to Carson for window tinting?
 
-Because the install decides whether the film lasts. Film is cut on your glass, edges sit under the seal, every panel is heat-set, and the shop carries Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. An hour's drive is cheaper than a redo.
+Because the install decides whether the film lasts. Film is cut on your glass, edges sit under the seal, every panel is heat-set, and the shop carries Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. An hour's drive is cheaper than a redo.
 
 ### Can GPS tracking and tint be installed on a work truck in one visit?
 
@@ -61,7 +64,7 @@ Solar window tint $249 installed and Solar Ceramic $329 installed, as of October
 
 ## Book it
 
-Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
+Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
 
 ```json
 {
@@ -72,7 +75,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-city-of-industry/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-city-of-industry/",
    "name": "Car Window Tint City of Industry | LA Car Tint, Carson",
-   "description": "Car window tint for City of Industry company cars, trucks and commuters, installed by hand at Audio MotorSports in Carson, 27.2 miles away. Call (310) 513-8800.",
+   "description": "Car window tint for City of Industry company cars, trucks and commuters, installed by hand at Audio MotorSports in Carson, 27.2 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -136,7 +139,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "Why drive from City of Industry to Carson for window tinting?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Because the install decides whether the film lasts. Film is cut on your glass, edges sit under the seal, every panel is heat-set, and the shop carries Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. An hour's drive is cheaper than a redo."
+      "text": "Because the install decides whether the film lasts. Film is cut on your glass, edges sit under the seal, every panel is heat-set, and the shop carries Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. An hour's drive is cheaper than a redo."
      }
     },
     {

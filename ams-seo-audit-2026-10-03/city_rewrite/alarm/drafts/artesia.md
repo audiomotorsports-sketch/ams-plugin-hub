@@ -5,7 +5,7 @@ city: Artesia
 miles: 10.8
 lead_service: work-truck security
 title: Work Truck Alarm Installation for Artesia | LA Car Alarm
-meta: Work truck alarm installation, GPS trackers and remote start for Artesia drivers at LA Car Alarm by Audio MotorSports in Carson. Call (310) 513-8800.
+meta: Work truck alarm installation, GPS trackers and remote start for Artesia drivers at LA Car Alarm by Audio MotorSports in Carson. Call (213) 429-1092.
 ---
 # Work Truck Security and Car Alarm Installation for Artesia
 
@@ -23,6 +23,9 @@ Artesia trucks and cars come 10.8 miles to LA Car Alarm by Audio MotorSports, 22
 
 Audio MotorSports also does car window tint, car stereo installation, Apple CarPlay and Android Auto, subwoofers and amplifiers and Harley bagger audio, if you want the truck to get everything at once.
 
+<!-- owner-details-2026-10-07 -->
+For a longer job from Artesia, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. The shop is LGBTQ-friendly and everyone from Artesia is welcome, as our Google and Yelp listings state. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Artesia traffic sends you.
+
 ## Artesia to the shop
 
 Figure 22 to 26 minutes for the 10.8 miles outside rush hour (approx). Book a time, then drop the truck or wait at the shop while we wire it. Open Mon-Sat 9:30-18:00, closed Sunday. [SHOP NOTE: 2-3 sentences from Nick about Artesia customers, routes or jobs]
@@ -33,7 +36,7 @@ Often, yes. A pin switch on a lid or a sensor on the tailgate can be tied into t
 
 ### Does remote start installation work on a diesel pickup?
 
-Many diesels are supported. The Compustar bypass honors the glow-plug wait before cranking, and we confirm your exact year, make and model before you drive over so there is no wasted trip. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Many diesels are supported. The Compustar bypass honors the glow-plug wait before cranking, and we confirm your exact year, make and model before you drive over so there is no wasted trip. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ### How does the alarm stop a thief who knows where the fuse box is?
 
@@ -57,7 +60,7 @@ Viper 3108V alarm $269 installed. Compustar 9910 remote start from $499. Tracker
 
 ## Book an Artesia truck or car install
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -114,7 +117,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. LA Car
      "name": "Does remote start installation work on a diesel pickup?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Many diesels are supported. The Compustar bypass honors the glow-plug wait before cranking, and we confirm your exact year, make and model before you drive over so there is no wasted trip. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026."
+      "text": "Many diesels are supported. The Compustar bypass honors the glow-plug wait before cranking, and we confirm your exact year, make and model before you drive over so there is no wasted trip. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026."
      }
     },
     {

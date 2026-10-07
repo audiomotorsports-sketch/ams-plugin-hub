@@ -4,7 +4,7 @@ city: Signal Hill
 miles: 5.8
 lead_service: Tesla window tint
 title: Tesla Window Tint for Signal Hill | Audio MotorSports
-meta: Tesla window tint, ceramic tint and car audio for Signal Hill at Audio MotorSports in Carson, 5.8 miles out. Call (310) 513-8800 or text (213) 429-1092.
+meta: Tesla window tint, ceramic tint and car audio for Signal Hill at Audio MotorSports in Carson, 5.8 miles out. Call (213) 429-1092 or text (213) 429-1092.
 ---
 # Tesla Window Tint and Car Audio for Signal Hill
 
@@ -25,6 +25,9 @@ Signal Hill Tesla owners drive 5.8 miles to Audio MotorSports in Carson, 22025 S
 ## Signal Hill to the bay in Carson
 
 It is 5.8 miles from Signal Hill to the shop, roughly twelve to fourteen minutes when traffic is light (approx). We open Monday through Saturday at 9:30 and close at 6:00, with Sunday off. Set up an appointment first, then either leave the car with us and come back when it is finished, or stay in the waiting area while it is done. Tint work is best left to cure, so most Signal Hill drivers drop and go.
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Signal Hill, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Signal Hill customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Signal Hill traffic sends you.
 
 ## Questions from Signal Hill owners
 
@@ -61,7 +64,7 @@ Window tint with Solar film is $249 installed and Solar Ceramic is $329 installe
 
 ## Set up your appointment
 
-Phone (310) 513-8800, or text the year, make and model to (213) 429-1092 and we will reply with a time. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00 and closed Sunday.
+Phone (213) 429-1092, or text the year, make and model to (213) 429-1092 and we will reply with a time. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00 and closed Sunday.
 
 ```json
 {
@@ -72,7 +75,7 @@ Phone (310) 513-8800, or text the year, make and model to (213) 429-1092 and we 
    "@id": "https://www.audiomotorsports.com/signal-hill/#webpage",
    "url": "https://www.audiomotorsports.com/signal-hill/",
    "name": "Tesla Window Tint for Signal Hill | Audio MotorSports",
-   "description": "Tesla window tint, ceramic tint and car audio for Signal Hill at Audio MotorSports in Carson, 5.8 miles out. Call (310) 513-8800 or text (213) 429-1092.",
+   "description": "Tesla window tint, ceramic tint and car audio for Signal Hill at Audio MotorSports in Carson, 5.8 miles out. Call (213) 429-1092 or text (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

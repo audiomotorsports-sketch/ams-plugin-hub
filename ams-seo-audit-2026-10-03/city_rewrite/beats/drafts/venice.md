@@ -6,7 +6,7 @@ lead_service: Apple CarPlay and Android Auto installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Venice CarPlay & Android Auto Install | LA Car Beats
-meta: Apple CarPlay and Android Auto installation for Venice drivers at LA Car Beats by Audio MotorSports in Carson, 15.9 miles away. Call (310) 513-8800 to book.
+meta: Apple CarPlay and Android Auto installation for Venice drivers at LA Car Beats by Audio MotorSports in Carson, 15.9 miles away. Call (213) 429-1092 to book.
 ---
 # Apple CarPlay and Android Auto Installation for Venice
 
@@ -22,7 +22,10 @@ Venice drivers add Apple CarPlay and Android Auto at LA Car Beats by Audio Motor
 
 ## Venice to the shop
 
-From Venice the shop is about 15.9 miles, roughly 32 to 38 minutes outside rush hour (approx). Open Monday through Saturday 9:30 to 6:00, closed Sunday. Call (310) 513-8800 or text (213) 429-1092 to reserve a time. A CarPlay interface or head unit installation can be waited on; a system with speakers and an amp is better as a drop-off. People have driven from San Diego for this shop, so a run from Venice is routine.
+From Venice the shop is about 15.9 miles, roughly 32 to 38 minutes outside rush hour (approx). Open Monday through Saturday 9:30 to 6:00, closed Sunday. Call (213) 429-1092 or text (213) 429-1092 to reserve a time. A CarPlay interface or head unit installation can be waited on; a system with speakers and an amp is better as a drop-off. People have driven from San Diego for this shop, so a run from Venice is routine.
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Venice customers tell us makes the drop-off painless. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. Coming from Venice, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Venice CarPlay questions
 
@@ -40,7 +43,7 @@ That is a requirement for us, not an option. The camera switches to the screen i
 
 ### How long is the drive from Venice and can I wait for it?
 
-About 15.9 miles, roughly 35 minutes on a normal day. A CarPlay interface or a straightforward head unit installation is usually a wait in the lobby. If you are adding speaker replacement or an amplifier, drop the car off in the morning and pick it up later.
+About 15.9 miles, roughly 35 minutes on a normal day. A CarPlay interface or a straightforward head unit installation is usually a wait inside. If you are adding speaker replacement or an amplifier, drop the car off in the morning and pick it up later.
 
 ### What does a proper Apple CarPlay and Android Auto installation include?
 
@@ -48,7 +51,7 @@ The head unit or interface, the dash kit and harness, a steering-wheel control m
 
 ## Pricing for Venice drivers
 
-One fixed audio price: the Dual Kicker Comp loaded box at $249, box only, as of October 2026. Apple CarPlay and Android Auto installation, head unit installation, speaker replacement, amplifier installation and subwoofer installation are quoted at the shop. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Window tint and ceramic window tint, Tesla window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation and Harley bagger audio with AMS pods are available in the same visit.
+One fixed audio price: the Dual Kicker Comp loaded box at $249, box only, as of October 2026. Apple CarPlay and Android Auto installation, head unit installation, speaker replacement, amplifier installation and subwoofer installation are quoted at the shop. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Window tint and ceramic window tint, Tesla window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation and Harley bagger audio with AMS pods are available in the same visit.
 
 ## Westside neighbors of Venice
 
@@ -61,7 +64,7 @@ Car stereo installation pages for the cities next to Venice:
 
 ## Book from Venice
 
-Text (213) 429-1092 or call (310) 513-8800 with your vehicle details. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Text (213) 429-1092 or call (213) 429-1092 with your vehicle details. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -73,7 +76,7 @@ Text (213) 429-1092 or call (310) 513-8800 with your vehicle details. Audio Moto
    "name": "Venice CarPlay & Android Auto Install | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-venice/",
    "dateModified": "2026-10-08",
-   "description": "Apple CarPlay and Android Auto installation for Venice drivers at LA Car Beats by Audio MotorSports in Carson, 15.9 miles away. Call (310) 513-8800 to book.",
+   "description": "Apple CarPlay and Android Auto installation for Venice drivers at LA Car Beats by Audio MotorSports in Carson, 15.9 miles away. Call (213) 429-1092 to book.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }
@@ -135,7 +138,7 @@ Text (213) 429-1092 or call (310) 513-8800 with your vehicle details. Audio Moto
      "name": "How long is the drive from Venice and can I wait for it?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "About 15.9 miles, roughly 35 minutes on a normal day. A CarPlay interface or a straightforward head unit installation is usually a wait in the lobby. If you are adding speaker replacement or an amplifier, drop the car off in the morning and pick it up later."
+      "text": "About 15.9 miles, roughly 35 minutes on a normal day. A CarPlay interface or a straightforward head unit installation is usually a wait inside. If you are adding speaker replacement or an amplifier, drop the car off in the morning and pick it up later."
      }
     },
     {

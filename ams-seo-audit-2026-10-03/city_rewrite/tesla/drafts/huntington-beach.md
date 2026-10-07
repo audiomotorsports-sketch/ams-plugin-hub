@@ -5,7 +5,7 @@ miles: 19.3
 lead_service: Tesla window tint (Cybertruck)
 source: hub-mounted copy; standalone www host not verified
 title: Cybertruck Tint for Huntington Beach | Tesla Tint LA
-meta: Cybertruck and Tesla window tint for Huntington Beach owners at Audio MotorSports in Carson, 19.3 miles away. Ceramic film, board-cut. Call (310) 513-8800.
+meta: Cybertruck and Tesla window tint for Huntington Beach owners at Audio MotorSports in Carson, 19.3 miles away. Ceramic film, board-cut. Call (213) 429-1092.
 ---
 # Cybertruck and Tesla Window Tint for Huntington Beach
 
@@ -28,6 +28,9 @@ Audio MotorSports can also wire a dash camera, a GPS tracker, a Compustar remote
 Figure about 19.3 miles and roughly 39 to 46 minutes outside rush hour (approx). We are open Monday through Saturday, 9:30 AM to 6:00 PM and closed Sunday. Schedule a time, then leave the Cybertruck for the day or wait at the shop. Owners drive to us from over 100 miles away; Huntington Beach is an easy morning run.
 
 [SHOP NOTE: 2-3 sentences from Nick about Huntington Beach customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Huntington Beach drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Coming from Huntington Beach, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Huntington Beach Cybertruck tint questions
 
@@ -53,7 +56,7 @@ Yes. Ceramic film is stable in UV and does not discolor with sun exposure. Keep 
 
 ## Pricing
 
-Cybertruck tint and all Tesla tint are quoted by model at the shop; text the year and model for a figure. For a non-Tesla reference, Solar is $249 and Solar Ceramic is $329 installed, as of October 2026. Other installs are quoted at the shop. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Cybertruck tint and all Tesla tint are quoted by model at the shop; text the year and model for a figure. For a non-Tesla reference, Solar is $249 and Solar Ceramic is $329 installed, as of October 2026. Other installs are quoted at the shop. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near Huntington Beach
 
@@ -65,7 +68,7 @@ Cybertruck tint and all Tesla tint are quoted by model at the shop; text the yea
 
 ## Book the truck in
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -76,7 +79,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-huntington-beach/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-huntington-beach/",
    "name": "Cybertruck Tint for Huntington Beach | Tesla Tint LA",
-   "description": "Cybertruck and Tesla window tint for Huntington Beach owners at Audio MotorSports in Carson, 19.3 miles away. Ceramic film, board-cut. Call (310) 513-8800.",
+   "description": "Cybertruck and Tesla window tint for Huntington Beach owners at Audio MotorSports in Carson, 19.3 miles away. Ceramic film, board-cut. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

@@ -4,7 +4,7 @@ city: Studio City
 miles: 23.4
 lead_service: car audio/stereo
 title: Car Stereo & Subwoofer for Studio City | Audio MotorSports
-meta: Car stereo installation, subwoofer and amp installs, speaker replacement, tint and alarms for Studio City drivers at Audio MotorSports, Carson. (310) 513-8800.
+meta: Car stereo installation, subwoofer and amp installs, speaker replacement, tint and alarms for Studio City drivers at Audio MotorSports, Carson. (213) 429-1092.
 ---
 # Car Stereo and Subwoofer Installation for Studio City
 
@@ -21,6 +21,9 @@ Studio City drivers come about 23.4 miles over the hill to Audio MotorSports at 
 **Car window tint.** Solar and Solar Ceramic film hand-cut on the glass.
 
 **Car alarm installation and dash camera installation.** Viper systems hidden from the fuse box; cameras fuse-tapped with the cable behind the trim.
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Studio City customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. Studio City customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Studio City.
 
 ## Studio City to Carson
 
@@ -44,7 +47,7 @@ Yes. The camera comes through a retention harness and the buttons through a cont
 
 ### Can I get window tinting done on the same trip?
 
-You can. Solar is $249 and Solar Ceramic $329 installed as of October 2026, and the film goes on while the stereo is being tested. Book both and the car is ready the same afternoon. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, for reference.
+You can. Solar is $249 and Solar Ceramic $329 installed as of October 2026, and the film goes on while the stereo is being tested. Book both and the car is ready the same afternoon. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, for reference.
 
 ## Prices as of October 2026
 
@@ -56,7 +59,7 @@ Dual Kicker Comp box $249 box only. Window tint Solar $249, Solar Ceramic $329 i
 
 ## Book a Studio City install
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. You will find the shop at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-18:00, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. You will find the shop at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -67,7 +70,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. You wi
    "@id": "https://www.audiomotorsports.com/studio-city/#webpage",
    "url": "https://www.audiomotorsports.com/studio-city/",
    "name": "Car Stereo & Subwoofer Installation, Studio City | Audio MotorSports",
-   "description": "Car stereo installation, subwoofer and amplifier installs, speaker replacement, window tint and alarms for Studio City drivers at Audio MotorSports in Carson. (310) 513-8800.",
+   "description": "Car stereo installation, subwoofer and amplifier installs, speaker replacement, window tint and alarms for Studio City drivers at Audio MotorSports in Carson. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -141,7 +144,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. You wi
      "name": "Can I get window tinting done on the same trip?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "You can. Solar is $249 and Solar Ceramic $329 installed as of October 2026, and the film goes on while the stereo is being tested. Book both and the car is ready the same afternoon. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, for reference."
+      "text": "You can. Solar is $249 and Solar Ceramic $329 installed as of October 2026, and the film goes on while the stereo is being tested. Book both and the car is ready the same afternoon. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, for reference."
      }
     }
    ]

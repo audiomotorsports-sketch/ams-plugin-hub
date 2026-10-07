@@ -4,7 +4,7 @@ city: Monterey Park
 miles: 17.9
 lead_service: Tesla window tint
 title: Tesla Window Tint for Monterey Park | Audio MotorSports
-meta: Tesla window tint, ceramic tint, car stereo installation and alarms for Monterey Park drivers at Audio MotorSports in Carson, 17.9 miles. Call (310) 513-8800.
+meta: Tesla window tint, ceramic tint, car stereo installation and alarms for Monterey Park drivers at Audio MotorSports in Carson, 17.9 miles. Call (213) 429-1092.
 ---
 # Tesla Window Tint for Monterey Park Drivers
 
@@ -21,6 +21,9 @@ Monterey Park Tesla owners drive about 17.9 miles to Audio MotorSports at 22025 
 **Car alarm installation and remote start installation.** Viper and Compustar systems wired into factory circuits and hidden from the fuse box.
 
 **Dash camera installation.** Hardwired with the cable behind the trim and parked recording.
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Monterey Park job is finished. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Monterey Park traffic sends you.
 
 ## From Monterey Park to Carson
 
@@ -40,7 +43,7 @@ No. The side repeater cameras, the rear camera and the ultrasonic sensors are al
 
 ### How long does Tesla tint take and can I wait?
 
-A few hours for four doors and the rear glass, longer with the roof. You can wait in the shop or drop it and we will call. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, is the reason most people are comfortable leaving the car.
+A few hours for four doors and the rear glass, longer with the roof. You can wait in the shop or drop it and we will call. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, is the reason most people are comfortable leaving the car.
 
 ### Do you also do car alarm installation on a Tesla?
 
@@ -56,7 +59,7 @@ Standard-vehicle window tint Solar $249, Solar Ceramic $329 installed. Viper 310
 
 ## Book from Monterey Park
 
-Call (310) 513-8800, or text (213) 429-1092 with your Tesla model and year. Audio MotorSports is located at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-18:00, closed Sunday.
+Call (213) 429-1092, or text (213) 429-1092 with your Tesla model and year. Audio MotorSports is located at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -67,7 +70,7 @@ Call (310) 513-8800, or text (213) 429-1092 with your Tesla model and year. Audi
    "@id": "https://www.audiomotorsports.com/monterey-park/#webpage",
    "url": "https://www.audiomotorsports.com/monterey-park/",
    "name": "Tesla Window Tint for Monterey Park | Audio MotorSports",
-   "description": "Tesla window tint, ceramic window tint, car stereo installation and alarms for Monterey Park drivers at Audio MotorSports in Carson, 17.9 miles out. Call (310) 513-8800.",
+   "description": "Tesla window tint, ceramic window tint, car stereo installation and alarms for Monterey Park drivers at Audio MotorSports in Carson, 17.9 miles out. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -133,7 +136,7 @@ Call (310) 513-8800, or text (213) 429-1092 with your Tesla model and year. Audi
      "name": "How long does Tesla tint take and can I wait?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "A few hours for four doors and the rear glass, longer with the roof. You can wait in the shop or drop it and we will call. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, is the reason most people are comfortable leaving the car."
+      "text": "A few hours for four doors and the rear glass, longer with the roof. You can wait in the shop or drop it and we will call. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, is the reason most people are comfortable leaving the car."
      }
     },
     {

@@ -4,7 +4,7 @@ city: La Habra Heights
 miles: 20.1
 lead_service: ceramic window tint
 title: Ceramic Tint La Habra Heights | LA Car Tint, Carson
-meta: Ceramic window tint and car window tinting for La Habra Heights SUVs and trucks, installed at Audio MotorSports in Carson, 20.1 miles away. Call (310) 513-8800.
+meta: Ceramic window tint and car window tinting for La Habra Heights SUVs and trucks, installed at Audio MotorSports in Carson, 20.1 miles away. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Ceramic Window Tint for La Habra Heights, by Audio MotorSports, Carson
@@ -26,6 +26,9 @@ Figure about 20.1 miles and roughly forty-five minutes (approx) when traffic is 
 
 [SHOP NOTE: 2-3 sentences from Nick about La Habra Heights customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the La Habra Heights job is finished. The shop is LGBTQ-friendly and everyone from La Habra Heights is welcome, as our Google and Yelp listings state. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from La Habra Heights.
+
 ## Questions from La Habra Heights
 
 ### Does ceramic tint make a real difference on a large SUV from La Habra Heights?
@@ -46,7 +49,7 @@ About 20.1 miles, roughly forty-five minutes outside rush hour. Appointments are
 
 ### Is a cheaper tint job somewhere closer really a bad idea?
 
-A low price usually means pattern-cut film laid fast, and the signs show up later: lifted edges, bubbles, a light gap at the top. Redoing it costs more than doing it once. This shop carries Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, on exactly this kind of work.
+A low price usually means pattern-cut film laid fast, and the signs show up later: lifted edges, bubbles, a light gap at the top. Redoing it costs more than doing it once. This shop carries Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, on exactly this kind of work.
 
 ## Prices, as of October 2026
 
@@ -61,7 +64,7 @@ Solar window tint $249 installed and Solar Ceramic $329 installed, as of October
 
 ## Book it
 
-Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
+Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
 
 ```json
 {
@@ -72,7 +75,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-la-habra-heights/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-la-habra-heights/",
    "name": "Ceramic Tint La Habra Heights | LA Car Tint, Carson",
-   "description": "Ceramic window tint and car window tinting for La Habra Heights SUVs and trucks, installed at Audio MotorSports in Carson, 20.1 miles away. Call (310) 513-8800.",
+   "description": "Ceramic window tint and car window tinting for La Habra Heights SUVs and trucks, installed at Audio MotorSports in Carson, 20.1 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -144,7 +147,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "Is a cheaper tint job somewhere closer really a bad idea?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "A low price usually means pattern-cut film laid fast, and the signs show up later: lifted edges, bubbles, a light gap at the top. Redoing it costs more than doing it once. This shop carries Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, on exactly this kind of work."
+      "text": "A low price usually means pattern-cut film laid fast, and the signs show up later: lifted edges, bubbles, a light gap at the top. Redoing it costs more than doing it once. This shop carries Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, on exactly this kind of work."
      }
     }
    ]

@@ -4,7 +4,7 @@ city: Lynwood
 miles: 7.8
 lead_service: car stereo installation
 title: Car Stereo Installation for Lynwood | LA Car Beats, Carson
-meta: Car stereo installation and head unit installation for Lynwood drivers at LA Car Beats by Audio MotorSports, Carson. Speakers, subs. Call (310) 513-8800.
+meta: Car stereo installation and head unit installation for Lynwood drivers at LA Car Beats by Audio MotorSports, Carson. Speakers, subs. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Stereo Installation for Lynwood
@@ -24,6 +24,9 @@ For Lynwood drivers, car stereo installation is the number one reason to visit L
 ## Lynwood to the Carson shop
 
 Lynwood is about 7.8 miles from the bay, roughly 16 to 19 minutes outside rush hour (approx). Call or text for an appointment, then decide whether to leave the car or wait; a straightforward head unit installation is usually done while you wait. Open Monday to Saturday 9:30-18:00, closed Sunday. We regularly see customers who drive more than 100 miles for an installation, so Lynwood is an easy one.
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Lynwood, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. Lynwood customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Lynwood.
 
 ## Lynwood car stereo questions
 
@@ -49,7 +52,7 @@ If your factory speakers are more than ten years old or sound thin, yes. Speaker
 
 ## Lynwood prices
 
-Our published price is the Dual Kicker Comp loaded box at $249, box only, as of October 2026. Head unit installation, speaker replacement, subwoofer installation, amplifier installation and Apple CarPlay and Android Auto installation are quoted at the shop. Google 4.8 (650+ reviews), Yelp 4.7 (770+ reviews), as of October 2026. Need window tint, a car alarm, remote start, GPS tracker or dash camera installation? Same visit, same shop.
+Our published price is the Dual Kicker Comp loaded box at $249, box only, as of October 2026. Head unit installation, speaker replacement, subwoofer installation, amplifier installation and Apple CarPlay and Android Auto installation are quoted at the shop. Google 4.8 (654 reviews), Yelp 4.7 (777 reviews), as of October 2026. Need window tint, a car alarm, remote start, GPS tracker or dash camera installation? Same visit, same shop.
 
 ## Cities near Lynwood we serve
 
@@ -63,7 +66,7 @@ More car stereo installation pages around Lynwood:
 
 ## Book car stereo installation
 
-Call (310) 513-8800 or text (213) 429-1092. Visit LA Car Beats at Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, Monday to Saturday 9:30-18:00. Closed Sundays.
+Call (213) 429-1092 or text (213) 429-1092. Visit LA Car Beats at Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, Monday to Saturday 9:30-18:00. Closed Sundays.
 
 ```json
 {
@@ -74,7 +77,7 @@ Call (310) 513-8800 or text (213) 429-1092. Visit LA Car Beats at Audio MotorSpo
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-lynwood/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-lynwood/",
    "name": "Car Stereo Installation for Lynwood | LA Car Beats, Carson",
-   "description": "Car stereo installation and head unit installation for Lynwood drivers at LA Car Beats by Audio MotorSports, Carson. Speakers, subs. Call (310) 513-8800.",
+   "description": "Car stereo installation and head unit installation for Lynwood drivers at LA Car Beats by Audio MotorSports, Carson. Speakers, subs. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

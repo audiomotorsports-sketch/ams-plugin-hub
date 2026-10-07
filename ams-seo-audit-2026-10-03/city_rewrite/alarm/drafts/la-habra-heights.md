@@ -4,7 +4,7 @@ city: La Habra Heights
 miles: 20.1
 lead_service: theft recovery (GPS + alarm)
 title: Theft Recovery & Alarms, La Habra Heights | LA Car Alarm
-meta: Theft recovery GPS tracker installation and car alarm installation for La Habra Heights drivers at LA Car Alarm by Audio MotorSports, Carson. (310) 513-8800.
+meta: Theft recovery GPS tracker installation and car alarm installation for La Habra Heights drivers at LA Car Alarm by Audio MotorSports, Carson. (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Theft Recovery and Car Alarm Installation for La Habra Heights
@@ -22,6 +22,9 @@ Getting a stolen car back is a matter of knowing where it went in the first hour
 **Dash camera installation.** Parking-mode recording wired to a fused circuit, so whoever walked up to the car at night is on the card.
 
 Window tint, car stereo installation and CarPlay are done at the same address if you want to combine jobs while you are here.
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the La Habra Heights job is finished. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Coming from La Habra Heights, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## The trip from La Habra Heights
 
@@ -54,7 +57,7 @@ Because the work happens in a bay with the right tools, a bench to test on, and 
 
 GPS trackers, tilt sensors and dash cameras are quoted for your specific vehicle at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby cities
 
@@ -65,7 +68,7 @@ Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
 
 ## Get on the schedule
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

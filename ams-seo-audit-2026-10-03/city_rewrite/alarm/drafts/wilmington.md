@@ -4,7 +4,7 @@ city: Wilmington
 miles: 3.3
 lead_service: GPS tracker installation
 title: GPS Tracker Installation Wilmington | LA Car Alarm
-meta: GPS tracker and car alarm installation for Wilmington drivers at LA Car Alarm, Audio MotorSports in Carson, about 3.3 miles away. Call (310) 513-8800.
+meta: GPS tracker and car alarm installation for Wilmington drivers at LA Car Alarm, Audio MotorSports in Carson, about 3.3 miles away. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # GPS Tracker Installation for Wilmington Drivers
@@ -25,6 +25,9 @@ Window tint, car audio, CarPlay and Harley bagger audio are done in the same bay
 Wilmington is roughly 3.3 miles from the shop, about a 7- to 8-minute drive (approx) outside rush hour. Book a time first, then decide whether to leave the car with us or wait at the shop while the security work gets done. Hours are Monday to Saturday, 9:30 AM to 6:00 PM, closed Sunday. People drive in from well over 100 miles for this work, so a Wilmington trip is the easy version.
 
 [SHOP NOTE: 2-3 sentences from Nick about Wilmington customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Wilmington, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. Coming from Wilmington, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710. Wilmington is longshore, rail-yard and refinery country, and workers from all three come through the shop regularly.
 
 ## Questions Wilmington drivers ask
 
@@ -54,7 +57,7 @@ The Viper 3108V is $269 installed, as of October 2026. That covers the alarm, th
 - Compustar 9910 remote start: from $499
 - GPS trackers, dash cameras and everything else: quoted at the shop by year, make and model. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby cities we also serve
 
@@ -62,7 +65,7 @@ Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
 
 ## Book your Wilmington GPS or alarm install
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

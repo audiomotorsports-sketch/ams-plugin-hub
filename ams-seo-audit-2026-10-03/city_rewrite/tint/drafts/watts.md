@@ -4,12 +4,12 @@ city: Watts
 miles: 7.6
 lead_service: car window tint (legal front-window shade)
 title: Legal Car Window Tint for Watts | LA Car Tint
-meta: Car window tint that passes the front-window rules, installed for Watts drivers at LA Car Tint by Audio MotorSports, Carson, 7.6 miles. Call (310) 513-8800.
+meta: Car window tint that passes the front-window rules, installed for Watts drivers at LA Car Tint by Audio MotorSports, Carson, 7.6 miles. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Legal Car Window Tint for Watts Drivers, by Audio MotorSports, Carson
 
-Watts drivers who want car window tint that will not get them pulled over come to LA Car Tint at Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, about 7.6 miles south. We install Solar and Solar Ceramic window tinting with the front doors kept at the legal shade and the rear as dark as you like, film hand-cut on the glass. Car stereo installation, car alarm installation and Tesla window tint are in the same bay. Call (310) 513-8800.
+Watts drivers who want car window tint that will not get them pulled over come to LA Car Tint at Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, about 7.6 miles south. We install Solar and Solar Ceramic window tinting with the front doors kept at the legal shade and the rear as dark as you like, film hand-cut on the glass. Car stereo installation, car alarm installation and Tesla window tint are in the same bay. Call (213) 429-1092.
 
 ## What Watts drivers bring us
 
@@ -24,6 +24,9 @@ Watts to the shop is about 7.6 miles, around a seventeen-minute drive (approx) o
 
 [SHOP NOTE: 2-3 sentences from Nick about Watts customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Watts, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. Coming from Watts, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
+
 ## Questions from Watts drivers
 
 ### How dark can a Watts driver legally tint the front windows?
@@ -32,7 +35,7 @@ California requires the front side windows to let most of the light through, and
 
 ### Is it worth the drive from Watts for window tinting?
 
-Seventeen minutes buys film hand-cut on the glass at a shop with Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Watts drivers also get car alarm installation, car stereo installation and remote start installation under the same roof, which saves a second trip somewhere else.
+Seventeen minutes buys film hand-cut on the glass at a shop with Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Watts drivers also get car alarm installation, car stereo installation and remote start installation under the same roof, which saves a second trip somewhere else.
 
 ### What does ceramic window tint do that regular tint does not?
 
@@ -59,7 +62,7 @@ Solar window tinting is $249 installed and Solar Ceramic window tinting is $329 
 
 ## Book it
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Mon-Sat 9:30 AM-6:00 PM. Closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Mon-Sat 9:30 AM-6:00 PM. Closed Sunday.
 
 ```json
 {
@@ -70,7 +73,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tint/window-tint-watts/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-watts/",
    "name": "Legal Car Window Tint for Watts | LA Car Tint",
-   "description": "Car window tint that passes the front-window rules, installed for Watts drivers at LA Car Tint by Audio MotorSports, Carson, 7.6 miles. Call (310) 513-8800.",
+   "description": "Car window tint that passes the front-window rules, installed for Watts drivers at LA Car Tint by Audio MotorSports, Carson, 7.6 miles. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -118,7 +121,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "Is it worth the drive from Watts for window tinting?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Seventeen minutes buys film hand-cut on the glass at a shop with Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Watts drivers also get car alarm installation, car stereo installation and remote start installation under the same roof, which saves a second trip somewhere else."
+      "text": "Seventeen minutes buys film hand-cut on the glass at a shop with Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Watts drivers also get car alarm installation, car stereo installation and remote start installation under the same roof, which saves a second trip somewhere else."
      }
     },
     {

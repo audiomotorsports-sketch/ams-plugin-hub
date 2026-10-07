@@ -4,7 +4,7 @@ city: East Los Angeles
 miles: 14.5
 lead_service: Apple CarPlay and Android Auto installation
 title: CarPlay Installs for East Los Angeles | Audio MotorSports
-meta: East Los Angeles Apple CarPlay and Android Auto installation, car stereo, window tint and alarms at Audio MotorSports in Carson, 14.5 miles. (310) 513-8800.
+meta: East Los Angeles Apple CarPlay and Android Auto installation, car stereo, window tint and alarms at Audio MotorSports in Carson, 14.5 miles. (213) 429-1092.
 ---
 # Apple CarPlay and Android Auto Installation for East Los Angeles
 
@@ -24,7 +24,10 @@ East Los Angeles drivers get Apple CarPlay and Android Auto installation at Audi
 
 ## East Los Angeles to Carson
 
-Plan on about 14.5 miles and a 29 to 35 minute drive outside the commute (approx). The shop is open Monday to Saturday 9:30 AM to 6:00 PM and closed Sunday. Set an appointment, then wait on site for a head unit installation or leave the car for the day if tint or an alarm is going in too. We have taken calls from as far as San Jose; East Los Angeles is a short trip by comparison. The shop's reviews are public: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. [SHOP NOTE: 2-3 sentences from Nick about East Los Angeles customers, routes or jobs]
+Plan on about 14.5 miles and a 29 to 35 minute drive outside the commute (approx). The shop is open Monday to Saturday 9:30 AM to 6:00 PM and closed Sunday. Set an appointment, then wait on site for a head unit installation or leave the car for the day if tint or an alarm is going in too. We have taken calls from as far as San Jose; East Los Angeles is a short trip by comparison. The shop's reviews are public: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. [SHOP NOTE: 2-3 sentences from Nick about East Los Angeles customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from East Los Angeles, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. The shop is LGBTQ-friendly and everyone from East Los Angeles is welcome, as our Google and Yelp listings state. From East Los Angeles you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## East Los Angeles CarPlay questions
 
@@ -58,7 +61,7 @@ East Los Angeles neighbors who come to the same bay: [Boyle Heights](/boyle-heig
 
 ## Book CarPlay installation from East Los Angeles
 
-Call (310) 513-8800 or text (213) 429-1092 with the car. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday through Saturday 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092 with the car. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday through Saturday 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -69,7 +72,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the car. Audio MotorSports, 2202
    "@id": "https://www.audiomotorsports.com/east-los-angeles/#webpage",
    "url": "https://www.audiomotorsports.com/east-los-angeles/",
    "name": "CarPlay Installs for East Los Angeles | Audio MotorSports",
-   "description": "East Los Angeles Apple CarPlay and Android Auto installation, car stereo, window tint and alarms at Audio MotorSports in Carson, 14.5 miles. (310) 513-8800.",
+   "description": "East Los Angeles Apple CarPlay and Android Auto installation, car stereo, window tint and alarms at Audio MotorSports in Carson, 14.5 miles. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

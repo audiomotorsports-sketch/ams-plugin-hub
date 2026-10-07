@@ -5,7 +5,7 @@ miles: 12.3
 lead_service: Window tint / ceramic window tint (LA Car Tint)
 source: hub-mounted copy; standalone www host not verified
 title: View Park-Windsor Hills Window Tint | LA Car Tint
-meta: Privacy and ceramic window tint for View Park-Windsor Hills drivers, installed at Audio MotorSports in Carson, 12.3 miles away. Call (310) 513-8800 to book.
+meta: Privacy and ceramic window tint for View Park-Windsor Hills drivers, installed at Audio MotorSports in Carson, 12.3 miles away. Call (213) 429-1092 to book.
 ---
 # Window Tint for View Park-Windsor Hills: Privacy Done Right
 
@@ -26,6 +26,9 @@ Drivers from View Park-Windsor Hills tell us they want the car to look finished:
 The bay at 22025 S Avalon Blvd is about 12.3 miles from View Park-Windsor Hills, or 25 to 30 minutes (approx) when traffic cooperates. Book a slot by phone or text, then either hand over the keys and come back, or stay while the car is tinted. Monday to Saturday 9:30 to 6:00; Sunday we are closed. Customers from over 100 miles away make the same trip for the same reason.
 
 [SHOP NOTE: 2-3 sentences from Nick about View Park-Windsor Hills customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from View Park-Windsor Hills, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. View Park-Windsor Hills customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from View Park-Windsor Hills.
 
 ## View Park-Windsor Hills tint questions
 
@@ -59,7 +62,7 @@ A standard sedan, four doors plus rear glass, is $249 installed for Solar window
 
 ## Book window tint from View Park-Windsor Hills
 
-Call (310) 513-8800 or text (213) 429-1092 and pick a time. Audio MotorSports: 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Monday through Saturday, 9:30-6:00; closed Sunday. Google 4.8 on 650+ reviews and Yelp 4.7 on 770+ reviews, as of October 2026.
+Call (213) 429-1092 or text (213) 429-1092 and pick a time. Audio MotorSports: 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Monday through Saturday, 9:30-6:00; closed Sunday. Google 4.8 on 654 reviews and Yelp 4.7 on 777 reviews, as of October 2026.
 
 ```json
 {
@@ -70,7 +73,7 @@ Call (310) 513-8800 or text (213) 429-1092 and pick a time. Audio MotorSports: 2
    "@id": "https://www.audiomotorsports.com/tint/window-tint-view-park-windsor-hills/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-view-park-windsor-hills/",
    "name": "View Park-Windsor Hills Window Tint | LA Car Tint",
-   "description": "Privacy and ceramic window tint for View Park-Windsor Hills drivers, installed at Audio MotorSports in Carson, 12.3 miles away. Call (310) 513-8800 to book.",
+   "description": "Privacy and ceramic window tint for View Park-Windsor Hills drivers, installed at Audio MotorSports in Carson, 12.3 miles away. Call (213) 429-1092 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

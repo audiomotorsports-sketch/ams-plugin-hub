@@ -4,7 +4,7 @@ city: Rosemead
 miles: 20.4
 lead_service: truck and SUV car audio installation
 title: Rosemead Truck & SUV Car Audio Install | LA Car Beats
-meta: Truck and SUV car stereo, subwoofer and amplifier installation for Rosemead drivers at LA Car Beats, Audio MotorSports, Carson. Call (310) 513-8800.
+meta: Truck and SUV car stereo, subwoofer and amplifier installation for Rosemead drivers at LA Car Beats, Audio MotorSports, Carson. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Truck and SUV Car Audio Installation for Rosemead
@@ -26,6 +26,9 @@ Rosemead truck and SUV owners drive to LA Car Beats, the car audio bay at Audio 
 ## Rosemead to Carson
 
 Rosemead is about 20.4 miles from the shop, roughly 41 to 49 minutes outside rush hour (approx). Book a time first; a full truck build is a day drop-off, a shorter job can be waited on. Hours: Monday through Saturday 9:30 to 6:00, closed Sunday. [SHOP NOTE: 2-3 sentences from Nick about Rosemead customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Rosemead drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. From Rosemead you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Rosemead truck audio questions
 
@@ -51,7 +54,7 @@ Usually yes. Speaker replacement in most trucks and SUVs uses adapter brackets t
 
 ## Rosemead pricing
 
-Dual Kicker Comp loaded box: $249, box only, as of October 2026. Truck and SUV car stereo installation, subwoofer installation, amplifier installation and speaker replacement are quoted at the shop since cabins and factory equipment vary; payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Window tint, car alarm installation, remote start installation, GPS tracking, dash cameras and Harley bagger audio are done at the same shop.
+Dual Kicker Comp loaded box: $249, box only, as of October 2026. Truck and SUV car stereo installation, subwoofer installation, amplifier installation and speaker replacement are quoted at the shop since cabins and factory equipment vary; payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Window tint, car alarm installation, remote start installation, GPS tracking, dash cameras and Harley bagger audio are done at the same shop.
 
 ## Nearby cities
 
@@ -65,7 +68,7 @@ LA Car Beats pages for Rosemead neighbors:
 
 ## Book your truck or SUV install
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30-18:00, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -76,7 +79,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio 
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-rosemead/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-rosemead/",
    "name": "Rosemead Truck & SUV Car Audio Install | LA Car Beats",
-   "description": "Truck and SUV car stereo, subwoofer and amplifier installation for Rosemead drivers at LA Car Beats, Audio MotorSports, Carson. Call (310) 513-8800.",
+   "description": "Truck and SUV car stereo, subwoofer and amplifier installation for Rosemead drivers at LA Car Beats, Audio MotorSports, Carson. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

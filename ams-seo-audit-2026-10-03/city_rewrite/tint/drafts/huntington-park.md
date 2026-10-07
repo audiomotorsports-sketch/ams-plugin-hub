@@ -5,7 +5,7 @@ miles: 10.9
 lead_service: ceramic window tint (ceramic vs standard angle)
 source: hub-mounted copy; standalone www host not verified
 title: Huntington Park Window Tint | LA Car Tint, Audio MotorSports
-meta: Ceramic vs standard window tint explained for Huntington Park drivers. Installed by Audio MotorSports in Carson, 10.9 miles away. Call (310) 513-8800.
+meta: Ceramic vs standard window tint explained for Huntington Park drivers. Installed by Audio MotorSports in Carson, 10.9 miles away. Call (213) 429-1092.
 ---
 # Ceramic Window Tint for Huntington Park: Which Film to Pick
 
@@ -19,7 +19,10 @@ Huntington Park drivers come to LA Car Tint at Audio MotorSports, 22025 S Avalon
 
 ## Getting here from Huntington Park
 
-From Huntington Park expect about 10.9 miles, roughly a 22 to 26 minute drive (approx) outside rush hour. We book by phone or text, Monday through Saturday from 9:30 to 6:00, closed Sunday. On the day, wait in the lobby or leave the car and pick it up when we call. [SHOP NOTE: 2-3 sentences from Nick about Huntington Park customers, routes or jobs]
+From Huntington Park expect about 10.9 miles, roughly a 22 to 26 minute drive (approx) outside rush hour. We book by phone or text, Monday through Saturday from 9:30 to 6:00, closed Sunday. On the day, wait inside or leave the car and pick it up when we call. [SHOP NOTE: 2-3 sentences from Nick about Huntington Park customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Huntington Park job is finished. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. Coming from Huntington Park, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Huntington Park drivers ask
 
@@ -45,7 +48,7 @@ Because the install is the part that lasts. Film cut on a glass board and fitted
 
 ## Pricing for Huntington Park
 
-Solar window tint is $249 installed and Solar Ceramic is $329 installed on a four-door car, as of October 2026, four doors plus rear glass. Partial jobs, removal, trucks, SUVs and Teslas are quoted at the shop. Payment plan available; ask Nick. Google 4.8 (650+ reviews), Yelp 4.7 (770+ reviews), both as of October 2026.
+Solar window tint is $249 installed and Solar Ceramic is $329 installed on a four-door car, as of October 2026, four doors plus rear glass. Partial jobs, removal, trucks, SUVs and Teslas are quoted at the shop. Payment plan available; ask Nick. Google 4.8 (654 reviews), Yelp 4.7 (777 reviews), both as of October 2026.
 
 ## Nearby cities
 
@@ -58,7 +61,7 @@ The main [Huntington Park](/huntington-park/), [Bell](/bell/) and [Maywood](/may
 
 ## Book from Huntington Park
 
-Call (310) 513-8800 or text (213) 429-1092 and tell us whether you want Solar or Solar Ceramic; we are at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-6:00 and closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092 and tell us whether you want Solar or Solar Ceramic; we are at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-6:00 and closed Sunday.
 
 ```json
 {
@@ -69,7 +72,7 @@ Call (310) 513-8800 or text (213) 429-1092 and tell us whether you want Solar or
       "@id": "https://www.audiomotorsports.com/tint/window-tint-huntington-park/#webpage",
       "url": "https://www.audiomotorsports.com/tint/window-tint-huntington-park/",
       "name": "Huntington Park Window Tint | LA Car Tint, Audio MotorSports",
-      "description": "Ceramic vs standard window tint explained for Huntington Park drivers. Installed by Audio MotorSports in Carson, 10.9 miles away. Call (310) 513-8800.",
+      "description": "Ceramic vs standard window tint explained for Huntington Park drivers. Installed by Audio MotorSports in Carson, 10.9 miles away. Call (213) 429-1092.",
       "dateModified": "2026-10-08",
       "about": {
         "@id": "https://www.audiomotorsports.com/#business"

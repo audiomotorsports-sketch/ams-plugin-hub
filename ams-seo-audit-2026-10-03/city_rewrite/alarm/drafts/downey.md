@@ -5,7 +5,7 @@ city: Downey
 miles: 10.9
 lead_service: Compustar remote start installation
 title: Remote Start Installation for Downey | LA Car Alarm
-meta: Compustar remote start installation and Viper car alarms for Downey drivers at LA Car Alarm by Audio MotorSports in Carson, 10.9 miles. Call (310) 513-8800.
+meta: Compustar remote start installation and Viper car alarms for Downey drivers at LA Car Alarm by Audio MotorSports in Carson, 10.9 miles. Call (213) 429-1092.
 ---
 # Compustar Remote Start Installation for Downey
 
@@ -22,6 +22,9 @@ Downey drivers bring their cars 10.9 miles to LA Car Alarm by Audio MotorSports,
 **GPS tracker installation and dash camera installation.** Trackers go on constant power in a spot that is not obvious; cameras are hardwired for parking mode so the record keeps running after you walk away.
 
 If you also want car window tint, car stereo installation, Apple CarPlay and Android Auto, subwoofers or Harley bagger audio, the shop does those under the same roof.
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Downey, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. Downey customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. From Downey you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## From Downey to the shop
 
@@ -45,7 +48,7 @@ Because the car is on a lift in a bay with the right tools, not in a parking lot
 
 ### Does a dash camera installation drain the battery in parking mode?
 
-A hardwire kit with a voltage cutoff shuts the camera down before the battery drops too low to start the car. We set that threshold for your vehicle and route the cable so nothing dangles. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+A hardwire kit with a voltage cutoff shuts the camera down before the battery drops too low to start the car. We set that threshold for your vehicle and route the cable so nothing dangles. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Prices as of October 2026
 
@@ -57,7 +60,7 @@ Compustar 9910 remote start from $499. Viper 3108V alarm $269 installed. Bypass 
 
 ## Schedule a Downey remote start
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -138,7 +141,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. LA Car
      "name": "Does a dash camera installation drain the battery in parking mode?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "A hardwire kit with a voltage cutoff shuts the camera down before the battery drops too low to start the car. We set that threshold for your vehicle and route the cable so nothing dangles. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026."
+      "text": "A hardwire kit with a voltage cutoff shuts the camera down before the battery drops too low to start the car. We set that threshold for your vehicle and route the cable so nothing dangles. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026."
      }
     }
    ]

@@ -5,7 +5,7 @@ miles: 9.0
 lead_service: Window tint / ceramic window tint (LA Car Tint)
 source: hub-mounted copy; standalone www host not verified
 title: Tesla & Car Window Tint Rancho Palos Verdes | LA Car Tint
-meta: Tesla window tint and ceramic window tint for Rancho Palos Verdes, installed at Audio MotorSports in Carson, 9 miles away. Hand-cut film. Call (310) 513-8800.
+meta: Tesla window tint and ceramic window tint for Rancho Palos Verdes, installed at Audio MotorSports in Carson, 9 miles away. Hand-cut film. Call (213) 429-1092.
 ---
 # Tesla Window Tint and Ceramic Film for Rancho Palos Verdes
 
@@ -26,6 +26,9 @@ A glass-roofed Tesla on the hill in Rancho Palos Verdes takes the full sun from 
 The shop at 22025 S Avalon Blvd is about 9 miles from Rancho Palos Verdes, roughly 18 to 22 minutes (approx) with normal traffic. Call or text to hold a time, then drop the Tesla and head back up the hill, or wait while it is done. Hours are Monday to Saturday 9:30 to 6:00; we are closed Sunday. We have had owners call from as far as San Jose for Tesla work, so the peninsula is close.
 
 [SHOP NOTE: 2-3 sentences from Nick about Rancho Palos Verdes customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Rancho Palos Verdes customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. Rancho Palos Verdes customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Coming from Rancho Palos Verdes, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Rancho Palos Verdes owners ask about Tesla and ceramic tint
 
@@ -59,7 +62,7 @@ Sedan pricing, four doors and rear glass, as of October 2026: Solar window tint 
 
 ## Book Tesla or ceramic window tint from Rancho Palos Verdes
 
-Call (310) 513-8800 or send a text to (213) 429-1092. The bay is Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30-6:00, closed Sunday. As of October 2026: Google 4.8 (650+ reviews), Yelp 4.7 (770+ reviews).
+Call (213) 429-1092 or send a text to (213) 429-1092. The bay is Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30-6:00, closed Sunday. As of October 2026: Google 4.8 (654 reviews), Yelp 4.7 (777 reviews).
 
 ```json
 {
@@ -70,7 +73,7 @@ Call (310) 513-8800 or send a text to (213) 429-1092. The bay is Audio MotorSpor
    "@id": "https://www.audiomotorsports.com/tint/window-tint-rancho-palos-verdes/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-rancho-palos-verdes/",
    "name": "Tesla & Car Window Tint Rancho Palos Verdes | LA Car Tint",
-   "description": "Tesla window tint and ceramic window tint for Rancho Palos Verdes, installed at Audio MotorSports in Carson, 9 miles away. Hand-cut film. Call (310) 513-8800.",
+   "description": "Tesla window tint and ceramic window tint for Rancho Palos Verdes, installed at Audio MotorSports in Carson, 9 miles away. Hand-cut film. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

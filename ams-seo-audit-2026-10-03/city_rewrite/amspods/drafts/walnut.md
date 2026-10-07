@@ -1,62 +1,71 @@
 ---
-url: https://www.audiomotorsports.com/walnut/
+url: https://www.audiomotorsports.com/amspods/bagger-audio-walnut/
 city: Walnut
 miles: 26.5
-lead_service: Tesla window tint
-title: Tesla Window Tint for Walnut Drivers | Audio MotorSports
-meta: Tesla window tint, ceramic window tint, car stereo installation, alarms and remote start for Walnut drivers at Audio MotorSports in Carson. (310) 513-8800.
+lead_service: AMS pods built in Carson and installed in one trip
+title: Harley Bagger Audio Walnut | AMS Pods
+meta: AMS pods built in Carson and installed in one trip for Walnut Harley riders, with amplifier and speaker installation. Audio MotorSports, (213) 429-1092.
+source: hub-mounted copy; standalone www host not verified
 ---
-# Tesla Window Tint for Walnut Drivers
+# AMS Pods Built and Installed for Walnut Harley Riders
 
-Walnut Tesla owners make the 26.5-mile drive to Audio MotorSports at 22025 S Avalon Blvd Ste A in Carson for Tesla window tint that is heat-shrunk by hand to the one-piece rear glass and kept clear of every camera. The shop does ceramic window tint on all makes, plus car stereo installation, Apple CarPlay and Android Auto installation, car alarm installation, remote start installation, GPS tracker installation, dash cameras and Harley bagger audio for Walnut.
+Walnut is about 26.5 miles from AMS Pods at Audio MotorSports, 22025 S Avalon Blvd Ste A in Carson, and the pods are built in that building. That matters for a rider coming this far: order the pair by phone, let it get built, then make one ride down for a lower-fairing pods install on a Street Glide, Road Glide or Road King.
 
-## What Walnut drivers bring us
+## What Walnut riders bring us
 
-**Tesla window tint.** Model 3, Model Y, Model S and Model X glass is big and curved, so each panel is formed on the car instead of cut from a pattern. The side repeater cameras and the rear camera stay uncovered, and the roof can be done as an add-on.
+**AMS lower-fairing pods, built here.** Chrome or gloss, built to order over about three weeks, with the crash-bar bracket and screws in the box. No shipping step and no second shop in the chain.
 
-**Ceramic window tint.** Solar Ceramic film rejects infrared heat, which is the difference between a warm cabin and a hot one after a day parked outside in Walnut.
+**Pods installation.** Bolted to the crash bar at an angle toward the rider, leads run along the frame and under the tank with soldered quick disconnects, bracket torqued so vibration cannot walk it loose.
 
-**Car stereo installation.** Head unit installation with CarPlay, speaker replacement and subwoofer installation, factory camera and controls kept, nothing drilled.
+**Amplifier installation.** Pods need power. A fairing amp with a tank pull on the Glides; a saddlebag amp on a carpeted board with an AMS quick disconnect on a Road King.
 
-**Viper alarm installation and Compustar installation.** Wired into the factory circuits with the module hidden from the fuse box.
+**Speaker replacement and head units.** Hertz Neo speakers in the fairing to match the pods, and a Harley-specific radio from Diamond Audio, Sony or Soundstream when the factory unit is the bottleneck.
 
-**Dash camera installation.** Hardwired, cable behind the trim, parked mode on.
+Audio MotorSports also installs window tint, car stereos, CarPlay and Android Auto, car alarms, remote start, GPS trackers and dash cameras, so the tow vehicle can be handled on the same trip.
 
-## Walnut to the shop
+## One trip in from Walnut
 
-The 26.5 miles from Walnut is roughly 53 to 64 minutes outside rush hour (approx). Schedule it, then drop the car and come back when we call, or wait in the shop while the film goes on. Hours are Mon-Sat 9:30-18:00, Sunday closed. [SHOP NOTE: 2-3 sentences from Nick about Walnut customers, routes or jobs]
+Walnut to the shop is about 26.5 miles, roughly 55 to 65 minutes outside rush hour (approx), most of it on the 60 west to the 605. Call or text to book, ride in or trailer the bike, and either leave it for the day or wait at the shop while the pods go on. Monday through Saturday 9:30 AM to 6:00 PM, Sunday closed. Riders trailer bikes here from Temecula, more than four times this distance, for the same pods. [SHOP NOTE: 2-3 sentences from Nick about Walnut riders, routes or jobs]
 
-### Is an hour's drive from Walnut worth it for Tesla window tint?
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Walnut customers tell us makes the drop-off painless. The shop is LGBTQ-friendly and everyone from Walnut is welcome, as our Google and Yelp listings state. From Walnut you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
-Yes. The rear glass on a Tesla has to be heat-formed by hand to avoid creases, and the cameras and sensors have to stay clear; that is labor, not a product you can order. Customers have driven in from San Diego for it, so Walnut is well within the normal range.
+## Questions Walnut riders ask
 
-### Does Tesla tint change how the car looks from outside?
+### How does a Walnut rider order AMS pods without visiting first?
 
-Only as much as you want it to. The rear doors and back glass can go dark for privacy, the fronts stay at the legal 70 percent, and the roof film is close to clear from outside while cutting the heat coming through. We show you the shades on your car before any film is cut.
+Call (213) 429-1092 or text (213) 429-1092 with your year, which of the three baggers you ride, and chrome or gloss. The pair goes into the build queue for about three weeks, and Nick books the install day for when it is done. The first ride from Walnut is the install.
 
-### Can the Tesla roof be tinted at the same time as the windows?
+### What is included with a pair of AMS pods?
 
-Yes, as an add-on panel. The roof film is a ceramic that blocks most of the infrared heat without changing the view up. It is quoted by model at the shop with the rest of the Tesla work, and it adds some time to the appointment, so mention it when you book.
+The two pods in chrome or gloss, the crash-bar bracket and the screws, built to order in the Carson shop. The speakers, usually Hertz Neo, the amplifier and the installation labor are quoted separately on the bike, so the pods price is the only number fixed ahead of time.
 
-### How long does Tesla window tint take?
+### Do the pods fit a Road King the same way as a Street Glide?
 
-A few hours for the four doors and the rear glass, longer if the roof is included. Drop the car in the morning and it is ready by afternoon, or wait at the shop. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, is the shop's record if you want to check.
+On a Street Glide, Road Glide or Road King the pods clamp to the same crash-bar position. The difference is where the amplifier goes: in the fairing on a Street Glide or Road Glide, and in a saddlebag on a carpeted board with an AMS quick disconnect on a Road King, which has no fairing to hide it in.
 
-### Can a Walnut household get the other cars tinted on the same trip?
+### Should a Walnut rider plan to leave the bike overnight?
 
-Yes, book them together. Standard vehicles run Solar $249 or Solar Ceramic $329 installed as of October 2026 for four doors plus the back glass, same hand-cut process. Two cars in one visit is common, and the second car can get a head unit installation or an alarm while the first cures.
+Usually not. With the pods already built, a pods and amplifier install is normally finished the same day, so most riders wait at the shop or make a day of it nearby. A larger build with head unit and cut bag lids can take up to about ten business days.
+
+### Why install pods at the shop that makes them?
+
+Because the people who build the bracket know exactly how it should sit on the bar, and the wiring, angle and torque are done the way the pods were designed for. A pair installed loosely somewhere else rattles, and fixing that costs another trip. Done once, done right.
 
 ## Prices as of October 2026
 
-Standard-vehicle window tint Solar $249, Solar Ceramic $329 installed. Viper 3108V alarm $269 installed. Compustar 9910 remote start from $499. Tesla tint by model, quoted at the shop. Payment plan available, ask Nick.
+- AMS lower-fairing pods: from $649 a pair, chrome or gloss, bracket and screws included, as of October 2026.
+- Amplifier installation, speaker replacement, head units and bag-lid bass are priced at the shop with the bike in the bay. Payment plan available, ask Nick.
 
-## Nearby cities we also serve
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
-[Diamond Bar](/diamond-bar/) · [City of Industry](/city-of-industry/) · [Rowland Heights](/rowland-heights/) · [La Puente](/la-puente/) · [West Covina](/west-covina/)
+## Nearby cities
 
-## Book from Walnut
+Other AMS Pods pages for riders out past Walnut: [Diamond Bar](/amspods/bagger-audio-diamond-bar/), [Brea](/amspods/bagger-audio-brea/), [Yorba Linda](/amspods/bagger-audio-yorba-linda/) and [Placentia](/amspods/bagger-audio-placentia/).
 
-Call (310) 513-8800 or text (213) 429-1092 with your Tesla model and year. The bay is at 22025 S Avalon Blvd Ste A, Carson, CA 90745; Mon-Sat 9:30-18:00, closed Sunday.
+## Order the pair, then ride in once
+
+Call (213) 429-1092 or text (213) 429-1092 to start the build. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -64,21 +73,18 @@ Call (310) 513-8800 or text (213) 429-1092 with your Tesla model and year. The b
  "@graph": [
   {
    "@type": "WebPage",
-   "@id": "https://www.audiomotorsports.com/walnut/#webpage",
-   "url": "https://www.audiomotorsports.com/walnut/",
-   "name": "Tesla Window Tint for Walnut Drivers | Audio MotorSports",
-   "description": "Tesla window tint, ceramic window tint, car stereo installation, alarms and remote start for Walnut drivers at Audio MotorSports in Carson. (310) 513-8800.",
+   "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-walnut/#webpage",
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-walnut/",
+   "name": "Harley Bagger Audio Walnut | AMS Pods",
+   "description": "AMS pods built in Carson and installed in one trip for Walnut Harley riders, with amplifier and speaker installation. Audio MotorSports, (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
-   },
-   "isPartOf": {
-    "@id": "https://www.audiomotorsports.com/#website"
    }
   },
   {
    "@type": "BreadcrumbList",
-   "@id": "https://www.audiomotorsports.com/walnut/#breadcrumb",
+   "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-walnut/#breadcrumb",
    "itemListElement": [
     {
      "@type": "ListItem",
@@ -90,58 +96,58 @@ Call (310) 513-8800 or text (213) 429-1092 with your Tesla model and year. The b
      "@type": "ListItem",
      "position": 2,
      "name": "Locations",
-     "item": "https://www.audiomotorsports.com/amspods/"
+     "item": "https://www.audiomotorsports.com/locations/"
     },
     {
      "@type": "ListItem",
      "position": 3,
      "name": "Walnut",
-     "item": "https://www.audiomotorsports.com/walnut/"
+     "item": "https://www.audiomotorsports.com/amspods/bagger-audio-walnut/"
     }
    ]
   },
   {
    "@type": "FAQPage",
-   "@id": "https://www.audiomotorsports.com/walnut/#faq",
+   "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-walnut/#faq",
    "mainEntity": [
     {
      "@type": "Question",
-     "name": "Is an hour's drive from Walnut worth it for Tesla window tint?",
+     "name": "How does a Walnut rider order AMS pods without visiting first?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. The rear glass on a Tesla has to be heat-formed by hand to avoid creases, and the cameras and sensors have to stay clear; that is labor, not a product you can order. Customers have driven in from San Diego for it, so Walnut is well within the normal range."
+      "text": "Call (213) 429-1092 or text (213) 429-1092 with your year, which of the three baggers you ride, and chrome or gloss. The pair goes into the build queue for about three weeks, and Nick books the install day for when it is done. The first ride from Walnut is the install."
      }
     },
     {
      "@type": "Question",
-     "name": "Does Tesla tint change how the car looks from outside?",
+     "name": "What is included with a pair of AMS pods?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Only as much as you want it to. The rear doors and back glass can go dark for privacy, the fronts stay at the legal 70 percent, and the roof film is close to clear from outside while cutting the heat coming through. We show you the shades on your car before any film is cut."
+      "text": "The two pods in chrome or gloss, the crash-bar bracket and the screws, built to order in the Carson shop. The speakers, usually Hertz Neo, the amplifier and the installation labor are quoted separately on the bike, so the pods price is the only number fixed ahead of time."
      }
     },
     {
      "@type": "Question",
-     "name": "Can the Tesla roof be tinted at the same time as the windows?",
+     "name": "Do the pods fit a Road King the same way as a Street Glide?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes, as an add-on panel. The roof film is a ceramic that blocks most of the infrared heat without changing the view up. It is quoted by model at the shop with the rest of the Tesla work, and it adds some time to the appointment, so mention it when you book."
+      "text": "On a Street Glide, Road Glide or Road King the pods clamp to the same crash-bar position. The difference is where the amplifier goes: in the fairing on a Street Glide or Road Glide, and in a saddlebag on a carpeted board with an AMS quick disconnect on a Road King, which has no fairing to hide it in."
      }
     },
     {
      "@type": "Question",
-     "name": "How long does Tesla window tint take?",
+     "name": "Should a Walnut rider plan to leave the bike overnight?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "A few hours for the four doors and the rear glass, longer if the roof is included. Drop the car in the morning and it is ready by afternoon, or wait at the shop. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, is the shop's record if you want to check."
+      "text": "Usually not. With the pods already built, a pods and amplifier install is normally finished the same day, so most riders wait at the shop or make a day of it nearby. A larger build with head unit and cut bag lids can take up to about ten business days."
      }
     },
     {
      "@type": "Question",
-     "name": "Can a Walnut household get the other cars tinted on the same trip?",
+     "name": "Why install pods at the shop that makes them?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes, book them together. Standard vehicles run Solar $249 or Solar Ceramic $329 installed as of October 2026 for four doors plus the back glass, same hand-cut process. Two cars in one visit is common, and the second car can get a head unit installation or an alarm while the first cures."
+      "text": "Because the people who build the bracket know exactly how it should sit on the bar, and the wiring, angle and torque are done the way the pods were designed for. A pair installed loosely somewhere else rattles, and fixing that costs another trip. Done once, done right."
      }
     }
    ]
@@ -149,7 +155,7 @@ Call (310) 513-8800 or text (213) 429-1092 with your Tesla model and year. The b
  ]
 }
 ```
-
 [CONFIRM]
-- SHOP NOTE slot in the route block (Nick: Walnut customers, routes or jobs).
-- Drive time: 53-64 minutes computed at 25-30 mph from the 26.5-mile figure.
+- SHOP NOTE slot in the ride-in section needs 2-3 sentences from Nick about Walnut riders.
+- Drive time 55 to 65 minutes from Walnut is computed at 25-30 mph from the 26.5-mile figure; confirm.
+- Route mention (60 west to the 605) is taken from the live Walnut page; confirm it should stay.

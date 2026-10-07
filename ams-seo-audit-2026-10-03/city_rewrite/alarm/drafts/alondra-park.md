@@ -4,7 +4,7 @@ city: Alondra Park
 miles: 5.9
 lead_service: work-truck security
 title: Work Truck Alarm Installation, Alondra Park | LA Car Alarm
-meta: Work truck alarms, GPS trackers and remote start installed for Alondra Park drivers at LA Car Alarm by Audio MotorSports in Carson. Call (310) 513-8800 or text.
+meta: Work truck alarms, GPS trackers and remote start installed for Alondra Park drivers at LA Car Alarm by Audio MotorSports in Carson. Call (213) 429-1092 or text.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Work Truck Security and Car Alarm Installation for Alondra Park
@@ -24,6 +24,9 @@ If your truck carries your tools, it needs more than the factory horn. LA Car Al
 **Dash camera installation.** Front and rear, hardwired, parking mode on. Useful on a work truck that gets side-swiped in tight job sites.
 
 Need window tint on the truck, or a car stereo with Apple CarPlay for the long days? Same shop, same appointment.
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Alondra Park drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. From Alondra Park you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Alondra Park to the shop
 
@@ -56,7 +59,7 @@ It is a short drive, and the alternative is a rushed install that gets the siren
 
 Trackers, cargo sensors and immobilizers are quoted at the shop per vehicle. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby cities we serve
 
@@ -67,7 +70,7 @@ Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
 
 ## Book it
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

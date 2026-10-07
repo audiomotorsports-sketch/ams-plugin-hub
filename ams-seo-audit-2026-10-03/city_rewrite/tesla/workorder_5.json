@@ -1,0 +1,62 @@
+{
+ "site": "tesla",
+ "out_dir": "tesla/drafts",
+ "fix_files": {
+  "anaheim.md": "see qa_check",
+  "artesia.md": "see qa_check",
+  "azusa.md": "see qa_check",
+  "bellflower.md": "see qa_check",
+  "beverly-hills.md": "see qa_check",
+  "boyle-heights.md": "see qa_check",
+  "brea.md": "see qa_check",
+  "carson.md": "see qa_check",
+  "city-of-commerce.md": "see qa_check",
+  "city-of-industry.md": "see qa_check",
+  "compton.md": "see qa_check",
+  "costa-mesa.md": "see qa_check",
+  "culver-city.md": "see qa_check"
+ },
+ "write_missing": [
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-monrovia/",
+   "path": "/tesla/tesla-tint-monrovia/",
+   "cityslug": "monrovia",
+   "city": "Monrovia",
+   "miles": 33.3,
+   "title": "Tesla Window Tint Monrovia | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-monterey-park/",
+   "path": "/tesla/tesla-tint-monterey-park/",
+   "cityslug": "monterey-park",
+   "city": "Monterey Park",
+   "miles": 17.9,
+   "title": "Tesla Window Tint Monterey Park | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-orange/",
+   "path": "/tesla/tesla-tint-orange/",
+   "cityslug": "orange",
+   "city": "Orange",
+   "miles": null,
+   "title": "Tesla Window Tint Orange | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-rosemead/",
+   "path": "/tesla/tesla-tint-rosemead/",
+   "cityslug": "rosemead",
+   "city": "Rosemead",
+   "miles": 20.4,
+   "title": "Tesla Window Tint Rosemead | Tesla Tint LA"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tesla/tesla-tint-santa-ana/",
+   "path": "/tesla/tesla-tint-santa-ana/",
+   "cityslug": "santa-ana",
+   "city": "Santa Ana",
+   "miles": 23.5,
+   "title": "Tesla Window Tint Santa Ana | Tesla Tint LA"
+  }
+ ],
+ "reuse_lines_involving_your_files": []
+}

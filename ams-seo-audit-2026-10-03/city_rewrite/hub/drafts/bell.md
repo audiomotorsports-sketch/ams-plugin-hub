@@ -4,7 +4,7 @@ city: Bell
 miles: 11.3
 lead_service: Tesla window tint
 title: Tesla Window Tint & Car Audio for Bell | Audio MotorSports
-meta: Tesla window tint, ceramic tint, car stereo installs and alarms for Bell drivers at Audio MotorSports in Carson, 11.3 miles away. Call (310) 513-8800 to book.
+meta: Tesla window tint, ceramic tint, car stereo installs and alarms for Bell drivers at Audio MotorSports in Carson, 11.3 miles away. Call (213) 429-1092 to book.
 ---
 # Tesla Window Tint for Bell Drivers
 
@@ -22,9 +22,12 @@ Bell Tesla owners drive 11.3 miles to Audio MotorSports in Carson, 22025 S Avalo
 
 ## From Bell to Carson
 
-Bell is 11.3 miles from the shop, roughly twenty-three to twenty-seven minutes outside rush hour (approx). Doors are open Monday through Saturday, 9:30 to 6:00, Sunday closed. Reserve a time first by calling or texting, then leave the Tesla with us or wait in the lobby while the film goes on. Tesla rear glass takes extra time, so plan on the longer end of the day.
+Bell is 11.3 miles from the shop, roughly twenty-three to twenty-seven minutes outside rush hour (approx). Doors are open Monday through Saturday, 9:30 to 6:00, Sunday closed. Reserve a time first by calling or texting, then leave the Tesla with us or wait inside while the film goes on. Tesla rear glass takes extra time, so plan on the longer end of the day.
 
 [SHOP NOTE: 2-3 sentences from Nick about Bell customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Bell, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Bell traffic sends you.
 
 ## Questions from Bell
 
@@ -62,7 +65,7 @@ Solar window tint $249 installed; Solar Ceramic window tint $329 installed; Vipe
 
 ## Book your Tesla
 
-Phone (310) 513-8800 or text (213) 429-1092 with the model and year. We are Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00 and closed Sunday. Drop off or wait on site.
+Phone (213) 429-1092 or text (213) 429-1092 with the model and year. We are Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00 and closed Sunday. Drop off or wait on site.
 
 ```json
 {
@@ -73,7 +76,7 @@ Phone (310) 513-8800 or text (213) 429-1092 with the model and year. We are Audi
    "@id": "https://www.audiomotorsports.com/bell/#webpage",
    "url": "https://www.audiomotorsports.com/bell/",
    "name": "Tesla Window Tint & Car Audio for Bell | Audio MotorSports",
-   "description": "Tesla window tint, ceramic tint, car stereo installs and alarms for Bell drivers at Audio MotorSports in Carson, 11.3 miles away. Call (310) 513-8800 to book.",
+   "description": "Tesla window tint, ceramic tint, car stereo installs and alarms for Bell drivers at Audio MotorSports in Carson, 11.3 miles away. Call (213) 429-1092 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

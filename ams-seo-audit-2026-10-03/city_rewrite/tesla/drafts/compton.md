@@ -5,7 +5,7 @@ miles: 5.4
 lead_service: Tesla window tint (one-piece rear glass)
 source: hub-mounted copy; standalone www host not verified
 title: Compton Tesla Window Tint, 5 Miles | Tesla Tint LA
-meta: Tesla window tint for Compton owners, with the one-piece rear glass shaped right: ceramic film at Audio MotorSports in Carson, 5.4 miles away. Call (310) 513-8800 or text (213) 429-1092.
+meta: Tesla window tint for Compton owners, with the one-piece rear glass shaped right: ceramic film at Audio MotorSports in Carson, 5.4 miles away. Call (213) 429-1092 or text (213) 429-1092.
 ---
 # Tesla Window Tint for Compton, Rear Glass Done as One Piece
 
@@ -28,6 +28,9 @@ Audio MotorSports also installs Viper alarms, remote start, GPS trackers, dash c
 A short one: about 5.4 miles, roughly 11 to 13 minutes outside rush hour (approx). We are open Monday through Saturday, 9:30 AM to 6:00 PM, and closed on Sunday. Book a time, then wait at the shop or drop the car and come back when it is finished.
 
 [SHOP NOTE: 2-3 sentences from Nick about Compton customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Compton customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. The shop is LGBTQ-friendly and everyone from Compton is welcome, as our Google and Yelp listings state. From Compton you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd. Compton customers include Metro operators and rail-yard and port workers who book around shift changes.
 
 ## Compton Tesla tint questions
 
@@ -53,7 +56,7 @@ No. The camera zones on the glass are masked and left uncovered, and the ceramic
 
 ## Pricing
 
-Every Tesla is quoted by model at the shop; text the year and model and Nick will send the number. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Every Tesla is quoted by model at the shop; text the year and model and Nick will send the number. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near Compton
 
@@ -65,7 +68,7 @@ Every Tesla is quoted by model at the shop; text the year and model and Nick wil
 
 ## Book from Compton
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -76,7 +79,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-compton/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-compton/",
    "name": "Compton Tesla Window Tint, 5 Miles | Tesla Tint LA",
-   "description": "Tesla window tint for Compton owners, with the one-piece rear glass shaped right: ceramic film at Audio MotorSports in Carson, 5.4 miles away. Call (310) 513-8800 or text (213) 429-1092.",
+   "description": "Tesla window tint for Compton owners, with the one-piece rear glass shaped right: ceramic film at Audio MotorSports in Carson, 5.4 miles away. Call (213) 429-1092 or text (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

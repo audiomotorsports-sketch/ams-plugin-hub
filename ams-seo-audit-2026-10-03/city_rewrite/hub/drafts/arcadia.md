@@ -4,7 +4,7 @@ city: Arcadia
 miles: 25.3
 lead_service: alarm & remote start
 title: Car Alarm & Remote Start, Arcadia | Audio MotorSports
-meta: Viper alarm installation, Compustar remote start, GPS trackers, window tint and car stereo for Arcadia drivers at Audio MotorSports in Carson. (310) 513-8800.
+meta: Viper alarm installation, Compustar remote start, GPS trackers, window tint and car stereo for Arcadia drivers at Audio MotorSports in Carson. (213) 429-1092.
 ---
 # Car Alarm and Remote Start Installation for Arcadia
 
@@ -21,6 +21,9 @@ Arcadia drivers travel about 25.3 miles to Audio MotorSports at 22025 S Avalon B
 **Dash camera installation.** Fuse-tapped with a voltage cutoff, cable up the A-pillar, parked recording.
 
 **Car window tint and car stereo installation.** Solar or Solar Ceramic hand-cut on the glass; head unit installation, speaker replacement and subwoofer installation with the factory look kept.
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Arcadia customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Arcadia.
 
 ## Arcadia to the shop
 
@@ -44,7 +47,7 @@ Plan on most of a day for a push-button vehicle, less for a standard key. The by
 
 ### Is the shop trustworthy enough to leave the car for the day?
 
-Judge it by the record: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Owners have driven in from Temecula and left the car for the day. Nick writes the quote before anything is opened, and the price you are told is the price you pay.
+Judge it by the record: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Owners have driven in from Temecula and left the car for the day. Nick writes the quote before anything is opened, and the price you are told is the price you pay.
 
 ## Prices as of October 2026
 
@@ -56,7 +59,7 @@ Viper 3108V alarm $269 installed. Compustar 9910 remote start from $499. Window 
 
 ## Schedule from Arcadia
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio MotorSports is at 22025 S Avalon Blvd Ste A in Carson, CA 90745, open Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio MotorSports is at 22025 S Avalon Blvd Ste A in Carson, CA 90745, open Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -67,7 +70,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio 
    "@id": "https://www.audiomotorsports.com/arcadia/#webpage",
    "url": "https://www.audiomotorsports.com/arcadia/",
    "name": "Car Alarm & Remote Start, Arcadia | Audio MotorSports",
-   "description": "Viper alarm installation, Compustar remote start, GPS trackers, window tint and car stereo for Arcadia drivers at Audio MotorSports in Carson. (310) 513-8800.",
+   "description": "Viper alarm installation, Compustar remote start, GPS trackers, window tint and car stereo for Arcadia drivers at Audio MotorSports in Carson. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {
@@ -142,7 +145,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio 
      "name": "Is the shop trustworthy enough to leave the car for the day?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Judge it by the record: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Owners have driven in from Temecula and left the car for the day. Nick writes the quote before anything is opened, and the price you are told is the price you pay."
+      "text": "Judge it by the record: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Owners have driven in from Temecula and left the car for the day. Nick writes the quote before anything is opened, and the price you are told is the price you pay."
      }
     }
    ]

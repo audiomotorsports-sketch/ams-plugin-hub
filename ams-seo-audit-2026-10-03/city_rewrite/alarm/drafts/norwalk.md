@@ -4,7 +4,7 @@ city: Norwalk
 miles: 11.7
 lead_service: Compustar remote start installation
 title: Compustar Remote Start Installation Norwalk | LA Car Alarm
-meta: Compustar remote start installation for Norwalk drivers at LA Car Alarm by Audio MotorSports, Carson, 11.7 miles. Viper alarms, GPS. Call (310) 513-8800.
+meta: Compustar remote start installation for Norwalk drivers at LA Car Alarm by Audio MotorSports, Carson, 11.7 miles. Viper alarms, GPS. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Compustar Remote Start Installation for Norwalk Drivers
@@ -22,6 +22,9 @@ Norwalk drivers come about 11.7 miles to LA Car Alarm at Audio MotorSports, 2202
 **Dash camera installation.** Fused hardwire kit, hidden cable, parking mode, low-voltage cutoff.
 
 Window tint, subwoofer installation and Android Auto head units are done at the same shop and can share the appointment.
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Norwalk, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. The shop is LGBTQ-friendly and everyone from Norwalk is welcome, as our Google and Yelp listings state. Coming from Norwalk, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## The Norwalk run
 
@@ -56,7 +59,7 @@ Drivers have come from San Diego for this install; Norwalk is a short hop by com
 
 Trackers, dash cameras and add-on sensors are quoted on the vehicle at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby alarm pages
 
@@ -67,7 +70,7 @@ Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
 
 ## Book remote start from Norwalk
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make, model and key type. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make, model and key type. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

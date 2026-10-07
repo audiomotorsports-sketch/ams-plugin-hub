@@ -5,7 +5,7 @@ miles: 34.4
 lead_service: Tesla window tint (Cybertruck)
 source: hub-mounted copy; standalone www host not verified
 title: Bradbury Cybertruck & Tesla Tint | Tesla Tint LA
-meta: Cybertruck, Model X and Tesla window tint for Bradbury owners, ceramic film cut by hand at Audio MotorSports in Carson, 34.4 miles out. Call (310) 513-8800 or text (213) 429-1092.
+meta: Cybertruck, Model X and Tesla window tint for Bradbury owners, ceramic film cut by hand at Audio MotorSports in Carson, 34.4 miles out. Call (213) 429-1092 or text (213) 429-1092.
 ---
 # Cybertruck and Tesla Window Tint for Bradbury
 
@@ -28,6 +28,9 @@ Audio MotorSports also installs GPS trackers, dash cameras, remote start and car
 The trip is about 34.4 miles, around 69 to 83 minutes outside rush hour (approx). We are open Monday through Saturday, 9:30 AM to 6:00 PM, closed Sunday. Book ahead, then drop the truck for the day or wait at the shop. Owners drive in from Temecula and farther, so Bradbury is a normal distance for this work.
 
 [SHOP NOTE: 2-3 sentences from Nick about Bradbury customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Bradbury, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. The shop is LGBTQ-friendly and everyone from Bradbury is welcome, as our Google and Yelp listings state. Coming from Bradbury, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Bradbury Tesla tint questions
 
@@ -53,7 +56,7 @@ By model, at the shop. The Cybertruck, Model X and Model 3 use different amounts
 
 ## Pricing
 
-Cybertruck, Model X and every other Tesla are quoted by model at the shop; text the year and model for the number. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Cybertruck, Model X and every other Tesla are quoted by model at the shop; text the year and model for the number. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near Bradbury
 
@@ -64,7 +67,7 @@ Cybertruck, Model X and every other Tesla are quoted by model at the shop; text 
 
 ## Book from Bradbury
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -75,7 +78,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-bradbury/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-bradbury/",
    "name": "Bradbury Cybertruck & Tesla Tint | Tesla Tint LA",
-   "description": "Cybertruck, Model X and Tesla window tint for Bradbury owners, ceramic film cut by hand at Audio MotorSports in Carson, 34.4 miles out. Call (310) 513-8800 or text (213) 429-1092.",
+   "description": "Cybertruck, Model X and Tesla window tint for Bradbury owners, ceramic film cut by hand at Audio MotorSports in Carson, 34.4 miles out. Call (213) 429-1092 or text (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

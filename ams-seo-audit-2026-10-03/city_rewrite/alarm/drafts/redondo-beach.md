@@ -4,7 +4,7 @@ city: Redondo Beach
 miles: 7.2
 lead_service: car alarm installation for street-parked cars
 title: Car Alarm Installation Redondo Beach | LA Car Alarm
-meta: Car alarm installation for street-parked Redondo Beach cars, plus GPS and remote start, at Audio MotorSports in Carson, 7.2 miles away. Call (310) 513-8800.
+meta: Car alarm installation for street-parked Redondo Beach cars, plus GPS and remote start, at Audio MotorSports in Carson, 7.2 miles away. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Alarm Installation for Street-Parked Redondo Beach Cars
@@ -23,6 +23,9 @@ Window tint, car stereo installation and Apple CarPlay are done in the same bay,
 ## From Redondo Beach to the shop
 
 Count on about 7.2 miles and a 14- to 17-minute drive (approx) outside rush hour. Reserve a slot, then choose whether to drop the car or wait at the shop while the install happens. The shop runs Monday to Saturday, 9:30 AM to 6:00 PM, and is closed Sunday. Customers have come from more than 100 miles out for this work; Redondo Beach is a short hop.
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Redondo Beach, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Redondo Beach.
 
 ## Redondo Beach questions
 
@@ -50,7 +53,7 @@ The Viper 3108V is $269 installed, as of October 2026, siren and shock sensor in
 
 Viper 3108V alarm: $269 installed. Compustar 9910 remote start: from $499. Everything else is quoted at the shop once we see the car. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Near Redondo Beach
 
@@ -58,7 +61,7 @@ Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
 
 ## Reserve a Redondo Beach alarm install
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

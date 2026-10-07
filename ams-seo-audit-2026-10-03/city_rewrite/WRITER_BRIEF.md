@@ -87,3 +87,20 @@ You are finishing an interrupted run, not starting over. Your work order JSON li
 - amspods (AMS Pods, /amspods/): lead with Harley-Davidson bagger audio installation, AMS lower-fairing speaker pods for Street Glide, Road Glide, Road King (name other models only if the live page does), amplifier installation and tuning on the bike. Price allowed: AMS pods from $649 a pair, "as of October 2026". Neighbor links /amspods/bagger-audio-<slug>/. Say "riders" where it fits.
 - The QA link check now accepts the full brand path, so no hub cross-link is needed to pass; add one only if it helps the reader.
 - "lobby": write "wait at the shop" rather than "lobby" (the shop has not confirmed a lobby).
+
+## Owner update 3 (2026-10-07 evening; applies to EVERY page, written or not; overrides anything above that conflicts)
+1. Reviews line is exactly: "Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026". Never "650+" or "770+".
+2. Phone for Call AND Text is (213) 429-1092 (tel:+12134291092 / sms:+12134291092). Never (310) 513-8800 anywhere, including JSON-LD.
+3. Product orders (when a page mentions buying gear): offer in-store pickup, or call for delivery; everything is paid upfront before delivery. Service booking stays: book by call or text, drop the car off, or wait inside.
+4. Financing wording: "Payment plan" or "Buy now, pay later" only. Never 100-day, Snap, Koalafi or EasyPay.
+5. Car audio focus. No DJ products.
+6. NO roof tint. The shop does not film the glass roof. Pages may say the factory roof glass is already dark and that the side and rear glass are what get filmed. Never a lead angle, heading, FAQ or sentence that offers or describes tinting the roof.
+7. No "48 states" or national shipping claims.
+8. City pages cover car stereo, window tint and car alarm work (and the related brands: tint, beats, alarm, tesla, amspods). Never glass repair, wraps or PPF.
+9. Carson IS allowed as the shop's city on every city page (owner decision, Oct 7). Avalon stays a street name only.
+10. "Wait inside" wording is the owner's: the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. A mall, movie theaters, restaurants, coffee shops and a Starbucks are within walking distance. A DoubleTree hotel with a full bar is down the street; Cabrillo Beach is about 12 minutes away. Vary these naturally; never the same sentence twice.
+11. The shop is LGBTQ-friendly and everyone is welcome (it says so on Google and Yelp). Say it on every city page in a short, varied line; say it clearly on the Long Beach pages.
+12. Who comes in (use on the matching cities only, plain and respectful, no partnership, discount or endorsement claims): Carson, San Pedro and Wilmington are home to ILWU longshore workers and the Union Pacific rail yard; workers from the three active local refineries; Metro bus operators; SpaceX employees and engineers (Hawthorne); engineers and staff from big corporations (Torrance, El Segundo).
+13. Location: right off the 110 freeway, easy access from the 405 and the 710 (three freeways lead to it).
+14. The script `apply_owner_corrections.py` inserts one marked paragraph (`<!-- owner-details-2026-10-07 -->`) with items 10, 11, 13 (and 12 where it applies) before the questions section of every existing draft. New drafts: write these lines yourself, in your own words, and do NOT add the marker.
+15. Carson gets a dedicated article (not a template page): see `carson_article/` when written.

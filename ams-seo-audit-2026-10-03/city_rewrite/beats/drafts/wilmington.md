@@ -4,7 +4,7 @@ city: Wilmington
 miles: 3.3
 lead_service: Apple CarPlay and Android Auto installation
 title: Wilmington CarPlay Installation | LA Car Beats, Carson
-meta: Apple CarPlay and Android Auto installation for Wilmington drivers at LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd, Carson. Call (310) 513-8800.
+meta: Apple CarPlay and Android Auto installation for Wilmington drivers at LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd, Carson. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Apple CarPlay and Android Auto Installation for Wilmington
@@ -24,6 +24,9 @@ LA Car Beats is the car audio side of Audio MotorSports at 22025 S Avalon Blvd S
 ## Getting here from Wilmington
 
 Wilmington to the Carson shop is about 3.3 miles, roughly a 7-to-8-minute drive outside rush hour (approx). We are open Monday through Saturday 9:30 to 6:00 and closed Sunday. Book a time first, then either leave the car with us or wait while the installation is done. Plenty of our customers come from well over 100 miles away, so from Wilmington this is barely a trip. [SHOP NOTE: 2-3 sentences from Nick about Wilmington customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Wilmington, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Wilmington. Wilmington is longshore, rail-yard and refinery country, and workers from all three come through the shop regularly.
 
 ## Wilmington car audio questions
 
@@ -49,7 +52,7 @@ Yes. Subwoofer installation on a factory stereo uses a line-output converter to 
 
 ## Pricing for Wilmington customers
 
-The Dual Kicker Comp loaded subwoofer box is $249, box only, as of October 2026. Head unit installation, Apple CarPlay and Android Auto installation, speaker replacement and amplifier installation are quoted at the shop after we look at the vehicle. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Window tint, car alarm installation, remote start, GPS tracker and dash camera installation are available in the same visit.
+The Dual Kicker Comp loaded subwoofer box is $249, box only, as of October 2026. Head unit installation, Apple CarPlay and Android Auto installation, speaker replacement and amplifier installation are quoted at the shop after we look at the vehicle. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Window tint, car alarm installation, remote start, GPS tracker and dash camera installation are available in the same visit.
 
 ## Nearby cities we also serve
 
@@ -62,7 +65,7 @@ Car stereo installation pages for neighbors of Wilmington:
 
 ## Book your installation
 
-Call (310) 513-8800 or text (213) 429-1092 to set up a CarPlay, Android Auto or car stereo installation. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Hours: Monday to Saturday 9:30-18:00, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092 to set up a CarPlay, Android Auto or car stereo installation. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Hours: Monday to Saturday 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -73,7 +76,7 @@ Call (310) 513-8800 or text (213) 429-1092 to set up a CarPlay, Android Auto or 
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-wilmington/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-wilmington/",
    "name": "Wilmington CarPlay Installation | LA Car Beats, Carson",
-   "description": "Apple CarPlay and Android Auto installation for Wilmington drivers at LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd, Carson. Call (310) 513-8800.",
+   "description": "Apple CarPlay and Android Auto installation for Wilmington drivers at LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd, Carson. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

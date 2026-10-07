@@ -4,7 +4,7 @@ city: Montebello
 miles: 15.3
 lead_service: ceramic window tint (heat)
 title: Montebello Ceramic Window Tint | LA Car Tint, Carson
-meta: Ceramic window tint for hot Montebello summers, hand-cut and installed by Audio MotorSports in Carson, 15.3 miles away. Call (310) 513-8800 to book.
+meta: Ceramic window tint for hot Montebello summers, hand-cut and installed by Audio MotorSports in Carson, 15.3 miles away. Call (213) 429-1092 to book.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Ceramic Window Tint for Montebello Heat
@@ -22,6 +22,9 @@ Montebello gets hotter than the coast, and ceramic window tint is the install th
 ## Getting here from Montebello
 
 Montebello to the shop is roughly 15.3 miles, about 31 to 37 minutes outside rush hour (approx). Call or text to set a slot, then drop the car or wait while it is done. Hours are Monday through Saturday 9:30 a.m. to 6:00 p.m.; closed Sunday. People drive in from over 100 miles for this installation, so Montebello is well within range. [SHOP NOTE: 2-3 sentences from Nick about Montebello customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Montebello job is finished. Montebello customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. From Montebello you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Montebello questions about ceramic tint
 
@@ -47,7 +50,7 @@ We clean the glass, hand-cut the film on each window, heat-shrink it to match th
 
 ## Ceramic tint pricing for Montebello
 
-Solar Ceramic on a four-door is $329 installed; standard Solar is $249 installed; both as of October 2026 and covering four doors plus the back glass. Trucks, SUVs, windshield strips and Tesla roof glass are quoted in person. Payment plan available, ask Nick. The numbers as of October 2026: Google 4.8 (650+ reviews), Yelp 4.7 (770+ reviews).
+Solar Ceramic on a four-door is $329 installed; standard Solar is $249 installed; both as of October 2026 and covering four doors plus the back glass. Trucks, SUVs, windshield strips and Tesla roof glass are quoted in person. Payment plan available, ask Nick. The numbers as of October 2026: Google 4.8 (654 reviews), Yelp 4.7 (777 reviews).
 
 ## Tint pages for Montebello neighbors
 
@@ -55,7 +58,7 @@ Solar Ceramic on a four-door is $329 installed; standard Solar is $249 installed
 
 ## Beat the heat, book now
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745; Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745; Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

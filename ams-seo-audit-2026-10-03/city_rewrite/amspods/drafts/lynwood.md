@@ -4,7 +4,7 @@ city: Lynwood
 miles: 7.8
 lead_service: Replacing blown stock Harley bagger speakers
 title: Lynwood Harley Bagger Speaker Replacement | AMS Pods
-meta: Blown fairing speakers replaced, AMS pods and amp install for Lynwood riders. Harley bagger audio by Audio MotorSports, Carson. (310) 513-8800.
+meta: Blown fairing speakers replaced, AMS pods and amp install for Lynwood riders. Harley bagger audio by Audio MotorSports, Carson. (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Blown Stock Speakers Replaced on Harley Baggers for Lynwood Riders
@@ -26,6 +26,9 @@ Audio MotorSports installs car stereos, subwoofers, window tint, alarms and dash
 ## Lynwood to Carson
 
 The ride is 7.8 miles, about 16 to 19 minutes outside rush hour (approx). Book first by phone or text, ride down, and decide whether to leave the bike or wait at the shop. Hours are Mon-Sat 9:30-18:00, Sunday closed. [SHOP NOTE: 2-3 sentences from Nick about Lynwood riders, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Lynwood, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Lynwood.
 
 ## Speaker questions from Lynwood riders
 
@@ -54,7 +57,7 @@ Call or text with the year and model and we find you a slot. A speaker swap is a
 - AMS lower-fairing pods from $649 a pair, as of October 2026, chrome or gloss, bracket and hardware included.
 - Speaker replacement, amplifier installation and head units are quoted on the bike at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby cities
 
@@ -62,7 +65,7 @@ Riders also come from [South Gate](/amspods/bagger-audio-south-gate/), [Paramoun
 
 ## Fix it once
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -73,7 +76,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-lynwood/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-lynwood/",
    "name": "Lynwood Harley Bagger Speaker Replacement | AMS Pods",
-   "description": "Blown fairing speakers replaced, AMS pods and amp install for Lynwood riders. Harley bagger audio by Audio MotorSports, Carson. (310) 513-8800.",
+   "description": "Blown fairing speakers replaced, AMS pods and amp install for Lynwood riders. Harley bagger audio by Audio MotorSports, Carson. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

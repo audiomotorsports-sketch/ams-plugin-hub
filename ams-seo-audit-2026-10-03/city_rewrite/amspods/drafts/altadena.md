@@ -4,7 +4,7 @@ city: Altadena
 miles: 26.2
 lead_service: First Harley bagger audio upgrade
 title: Harley Bagger Audio Altadena | AMS Pods
-meta: First bagger audio upgrade for Altadena Harley riders: AMS pods, amplifier, speakers and radio at AMS Pods by Audio MotorSports in Carson. (310) 513-8800.
+meta: First bagger audio upgrade for Altadena Harley riders: AMS pods, amplifier, speakers and radio at AMS Pods by Audio MotorSports in Carson. (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # First Bagger Audio Upgrade for Altadena Harley Riders
@@ -26,6 +26,9 @@ Audio MotorSports also does window tint, car stereo installation, CarPlay and An
 ## Riding down from Altadena
 
 Altadena is about 26.2 miles from the shop, roughly 52 to 63 minutes outside rush hour (approx). Call for a time, ride in, and either leave the bike for the day or wait at the shop while the install is done. Open Monday through Saturday 9:30 AM to 6:00 PM, closed Sunday. Riders cover well over 100 miles to reach this bay, so the ride from the foothills is a normal one. [SHOP NOTE: 2-3 sentences from Nick about Altadena riders, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Altadena drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. The shop is LGBTQ-friendly and everyone from Altadena is welcome, as our Google and Yelp listings state. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Altadena.
 
 ## Questions Altadena riders ask
 
@@ -54,7 +57,7 @@ Yes. The amp hides in the fairing or a saddlebag, the pods use the correct brack
 - AMS lower-fairing pods: from $649 a pair, chrome or gloss, bracket and screws included, as of October 2026.
 - Amp install and tuning, fairing speakers and a radio, if needed, are priced once the bike is in the bay. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby cities
 
@@ -62,7 +65,7 @@ Riders also come in from [La Canada Flintridge](/amspods/bagger-audio-la-canada-
 
 ## Start the upgrade
 
-Call (310) 513-8800 or text (213) 429-1092 with your year and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with your year and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -73,7 +76,7 @@ Call (310) 513-8800 or text (213) 429-1092 with your year and model. Audio Motor
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-altadena/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-altadena/",
    "name": "Harley Bagger Audio Altadena | AMS Pods",
-   "description": "First bagger audio upgrade for Altadena Harley riders: AMS pods, amplifier, speakers and radio at AMS Pods by Audio MotorSports in Carson. (310) 513-8800.",
+   "description": "First bagger audio upgrade for Altadena Harley riders: AMS pods, amplifier, speakers and radio at AMS Pods by Audio MotorSports in Carson. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

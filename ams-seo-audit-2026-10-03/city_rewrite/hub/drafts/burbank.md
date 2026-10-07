@@ -4,7 +4,7 @@ city: Burbank
 miles: 28.2
 lead_service: Harley bagger audio installation (AMS pods)
 title: Harley Bagger Audio for Burbank Riders | Audio MotorSports
-meta: Bagger audio installation with AMS pods, car stereo installs, window tint and alarms for Burbank at Audio MotorSports in Carson, 28.2 miles. (310) 513-8800.
+meta: Bagger audio installation with AMS pods, car stereo installs, window tint and alarms for Burbank at Audio MotorSports in Carson, 28.2 miles. (213) 429-1092.
 ---
 # Harley Bagger Audio Installation for Burbank
 
@@ -26,6 +26,9 @@ Burbank riders bring Harley baggers 28.2 miles to Audio MotorSports in Carson, 2
 
 The ride from Burbank is 28.2 miles, roughly fifty-six to sixty-eight minutes outside rush hour (approx). The shop is open Monday through Saturday from 9:30 to 6:00 and closed Sunday. Call or text to reserve the bay, then ride down and wait while the pods go in, or leave the bike and collect it later. Riders have come from San Diego for AMS pods, so Burbank is a short morning by comparison.
 
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Burbank job is finished. The shop is LGBTQ-friendly and everyone from Burbank is welcome, as our Google and Yelp listings state. From Burbank you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
+
 ## Burbank bagger questions
 
 ### What does an AMS pod install include on a Road Glide?
@@ -34,7 +37,7 @@ Pods mounted in the lower fairing area, an amplifier mounted out of the weather,
 
 ### Is Burbank too far to ride for bagger audio installation?
 
-No. It is 28.2 miles, roughly fifty-six to sixty-eight minutes outside rush hour, and the install is the reason to ride. Call (310) 513-8800 or text (213) 429-1092 to set a time, then ride down and wait at the shop or leave the bike with us for the day.
+No. It is 28.2 miles, roughly fifty-six to sixty-eight minutes outside rush hour, and the install is the reason to ride. Call (213) 429-1092 or text (213) 429-1092 to set a time, then ride down and wait at the shop or leave the bike with us for the day.
 
 ### Will the pods hold up in rain and on long highway rides?
 
@@ -61,7 +64,7 @@ AMS Harley pods from $649 a pair. Dual Kicker Comp subwoofer box $249 for the bo
 
 ## Ride in from Burbank
 
-Call (310) 513-8800 or text (213) 429-1092. You will find Audio MotorSports at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00 and closed Sunday. Wait while we work or leave the bike for the day.
+Call (213) 429-1092 or text (213) 429-1092. You will find Audio MotorSports at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00 and closed Sunday. Wait while we work or leave the bike for the day.
 
 ```json
 {
@@ -72,7 +75,7 @@ Call (310) 513-8800 or text (213) 429-1092. You will find Audio MotorSports at 2
    "@id": "https://www.audiomotorsports.com/burbank/#webpage",
    "url": "https://www.audiomotorsports.com/burbank/",
    "name": "Harley Bagger Audio for Burbank Riders | Audio MotorSports",
-   "description": "Bagger audio installation with AMS pods, car stereo installs, window tint and alarms for Burbank at Audio MotorSports in Carson, 28.2 miles. (310) 513-8800.",
+   "description": "Bagger audio installation with AMS pods, car stereo installs, window tint and alarms for Burbank at Audio MotorSports in Carson, 28.2 miles. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -122,7 +125,7 @@ Call (310) 513-8800 or text (213) 429-1092. You will find Audio MotorSports at 2
      "name": "Is Burbank too far to ride for bagger audio installation?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "No. It is 28.2 miles, roughly fifty-six to sixty-eight minutes outside rush hour, and the install is the reason to ride. Call (310) 513-8800 or text (213) 429-1092 to set a time, then ride down and wait at the shop or leave the bike with us for the day."
+      "text": "No. It is 28.2 miles, roughly fifty-six to sixty-eight minutes outside rush hour, and the install is the reason to ride. Call (213) 429-1092 or text (213) 429-1092 to set a time, then ride down and wait at the shop or leave the bike with us for the day."
      }
     },
     {

@@ -4,7 +4,7 @@ city: Culver City
 miles: 15.2
 lead_service: car audio/stereo
 title: Car Stereo Installation, Culver City | Audio MotorSports
-meta: Car stereo installation, speaker replacement, subwoofer and amp installs, tint and alarms for Culver City drivers at Audio MotorSports, Carson. (310) 513-8800.
+meta: Car stereo installation, speaker replacement, subwoofer and amp installs, tint and alarms for Culver City drivers at Audio MotorSports, Carson. (213) 429-1092.
 ---
 # Car Stereo Installation for Culver City Drivers
 
@@ -22,9 +22,12 @@ Culver City drivers bring their cars about 15.2 miles to Audio MotorSports at 22
 
 **Car alarm installation and remote start installation.** Viper and Compustar, wired so the system cannot be defeated from the fuse box.
 
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Culver City, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Culver City.
+
 ## Culver City to Carson
 
-Fifteen point two miles is roughly a 30 to 36 minute drive outside rush hour (approx). Schedule first, then drop the car and get on with your day, or wait in the shop while we do it. Hours are Mon-Sat 9:30-18:00, Sunday closed. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, is what people check before they drive. [SHOP NOTE: 2-3 sentences from Nick about Culver City customers, routes or jobs]
+Fifteen point two miles is roughly a 30 to 36 minute drive outside rush hour (approx). Schedule first, then drop the car and get on with your day, or wait in the shop while we do it. Hours are Mon-Sat 9:30-18:00, Sunday closed. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, is what people check before they drive. [SHOP NOTE: 2-3 sentences from Nick about Culver City customers, routes or jobs]
 
 ### What does a proper car stereo installation include?
 
@@ -56,7 +59,7 @@ Dual Kicker Comp box $249 box only. Car window tint Solar $249, Solar Ceramic $3
 
 ## Schedule from Culver City
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, is open Mon-Sat 9:30-18:00 and closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, is open Mon-Sat 9:30-18:00 and closed Sunday.
 
 ```json
 {
@@ -67,7 +70,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio 
    "@id": "https://www.audiomotorsports.com/culver-city/#webpage",
    "url": "https://www.audiomotorsports.com/culver-city/",
    "name": "Car Stereo Installation, Culver City | Audio MotorSports",
-   "description": "Car stereo installation, speaker replacement, subwoofer and amp installs, tint and alarms for Culver City drivers at Audio MotorSports, Carson. (310) 513-8800.",
+   "description": "Car stereo installation, speaker replacement, subwoofer and amp installs, tint and alarms for Culver City drivers at Audio MotorSports, Carson. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

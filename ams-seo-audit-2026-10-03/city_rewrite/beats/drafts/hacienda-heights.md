@@ -6,7 +6,7 @@ lead_service: speaker replacement and amplifier installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Hacienda Heights Speaker & Amp Install | LA Car Beats
-meta: Speaker replacement and amplifier installation for Hacienda Heights drivers at LA Car Beats by Audio MotorSports in Carson, 20.3 miles. Call (310) 513-8800.
+meta: Speaker replacement and amplifier installation for Hacienda Heights drivers at LA Car Beats by Audio MotorSports in Carson, 20.3 miles. Call (213) 429-1092.
 ---
 # Speaker Replacement and Amplifier Installation for Hacienda Heights
 
@@ -22,7 +22,10 @@ Hacienda Heights drivers who want music clear at freeway speed book speaker repl
 
 ## Hacienda Heights to Carson
 
-Hacienda Heights to the shop is about 20.3 miles, roughly 41 to 49 minutes outside rush hour (approx). Book by calling (310) 513-8800 or texting (213) 429-1092. A front pair is a wait-in-the-lobby job; the full speaker and amplifier package is a drop-off with a text at pickup time. Open Monday to Saturday 9:30 to 6:00, closed Sunday. Customers have driven from Temecula for this work, so Hacienda Heights is a routine trip.
+Hacienda Heights to the shop is about 20.3 miles, roughly 41 to 49 minutes outside rush hour (approx). Book by calling (213) 429-1092 or texting (213) 429-1092. A front pair is a wait-inside job; the full speaker and amplifier package is a drop-off with a text at pickup time. Open Monday to Saturday 9:30 to 6:00, closed Sunday. Customers have driven from Temecula for this work, so Hacienda Heights is a routine trip.
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Hacienda Heights drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. The shop is LGBTQ-friendly and everyone from Hacienda Heights is welcome, as our Google and Yelp listings state. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Hacienda Heights.
 
 ## Questions from Hacienda Heights
 
@@ -48,7 +51,7 @@ If the amp is fed by a line-output converter from a factory radio, a head unit w
 
 ## Hacienda Heights pricing
 
-Dual Kicker Comp loaded box: $249 box only, as of October 2026. Speaker replacement, amplifier installation, car stereo installation, subwoofer installation and Apple CarPlay and Android Auto installation are quoted at the shop for the Hacienda Heights car in front of us. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation, Tesla window tint and Harley bagger audio go through the same counter.
+Dual Kicker Comp loaded box: $249 box only, as of October 2026. Speaker replacement, amplifier installation, car stereo installation, subwoofer installation and Apple CarPlay and Android Auto installation are quoted at the shop for the Hacienda Heights car in front of us. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation, Tesla window tint and Harley bagger audio go through the same counter.
 
 ## Near Hacienda Heights
 
@@ -56,7 +59,7 @@ Other LA Car Beats pages in the San Gabriel Valley: [La Habra Heights](/beats/ca
 
 ## Book speaker and amp work from Hacienda Heights
 
-Text the vehicle and what is already installed so the amp and speakers are specced as a set. Call (310) 513-8800 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Text the vehicle and what is already installed so the amp and speakers are specced as a set. Call (213) 429-1092 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -67,7 +70,7 @@ Text the vehicle and what is already installed so the amp and speakers are specc
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-hacienda-heights/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-hacienda-heights/",
    "name": "Hacienda Heights Speaker & Amp Install | LA Car Beats",
-   "description": "Speaker replacement and amplifier installation for Hacienda Heights drivers at LA Car Beats by Audio MotorSports in Carson, 20.3 miles. Call (310) 513-8800.",
+   "description": "Speaker replacement and amplifier installation for Hacienda Heights drivers at LA Car Beats by Audio MotorSports in Carson, 20.3 miles. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

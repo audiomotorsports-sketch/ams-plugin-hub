@@ -4,7 +4,7 @@ city: Covina
 miles: 34.8
 lead_service: speaker replacement
 title: Covina Speaker Replacement & Car Stereo | LA Car Beats
-meta: Speaker replacement, speaker installation and car stereo installation for Covina drivers at LA Car Beats by Audio MotorSports in Carson. Call (310) 513-8800.
+meta: Speaker replacement, speaker installation and car stereo installation for Covina drivers at LA Car Beats by Audio MotorSports in Carson. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Speaker Replacement and Car Stereo Installation for Covina
@@ -26,6 +26,9 @@ Covina drivers with worn-out factory speakers make the drive to LA Car Beats, th
 ## Covina to the shop
 
 Covina is about 34.8 miles from Carson, roughly 70 to 84 minutes outside rush hour (approx). Book ahead and text the vehicle details so the speakers and adapters are waiting, then drop the car for the day or wait on site. We are open Monday through Saturday 9:30 to 6:00 and closed Sunday. [SHOP NOTE: 2-3 sentences from Nick about Covina customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Covina job is finished. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. Coming from Covina, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Covina speaker questions
 
@@ -51,7 +54,7 @@ Good coaxial speakers improve the sound even on the stock radio. If you want the
 
 ## Covina pricing
 
-Dual Kicker Comp loaded box: $249, box only, as of October 2026. Speaker replacement, component speaker installation, amplifier installation, head unit installation and subwoofer installation are quoted at the shop after we look at the car. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Window tint, car alarm installation, remote start, GPS tracker installation and dash camera installation can be booked at the same shop on the same trip.
+Dual Kicker Comp loaded box: $249, box only, as of October 2026. Speaker replacement, component speaker installation, amplifier installation, head unit installation and subwoofer installation are quoted at the shop after we look at the car. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Window tint, car alarm installation, remote start, GPS tracker installation and dash camera installation can be booked at the same shop on the same trip.
 
 ## Cities near Covina
 
@@ -65,7 +68,7 @@ LA Car Beats pages for Covina neighbors:
 
 ## Book speaker replacement
 
-Text (213) 429-1092 or call (310) 513-8800 with your year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Monday to Saturday 9:30-18:00, closed Sunday.
+Text (213) 429-1092 or call (213) 429-1092 with your year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Monday to Saturday 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -76,7 +79,7 @@ Text (213) 429-1092 or call (310) 513-8800 with your year, make and model. Audio
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-covina/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-covina/",
    "name": "Covina Speaker Replacement & Car Stereo | LA Car Beats",
-   "description": "Speaker replacement, speaker installation and car stereo installation for Covina drivers at LA Car Beats by Audio MotorSports in Carson. Call (310) 513-8800.",
+   "description": "Speaker replacement, speaker installation and car stereo installation for Covina drivers at LA Car Beats by Audio MotorSports in Carson. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

@@ -5,7 +5,7 @@ miles: 13.5
 lead_service: Window tint / ceramic window tint (LA Car Tint)
 source: hub-mounted copy; standalone www host not verified
 title: Playa Vista Tesla Window Tint | LA Car Tint, Carson
-meta: Tesla window tint and ceramic window tint for Playa Vista drivers, installed by Audio MotorSports in Carson, 13.5 miles away. Call (310) 513-8800 to book.
+meta: Tesla window tint and ceramic window tint for Playa Vista drivers, installed by Audio MotorSports in Carson, 13.5 miles away. Call (213) 429-1092 to book.
 ---
 # Tesla Window Tint for Playa Vista
 
@@ -26,6 +26,9 @@ Playa Vista has more Teslas per block than almost anywhere we serve, and the gla
 From Playa Vista it is about 13.5 miles to 22025 S Avalon Blvd, roughly 27 to 32 minutes (approx) outside rush hour. Reserve a time by phone or text, then leave the Tesla with us or wait in the shop. Hours are Monday to Saturday 9:30 to 6:00; closed Sunday. Owners have called about Tesla tint from as far as San Jose, so Playa Vista is an easy run.
 
 [SHOP NOTE: 2-3 sentences from Nick about Playa Vista customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Playa Vista customers tell us makes the drop-off painless. Playa Vista customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Playa Vista traffic sends you.
 
 ## Playa Vista Tesla owners ask
 
@@ -59,7 +62,7 @@ Four-door sedan with rear glass, as of October 2026: $249 installed for Solar wi
 
 ## Book Tesla window tint from Playa Vista
 
-Text (213) 429-1092 or call (310) 513-8800. Audio MotorSports is located at 22025 S Avalon Blvd Ste A, Carson, CA 90745; Mon-Sat 9:30-6:00, Sunday closed. Rated 4.8 on Google (650+ reviews) and 4.7 on Yelp (770+ reviews), as of October 2026.
+Text (213) 429-1092 or call (213) 429-1092. Audio MotorSports is located at 22025 S Avalon Blvd Ste A, Carson, CA 90745; Mon-Sat 9:30-6:00, Sunday closed. Rated 4.8 on Google (654 reviews) and 4.7 on Yelp (777 reviews), as of October 2026.
 
 ```json
 {
@@ -70,7 +73,7 @@ Text (213) 429-1092 or call (310) 513-8800. Audio MotorSports is located at 2202
    "@id": "https://www.audiomotorsports.com/tint/window-tint-playa-vista/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-playa-vista/",
    "name": "Playa Vista Tesla Window Tint | LA Car Tint, Carson",
-   "description": "Tesla window tint and ceramic window tint for Playa Vista drivers, installed by Audio MotorSports in Carson, 13.5 miles away. Call (310) 513-8800 to book.",
+   "description": "Tesla window tint and ceramic window tint for Playa Vista drivers, installed by Audio MotorSports in Carson, 13.5 miles away. Call (213) 429-1092 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

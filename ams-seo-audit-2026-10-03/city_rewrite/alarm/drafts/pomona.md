@@ -4,7 +4,7 @@ city: Pomona
 miles: 41.6
 lead_service: GPS tracker installation
 title: GPS Tracker & Alarm Installation Pomona | LA Car Alarm
-meta: GPS tracker and car alarm installation for Pomona drivers at LA Car Alarm by Audio MotorSports, Carson, 41.6 miles out. Viper, Compustar. Call (310) 513-8800.
+meta: GPS tracker and car alarm installation for Pomona drivers at LA Car Alarm by Audio MotorSports, Carson, 41.6 miles out. Viper, Compustar. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # GPS Tracker and Car Alarm Installation for Pomona Drivers
@@ -22,6 +22,9 @@ Pomona drivers cover about 41.6 miles to reach LA Car Alarm at Audio MotorSports
 **Dash camera installation.** Fused hardwire, hidden cable, parking mode, voltage cutoff so the battery is safe.
 
 Ceramic window tint and a CarPlay head unit can be done on the same visit, which makes the trip from Pomona count twice.
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Pomona, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. The shop is LGBTQ-friendly and everyone from Pomona is welcome, as our Google and Yelp listings state. Coming from Pomona, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Making the Pomona trip count
 
@@ -54,7 +57,7 @@ A tracker alone is a few hours; a tracker plus alarm is most of a day. We give a
 
 GPS trackers, sensors and dash cameras are quoted on the vehicle at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby alarm pages
 
@@ -66,7 +69,7 @@ Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
 
 ## Schedule a Pomona install
 
-Call (310) 513-8800 or text (213) 429-1092 with your year, make and model before you leave. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with your year, make and model before you leave. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

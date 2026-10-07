@@ -4,7 +4,7 @@ city: Inglewood
 miles: 10.6
 lead_service: alarm & remote start
 title: Car Alarm & Remote Start for Inglewood | Audio MotorSports
-meta: Viper car alarms, Compustar remote start, GPS tracking, window tint and car audio for Inglewood drivers at Audio MotorSports in Carson. Call (310) 513-8800.
+meta: Viper car alarms, Compustar remote start, GPS tracking, window tint and car audio for Inglewood drivers at Audio MotorSports in Carson. Call (213) 429-1092.
 ---
 # Car Alarms and Remote Start for Inglewood Drivers
 
@@ -22,9 +22,12 @@ Inglewood drivers who want a real car alarm, a remote start or a GPS tracker bri
 
 **Car window tint and car stereo installation.** Solar and Solar Ceramic film hand-cut on the glass, plus head unit installation, speaker replacement and subwoofer installation.
 
+<!-- owner-details-2026-10-07 -->
+For a longer job from Inglewood, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Inglewood customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Inglewood.
+
 ## Inglewood to the bay
 
-The 10.6 miles from Inglewood is roughly a 21 to 25 minute drive outside rush hour (approx). Schedule by phone or text, then drop the car off and we call when it is ready, or wait at the shop and watch the install. Hours: Mon-Sat 9:30-18:00, Sunday closed. The shop is rated Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. [SHOP NOTE: 2-3 sentences from Nick about Inglewood customers, routes or jobs]
+The 10.6 miles from Inglewood is roughly a 21 to 25 minute drive outside rush hour (approx). Schedule by phone or text, then drop the car off and we call when it is ready, or wait at the shop and watch the install. Hours: Mon-Sat 9:30-18:00, Sunday closed. The shop is rated Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. [SHOP NOTE: 2-3 sentences from Nick about Inglewood customers, routes or jobs]
 
 ### Which alarm do you recommend for a car that parks on the street in Inglewood?
 
@@ -56,7 +59,7 @@ Viper 3108V alarm $269 installed. Compustar 9910 remote start from $499. Window 
 
 ## Reserve a slot from Inglewood
 
-Phone (310) 513-8800, or text (213) 429-1092 with the vehicle year, make and model. Audio MotorSports sits at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00, Sunday closed.
+Phone (213) 429-1092, or text (213) 429-1092 with the vehicle year, make and model. Audio MotorSports sits at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -67,7 +70,7 @@ Phone (310) 513-8800, or text (213) 429-1092 with the vehicle year, make and mod
    "@id": "https://www.audiomotorsports.com/inglewood/#webpage",
    "url": "https://www.audiomotorsports.com/inglewood/",
    "name": "Car Alarm & Remote Start for Inglewood | Audio MotorSports",
-   "description": "Viper car alarms, Compustar remote start, GPS tracking, window tint and car audio for Inglewood drivers at Audio MotorSports in Carson. Call (310) 513-8800.",
+   "description": "Viper car alarms, Compustar remote start, GPS tracking, window tint and car audio for Inglewood drivers at Audio MotorSports in Carson. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

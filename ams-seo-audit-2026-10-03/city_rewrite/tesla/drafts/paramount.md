@@ -4,7 +4,7 @@ city: Paramount
 miles: 7.4
 lead_service: Tesla window tint (Model S)
 title: Paramount Tesla Window Tint | Tesla Tint LA, Carson
-meta: Model S and every Tesla tinted at Tesla Tint LA by Audio MotorSports in Carson, 7.4 miles from Paramount. Ceramic film, cameras clear. Call (310) 513-8800.
+meta: Model S and every Tesla tinted at Tesla Tint LA by Audio MotorSports in Carson, 7.4 miles from Paramount. Ceramic film, cameras clear. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla Window Tint for Paramount Owners, Starting With the Model S
@@ -24,6 +24,9 @@ Tesla Tint LA is the Tesla window tint arm of Audio MotorSports, 22025 S Avalon 
 ## The drive from Paramount
 
 From Paramount to the shop is about 7.4 miles, call it 15 to 18 minutes outside rush hour (approx). Hours are Monday to Saturday 9:30 to 6:00, closed Sunday. Set an appointment, then decide whether to wait at the shop or leave the car and get picked up; both work. [SHOP NOTE: 2-3 sentences from Nick about Paramount customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Paramount, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. The shop is LGBTQ-friendly and everyone from Paramount is welcome, as our Google and Yelp listings state. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Paramount.
 
 ## Questions from Paramount Tesla owners
 
@@ -49,7 +52,7 @@ Because the glass is different on every model. A Model S hatch, a Model Y one-pi
 
 ## Pricing
 
-Tesla window tint is quoted by model at the shop. For a reference point, the standard window tint on non-Tesla cars at the same bay is Solar $249 or Solar Ceramic $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Tesla window tint is quoted by model at the shop. For a reference point, the standard window tint on non-Tesla cars at the same bay is Solar $249 or Solar Ceramic $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby Tesla tint pages
 
@@ -57,7 +60,7 @@ Tesla window tint is quoted by model at the shop. For a reference point, the sta
 
 ## Book your Tesla tint
 
-Call (310) 513-8800 or text (213) 429-1092 and tell us the model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 and tell us the model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

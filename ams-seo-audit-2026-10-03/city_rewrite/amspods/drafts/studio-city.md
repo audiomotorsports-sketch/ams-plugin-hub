@@ -1,62 +1,71 @@
 ---
-url: https://www.audiomotorsports.com/studio-city/
+url: https://www.audiomotorsports.com/amspods/bagger-audio-studio-city/
 city: Studio City
 miles: 23.4
-lead_service: car audio/stereo
-title: Studio City Car Stereo Installation | Audio MotorSports
-meta: Car stereo installation, subwoofer and amplifier installs, speaker replacement and window tint for Studio City drivers in Carson. (310) 513-8800.
+lead_service: bagger audio for riding with a group
+title: Harley Bagger Audio Studio City | AMS Pods
+meta: Group-ride Harley bagger audio for Studio City riders: AMS pods, amplifier installation and bag-lid bass at Audio MotorSports in Carson. Call (213) 429-1092.
+source: hub-mounted copy; standalone www host not verified
 ---
-# Car Stereo and Subwoofer Installation for Studio City
+# Bagger Audio for Studio City Riders Who Roll Out in a Pack
 
-Studio City drivers come about 23.4 miles over the hill to Audio MotorSports at 22025 S Avalon Blvd Ste A in Carson for car stereo installation, subwoofer installation and amplifier installation that is done by one installer with the factory features intact. The shop also handles car window tint, Apple CarPlay and Android Auto installation, car alarm installation, remote start, GPS tracker installation, dash cameras, Tesla tint and Harley bagger audio for Studio City.
+Studio City riders who leave the Valley in a group come about 23.4 miles to AMS Pods, the Harley-Davidson bagger audio shop at Audio MotorSports, 22025 S Avalon Blvd Ste A in Carson. The build they ask for is one you can still hear over seven other sets of pipes: AMS lower-fairing pods, an amplifier with headroom and speakers that stay clean, on a Street Glide, Road Glide or Road King.
 
-## What Studio City drivers bring us
+## What Studio City riders bring us
 
-**Head unit installation.** A Pioneer or Kenwood deck with CarPlay and Android Auto, fitted with the proper dash kit and interface so the camera, wheel buttons and factory microphone all keep working. Nothing drilled, nothing hanging.
+**Bagger audio installation for group riding.** The amplifier is sized for long stretches at high volume and tuned with the engine running, so the system holds together at the back of the pack instead of turning to noise.
 
-**Subwoofer installation.** The enclosure is secured, the amplifier is fused at the battery, and the signal is taken from the deck or a line converter on a factory system.
+**AMS lower-fairing pods.** Built in the Carson shop, chrome or gloss, crash-bar bracket and screws included. Angled up at the rider, they put the music where the bikes around you cannot drown it.
 
-**Speaker replacement.** Focal, Hertz or Kicker on adapters and the factory harness, door panels back without rattles.
+**Speaker replacement.** Hertz Neo motorcycle speakers in the fairing, weatherproof and matched to the amp so they survive a full day at volume.
 
-**Car window tint.** Solar and Solar Ceramic film hand-cut on the glass.
+**Bag-lid bass.** Cut lids with inverted speakers on carpeted spacers, soldered quick disconnects and lock ties, so the low end carries and the bags still come off.
 
-**Car alarm installation and dash camera installation.** Viper systems hidden from the fuse box; cameras fuse-tapped with the cable behind the trim.
+The same shop handles window tint, car stereo installation, CarPlay and Android Auto, car alarms, remote start, GPS trackers and dash cameras if a car needs work the same week.
 
-## Studio City to Carson
+## Coming over the hill from Studio City
 
-Figure roughly 47 to 56 minutes outside rush hour for the 23.4 miles (approx). Schedule by phone or text, then either leave the car and come back when it is finished or wait in the shop while the install happens. Hours: Mon-Sat 9:30-18:00, Sunday closed. Plenty of customers drive farther than Studio City for this, some from over 100 miles away. [SHOP NOTE: 2-3 sentences from Nick about Studio City customers, routes or jobs]
+Studio City to the shop is about 23.4 miles, roughly 47 to 56 minutes outside rush hour (approx); most riders take the 101 or Laurel Canyon down to the 10. Book ahead, ride in, and leave the bagger for the day or wait at the shop while the pods go on. Hours are Monday through Saturday 9:30 AM to 6:00 PM, Sunday closed. Customers come from over 100 miles away for this work, so a ride out of the Valley is a normal Saturday. [SHOP NOTE: 2-3 sentences from Nick about Studio City riders, routes or jobs]
 
-### What makes a car stereo installation worth an hour's drive from Studio City?
+<!-- owner-details-2026-10-07 -->
+For a longer job from Studio City, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. The shop is LGBTQ-friendly and everyone from Studio City is welcome, as our Google and Yelp listings state. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Studio City.
 
-The labor. A deck ordered online is the same deck anywhere; the harness work, the camera retention, the wheel-control interface and the testing are what you cannot order. Done once, done right, by a shop that does this every day, is a better deal than a cheap install that has to be redone.
+## Questions Studio City riders ask
 
-### Can a subwoofer installation be done cleanly in a small car?
+### Can a Studio City riding group book several bikes at once?
 
-Yes. A Dual Kicker Comp box at $249 box only as of October 2026 fits most trunks and hatches, and the amplifier mounts flat behind it or under a seat. Power is fused at the battery and the box is strapped, so nothing shifts when you brake hard.
+Yes, with the understanding that one bay takes one bike at a time. Send the year and model for each bike and Nick staggers the appointments so nobody waits all day. Order every set of pods first, since each pair takes about three weeks to build.
 
-### Do I need an amplifier installation to make new speakers sound right?
+### Why do pods beat turning the fairing up in a pack?
 
-Not at first. Speaker replacement on factory power is already a clear improvement, especially in vocals and midrange. An amplifier installation later gives those same speakers headroom and real volume without distortion. Many Studio City owners do it in two steps and that works fine.
+The fairing throws sound forward into the wind and at the rider ahead of you. Pods on the crash bar sit below and point up, so you hear your own music at a lower volume while the group's exhaust stays where it is. There is less strain on the speakers too.
 
-### Will the new head unit keep my factory backup camera and steering controls?
+### Will the system keep playing when the saddlebags are off?
 
-Yes. The camera comes through a retention harness and the buttons through a control interface, both matched to your year, make and model before the dash is opened. We test the camera, the controls, Bluetooth calling and the mic before you drive back over the hill.
+Yes. A Road King bag amp and any bag-lid subwoofer connect through AMS quick disconnects, so the bags lift off without tools and the fairing speakers and pods keep running on their own. Nothing has to be unplugged with a screwdriver on the side of the road.
 
-### Can I get window tinting done on the same trip?
+### How long is a Studio City rider without the bike for a full group-ride build?
 
-You can. Solar is $249 and Solar Ceramic $329 installed as of October 2026, and the film goes on while the stereo is being tested. Book both and the car is ready the same afternoon. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, for reference.
+Pods and an amplifier with the pair already built is usually one day. A complete system with head unit, amplifier, pods, speakers and cut bag lids can run up to about ten business days, and Nick confirms the timeline when he sees the bike in person.
+
+### Does the amp get tuned for highway speed or for the driveway?
+
+Highway speed. Gains, crossovers and levels are set with the engine running and the fairing closed, then checked on a ride. A tune that only sounds right standing still is the one that clips the moment the pack hits the freeway.
 
 ## Prices as of October 2026
 
-Dual Kicker Comp box $249 box only. Window tint Solar $249, Solar Ceramic $329 installed. Viper 3108V alarm $269 installed. Head units, speakers and amplifiers are quoted on the car at the shop. Payment plan available, ask Nick.
+- AMS lower-fairing pods: from $649 a pair, chrome or gloss, bracket and screws included, as of October 2026.
+- Amplifier installation and tuning, speaker replacement, head units and bag-lid bass are quoted at the shop once the bike is on the lift. Payment plan available, ask Nick.
 
-## Nearby cities we also serve
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
-[Sherman Oaks](/sherman-oaks/) · [North Hollywood](/north-hollywood/) · [Hollywood](/hollywood/) · [Burbank](/burbank/)
+## Nearby cities
 
-## Book a Studio City install
+Riders also come in from [Sherman Oaks](/amspods/bagger-audio-sherman-oaks/), [North Hollywood](/amspods/bagger-audio-north-hollywood/), [Van Nuys](/amspods/bagger-audio-van-nuys/) and [Los Angeles](/amspods/bagger-audio-los-angeles/).
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. You will find the shop at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-18:00, closed Sunday.
+## Book before the next pack ride
+
+Call (213) 429-1092 or text (213) 429-1092 with the year and model for every bike in the group. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -64,21 +73,18 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. You wi
  "@graph": [
   {
    "@type": "WebPage",
-   "@id": "https://www.audiomotorsports.com/studio-city/#webpage",
-   "url": "https://www.audiomotorsports.com/studio-city/",
-   "name": "Studio City Car Stereo Installation | Audio MotorSports",
-   "description": "Car stereo installation, subwoofer and amplifier installs, speaker replacement and window tint for Studio City drivers in Carson. (310) 513-8800.",
+   "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-studio-city/#webpage",
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-studio-city/",
+   "name": "Harley Bagger Audio Studio City | AMS Pods",
+   "description": "Group-ride Harley bagger audio for Studio City riders: AMS pods, amplifier installation and bag-lid bass at Audio MotorSports in Carson. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
-   },
-   "isPartOf": {
-    "@id": "https://www.audiomotorsports.com/#website"
    }
   },
   {
    "@type": "BreadcrumbList",
-   "@id": "https://www.audiomotorsports.com/studio-city/#breadcrumb",
+   "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-studio-city/#breadcrumb",
    "itemListElement": [
     {
      "@type": "ListItem",
@@ -90,58 +96,58 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. You wi
      "@type": "ListItem",
      "position": 2,
      "name": "Locations",
-     "item": "https://www.audiomotorsports.com/amspods/"
+     "item": "https://www.audiomotorsports.com/locations/"
     },
     {
      "@type": "ListItem",
      "position": 3,
      "name": "Studio City",
-     "item": "https://www.audiomotorsports.com/studio-city/"
+     "item": "https://www.audiomotorsports.com/amspods/bagger-audio-studio-city/"
     }
    ]
   },
   {
    "@type": "FAQPage",
-   "@id": "https://www.audiomotorsports.com/studio-city/#faq",
+   "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-studio-city/#faq",
    "mainEntity": [
     {
      "@type": "Question",
-     "name": "What makes a car stereo installation worth an hour's drive from Studio City?",
+     "name": "Can a Studio City riding group book several bikes at once?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "The labor. A deck ordered online is the same deck anywhere; the harness work, the camera retention, the wheel-control interface and the testing are what you cannot order. Done once, done right, by a shop that does this every day, is a better deal than a cheap install that has to be redone."
+      "text": "Yes, with the understanding that one bay takes one bike at a time. Send the year and model for each bike and Nick staggers the appointments so nobody waits all day. Order every set of pods first, since each pair takes about three weeks to build."
      }
     },
     {
      "@type": "Question",
-     "name": "Can a subwoofer installation be done cleanly in a small car?",
+     "name": "Why do pods beat turning the fairing up in a pack?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. A Dual Kicker Comp box at $249 box only as of October 2026 fits most trunks and hatches, and the amplifier mounts flat behind it or under a seat. Power is fused at the battery and the box is strapped, so nothing shifts when you brake hard."
+      "text": "The fairing throws sound forward into the wind and at the rider ahead of you. Pods on the crash bar sit below and point up, so you hear your own music at a lower volume while the group's exhaust stays where it is. There is less strain on the speakers too."
      }
     },
     {
      "@type": "Question",
-     "name": "Do I need an amplifier installation to make new speakers sound right?",
+     "name": "Will the system keep playing when the saddlebags are off?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Not at first. Speaker replacement on factory power is already a clear improvement, especially in vocals and midrange. An amplifier installation later gives those same speakers headroom and real volume without distortion. Many Studio City owners do it in two steps and that works fine."
+      "text": "Yes. A Road King bag amp and any bag-lid subwoofer connect through AMS quick disconnects, so the bags lift off without tools and the fairing speakers and pods keep running on their own. Nothing has to be unplugged with a screwdriver on the side of the road."
      }
     },
     {
      "@type": "Question",
-     "name": "Will the new head unit keep my factory backup camera and steering controls?",
+     "name": "How long is a Studio City rider without the bike for a full group-ride build?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. The camera comes through a retention harness and the buttons through a control interface, both matched to your year, make and model before the dash is opened. We test the camera, the controls, Bluetooth calling and the mic before you drive back over the hill."
+      "text": "Pods and an amplifier with the pair already built is usually one day. A complete system with head unit, amplifier, pods, speakers and cut bag lids can run up to about ten business days, and Nick confirms the timeline when he sees the bike in person."
      }
     },
     {
      "@type": "Question",
-     "name": "Can I get window tinting done on the same trip?",
+     "name": "Does the amp get tuned for highway speed or for the driveway?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "You can. Solar is $249 and Solar Ceramic $329 installed as of October 2026, and the film goes on while the stereo is being tested. Book both and the car is ready the same afternoon. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, for reference."
+      "text": "Highway speed. Gains, crossovers and levels are set with the engine running and the fairing closed, then checked on a ride. A tune that only sounds right standing still is the one that clips the moment the pack hits the freeway."
      }
     }
    ]
@@ -149,7 +155,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. You wi
  ]
 }
 ```
-
 [CONFIRM]
-- SHOP NOTE slot in the route block (Nick: Studio City customers, routes or jobs).
-- Drive time: 47-56 minutes computed at 25-30 mph from the 23.4-mile figure.
+- SHOP NOTE slot in the ride-in section needs 2-3 sentences from Nick about Studio City riders.
+- Drive time 47 to 56 minutes from Studio City is computed at 25-30 mph from the 23.4-mile figure; confirm.
+- Route mention (101 or Laurel Canyon to the 10) is taken from the live Studio City page; confirm it should stay.

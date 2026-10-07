@@ -4,7 +4,7 @@ city: El Monte
 miles: 26.6
 lead_service: car stereo installation
 title: Car Stereo Installation El Monte | LA Car Beats, Carson
-meta: Car stereo installation and head unit installation for El Monte drivers at LA Car Beats by Audio MotorSports in Carson. CarPlay, speakers. Call (310) 513-8800.
+meta: Car stereo installation and head unit installation for El Monte drivers at LA Car Beats by Audio MotorSports in Carson. CarPlay, speakers. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Stereo Installation for El Monte Drivers
@@ -24,6 +24,9 @@ El Monte drivers make the trip to LA Car Beats, the car audio department at Audi
 ## El Monte to the Carson shop
 
 From El Monte the shop is about 26.6 miles, roughly 53 to 64 minutes outside rush hour (approx). Because it is a longer drive, book ahead and text the year, make and model so the parts are ready; then drop the car for the day or wait while it is done. Open Monday to Saturday 9:30-18:00, closed Sunday. We have customers who come from Temecula and San Diego, so El Monte is comfortably in range.
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the El Monte job is finished. El Monte customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way El Monte traffic sends you.
 
 ## El Monte stereo questions
 
@@ -49,7 +52,7 @@ If the budget allows, yes. Speaker replacement and subwoofer installation during
 
 ## El Monte pricing
 
-Our one published price is the Dual Kicker Comp loaded subwoofer box at $249, box only, as of October 2026. Head unit installation, Apple CarPlay and Android Auto installation, speaker replacement, subwoofer installation and amplifier installation are quoted at the shop. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Window tint, Viper alarm installation, Compustar remote start installation, GPS tracker installation and dash camera installation can be added to the same visit.
+Our one published price is the Dual Kicker Comp loaded subwoofer box at $249, box only, as of October 2026. Head unit installation, Apple CarPlay and Android Auto installation, speaker replacement, subwoofer installation and amplifier installation are quoted at the shop. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Window tint, Viper alarm installation, Compustar remote start installation, GPS tracker installation and dash camera installation can be added to the same visit.
 
 ## Cities near El Monte
 
@@ -63,7 +66,7 @@ LA Car Beats pages for areas around El Monte:
 
 ## Book car stereo installation
 
-Text (213) 429-1092 or call (310) 513-8800. LA Car Beats at Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30 to 6:00; Sunday closed.
+Text (213) 429-1092 or call (213) 429-1092. LA Car Beats at Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30 to 6:00; Sunday closed.
 
 ```json
 {
@@ -74,7 +77,7 @@ Text (213) 429-1092 or call (310) 513-8800. LA Car Beats at Audio MotorSports, 2
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-el-monte/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-el-monte/",
    "name": "Car Stereo Installation El Monte | LA Car Beats, Carson",
-   "description": "Car stereo installation and head unit installation for El Monte drivers at LA Car Beats by Audio MotorSports in Carson. CarPlay, speakers. Call (310) 513-8800.",
+   "description": "Car stereo installation and head unit installation for El Monte drivers at LA Car Beats by Audio MotorSports in Carson. CarPlay, speakers. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

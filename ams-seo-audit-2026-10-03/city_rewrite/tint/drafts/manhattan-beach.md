@@ -4,7 +4,7 @@ city: Manhattan Beach
 miles: 9.3
 lead_service: ceramic window tint
 title: Manhattan Beach Ceramic Window Tint | LA Car Tint
-meta: Ceramic window tint for Manhattan Beach drivers, installed by Audio MotorSports in Carson, 9.3 miles away. Hand-cut, one visit. Call (310) 513-8800.
+meta: Ceramic window tint for Manhattan Beach drivers, installed by Audio MotorSports in Carson, 9.3 miles away. Hand-cut, one visit. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Ceramic Window Tint for Manhattan Beach
@@ -21,7 +21,10 @@ When Manhattan Beach drivers ask whether ceramic window tint is worth the step u
 
 ## Getting here from Manhattan Beach
 
-Count on roughly 9.3 miles between Manhattan Beach and the shop, a 19 to 22 minute drive outside rush hour (approx). Reserve a time, then either leave the car and get a text when it is finished or wait in the lobby. We work Monday through Saturday from 9:30 a.m. to 6:00 p.m. and are closed Sunday. [SHOP NOTE: 2-3 sentences from Nick about Manhattan Beach customers, routes or jobs]
+Count on roughly 9.3 miles between Manhattan Beach and the shop, a 19 to 22 minute drive outside rush hour (approx). Reserve a time, then either leave the car and get a text when it is finished or wait inside. We work Monday through Saturday from 9:30 a.m. to 6:00 p.m. and are closed Sunday. [SHOP NOTE: 2-3 sentences from Nick about Manhattan Beach customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Manhattan Beach, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Coming from Manhattan Beach, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Manhattan Beach questions about ceramic tint
 
@@ -47,7 +50,7 @@ Yes. A four-door car usually takes a few hours and the waiting area is open the 
 
 ## Ceramic and standard tint pricing
 
-Solar Ceramic on a four-door is $329 installed and standard Solar is $249 installed, as of October 2026. Both include four doors plus the back glass. Large SUVs, trucks, Tesla roof panels and windshield strips are quoted in the store. Ask Nick about the payment plan. On the review sites, as of October 2026: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews).
+Solar Ceramic on a four-door is $329 installed and standard Solar is $249 installed, as of October 2026. Both include four doors plus the back glass. Large SUVs, trucks, Tesla roof panels and windshield strips are quoted in the store. Ask Nick about the payment plan. On the review sites, as of October 2026: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews).
 
 ## Nearby South Bay tint pages
 
@@ -55,7 +58,7 @@ Solar Ceramic on a four-door is $329 installed and standard Solar is $249 instal
 
 ## Set up your appointment
 
-Phone (310) 513-8800, text (213) 429-1092. Audio MotorSports at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday to Saturday 9:30-18:00 and closed Sunday.
+Phone (213) 429-1092, text (213) 429-1092. Audio MotorSports at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday to Saturday 9:30-18:00 and closed Sunday.
 
 ```json
 {

@@ -4,7 +4,7 @@ city: Baldwin Hills
 miles: 13.3
 lead_service: window tinting (legal front-window rules)
 title: Baldwin Hills Window Tinting | LA Car Tint, Carson
-meta: Legal window tinting for Baldwin Hills drivers: Audio MotorSports in Carson installs car window tint and ceramic film 13.3 miles away. Call (310) 513-8800.
+meta: Legal window tinting for Baldwin Hills drivers: Audio MotorSports in Carson installs car window tint and ceramic film 13.3 miles away. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Window Tinting for Baldwin Hills, Within the Rules
@@ -21,7 +21,10 @@ Baldwin Hills drivers ask us the same first question: how dark can I legally go?
 
 ## Getting here from Baldwin Hills
 
-Baldwin Hills is roughly 13.3 miles from the shop, about 27 to 32 minutes outside rush hour (approx). Call or text for a time, then leave the car with us or wait in the lobby until we hand back the keys. Open Monday through Saturday 9:30 a.m. to 6:00 p.m., closed Sunday. Customers come from as far as Temecula for this work, so the trip from Baldwin Hills is short by comparison.
+Baldwin Hills is roughly 13.3 miles from the shop, about 27 to 32 minutes outside rush hour (approx). Call or text for a time, then leave the car with us or wait inside until we hand back the keys. Open Monday through Saturday 9:30 a.m. to 6:00 p.m., closed Sunday. Customers come from as far as Temecula for this work, so the trip from Baldwin Hills is short by comparison.
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Baldwin Hills customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Baldwin Hills traffic sends you.
 
 ## Baldwin Hills window tinting questions
 
@@ -47,7 +50,7 @@ A few hours for a four-door car. The time goes into cleaning the glass, hand-cut
 
 ## Tint pricing for Baldwin Hills
 
-Solar four-door window tint is $249 installed and Solar Ceramic four-door is $329 installed, as of October 2026, both covering four doors and the rear window. Old film removal, SUVs, trucks, windshield strips and Tesla roof glass are quoted in the shop. Payment plan available, ask Nick. Google 4.8 from 650+ reviews; Yelp 4.7 from 770+ reviews; both as of October 2026.
+Solar four-door window tint is $249 installed and Solar Ceramic four-door is $329 installed, as of October 2026, both covering four doors and the rear window. Old film removal, SUVs, trucks, windshield strips and Tesla roof glass are quoted in the shop. Payment plan available, ask Nick. Google 4.8 from 654 reviews; Yelp 4.7 from 777 reviews; both as of October 2026.
 
 ## Nearby tint pages
 
@@ -55,7 +58,7 @@ Solar four-door window tint is $249 installed and Solar Ceramic four-door is $32
 
 ## Book a legal tint job
 
-Call (310) 513-8800, or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A in Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sunday.
+Call (213) 429-1092, or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A in Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {

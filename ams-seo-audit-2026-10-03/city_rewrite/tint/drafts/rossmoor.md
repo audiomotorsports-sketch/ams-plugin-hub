@@ -4,7 +4,7 @@ city: Rossmoor
 miles: 11.0
 lead_service: ceramic window tint (family SUV privacy)
 title: Rossmoor Window Tint for SUVs | LA Car Tint, Carson
-meta: Ceramic window tint and privacy tint for Rossmoor family SUVs and sedans, installed by Audio MotorSports in Carson, 11 miles away. Call (310) 513-8800.
+meta: Ceramic window tint and privacy tint for Rossmoor family SUVs and sedans, installed by Audio MotorSports in Carson, 11 miles away. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Window Tint for Rossmoor Family Cars and SUVs
@@ -21,7 +21,10 @@ Rossmoor families mostly want two things from window tint: a cooler back seat fo
 
 ## Getting here from Rossmoor
 
-Rossmoor is roughly 11 miles from the shop, around 22 to 26 minutes outside rush hour (approx). Make an appointment, then drop the SUV for the day or wait in the lobby; we text when it is ready. Open 9:30 a.m. to 6:00 p.m. Monday to Saturday, closed Sunday. People have made the trip from Temecula for this installation, so Rossmoor is close by our standards.
+Rossmoor is roughly 11 miles from the shop, around 22 to 26 minutes outside rush hour (approx). Make an appointment, then drop the SUV for the day or wait inside; we text when it is ready. Open 9:30 a.m. to 6:00 p.m. Monday to Saturday, closed Sunday. People have made the trip from Temecula for this installation, so Rossmoor is close by our standards.
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Rossmoor, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. From Rossmoor you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Rossmoor tint questions
 
@@ -47,7 +50,7 @@ Leave the windows up for a few days so the film cures to the glass. Light haze o
 
 ## Rossmoor tint prices
 
-As of October 2026: four-door Solar window tint, $249 installed; four-door Solar Ceramic, $329 installed. Each covers four doors and the rear glass. Three-row SUVs, minivans, trucks and Tesla roof glass are quoted in person at the shop. Payment plan available, ask Nick. Google 4.8 with 650+ reviews and Yelp 4.7 with 770+ reviews, as of October 2026.
+As of October 2026: four-door Solar window tint, $249 installed; four-door Solar Ceramic, $329 installed. Each covers four doors and the rear glass. Three-row SUVs, minivans, trucks and Tesla roof glass are quoted in person at the shop. Payment plan available, ask Nick. Google 4.8 with 654 reviews and Yelp 4.7 with 777 reviews, as of October 2026.
 
 ## Nearby cities we tint for
 
@@ -55,7 +58,7 @@ As of October 2026: four-door Solar window tint, $249 installed; four-door Solar
 
 ## Book the family car
 
-Text (213) 429-1092 or call (310) 513-8800. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745 — Monday to Saturday 9:30-18:00, closed on Sunday.
+Text (213) 429-1092 or call (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745 — Monday to Saturday 9:30-18:00, closed on Sunday.
 
 ```json
 {

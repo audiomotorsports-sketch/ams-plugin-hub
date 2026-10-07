@@ -4,7 +4,7 @@ city: Pasadena
 miles: 28.6
 lead_service: CarPlay/Android Auto
 title: CarPlay Installation & Tint for Pasadena | Audio MotorSports
-meta: Apple CarPlay and Android Auto installation, head units, window tint and alarms for Pasadena drivers at Audio MotorSports in Carson, 28.6 miles. (310) 513-8800.
+meta: Apple CarPlay and Android Auto installation, head units, window tint and alarms for Pasadena drivers at Audio MotorSports in Carson, 28.6 miles. (213) 429-1092.
 ---
 # Apple CarPlay and Android Auto Installation for Pasadena
 
@@ -21,6 +21,9 @@ Pasadena drivers make the 28.6-mile drive to Audio MotorSports at 22025 S Avalon
 **Viper alarm installation and remote start installation.** Modules hidden from the fuse box, wiring blended into the factory loom.
 
 **Dash camera installation.** Fuse-tapped, cable behind the trim, parked recording.
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Pasadena job is finished. The shop is LGBTQ-friendly and everyone from Pasadena is welcome, as our Google and Yelp listings state. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Pasadena.
 
 ## Pasadena to Carson
 
@@ -40,7 +43,7 @@ Yes. Most current head units support wireless CarPlay and Android Auto, and a wi
 
 ### How long does a head unit installation take?
 
-A few hours for most vehicles, longer when a dash requires more trim work or when an amplifier installation is added. Drop the car in the morning and it is ready the same day. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, is the record behind that promise.
+A few hours for most vehicles, longer when a dash requires more trim work or when an amplifier installation is added. Drop the car in the morning and it is ready the same day. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, is the record behind that promise.
 
 ### What else is a fixed price on the same visit?
 
@@ -56,7 +59,7 @@ Window tint Solar $249, Solar Ceramic $329 installed. Viper 3108V alarm $269 ins
 
 ## Book a Pasadena install
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat from 9:30 to 18:00 and closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat from 9:30 to 18:00 and closed Sunday.
 
 ```json
 {
@@ -67,7 +70,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio 
    "@id": "https://www.audiomotorsports.com/pasadena/#webpage",
    "url": "https://www.audiomotorsports.com/pasadena/",
    "name": "CarPlay Installation & Tint for Pasadena | Audio MotorSports",
-   "description": "Apple CarPlay and Android Auto installation, head units, window tint and alarms for Pasadena drivers at Audio MotorSports in Carson, 28.6 miles away. Call (310) 513-8800.",
+   "description": "Apple CarPlay and Android Auto installation, head units, window tint and alarms for Pasadena drivers at Audio MotorSports in Carson, 28.6 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -133,7 +136,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio 
      "name": "How long does a head unit installation take?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "A few hours for most vehicles, longer when a dash requires more trim work or when an amplifier installation is added. Drop the car in the morning and it is ready the same day. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, is the record behind that promise."
+      "text": "A few hours for most vehicles, longer when a dash requires more trim work or when an amplifier installation is added. Drop the car in the morning and it is ready the same day. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, is the record behind that promise."
      }
     },
     {

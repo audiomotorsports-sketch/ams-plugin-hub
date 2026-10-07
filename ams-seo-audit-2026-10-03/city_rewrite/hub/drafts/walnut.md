@@ -4,7 +4,7 @@ city: Walnut
 miles: 26.5
 lead_service: Tesla window tint
 title: Tesla Window Tint for Walnut Drivers | Audio MotorSports
-meta: Tesla window tint, ceramic tint, car stereo installation, alarms and remote start for Walnut drivers at Audio MotorSports in Carson, 26.5 miles. (310) 513-8800.
+meta: Tesla window tint, ceramic tint, car stereo installation, alarms and remote start for Walnut drivers at Audio MotorSports in Carson, 26.5 miles. (213) 429-1092.
 ---
 # Tesla Window Tint for Walnut Drivers
 
@@ -21,6 +21,9 @@ Walnut Tesla owners make the 26.5-mile drive to Audio MotorSports at 22025 S Ava
 **Viper alarm installation and Compustar installation.** Wired into the factory circuits with the module hidden from the fuse box.
 
 **Dash camera installation.** Hardwired, cable behind the trim, parked mode on.
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Walnut, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. The shop is LGBTQ-friendly and everyone from Walnut is welcome, as our Google and Yelp listings state. Coming from Walnut, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Walnut to the shop
 
@@ -40,7 +43,7 @@ Yes, as an add-on panel. The roof film is a ceramic that blocks most of the infr
 
 ### How long does Tesla window tint take?
 
-A few hours for the four doors and the rear glass, longer if the roof is included. Drop the car in the morning and it is ready by afternoon, or wait at the shop. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, is the shop's record if you want to check.
+A few hours for the four doors and the rear glass, longer if the roof is included. Drop the car in the morning and it is ready by afternoon, or wait at the shop. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, is the shop's record if you want to check.
 
 ### Can a Walnut household get the other cars tinted on the same trip?
 
@@ -56,7 +59,7 @@ Standard-vehicle window tint Solar $249, Solar Ceramic $329 installed. Viper 310
 
 ## Book from Walnut
 
-Call (310) 513-8800 or text (213) 429-1092 with your Tesla model and year. The bay is at 22025 S Avalon Blvd Ste A, Carson, CA 90745; Mon-Sat 9:30-18:00, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092 with your Tesla model and year. The bay is at 22025 S Avalon Blvd Ste A, Carson, CA 90745; Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -67,7 +70,7 @@ Call (310) 513-8800 or text (213) 429-1092 with your Tesla model and year. The b
    "@id": "https://www.audiomotorsports.com/walnut/#webpage",
    "url": "https://www.audiomotorsports.com/walnut/",
    "name": "Tesla Window Tint for Walnut Drivers | Audio MotorSports",
-   "description": "Tesla window tint, ceramic window tint, car stereo installation, alarms and remote start for Walnut drivers at Audio MotorSports in Carson, 26.5 miles out. Call (310) 513-8800.",
+   "description": "Tesla window tint, ceramic window tint, car stereo installation, alarms and remote start for Walnut drivers at Audio MotorSports in Carson, 26.5 miles out. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -133,7 +136,7 @@ Call (310) 513-8800 or text (213) 429-1092 with your Tesla model and year. The b
      "name": "How long does Tesla window tint take?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "A few hours for the four doors and the rear glass, longer if the roof is included. Drop the car in the morning and it is ready by afternoon, or wait at the shop. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, is the shop's record if you want to check."
+      "text": "A few hours for the four doors and the rear glass, longer if the roof is included. Drop the car in the morning and it is ready by afternoon, or wait at the shop. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, is the shop's record if you want to check."
      }
     },
     {

@@ -4,7 +4,7 @@ city: Sierra Madre
 miles: 32.3
 lead_service: ceramic window tint (foothill sun)
 title: Ceramic Window Tint Sierra Madre | LA Car Tint, Carson
-meta: Ceramic window tint for Sierra Madre foothill sun, hand-cut and installed by Audio MotorSports in Carson, 32.3 miles away. Call (310) 513-8800 to book a time.
+meta: Ceramic window tint for Sierra Madre foothill sun, hand-cut and installed by Audio MotorSports in Carson, 32.3 miles away. Call (213) 429-1092 to book a time.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Ceramic Window Tint for Sierra Madre, by Audio MotorSports in Carson
@@ -26,11 +26,14 @@ About 32.3 miles, roughly an hour and ten minutes (approx) outside rush hour, so
 
 [SHOP NOTE: 2-3 sentences from Nick about Sierra Madre customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Sierra Madre customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. From Sierra Madre you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
+
 ## Sierra Madre drivers ask
 
 ### Why drive from Sierra Madre to Carson for ceramic tint?
 
-For a hand-fitted install that lasts and a record you can read before you go: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. An hour each way once is cheaper than having a bad job redone.
+For a hand-fitted install that lasts and a record you can read before you go: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. An hour each way once is cheaper than having a bad job redone.
 
 ### How much of the heat does ceramic film actually stop?
 
@@ -60,7 +63,7 @@ Solar window tinting $249 installed; Solar Ceramic window tinting $329 installed
 
 ## Book it
 
-Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
+Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
 
 ```json
 {
@@ -71,7 +74,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-sierra-madre/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-sierra-madre/",
    "name": "Ceramic Window Tint Sierra Madre | LA Car Tint, Carson",
-   "description": "Ceramic window tint for Sierra Madre foothill sun, hand-cut and installed by Audio MotorSports in Carson, 32.3 miles away. Call (310) 513-8800 to book a time.",
+   "description": "Ceramic window tint for Sierra Madre foothill sun, hand-cut and installed by Audio MotorSports in Carson, 32.3 miles away. Call (213) 429-1092 to book a time.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -111,7 +114,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "Why drive from Sierra Madre to Carson for ceramic tint?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "For a hand-fitted install that lasts and a record you can read before you go: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. An hour each way once is cheaper than having a bad job redone."
+      "text": "For a hand-fitted install that lasts and a record you can read before you go: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. An hour each way once is cheaper than having a bad job redone."
      }
     },
     {

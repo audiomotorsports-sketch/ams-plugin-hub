@@ -4,7 +4,7 @@ city: Huntington Beach
 miles: 19.3
 lead_service: Tesla window tint and truck tint
 title: Huntington Beach Tesla & Truck Window Tint | LA Car Tint
-meta: Tesla, truck and ceramic window tint for Huntington Beach drivers, installed by Audio MotorSports in Carson, 19.3 miles away. Call (310) 513-8800 to book.
+meta: Tesla, truck and ceramic window tint for Huntington Beach drivers, installed by Audio MotorSports in Carson, 19.3 miles away. Call (213) 429-1092 to book.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla Window Tint and Truck Tint for Huntington Beach
@@ -21,7 +21,10 @@ Huntington Beach sends us two kinds of vehicles more than any other: Teslas and 
 
 ## Getting here from Huntington Beach
 
-Huntington Beach to the shop is roughly 19.3 miles, about 39 to 46 minutes outside rush hour (approx). Book first, then drop the vehicle and come back when we text, or wait in the lobby. Open Monday through Saturday 9:30 a.m. to 6:00 p.m.; closed Sunday. [SHOP NOTE: 2-3 sentences from Nick about Huntington Beach customers, routes or jobs]
+Huntington Beach to the shop is roughly 19.3 miles, about 39 to 46 minutes outside rush hour (approx). Book first, then drop the vehicle and come back when we text, or wait inside. Open Monday through Saturday 9:30 a.m. to 6:00 p.m.; closed Sunday. [SHOP NOTE: 2-3 sentences from Nick about Huntington Beach customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Huntington Beach customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. From Huntington Beach you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Huntington Beach Tesla and truck tint questions
 
@@ -47,7 +50,7 @@ No. California applies the same front-window rule to trucks as to cars, regardle
 
 ## Tint prices for Huntington Beach
 
-Four-door Solar window tint: $249 installed. Four-door Solar Ceramic: $329 installed. Prices as of October 2026, covering four doors plus the back glass. Trucks, SUVs, Tesla roof glass and windshield strips are quoted in person; no Tesla model pricing is listed here. Payment plan available, ask Nick. Google 4.8 (650+ reviews), Yelp 4.7 (770+ reviews), figures as of October 2026.
+Four-door Solar window tint: $249 installed. Four-door Solar Ceramic: $329 installed. Prices as of October 2026, covering four doors plus the back glass. Trucks, SUVs, Tesla roof glass and windshield strips are quoted in person; no Tesla model pricing is listed here. Payment plan available, ask Nick. Google 4.8 (654 reviews), Yelp 4.7 (777 reviews), figures as of October 2026.
 
 ## Nearby Orange County tint pages
 
@@ -55,7 +58,7 @@ Four-door Solar window tint: $249 installed. Four-door Solar Ceramic: $329 insta
 
 ## Book the Tesla or the truck
 
-Call (310) 513-8800 or text (213) 429-1092 with the model. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Monday to Saturday 9:30-18:00, closed Sundays.
+Call (213) 429-1092 or text (213) 429-1092 with the model. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Monday to Saturday 9:30-18:00, closed Sundays.
 
 ```json
 {

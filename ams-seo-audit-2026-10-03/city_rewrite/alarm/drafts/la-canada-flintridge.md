@@ -4,7 +4,7 @@ city: La Canada Flintridge
 miles: 26.4
 lead_service: work-truck security
 title: Work Truck Alarm & GPS, La Canada Flintridge | LA Car Alarm
-meta: Work truck car alarm installation, GPS tracker installation and remote start for La Canada Flintridge at LA Car Alarm by Audio MotorSports, Carson. (310) 513-8800.
+meta: Work truck car alarm installation, GPS tracker installation and remote start for La Canada Flintridge at LA Car Alarm by Audio MotorSports, Carson. (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Work Truck Alarm and GPS Tracker Installation for La Canada Flintridge
@@ -22,6 +22,9 @@ Landscapers, electricians and pool techs from La Canada Flintridge run trucks th
 **Dash camera installation.** Cab-facing and forward cameras on a hardwire kit, protecting the driver in a dispute and recording who touched the truck overnight.
 
 The same shop handles window tint, car stereo installation and CarPlay for the cab when the truck is already in the bay.
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from La Canada Flintridge, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. La Canada Flintridge customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. From La Canada Flintridge you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## The route down from La Canada Flintridge
 
@@ -54,7 +57,7 @@ The Viper 3108V alarm is $269 installed as of October 2026; added cargo sensors 
 
 Cargo-door triggers, GPS trackers and dash cameras are priced per vehicle at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby foothill cities
 
@@ -65,6 +68,6 @@ Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
 
 ## Make the appointment
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 [CONFIRM] SHOP NOTE slot for La Canada Flintridge; drive time 53-63 minutes (approx) at 25-30 mph.

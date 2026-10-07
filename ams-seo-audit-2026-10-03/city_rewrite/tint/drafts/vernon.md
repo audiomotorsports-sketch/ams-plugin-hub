@@ -4,7 +4,7 @@ city: Vernon
 miles: 12.1
 lead_service: fleet window tinting
 title: Vernon Fleet Window Tinting | LA Car Tint, Carson
-meta: Fleet window tinting for Vernon trucks, vans and company cars, scheduled back to back at Audio MotorSports in Carson, 12.1 miles away. Call (310) 513-8800.
+meta: Fleet window tinting for Vernon trucks, vans and company cars, scheduled back to back at Audio MotorSports in Carson, 12.1 miles away. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Fleet and Commercial Window Tinting for Vernon
@@ -22,6 +22,9 @@ Vernon is almost all business, so most of the vehicles we tint from there are fl
 ## Getting here from Vernon
 
 Vernon to the shop is roughly 12.1 miles, about 24 to 29 minutes outside rush hour (approx). Book the vehicles by phone or text; drop them off for the day or have the driver wait, whichever fits the schedule. Hours are Monday to Saturday 9:30 a.m. to 6:00 p.m., closed Sunday. [SHOP NOTE: 2-3 sentences from Nick about Vernon customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Vernon, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. The shop is LGBTQ-friendly and everyone from Vernon is welcome, as our Google and Yelp listings state. From Vernon you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Vernon fleet tinting questions
 
@@ -47,7 +50,7 @@ Yes. GPS tracker installation and dash camera installation are done in the same 
 
 ## Window tinting prices for Vernon fleets
 
-The four-door Solar package is $249 installed and Solar Ceramic is $329 installed, as of October 2026, each covering four doors and the rear glass on a passenger car. Vans, trucks, multi-vehicle fleet orders and windshield strips are quoted at the shop. Payment plan available, ask Nick. Our standing with customers, as of October 2026: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews).
+The four-door Solar package is $249 installed and Solar Ceramic is $329 installed, as of October 2026, each covering four doors and the rear glass on a passenger car. Vans, trucks, multi-vehicle fleet orders and windshield strips are quoted at the shop. Payment plan available, ask Nick. Our standing with customers, as of October 2026: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews).
 
 ## Nearby tint pages
 
@@ -55,7 +58,7 @@ The four-door Solar package is $249 installed and Solar Ceramic is $329 installe
 
 ## Book the fleet
 
-Call (310) 513-8800 or text (213) 429-1092 with the vehicle list. Audio MotorSports is located at 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092 with the vehicle list. Audio MotorSports is located at 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {

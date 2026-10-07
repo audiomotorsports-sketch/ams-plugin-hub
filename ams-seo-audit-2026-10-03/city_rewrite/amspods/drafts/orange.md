@@ -4,7 +4,7 @@ city: Orange
 miles: 23.8
 lead_service: Harley bagger audio for group rides
 title: Orange Harley Bagger Audio for Group Rides | AMS Pods
-meta: Group-ride Harley bagger audio installation with AMS lower-fairing pods and amp tuning for Orange riders. AMS Pods by Audio MotorSports, Carson. (310) 513-8800.
+meta: Group-ride Harley bagger audio installation with AMS lower-fairing pods and amp tuning for Orange riders. AMS Pods by Audio MotorSports, Carson. (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Harley Bagger Audio for Orange Riders Who Ride in Groups
@@ -26,6 +26,9 @@ Audio MotorSports also does car stereo installation, subwoofers, window tint, al
 ## Orange to the shop
 
 The ride is about 23.8 miles, roughly 48 to 57 minutes outside rush hour (approx). Schedule by phone or text, ride up, and either leave the bike or wait at the shop. Mon-Sat 9:30-18:00, Sunday closed. If a few riders want work done, call ahead and the appointments get lined up. [SHOP NOTE: 2-3 sentences from Nick about Orange riders, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Orange customers tell us makes the drop-off painless. Orange customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. From Orange you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Group-ride questions from Orange riders
 
@@ -54,7 +57,7 @@ The people who build the pods are the ones who install and tune them, on your bi
 - AMS lower-fairing pods from $649 a pair, as of October 2026, chrome or gloss, hardware included.
 - Amplifier installation, speaker replacement, head units and tuning are quoted per bike at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby cities
 
@@ -62,7 +65,7 @@ Pages for riders in [Villa Park](/amspods/bagger-audio-villa-park/), [Tustin](/a
 
 ## Line up the group
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -73,7 +76,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-orange/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-orange/",
    "name": "Orange Harley Bagger Audio for Group Rides | AMS Pods",
-   "description": "Group-ride Harley bagger audio installation with AMS lower-fairing pods and amp tuning for Orange riders. AMS Pods by Audio MotorSports, Carson. (310) 513-8800.",
+   "description": "Group-ride Harley bagger audio installation with AMS lower-fairing pods and amp tuning for Orange riders. AMS Pods by Audio MotorSports, Carson. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

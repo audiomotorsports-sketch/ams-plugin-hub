@@ -4,7 +4,7 @@ city: West Hollywood
 miles: 18.8
 lead_service: ceramic window tint (privacy and glare)
 title: Ceramic Window Tint West Hollywood | LA Car Tint
-meta: Ceramic window tint and privacy tinting for West Hollywood drivers, hand-cut and installed by Audio MotorSports in Carson, 18.8 miles away. Call (310) 513-8800.
+meta: Ceramic window tint and privacy tinting for West Hollywood drivers, hand-cut and installed by Audio MotorSports in Carson, 18.8 miles away. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Ceramic Window Tint for West Hollywood Drivers, by Audio MotorSports, Carson
@@ -26,11 +26,14 @@ Figure about 18.8 miles and around forty minutes (approx) outside peak traffic. 
 
 [SHOP NOTE: 2-3 sentences from Nick about West Hollywood customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the West Hollywood job is finished. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way West Hollywood traffic sends you.
+
 ## West Hollywood drivers ask
 
 ### Is it worth coming down from West Hollywood for ceramic tint?
 
-Yes. The film is hand-cut and sealed so it does not peel or bubble, and the reviews are open to read: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Customers come from more than 100 miles away for the same job.
+Yes. The film is hand-cut and sealed so it does not peel or bubble, and the reviews are open to read: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Customers come from more than 100 miles away for the same job.
 
 ### Can I get privacy tint without the mirrored look?
 
@@ -46,7 +49,7 @@ No. Film is applied inside the glass and removed cleanly at turn-in, leaving not
 
 ### How do I book and how long will the car be there?
 
-Call (310) 513-8800 or text (213) 429-1092 with the car and the film. Most vehicles are done the same day, so you can wait at the shop or drop it and return in the afternoon. Let us know when you book which you prefer.
+Call (213) 429-1092 or text (213) 429-1092 with the car and the film. Most vehicles are done the same day, so you can wait at the shop or drop it and return in the afternoon. Let us know when you book which you prefer.
 
 ## Prices, as of October 2026
 
@@ -60,7 +63,7 @@ Solar window tinting $249 installed; Solar Ceramic window tinting $329 installed
 
 ## Book it
 
-Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
+Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
 
 ```json
 {
@@ -71,7 +74,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-west-hollywood/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-west-hollywood/",
    "name": "Ceramic Window Tint West Hollywood | LA Car Tint",
-   "description": "Ceramic window tint and privacy tinting for West Hollywood drivers, hand-cut and installed by Audio MotorSports in Carson, 18.8 miles away. Call (310) 513-8800.",
+   "description": "Ceramic window tint and privacy tinting for West Hollywood drivers, hand-cut and installed by Audio MotorSports in Carson, 18.8 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -111,7 +114,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "Is it worth coming down from West Hollywood for ceramic tint?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. The film is hand-cut and sealed so it does not peel or bubble, and the reviews are open to read: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Customers come from more than 100 miles away for the same job."
+      "text": "Yes. The film is hand-cut and sealed so it does not peel or bubble, and the reviews are open to read: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Customers come from more than 100 miles away for the same job."
      }
     },
     {
@@ -143,7 +146,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "How do I book and how long will the car be there?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Call (310) 513-8800 or text (213) 429-1092 with the car and the film. Most vehicles are done the same day, so you can wait at the shop or drop it and return in the afternoon. Let us know when you book which you prefer."
+      "text": "Call (213) 429-1092 or text (213) 429-1092 with the car and the film. Most vehicles are done the same day, so you can wait at the shop or drop it and return in the afternoon. Let us know when you book which you prefer."
      }
     }
    ]

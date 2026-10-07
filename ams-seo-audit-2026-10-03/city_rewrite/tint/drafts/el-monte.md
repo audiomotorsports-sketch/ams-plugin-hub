@@ -4,7 +4,7 @@ city: El Monte
 miles: 26.6
 lead_service: window tinting
 title: Window Tinting El Monte | LA Car Tint, Carson
-meta: Window tinting for El Monte pickups, SUVs and sedans, Solar and ceramic film cut on the glass at Audio MotorSports, Carson, 26.6 miles. Call (310) 513-8800.
+meta: Window tinting for El Monte pickups, SUVs and sedans, Solar and ceramic film cut on the glass at Audio MotorSports, Carson, 26.6 miles. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Window Tinting for El Monte Trucks and Cars, by Audio MotorSports, Carson
@@ -26,6 +26,9 @@ The run is about 26.6 miles, just under an hour (approx) outside rush hour. Hour
 
 [SHOP NOTE: 2-3 sentences from Nick about El Monte customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which El Monte customers tell us makes the drop-off painless. The shop is LGBTQ-friendly and everyone from El Monte is welcome, as our Google and Yelp listings state. Coming from El Monte, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
+
 ## El Monte drivers ask
 
 ### Will tint on a pickup cab survive doors that get slammed all day?
@@ -42,7 +45,7 @@ Both. Solar Ceramic stops infrared heat, which is the comfort part, and like all
 
 ### Is it realistic to drive from El Monte to Carson for tint?
 
-It is about 26.6 miles, just under an hour outside rush hour, and plenty of drivers make it. Book the slot, drop the truck or wait, and head back the same day. The shop holds Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+It is about 26.6 miles, just under an hour outside rush hour, and plenty of drivers make it. Book the slot, drop the truck or wait, and head back the same day. The shop holds Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ### Can a car alarm be installed on the same visit as window tinting?
 
@@ -61,7 +64,7 @@ Solar window tint $249 installed and Solar Ceramic $329 installed, as of October
 
 ## Book it
 
-Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
+Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
 
 ```json
 {
@@ -72,7 +75,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-el-monte/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-el-monte/",
    "name": "Window Tinting El Monte | LA Car Tint, Carson",
-   "description": "Window tinting for El Monte pickups, SUVs and sedans, Solar and ceramic film cut on the glass at Audio MotorSports, Carson, 26.6 miles. Call (310) 513-8800.",
+   "description": "Window tinting for El Monte pickups, SUVs and sedans, Solar and ceramic film cut on the glass at Audio MotorSports, Carson, 26.6 miles. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -136,7 +139,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "Is it realistic to drive from El Monte to Carson for tint?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "It is about 26.6 miles, just under an hour outside rush hour, and plenty of drivers make it. Book the slot, drop the truck or wait, and head back the same day. The shop holds Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026."
+      "text": "It is about 26.6 miles, just under an hour outside rush hour, and plenty of drivers make it. Book the slot, drop the truck or wait, and head back the same day. The shop holds Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026."
      }
     },
     {

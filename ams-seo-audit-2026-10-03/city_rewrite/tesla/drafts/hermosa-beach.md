@@ -5,7 +5,7 @@ miles: 8.1
 lead_service: Tesla window tint (new-delivery tint)
 source: hub-mounted copy; standalone www host not verified
 title: New Tesla Tint, Hermosa Beach Owners | Tesla Tint LA
-meta: New-delivery Tesla window tint for Hermosa Beach owners at Audio MotorSports in Carson, 8.1 miles away. Ceramic film before the heat hits. Call (310) 513-8800.
+meta: New-delivery Tesla window tint for Hermosa Beach owners at Audio MotorSports in Carson, 8.1 miles away. Ceramic film before the heat hits. Call (213) 429-1092.
 ---
 # Tesla Window Tint for Hermosa Beach, Fresh from Delivery
 
@@ -28,6 +28,9 @@ A dash camera, a GPS tracker or a Compustar remote start can go into the new car
 Count on about 8.1 miles and roughly 16 to 19 minutes outside rush hour (approx). Hours are Monday through Saturday, 9:30 AM to 6:00 PM; Sunday closed. Book ahead, then either drop the new car off or wait at the shop. Some of our Tesla customers come from San Diego; Hermosa Beach is a short drive down the coast.
 
 [SHOP NOTE: 2-3 sentences from Nick about Hermosa Beach customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Hermosa Beach job is finished. The shop is LGBTQ-friendly and everyone from Hermosa Beach is welcome, as our Google and Yelp listings state. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Hermosa Beach.
 
 ## Hermosa Beach new-Tesla questions
 
@@ -53,7 +56,7 @@ Drive it home, yes. Leave the windows up for a few days afterward so the film cu
 
 ## Pricing
 
-Tesla window tint is quoted by model at the shop; text the model and we will reply with a figure. The non-Tesla reference, as of October 2026, is Solar $249 and Solar Ceramic $329 installed. Other installs are quoted at the shop. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Tesla window tint is quoted by model at the shop; text the model and we will reply with a figure. The non-Tesla reference, as of October 2026, is Solar $249 and Solar Ceramic $329 installed. Other installs are quoted at the shop. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near Hermosa Beach
 
@@ -64,7 +67,7 @@ Tesla window tint is quoted by model at the shop; text the model and we will rep
 
 ## Book the new car
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -75,7 +78,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-hermosa-beach/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-hermosa-beach/",
    "name": "New Tesla Tint, Hermosa Beach Owners | Tesla Tint LA",
-   "description": "New-delivery Tesla window tint for Hermosa Beach owners at Audio MotorSports in Carson, 8.1 miles away. Ceramic film before the heat hits. Call (310) 513-8800.",
+   "description": "New-delivery Tesla window tint for Hermosa Beach owners at Audio MotorSports in Carson, 8.1 miles away. Ceramic film before the heat hits. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

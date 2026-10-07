@@ -4,7 +4,7 @@ city: La Habra
 miles: 19.5
 lead_service: speaker replacement
 title: La Habra Speaker Replacement & Car Audio | LA Car Beats
-meta: Speaker replacement, speaker installation and car stereo installation for La Habra drivers at LA Car Beats, Audio MotorSports, Carson. Call (310) 513-8800.
+meta: Speaker replacement, speaker installation and car stereo installation for La Habra drivers at LA Car Beats, Audio MotorSports, Carson. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Speaker Replacement and Car Audio for La Habra
@@ -26,6 +26,9 @@ La Habra drivers bring blown, crackling or just tired factory speakers to LA Car
 ## La Habra to the shop
 
 La Habra is about 19.5 miles from Carson, roughly 39 to 47 minutes outside rush hour (approx). Call or text for an appointment, then drop the car or wait while the speakers go in. Hours are Monday through Saturday 9:30 to 6:00; closed Sunday. [SHOP NOTE: 2-3 sentences from Nick about La Habra customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Plenty of La Habra drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from La Habra.
 
 ## La Habra speaker questions
 
@@ -51,7 +54,7 @@ Coaxials drop into the factory location and keep speaker installation simple. Co
 
 ## La Habra pricing
 
-Dual Kicker Comp loaded box, $249 box only, as of October 2026. Speaker replacement, component speaker installation, amplifier installation, head unit installation and subwoofer installation are quoted at the shop after we check the car; payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Window tint, car alarm installation, remote start, GPS tracker installation and dash camera installation are also done here.
+Dual Kicker Comp loaded box, $249 box only, as of October 2026. Speaker replacement, component speaker installation, amplifier installation, head unit installation and subwoofer installation are quoted at the shop after we check the car; payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Window tint, car alarm installation, remote start, GPS tracker installation and dash camera installation are also done here.
 
 ## Cities near La Habra
 
@@ -64,7 +67,7 @@ LA Car Beats pages for La Habra neighbors:
 
 ## Book speaker replacement
 
-Text (213) 429-1092 or call (310) 513-8800 with your year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Monday to Saturday 9:30-18:00, closed Sunday.
+Text (213) 429-1092 or call (213) 429-1092 with your year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Monday to Saturday 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -75,7 +78,7 @@ Text (213) 429-1092 or call (310) 513-8800 with your year, make and model. Audio
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-la-habra/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-la-habra/",
    "name": "La Habra Speaker Replacement & Car Audio | LA Car Beats",
-   "description": "Speaker replacement, speaker installation and car stereo installation for La Habra drivers at LA Car Beats, Audio MotorSports, Carson. Call (310) 513-8800.",
+   "description": "Speaker replacement, speaker installation and car stereo installation for La Habra drivers at LA Car Beats, Audio MotorSports, Carson. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

@@ -4,7 +4,7 @@ city: Whittier
 miles: 16.7
 lead_service: subwoofer installation and amplifier installation
 title: Whittier Subwoofer & Amplifier Installation | LA Car Beats
-meta: Subwoofer installation, subwoofer upgrades and amplifier installation for Whittier drivers at LA Car Beats, Audio MotorSports, Carson. Call (310) 513-8800.
+meta: Subwoofer installation, subwoofer upgrades and amplifier installation for Whittier drivers at LA Car Beats, Audio MotorSports, Carson. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Subwoofer and Amplifier Installation for Whittier
@@ -24,6 +24,9 @@ Whittier drivers come to LA Car Beats, the car audio bay at Audio MotorSports, 2
 ## Whittier to the Carson shop
 
 The bay is about 16.7 miles from Whittier, roughly 33 to 40 minutes outside rush hour (approx). Book first, then drop the car for the day or wait while a box and amplifier go in. Hours: Monday through Saturday 9:30 to 6:00, Sunday closed. [SHOP NOTE: 2-3 sentences from Nick about Whittier customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Whittier, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Whittier.
 
 ## Whittier subwoofer questions
 
@@ -49,7 +52,7 @@ Not when amplifier installation is done to spec. Wire sized for the amplifier dr
 
 ## Whittier pricing
 
-Dual Kicker Comp loaded subwoofer box: $249, box only, as of October 2026. Subwoofer installation labor, subwoofer upgrades, amplifier installation, head unit installation and speaker replacement are quoted at the shop. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation and Harley bagger audio are done at the same address.
+Dual Kicker Comp loaded subwoofer box: $249, box only, as of October 2026. Subwoofer installation labor, subwoofer upgrades, amplifier installation, head unit installation and speaker replacement are quoted at the shop. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation and Harley bagger audio are done at the same address.
 
 ## Cities near Whittier
 
@@ -63,7 +66,7 @@ Other LA Car Beats pages around Whittier:
 
 ## Book subwoofer or amplifier installation
 
-Call (310) 513-8800 or text (213) 429-1092 and tell us the car and the sound you want. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30-18:00; closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092 and tell us the car and the sound you want. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30-18:00; closed Sunday.
 
 ```json
 {
@@ -74,7 +77,7 @@ Call (310) 513-8800 or text (213) 429-1092 and tell us the car and the sound you
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-whittier/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-whittier/",
    "name": "Whittier Subwoofer & Amplifier Installation | LA Car Beats",
-   "description": "Subwoofer installation, subwoofer upgrades and amplifier installation for Whittier drivers at LA Car Beats, Audio MotorSports, Carson. Call (310) 513-8800.",
+   "description": "Subwoofer installation, subwoofer upgrades and amplifier installation for Whittier drivers at LA Car Beats, Audio MotorSports, Carson. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

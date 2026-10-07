@@ -4,7 +4,7 @@ city: Torrance
 miles: 4.4
 lead_service: Harley bagger audio
 title: Harley Bagger Audio & Tint for Torrance | Audio MotorSports
-meta: Harley bagger audio, window tint, car stereo and alarms for Torrance riders and drivers at Audio MotorSports in Carson, 4.4 miles away. Call (310) 513-8800.
+meta: Harley bagger audio, window tint, car stereo and alarms for Torrance riders and drivers at Audio MotorSports in Carson, 4.4 miles away. Call (213) 429-1092.
 ---
 # Harley Bagger Audio and Window Tint for Torrance
 
@@ -27,6 +27,9 @@ Audio MotorSports builds Harley bagger audio, installs window tint, car stereos,
 Torrance to the Carson shop is about 4.4 miles, roughly a 9 to 11 minute drive (approx) outside rush hour. Schedule a time, then drop the bike or car off or wait at the shop while the work is done. Hours are Monday through Saturday 9:30 to 6:00, closed Sunday. Riders from much farther than Torrance make this trip for pods; we have built baggers for customers who rode in from San Diego.
 
 [SHOP NOTE: 2-3 sentences from Nick about Torrance customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Torrance, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Torrance traffic sends you. Torrance customers range from refinery and port workers to engineers and staff at the corporate campuses along the 405.
 
 ## Torrance questions we hear
 
@@ -66,7 +69,7 @@ Everything else, including Tesla window tint, GPS tracking and dash cameras, is 
 
 ## Book from Torrance
 
-Call (310) 513-8800 or text your year, make and model to (213) 429-1092. The shop is Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday through Saturday 9:30 to 6:00 and closed on Sunday.
+Call (213) 429-1092 or text your year, make and model to (213) 429-1092. The shop is Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday through Saturday 9:30 to 6:00 and closed on Sunday.
 
 ```json
 {
@@ -77,7 +80,7 @@ Call (310) 513-8800 or text your year, make and model to (213) 429-1092. The sho
    "@id": "https://www.audiomotorsports.com/torrance/#webpage",
    "url": "https://www.audiomotorsports.com/torrance/",
    "name": "Harley Bagger Audio & Tint for Torrance | Audio MotorSports",
-   "description": "Harley bagger audio, window tint, car stereo and alarms for Torrance riders and drivers at Audio MotorSports in Carson, 4.4 miles away. Call (310) 513-8800.",
+   "description": "Harley bagger audio, window tint, car stereo and alarms for Torrance riders and drivers at Audio MotorSports in Carson, 4.4 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

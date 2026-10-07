@@ -4,7 +4,7 @@ city: Rancho Cucamonga
 miles: 53.6
 lead_service: ceramic window tint (Inland Empire heat)
 title: Ceramic Window Tint Rancho Cucamonga | LA Car Tint
-meta: Ceramic window tint for Rancho Cucamonga heat, hand-cut and installed by LA Car Tint at Audio MotorSports in Carson, 53.6 miles away. Call (310) 513-8800.
+meta: Ceramic window tint for Rancho Cucamonga heat, hand-cut and installed by LA Car Tint at Audio MotorSports in Carson, 53.6 miles away. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Ceramic Window Tint for Rancho Cucamonga Drivers, by Audio MotorSports, Carson
@@ -26,11 +26,14 @@ It is about 53.6 miles, just under two hours (approx) if the freeways cooperate,
 
 [SHOP NOTE: 2-3 sentences from Nick about Rancho Cucamonga customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Rancho Cucamonga, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Rancho Cucamonga traffic sends you.
+
 ## Rancho Cucamonga drivers ask
 
 ### Why would someone in Rancho Cucamonga drive almost two hours for window tint?
 
-Because a good install lasts the life of the car and a bad one has to be removed and redone. Every window here gets its own hand-cut piece, sealed to the edge. The reviews are public: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Because a good install lasts the life of the car and a bad one has to be removed and redone. Every window here gets its own hand-cut piece, sealed to the edge. The reviews are public: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ### Which film is better for the heat out in Rancho Cucamonga?
 
@@ -60,7 +63,7 @@ Solar window tinting $249 installed; Solar Ceramic window tinting $329 installed
 
 ## Book it
 
-Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
+Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
 
 ```json
 {
@@ -71,7 +74,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-rancho-cucamonga/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-rancho-cucamonga/",
    "name": "Ceramic Window Tint Rancho Cucamonga | LA Car Tint",
-   "description": "Ceramic window tint for Rancho Cucamonga heat, hand-cut and installed by LA Car Tint at Audio MotorSports in Carson, 53.6 miles away. Call (310) 513-8800.",
+   "description": "Ceramic window tint for Rancho Cucamonga heat, hand-cut and installed by LA Car Tint at Audio MotorSports in Carson, 53.6 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -111,7 +114,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "Why would someone in Rancho Cucamonga drive almost two hours for window tint?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Because a good install lasts the life of the car and a bad one has to be removed and redone. Every window here gets its own hand-cut piece, sealed to the edge. The reviews are public: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026."
+      "text": "Because a good install lasts the life of the car and a bad one has to be removed and redone. Every window here gets its own hand-cut piece, sealed to the edge. The reviews are public: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026."
      }
     },
     {

@@ -112,11 +112,11 @@ Reading the table: the five pilots, Irvine and Harbor City are the most individu
 ### 2.2 Page anatomy, in order
 | # | Block | Rule | Shared or unique |
 |---|---|---|---|
-| 1 | Title, meta, canonical, OG | Title at most 60 characters: `{City} Car Stereo, Tint & Alarm \| Audio MotorSports`; if over 60, use `{City} Car Stereo & Tint \| Audio MotorSports`. Meta 110 to 155 characters, must contain miles, drive time and "Carson": `{City} car stereo, window tint and car alarms at our one Carson shop: {miles} miles, about {time}. Open Mon-Sat 9:30-6. Call (310) 513-8800.` Canonical unchanged | Unique by city data |
+| 1 | Title, meta, canonical, OG | Title at most 60 characters: `{City} Car Stereo, Tint & Alarm \| Audio MotorSports`; if over 60, use `{City} Car Stereo & Tint \| Audio MotorSports`. Meta 110 to 155 characters, must contain miles, drive time and "Carson": `{City} car stereo, window tint and car alarms at our one Carson shop: {miles} miles, about {time}. Open Mon-Sat 9:30-6. Call (213) 429-1092.` Canonical unchanged | Unique by city data |
 | 2 | Site hero, breadcrumb | Unchanged | Shared |
 | 3 | H1 + one-line subhead | H1 `Car Stereo, Window Tint & Car Alarms for {City} Drivers`; subhead `One shop in Carson, {miles} miles from {City}` | Unique (name, miles) |
 | 4 | **Answer paragraph, 40 to 60 words** | First text on the page. Must say, in this order: what is offered; the shop is in Carson at 22025 S Avalon Blvd Ste A; there is no shop in {City}; miles and drive time; main route; hours; phone. No staff names, no jargon | Unique (city, miles, time, route) around a fixed frame |
-| 5 | CTA row | Call (310) 513-8800, Text (213) 429-1092, Google Maps, Get a Quote (existing buttons, moved under the answer) | Shared |
+| 5 | CTA row | Call (213) 429-1092, Text (213) 429-1092, Google Maps, Get a Quote (existing buttons, moved under the answer) | Shared |
 | 6 | **Route table** "Getting to the shop from {City}" | Rows: distance (data file), typical drive (live page), main route, alternate route, destination (address, Maps link), hours, tint start times (10:00 AM or 12:00 PM). Footnote: "Drive times are our estimate for moving traffic; check Google Maps for live traffic." | Unique (miles, time, routes) around a fixed frame |
 | 7 | **Five question headings** (H2, answers visible, not collapsed) | Q1 How far is the shop from {City} and which way to drive (unique); Q2 Is there a shop in {City} (frame plus city); Q3 How much is window tint for a {City} driver (price frame, linked to price table); Q4 Can I get stereo, tint and alarm in one trip from {City} (frame plus city time); Q5 What do customers from {City} say (review slot) | Q1 unique, Q2 and Q4 partly unique, Q3 shared, Q5 unique |
 | 8 | **Dated local review slot** (inside Q5, replaces "Five-star notes" in place) | 1 to 3 quotes. Each shows first name and initial, the reviewer's own city, platform, service done, and the **date shown on the Google or Yelp listing**. Prefer same-city reviewers. Never label a quote with a city the reviewer did not give. Shop-wide rating line with an "as of" date | Unique |
@@ -281,10 +281,10 @@ main()
 Each draft gives the new blocks in page order. Wording in square brackets is a slot for the owner. Data sources: miles from `drive-in-cities.json`; drive time and routes copied from the live city page for the same city; prices from `/specials/`, `/tint/` and `llms.txt` (tint only); reviews quoted from the live city page (Yelp quotes already published there); hours, phone, text line and "no mobile installs" from `llms.txt` and the live pages. No new facts were added. The "N other drive-in cities are closer" sentence in Q1 comes from the data file; it matches `/locations/` only after the 35 missing tiles are added, so drop that one sentence if `/locations/` is not updated first. All five drafts' titles are 52 to 58 characters, metas 144 to 153, answer paragraphs 53 to 60 words.
 
 Shared text used on every page (so it is written once here):
-* **CTA row:** Call (310) 513-8800 · Text (213) 429-1092 · Google Maps (link as on the live page) · Get a Quote (/contact/).
+* **CTA row:** Call (213) 429-1092 · Text (213) 429-1092 · Google Maps (link as on the live page) · Get a Quote (/contact/).
 * **Route table frame**, rows in this order: Distance (data file) · Typical drive · Main route · Alternate · Destination (22025 S Avalon Blvd Ste A, Carson, CA 90745) · Open (Monday to Saturday, 9:30 AM to 6:00 PM; Sunday closed; walk-ins welcome) · Tint start times (10:00 AM or 12:00 PM). Footnote: "Distances: Audio MotorSports drive-in list. Drive times are our estimate for moving traffic; check Google Maps for live traffic. [CONFIRM wording]"
 * **Price-table block:** "Current prices are on our [Specials page](/specials/). Window tint details: [Window tint](/tint/). Car stereo: [Car stereo](/stereo/). Car alarms and remote start: [Car alarms](/alarm/)." (switch the first link when the dated price table exists)
-* **Final CTA band:** "Coming from {City}? Call (310) 513-8800 · Text (213) 429-1092 · Get a Quote".
+* **Final CTA band:** "Coming from {City}? Call (213) 429-1092 · Text (213) 429-1092 · Get a Quote".
 * **Retained blocks (unchanged), below the review slot:** current drive paragraph and 12 copy paragraphs, "Same bay" cards, FAQ questions 3 to 10 as "More questions".
 
 
@@ -293,14 +293,14 @@ Shared text used on every page (so it is written once here):
 | Item | Live today | Draft |
 |---|---|---|
 | Title | Car Stereo, Tint & Alarm for Torrance \| Audio MotorSports (57) | Torrance Car Stereo, Tint & Alarm \| Audio MotorSports (53) |
-| Meta | Torrance drive-in for car stereo, 3M window tint, and car alarm — one Avalon bay. Call (310) 513-8800. (102) | Torrance car stereo, window tint and car alarms at our one Carson shop: 4.4 miles, about 10 to 15 minutes. Open Mon-Sat 9:30-6. Call (310) 513-8800. (148) |
+| Meta | Torrance drive-in for car stereo, 3M window tint, and car alarm — one Avalon bay. Call (213) 429-1092. (102) | Torrance car stereo, window tint and car alarms at our one Carson shop: 4.4 miles, about 10 to 15 minutes. Open Mon-Sat 9:30-6. Call (213) 429-1092. (148) |
 | H1 | Car Stereo, Tint & Alarm for Torrance | Car Stereo, Window Tint & Car Alarms for Torrance Drivers |
 | Subhead | none | One shop in Carson, 4.4 miles from Torrance |
 | Intro | 68 words, starts "We are not in Torrance.", no "Carson" | 54 words, leads with what is offered and says Carson |
 
 **Answer paragraph** (first text under the H1)
 
-> Audio MotorSports installs car stereo, window tint and car alarms at one shop in Carson: 22025 S Avalon Blvd Ste A. There is no shop in Torrance. You drive in: 4.4 miles, about 10 to 15 minutes, via the 405 to Avalon. Open Monday to Saturday, 9:30 AM to 6:00 PM. Call (310) 513-8800.
+> Audio MotorSports installs car stereo, window tint and car alarms at one shop in Carson: 22025 S Avalon Blvd Ste A. There is no shop in Torrance. You drive in: 4.4 miles, about 10 to 15 minutes, via the 405 to Avalon. Open Monday to Saturday, 9:30 AM to 6:00 PM. Call (213) 429-1092.
 
 **Route table**
 
@@ -371,7 +371,7 @@ Note: Only same-city quote on the live page. Its service is Tesla tint, so the c
       "@id": "https://www.audiomotorsports.com/torrance/#webpage",
       "url": "https://www.audiomotorsports.com/torrance/",
       "name": "Torrance Car Stereo, Tint & Alarm | Audio MotorSports",
-      "description": "Torrance car stereo, window tint and car alarms at our one Carson shop: 4.4 miles, about 10 to 15 minutes. Open Mon-Sat 9:30-6. Call (310) 513-8800.",
+      "description": "Torrance car stereo, window tint and car alarms at our one Carson shop: 4.4 miles, about 10 to 15 minutes. Open Mon-Sat 9:30-6. Call (213) 429-1092.",
       "about": {
         "@id": "https://www.audiomotorsports.com/#business"
       },
@@ -461,14 +461,14 @@ Note: Only same-city quote on the live page. Its service is Tesla tint, so the c
 | Item | Live today | Draft |
 |---|---|---|
 | Title | Car Stereo, Tint & Alarm for Long Beach \| Audio MotorSports (59) | Long Beach Car Stereo, Tint & Alarm \| Audio MotorSports (55) |
-| Meta | Long Beach drive-in for car stereo, 3M window tint, and car alarm — one Avalon bay. Call (310) 513-8800. (104) | Long Beach car stereo, window tint and car alarms at our one Carson shop: 5.7 miles, about 15 minutes. Open Mon-Sat 9:30-6. Call (310) 513-8800. (144) |
+| Meta | Long Beach drive-in for car stereo, 3M window tint, and car alarm — one Avalon bay. Call (213) 429-1092. (104) | Long Beach car stereo, window tint and car alarms at our one Carson shop: 5.7 miles, about 15 minutes. Open Mon-Sat 9:30-6. Call (213) 429-1092. (144) |
 | H1 | Car Stereo, Tint & Alarm for Long Beach | Car Stereo, Window Tint & Car Alarms for Long Beach Drivers |
 | Subhead | none | One shop in Carson, 5.7 miles from Long Beach |
 | Intro | 64 words, starts "We are not in Long Beach.", no "Carson" | 56 words, leads with what is offered and says Carson |
 
 **Answer paragraph** (first text under the H1)
 
-> Audio MotorSports installs car stereo, window tint and car alarms at one shop in Carson: 22025 S Avalon Blvd Ste A. There is no shop in Long Beach. You drive in: 5.7 miles, about 15 minutes, via the 405 or the 710, then Avalon. Open Monday to Saturday, 9:30 AM to 6:00 PM. Call (310) 513-8800.
+> Audio MotorSports installs car stereo, window tint and car alarms at one shop in Carson: 22025 S Avalon Blvd Ste A. There is no shop in Long Beach. You drive in: 5.7 miles, about 15 minutes, via the 405 or the 710, then Avalon. Open Monday to Saturday, 9:30 AM to 6:00 PM. Call (213) 429-1092.
 
 **Route table**
 
@@ -545,7 +545,7 @@ Note: Three same-city Yelp quotes exist on the live page. Show all three with se
       "@id": "https://www.audiomotorsports.com/long-beach/#webpage",
       "url": "https://www.audiomotorsports.com/long-beach/",
       "name": "Long Beach Car Stereo, Tint & Alarm | Audio MotorSports",
-      "description": "Long Beach car stereo, window tint and car alarms at our one Carson shop: 5.7 miles, about 15 minutes. Open Mon-Sat 9:30-6. Call (310) 513-8800.",
+      "description": "Long Beach car stereo, window tint and car alarms at our one Carson shop: 5.7 miles, about 15 minutes. Open Mon-Sat 9:30-6. Call (213) 429-1092.",
       "about": {
         "@id": "https://www.audiomotorsports.com/#business"
       },
@@ -635,14 +635,14 @@ Note: Three same-city Yelp quotes exist on the live page. Show all three with se
 | Item | Live today | Draft |
 |---|---|---|
 | Title | Car Stereo, Tint & Alarm for Gardena \| Audio MotorSports (56) | Gardena Car Stereo, Tint & Alarm \| Audio MotorSports (52) |
-| Meta | Gardena drive-in for car stereo, 3M window tint, and car alarm — one Avalon bay. Call (310) 513-8800. (101) | Gardena car stereo, window tint and car alarms at our one Carson shop: 4.9 miles, about 10 to 15 minutes. Open Mon-Sat 9:30-6. Call (310) 513-8800. (147) |
+| Meta | Gardena drive-in for car stereo, 3M window tint, and car alarm — one Avalon bay. Call (213) 429-1092. (101) | Gardena car stereo, window tint and car alarms at our one Carson shop: 4.9 miles, about 10 to 15 minutes. Open Mon-Sat 9:30-6. Call (213) 429-1092. (147) |
 | H1 | Car Stereo, Tint & Alarm for Gardena | Car Stereo, Window Tint & Car Alarms for Gardena Drivers |
 | Subhead | none | One shop in Carson, 4.9 miles from Gardena |
 | Intro | 65 words, starts "We are not in Gardena.", no "Carson" | 53 words, leads with what is offered and says Carson |
 
 **Answer paragraph** (first text under the H1)
 
-> Audio MotorSports installs car stereo, window tint and car alarms at one shop in Carson: 22025 S Avalon Blvd Ste A. There is no shop in Gardena. You drive in: 4.9 miles, about 10 to 15 minutes, via Avalon Boulevard south. Open Monday to Saturday, 9:30 AM to 6:00 PM. Call (310) 513-8800.
+> Audio MotorSports installs car stereo, window tint and car alarms at one shop in Carson: 22025 S Avalon Blvd Ste A. There is no shop in Gardena. You drive in: 4.9 miles, about 10 to 15 minutes, via Avalon Boulevard south. Open Monday to Saturday, 9:30 AM to 6:00 PM. Call (213) 429-1092.
 
 **Route table**
 
@@ -716,7 +716,7 @@ Note: Two same-city Yelp quotes on the live page. Ruben G. is also cited in the 
       "@id": "https://www.audiomotorsports.com/gardena/#webpage",
       "url": "https://www.audiomotorsports.com/gardena/",
       "name": "Gardena Car Stereo, Tint & Alarm | Audio MotorSports",
-      "description": "Gardena car stereo, window tint and car alarms at our one Carson shop: 4.9 miles, about 10 to 15 minutes. Open Mon-Sat 9:30-6. Call (310) 513-8800.",
+      "description": "Gardena car stereo, window tint and car alarms at our one Carson shop: 4.9 miles, about 10 to 15 minutes. Open Mon-Sat 9:30-6. Call (213) 429-1092.",
       "about": {
         "@id": "https://www.audiomotorsports.com/#business"
       },
@@ -806,14 +806,14 @@ Note: Two same-city Yelp quotes on the live page. Ruben G. is also cited in the 
 | Item | Live today | Draft |
 |---|---|---|
 | Title | Car Stereo, Tint & Alarm for Redondo Beach \| Audio MotorSports (62) | Redondo Beach Car Stereo, Tint & Alarm \| Audio MotorSports (58) |
-| Meta | Redondo Beach drive-in for car stereo, 3M window tint, and car alarm — one Avalon bay. Call (310) 513-8800. (107) | Redondo Beach car stereo, window tint and car alarms at our one Carson shop: 7.2 miles, about 15 to 20 minutes. Open Mon-Sat 9:30-6. Call (310) 513-8800. (153) |
+| Meta | Redondo Beach drive-in for car stereo, 3M window tint, and car alarm — one Avalon bay. Call (213) 429-1092. (107) | Redondo Beach car stereo, window tint and car alarms at our one Carson shop: 7.2 miles, about 15 to 20 minutes. Open Mon-Sat 9:30-6. Call (213) 429-1092. (153) |
 | H1 | Car Stereo, Tint & Alarm for Redondo Beach | Car Stereo, Window Tint & Car Alarms for Redondo Beach Drivers |
 | Subhead | none | One shop in Carson, 7.2 miles from Redondo Beach |
 | Intro | 57 words, starts "We are not in Redondo Beach.", no "Carson" | 60 words, leads with what is offered and says Carson |
 
 **Answer paragraph** (first text under the H1)
 
-> Audio MotorSports installs car stereo, window tint and car alarms at one shop in Carson: 22025 S Avalon Blvd Ste A. There is no shop in Redondo Beach. You drive in: 7.2 miles, about 15 to 20 minutes, via Pacific Coast Highway or Torrance Boulevard east, then Avalon. Open Monday to Saturday, 9:30 AM to 6:00 PM. Call (310) 513-8800.
+> Audio MotorSports installs car stereo, window tint and car alarms at one shop in Carson: 22025 S Avalon Blvd Ste A. There is no shop in Redondo Beach. You drive in: 7.2 miles, about 15 to 20 minutes, via Pacific Coast Highway or Torrance Boulevard east, then Avalon. Open Monday to Saturday, 9:30 AM to 6:00 PM. Call (213) 429-1092.
 
 **Route table**
 
@@ -884,7 +884,7 @@ Note: No Redondo Beach reviewer exists on the live page. The card shows a Hermos
       "@id": "https://www.audiomotorsports.com/redondo-beach/#webpage",
       "url": "https://www.audiomotorsports.com/redondo-beach/",
       "name": "Redondo Beach Car Stereo, Tint & Alarm | Audio MotorSports",
-      "description": "Redondo Beach car stereo, window tint and car alarms at our one Carson shop: 7.2 miles, about 15 to 20 minutes. Open Mon-Sat 9:30-6. Call (310) 513-8800.",
+      "description": "Redondo Beach car stereo, window tint and car alarms at our one Carson shop: 7.2 miles, about 15 to 20 minutes. Open Mon-Sat 9:30-6. Call (213) 429-1092.",
       "about": {
         "@id": "https://www.audiomotorsports.com/#business"
       },
@@ -974,14 +974,14 @@ Note: No Redondo Beach reviewer exists on the live page. The card shows a Hermos
 | Item | Live today | Draft |
 |---|---|---|
 | Title | Car Stereo, Tint & Alarm for San Pedro \| Audio MotorSports (58) | San Pedro Car Stereo, Tint & Alarm \| Audio MotorSports (54) |
-| Meta | San Pedro drive-in for car stereo, 3M window tint, and car alarm — one Avalon bay. Call (310) 513-8800. (103) | San Pedro car stereo, window tint and car alarms at our one Carson shop: 6.5 miles, about 15 to 20 minutes. Open Mon-Sat 9:30-6. Call (310) 513-8800. (149) |
+| Meta | San Pedro drive-in for car stereo, 3M window tint, and car alarm — one Avalon bay. Call (213) 429-1092. (103) | San Pedro car stereo, window tint and car alarms at our one Carson shop: 6.5 miles, about 15 to 20 minutes. Open Mon-Sat 9:30-6. Call (213) 429-1092. (149) |
 | H1 | Car Stereo, Tint & Alarm for San Pedro | Car Stereo, Window Tint & Car Alarms for San Pedro Drivers |
 | Subhead | none | One shop in Carson, 6.5 miles from San Pedro |
 | Intro | 53 words, starts "We are not in San Pedro.", no "Carson" | 58 words, leads with what is offered and says Carson |
 
 **Answer paragraph** (first text under the H1)
 
-> Audio MotorSports installs car stereo, window tint and car alarms at one shop in Carson: 22025 S Avalon Blvd Ste A. There is no shop in San Pedro. You drive in: 6.5 miles, about 15 to 20 minutes, via Gaffey or Harbor Boulevard north, then Avalon. Open Monday to Saturday, 9:30 AM to 6:00 PM. Call (310) 513-8800.
+> Audio MotorSports installs car stereo, window tint and car alarms at one shop in Carson: 22025 S Avalon Blvd Ste A. There is no shop in San Pedro. You drive in: 6.5 miles, about 15 to 20 minutes, via Gaffey or Harbor Boulevard north, then Avalon. Open Monday to Saturday, 9:30 AM to 6:00 PM. Call (213) 429-1092.
 
 **Route table**
 
@@ -1055,7 +1055,7 @@ Note: One San Pedro quote plus a Wilmington quote, each shown under the reviewer
       "@id": "https://www.audiomotorsports.com/san-pedro/#webpage",
       "url": "https://www.audiomotorsports.com/san-pedro/",
       "name": "San Pedro Car Stereo, Tint & Alarm | Audio MotorSports",
-      "description": "San Pedro car stereo, window tint and car alarms at our one Carson shop: 6.5 miles, about 15 to 20 minutes. Open Mon-Sat 9:30-6. Call (310) 513-8800.",
+      "description": "San Pedro car stereo, window tint and car alarms at our one Carson shop: 6.5 miles, about 15 to 20 minutes. Open Mon-Sat 9:30-6. Call (213) 429-1092.",
       "about": {
         "@id": "https://www.audiomotorsports.com/#business"
       },

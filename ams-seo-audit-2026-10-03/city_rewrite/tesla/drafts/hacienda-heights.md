@@ -5,7 +5,7 @@ miles: 20.3
 lead_service: Tesla window tint (Model X)
 source: hub-mounted copy; standalone www host not verified
 title: Model X Tint for Hacienda Heights | Tesla Tint LA
-meta: Model X and Tesla window tint for Hacienda Heights owners at Audio MotorSports in Carson, 20.3 miles away. Falcon-wing glass done right. Call (310) 513-8800.
+meta: Model X and Tesla window tint for Hacienda Heights owners at Audio MotorSports in Carson, 20.3 miles away. Falcon-wing glass done right. Call (213) 429-1092.
 ---
 # Model X Window Tint for Hacienda Heights Owners
 
@@ -28,6 +28,9 @@ Audio MotorSports also installs dash cameras, GPS trackers, remote start and car
 About 20.3 miles, roughly 41 to 49 minutes outside rush hour (approx). We are open Monday to Saturday, 9:30 AM to 6:00 PM and closed Sunday. Book a time, then drop the Model X off for the day or wait at the shop. Owners drive in from well beyond 100 miles for Tesla tint, so Hacienda Heights is a normal trip.
 
 [SHOP NOTE: 2-3 sentences from Nick about Hacienda Heights customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Hacienda Heights drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Coming from Hacienda Heights, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Hacienda Heights Model X questions
 
@@ -53,7 +56,7 @@ Yes, immediately. The film sits on the inside of the glass and does not touch th
 
 ## Pricing
 
-The Model X and every other Tesla are quoted by model at the shop; text the year and model for a figure. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Other work is quoted at the shop. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+The Model X and every other Tesla are quoted by model at the shop; text the year and model for a figure. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Other work is quoted at the shop. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near Hacienda Heights
 
@@ -64,7 +67,7 @@ The Model X and every other Tesla are quoted by model at the shop; text the year
 
 ## Reserve your slot
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -75,7 +78,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-hacienda-heights/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-hacienda-heights/",
    "name": "Model X Tint for Hacienda Heights | Tesla Tint LA",
-   "description": "Model X and Tesla window tint for Hacienda Heights owners at Audio MotorSports in Carson, 20.3 miles away. Falcon-wing glass done right. Call (310) 513-8800.",
+   "description": "Model X and Tesla window tint for Hacienda Heights owners at Audio MotorSports in Carson, 20.3 miles away. Falcon-wing glass done right. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

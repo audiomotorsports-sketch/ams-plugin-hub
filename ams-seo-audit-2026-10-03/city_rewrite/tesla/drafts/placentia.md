@@ -4,7 +4,7 @@ city: Placentia
 miles: 22.9
 lead_service: Tesla window tint (Model Y)
 title: Placentia Model Y & Tesla Tint | Tesla Tint LA, Carson
-meta: Model Y ceramic window tint for Placentia at Tesla Tint LA by Audio MotorSports in Carson, 22.9 miles away. Roof, rear glass, all Teslas. Call (310) 513-8800.
+meta: Model Y ceramic window tint for Placentia at Tesla Tint LA by Audio MotorSports in Carson, 22.9 miles away. Roof, rear glass, all Teslas. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Model Y Window Tint for Placentia Tesla Owners
@@ -24,6 +24,9 @@ Placentia Model Y owners drive about 22.9 miles to Tesla Tint LA, the Tesla wind
 ## Driving from Placentia
 
 Count on about 22.9 miles and roughly 46 to 55 minutes outside rush hour (approx). We are open Monday through Saturday 9:30 to 6:00 and closed on Sunday. Make an appointment, then wait at the shop or drop the car and return when it is ready. [SHOP NOTE: 2-3 sentences from Nick about Placentia customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Placentia job is finished. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. Coming from Placentia, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Placentia Tesla tint questions
 
@@ -49,7 +52,7 @@ A few hours, depending on how much coverage you choose. Roof, rear glass, four d
 
 ## Prices
 
-Model Y tint and every other Tesla job are quoted by model at the shop. The non-Tesla reference at the same bay is Solar $249 or Solar Ceramic $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Model Y tint and every other Tesla job are quoted by model at the shop. The non-Tesla reference at the same bay is Solar $249 or Solar Ceramic $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby Tesla tint pages
 
@@ -57,7 +60,7 @@ Model Y tint and every other Tesla job are quoted by model at the shop. The non-
 
 ## Reserve your Model Y slot
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

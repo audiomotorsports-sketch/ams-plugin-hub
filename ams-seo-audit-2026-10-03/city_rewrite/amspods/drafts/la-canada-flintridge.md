@@ -4,7 +4,7 @@ city: La Canada Flintridge
 miles: 26.4
 lead_service: Harley bagger amplifier installation and tuning
 title: La Canada Flintridge Harley Bagger Amp Tuning | AMS Pods
-meta: Bagger amplifier installation and tuning on the bike, plus AMS pods, for La Canada Flintridge riders. AMS Pods by Audio MotorSports, Carson. (310) 513-8800.
+meta: Bagger amplifier installation and tuning on the bike, plus AMS pods, for La Canada Flintridge riders. AMS Pods by Audio MotorSports, Carson. (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Bagger Amplifier Installation and Tuning for La Canada Flintridge Riders
@@ -26,6 +26,9 @@ Audio MotorSports also does car stereo installation, subwoofer and amplifier ins
 ## La Canada Flintridge to Carson
 
 The shop is 26.4 miles away, roughly 53 to 63 minutes outside rush hour (approx). Book a slot, ride down, and leave the bike for the day or wait at the shop for a quicker job. Open Mon-Sat 9:30-18:00, Sunday closed. [SHOP NOTE: 2-3 sentences from Nick about La Canada Flintridge riders, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which La Canada Flintridge customers tell us makes the drop-off painless. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. Coming from La Canada Flintridge, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Amplifier questions from La Canada Flintridge
 
@@ -54,7 +57,7 @@ Usually, yes. Many systems that sound harsh or thin are simply set wrong: gains 
 - AMS lower-fairing pods from $649 a pair, as of October 2026, chrome or gloss, bracket and hardware included.
 - Amplifier installation, tuning, head units and speakers are quoted on the bike at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby cities
 
@@ -62,7 +65,7 @@ Pages for riders in [Altadena](/amspods/bagger-audio-altadena/), [La Crescenta-M
 
 ## Book the install
 
-Call (310) 513-8800, text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092, text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -73,7 +76,7 @@ Call (310) 513-8800, text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-la-canada-flintridge/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-la-canada-flintridge/",
    "name": "La Canada Flintridge Harley Bagger Amp Tuning | AMS Pods",
-   "description": "Bagger amplifier installation and tuning on the bike, plus AMS pods, for La Canada Flintridge riders. AMS Pods by Audio MotorSports, Carson. (310) 513-8800.",
+   "description": "Bagger amplifier installation and tuning on the bike, plus AMS pods, for La Canada Flintridge riders. AMS Pods by Audio MotorSports, Carson. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

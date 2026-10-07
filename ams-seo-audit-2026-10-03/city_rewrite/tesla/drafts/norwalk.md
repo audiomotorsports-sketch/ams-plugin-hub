@@ -4,7 +4,7 @@ city: Norwalk
 miles: 11.7
 lead_service: Tesla window tint (one-piece rear glass)
 title: Norwalk Tesla Window Tint | Tesla Tint LA, Carson
-meta: Tesla window tint for Norwalk owners, one-piece rear glass and ceramic film, at Tesla Tint LA by Audio MotorSports in Carson, 11.7 miles. Call (310) 513-8800.
+meta: Tesla window tint for Norwalk owners, one-piece rear glass and ceramic film, at Tesla Tint LA by Audio MotorSports in Carson, 11.7 miles. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla Window Tint for Norwalk: The Rear Glass Is One Piece Here
@@ -24,6 +24,9 @@ The rear window on a Model 3 or Model Y is the part of a Tesla tint that gets ru
 ## From Norwalk to the bay
 
 Plan on about 11.7 miles and roughly 23 to 28 minutes outside rush hour (approx). Audio MotorSports is open Monday through Saturday 9:30 to 6:00 and closed Sunday. Book first, then wait at the shop or drop the car and collect it later. [SHOP NOTE: 2-3 sentences from Nick about Norwalk customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Norwalk customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. From Norwalk you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Norwalk Tesla tint questions
 
@@ -49,7 +52,7 @@ Dash camera installation and GPS tracker installation are the usual pairings, wi
 
 ## Prices
 
-Nick quotes each Tesla by model at the shop, since the rear glass and roof vary from model to model. For a non-Tesla reference, the same bay installs Solar for $249 and Solar Ceramic for $329, as of October 2026. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Nick quotes each Tesla by model at the shop, since the rear glass and roof vary from model to model. For a non-Tesla reference, the same bay installs Solar for $249 and Solar Ceramic for $329, as of October 2026. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby Tesla tint pages
 
@@ -57,7 +60,7 @@ Nick quotes each Tesla by model at the shop, since the rear glass and roof vary 
 
 ## Book the rear glass
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

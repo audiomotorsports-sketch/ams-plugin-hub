@@ -5,7 +5,7 @@ miles: 1.8
 lead_service: Tesla window tint (glass roof heat)
 source: hub-mounted copy; standalone www host not verified
 title: West Carson Tesla Tint, Glass Roof Heat | Tesla Tint LA
-meta: Tesla window tint for West Carson owners at Audio MotorSports in Carson, 1.8 miles away. Ceramic film that beats glass-roof heat. Call (310) 513-8800.
+meta: Tesla window tint for West Carson owners at Audio MotorSports in Carson, 1.8 miles away. Ceramic film that beats glass-roof heat. Call (213) 429-1092.
 ---
 # Tesla Window Tint for West Carson: Beating the Glass Roof Heat
 
@@ -28,6 +28,9 @@ Audio MotorSports also handles car stereo installation, Apple CarPlay and Androi
 West Carson is 1.8 miles from the shop, roughly a 4 to 5 minute drive outside rush hour (approx). Hours are Monday through Saturday, 9:30 AM to 6:00 PM, closed Sunday. Schedule an appointment, then drop the car off or wait at the shop; at this distance plenty of people simply walk back home or to work and return when the film is on.
 
 [SHOP NOTE: 2-3 sentences from Nick about West Carson customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for West Carson customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. The shop is LGBTQ-friendly and everyone from West Carson is welcome, as our Google and Yelp listings state. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way West Carson traffic sends you. Many West Carson customers work at the port, the rail yard or one of the refineries and book around their shifts.
 
 ## West Carson Tesla tint questions
 
@@ -53,7 +56,7 @@ Yes. Make an appointment first so the bay is ready, then either wait at the shop
 
 ## Pricing
 
-Tesla tint is quoted by model at the shop; send the year and model by text for a number. As a non-Tesla reference, Solar window tint is $249 and Solar Ceramic is $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Tesla tint is quoted by model at the shop; send the year and model by text for a number. As a non-Tesla reference, Solar window tint is $249 and Solar Ceramic is $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint in cities next to West Carson
 
@@ -64,7 +67,7 @@ Tesla tint is quoted by model at the shop; send the year and model by text for a
 
 ## Book your appointment
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -75,7 +78,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-west-carson/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-west-carson/",
    "name": "West Carson Tesla Tint, Glass Roof Heat | Tesla Tint LA",
-   "description": "Tesla window tint for West Carson owners at Audio MotorSports in Carson, 1.8 miles away. Ceramic film that beats glass-roof heat. Call (310) 513-8800.",
+   "description": "Tesla window tint for West Carson owners at Audio MotorSports in Carson, 1.8 miles away. Ceramic film that beats glass-roof heat. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

@@ -4,7 +4,7 @@ city: Los Angeles
 miles: 15.6
 lead_service: car stereo installation
 title: Car Stereo Installation for Los Angeles | Audio MotorSports
-meta: Car stereo installation, subwoofer and amp installs, window tint and alarms for Los Angeles drivers at Audio MotorSports in Carson, 15.6 miles. (310) 513-8800.
+meta: Car stereo installation, subwoofer and amp installs, window tint and alarms for Los Angeles drivers at Audio MotorSports in Carson, 15.6 miles. (213) 429-1092.
 ---
 # Car Stereo Installation for Los Angeles Drivers
 
@@ -27,6 +27,9 @@ Los Angeles drivers who want a car stereo installed right bring the car 15.6 mil
 From central Los Angeles the drive is 15.6 miles, roughly thirty-one to thirty-seven minutes outside rush hour (approx). The shop runs Monday through Saturday from 9:30 to 6:00 and is closed Sunday. Call or text to set a time, then drop the car for the day or wait on site; a head unit install is a wait-length job, a full amp-and-sub build is a drop-off.
 
 [SHOP NOTE: 2-3 sentences from Nick about Los Angeles customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Los Angeles, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Los Angeles customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Coming from Los Angeles, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Los Angeles car audio questions
 
@@ -70,7 +73,7 @@ All current as of October 2026. Head units, amplifiers, speakers and labor for y
 
 ## Schedule your stereo install
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, and we are open Mon-Sat 9:30-18:00, closed Sunday. Drop off for the day or wait for a shorter job.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, and we are open Mon-Sat 9:30-18:00, closed Sunday. Drop off for the day or wait for a shorter job.
 
 ```json
 {
@@ -81,7 +84,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports is at 22025 S Aval
    "@id": "https://www.audiomotorsports.com/los-angeles/#webpage",
    "url": "https://www.audiomotorsports.com/los-angeles/",
    "name": "Car Stereo Installation for Los Angeles | Audio MotorSports",
-   "description": "Car stereo installation, subwoofer and amp installs, window tint and alarms for Los Angeles drivers at Audio MotorSports in Carson, 15.6 miles. (310) 513-8800.",
+   "description": "Car stereo installation, subwoofer and amp installs, window tint and alarms for Los Angeles drivers at Audio MotorSports in Carson, 15.6 miles. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

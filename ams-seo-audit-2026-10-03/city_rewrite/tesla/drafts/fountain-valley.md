@@ -5,7 +5,7 @@ miles: 19.7
 lead_service: Tesla window tint (Model S)
 source: hub-mounted copy; standalone www host not verified
 title: Model S Tint for Fountain Valley | Tesla Tint LA
-meta: Model S and Tesla window tint for Fountain Valley owners at Audio MotorSports in Carson, 19.7 miles away. Ceramic film shaped to curved glass. Call (310) 513-8800.
+meta: Model S and Tesla window tint for Fountain Valley owners at Audio MotorSports in Carson, 19.7 miles away. Ceramic film shaped to curved glass. Call (213) 429-1092.
 ---
 # Model S Window Tint for Fountain Valley Owners
 
@@ -28,6 +28,9 @@ Audio MotorSports installs dash cameras, GPS trackers, Viper alarms and car ster
 About 19.7 miles, roughly 39 to 47 minutes outside rush hour (approx). Hours are Monday through Saturday, 9:30 AM to 6:00 PM, closed Sunday. Schedule first, then drop the Model S off for the day or wait at the shop. Owners come from more than 100 miles away for Tesla tint; Fountain Valley is well inside that.
 
 [SHOP NOTE: 2-3 sentences from Nick about Fountain Valley customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Fountain Valley, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. From Fountain Valley you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Fountain Valley Model S questions
 
@@ -53,7 +56,7 @@ After a few days. The film cures against the glass during that time, so keep the
 
 ## Pricing
 
-Every Tesla, the Model S included, is quoted by model at the shop; text the year and model for a figure. The non-Tesla reference, as of October 2026, is Solar $249 and Solar Ceramic $329 installed. Everything else is quoted at the shop. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Every Tesla, the Model S included, is quoted by model at the shop; text the year and model for a figure. The non-Tesla reference, as of October 2026, is Solar $249 and Solar Ceramic $329 installed. Everything else is quoted at the shop. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near Fountain Valley
 
@@ -65,7 +68,7 @@ Every Tesla, the Model S included, is quoted by model at the shop; text the year
 
 ## Get in touch
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -76,7 +79,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-fountain-valley/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-fountain-valley/",
    "name": "Model S Tint for Fountain Valley | Tesla Tint LA",
-   "description": "Model S and Tesla window tint for Fountain Valley owners at Audio MotorSports in Carson, 19.7 miles away. Ceramic film shaped to curved glass. Call (310) 513-8800.",
+   "description": "Model S and Tesla window tint for Fountain Valley owners at Audio MotorSports in Carson, 19.7 miles away. Ceramic film shaped to curved glass. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

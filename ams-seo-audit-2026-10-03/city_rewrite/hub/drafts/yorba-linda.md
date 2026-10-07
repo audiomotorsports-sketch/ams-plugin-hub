@@ -4,7 +4,7 @@ city: Yorba Linda
 miles: 26.3
 lead_service: car audio & stereo installation
 title: Car Stereo Installation, Yorba Linda | Audio MotorSports
-meta: Yorba Linda car stereo installation, speaker replacement, subwoofer installs, tint and alarms at Audio MotorSports in Carson, 26.3 miles. (310) 513-8800.
+meta: Yorba Linda car stereo installation, speaker replacement, subwoofer installs, tint and alarms at Audio MotorSports in Carson, 26.3 miles. (213) 429-1092.
 ---
 # Car Stereo Installation for Yorba Linda
 
@@ -24,7 +24,10 @@ Yorba Linda drivers make the 26.3 mile trip to Audio MotorSports, 22025 S Avalon
 
 ## Yorba Linda to the shop
 
-Yorba Linda is about 26.3 miles out, a 53 to 63 minute drive outside rush hour (approx). We are open Monday to Saturday 9:30 AM to 6:00 PM and closed on Sunday. Set an appointment; a head unit installation is short enough to wait for, while a full system is a drop-off for the day. The shop has fielded calls from as far as San Jose, so an hour from Yorba Linda is an ordinary morning. Check the reviews before you commit: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. [SHOP NOTE: 2-3 sentences from Nick about Yorba Linda customers, routes or jobs]
+Yorba Linda is about 26.3 miles out, a 53 to 63 minute drive outside rush hour (approx). We are open Monday to Saturday 9:30 AM to 6:00 PM and closed on Sunday. Set an appointment; a head unit installation is short enough to wait for, while a full system is a drop-off for the day. The shop has fielded calls from as far as San Jose, so an hour from Yorba Linda is an ordinary morning. Check the reviews before you commit: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. [SHOP NOTE: 2-3 sentences from Nick about Yorba Linda customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Yorba Linda, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Yorba Linda traffic sends you.
 
 ## Yorba Linda car audio questions
 
@@ -46,7 +49,7 @@ It can. Schedule both and we hold the bay all day, doing the car stereo installa
 
 ### How do I get a quote before I drive from Yorba Linda?
 
-Text your year, make and model and what you want the system to do to (213) 429-1092, or call (310) 513-8800. You get a straight answer on what fits, which factory features stay, and the installed price. The shop is at 22025 S Avalon Blvd Ste A in Carson.
+Text your year, make and model and what you want the system to do to (213) 429-1092, or call (213) 429-1092. You get a straight answer on what fits, which factory features stay, and the installed price. The shop is at 22025 S Avalon Blvd Ste A in Carson.
 
 ## Yorba Linda pricing, as of October 2026
 
@@ -58,7 +61,7 @@ Neighbors who make the same drive: [Placentia](/placentia/), [Anaheim Hills](/an
 
 ## Book Yorba Linda car stereo installation
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Monday through Saturday 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Monday through Saturday 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -69,7 +72,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/yorba-linda/#webpage",
    "url": "https://www.audiomotorsports.com/yorba-linda/",
    "name": "Car Stereo Installation, Yorba Linda | Audio MotorSports",
-   "description": "Yorba Linda car stereo installation, speaker replacement, subwoofer and amplifier installs, window tint and alarms at Audio MotorSports in Carson, 26.3 miles away. Call (310) 513-8800.",
+   "description": "Yorba Linda car stereo installation, speaker replacement, subwoofer and amplifier installs, window tint and alarms at Audio MotorSports in Carson, 26.3 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -140,7 +143,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "How do I get a quote before I drive from Yorba Linda?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Text your year, make and model and what you want the system to do to (213) 429-1092, or call (310) 513-8800. You get a straight answer on what fits, which factory features stay, and the installed price. The shop is at 22025 S Avalon Blvd Ste A in Carson."
+      "text": "Text your year, make and model and what you want the system to do to (213) 429-1092, or call (213) 429-1092. You get a straight answer on what fits, which factory features stay, and the installed price. The shop is at 22025 S Avalon Blvd Ste A in Carson."
      }
     }
    ]

@@ -5,7 +5,7 @@ miles: 20.2
 lead_service: Tesla window tint (Model X)
 source: hub-mounted copy; standalone www host not verified
 title: Brentwood Model X Window Tint | Tesla Tint LA
-meta: Model X and Tesla window tint for Brentwood owners: ceramic film, cameras left clear, installed at Audio MotorSports in Carson, 20.2 miles away. Call (310) 513-8800 or text (213) 429-1092.
+meta: Model X and Tesla window tint for Brentwood owners: ceramic film, cameras left clear, installed at Audio MotorSports in Carson, 20.2 miles away. Call (213) 429-1092 or text (213) 429-1092.
 ---
 # Model X Window Tint for Brentwood Tesla Owners
 
@@ -28,6 +28,9 @@ Audio MotorSports also installs dash cameras, GPS trackers, alarms with remote s
 About 20.2 miles, roughly 40 to 48 minutes outside rush hour (approx). Hours are Monday through Saturday, 9:30 AM to 6:00 PM, closed Sunday. Book first, then leave the X for the day or wait at the shop while it is done. The shop is near the beach in Carson, and owners have driven in from San Diego, so Brentwood is an easy morning.
 
 [SHOP NOTE: 2-3 sentences from Nick about Brentwood customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Brentwood drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Brentwood traffic sends you.
 
 ## Brentwood Model X and Tesla tint questions
 
@@ -53,7 +56,7 @@ Because glass area and labor differ so much between Tesla models that a single l
 
 ## Pricing
 
-The Model X and all Tesla models are priced per model at the shop; text the year and model to get the quote. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+The Model X and all Tesla models are priced per model at the shop; text the year and model to get the quote. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near Brentwood
 
@@ -64,7 +67,7 @@ The Model X and all Tesla models are priced per model at the shop; text the year
 
 ## Book from Brentwood
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -75,7 +78,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-brentwood/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-brentwood/",
    "name": "Brentwood Model X Window Tint | Tesla Tint LA",
-   "description": "Model X and Tesla window tint for Brentwood owners: ceramic film, cameras left clear, installed at Audio MotorSports in Carson, 20.2 miles away. Call (310) 513-8800 or text (213) 429-1092.",
+   "description": "Model X and Tesla window tint for Brentwood owners: ceramic film, cameras left clear, installed at Audio MotorSports in Carson, 20.2 miles away. Call (213) 429-1092 or text (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

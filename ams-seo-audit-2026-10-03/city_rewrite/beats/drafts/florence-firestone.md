@@ -6,7 +6,7 @@ lead_service: car stereo installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Florence-Firestone Car Stereo Installation | LA Car Beats
-meta: Car stereo installation and head unit installation for Florence-Firestone drivers at LA Car Beats, Audio MotorSports, Carson. Call (310) 513-8800.
+meta: Car stereo installation and head unit installation for Florence-Firestone drivers at LA Car Beats, Audio MotorSports, Carson. Call (213) 429-1092.
 ---
 # Car Stereo Installation for Florence-Firestone
 
@@ -22,7 +22,10 @@ Florence-Firestone drivers come to LA Car Beats for car stereo installation done
 
 ## Florence-Firestone to Carson
 
-From Florence-Firestone the shop is about 10.0 miles, roughly 20 to 24 minutes outside rush hour (approx). Call (310) 513-8800 or text (213) 429-1092 to get on the calendar, then choose: wait on a head unit install, or drop the car for a full system and come back in the afternoon. Monday through Saturday 9:30 to 6:00; closed Sunday. [SHOP NOTE: 2-3 sentences from Nick about Florence-Firestone customers, routes or jobs]
+From Florence-Firestone the shop is about 10.0 miles, roughly 20 to 24 minutes outside rush hour (approx). Call (213) 429-1092 or text (213) 429-1092 to get on the calendar, then choose: wait on a head unit install, or drop the car for a full system and come back in the afternoon. Monday through Saturday 9:30 to 6:00; closed Sunday. [SHOP NOTE: 2-3 sentences from Nick about Florence-Firestone customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Florence-Firestone customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Florence-Firestone traffic sends you.
 
 ## Florence-Firestone car stereo FAQ
 
@@ -48,7 +51,7 @@ Yes. A head unit held in with foam, a ground to a painted bolt, or a camera that
 
 ## Florence-Firestone pricing
 
-One fixed price: the Dual Kicker Comp loaded box at $249, box only, as of October 2026. Car stereo installation, head unit installation, Apple CarPlay and Android Auto installation, subwoofer installation, speaker replacement and amplifier installation are quoted at the shop. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. The same crew does window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation, Tesla window tint and Harley bagger audio.
+One fixed price: the Dual Kicker Comp loaded box at $249, box only, as of October 2026. Car stereo installation, head unit installation, Apple CarPlay and Android Auto installation, subwoofer installation, speaker replacement and amplifier installation are quoted at the shop. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. The same crew does window tint, car alarm installation, remote start installation, GPS tracker installation, dash camera installation, Tesla window tint and Harley bagger audio.
 
 ## Nearby pages
 
@@ -56,7 +59,7 @@ LA Car Beats pages for communities around Florence-Firestone: [Watts](/beats/car
 
 ## Book from Florence-Firestone
 
-One appointment, one bay, the radio tested before the dash goes back together. Call (310) 513-8800 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+One appointment, one bay, the radio tested before the dash goes back together. Call (213) 429-1092 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -67,7 +70,7 @@ One appointment, one bay, the radio tested before the dash goes back together. C
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-florence-firestone/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-florence-firestone/",
    "name": "Florence-Firestone Car Stereo Installation | LA Car Beats",
-   "description": "Car stereo installation and head unit installation for Florence-Firestone drivers at LA Car Beats, Audio MotorSports, Carson. Call (310) 513-8800.",
+   "description": "Car stereo installation and head unit installation for Florence-Firestone drivers at LA Car Beats, Audio MotorSports, Carson. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

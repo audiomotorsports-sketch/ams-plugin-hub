@@ -4,12 +4,12 @@ city: La Palma
 miles: 12.5
 lead_service: Tesla window tint
 title: Tesla Window Tint La Palma | LA Car Tint, Carson
-meta: Tesla window tint and ceramic car window tinting for La Palma owners at LA Car Tint by Audio MotorSports in Carson, 12.5 miles away. Call (310) 513-8800.
+meta: Tesla window tint and ceramic car window tinting for La Palma owners at LA Car Tint by Audio MotorSports in Carson, 12.5 miles away. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla Window Tint for La Palma Owners, by Audio MotorSports, Carson
 
-La Palma Tesla owners drive to LA Car Tint for Tesla window tint that treats the one-piece rear glass as one piece. The shop is Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, about 12.5 miles from La Palma. Solar and Solar Ceramic window tinting for any car, hand-cut on the glass, plus car stereo installation, car alarm installation and dash camera installation in the same bay. Call (310) 513-8800.
+La Palma Tesla owners drive to LA Car Tint for Tesla window tint that treats the one-piece rear glass as one piece. The shop is Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, about 12.5 miles from La Palma. Solar and Solar Ceramic window tinting for any car, hand-cut on the glass, plus car stereo installation, car alarm installation and dash camera installation in the same bay. Call (213) 429-1092.
 
 ## What La Palma drivers bring us
 
@@ -23,6 +23,9 @@ La Palma Tesla owners drive to LA Car Tint for Tesla window tint that treats the
 La Palma to Carson is about 12.5 miles, roughly a twenty-seven-minute drive (approx) outside rush hour. Hours are 9:30 AM to 6:00 PM Monday through Saturday; closed Sunday. Book a slot by phone or text, then leave the car for the day or wait at the shop. Owners have driven up from Temecula for Tesla window tint, so La Palma is a short hop. Curved glass is where a cheap install shows its seams; a crew that fits it every week does not leave any.
 
 [SHOP NOTE: 2-3 sentences from Nick about La Palma customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from La Palma, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way La Palma traffic sends you.
 
 ## Questions from La Palma drivers
 
@@ -40,7 +43,7 @@ Yes. A Tesla has a lot of glass, and Solar Ceramic blocks the infrared heat that
 
 ### Why drive from La Palma to Carson for window tinting?
 
-For the install. La Palma drivers get film hand-cut on the glass by a crew that handles Tesla and SUV glass constantly, at a shop with Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, with car stereo installation and car alarm installation available the same day.
+For the install. La Palma drivers get film hand-cut on the glass by a crew that handles Tesla and SUV glass constantly, at a shop with Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, with car stereo installation and car alarm installation available the same day.
 
 ### What shade is legal on Tesla front windows in California?
 
@@ -59,7 +62,7 @@ Solar car window tint $249 installed and Solar Ceramic $329 installed, as of Oct
 
 ## Book it
 
-Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
+Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
 
 ```json
 {
@@ -70,7 +73,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-la-palma/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-la-palma/",
    "name": "Tesla Window Tint La Palma | LA Car Tint, Carson",
-   "description": "Tesla window tint and ceramic car window tinting for La Palma owners at LA Car Tint by Audio MotorSports in Carson, 12.5 miles away. Call (310) 513-8800.",
+   "description": "Tesla window tint and ceramic car window tinting for La Palma owners at LA Car Tint by Audio MotorSports in Carson, 12.5 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -134,7 +137,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "Why drive from La Palma to Carson for window tinting?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "For the install. La Palma drivers get film hand-cut on the glass by a crew that handles Tesla and SUV glass constantly, at a shop with Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, with car stereo installation and car alarm installation available the same day."
+      "text": "For the install. La Palma drivers get film hand-cut on the glass by a crew that handles Tesla and SUV glass constantly, at a shop with Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, with car stereo installation and car alarm installation available the same day."
      }
     },
     {

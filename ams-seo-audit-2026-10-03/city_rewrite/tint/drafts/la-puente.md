@@ -4,7 +4,7 @@ city: La Puente
 miles: 27.8
 lead_service: car window tint (trucks and commuters)
 title: Car Window Tint La Puente | LA Car Tint, Carson
-meta: Car window tint and ceramic film for La Puente trucks and commuters, hand-cut and installed by Audio MotorSports in Carson, 27.8 miles out. Call (310) 513-8800.
+meta: Car window tint and ceramic film for La Puente trucks and commuters, hand-cut and installed by Audio MotorSports in Carson, 27.8 miles out. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Window Tint for La Puente Trucks and Commuters, by Audio MotorSports, Carson
@@ -26,11 +26,14 @@ It is about 27.8 miles, about an hour (approx) with light traffic. The shop is o
 
 [SHOP NOTE: 2-3 sentences from Nick about La Puente customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from La Puente, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. The shop is LGBTQ-friendly and everyone from La Puente is welcome, as our Google and Yelp listings state. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from La Puente.
+
 ## La Puente questions
 
 ### Is an hour each way from La Puente worth it for window tint?
 
-Yes, for film that is cut on the glass and sealed so it stays put. Cheap film that bubbles costs twice when it has to be stripped and replaced. Check Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, first.
+Yes, for film that is cut on the glass and sealed so it stays put. Cheap film that bubbles costs twice when it has to be stripped and replaced. Check Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, first.
 
 ### Can you tint a lifted or modified truck from La Puente?
 
@@ -61,7 +64,7 @@ Solar window tinting $249 installed; Solar Ceramic window tinting $329 installed
 
 ## Book it
 
-Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
+Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
 
 ```json
 {
@@ -72,7 +75,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-la-puente/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-la-puente/",
    "name": "Car Window Tint La Puente | LA Car Tint, Carson",
-   "description": "Car window tint and ceramic film for La Puente trucks and commuters, hand-cut and installed by Audio MotorSports in Carson, 27.8 miles out. Call (310) 513-8800.",
+   "description": "Car window tint and ceramic film for La Puente trucks and commuters, hand-cut and installed by Audio MotorSports in Carson, 27.8 miles out. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -112,7 +115,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "Is an hour each way from La Puente worth it for window tint?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes, for film that is cut on the glass and sealed so it stays put. Cheap film that bubbles costs twice when it has to be stripped and replaced. Check Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, first."
+      "text": "Yes, for film that is cut on the glass and sealed so it stays put. Cheap film that bubbles costs twice when it has to be stripped and replaced. Check Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, first."
      }
     },
     {

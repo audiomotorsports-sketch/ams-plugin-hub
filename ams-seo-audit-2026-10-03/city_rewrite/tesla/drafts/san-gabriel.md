@@ -4,7 +4,7 @@ city: San Gabriel
 miles: 20.4
 lead_service: Tesla window tint (one-piece rear glass)
 title: San Gabriel Tesla Window Tint | Tesla Tint LA, Carson
-meta: One-piece rear glass tint for Model 3, Model Y, S, X and Cybertruck for San Gabriel at Tesla Tint LA by Audio MotorSports, Carson, 20 mi. Call (310) 513-8800.
+meta: One-piece rear glass tint for Model 3, Model Y, S, X and Cybertruck for San Gabriel at Tesla Tint LA by Audio MotorSports, Carson, 20 mi. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla Window Tint for San Gabriel: One-Piece Rear Glass Done Right
@@ -24,6 +24,9 @@ San Gabriel Tesla owners make the 20.4-mile drive to Tesla Tint LA at Audio Moto
 ## The drive from San Gabriel
 
 Expect about 20.4 miles and somewhere around 41 to 49 minutes outside rush hour (approx). Audio MotorSports is open Monday through Saturday 9:30 to 6:00 and closed Sunday. Reserve a time, then wait at the shop or drop off and return. [SHOP NOTE: 2-3 sentences from Nick about San Gabriel customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from San Gabriel, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from San Gabriel.
 
 ## Questions San Gabriel owners ask
 
@@ -49,7 +52,7 @@ Dash camera installation is the most common pairing, followed by GPS tracker ins
 
 ## Prices
 
-Tesla window tint is quoted by model at the shop, since the rear glass and roof differ from model to model. For a non-Tesla reference, standard window tint at the same bay is Solar $249 or Solar Ceramic $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Tesla window tint is quoted by model at the shop, since the rear glass and roof differ from model to model. For a non-Tesla reference, standard window tint at the same bay is Solar $249 or Solar Ceramic $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby Tesla tint pages
 
@@ -57,7 +60,7 @@ Tesla window tint is quoted by model at the shop, since the rear glass and roof 
 
 ## Reserve the bay
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

@@ -5,7 +5,7 @@ miles: 20.1
 lead_service: Tesla window tint (camera and sensor clearance)
 source: hub-mounted copy; standalone www host not verified
 title: Tesla Tint, Cameras Clear, La Habra Heights | Tesla Tint LA
-meta: Tesla window tint for La Habra Heights with every camera and sensor kept clear, by Audio MotorSports in Carson, 20.1 miles away. Call (310) 513-8800.
+meta: Tesla window tint for La Habra Heights with every camera and sensor kept clear, by Audio MotorSports in Carson, 20.1 miles away. Call (213) 429-1092.
 ---
 # Tesla Window Tint for La Habra Heights, Cameras and Sensors Left Clear
 
@@ -28,6 +28,9 @@ Audio MotorSports also installs dash cameras, GPS trackers, Viper alarms and car
 The drive is about 20.1 miles, roughly 40 to 48 minutes outside rush hour (approx). We are open Monday to Saturday, 9:30 AM to 6:00 PM and closed Sunday. Book ahead, then drop the Tesla off or wait at the shop until the film is on. A La Habra Heights trip is shorter than the drives many of our Tesla customers make, including a few from San Diego.
 
 [SHOP NOTE: 2-3 sentences from Nick about La Habra Heights customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Plenty of La Habra Heights drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. From La Habra Heights you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Questions from La Habra Heights Tesla owners
 
@@ -53,7 +56,7 @@ Autopilot cameras are not behind the tinted door glass, so shade does not affect
 
 ## Pricing
 
-Each Tesla is quoted by model at the shop; text the year and model for a figure. The non-Tesla reference, as of October 2026, is Solar $249 and Solar Ceramic $329 installed. Other work is quoted at the shop. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Each Tesla is quoted by model at the shop; text the year and model for a figure. The non-Tesla reference, as of October 2026, is Solar $249 and Solar Ceramic $329 installed. Other work is quoted at the shop. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near La Habra Heights
 
@@ -64,7 +67,7 @@ Each Tesla is quoted by model at the shop; text the year and model for a figure.
 
 ## Call us
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -75,7 +78,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-la-habra-heights/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-la-habra-heights/",
    "name": "Tesla Tint, Cameras Clear, La Habra Heights | Tesla Tint LA",
-   "description": "Tesla window tint for La Habra Heights with every camera and sensor kept clear, by Audio MotorSports in Carson, 20.1 miles away. Call (310) 513-8800.",
+   "description": "Tesla window tint for La Habra Heights with every camera and sensor kept clear, by Audio MotorSports in Carson, 20.1 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

@@ -4,7 +4,7 @@ city: Lomita
 miles: 3.7
 lead_service: Tesla window tint
 title: Tesla Window Tint & Car Audio for Lomita | Audio MotorSports
-meta: Tesla window tint, ceramic tint, car audio and alarms for Lomita drivers at Audio MotorSports in Carson, 3.7 miles away. Call (310) 513-8800 to book.
+meta: Tesla window tint, ceramic tint, car audio and alarms for Lomita drivers at Audio MotorSports in Carson, 3.7 miles away. Call (213) 429-1092 to book.
 ---
 # Tesla Window Tint and Car Audio for Lomita Drivers
 
@@ -22,13 +22,16 @@ Audio MotorSports tints Teslas, installs car stereos and fits alarms for Lomita 
 
 **Dash camera installation and GPS tracker installation.** Hardwired to a fuse tap, cable hidden behind the trim, nothing dangling off the windshield.
 
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Lomita customers tell us makes the drop-off painless. Lomita customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Lomita traffic sends you. Lomita customers include port and refinery workers on shift schedules, so early drop-offs are normal here.
+
 ## Getting here from Lomita
 
 Lomita sits about 3.7 miles from the shop, which works out to roughly a 7 to 9 minute drive outside rush hour (approx). Hours are Mon-Sat 9:30-18:00, Sunday closed. Schedule a time, then either leave the car with us and go about your day or wait in the shop while the work gets done. [SHOP NOTE: 2-3 sentences from Nick about Lomita customers, routes or jobs]
 
 ### Can I get my Tesla tinted the same day I drive in from Lomita?
 
-Yes, if you book first. A Tesla tint on four doors and the rear glass is a same-day job, and Lomita is close enough that you can drop the car, run errands and be back before we finish. Walk-ins get worked in when the bay is open, but a scheduled slot is the sure thing. Reviews stand at Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Yes, if you book first. A Tesla tint on four doors and the rear glass is a same-day job, and Lomita is close enough that you can drop the car, run errands and be back before we finish. Walk-ins get worked in when the bay is open, but a scheduled slot is the sure thing. Reviews stand at Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ### Does ceramic tint make a real difference in a Tesla with a glass roof?
 
@@ -56,7 +59,7 @@ Window tint runs Solar $249 or Solar Ceramic $329 installed. The Viper 3108V ala
 
 ## Book your Lomita visit
 
-Call (310) 513-8800 or text your year, make and model to (213) 429-1092. The shop is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00 and closed Sunday.
+Call (213) 429-1092 or text your year, make and model to (213) 429-1092. The shop is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00 and closed Sunday.
 
 ```json
 {
@@ -67,7 +70,7 @@ Call (310) 513-8800 or text your year, make and model to (213) 429-1092. The sho
    "@id": "https://www.audiomotorsports.com/lomita/#webpage",
    "url": "https://www.audiomotorsports.com/lomita/",
    "name": "Tesla Window Tint & Car Audio for Lomita | Audio MotorSports",
-   "description": "Tesla window tint, ceramic tint, car audio and alarms for Lomita drivers at Audio MotorSports in Carson, 3.7 miles away. Call (310) 513-8800 to book.",
+   "description": "Tesla window tint, ceramic tint, car audio and alarms for Lomita drivers at Audio MotorSports in Carson, 3.7 miles away. Call (213) 429-1092 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -109,7 +112,7 @@ Call (310) 513-8800 or text your year, make and model to (213) 429-1092. The sho
      "name": "Can I get my Tesla tinted the same day I drive in from Lomita?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes, if you book first. A Tesla tint on four doors and the rear glass is a same-day job, and Lomita is close enough that you can drop the car, run errands and be back before we finish. Walk-ins get worked in when the bay is open, but a scheduled slot is the sure thing. Reviews stand at Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026."
+      "text": "Yes, if you book first. A Tesla tint on four doors and the rear glass is a same-day job, and Lomita is close enough that you can drop the car, run errands and be back before we finish. Walk-ins get worked in when the bay is open, but a scheduled slot is the sure thing. Reviews stand at Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026."
      }
     },
     {

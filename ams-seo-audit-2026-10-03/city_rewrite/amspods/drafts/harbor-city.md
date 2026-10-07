@@ -4,7 +4,7 @@ city: Harbor City
 miles: 2.8
 lead_service: Harley bagger amplifier installation and tuning
 title: Harbor City Harley Bagger Amp Install | AMS Pods
-meta: AMS Pods by Audio MotorSports in Carson installs and tunes Harley bagger amps and lower-fairing pods for Harbor City riders. Call (310) 513-8800.
+meta: AMS Pods by Audio MotorSports in Carson installs and tunes Harley bagger amps and lower-fairing pods for Harbor City riders. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Harley Bagger Amplifier Installation for Harbor City Riders
@@ -27,6 +27,9 @@ Audio MotorSports also handles car audio, window tint, car alarms and remote sta
 
 Harbor City to Carson is about 2.8 miles, roughly a 6 to 7 minute ride outside rush hour (approx). Book a time first, then ride the bike down and either leave it with us or wait at the shop while the amp goes in. Hours are Monday through Saturday 9:30 AM to 6:00 PM, closed Sunday. Riders already come to this bay from more than 100 miles away; from Harbor City it is barely a warm-up. [SHOP NOTE: 2-3 sentences from Nick about Harbor City riders, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Harbor City customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Harbor City. Harbor City neighbors who work the port, the refineries or the rail yard are regulars here, often dropping the car off on the way to a shift.
+
 ## Questions Harbor City riders ask
 
 ### Why have the amplifier tuned on the bike instead of just installed?
@@ -47,14 +50,14 @@ The shop recommends Hertz Neo motorcycle speakers for the pods: a compact neodym
 
 ### Is Harbor City close enough to just ride over without an appointment?
 
-It is close, but an appointment keeps the one bay moving. Call (310) 513-8800 or text (213) 429-1092 with the year and which of the three baggers you ride, and Nick will set a time. Walk-in questions are welcome; actual installs are scheduled.
+It is close, but an appointment keeps the one bay moving. Call (213) 429-1092 or text (213) 429-1092 with the year and which of the three baggers you ride, and Nick will set a time. Walk-in questions are welcome; actual installs are scheduled.
 
 ## Prices as of October 2026
 
 - AMS lower-fairing pods: from $649 a pair, chrome or gloss, bracket and hardware included, as of October 2026.
 - Amplifier installation, tuning, head units and speaker replacement are quoted at the shop after Nick sees the bike. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby cities
 
@@ -62,7 +65,7 @@ Riders also come in from [Wilmington](/amspods/bagger-audio-wilmington/), [Lomit
 
 ## Book your bagger
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -73,7 +76,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-harbor-city/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-harbor-city/",
    "name": "Harbor City Harley Bagger Amp Install | AMS Pods",
-   "description": "AMS Pods by Audio MotorSports in Carson installs and tunes Harley bagger amps and lower-fairing pods for Harbor City riders. Call (310) 513-8800.",
+   "description": "AMS Pods by Audio MotorSports in Carson installs and tunes Harley bagger amps and lower-fairing pods for Harbor City riders. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -144,7 +147,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "Is Harbor City close enough to just ride over without an appointment?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "It is close, but an appointment keeps the one bay moving. Call (310) 513-8800 or text (213) 429-1092 with the year and which of the three baggers you ride, and Nick will set a time. Walk-in questions are welcome; actual installs are scheduled."
+      "text": "It is close, but an appointment keeps the one bay moving. Call (213) 429-1092 or text (213) 429-1092 with the year and which of the three baggers you ride, and Nick will set a time. Walk-in questions are welcome; actual installs are scheduled."
      }
     }
    ]

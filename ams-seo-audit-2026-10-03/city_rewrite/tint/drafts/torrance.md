@@ -4,12 +4,12 @@ city: Torrance
 miles: 4.4
 lead_service: ceramic window tint (glare)
 title: Ceramic Window Tint for Torrance | LA Car Tint
-meta: Torrance drivers get ceramic window tint and window tinting at LA Car Tint by Audio MotorSports in Carson, 4.4 miles away. Book at (310) 513-8800.
+meta: Torrance drivers get ceramic window tint and window tinting at LA Car Tint by Audio MotorSports in Carson, 4.4 miles away. Book at (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Ceramic Window Tint for Torrance Drivers, by Audio MotorSports, Carson
 
-Torrance drivers who want ceramic window tint that tames glare on the drive home come to LA Car Tint, the window tinting desk inside Audio MotorSports at 22025 S Avalon Blvd Ste A, Carson, 4.4 miles away. Solar and Solar Ceramic films are hand-cut on the glass and fitted here, alongside car stereo installation, car alarm installation, remote start installation, GPS tracker installation and Tesla window tint. Book by calling (310) 513-8800.
+Torrance drivers who want ceramic window tint that tames glare on the drive home come to LA Car Tint, the window tinting desk inside Audio MotorSports at 22025 S Avalon Blvd Ste A, Carson, 4.4 miles away. Solar and Solar Ceramic films are hand-cut on the glass and fitted here, alongside car stereo installation, car alarm installation, remote start installation, GPS tracker installation and Tesla window tint. Book by calling (213) 429-1092.
 
 ## What Torrance drivers bring us
 
@@ -24,11 +24,14 @@ The shop is roughly 4.4 miles from Torrance, call it a ten-minute drive (approx)
 
 [SHOP NOTE: 2-3 sentences from Nick about Torrance customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+Plenty of Torrance drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. The shop is LGBTQ-friendly and everyone from Torrance is welcome, as our Google and Yelp listings state. Coming from Torrance, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710. Torrance customers range from refinery and port workers to engineers and staff at the corporate campuses along the 405.
+
 ## Questions from Torrance drivers
 
 ### Is it worth leaving Torrance for window tinting when there are shops closer?
 
-Ten minutes is a small price for film that is hand-cut on the glass, fitted to each door and backed by a shop with Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Torrance customers also get car stereo installation, car alarm installation and Tesla window tint under one roof.
+Ten minutes is a small price for film that is hand-cut on the glass, fitted to each door and backed by a shop with Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Torrance customers also get car stereo installation, car alarm installation and Tesla window tint under one roof.
 
 ### What is the difference between Solar and Solar Ceramic car window tint?
 
@@ -60,7 +63,7 @@ Solar window tinting: $249 installed. Solar Ceramic window tinting: $329 install
 
 ## Book it
 
-Phone (310) 513-8800. Text line (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday 9:30-6:00, closed Sunday.
+Phone (213) 429-1092. Text line (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday 9:30-6:00, closed Sunday.
 
 ```json
 {
@@ -71,7 +74,7 @@ Phone (310) 513-8800. Text line (213) 429-1092. Audio MotorSports, 22025 S Avalo
    "@id": "https://www.audiomotorsports.com/tint/window-tint-torrance/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-torrance/",
    "name": "Ceramic Window Tint for Torrance | LA Car Tint",
-   "description": "Torrance drivers get ceramic window tint and window tinting at LA Car Tint by Audio MotorSports in Carson, 4.4 miles away. Book at (310) 513-8800.",
+   "description": "Torrance drivers get ceramic window tint and window tinting at LA Car Tint by Audio MotorSports in Carson, 4.4 miles away. Book at (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -111,7 +114,7 @@ Phone (310) 513-8800. Text line (213) 429-1092. Audio MotorSports, 22025 S Avalo
      "name": "Is it worth leaving Torrance for window tinting when there are shops closer?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Ten minutes is a small price for film that is hand-cut on the glass, fitted to each door and backed by a shop with Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. Torrance customers also get car stereo installation, car alarm installation and Tesla window tint under one roof."
+      "text": "Ten minutes is a small price for film that is hand-cut on the glass, fitted to each door and backed by a shop with Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Torrance customers also get car stereo installation, car alarm installation and Tesla window tint under one roof."
      }
     },
     {

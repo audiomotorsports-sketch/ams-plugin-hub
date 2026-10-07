@@ -4,7 +4,7 @@ city: Stanton
 miles: 15.6
 lead_service: car window tint (Orange County commuters)
 title: Car Window Tint Stanton | LA Car Tint by Audio MotorSports
-meta: Car window tint and ceramic film for Stanton drivers, hand-cut and installed by Audio MotorSports in Carson, 15.6 miles away. Call (310) 513-8800 to book.
+meta: Car window tint and ceramic film for Stanton drivers, hand-cut and installed by Audio MotorSports in Carson, 15.6 miles away. Call (213) 429-1092 to book.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Window Tint for Stanton Drivers, by Audio MotorSports, Carson
@@ -26,15 +26,18 @@ Expect about 15.6 miles and roughly thirty-five minutes (approx) outside rush ho
 
 [SHOP NOTE: 2-3 sentences from Nick about Stanton customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Stanton customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. From Stanton you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
+
 ## Stanton drivers want to know
 
 ### Why do Stanton drivers come to Carson for window tint?
 
-Because the film is fitted by hand, the edges are sealed, and the results are public: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. A job done once and done right beats a cheap install that bubbles.
+Because the film is fitted by hand, the edges are sealed, and the results are public: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. A job done once and done right beats a cheap install that bubbles.
 
 ### What should I tell you when I book from Stanton?
 
-Year, make and model, the film you want, and whether you plan to wait or drop the car. That lets us schedule the bay and give you a finish time. Call (310) 513-8800 or text (213) 429-1092. With those details the car goes straight into the bay when you arrive.
+Year, make and model, the film you want, and whether you plan to wait or drop the car. That lets us schedule the bay and give you a finish time. Call (213) 429-1092 or text (213) 429-1092. With those details the car goes straight into the bay when you arrive.
 
 ### Is Solar Ceramic noticeably cooler than regular Solar film?
 
@@ -61,7 +64,7 @@ Solar window tinting $249 installed; Solar Ceramic window tinting $329 installed
 
 ## Book it
 
-Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
+Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
 
 ```json
 {
@@ -72,7 +75,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-stanton/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-stanton/",
    "name": "Car Window Tint Stanton | LA Car Tint by Audio MotorSports",
-   "description": "Car window tint and ceramic film for Stanton drivers, hand-cut and installed by Audio MotorSports in Carson, 15.6 miles away. Call (310) 513-8800 to book.",
+   "description": "Car window tint and ceramic film for Stanton drivers, hand-cut and installed by Audio MotorSports in Carson, 15.6 miles away. Call (213) 429-1092 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -112,7 +115,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "Why do Stanton drivers come to Carson for window tint?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Because the film is fitted by hand, the edges are sealed, and the results are public: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. A job done once and done right beats a cheap install that bubbles."
+      "text": "Because the film is fitted by hand, the edges are sealed, and the results are public: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. A job done once and done right beats a cheap install that bubbles."
      }
     },
     {
@@ -120,7 +123,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "What should I tell you when I book from Stanton?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Year, make and model, the film you want, and whether you plan to wait or drop the car. That lets us schedule the bay and give you a finish time. Call (310) 513-8800 or text (213) 429-1092. With those details the car goes straight into the bay when you arrive."
+      "text": "Year, make and model, the film you want, and whether you plan to wait or drop the car. That lets us schedule the bay and give you a finish time. Call (213) 429-1092 or text (213) 429-1092. With those details the car goes straight into the bay when you arrive."
      }
     },
     {

@@ -4,7 +4,7 @@ city: La Mirada
 miles: 15.6
 lead_service: car window tint / ceramic window tint
 title: Window Tinting for La Mirada Drivers | Audio MotorSports
-meta: La Mirada car window tint and ceramic tint at Audio MotorSports in Carson, 15.6 miles away, plus car stereo, CarPlay and alarm installation. (310) 513-8800.
+meta: La Mirada car window tint and ceramic tint at Audio MotorSports in Carson, 15.6 miles away, plus car stereo, CarPlay and alarm installation. (213) 429-1092.
 ---
 # Car Window Tint and Window Tinting for La Mirada
 
@@ -24,7 +24,10 @@ La Mirada drivers get car window tint at Audio MotorSports, 22025 S Avalon Blvd 
 
 ## La Mirada to the shop
 
-It is roughly 15.6 miles from La Mirada to Carson, a 31 to 37 minute drive with clear roads (approx). We are open Monday through Saturday 9:30 AM to 6:00 PM and closed Sunday. Book a slot, then wait at the shop while the tint goes on or drop the car off and pick it up later. Customers drive in from over 100 miles away for this film; La Mirada is a half hour. La Mirada drivers can check the record first: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. [SHOP NOTE: 2-3 sentences from Nick about La Mirada customers, routes or jobs]
+It is roughly 15.6 miles from La Mirada to Carson, a 31 to 37 minute drive with clear roads (approx). We are open Monday through Saturday 9:30 AM to 6:00 PM and closed Sunday. Book a slot, then wait at the shop while the tint goes on or drop the car off and pick it up later. Customers drive in from over 100 miles away for this film; La Mirada is a half hour. La Mirada drivers can check the record first: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. [SHOP NOTE: 2-3 sentences from Nick about La Mirada customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from La Mirada, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. From La Mirada you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## La Mirada window tinting questions
 
@@ -58,7 +61,7 @@ Drivers from these neighbors use the same Carson bay: [Santa Fe Springs](/santa-
 
 ## Book La Mirada window tint
 
-Call (310) 513-8800 or text (213) 429-1092 with the car and your shade. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092 with the car and your shade. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -69,7 +72,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the car and your shade. Audio Mo
    "@id": "https://www.audiomotorsports.com/la-mirada/#webpage",
    "url": "https://www.audiomotorsports.com/la-mirada/",
    "name": "Window Tinting for La Mirada Drivers | Audio MotorSports",
-   "description": "La Mirada car window tint and ceramic tint at Audio MotorSports in Carson, 15.6 miles away, plus car stereo, CarPlay and alarm installation. (310) 513-8800.",
+   "description": "La Mirada car window tint and ceramic tint at Audio MotorSports in Carson, 15.6 miles away, plus car stereo, CarPlay and alarm installation. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

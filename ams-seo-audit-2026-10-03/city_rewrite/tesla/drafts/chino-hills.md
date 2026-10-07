@@ -5,7 +5,7 @@ miles: 38.8
 lead_service: Tesla window tint (glass roof heat)
 source: hub-mounted copy; standalone www host not verified
 title: Chino Hills Tesla Tint for Heat | Tesla Tint LA
-meta: Tesla window tint for Chino Hills owners who want the glass-roof heat gone: ceramic film at Audio MotorSports in Carson, 38.8 miles away. Call (310) 513-8800 or text (213) 429-1092.
+meta: Tesla window tint for Chino Hills owners who want the glass-roof heat gone: ceramic film at Audio MotorSports in Carson, 38.8 miles away. Call (213) 429-1092 or text (213) 429-1092.
 ---
 # Tesla Window Tint for Chino Hills: Cooling the Glass-Roof Cabin
 
@@ -28,6 +28,9 @@ The shop also does car alarm installation, remote start installation, GPS tracke
 About 38.8 miles, which is roughly 78 to 93 minutes outside rush hour (approx). Hours are Monday through Saturday, 9:30 AM to 6:00 PM, with Sunday closed. Set an appointment, then drop the car and make a day of it or wait at the shop. People come from well over 100 miles away for this work, so the drive from Chino Hills is a normal one.
 
 [SHOP NOTE: 2-3 sentences from Nick about Chino Hills customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Chino Hills drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Chino Hills traffic sends you.
 
 ## Chino Hills Tesla heat and tint questions
 
@@ -53,7 +56,7 @@ It depends on the model. A Model 3 and a Model X use very different amounts of f
 
 ## Pricing
 
-Tesla tint, roof included or not, is quoted by model at the shop; text the year and model to get the figure. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Tesla tint, roof included or not, is quoted by model at the shop; text the year and model to get the figure. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near Chino Hills
 
@@ -64,7 +67,7 @@ Tesla tint, roof included or not, is quoted by model at the shop; text the year 
 
 ## Book from Chino Hills
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -75,7 +78,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-chino-hills/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-chino-hills/",
    "name": "Chino Hills Tesla Tint for Heat | Tesla Tint LA",
-   "description": "Tesla window tint for Chino Hills owners who want the glass-roof heat gone: ceramic film at Audio MotorSports in Carson, 38.8 miles away. Call (310) 513-8800 or text (213) 429-1092.",
+   "description": "Tesla window tint for Chino Hills owners who want the glass-roof heat gone: ceramic film at Audio MotorSports in Carson, 38.8 miles away. Call (213) 429-1092 or text (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

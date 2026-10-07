@@ -4,7 +4,7 @@ city: Florence-Firestone
 miles: 10.0
 lead_service: window tinting (fleet and work vehicles)
 title: Florence-Firestone Window Tinting | LA Car Tint, Carson
-meta: Window tinting for Florence-Firestone work trucks, vans and daily drivers, installed by Audio MotorSports in Carson, 10 miles away. Call (310) 513-8800.
+meta: Window tinting for Florence-Firestone work trucks, vans and daily drivers, installed by Audio MotorSports in Carson, 10 miles away. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Window Tinting for Florence-Firestone Trucks, Vans and Cars
@@ -22,6 +22,9 @@ Florence-Firestone runs on work vehicles, and LA Car Tint by Audio MotorSports i
 ## Getting here from Florence-Firestone
 
 From Florence-Firestone it is roughly 10 miles to the shop, about 20 to 24 minutes outside rush hour (approx). Call or text to lock in a time, then drop the vehicle for the day or wait on site. Hours are Monday to Saturday, 9:30 a.m. to 6:00 p.m., Sunday closed. [SHOP NOTE: 2-3 sentences from Nick about Florence-Firestone customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Florence-Firestone job is finished. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. From Florence-Firestone you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Florence-Firestone window tinting questions
 
@@ -47,7 +50,7 @@ Yes. California allows the rear doors and the back window to be darker; only the
 
 ## Window tinting prices
 
-Four-door Solar is $249 installed, four-door Solar Ceramic is $329 installed, as of October 2026, covering four doors and the rear window on a passenger car. Trucks, vans, fleet batches and windshield strips are quoted in person at the shop. Payment plan available, ask Nick. Google rating 4.8 from 650+ reviews and Yelp 4.7 from 770+ reviews, as of October 2026.
+Four-door Solar is $249 installed, four-door Solar Ceramic is $329 installed, as of October 2026, covering four doors and the rear window on a passenger car. Trucks, vans, fleet batches and windshield strips are quoted in person at the shop. Payment plan available, ask Nick. Google rating 4.8 from 654 reviews and Yelp 4.7 from 777 reviews, as of October 2026.
 
 ## Tint pages for nearby communities
 
@@ -55,7 +58,7 @@ Four-door Solar is $249 installed, four-door Solar Ceramic is $329 installed, as
 
 ## Book the truck, the van or the car
 
-Call (310) 513-8800 or text (213) 429-1092 with the vehicle list. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30 a.m. to 6 p.m., closed Sundays.
+Call (213) 429-1092 or text (213) 429-1092 with the vehicle list. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30 a.m. to 6 p.m., closed Sundays.
 
 ```json
 {

@@ -4,12 +4,12 @@ city: Commerce
 miles: 13.1
 lead_service: fleet window tinting
 title: Fleet Window Tinting for Commerce | LA Car Tint
-meta: Window tinting for Commerce fleet trucks, vans and company cars at LA Car Tint by Audio MotorSports, Carson, 13.1 miles away. Call (310) 513-8800.
+meta: Window tinting for Commerce fleet trucks, vans and company cars at LA Car Tint by Audio MotorSports, Carson, 13.1 miles away. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Fleet Window Tinting for Commerce Businesses, by Audio MotorSports, Carson
 
-Commerce companies send vans, box-truck cabs and company cars to LA Car Tint for window tinting that looks the same on every unit. The shop is Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, about 13.1 miles from Commerce. Solar and Solar Ceramic car window tint hand-cut on the glass, plus GPS tracker installation, dash camera installation, car alarm installation and car stereo installation for the whole fleet or a single driver. Call (310) 513-8800.
+Commerce companies send vans, box-truck cabs and company cars to LA Car Tint for window tinting that looks the same on every unit. The shop is Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, about 13.1 miles from Commerce. Solar and Solar Ceramic car window tint hand-cut on the glass, plus GPS tracker installation, dash camera installation, car alarm installation and car stereo installation for the whole fleet or a single driver. Call (213) 429-1092.
 
 ## What Commerce drivers bring us
 
@@ -23,6 +23,9 @@ Commerce companies send vans, box-truck cabs and company cars to LA Car Tint for
 Commerce is about 13.1 miles from the shop, close to a twenty-nine-minute drive (approx) outside rush hour. We work Monday through Saturday, 9:30 AM to 6:00 PM, and are closed Sunday. Call or text to set the schedule, then drop the vehicles or wait with a single car. For a fleet, one crew on one appointment means no mismatched shades between units and no truck going back for a redo.
 
 [SHOP NOTE: 2-3 sentences from Nick about Commerce customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+If you would rather wait inside than make two trips from Commerce, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. Commerce customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. From Commerce you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Questions from Commerce drivers
 
@@ -44,7 +47,7 @@ Yes. A GPS tracker is hidden and hard-wired on each vehicle during the same visi
 
 ### How far is it from Commerce to the shop in Carson?
 
-Roughly 13.1 miles, around twenty-nine minutes on a normal day. Commerce drivers can check the record before the trip: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. A single car is usually finished the same day.
+Roughly 13.1 miles, around twenty-nine minutes on a normal day. Commerce drivers can check the record before the trip: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. A single car is usually finished the same day.
 
 ## Prices, as of October 2026
 
@@ -60,7 +63,7 @@ Per vehicle, Solar window tinting is $249 installed and Solar Ceramic is $329 in
 
 ## Book it
 
-Call (310) 513-8800. Text (213) 429-1092. 22025 S Avalon Blvd Ste A. Carson, CA 90745. Mon-Sat, 9:30 AM to 6:00 PM. Closed Sunday.
+Call (213) 429-1092. Text (213) 429-1092. 22025 S Avalon Blvd Ste A. Carson, CA 90745. Mon-Sat, 9:30 AM to 6:00 PM. Closed Sunday.
 
 ```json
 {
@@ -71,7 +74,7 @@ Call (310) 513-8800. Text (213) 429-1092. 22025 S Avalon Blvd Ste A. Carson, CA 
    "@id": "https://www.audiomotorsports.com/tint/window-tint-city-of-commerce/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-city-of-commerce/",
    "name": "Fleet Window Tinting for Commerce | LA Car Tint",
-   "description": "Window tinting for Commerce fleet trucks, vans and company cars at LA Car Tint by Audio MotorSports, Carson, 13.1 miles away. Call (310) 513-8800.",
+   "description": "Window tinting for Commerce fleet trucks, vans and company cars at LA Car Tint by Audio MotorSports, Carson, 13.1 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -143,7 +146,7 @@ Call (310) 513-8800. Text (213) 429-1092. 22025 S Avalon Blvd Ste A. Carson, CA 
      "name": "How far is it from Commerce to the shop in Carson?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Roughly 13.1 miles, around twenty-nine minutes on a normal day. Commerce drivers can check the record before the trip: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. A single car is usually finished the same day."
+      "text": "Roughly 13.1 miles, around twenty-nine minutes on a normal day. Commerce drivers can check the record before the trip: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. A single car is usually finished the same day."
      }
     }
    ]

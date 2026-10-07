@@ -4,7 +4,7 @@ city: Cerritos
 miles: 11.7
 lead_service: Harley bagger audio
 title: Bagger Audio & Car Stereo, Cerritos | Audio MotorSports
-meta: Harley bagger audio with AMS pods, car stereo installation, window tint and alarms for Cerritos riders and drivers at Audio MotorSports, Carson. (310) 513-8800.
+meta: Harley bagger audio with AMS pods, car stereo installation, window tint and alarms for Cerritos riders and drivers at Audio MotorSports, Carson. (213) 429-1092.
 ---
 # Harley Bagger Audio and Car Stereo for Cerritos
 
@@ -22,9 +22,12 @@ Cerritos riders ride about 11.7 miles to Audio MotorSports in Carson, 22025 S Av
 
 **Car alarm installation, remote start installation and GPS tracker installation.** Viper and Compustar systems wired so they cannot be defeated at the fuse box, with optional tracking.
 
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Cerritos customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. The shop is LGBTQ-friendly and everyone from Cerritos is welcome, as our Google and Yelp listings state. Coming from Cerritos, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
+
 ## Cerritos to the shop
 
-Cerritos is about 11.7 miles away, which is roughly 23 to 28 minutes outside rush hour (approx). Set an appointment, make the short run down, then stay in the shop or leave the bike or car with us until it is finished. Hours are Mon-Sat 9:30-18:00, Sunday closed. Customers have made the trip from Temecula for bagger audio, so Cerritos is well inside the normal range. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, is the track record.
+Cerritos is about 11.7 miles away, which is roughly 23 to 28 minutes outside rush hour (approx). Set an appointment, make the short run down, then stay in the shop or leave the bike or car with us until it is finished. Hours are Mon-Sat 9:30-18:00, Sunday closed. Customers have made the trip from Temecula for bagger audio, so Cerritos is well inside the normal range. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, is the track record.
 
 ### What makes AMS pods different from the speakers Harley sells?
 
@@ -56,7 +59,7 @@ AMS Harley pods from $649 a pair. Dual Kicker Comp box $249 box only. Window tin
 
 ## Book your Cerritos appointment
 
-Call (310) 513-8800 or text (213) 429-1092 with your bike or car's year, make and model. Audio MotorSports: 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with your bike or car's year, make and model. Audio MotorSports: 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -67,7 +70,7 @@ Call (310) 513-8800 or text (213) 429-1092 with your bike or car's year, make an
    "@id": "https://www.audiomotorsports.com/cerritos/#webpage",
    "url": "https://www.audiomotorsports.com/cerritos/",
    "name": "Bagger Audio & Car Stereo, Cerritos | Audio MotorSports",
-   "description": "Harley bagger audio with AMS pods, car stereo installation, window tint and alarms for Cerritos riders and drivers at Audio MotorSports, Carson. (310) 513-8800.",
+   "description": "Harley bagger audio with AMS pods, car stereo installation, window tint and alarms for Cerritos riders and drivers at Audio MotorSports, Carson. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

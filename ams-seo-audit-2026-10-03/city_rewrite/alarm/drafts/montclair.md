@@ -4,7 +4,7 @@ city: Montclair
 miles: 46.3
 lead_service: GPS tracker installation
 title: GPS Tracker & Alarm Installation Montclair | LA Car Alarm
-meta: GPS tracker and car alarm installation for Montclair drivers at LA Car Alarm by Audio MotorSports, Carson, 46.3 miles. Viper, Compustar, dash cams. Call (310) 513-8800.
+meta: GPS tracker and car alarm installation for Montclair drivers at LA Car Alarm by Audio MotorSports, Carson, 46.3 miles. Viper, Compustar, dash cams. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # GPS Tracker and Car Alarm Installation for Montclair Drivers
@@ -22,6 +22,9 @@ Montclair drivers make the 46.3-mile trip to LA Car Alarm at Audio MotorSports, 
 **Dash camera installation.** Hardwired parking mode on a fused tap, cable hidden, cutoff set.
 
 Window tint and car stereo installation can go on the same ticket, which makes a long trip from Montclair count for more.
+
+<!-- owner-details-2026-10-07 -->
+Waiting inside is easy for Montclair customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Coming from Montclair, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Making one trip from Montclair
 
@@ -54,7 +57,7 @@ A tracker alone is a few hours; tracker plus alarm plus remote start is most of 
 
 Trackers, sensors and dash cameras are quoted on the vehicle at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby alarm pages
 
@@ -65,7 +68,7 @@ Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
 
 ## Schedule a Montclair install
 
-Call (310) 513-8800 or text (213) 429-1092 with the year, make and model before you set out. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with the year, make and model before you set out. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

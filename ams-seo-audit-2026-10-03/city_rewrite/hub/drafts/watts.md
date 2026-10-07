@@ -4,7 +4,7 @@ city: Watts
 miles: 7.6
 lead_service: Car stereo installation
 title: Car Stereo & Subwoofer Installs, Watts | Audio MotorSports
-meta: Car stereo installation, subwoofer and amplifier installs, window tint and alarms for Watts drivers at Audio MotorSports in Carson. Call (310) 513-8800 to book.
+meta: Car stereo installation, subwoofer and amplifier installs, window tint and alarms for Watts drivers at Audio MotorSports in Carson. Call (213) 429-1092 to book.
 ---
 # Car Stereo Installation for Watts Drivers
 
@@ -26,9 +26,12 @@ Audio MotorSports does car stereo installation for Watts drivers: head unit inst
 
 **Apple CarPlay and Android Auto installation.** Replace a dead or dated factory radio with a touchscreen that runs your phone.
 
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Watts customers tell us makes the drop-off painless. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Watts.
+
 ## Watts to Carson
 
-It is about 7.6 miles from Watts to the shop, roughly 15 to 18 minutes (approx) when the roads are moving. People drive to this bay from well over 100 miles away, so Watts is an easy one. Hours run Monday through Saturday, 9:30 AM to 6:00 PM, and we are closed Sunday. Pick a time, then leave the car or hang out while it is in the bay. Call (310) 513-8800 or text (213) 429-1092 to get on the schedule. Watts drivers can read what others say first: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+It is about 7.6 miles from Watts to the shop, roughly 15 to 18 minutes (approx) when the roads are moving. People drive to this bay from well over 100 miles away, so Watts is an easy one. Hours run Monday through Saturday, 9:30 AM to 6:00 PM, and we are closed Sunday. Pick a time, then leave the car or hang out while it is in the bay. Call (213) 429-1092 or text (213) 429-1092 to get on the schedule. Watts drivers can read what others say first: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 [SHOP NOTE: 2-3 sentences from Nick about Watts customers, routes or jobs]
 
@@ -74,7 +77,7 @@ Head unit installation, amplifier installation, speaker replacement, GPS tracker
 
 ## Set up your Watts car audio install
 
-Call (310) 513-8800. Or text (213) 429-1092 with your vehicle details. Drive to 22025 S Avalon Blvd Ste A, Carson, CA 90745, and ask for Nick. Mon-Sat 9:30-18:00. Sunday closed.
+Call (213) 429-1092. Or text (213) 429-1092 with your vehicle details. Drive to 22025 S Avalon Blvd Ste A, Carson, CA 90745, and ask for Nick. Mon-Sat 9:30-18:00. Sunday closed.
 
 ```json
 {

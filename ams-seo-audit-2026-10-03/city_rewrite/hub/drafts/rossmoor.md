@@ -4,7 +4,7 @@ city: Rossmoor
 miles: 11.0
 lead_service: Harley bagger audio
 title: Harley Bagger Audio & Tint for Rossmoor | Audio MotorSports
-meta: Bagger audio installation with AMS pods, window tint, car stereo and alarms for Rossmoor at Audio MotorSports in Carson, 11 miles away. Call (310) 513-8800.
+meta: Bagger audio installation with AMS pods, window tint, car stereo and alarms for Rossmoor at Audio MotorSports in Carson, 11 miles away. Call (213) 429-1092.
 ---
 # Harley Bagger Audio for Rossmoor Riders
 
@@ -27,6 +27,9 @@ Rossmoor riders bring their Street Glides and Road Glides to Audio MotorSports i
 It is about 11 miles from Rossmoor to the shop in Carson, roughly 22 to 26 minutes (approx) when traffic is light. Call or text to set a time, then ride in and wait while we work or leave the bike for the day. Hours run Monday through Saturday, 9:30 to 6:00; we are closed Sunday. Riders come from well over 100 miles away for pods, so the ride from Rossmoor is an easy morning.
 
 [SHOP NOTE: 2-3 sentences from Nick about Rossmoor customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Rossmoor, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Coming from Rossmoor, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Rossmoor riders ask
 
@@ -66,7 +69,7 @@ Fairing speakers, amplifiers, car stereos, Tesla window tint, GPS tracking and d
 
 ## Book your bagger from Rossmoor
 
-Call (310) 513-8800 or text (213) 429-1092 with the year and model of the bike. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday to Saturday 9:30-6:00, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092 with the year and model of the bike. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday to Saturday 9:30-6:00, closed Sunday.
 
 ```json
 {
@@ -77,7 +80,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the year and model of the bike. 
    "@id": "https://www.audiomotorsports.com/rossmoor/#webpage",
    "url": "https://www.audiomotorsports.com/rossmoor/",
    "name": "Harley Bagger Audio & Tint for Rossmoor | Audio MotorSports",
-   "description": "Bagger audio installation with AMS pods, window tint, car stereo and alarms for Rossmoor at Audio MotorSports in Carson, 11 miles away. Call (310) 513-8800.",
+   "description": "Bagger audio installation with AMS pods, window tint, car stereo and alarms for Rossmoor at Audio MotorSports in Carson, 11 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

@@ -5,7 +5,7 @@ miles: 8.0
 lead_service: Tesla window tint (Model S)
 source: hub-mounted copy; standalone www host not verified
 title: Hawthorne Model S Window Tint | Tesla Tint LA
-meta: Model S and Tesla window tint for Hawthorne owners at Audio MotorSports in Carson, 8 miles away. Ceramic film, sensors left clear. Call (310) 513-8800 to book.
+meta: Model S and Tesla window tint for Hawthorne owners at Audio MotorSports in Carson, 8 miles away. Ceramic film, sensors left clear. Call (213) 429-1092 to book.
 ---
 # Tesla Window Tint in Carson for Hawthorne Model S Owners
 
@@ -28,6 +28,9 @@ Need a dash camera, a GPS tracker, a Viper alarm or a subwoofer in the Tesla? Au
 Figure about 8 miles, roughly 16 to 19 minutes outside rush hour (approx). We are open Monday through Saturday from 9:30 AM to 6:00 PM and closed on Sunday. Schedule first, then either leave the car with us for the day or wait at the shop while it is tinted. We have had Teslas driven in from San Diego for this work; Hawthorne is a quick hop by comparison.
 
 [SHOP NOTE: 2-3 sentences from Nick about Hawthorne customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Hawthorne drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Hawthorne traffic sends you. A good number of Hawthorne customers are SpaceX employees and engineers who book a lunch-hour drop-off and pick up after work.
 
 ## Hawthorne Tesla tint questions
 
@@ -53,7 +56,7 @@ Give the film a few days to cure first, then use the defroster normally. The cer
 
 ## Pricing
 
-Every Tesla, Model S included, gets its own quote by model at the shop; text us the year and trim. The non-Tesla reference, as of October 2026: Solar $249, Solar Ceramic $329 installed. Everything else is quoted at the shop. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Every Tesla, Model S included, gets its own quote by model at the shop; text us the year and trim. The non-Tesla reference, as of October 2026: Solar $249, Solar Ceramic $329 installed. Everything else is quoted at the shop. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint around Hawthorne
 
@@ -65,7 +68,7 @@ Every Tesla, Model S included, gets its own quote by model at the shop; text us 
 
 ## Call or text
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -76,7 +79,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-hawthorne/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-hawthorne/",
    "name": "Hawthorne Model S Window Tint | Tesla Tint LA",
-   "description": "Model S and Tesla window tint for Hawthorne owners at Audio MotorSports in Carson, 8 miles away. Ceramic film, sensors left clear. Call (310) 513-8800 to book.",
+   "description": "Model S and Tesla window tint for Hawthorne owners at Audio MotorSports in Carson, 8 miles away. Ceramic film, sensors left clear. Call (213) 429-1092 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

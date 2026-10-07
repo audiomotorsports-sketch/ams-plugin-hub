@@ -5,7 +5,7 @@ miles: 10.8
 lead_service: Tesla window tint (camera and sensor clearance)
 source: hub-mounted copy; standalone www host not verified
 title: Tesla Tint, Sensors Clear, El Segundo | Tesla Tint LA
-meta: Tesla window tint for El Segundo owners with every camera and sensor kept clear, by Audio MotorSports in Carson, 10.8 miles away. Call (310) 513-8800.
+meta: Tesla window tint for El Segundo owners with every camera and sensor kept clear, by Audio MotorSports in Carson, 10.8 miles away. Call (213) 429-1092.
 ---
 # Tesla Window Tint for El Segundo with Every Sensor Left Clear
 
@@ -28,6 +28,9 @@ Audio MotorSports installs dash cameras, GPS trackers, car alarms and car stereo
 About 10.8 miles, roughly 22 to 26 minutes outside rush hour (approx). Open Monday through Saturday, 9:30 AM to 6:00 PM, closed Sunday. Book first, then drop the Tesla off or wait at the shop while the film goes on. Our Tesla customers include people who drive in from more than 100 miles out; El Segundo is a short hop.
 
 [SHOP NOTE: 2-3 sentences from Nick about El Segundo customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which El Segundo customers tell us makes the drop-off painless. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from El Segundo. El Segundo sends us engineers and staff from the aerospace and corporate offices along the 105, usually on a weekday drop-off.
 
 ## El Segundo Tesla tint questions
 
@@ -53,7 +56,7 @@ Front door glass must pass 70% of visible light. Ceramic film at that shade stil
 
 ## Pricing
 
-Each Tesla model is quoted at the shop; text the year and model for a figure. For a non-Tesla reference, Solar is $249 and Solar Ceramic is $329 installed, as of October 2026. Other work is quoted at the shop. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Each Tesla model is quoted at the shop; text the year and model for a figure. For a non-Tesla reference, Solar is $249 and Solar Ceramic is $329 installed, as of October 2026. Other work is quoted at the shop. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near El Segundo
 
@@ -65,7 +68,7 @@ Each Tesla model is quoted at the shop; text the year and model for a figure. Fo
 
 ## Call to book
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -76,7 +79,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-el-segundo/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-el-segundo/",
    "name": "Tesla Tint, Sensors Clear, El Segundo | Tesla Tint LA",
-   "description": "Tesla window tint for El Segundo owners with every camera and sensor kept clear, by Audio MotorSports in Carson, 10.8 miles away. Call (310) 513-8800.",
+   "description": "Tesla window tint for El Segundo owners with every camera and sensor kept clear, by Audio MotorSports in Carson, 10.8 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

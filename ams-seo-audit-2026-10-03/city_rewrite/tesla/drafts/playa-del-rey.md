@@ -4,7 +4,7 @@ city: Playa del Rey
 miles: 13.3
 lead_service: Tesla window tint (Model 3)
 title: Playa del Rey Model 3 & Tesla Tint | Tesla Tint LA, Carson
-meta: Model 3 ceramic window tint for Playa del Rey owners at Tesla Tint LA by Audio MotorSports in Carson, 13.3 miles away. All Tesla models. Call (310) 513-8800.
+meta: Model 3 ceramic window tint for Playa del Rey owners at Tesla Tint LA by Audio MotorSports in Carson, 13.3 miles away. All Tesla models. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Model 3 Window Tint for Playa del Rey Tesla Owners
@@ -25,6 +25,9 @@ The Model 3 is the Tesla we see most from Playa del Rey, and it is a car that re
 
 The drive is about 13.3 miles and roughly 27 to 32 minutes outside rush hour (approx). Hours are Monday through Saturday, 9:30 to 6:00; closed Sunday. Book a time, then wait at the shop or drop the Model 3 and pick it up later. [SHOP NOTE: 2-3 sentences from Nick about Playa del Rey customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+Plenty of Playa del Rey drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Playa del Rey.
+
 ## Playa del Rey Tesla tint questions
 
 ### What makes Model 3 tint different from an ordinary sedan?
@@ -39,9 +42,9 @@ Not close. It is half an hour, and the shop sees Tesla owners from more than 100
 
 The side and rear glass will look darker, which most owners want. What ceramic film does not do is turn the glass mirrored or give it a purple cast over time. The roof already reads black, so film there changes almost nothing visually. Nick can show samples on the car.
 
-### Does the Model 3 roof tint go on from inside or outside?
+### Does the Model 3 rear glass tint go on from inside or outside?
 
-Inside. The film is shaped on a separate surface, then carried in and applied to the underside of the roof glass with the headliner left in place. No trim comes off and no exterior work is involved. It is the same approach used for the one-piece rear window.
+Inside. The film is shaped on a separate surface, then carried in and applied to the inside of the one-piece rear glass with the trim left in place. Nothing is cut on the car and no exterior work is involved. The door glass is done the same way, from the inside.
 
 ### Can I combine a dash camera install with my Model 3 tint?
 
@@ -49,7 +52,7 @@ Yes, and it is a common pairing. Audio MotorSports does dash camera installation
 
 ## Pricing
 
-Model 3 tint, like every Tesla here, is quoted by model at the shop. For reference, the non-Tesla window tint at the same bay is Solar $249 or Solar Ceramic $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Model 3 tint, like every Tesla here, is quoted by model at the shop. For reference, the non-Tesla window tint at the same bay is Solar $249 or Solar Ceramic $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby Tesla tint pages
 
@@ -57,7 +60,7 @@ Model 3 tint, like every Tesla here, is quoted by model at the shop. For referen
 
 ## Book the Model 3
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -125,10 +128,10 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
     },
     {
      "@type": "Question",
-     "name": "Does the Model 3 roof tint go on from inside or outside?",
+     "name": "Does the Model 3 rear glass tint go on from inside or outside?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Inside. The film is shaped on a separate surface, then carried in and applied to the underside of the roof glass with the headliner left in place. No trim comes off and no exterior work is involved. It is the same approach used for the one-piece rear window."
+      "text": "Inside. The film is shaped on a separate surface, then carried in and applied to the inside of the one-piece rear glass with the trim left in place. Nothing is cut on the car and no exterior work is involved. The door glass is done the same way, from the inside."
      }
     },
     {

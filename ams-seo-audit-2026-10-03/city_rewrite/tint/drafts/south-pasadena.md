@@ -4,7 +4,7 @@ city: South Pasadena
 miles: 20.7
 lead_service: window tinting (valley heat and fading)
 title: Window Tinting South Pasadena | LA Car Tint, Carson
-meta: Window tinting and ceramic window tint for South Pasadena cars, hand-cut and installed by Audio MotorSports in Carson, 20.7 miles away. Call (310) 513-8800.
+meta: Window tinting and ceramic window tint for South Pasadena cars, hand-cut and installed by Audio MotorSports in Carson, 20.7 miles away. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Window Tinting for South Pasadena, by Audio MotorSports in Carson
@@ -26,11 +26,14 @@ Count on about 20.7 miles and roughly forty-five minutes (approx) when traffic i
 
 [SHOP NOTE: 2-3 sentences from Nick about South Pasadena customers, routes or jobs]
 
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the South Pasadena job is finished. The shop is LGBTQ-friendly and everyone from South Pasadena is welcome, as our Google and Yelp listings state. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way South Pasadena traffic sends you.
+
 ## What South Pasadena drivers want to know
 
 ### Is window tinting worth the trip from South Pasadena to Carson?
 
-For a job that lasts the life of the car, yes. The film is hand-fitted and the edges are sealed, so it does not peel or bubble later. You can read Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, before you decide.
+For a job that lasts the life of the car, yes. The film is hand-fitted and the edges are sealed, so it does not peel or bubble later. You can read Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, before you decide.
 
 ### Will tint keep my dashboard from cracking in valley heat?
 
@@ -46,7 +49,7 @@ Yes. A curved hatch window gets one sheet of film that is shrunk with heat to ma
 
 ### What is the booking process for a South Pasadena driver?
 
-Call (310) 513-8800 or text (213) 429-1092 with your year, make and model and the film you want. We set a time, you drive down, and the car goes straight into the bay. Wait on site or come back later the same day.
+Call (213) 429-1092 or text (213) 429-1092 with your year, make and model and the film you want. We set a time, you drive down, and the car goes straight into the bay. Wait on site or come back later the same day.
 
 ## Prices, as of October 2026
 
@@ -61,7 +64,7 @@ Solar window tinting $249 installed; Solar Ceramic window tinting $329 installed
 
 ## Book it
 
-Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
+Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
 
 ```json
 {
@@ -72,7 +75,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-south-pasadena/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-south-pasadena/",
    "name": "Window Tinting South Pasadena | LA Car Tint, Carson",
-   "description": "Window tinting and ceramic window tint for South Pasadena cars, hand-cut and installed by Audio MotorSports in Carson, 20.7 miles away. Call (310) 513-8800.",
+   "description": "Window tinting and ceramic window tint for South Pasadena cars, hand-cut and installed by Audio MotorSports in Carson, 20.7 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -112,7 +115,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "Is window tinting worth the trip from South Pasadena to Carson?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "For a job that lasts the life of the car, yes. The film is hand-fitted and the edges are sealed, so it does not peel or bubble later. You can read Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026, before you decide."
+      "text": "For a job that lasts the life of the car, yes. The film is hand-fitted and the edges are sealed, so it does not peel or bubble later. You can read Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, before you decide."
      }
     },
     {
@@ -144,7 +147,7 @@ Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "What is the booking process for a South Pasadena driver?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Call (310) 513-8800 or text (213) 429-1092 with your year, make and model and the film you want. We set a time, you drive down, and the car goes straight into the bay. Wait on site or come back later the same day."
+      "text": "Call (213) 429-1092 or text (213) 429-1092 with your year, make and model and the film you want. We set a time, you drive down, and the car goes straight into the bay. Wait on site or come back later the same day."
      }
     }
    ]

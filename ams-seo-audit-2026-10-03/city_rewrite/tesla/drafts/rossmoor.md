@@ -4,7 +4,7 @@ city: Rossmoor
 miles: 11.0
 lead_service: Tesla window tint (Cybertruck)
 title: Rossmoor Tesla & Cybertruck Tint | Tesla Tint LA, Carson
-meta: Cybertruck, Model 3, Model Y, S and X window tint for Rossmoor at Tesla Tint LA by Audio MotorSports in Carson, 11 miles away. Call (310) 513-8800.
+meta: Cybertruck, Model 3, Model Y, S and X window tint for Rossmoor at Tesla Tint LA by Audio MotorSports in Carson, 11 miles away. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Cybertruck and Tesla Window Tint for Rossmoor
@@ -24,6 +24,9 @@ Rossmoor is about 11 miles from Tesla Tint LA, the Tesla window tint shop inside
 ## Driving in from Rossmoor
 
 Rossmoor to Carson is roughly 11 miles, about 22 to 26 minutes when the freeways are moving (approx). Open Monday to Saturday, 9:30 to 6:00; Sunday closed. Book ahead, then either wait at the shop or drop the vehicle and return. [SHOP NOTE: 2-3 sentences from Nick about Rossmoor customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Rossmoor, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Rossmoor traffic sends you.
 
 ## Rossmoor Tesla tint questions
 
@@ -49,7 +52,7 @@ Yes. Many Rossmoor owners wait at the shop; a full Tesla tint takes a few hours 
 
 ## Prices
 
-Tesla and Cybertruck tint are quoted by model at the shop. The non-Tesla reference at the same bay is Solar $249 or Solar Ceramic $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Tesla and Cybertruck tint are quoted by model at the shop. The non-Tesla reference at the same bay is Solar $249 or Solar Ceramic $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby Tesla tint pages
 
@@ -57,7 +60,7 @@ Tesla and Cybertruck tint are quoted by model at the shop. The non-Tesla referen
 
 ## Set up your appointment
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

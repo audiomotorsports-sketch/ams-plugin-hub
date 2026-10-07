@@ -4,7 +4,7 @@ city: Boyle Heights
 miles: 14.3
 lead_service: Harley bagger audio
 title: Harley Bagger Audio, Boyle Heights | Audio MotorSports
-meta: Bagger audio installation with AMS pods for Boyle Heights Harley riders, plus window tint, at Audio MotorSports in Carson, 14.3 miles. Call (310) 513-8800.
+meta: Bagger audio installation with AMS pods for Boyle Heights Harley riders, plus window tint, at Audio MotorSports in Carson, 14.3 miles. Call (213) 429-1092.
 ---
 # Harley-Davidson Motorcycle Audio for Boyle Heights Riders
 
@@ -25,6 +25,9 @@ Boyle Heights riders bring Harley touring bikes to Audio MotorSports, 22025 S Av
 ## Boyle Heights to the Carson bay
 
 The ride from Boyle Heights is about 14.3 miles, roughly twenty-nine to thirty-four minutes outside rush hour (approx). We are open Monday through Saturday, 9:30 AM to 6:00 PM, and closed Sunday. Call or text to set a time, then wait at the shop while the pods go on or leave the bike and pick it up later. Riders come from over 100 miles away for AMS pods; Boyle Heights is a quick run. [SHOP NOTE: 2-3 sentences from Nick about Boyle Heights customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Boyle Heights job is finished. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. Coming from Boyle Heights, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
 
 ## Bagger audio questions from Boyle Heights
 
@@ -64,7 +67,7 @@ Around Boyle Heights we also serve:
 
 ## Book bagger audio from Boyle Heights
 
-Call (310) 513-8800 or text (213) 429-1092 with the bike's year and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Monday through Saturday, 9:30 AM to 6:00 PM. Closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092 with the bike's year and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Monday through Saturday, 9:30 AM to 6:00 PM. Closed Sunday.
 
 ```json
 {
@@ -75,7 +78,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the bike's year and model. Audio
    "@id": "https://www.audiomotorsports.com/boyle-heights/#webpage",
    "url": "https://www.audiomotorsports.com/boyle-heights/",
    "name": "Harley Bagger Audio, Boyle Heights | Audio MotorSports",
-   "description": "Bagger audio installation with AMS pods for Boyle Heights Harley riders, plus window tint, at Audio MotorSports in Carson, 14.3 miles. Call (310) 513-8800.",
+   "description": "Bagger audio installation with AMS pods for Boyle Heights Harley riders, plus window tint, at Audio MotorSports in Carson, 14.3 miles. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

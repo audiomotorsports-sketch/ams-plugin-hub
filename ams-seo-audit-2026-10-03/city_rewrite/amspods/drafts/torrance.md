@@ -4,7 +4,7 @@ city: Torrance
 miles: 4.4
 lead_service: Harley bagger fairing wiring and audio installation
 title: Torrance Harley Bagger Audio Installation | AMS Pods
-meta: Clean fairing wiring, AMS lower-fairing pods and amplifier installation for Torrance Harley riders at Audio MotorSports in Carson. Call (310) 513-8800.
+meta: Clean fairing wiring, AMS lower-fairing pods and amplifier installation for Torrance Harley riders at Audio MotorSports in Carson. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Harley Bagger Audio Installation for Torrance Riders
@@ -26,6 +26,9 @@ The same shop installs car stereos, Apple CarPlay and Android Auto, ceramic wind
 ## From Torrance to the shop
 
 Torrance to Carson is 4.4 miles, call it a 9 to 11 minute ride when traffic is light (approx). Set an appointment, ride in, and choose between leaving the bike for the day or waiting at the shop. Open Monday through Saturday 9:30 AM to 6:00 PM; closed Sunday. Riders have hauled bikes here from Temecula, so the short hop from Torrance is nothing.
+
+<!-- owner-details-2026-10-07 -->
+You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Torrance job is finished. Torrance customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Coming from Torrance, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710. Torrance customers range from refinery and port workers to engineers and staff at the corporate campuses along the 405.
 
 ## Torrance bagger questions
 
@@ -54,7 +57,7 @@ Text (213) 429-1092 with the model year, which bagger it is, and a photo of the 
 - AMS pods: from $649 a pair, as of October 2026, chrome or gloss, bracket and hardware included.
 - Fairing wiring, amplifier installation, head units and saddlebag bass are quoted at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby cities
 
@@ -62,7 +65,7 @@ See the pages for [Lomita](/amspods/bagger-audio-lomita/), [Gardena](/amspods/ba
 
 ## Call or text
 
-(310) 513-8800 voice, (213) 429-1092 text. 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+(213) 429-1092 voice, (213) 429-1092 text. 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -73,7 +76,7 @@ See the pages for [Lomita](/amspods/bagger-audio-lomita/), [Gardena](/amspods/ba
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-torrance/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-torrance/",
    "name": "Torrance Harley Bagger Audio Installation | AMS Pods",
-   "description": "Clean fairing wiring, AMS lower-fairing pods and amplifier installation for Torrance Harley riders at Audio MotorSports in Carson. Call (310) 513-8800.",
+   "description": "Clean fairing wiring, AMS lower-fairing pods and amplifier installation for Torrance Harley riders at Audio MotorSports in Carson. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

@@ -4,7 +4,7 @@ city: Gardena
 miles: 4.9
 lead_service: Harley bagger audio for riding with a group
 title: Harley Bagger Audio Gardena | AMS Pods
-meta: Group-ride Harley bagger audio for Gardena riders: AMS pods, amplifier installation and speakers at AMS Pods by Audio MotorSports in Carson. (310) 513-8800.
+meta: Group-ride Harley bagger audio for Gardena riders: AMS pods, amplifier installation and speakers at AMS Pods by Audio MotorSports in Carson. (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Bagger Audio for Gardena Riders Who Ride in a Pack
@@ -26,6 +26,9 @@ Audio MotorSports also does window tint, car stereo installation, CarPlay and An
 ## Riding over from Gardena
 
 Gardena to the shop is about 4.9 miles, roughly 10 to 12 minutes outside rush hour (approx). Book a time, ride over, and leave the bike or wait at the shop while the work is done. Hours are Monday through Saturday 9:30 AM to 6:00 PM, Sunday closed. A Gardena rider is a neighbor by this shop's standards; bikes arrive here from Temecula for the same install. [SHOP NOTE: 2-3 sentences from Nick about Gardena riders, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Gardena drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. The shop is LGBTQ-friendly and everyone from Gardena is welcome, as our Google and Yelp listings state. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Gardena. Gardena sends us Metro bus operators and plenty of commuters who work at the bigger employers around the 110 and the 405.
 
 ## Questions Gardena riders ask
 
@@ -54,7 +57,7 @@ AMS lower-fairing pods are from $649 a pair as of October 2026, chrome or gloss,
 - AMS lower-fairing pods: from $649 a pair, chrome or gloss, bracket and screws included, as of October 2026.
 - Amp installation and tuning, speaker swaps, radios and bag subwoofers are priced on the bike at the shop. Payment plan available, ask Nick.
 
-Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby cities
 
@@ -62,7 +65,7 @@ Riders also come in from [Torrance](/amspods/bagger-audio-torrance/), [Alondra P
 
 ## Book before the next group ride
 
-Call (310) 513-8800 or text (213) 429-1092 with your year and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with your year and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -73,7 +76,7 @@ Call (310) 513-8800 or text (213) 429-1092 with your year and model. Audio Motor
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-gardena/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-gardena/",
    "name": "Harley Bagger Audio Gardena | AMS Pods",
-   "description": "Group-ride Harley bagger audio for Gardena riders: AMS pods, amplifier installation and speakers at AMS Pods by Audio MotorSports in Carson. (310) 513-8800.",
+   "description": "Group-ride Harley bagger audio for Gardena riders: AMS pods, amplifier installation and speakers at AMS Pods by Audio MotorSports in Carson. (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

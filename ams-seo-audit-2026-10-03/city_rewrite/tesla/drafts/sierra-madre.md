@@ -5,7 +5,7 @@ miles: 32.3
 lead_service: Tesla window tint (Cybertruck)
 source: hub-mounted copy; standalone www host not verified
 title: Cybertruck Tint for Sierra Madre Owners | Tesla Tint LA
-meta: Cybertruck and Tesla window tint for Sierra Madre owners at Tesla Tint LA by Audio MotorSports in Carson, 32.3 miles away. Call (310) 513-8800 to book.
+meta: Cybertruck and Tesla window tint for Sierra Madre owners at Tesla Tint LA by Audio MotorSports in Carson, 32.3 miles away. Call (213) 429-1092 to book.
 ---
 # Cybertruck Window Tint for Sierra Madre Tesla Owners
 
@@ -28,6 +28,9 @@ Audio MotorSports also installs dash cameras and GPS trackers on Teslas and does
 Sierra Madre is about 32.3 miles from the shop, roughly 65 to 78 minutes outside rush hour (approx). We are open Monday through Saturday, 9:30 AM to 6:00 PM, and closed Sunday. Book ahead and plan to leave the truck for the day, or wait at the shop and take it home in one trip. That distance is normal for Tesla tint here; owners have made the drive from San Diego.
 
 [SHOP NOTE: 2-3 sentences from Nick about Sierra Madre customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Sierra Madre, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Sierra Madre.
 
 ## Sierra Madre Cybertruck and Tesla tint questions
 
@@ -53,7 +56,7 @@ Book a morning slot so the whole day is available. Drop the Cybertruck off and h
 
 ## Pricing
 
-Cybertruck, Model 3, Model Y, Model S and Model X tint are each quoted by model at the shop; text the year and model for yours. Non-Tesla reference, as of October 2026: Solar $249, Solar Ceramic $329 installed. Payment plan available, ask Nick. Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Cybertruck, Model 3, Model Y, Model S and Model X tint are each quoted by model at the shop; text the year and model for yours. Non-Tesla reference, as of October 2026: Solar $249, Solar Ceramic $329 installed. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near Sierra Madre
 
@@ -64,7 +67,7 @@ Cybertruck, Model 3, Model Y, Model S and Model X tint are each quoted by model 
 
 ## Book your appointment
 
-Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -75,7 +78,7 @@ Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-sierra-madre/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-sierra-madre/",
    "name": "Cybertruck Tint for Sierra Madre Owners | Tesla Tint LA",
-   "description": "Cybertruck and Tesla window tint for Sierra Madre owners at Tesla Tint LA by Audio MotorSports in Carson, 32.3 miles away. Call (310) 513-8800 to book.",
+   "description": "Cybertruck and Tesla window tint for Sierra Madre owners at Tesla Tint LA by Audio MotorSports in Carson, 32.3 miles away. Call (213) 429-1092 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

@@ -4,7 +4,7 @@ city: Cudahy
 miles: 10.0
 lead_service: car window tint / ceramic window tint
 title: Car Window Tint for Cudahy Drivers | Audio MotorSports
-meta: Cudahy car window tint and ceramic window tint, plus car stereo and alarm installation at Audio MotorSports in Carson, 10 miles away. Call (310) 513-8800.
+meta: Cudahy car window tint and ceramic window tint, plus car stereo and alarm installation at Audio MotorSports in Carson, 10 miles away. Call (213) 429-1092.
 ---
 # Car Window Tint and Ceramic Window Tint for Cudahy
 
@@ -24,7 +24,10 @@ Cudahy drivers make the 10 mile trip to Audio MotorSports at 22025 S Avalon Blvd
 
 ## Cudahy to Carson
 
-The shop is about 10 miles from Cudahy, around a 20 to 24 minute drive outside rush hour (approx). We are open Monday to Saturday from 9:30 AM to 6:00 PM and closed on Sunday. Set an appointment first; tint customers often wait in the shop, and anyone with a bigger job can drop the car and come back. We get cars from over 100 miles away, so a Cudahy drive is routine. The reason they make the trip is on record: Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026. [SHOP NOTE: 2-3 sentences from Nick about Cudahy customers, routes or jobs]
+The shop is about 10 miles from Cudahy, around a 20 to 24 minute drive outside rush hour (approx). We are open Monday to Saturday from 9:30 AM to 6:00 PM and closed on Sunday. Set an appointment first; tint customers often wait in the shop, and anyone with a bigger job can drop the car and come back. We get cars from over 100 miles away, so a Cudahy drive is routine. The reason they make the trip is on record: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. [SHOP NOTE: 2-3 sentences from Nick about Cudahy customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Cudahy customers tell us makes the drop-off painless. Cudahy customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. From Cudahy you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
 
 ## Cudahy window tint questions
 
@@ -58,7 +61,7 @@ A few minutes from Cudahy and on the same route to Carson: [Bell](/bell/), [Sout
 
 ## Book Cudahy window tinting
 
-Call (310) 513-8800 or text (213) 429-1092 with the car and the shade you want. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30 AM to 6:00 PM, closed Sunday.
+Call (213) 429-1092 or text (213) 429-1092 with the car and the shade you want. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -69,7 +72,7 @@ Call (310) 513-8800 or text (213) 429-1092 with the car and the shade you want. 
    "@id": "https://www.audiomotorsports.com/cudahy/#webpage",
    "url": "https://www.audiomotorsports.com/cudahy/",
    "name": "Car Window Tint for Cudahy Drivers | Audio MotorSports",
-   "description": "Cudahy car window tint and ceramic window tint, plus car stereo and alarm installation at Audio MotorSports in Carson, 10 miles away. Call (310) 513-8800.",
+   "description": "Cudahy car window tint and ceramic window tint, plus car stereo and alarm installation at Audio MotorSports in Carson, 10 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

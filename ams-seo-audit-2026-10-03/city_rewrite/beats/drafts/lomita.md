@@ -6,7 +6,7 @@ lead_service: speaker replacement
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Lomita Speaker Replacement & Car Audio | LA Car Beats
-meta: Speaker replacement and car stereo installation for Lomita drivers at LA Car Beats, Audio MotorSports in Carson, 3.7 miles away. Call (310) 513-8800.
+meta: Speaker replacement and car stereo installation for Lomita drivers at LA Car Beats, Audio MotorSports in Carson, 3.7 miles away. Call (213) 429-1092.
 ---
 # Speaker Replacement and Car Audio for Lomita Drivers
 
@@ -22,7 +22,10 @@ Lomita drivers get speaker replacement, car stereo installation and subwoofer up
 
 ## The drive from Lomita to the bay
 
-Lomita sits about 3.7 miles from the shop, which works out to roughly 7 to 9 minutes outside rush hour (approx). We are open Monday through Saturday, 9:30 to 6:00, and closed Sunday. Schedule first by calling (310) 513-8800 or texting (213) 429-1092, then decide whether to wait in the lobby or leave the car with us and come back when the speaker work is finished. The shop is near the beach in Carson, and people drive in from well over 100 miles for the same work, so a Lomita trip is barely a trip. [SHOP NOTE: 2-3 sentences from Nick about Lomita customers, routes or jobs]
+Lomita sits about 3.7 miles from the shop, which works out to roughly 7 to 9 minutes outside rush hour (approx). We are open Monday through Saturday, 9:30 to 6:00, and closed Sunday. Schedule first by calling (213) 429-1092 or texting (213) 429-1092, then decide whether to wait inside or leave the car with us and come back when the speaker work is finished. The shop is near the beach in Carson, and people drive in from well over 100 miles for the same work, so a Lomita trip is barely a trip. [SHOP NOTE: 2-3 sentences from Nick about Lomita customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+For a longer job from Lomita, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Coming from Lomita, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710. Lomita customers include port and refinery workers on shift schedules, so early drop-offs are normal here.
 
 ## Lomita car audio questions
 
@@ -48,7 +51,7 @@ We do. The same shop handles window tint and ceramic tint, car alarm installatio
 
 ## Dated prices
 
-Dual Kicker Comp box: $249, box only, as of October 2026. Speaker replacement, head unit installation, amplifier installation and the rest are quoted at the shop on your exact vehicle. Payment plan available, ask Nick. Lomita drivers who want to check on us first can look at Google 4.8 (650+ reviews) and Yelp 4.7 (770+ reviews), as of October 2026.
+Dual Kicker Comp box: $249, box only, as of October 2026. Speaker replacement, head unit installation, amplifier installation and the rest are quoted at the shop on your exact vehicle. Payment plan available, ask Nick. Lomita drivers who want to check on us first can look at Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Other cities near Lomita we serve
 
@@ -56,7 +59,7 @@ Car stereo installation pages for neighbors of Lomita: [Torrance](/beats/car-ste
 
 ## Book your Lomita speaker replacement
 
-Call (310) 513-8800 or send a text to (213) 429-1092 with your year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Hours are Mon-Sat 9:30-18:00, closed Sunday.
+Call (213) 429-1092 or send a text to (213) 429-1092 with your year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Hours are Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -68,7 +71,7 @@ Call (310) 513-8800 or send a text to (213) 429-1092 with your year, make and mo
    "name": "Lomita Speaker Replacement & Car Audio | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-lomita/",
    "dateModified": "2026-10-08",
-   "description": "Speaker replacement and car stereo installation for Lomita drivers at LA Car Beats, Audio MotorSports in Carson, 3.7 miles away. Call (310) 513-8800.",
+   "description": "Speaker replacement and car stereo installation for Lomita drivers at LA Car Beats, Audio MotorSports in Carson, 3.7 miles away. Call (213) 429-1092.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

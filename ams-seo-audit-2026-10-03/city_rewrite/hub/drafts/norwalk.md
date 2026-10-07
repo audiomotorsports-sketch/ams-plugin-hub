@@ -4,7 +4,7 @@ city: Norwalk
 miles: 11.7
 lead_service: Apple CarPlay / Android Auto
 title: CarPlay, Android Auto & Tint for Norwalk | Audio MotorSports
-meta: Apple CarPlay and Android Auto installation, window tint, car audio and alarms for Norwalk drivers at Audio MotorSports, Carson, 11.7 mi. Call (310) 513-8800.
+meta: Apple CarPlay and Android Auto installation, window tint, car audio and alarms for Norwalk drivers at Audio MotorSports, Carson, 11.7 mi. Call (213) 429-1092.
 ---
 # Apple CarPlay and Android Auto Installs for Norwalk
 
@@ -27,6 +27,9 @@ Norwalk drivers who want Apple CarPlay or Android Auto in an older car come to A
 From Norwalk the shop is about 11.7 miles, which is 23 to 28 minutes (approx) when the roads are moving. Make an appointment, then drop the car and pick it up later or wait while the head unit goes in. We are open Monday through Saturday 9:30 to 6:00 and closed Sunday.
 
 [SHOP NOTE: 2-3 sentences from Nick about Norwalk customers, routes or jobs]
+
+<!-- owner-details-2026-10-07 -->
+Plenty of Norwalk drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Norwalk traffic sends you.
 
 ## Norwalk drivers ask us
 
@@ -60,7 +63,7 @@ Solar window tint $249 installed and Solar Ceramic $329 installed; Viper 3108V a
 
 ## Book your CarPlay install from Norwalk
 
-Call (310) 513-8800 or text (213) 429-1092 with your year, make and model. The shop is at 22025 S Avalon Blvd Ste A, Carson, CA 90745; Mon-Sat 9:30-6:00, Sunday closed.
+Call (213) 429-1092 or text (213) 429-1092 with your year, make and model. The shop is at 22025 S Avalon Blvd Ste A, Carson, CA 90745; Mon-Sat 9:30-6:00, Sunday closed.
 
 ```json
 {
@@ -71,7 +74,7 @@ Call (310) 513-8800 or text (213) 429-1092 with your year, make and model. The s
    "@id": "https://www.audiomotorsports.com/norwalk/#webpage",
    "url": "https://www.audiomotorsports.com/norwalk/",
    "name": "CarPlay, Android Auto & Tint for Norwalk | Audio MotorSports",
-   "description": "Apple CarPlay and Android Auto installation, window tint, car audio and alarms for Norwalk drivers at Audio MotorSports, Carson, 11.7 mi. Call (310) 513-8800.",
+   "description": "Apple CarPlay and Android Auto installation, window tint, car audio and alarms for Norwalk drivers at Audio MotorSports, Carson, 11.7 mi. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
