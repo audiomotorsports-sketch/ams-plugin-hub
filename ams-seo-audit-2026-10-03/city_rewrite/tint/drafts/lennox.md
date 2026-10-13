@@ -13,7 +13,7 @@ LA Car Tint at Audio MotorSports, 22025 S Avalon Blvd Ste A in Carson, is about 
 
 ## What Lennox drivers bring us
 
-- **Tesla window tint** — Model 3, Y, S and X. The rear glass is one wide curved panel that needs patient heat-shrinking to lie flat; the glass roof can be filmed with a lighter shade and is quoted separately.
+- **Tesla window tint** — Model 3, Y, S and X. The rear glass is one wide curved panel that needs patient heat-shrinking to lie flat; the glass roof is already dark from the factory.
 - **Ceramic window tint** — Teslas and other cars with a lot of glass heat up fast. Ceramic film rejects infrared and keeps the cabin cooler so the climate system works less.
 - **Standard car window tint** — Our Solar film is the straightforward option for glare and privacy on any sedan, four doors plus the back glass.
 
@@ -28,11 +28,11 @@ Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a w
 
 ### Do you tint Teslas from Lennox, and what is different about them?
 
-Yes, all models. The rear window on a Model 3 or Model Y is a single large curved piece, so the film has to be heat-shrunk carefully to sit flat without creases. The glass roof is optional and quoted on its own. Allow a little more time than a standard sedan.
+Yes, all models. The rear window on a Model 3 or Model Y is a single large curved piece, so the film has to be heat-shrunk carefully to sit flat without creases. The glass roof is already dark, so the film stays on the sides and back. Allow a little more time than a standard sedan.
 
-### Can the glass roof on a Tesla be tinted?
+### Does the glass roof on a Tesla need tint?
 
-It can. Most owners choose a lighter ceramic film for the roof, which cuts the heat coming down on your head without making the cabin feel closed in. Because roof glass varies by model, we measure it on the car and quote it in person rather than over the phone.
+It does not. Tesla roof glass is dark from the factory, so the film goes on the side and rear windows, where most of the heat and glare get in. Because window shapes vary by model, we measure them on the car and quote in person rather than over the phone.
 
 ### Will ceramic tint help a car that heats up fast in a Lennox parking lot?
 
@@ -48,7 +48,7 @@ For a car with this much glass, the install quality matters more than the film b
 
 ## Pricing for Lennox drivers
 
-Four-door cars: Solar $249 installed, Solar Ceramic $329 installed, as of October 2026, four doors plus rear glass. Tesla glass, roofs, SUVs and two-doors are quoted at the counter. Payment plan available; ask Nick. Google 4.8 from 654 reviews and Yelp 4.7 from 777 reviews, both as of October 2026.
+Four-door cars: Solar $249 installed, Solar Ceramic $329 installed, as of October 2026, four doors plus rear glass. Tesla glass, SUVs and two-doors are quoted at the counter. Payment plan available; ask Nick. Google 4.8 from 654 reviews and Yelp 4.7 from 777 reviews, both as of October 2026.
 
 ## Nearby tint pages
 
@@ -114,15 +114,15 @@ Call (213) 429-1092 or text (213) 429-1092 with your Tesla model or vehicle, and
           "name": "Do you tint Teslas from Lennox, and what is different about them?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, all models. The rear window on a Model 3 or Model Y is a single large curved piece, so the film has to be heat-shrunk carefully to sit flat without creases. The glass roof is optional and quoted on its own. Allow a little more time than a standard sedan."
+            "text": "Yes, all models. The rear window on a Model 3 or Model Y is a single large curved piece, so the film has to be heat-shrunk carefully to sit flat without creases. The glass roof is already dark, so the film stays on the sides and back. Allow a little more time than a standard sedan."
           }
         },
         {
           "@type": "Question",
-          "name": "Can the glass roof on a Tesla be tinted?",
+          "name": "Does the glass roof on a Tesla need tint?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "It can. Most owners choose a lighter ceramic film for the roof, which cuts the heat coming down on your head without making the cabin feel closed in. Because roof glass varies by model, we measure it on the car and quote it in person rather than over the phone."
+            "text": "It does not. Tesla roof glass is dark from the factory, so the film goes on the side and rear windows, where most of the heat and glare get in. Because window shapes vary by model, we measure them on the car and quote in person rather than over the phone."
           }
         },
         {

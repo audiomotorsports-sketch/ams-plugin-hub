@@ -53,7 +53,7 @@ Yes. Car alarm installation and remote start installation happen in the same bay
 
 ## Prices, as of October 2026
 
-Solar window tint $249 installed and Solar Ceramic $329 installed, as of October 2026. Pickups with rear sliders, big SUVs and Tesla roof panels get a quote at the counter. Payment plan available, ask Nick.
+Solar window tint $249 installed and Solar Ceramic $329 installed, as of October 2026. Pickups with rear sliders and big SUVs get a quote at the counter. Payment plan available, ask Nick.
 
 ## Nearby cities we also serve
 

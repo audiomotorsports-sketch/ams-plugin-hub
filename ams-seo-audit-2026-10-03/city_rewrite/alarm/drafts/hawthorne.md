@@ -21,7 +21,7 @@ LA Car Alarm is the security side of Audio MotorSports at 22025 S Avalon Blvd St
 
 **Dash camera installation.** Front and rear, fused into a circuit so parking mode keeps watching after you walk away, with no cord dangling over the dash.
 
-One cross-sell line, and then back to security: window tint, car stereo installation and CarPlay are done under the same roof if you want to combine trips.
+One cross-sell line, and then back to security: window tint, car stereo installation and CarPlay are handled at the same shop if you want to combine trips.
 
 <!-- owner-details-2026-10-07 -->
 Plenty of Hawthorne drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Hawthorne customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Hawthorne. A good number of Hawthorne customers are SpaceX employees and engineers who book a lunch-hour drop-off and pick up after work.

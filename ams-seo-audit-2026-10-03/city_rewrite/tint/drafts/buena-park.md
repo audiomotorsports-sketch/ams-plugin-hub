@@ -16,7 +16,7 @@ Buena Park minivans and SUVs spend a lot of time parked in big lots, and LA Car 
 - **Car window tint on minivans.** Sliding doors, fixed quarter glass and a wide rear hatch window, each cut on the vehicle so the film reaches the edge without a gap. The sliding door glass is trimmed so it still drops and seals.
 - **Ceramic window tint for the lot.** Solar Ceramic stops infrared heat, so a van that waited all day in open sun is far cooler when the family climbs back in.
 - **Commuter sedans.** Solar film for glare and privacy, fronts at the California shade, rear as dark as you want.
-- **Tesla window tint.** One sheet shaped to the curved rear glass, frameless doors trimmed clean, roof panel quoted at the shop.
+- **Tesla window tint.** One sheet shaped to the curved rear glass, frameless doors trimmed clean, with the factory-dark roof glass left as it is.
 
 Same bay, same day if you like: dash camera installation for the parking lot, car alarm installation, car stereo installation and Apple CarPlay and Android Auto installation.
 
@@ -53,7 +53,7 @@ About 15.4 miles and roughly thirty-five minutes outside rush hour, which is an 
 
 ## Prices, as of October 2026
 
-Solar window tint $249 installed and Solar Ceramic $329 installed, as of October 2026. Minivans, large SUVs and Tesla roof glass are quoted at the shop. Payment plan available, ask Nick.
+Solar window tint $249 installed and Solar Ceramic $329 installed, as of October 2026. Minivans and large SUVs are quoted at the shop. Payment plan available, ask Nick.
 
 ## Nearby cities we also serve
 

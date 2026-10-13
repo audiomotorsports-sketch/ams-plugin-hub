@@ -12,7 +12,7 @@ Glendora Tesla owners drive about 39 miles to Audio MotorSports at 22025 S Avalo
 
 ## What Glendora drivers bring us
 
-**Tesla window tint.** The rear glass on a Model 3 or Model Y is one big curved panel that has to be shrunk to shape on the car; the side repeater cameras, rear camera and sensors stay uncovered; the glass roof can be done as an add-on.
+**Tesla window tint.** The rear glass on a Model 3 or Model Y is one big curved panel that has to be shrunk to shape on the car; the side repeater cameras, rear camera and sensors stay uncovered; the glass roof stays as it is, since the factory glass is already dark.
 
 **Ceramic window tint.** Solar Ceramic film rejects infrared heat so a car parked in the Glendora sun stays cooler, hand-cut on the glass so the edges are clean.
 
@@ -33,9 +33,9 @@ Thirty-nine miles is roughly 78 to 94 minutes outside rush hour (approx). Book t
 
 No. People drive farther for less. A Tesla rear window is one large curve that has to be heat-formed by hand without creases, and the cameras have to stay clear; that is the labor you are driving for. Book a morning slot and the car is ready in the afternoon.
 
-### Can the Tesla glass roof be tinted on the same visit?
+### Do you film the Tesla glass roof on the same visit?
 
-Yes, as an add-on. The roof takes a near-clear ceramic film that blocks most of the infrared heat coming straight down. It adds time to the appointment, so mention it when you book. Tesla work is quoted by model at the shop once the car is in the bay.
+No. The roof glass on a Tesla is already dark from the factory, so we leave it alone and put ceramic film on the four doors and the rear glass, which is where the heat reaches you. That keeps the appointment shorter. Tesla work is quoted by model at the shop once the car is in the bay.
 
 ### Will the tint interfere with Autopilot cameras or the sensors?
 
@@ -118,10 +118,10 @@ Call (213) 429-1092 or text (213) 429-1092 with your Tesla model and year. The s
     },
     {
      "@type": "Question",
-     "name": "Can the Tesla glass roof be tinted on the same visit?",
+     "name": "Do you film the Tesla glass roof on the same visit?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes, as an add-on. The roof takes a near-clear ceramic film that blocks most of the infrared heat coming straight down. It adds time to the appointment, so mention it when you book. Tesla work is quoted by model at the shop once the car is in the bay."
+      "text": "No. The roof glass on a Tesla is already dark from the factory, so we leave it alone and put ceramic film on the four doors and the rear glass, which is where the heat reaches you. That keeps the appointment shorter. Tesla work is quoted by model at the shop once the car is in the bay."
      }
     },
     {

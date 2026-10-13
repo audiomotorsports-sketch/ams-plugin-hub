@@ -19,7 +19,7 @@ Ladera Heights Model X owners have the falcon-wing glass, the tall front doors a
 
 **Model S and Cybertruck.** Long curved doors on the S, flat board-cut panes on the Cybertruck, each with its own quote by model.
 
-**Heat through the roof.** On an X the glass roof and the windshield run together; ceramic film on the roof panel cuts the heat on the second and third rows.
+**Heat in the back rows.** On an X the factory roof glass is already dark; ceramic film on the doors and rear glass cuts the heat on the second and third rows.
 
 Audio MotorSports also handles dash camera, GPS tracker, remote start and car audio installation in the same bay.
 
@@ -40,7 +40,7 @@ The rear glass on those doors is curved and hinged at the roof, so the film has 
 
 ### Is Ladera Heights close enough to wait at the shop for a Model X tint?
 
-Close enough, but a full Model X with the roof done can take most of a day, so many owners drop it off in the morning and come back later. If you prefer to wait, you are welcome to. Either way, book ahead so the bay is reserved for your car.
+Close enough, but a full Model X can take most of a day, so many owners drop it off in the morning and come back later. If you prefer to wait, you are welcome to. Either way, book ahead so the bay is reserved for your car.
 
 ### Does ceramic tint affect the Model X cameras, the sensors or the phone key?
 
@@ -128,7 +128,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "Is Ladera Heights close enough to wait at the shop for a Model X tint?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Close enough, but a full Model X with the roof done can take most of a day, so many owners drop it off in the morning and come back later. If you prefer to wait, you are welcome to. Either way, book ahead so the bay is reserved for your car."
+      "text": "Close enough, but a full Model X can take most of a day, so many owners drop it off in the morning and come back later. If you prefer to wait, you are welcome to. Either way, book ahead so the bay is reserved for your car."
      }
     },
     {

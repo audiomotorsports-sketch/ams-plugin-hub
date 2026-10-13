@@ -15,7 +15,7 @@ Culver City drivers who spend evenings staring into a low sun get car window tin
 
 - **Window tinting for glare.** Tinted side and rear glass cuts reflected sun and night-time headlights. The film is trimmed to the seal on each window so no light leaks at the edge.
 - **Ceramic window tint for a car parked at work.** Solar Ceramic blocks the infrared heat a dyed film passes, so the cabin is easier to get into after a day in a lot.
-- **Tesla window tint.** One-piece rear glass fitted as a single panel, frameless doors kept at the legal shade, roof glass on request.
+- **Tesla window tint.** One-piece rear glass fitted as a single panel, frameless doors kept at the legal shade, and the roof glass is already dark from the factory.
 - **Apple CarPlay and Android Auto installation.** Head unit installation that keeps the factory look and the steering wheel controls, with wiring tied in clean.
 
 ## Getting here from Culver City

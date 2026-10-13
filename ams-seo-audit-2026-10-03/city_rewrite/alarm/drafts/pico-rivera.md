@@ -44,7 +44,7 @@ Not without a lot of time. The siren is backed up and mounted out of reach, the 
 
 ### What is the price of the Viper 3108V installed at the Carson shop?
 
-$269 installed, as of October 2026, including the unit, the labor, calibration on your car and a walk-through of the remote. Extra sensors or a tracker are quoted on the vehicle. Payment plan available, ask Nick.
+$269 installed, as of October 2026, including the unit, the labor, calibration on your car and a walk-through of the remote. Additional sensors or a GPS tracker are priced per vehicle. Payment plan available, ask Nick.
 
 ### Is a same-day turnaround realistic for a car coming from Pico Rivera?
 
@@ -142,7 +142,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the year, make and model and whe
      "name": "What is the price of the Viper 3108V installed at the Carson shop?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "$269 installed, as of October 2026, including the unit, the labor, calibration on your car and a walk-through of the remote. Extra sensors or a tracker are quoted on the vehicle. Payment plan available, ask Nick."
+      "text": "$269 installed, as of October 2026, including the unit, the labor, calibration on your car and a walk-through of the remote. Additional sensors or a GPS tracker are priced per vehicle. Payment plan available, ask Nick."
      }
     },
     {

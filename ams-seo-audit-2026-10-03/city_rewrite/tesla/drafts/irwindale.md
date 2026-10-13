@@ -13,7 +13,7 @@ Irwindale owners who just took delivery of a Tesla bring it to Tesla Tint LA by 
 
 ## What Irwindale Tesla owners book
 
-**Tint on a brand-new Tesla.** A new car arrives with bare glass and a factory-dark roof that still lets heat through. We tint the side glass, the rear window in one piece and, if you want, the roof, so the car is set up for summer from the first week you own it.
+**Tint on a brand-new Tesla.** A new car arrives with bare side glass, and the factory roof glass is already dark. We tint the side glass and the rear window in one piece, so the car is set up for summer from the first week you own it.
 
 **Ceramic film by model.** The Model Y and Model 3 are the common new deliveries; the Model S, Model X and Cybertruck each need different cuts and are quoted separately at the shop.
 
@@ -46,9 +46,9 @@ For a new car, yes. The rear window is done as one sheet, the frameless doors ar
 
 Window film is applied to the inside of the glass and removed without harm, so it does not alter the car. We do not drill, cut trim or disconnect anything to install tint. If you have a specific warranty question, ask Tesla directly; we can describe exactly what the install involves.
 
-### What should a new Tesla owner pick for the roof and the back?
+### What should a new Tesla owner pick for the rear doors and back glass?
 
-Most new-delivery customers go dark in the rear doors and rear glass for privacy, keep the fronts at the California legal shade, and add ceramic film to the roof for heat. We hold the samples against your glass outside in daylight so you see the actual look before anything is cut.
+Most new-delivery customers go dark in the rear doors and rear glass for privacy and keep the fronts at the California legal shade, with ceramic film for heat. The factory roof glass is already dark. We hold the samples against your glass outside in daylight so you see the actual look before anything is cut.
 
 ### How long does the new car need to stay buttoned up after tint?
 
@@ -142,10 +142,10 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
     },
     {
      "@type": "Question",
-     "name": "What should a new Tesla owner pick for the roof and the back?",
+     "name": "What should a new Tesla owner pick for the rear doors and back glass?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Most new-delivery customers go dark in the rear doors and rear glass for privacy, keep the fronts at the California legal shade, and add ceramic film to the roof for heat. We hold the samples against your glass outside in daylight so you see the actual look before anything is cut."
+      "text": "Most new-delivery customers go dark in the rear doors and rear glass for privacy and keep the fronts at the California legal shade, with ceramic film for heat. The factory roof glass is already dark. We hold the samples against your glass outside in daylight so you see the actual look before anything is cut."
      }
     },
     {

@@ -4,7 +4,7 @@ city: Lynwood
 miles: 7.8
 lead_service: dash camera installation
 title: Dash Camera Installation for Lynwood | LA Car Alarm
-meta: Dash camera installation for Lynwood drivers at LA Car Alarm by Audio MotorSports in Carson, 7.8 miles away. Viper alarms, remote start, GPS trackers. Call (213) 429-1092.
+meta: Dash camera installation for Lynwood drivers at LA Car Alarm by Audio MotorSports in Carson, 7.8 miles. Viper alarms, remote start, GPS. (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Dash Camera Installation for Lynwood Drivers
@@ -21,7 +21,7 @@ Lynwood is about 7.8 miles from LA Car Alarm at Audio MotorSports, 22025 S Avalo
 
 **GPS tracker installation.** Constant power, behind factory panels, tested on your phone before pickup.
 
-Window tint, subwoofer installation and Android Auto head units are done at the same shop and can share the appointment.
+Window tint, a subwoofer upgrade or an Android Auto head unit can be added to the same Lynwood appointment.
 
 <!-- owner-details-2026-10-07 -->
 For a longer job from Lynwood, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. From Lynwood you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.

@@ -32,7 +32,7 @@ For a longer job from Rossmoor, some people walk to the mall, the movie theaters
 
 ### Do you tint Cybertrucks, and is the process different?
 
-Yes. The Cybertruck's glass is flat with hard angles, so the film is cut to a tight pattern rather than heat-formed over a curve. The tall rear window and the roof glass take the most film. It is tinted in the same Carson bay as every other Tesla and quoted by model at the shop.
+Yes. The Cybertruck's glass is flat with hard angles, so the film is cut to a tight pattern rather than heat-formed over a curve. The tall rear window takes the most film. It is tinted in the same Carson bay as every other Tesla and quoted by model at the shop.
 
 ### How long is the trip from Rossmoor to the shop?
 
@@ -44,7 +44,7 @@ No. Ceramic film is non-metallic, so the car's radios, phone key and cellular co
 
 ### Which Tesla window film is best for heat in a Cybertruck?
 
-Ceramic. The truck carries a lot of glass and it sits high in the sun, so a ceramic film on the sides, rear and roof panel makes the cabin noticeably more bearable after it has been parked. Nick can show the difference on a sample before you decide.
+Ceramic. The truck carries a lot of glass and it sits high in the sun, so a ceramic film on the sides and rear glass makes the cabin noticeably more bearable after it has been parked. Nick can show the difference on a sample before you decide.
 
 ### Can I wait at the shop while the Tesla tint is installed?
 
@@ -107,7 +107,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "Do you tint Cybertrucks, and is the process different?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. The Cybertruck's glass is flat with hard angles, so the film is cut to a tight pattern rather than heat-formed over a curve. The tall rear window and the roof glass take the most film. It is tinted in the same Carson bay as every other Tesla and quoted by model at the shop."
+      "text": "Yes. The Cybertruck's glass is flat with hard angles, so the film is cut to a tight pattern rather than heat-formed over a curve. The tall rear window takes the most film. It is tinted in the same Carson bay as every other Tesla and quoted by model at the shop."
      }
     },
     {
@@ -131,7 +131,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "Which Tesla window film is best for heat in a Cybertruck?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Ceramic. The truck carries a lot of glass and it sits high in the sun, so a ceramic film on the sides, rear and roof panel makes the cabin noticeably more bearable after it has been parked. Nick can show the difference on a sample before you decide."
+      "text": "Ceramic. The truck carries a lot of glass and it sits high in the sun, so a ceramic film on the sides and rear glass makes the cabin noticeably more bearable after it has been parked. Nick can show the difference on a sample before you decide."
      }
     },
     {

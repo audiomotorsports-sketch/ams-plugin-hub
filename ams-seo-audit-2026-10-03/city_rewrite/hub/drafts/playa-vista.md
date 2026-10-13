@@ -16,7 +16,7 @@ Playa Vista drivers use Audio MotorSports in Carson for car audio, from a single
 
 **Subwoofer installation and amplifier installation.** Under-seat and spare-tire-well enclosures for hatchbacks and SUVs, or a Dual Kicker Comp loaded box at $249 box only as of October 2026, with the install quoted at the shop.
 
-**Tesla window tint and ceramic window tint.** Model 3 and Model Y are a regular sight; ceramic film hand-cut on the glass for any car with a glass roof.
+**Tesla window tint and ceramic window tint.** Model 3 and Model Y are a regular sight; ceramic film hand-cut on the side and rear glass of any car, glass roof or not.
 
 **Apple CarPlay and Android Auto installation.** Integration modules that add CarPlay to a factory screen on cars that never had it, with no drilled dash.
 
@@ -47,7 +47,7 @@ Usually in the spare-tire well or a corner of the cargo area, in a custom-fit or
 
 ### Do you tint Teslas and other glass-roof cars from Playa Vista?
 
-Yes. Tesla window tint on the Model 3, Model Y, S and X is done with the rear glass in one piece, and the panoramic roof on any car can be filmed with ceramic to cut heat. Pricing for Tesla window tint and roofs is quoted at the shop by model.
+Yes. Tesla window tint on the Model 3, Model Y, S and X is done with the rear glass in one piece, and on any glass-roof car the ceramic goes on the side and rear glass, since the factory roof is already dark. Tesla window tint pricing is set by model once the car is in the bay.
 
 ### What does a car alarm installation with GPS tracking cost?
 
@@ -140,7 +140,7 @@ Call (213) 429-1092 or text (213) 429-1092 with your year, make and model and wh
      "name": "Do you tint Teslas and other glass-roof cars from Playa Vista?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. Tesla window tint on the Model 3, Model Y, S and X is done with the rear glass in one piece, and the panoramic roof on any car can be filmed with ceramic to cut heat. Pricing for Tesla window tint and roofs is quoted at the shop by model."
+      "text": "Yes. Tesla window tint on the Model 3, Model Y, S and X is done with the rear glass in one piece, and on any glass-roof car the ceramic goes on the side and rear glass, since the factory roof is already dark. Tesla window tint pricing is set by model once the car is in the bay."
      }
     },
     {

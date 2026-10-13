@@ -13,7 +13,7 @@ A glass-roofed Tesla on the hill in Rancho Palos Verdes takes the full sun from 
 
 ## What Rancho Palos Verdes drivers bring to LA Car Tint
 
-**Tesla window tint.** The Model 3 and Model Y rear window is a single curved sheet, and so is the film we lay on it: shrunk to shape on the glass, not spliced. Front doors stay at the light shade California allows. Ask about the roof panel when you call.
+**Tesla window tint.** The Model 3 and Model Y rear window is a single curved sheet, and so is the film we lay on it: shrunk to shape on the glass, not spliced. Front doors stay at the light shade California allows. The roof glass is already dark from the factory.
 
 **Ceramic window tint for any car on the peninsula.** Solar Ceramic cuts infrared heat without a metal layer, so your phone, key fob and the antenna in the rear glass keep working. It is the film for a car that lives in sun.
 
@@ -40,9 +40,9 @@ The rear glass on most Teslas is one large, deeply curved piece, so the film has
 
 Nine miles and about twenty minutes buys an installation done by hand on your own glass, with the big rear panel laid in one piece and the front doors kept legal. People drive in from over 100 miles for the same bay. Compared with redoing a cheap job, the trip is nothing.
 
-### Can you tint the glass roof on a Model 3 or Model Y?
+### Does a Model 3 or Model Y need its glass roof filmed?
 
-Ask when you book. Roof panels are handled as a store visit because the curve and size vary by model and year, and the glass has to be seen in person. Rear and side windows are priced after we see the car, since Tesla glass is not standard sedan glass.
+No, the roof glass is dark from the factory. The film goes on the side and rear windows, and the curve and size vary by model and year, so the glass has to be seen in person. Rear and side windows are priced after we see the car, since Tesla glass is not standard sedan glass.
 
 ### Will ceramic window tint interfere with the Tesla cameras or sensors?
 
@@ -54,7 +54,7 @@ As of October 2026, Solar is $249 installed and Solar Ceramic is $329 installed 
 
 ## Window tint prices as of October 2026
 
-Sedan pricing, four doors and rear glass, as of October 2026: Solar window tint $249 installed, Solar Ceramic $329 installed. Tesla window tint, roof panels and big SUVs are quoted at the counter once the glass is measured. Payment plan available, ask Nick. The same bay does dash camera installation, GPS tracker installation and Apple CarPlay and Android Auto installation on non-Tesla cars.
+Sedan pricing, four doors and rear glass, as of October 2026: Solar window tint $249 installed, Solar Ceramic $329 installed. Tesla window tint and big SUVs are quoted at the counter once the glass is measured. Payment plan available, ask Nick. The same bay does dash camera installation, GPS tracker installation and Apple CarPlay and Android Auto installation on non-Tesla cars.
 
 ## Nearby cities we tint
 
@@ -128,10 +128,10 @@ Call (213) 429-1092 or send a text to (213) 429-1092. The bay is Audio MotorSpor
     },
     {
      "@type": "Question",
-     "name": "Can you tint the glass roof on a Model 3 or Model Y?",
+     "name": "Does a Model 3 or Model Y need its glass roof filmed?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Ask when you book. Roof panels are handled as a store visit because the curve and size vary by model and year, and the glass has to be seen in person. Rear and side windows are priced after we see the car, since Tesla glass is not standard sedan glass."
+      "text": "No, the roof glass is dark from the factory. The film goes on the side and rear windows, and the curve and size vary by model and year, so the glass has to be seen in person. Rear and side windows are priced after we see the car, since Tesla glass is not standard sedan glass."
      }
     },
     {

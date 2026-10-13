@@ -9,14 +9,14 @@ source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla and Ceramic Window Tint for Irvine, by Audio MotorSports, Carson
 
-Irvine has more Teslas per block than almost anywhere, and LA Car Tint tints them the right way: one sheet on the curved rear glass, frameless doors trimmed to seal, roof glass available. The shop is Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, about 27 miles from Irvine. Ceramic window tint on any car, cut by hand on the glass.
+Irvine has more Teslas per block than almost anywhere, and LA Car Tint tints them the right way: one sheet on the curved rear glass, frameless doors trimmed to seal, and the roof glass is already dark from the factory. The shop is Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, about 27 miles from Irvine. Ceramic window tint on any car, cut by hand on the glass.
 
 ## What Irvine drivers bring us
 
 - **Tesla window tint.** Model 3 and Model Y rear windows are tall and curved, so the film is heat-shrunk to that shape and laid as a single panel. No seam across the middle. The front doors have no frame, so the film is trimmed to the glass edge and the window still drops and seals cleanly.
 - **Ceramic window tint on luxury sedans and SUVs.** Solar Ceramic blocks infrared heat without a mirrored look, so a leather cabin parked at the office stays livable. Every pane is cut on the car and laid dust-free.
 - **Car window tint on a daily driver.** Solar film for privacy and glare, fronts at the legal shade, rear as dark as you prefer.
-- **Panoramic and roof glass.** Fixed roof panels can take a ceramic film to cut overhead heat; quoted after we see the car.
+- **Panoramic and roof glass.** These panels leave the factory already dark, so the ceramic goes on the side and rear glass.
 
 One cross-sell, since the car is here anyway: car stereo installation, Apple CarPlay and Android Auto installation, car alarm installation, GPS tracker installation and dash camera installation all run out of this same bay.
 
@@ -33,7 +33,7 @@ You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and 
 
 ### Why is Tesla window tint a different job than tinting a regular sedan?
 
-Three reasons: the rear glass is one large curved sheet that must be shrunk to shape and laid in one piece; the front doors are frameless so the film edge has to be trimmed precisely to the glass; and many cars have roof glass that can be tinted as an extra. Each one takes more care than a framed window.
+Three reasons: the rear glass is one large curved sheet that must be shrunk to shape and laid in one piece; the front doors are frameless so the film edge has to be trimmed precisely to the glass; and many have a glass roof that is dark from the factory, so the work concentrates on the sides and back. Each one takes more care than a framed window.
 
 ### Will ceramic tint on a Tesla cut the heat enough to help range?
 
@@ -43,9 +43,9 @@ Ceramic film blocks infrared heat, so the cabin starts cooler and the climate sy
 
 If you care how the car looks in three years, yes. Film is cut on your glass, edges sit under the seal, and the crew tints every day, at a shop with Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. Customers from far beyond Irvine make the same trip for the same reason.
 
-### Can the glass roof on a Tesla or a panoramic sunroof be tinted?
+### Does the glass roof on a Tesla or a panoramic sunroof need film?
 
-Yes, on fixed roof glass. A ceramic film on the roof cuts the heat that comes from directly overhead, which is the part side-window tint cannot touch. Sliding sunroofs are evaluated at the counter. Roof work is quoted at the shop after we look at the panel.
+No. Roof glass leaves the factory dark, and that includes panoramic units, so the film goes on the side and rear glass. Those windows take the sun at an angle, which is where ceramic helps most. We look at the car and quote the sides and back.
 
 ### How dark can Irvine drivers legally go on the front windows?
 
@@ -53,7 +53,7 @@ Front side windows must let most of the light through under California law, so t
 
 ## Prices, as of October 2026
 
-Solar window tint $249 installed and Solar Ceramic $329 installed, as of October 2026. Tesla models, roof glass, panoramic sunroofs and oversized vehicles are quoted at the shop. Payment plan available, ask Nick.
+Solar window tint $249 installed and Solar Ceramic $329 installed, as of October 2026. Tesla models, oversized vehicles are quoted at the shop. Payment plan available, ask Nick.
 
 ## Nearby cities we also serve
 
@@ -115,7 +115,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "Why is Tesla window tint a different job than tinting a regular sedan?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Three reasons: the rear glass is one large curved sheet that must be shrunk to shape and laid in one piece; the front doors are frameless so the film edge has to be trimmed precisely to the glass; and many cars have roof glass that can be tinted as an extra. Each one takes more care than a framed window."
+      "text": "Three reasons: the rear glass is one large curved sheet that must be shrunk to shape and laid in one piece; the front doors are frameless so the film edge has to be trimmed precisely to the glass; and many have a glass roof that is dark from the factory, so the work concentrates on the sides and back. Each one takes more care than a framed window."
      }
     },
     {
@@ -136,10 +136,10 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
     },
     {
      "@type": "Question",
-     "name": "Can the glass roof on a Tesla or a panoramic sunroof be tinted?",
+     "name": "Does the glass roof on a Tesla or a panoramic sunroof need film?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes, on fixed roof glass. A ceramic film on the roof cuts the heat that comes from directly overhead, which is the part side-window tint cannot touch. Sliding sunroofs are evaluated at the counter. Roof work is quoted at the shop after we look at the panel."
+      "text": "No. Roof glass leaves the factory dark, and that includes panoramic units, so the film goes on the side and rear glass. Those windows take the sun at an angle, which is where ceramic helps most. We look at the car and quote the sides and back."
      }
     },
     {
@@ -158,4 +158,4 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
 
 [CONFIRM] SHOP NOTE slot: Nick to add 2-3 sentences about Irvine customers, routes or jobs.
 [CONFIRM] Drive time "close to an hour (approx)" computed from 27 miles at 25-30 mph; shop to verify.
-[CONFIRM] Roof glass and panoramic sunroof tinting offered: confirm.
+[CONFIRM] Roof glass is not filmed at the shop; confirm wording.

@@ -19,7 +19,7 @@ For La Habra Heights Tesla owners, Tesla Tint LA by Audio MotorSports at 22025 S
 
 **Windshield strip.** A visor strip along the top of the windshield cuts glare without entering the camera area.
 
-**Roof film.** The glass roof is where most of the heat arrives; ceramic film on it keeps the cabin cooler without changing the look.
+**Cabin heat.** The factory roof glass is already dark, so the heat control comes from ceramic film on the doors and rear glass, which keeps the cabin cooler without changing the look.
 
 Audio MotorSports also installs dash cameras, GPS trackers, Viper alarms and car stereo upgrades, and the same wiring care applies.
 

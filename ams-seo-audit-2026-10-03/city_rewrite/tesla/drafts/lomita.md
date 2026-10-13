@@ -2,18 +2,18 @@
 url: https://www.audiomotorsports.com/tesla/tesla-tint-lomita/
 city: Lomita
 miles: 3.7
-lead_service: Tesla window tint (glass roof heat)
+lead_service: Tesla window tint (cabin heat)
 title: Tesla Window Tint for Lomita | Tesla Tint LA, Carson
-meta: Tesla window tint for Lomita owners at Tesla Tint LA by Audio MotorSports in Carson, 3.7 miles away. Ceramic film, glass roof heat control. Call (213) 429-1092.
+meta: Tesla window tint for Lomita owners at Tesla Tint LA by Audio MotorSports in Carson, 3.7 miles away. Ceramic film for cabin heat. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
-# Tesla Window Tint for Lomita: Beat the Glass Roof Heat
+# Tesla Window Tint for Lomita: Beat the Cabin Heat
 
-Tesla Tint LA is the Tesla window tint side of Audio MotorSports at 22025 S Avalon Blvd Ste A in Carson, about 3.7 miles from Lomita. Lomita owners mostly come in because the glass roof turns the cabin into an oven; ceramic film on the roof and side glass is the fix, hand-cut on a glass board and quoted by model at the shop.
+Tesla Tint LA is the Tesla window tint side of Audio MotorSports at 22025 S Avalon Blvd Ste A in Carson, about 3.7 miles from Lomita. Lomita owners mostly come in because the cabin turns into an oven; ceramic film on the doors and rear glass is the fix, hand-cut on a glass board and quoted by model at the shop. The factory roof glass is already dark.
 
 ## What Lomita Tesla owners drive in for
 
-**Glass roof ceramic tint.** The panoramic roof on a Model 3 or Model Y lets a lot of heat through, and a ceramic film cut for that panel knocks the cabin temperature down without changing the look from outside.
+**Ceramic film for cabin heat.** The doors and one-piece rear glass on a Model 3 or Model Y let a lot of heat through, and a ceramic film cut for those panels knocks the cabin temperature down without changing the look from outside.
 
 **Side and rear Tesla window tint.** Film is cut on a glass board, never on your glass, so the defroster lines and the edge of the gasket stay untouched while the film sits right to the seal.
 
@@ -30,9 +30,9 @@ Plenty of Lomita drivers wait inside; there is seating, a TV with Netflix, free 
 
 ## Questions Lomita owners ask
 
-### Does tinting the glass roof on a Tesla actually make the cabin cooler?
+### Does Tesla window tint actually make the cabin cooler?
 
-Yes. The roof is the biggest single pane of glass on a Model 3 or Model Y, and a ceramic film cut for it rejects a large share of the heat that comes straight down at midday. The look from outside barely changes, and the cabin stops feeling like a greenhouse while parked.
+Yes. The doors and rear glass admit a large share of the heat on a sunny afternoon, and a ceramic film cut for them rejects much of it. The factory roof glass is already dark. The look from outside barely changes, and the cabin stops feeling like a greenhouse while parked.
 
 ### Why is Tesla window tint quoted by model instead of one flat price?
 
@@ -48,7 +48,7 @@ No. Ceramic film is not metallic, so it does not block radio signals, the phone 
 
 ### How long does a full Tesla tint job take, and can I wait for it?
 
-Plan on a few hours for sides, rear and roof, a bit less for fronts only. You are welcome to wait at the shop, or drop the car and pick it up later the same day. Book ahead so the bay is ready when you arrive from Lomita.
+Plan on a few hours for sides and rear, a bit less for fronts only. You are welcome to wait at the shop, or drop the car and pick it up later the same day. Book ahead so the bay is ready when you arrive from Lomita.
 
 ## Prices
 
@@ -104,10 +104,10 @@ Call (213) 429-1092 or text (213) 429-1092 with your model and year. Audio Motor
    "mainEntity": [
     {
      "@type": "Question",
-     "name": "Does tinting the glass roof on a Tesla actually make the cabin cooler?",
+     "name": "Does Tesla window tint actually make the cabin cooler?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. The roof is the biggest single pane of glass on a Model 3 or Model Y, and a ceramic film cut for it rejects a large share of the heat that comes straight down at midday. The look from outside barely changes, and the cabin stops feeling like a greenhouse while parked."
+      "text": "Yes. The doors and rear glass admit a large share of the heat on a sunny afternoon, and a ceramic film cut for them rejects much of it. The factory roof glass is already dark. The look from outside barely changes, and the cabin stops feeling like a greenhouse while parked."
      }
     },
     {
@@ -139,7 +139,7 @@ Call (213) 429-1092 or text (213) 429-1092 with your model and year. Audio Motor
      "name": "How long does a full Tesla tint job take, and can I wait for it?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Plan on a few hours for sides, rear and roof, a bit less for fronts only. You are welcome to wait at the shop, or drop the car and pick it up later the same day. Book ahead so the bay is ready when you arrive from Lomita."
+      "text": "Plan on a few hours for sides and rear, a bit less for fronts only. You are welcome to wait at the shop, or drop the car and pick it up later the same day. Book ahead so the bay is ready when you arrive from Lomita."
      }
     }
    ]

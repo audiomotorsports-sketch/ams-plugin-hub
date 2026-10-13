@@ -9,11 +9,11 @@ source: hub-mounted copy; standalone www host not verified
 ---
 # Model 3 Window Tint for Playa del Rey Tesla Owners
 
-The Model 3 is the Tesla we see most from Playa del Rey, and it is a car that rewards careful tint: a wide one-piece rear window, a glass roof and front windows that need to stay legal. Tesla Tint LA, the Tesla window tint shop at Audio MotorSports, 22025 S Avalon Blvd Ste A in Carson, is about 13.3 miles away. Ceramic film, quoted by model at the shop.
+The Model 3 is the Tesla we see most from Playa del Rey, and it is a car that rewards careful tint: a wide one-piece rear window, factory roof glass that is already dark and front windows that need to stay legal. Tesla Tint LA, the Tesla window tint shop at Audio MotorSports, 22025 S Avalon Blvd Ste A in Carson, is about 13.3 miles away. Ceramic film, quoted by model at the shop.
 
 ## What Playa del Rey Model 3 owners ask for
 
-**Model 3 ceramic window tint.** Four doors, a rear pane and a roof. The sides are cut to the gasket line, the rear goes on as one sheet and the roof gets a film chosen for heat. The fronts are set at the California legal shade.
+**Model 3 ceramic window tint.** Four doors and a rear pane. The sides are cut to the gasket line and the rear goes on as one sheet; the roof glass is already dark and is left alone. The fronts are set at the California legal shade.
 
 **Heat control for a car parked near the water.** Sun off the ocean and off the pavement both end up in the cabin. Ceramic film rejects heat without a mirror finish, so the Model 3 stays its own color from outside.
 
@@ -32,7 +32,7 @@ Plenty of Playa del Rey drivers wait inside; there is seating, a TV with Netflix
 
 ### What makes Model 3 tint different from an ordinary sedan?
 
-The rear window. On most sedans it is a modest, gently curved pane; on a Model 3 it is one wide, steep piece that wraps toward the roof. The film has to be shrunk to that curve and laid as a single sheet. The glass roof is the other difference, and it gets its own film for heat.
+The rear window. On most sedans it is a modest, gently curved pane; on a Model 3 it is one wide, steep piece that wraps toward the roof. The film has to be shrunk to that curve and laid as a single sheet. The other difference is the factory roof glass, which is already dark, so the filming stays on the sides and rear.
 
 ### Is Playa del Rey too far to bother for Tesla tint?
 
@@ -40,7 +40,7 @@ Not close. It is half an hour, and the shop sees Tesla owners from more than 100
 
 ### Will the tint show from the outside on a white Model 3?
 
-The side and rear glass will look darker, which most owners want. What ceramic film does not do is turn the glass mirrored or give it a purple cast over time. The roof already reads black, so film there changes almost nothing visually. Nick can show samples on the car.
+The side and rear glass will look darker, which most owners want. What ceramic film does not do is turn the glass mirrored or give it a purple cast over time. The roof already reads black from the factory, so the side and rear film is what sets the look. Nick can show samples on the car.
 
 ### Does the Model 3 rear glass tint go on from inside or outside?
 
@@ -107,7 +107,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "What makes Model 3 tint different from an ordinary sedan?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "The rear window. On most sedans it is a modest, gently curved pane; on a Model 3 it is one wide, steep piece that wraps toward the roof. The film has to be shrunk to that curve and laid as a single sheet. The glass roof is the other difference, and it gets its own film for heat."
+      "text": "The rear window. On most sedans it is a modest, gently curved pane; on a Model 3 it is one wide, steep piece that wraps toward the roof. The film has to be shrunk to that curve and laid as a single sheet. The other difference is the factory roof glass, which is already dark, so the filming stays on the sides and rear."
      }
     },
     {
@@ -123,7 +123,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "Will the tint show from the outside on a white Model 3?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "The side and rear glass will look darker, which most owners want. What ceramic film does not do is turn the glass mirrored or give it a purple cast over time. The roof already reads black, so film there changes almost nothing visually. Nick can show samples on the car."
+      "text": "The side and rear glass will look darker, which most owners want. What ceramic film does not do is turn the glass mirrored or give it a purple cast over time. The roof already reads black from the factory, so the side and rear film is what sets the look. Nick can show samples on the car."
      }
     },
     {

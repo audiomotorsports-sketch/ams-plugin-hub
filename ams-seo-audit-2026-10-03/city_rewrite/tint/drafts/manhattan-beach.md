@@ -50,7 +50,7 @@ Yes. A four-door car usually takes a few hours and the waiting area is open the 
 
 ## Ceramic and standard tint pricing
 
-Solar Ceramic on a four-door is $329 installed and standard Solar is $249 installed, as of October 2026. Both include four doors plus the back glass. Large SUVs, trucks, Tesla roof panels and windshield strips are quoted in the store. Ask Nick about the payment plan. On the review sites, as of October 2026: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews).
+Solar Ceramic on a four-door is $329 installed and standard Solar is $249 installed, as of October 2026. Both include four doors plus the back glass. Large SUVs, trucks and windshield strips are quoted in the store. Ask Nick about the payment plan. On the review sites, as of October 2026: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews).
 
 ## Nearby South Bay tint pages
 

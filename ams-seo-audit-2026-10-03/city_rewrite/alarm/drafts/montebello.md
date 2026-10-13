@@ -4,7 +4,7 @@ city: Montebello
 miles: 15.3
 lead_service: street-parked car security
 title: Car Alarm Installation for Montebello | LA Car Alarm
-meta: Car alarm installation for street-parked cars in Montebello at LA Car Alarm by Audio MotorSports, Carson, 15.3 miles. Viper, Compustar, GPS. Call (213) 429-1092.
+meta: Car alarm installation for street-parked cars in Montebello at LA Car Alarm by Audio MotorSports, Carson. Viper, Compustar, GPS. (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Alarm Installation for Montebello Cars That Live on the Street
@@ -50,7 +50,7 @@ $269 installed, as of October 2026, covering the unit, the labor, calibration on
 
 Usually, yes, when you book ahead. A standard alarm install is a few hours, so you can drop the car in the morning and have it back by the afternoon, or wait at the shop. Combined jobs with remote start take longer and we say so when you book.
 
-Nobody here thinks 15 miles is far; drivers come from over 100 miles away for an install they can trust.
+Fifteen miles is nothing to us; people drive in from over 100 miles out for work they can trust.
 
 ## Prices as of October 2026
 

@@ -5,7 +5,7 @@ miles: 11.3
 lead_service: Tesla window tint (Model S)
 source: hub-mounted copy; standalone www host not verified
 title: Model S Tint for Bell Tesla Owners | Tesla Tint LA
-meta: Tesla window tint for Bell, starting with the Model S: ceramic film cut by hand at Audio MotorSports in Carson, 11.3 miles from Bell. Call (213) 429-1092 for a quote by model.
+meta: Tesla window tint for Bell, starting with the Model S: ceramic film cut by hand at Audio MotorSports in Carson, 11.3 miles away. Call (213) 429-1092.
 ---
 # Model S and Tesla Window Tint for Bell
 
@@ -78,7 +78,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-bell/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-bell/",
    "name": "Model S Tint for Bell Tesla Owners | Tesla Tint LA",
-   "description": "Tesla window tint for Bell, starting with the Model S: ceramic film cut by hand at Audio MotorSports in Carson, 11.3 miles from Bell. Call (213) 429-1092 for a quote by model.",
+   "description": "Tesla window tint for Bell, starting with the Model S: ceramic film cut by hand at Audio MotorSports in Carson, 11.3 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

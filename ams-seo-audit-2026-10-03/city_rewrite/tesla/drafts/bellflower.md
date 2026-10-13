@@ -5,7 +5,7 @@ miles: 9.3
 lead_service: Tesla window tint (Cybertruck)
 source: hub-mounted copy; standalone www host not verified
 title: Bellflower Cybertruck Window Tint | Tesla Tint LA
-meta: Cybertruck and Tesla window tint for Bellflower owners, ceramic film cut to the glass at Audio MotorSports in Carson, 9.3 miles away. Call (213) 429-1092 or text (213) 429-1092 to book.
+meta: Cybertruck and Tesla window tint for Bellflower owners, ceramic film cut to the glass at Audio MotorSports in Carson, 9.3 miles away. Call (213) 429-1092.
 ---
 # Cybertruck and Tesla Window Tint for Bellflower
 
@@ -79,7 +79,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-bellflower/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-bellflower/",
    "name": "Bellflower Cybertruck Window Tint | Tesla Tint LA",
-   "description": "Cybertruck and Tesla window tint for Bellflower owners, ceramic film cut to the glass at Audio MotorSports in Carson, 9.3 miles away. Call (213) 429-1092 or text (213) 429-1092 to book.",
+   "description": "Cybertruck and Tesla window tint for Bellflower owners, ceramic film cut to the glass at Audio MotorSports in Carson, 9.3 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

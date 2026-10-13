@@ -48,7 +48,7 @@ No. The windshield camera window, the pillar cameras and the side repeaters are 
 
 ### Can the rear hatch glass on a Model X go darker than the fronts?
 
-Yes. California limits only the front door windows, which are installed at the legal shade. The rear doors and the hatch can be darker for privacy, and the roof gets a film chosen for heat. Nick balances the shades so the car looks consistent from outside.
+Yes. California limits only the front door windows, which are installed at the legal shade. The rear doors and the hatch can be darker for privacy, and the factory roof glass is already dark. Nick balances the shades so the car looks consistent from outside.
 
 ## Prices
 
@@ -139,7 +139,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "Can the rear hatch glass on a Model X go darker than the fronts?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. California limits only the front door windows, which are installed at the legal shade. The rear doors and the hatch can be darker for privacy, and the roof gets a film chosen for heat. Nick balances the shades so the car looks consistent from outside."
+      "text": "Yes. California limits only the front door windows, which are installed at the legal shade. The rear doors and the hatch can be darker for privacy, and the factory roof glass is already dark. Nick balances the shades so the car looks consistent from outside."
      }
     }
    ]

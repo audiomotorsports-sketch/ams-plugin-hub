@@ -13,7 +13,7 @@ Boyle Heights Tesla owners drive to LA Car Tint by Audio MotorSports, 22025 S Av
 
 ## What Boyle Heights drivers bring us
 
-- **Tesla window tint.** Model 3, Model Y, Model S, Model X. The rear window is shrunk and fitted in one sheet so there is no seam through the mirror. Roof glass is quoted in person after we see the car.
+- **Tesla window tint.** Model 3, Model Y, Model S, Model X. The rear window is shrunk and fitted in one sheet so there is no seam through the mirror. The glass roof is already dark from the factory, so only the side and rear glass get film.
 - **Ceramic window tint on any car.** Solar Ceramic blocks heat without needing a dark shade, so the front doors stay legal and still keep the cabin cooler.
 - **Car window tint, Solar.** Full UV blocking, hand-cut on each window, same careful edge work.
 - **Classic and older cars.** Flat glass and chrome trim need a different touch than a Tesla; we have done plenty of both.
@@ -32,9 +32,9 @@ For a longer job from Boyle Heights, some people walk to the mall, the movie the
 
 The rear glass. A Model 3 or Model Y back window is one huge curved pane, and tinting it well means heat-forming a single sheet of film by hand in a clean bay. That is a skill, not a kit. The drive is about half an hour and the job is typically done the same day.
 
-### Do you tint the glass roof on a Tesla?
+### Does my Tesla's glass roof need tint too?
 
-We can, and we quote it in the store after looking at the car. Roof panels are large and the shade choice depends on how much light you want in the cabin. The side and rear glass are priced as a normal job; the roof is a separate line item.
+Not from us. The roof glass comes dark from the factory, so we put film on the side and rear windows, which is where the sun actually reaches the cabin. Those are priced as a normal job, and we quote any Tesla by looking at the car first.
 
 ### Does Tesla window tint affect the car's cameras or sensors?
 
@@ -50,7 +50,7 @@ About 14.3 miles, roughly half an hour outside rush hour. You are heading to Aud
 
 ## Tint prices, Boyle Heights
 
-Four-door Solar, $249 installed; four-door Solar Ceramic, $329 installed; as of October 2026, covering four doors plus the rear glass on any car including Tesla. Tesla roof glass, windshield strips, SUVs and trucks are quoted at the shop, and no separate Tesla model pricing is listed here. Payment plan available, ask Nick. On Google we are 4.8 (654 reviews), on Yelp 4.7 (777 reviews), as of October 2026.
+Four-door Solar, $249 installed; four-door Solar Ceramic, $329 installed; as of October 2026, covering four doors plus the rear glass on any car including Tesla. Windshield strips, SUVs and trucks are quoted at the shop, and no separate Tesla model pricing is listed here. Payment plan available, ask Nick. On Google we are 4.8 (654 reviews), on Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby tint pages
 
@@ -110,10 +110,10 @@ Call (213) 429-1092 or text (213) 429-1092 with the model. Audio MotorSports can
     },
     {
      "@type": "Question",
-     "name": "Do you tint the glass roof on a Tesla?",
+     "name": "Does my Tesla's glass roof need tint too?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "We can, and we quote it in the store after looking at the car. Roof panels are large and the shade choice depends on how much light you want in the cabin. The side and rear glass are priced as a normal job; the roof is a separate line item."
+      "text": "Not from us. The roof glass comes dark from the factory, so we put film on the side and rear windows, which is where the sun actually reaches the cabin. Those are priced as a normal job, and we quote any Tesla by looking at the car first."
      }
     },
     {

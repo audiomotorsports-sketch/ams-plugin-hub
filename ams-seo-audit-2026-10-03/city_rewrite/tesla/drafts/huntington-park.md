@@ -19,7 +19,7 @@ Huntington Park Model S owners bring the car to Tesla Tint LA by Audio MotorSpor
 
 **Model X and Cybertruck.** The X adds the falcon-wing glass and the Cybertruck is all flat panes cut on a board. Both are quoted by model at the shop.
 
-**Roof and windshield strip.** Ceramic film on the roof panel for heat, a strip across the top of the windshield for glare, neither touching the camera housing.
+**Windshield strip.** A strip across the top of the windshield for glare, kept clear of the camera housing. The factory roof glass is already dark, so the film goes on the sides and rear.
 
 The same bay at Audio MotorSports installs dash cameras, Viper alarms, GPS trackers and car stereo gear, so ask about pairing one with the tint.
 
@@ -48,7 +48,7 @@ No. The windshield camera and rain sensor housing is left uncovered, and the fil
 
 ### What is the legal shade for the front doors on a Model S in California?
 
-The front doors must let 70% of visible light through, so they stay light. Ceramic film at that shade still rejects most infrared heat, which is what you feel. The rear doors and the back glass can go darker, and the roof can be filmed to match.
+The front doors must let 70% of visible light through, so they stay light. Ceramic film at that shade still rejects most infrared heat, which is what you feel. The rear doors and the back glass can go darker, and the factory roof glass is already dark.
 
 ### Does the rear window defroster still work after one-piece film?
 
@@ -145,7 +145,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "What is the legal shade for the front doors on a Model S in California?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "The front doors must let 70% of visible light through, so they stay light. Ceramic film at that shade still rejects most infrared heat, which is what you feel. The rear doors and the back glass can go darker, and the roof can be filmed to match."
+      "text": "The front doors must let 70% of visible light through, so they stay light. Ceramic film at that shade still rejects most infrared heat, which is what you feel. The rear doors and the back glass can go darker, and the factory roof glass is already dark."
      }
     },
     {

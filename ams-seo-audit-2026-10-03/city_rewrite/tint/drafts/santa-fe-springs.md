@@ -19,7 +19,7 @@ Santa Fe Springs runs on warehouses and service fleets, and those vehicles sit i
 
 **Solar window tint for the commute.** Privacy, UV reduction and a cooler cabin for $249 installed on a sedan as of October 2026, with the same hand-cut fit as the ceramic.
 
-**Tesla window tint.** The one-piece rear glass gets a one-piece film, shaped on the car. Roof panels are discussed at booking.
+**Tesla window tint.** The one-piece rear glass gets a one-piece film, shaped on the car. The roof glass is dark from the factory.
 
 ## Santa Fe Springs to Carson
 

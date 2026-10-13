@@ -12,7 +12,7 @@ Walnut Tesla owners make the 26.5-mile drive to Audio MotorSports at 22025 S Ava
 
 ## What Walnut drivers bring us
 
-**Tesla window tint.** Model 3, Model Y, Model S and Model X glass is big and curved, so each panel is formed on the car instead of cut from a pattern. The side repeater cameras and the rear camera stay uncovered, and the roof can be done as an add-on.
+**Tesla window tint.** Model 3, Model Y, Model S and Model X glass is big and curved, so each panel is formed on the car instead of cut from a pattern. The side repeater cameras and the rear camera stay uncovered, and the factory-dark roof is left as it is.
 
 **Ceramic window tint.** Solar Ceramic film rejects infrared heat, which is the difference between a warm cabin and a hot one after a day parked outside in Walnut.
 
@@ -35,15 +35,15 @@ Yes. The rear glass on a Tesla has to be heat-formed by hand to avoid creases, a
 
 ### Does Tesla tint change how the car looks from outside?
 
-Only as much as you want it to. The rear doors and back glass can go dark for privacy, the fronts stay at the legal 70 percent, and the roof film is close to clear from outside while cutting the heat coming through. We show you the shades on your car before any film is cut.
+Only as much as you want it to. The rear doors and back glass can go dark for privacy, the fronts stay at the legal 70 percent, and the roof glass keeps its factory shade since we do not film it. We show you the shades on your car before any film is cut.
 
-### Can the Tesla roof be tinted at the same time as the windows?
+### Which Tesla windows get film during the same visit?
 
-Yes, as an add-on panel. The roof film is a ceramic that blocks most of the infrared heat without changing the view up. It is quoted by model at the shop with the rest of the Tesla work, and it adds some time to the appointment, so mention it when you book.
+The four doors and the rear glass. The roof glass is already dark from the factory, so it stays as it is while the ceramic film goes on the four doors and the rear glass. That is where the heat and glare reach you anyway. Tesla work is quoted by model at the shop, so mention your model when you book.
 
 ### How long does Tesla window tint take?
 
-A few hours for the four doors and the rear glass, longer if the roof is included. Drop the car in the morning and it is ready by afternoon, or wait at the shop. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, is the shop's record if you want to check.
+A few hours for the four doors and the rear glass, with the roof left untouched. Drop the car in the morning and it is ready by afternoon, or wait at the shop. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, is the shop's record if you want to check.
 
 ### Can a Walnut household get the other cars tinted on the same trip?
 
@@ -120,15 +120,15 @@ Call (213) 429-1092 or text (213) 429-1092 with your Tesla model and year. The b
      "name": "Does Tesla tint change how the car looks from outside?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Only as much as you want it to. The rear doors and back glass can go dark for privacy, the fronts stay at the legal 70 percent, and the roof film is close to clear from outside while cutting the heat coming through. We show you the shades on your car before any film is cut."
+      "text": "Only as much as you want it to. The rear doors and back glass can go dark for privacy, the fronts stay at the legal 70 percent, and the roof glass keeps its factory shade since we do not film it. We show you the shades on your car before any film is cut."
      }
     },
     {
      "@type": "Question",
-     "name": "Can the Tesla roof be tinted at the same time as the windows?",
+     "name": "Which Tesla windows get film during the same visit?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes, as an add-on panel. The roof film is a ceramic that blocks most of the infrared heat without changing the view up. It is quoted by model at the shop with the rest of the Tesla work, and it adds some time to the appointment, so mention it when you book."
+      "text": "The four doors and the rear glass. The roof glass is already dark from the factory, so it stays as it is while the ceramic film goes on the four doors and the rear glass. That is where the heat and glare reach you anyway. Tesla work is quoted by model at the shop, so mention your model when you book."
      }
     },
     {
@@ -136,7 +136,7 @@ Call (213) 429-1092 or text (213) 429-1092 with your Tesla model and year. The b
      "name": "How long does Tesla window tint take?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "A few hours for the four doors and the rear glass, longer if the roof is included. Drop the car in the morning and it is ready by afternoon, or wait at the shop. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, is the shop's record if you want to check."
+      "text": "A few hours for the four doors and the rear glass, with the roof left untouched. Drop the car in the morning and it is ready by afternoon, or wait at the shop. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, is the shop's record if you want to check."
      }
     },
     {

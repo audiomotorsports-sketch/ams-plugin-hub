@@ -46,11 +46,11 @@ Yes. Convertibles and cars with frameless doors have no channel to hide the film
 
 ### How are your tint prices set?
 
-Plainly. The four-door Solar package is $249 installed and Solar Ceramic is $329 installed, as of October 2026, covering four doors and the rear glass. Anything else, from SUVs to Tesla roof glass, is quoted in person at the shop. Payment plan available, ask Nick.
+Plainly. The four-door Solar package is $249 installed and Solar Ceramic is $329 installed, as of October 2026, covering four doors and the rear glass. Anything else, such as SUVs, is quoted in person at the shop. Payment plan available, ask Nick.
 
 ## Prices for Santa Monica customers, as of October 2026
 
-Solar, four doors plus rear glass: $249 installed. Solar Ceramic, same coverage: $329 installed. Both as of October 2026. SUVs, trucks, convertibles with extra glass, windshield strips and Tesla roof panels are quoted at the shop. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), both checked as of October 2026.
+Solar, four doors plus rear glass: $249 installed. Solar Ceramic, same coverage: $329 installed. Both as of October 2026. SUVs, trucks, convertibles with extra glass and windshield strips are quoted at the shop. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), both checked as of October 2026.
 
 ## Nearby Westside tint pages
 
@@ -137,7 +137,7 @@ Call (213) 429-1092 or text (213) 429-1092. You will find Audio MotorSports at 2
      "name": "How are your tint prices set?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Plainly. The four-door Solar package is $249 installed and Solar Ceramic is $329 installed, as of October 2026, covering four doors and the rear glass. Anything else, from SUVs to Tesla roof glass, is quoted in person at the shop. Payment plan available, ask Nick."
+      "text": "Plainly. The four-door Solar package is $249 installed and Solar Ceramic is $329 installed, as of October 2026, covering four doors and the rear glass. Anything else, such as SUVs, is quoted in person at the shop. Payment plan available, ask Nick."
      }
     }
    ]

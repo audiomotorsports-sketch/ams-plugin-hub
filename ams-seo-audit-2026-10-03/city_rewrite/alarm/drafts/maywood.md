@@ -4,7 +4,7 @@ city: Maywood
 miles: 11.9
 lead_service: work-truck security
 title: Work Truck Alarm Installation for Maywood | LA Car Alarm
-meta: Work truck and car alarm installation for Maywood at LA Car Alarm by Audio MotorSports in Carson, 11.9 miles. GPS trackers, remote start, dash cams. Call (213) 429-1092.
+meta: Work truck and car alarm installation for Maywood at LA Car Alarm by Audio MotorSports in Carson, 11.9 miles. GPS trackers, dash cams. (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Work Truck and Car Alarm Installation for Maywood

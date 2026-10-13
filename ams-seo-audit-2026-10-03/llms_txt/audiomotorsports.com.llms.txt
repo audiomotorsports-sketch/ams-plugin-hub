@@ -1,0 +1,74 @@
+# Audio MotorSports
+
+> Car audio, window tint, car alarms and remote start, and Harley bagger audio, installed at one shop in Carson, California. Audio MotorSports is the hub site for LA Car Tint, LA Car Beats, LA Car Alarm, LA Car Stereo, AMS Pods and Tesla Tint LA, which are the same shop and the same team.
+
+## Shop facts
+- Business: Audio MotorSports [CONFIRM exact listing name and legal name]
+- Address: 22025 S Avalon Blvd Ste A, Carson, CA 90745
+- Call or text: (213) 429-1092
+- Hours: Monday to Saturday 9:30 AM to 6:00 PM. Sunday closed. [CONFIRM Sunday on all listings]
+- Reviews: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
+- All work is done at the Carson shop. No mobile installs.
+- Authorized 3M, Viper and Compustar dealer for 20+ years, as stated by the owner. [CONFIRM proof on file for dealer listings]
+- Everyone is welcome. The shop is LGBTQ-friendly and says so on Google and Yelp.
+- Location: right off the 110 freeway, with easy access from the 405 and the 710.
+
+## How a visit works
+- Book by call or text at (213) 429-1092, then either drop the car off or wait inside.
+- Waiting inside: seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. A mall, movie theaters, restaurants, coffee shops and a Starbucks are within walking distance. A DoubleTree hotel with a full bar is down the street; Cabrillo Beach is about 12 minutes away.
+- Customers drive in from across Los Angeles and Orange County, and regularly from Temecula, San Diego and farther.
+- Product orders: in-store pickup, or call for delivery. Everything is paid upfront before delivery.
+- Payment plan / buy now, pay later is available; ask at the shop. No rates or monthly amounts are published.
+
+## Published prices (as of October 2026) [CONFIRM every line before publishing]
+- Solar window tint: from $249 installed (4 doors + back glass)
+- Solar Ceramic window tint: from $329 installed (4 doors + back glass)
+- 3M Ceramic IR / Color Stable: quoted at the shop
+- Viper 3108V alarm: $269 installed
+- Compustar 9910 remote start: from $499 installed, most cars
+- Dual Kicker Comp loaded box: $249, box only; install quoted
+- AMS Pods: from $649 a pair
+- Tesla window tint: quoted by model at the shop
+
+## What this shop does
+- Car audio: car stereo installation, Apple CarPlay and Android Auto, speaker replacement, amplifier installation, subwoofer installation and upgrades, DSP tuning
+- Window tint: 3M and Solar films, hand-cut on a glass board, never cut on the vehicle. Side and rear glass; no roof tint.
+- Vehicle security: car alarm installation, Viper alarms, Compustar remote start, GPS trackers, dash cameras
+- Harley bagger audio: AMS Pods lower-fairing speaker pods for Street Glide, Road Glide and Road King, amplifier installation and tuning on the bike
+
+## What this shop does not do
+- No roof tint, no vehicle wraps, no paint protection film, no auto glass repair
+- No DJ or pro-audio products; car audio only
+- No national or 48-state shipping claims; orders are picked up in store or delivered by arrangement
+- No mobile installation
+
+## Drive-in locations
+- One shop. Every city page describes drivers who come to Carson from that city; there are no other locations.
+- Index: https://www.audiomotorsports.com/locations/
+- One URL per drive-in city: https://www.audiomotorsports.com/{city-slug}/ (example: https://www.audiomotorsports.com/long-beach/)
+- Brand city pages: /tint/, /beats/, /alarm/, /tesla/ and /amspods/ carry their own city pages for the same shop.
+
+## Key pages
+- Services: https://www.audiomotorsports.com/services/
+- Window tint: https://www.audiomotorsports.com/tint/
+- Car stereo: https://www.audiomotorsports.com/beats/
+- Alarms and remote start: https://www.audiomotorsports.com/alarm/
+- Tesla tint: https://www.audiomotorsports.com/tesla/
+- Harley bagger audio: https://www.audiomotorsports.com/amspods/
+- Shop: https://www.audiomotorsports.com/shop/
+- Specials: https://www.audiomotorsports.com/specials/
+- Gallery: https://www.audiomotorsports.com/gallery/
+- FAQ: https://www.audiomotorsports.com/faq/
+- Reviews: https://www.audiomotorsports.com/reviews/
+- Contact: https://www.audiomotorsports.com/contact/
+
+## Network (same shop, same team)
+- Audio MotorSports: https://www.audiomotorsports.com
+- LA Car Tint: https://www.lacartint.com
+- LA Car Beats: https://www.lacarbeats.com
+- LA Car Alarm: https://www.lacaralarm.com
+- LA Car Stereo: https://lacarstereo.com
+- AMS Pods: https://www.amspods.com
+- Tesla Tint LA: https://teslatintla.com
+
+Sitemap: https://www.audiomotorsports.com/sitemap.xml

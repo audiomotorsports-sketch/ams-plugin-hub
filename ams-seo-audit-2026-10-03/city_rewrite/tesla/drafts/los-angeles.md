@@ -19,7 +19,7 @@ Los Angeles Tesla owners, Cybertruck included, come to Tesla Tint LA by Audio Mo
 
 **Model S and Model X.** Long curved glass on the S, falcon-wing doors on the X. Each is quoted by model because the labor is not the same as the sedans.
 
-**Glass roof film.** The roof is where most of the heat comes in on a Tesla. Ceramic film up there makes a real difference on a July afternoon without changing the look from outside.
+**Cabin heat in July.** The factory roof glass is already dark, so the heat you feel comes through the doors and rear glass. Ceramic film there makes a real difference on a July afternoon without changing the look from outside.
 
 Audio MotorSports also fits dash cameras, GPS trackers, Compustar remote start and car audio upgrades in the same bay, so one trip from Los Angeles can cover more than tint.
 
@@ -48,7 +48,7 @@ It does not. Our ceramic film carries no metal, so cellular and Bluetooth signal
 
 ### What is the legal front window tint on a Tesla in California?
 
-The front doors must pass 70% of visible light, so the fronts stay fairly light. Rear doors, the rear window and the roof have no limit. Ceramic film at the legal front shade still blocks most of the infrared heat, which is what makes the cabin comfortable.
+The front doors must pass 70% of visible light, so the fronts stay fairly light. Rear doors and the rear window have no limit. Ceramic film at the legal front shade still blocks most of the infrared heat, which is what makes the cabin comfortable.
 
 ### How do I keep the Cybertruck film looking right after the install?
 
@@ -145,7 +145,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "What is the legal front window tint on a Tesla in California?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "The front doors must pass 70% of visible light, so the fronts stay fairly light. Rear doors, the rear window and the roof have no limit. Ceramic film at the legal front shade still blocks most of the infrared heat, which is what makes the cabin comfortable."
+      "text": "The front doors must pass 70% of visible light, so the fronts stay fairly light. Rear doors and the rear window have no limit. Ceramic film at the legal front shade still blocks most of the infrared heat, which is what makes the cabin comfortable."
      }
     },
     {

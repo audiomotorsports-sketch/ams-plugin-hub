@@ -47,7 +47,7 @@ Yes, as long as the front side windows still pass 70 percent of light. Solar Cer
 
 ### What is the price for Tesla window tint on a Model Y?
 
-Tesla window tint is quoted at the shop by model, because the rear glass and roof vary between the 3, Y, S and X. What is the same on every Tesla is the method: the rear window is laid as one piece of ceramic film, and nothing on the car's cameras or glass roof is disturbed.
+Tesla window tint is quoted at the shop by model, because the rear glass and side windows vary between the 3, Y, S and X. What is the same on every Tesla is the method: the rear window is laid as one piece of ceramic film, and nothing on the car's cameras or glass roof is disturbed.
 
 ### Can I get a car alarm installation done while the car is tinted?
 
@@ -140,7 +140,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. The sh
      "name": "What is the price for Tesla window tint on a Model Y?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Tesla window tint is quoted at the shop by model, because the rear glass and roof vary between the 3, Y, S and X. What is the same on every Tesla is the method: the rear window is laid as one piece of ceramic film, and nothing on the car's cameras or glass roof is disturbed."
+      "text": "Tesla window tint is quoted at the shop by model, because the rear glass and side windows vary between the 3, Y, S and X. What is the same on every Tesla is the method: the rear window is laid as one piece of ceramic film, and nothing on the car's cameras or glass roof is disturbed."
      }
     },
     {

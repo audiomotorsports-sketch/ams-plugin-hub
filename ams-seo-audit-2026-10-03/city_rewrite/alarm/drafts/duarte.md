@@ -15,7 +15,7 @@ A Viper alarm installation for a Duarte car happens 27.1 miles away at LA Car Al
 
 **Viper alarm installation.** The Viper 3108V with siren, shock sensor, starter interrupt and two remotes. We open the lower dash properly, place the module where a flashlight search finds nothing, and tune the shock sensor on your car before you leave.
 
-**Compustar remote start installation.** The 9910 and a bypass module for your make. Start the car from the house on a hot Duarte afternoon; the factory key keeps working and the car stays secured.
+**Compustar remote start installation.** The 9910 plus the bypass module built for your make and key type. Start the car from the house on a hot Duarte afternoon; the factory key keeps working and the car stays secured.
 
 **GPS tracker installation.** Hidden, on constant power, separately fused. The app on your phone shows where the car is even when it is switched off.
 

@@ -19,7 +19,7 @@ Lynwood Tesla owners come to Tesla Tint LA by Audio MotorSports, 22025 S Avalon 
 
 **Model S, Model X and Cybertruck.** Long and tall curved glass on the S and X, flat board-cut panes on the Cybertruck, each with its own quote by model.
 
-**Roof film.** Ceramic film on the glass roof for the heat that lands on the front seats.
+**Cabin heat.** The factory roof glass is already dark; ceramic film on the doors and rear glass handles the heat that lands on the front seats.
 
 Audio MotorSports also installs dash cameras, GPS trackers, Viper alarms, Compustar remote start and car stereo gear in the same bay.
 
@@ -40,7 +40,7 @@ Because every strip leaves a line across the glass that shows in daylight and in
 
 ### Can a Lynwood owner get the Tesla tinted while they wait?
 
-Yes. The trip is short, and a Model 3 or Model Y with sides and rear done is usually finished the same day. If you are adding roof film or a dash camera, it may make more sense to drop the car off in the morning. We will tell you when you book.
+Yes. The trip is short, and a Model 3 or Model Y with sides and rear done is usually finished the same day. If you are adding a dash camera, it may make more sense to drop the car off in the morning. We will tell you when you book.
 
 ### Does the one-piece rear film affect the backup camera or the defroster?
 
@@ -129,7 +129,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "Can a Lynwood owner get the Tesla tinted while they wait?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. The trip is short, and a Model 3 or Model Y with sides and rear done is usually finished the same day. If you are adding roof film or a dash camera, it may make more sense to drop the car off in the morning. We will tell you when you book."
+      "text": "Yes. The trip is short, and a Model 3 or Model Y with sides and rear done is usually finished the same day. If you are adding a dash camera, it may make more sense to drop the car off in the morning. We will tell you when you book."
      }
     },
     {

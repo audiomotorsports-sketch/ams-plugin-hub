@@ -9,7 +9,7 @@ source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla Window Tint for Rancho Cucamonga, Model S First
 
-Model S owners from Rancho Cucamonga drive about 53.6 miles to Tesla Tint LA, the Tesla window tint shop at Audio MotorSports, 22025 S Avalon Blvd Ste A in Carson, because the S deserves film installed by people who do it constantly. Long frameless side glass, a big hatch window and a wide roof, all in ceramic film, quoted by model at the shop.
+Model S owners from Rancho Cucamonga drive about 53.6 miles to Tesla Tint LA, the Tesla window tint shop at Audio MotorSports, 22025 S Avalon Blvd Ste A in Carson, because the S deserves film installed by people who do it constantly. Long frameless side glass, a big hatch window and a dark factory glass roof, with ceramic film on the side and hatch glass, quoted by model at the shop.
 
 ## What Rancho Cucamonga Tesla owners come in for
 

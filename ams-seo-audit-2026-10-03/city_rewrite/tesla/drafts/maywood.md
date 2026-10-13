@@ -4,7 +4,7 @@ city: Maywood
 miles: 11.9
 lead_service: Tesla window tint (camera and sensor clearance)
 title: Maywood Tesla Window Tint | Tesla Tint LA, Carson
-meta: Tesla window tint that leaves every camera clear, for Maywood owners at Tesla Tint LA by Audio MotorSports in Carson, 11.9 miles away. Ceramic film. Call (213) 429-1092.
+meta: Tesla window tint that leaves every camera clear, for Maywood owners at Tesla Tint LA by Audio MotorSports in Carson, 11.9 miles away. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla Window Tint for Maywood Without Covering a Single Camera
@@ -17,7 +17,7 @@ Maywood is about 11.9 miles from Tesla Tint LA, the Tesla window tint shop at Au
 
 **No-metal film for signals.** Ceramic film rejects heat with a ceramic layer rather than metal, so the phone key, card reader and the car's antennas keep working.
 
-**Complete coverage.** Doors cut to the seal, the one-piece rear glass as a single sheet, the roof panel for heat, fronts at the California legal shade.
+**Complete coverage.** Doors cut to the seal, the one-piece rear glass as a single sheet, the factory-dark roof glass left as it is, fronts at the California legal shade.
 
 **Other installs in the same bay.** Audio MotorSports does GPS tracker installation, dash camera installation, car alarm installation, remote start installation and car stereo installation too.
 
@@ -40,7 +40,7 @@ About 25 minutes outside rush hour. Maywood owners usually book a morning time a
 
 ### Could tint trip a camera or sensor warning on the screen?
 
-No. Nothing the car monitors is covered. The glass-mounted camera window stays clear, the ultrasonic and radar sensors are in the bumpers, and ceramic film has no metal to interfere with GPS or cellular. The car drives and connects exactly as it did before the appointment.
+No. Nothing the car monitors is covered. The glass-mounted camera window stays clear, the ultrasonic and radar sensors are in the bumpers, and ceramic film has no metal to interfere with GPS or cellular. Driving, GPS and the app all behave the way they did when you dropped it off.
 
 ### Which Tesla film is best if I care about heat more than darkness?
 
@@ -123,7 +123,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "Could tint trip a camera or sensor warning on the screen?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "No. Nothing the car monitors is covered. The glass-mounted camera window stays clear, the ultrasonic and radar sensors are in the bumpers, and ceramic film has no metal to interfere with GPS or cellular. The car drives and connects exactly as it did before the appointment."
+      "text": "No. Nothing the car monitors is covered. The glass-mounted camera window stays clear, the ultrasonic and radar sensors are in the bumpers, and ceramic film has no metal to interfere with GPS or cellular. Driving, GPS and the app all behave the way they did when you dropped it off."
      }
     },
     {

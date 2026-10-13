@@ -50,7 +50,7 @@ A few hours for a four-door car. The time goes into cleaning the glass, hand-cut
 
 ## Tint pricing for Baldwin Hills
 
-Solar four-door window tint is $249 installed and Solar Ceramic four-door is $329 installed, as of October 2026, both covering four doors and the rear window. Old film removal, SUVs, trucks, windshield strips and Tesla roof glass are quoted in the shop. Payment plan available, ask Nick. Google 4.8 from 654 reviews; Yelp 4.7 from 777 reviews; both as of October 2026.
+Solar four-door window tint is $249 installed and Solar Ceramic four-door is $329 installed, as of October 2026, both covering four doors and the rear window. Old film removal, SUVs, trucks and windshield strips are quoted in the shop. Payment plan available, ask Nick. Google 4.8 from 654 reviews; Yelp 4.7 from 777 reviews; both as of October 2026.
 
 ## Nearby tint pages
 

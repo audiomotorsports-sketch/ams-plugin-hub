@@ -21,7 +21,7 @@ Downey drivers bring their cars 10.9 miles to LA Car Alarm by Audio MotorSports,
 
 **GPS tracker installation and dash camera installation.** Trackers go on constant power in a spot that is not obvious; cameras are hardwired for parking mode so the record keeps running after you walk away.
 
-If you also want car window tint, car stereo installation, Apple CarPlay and Android Auto, subwoofers or Harley bagger audio, the shop does those under the same roof.
+If you also want car window tint, car stereo installation, Apple CarPlay and Android Auto, subwoofers or Harley bagger audio, the shop does those too, on the same visit if you like.
 
 <!-- owner-details-2026-10-07 -->
 If you would rather wait inside than make two trips from Downey, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. Downey customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. From Downey you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.

@@ -4,7 +4,7 @@ city: Montclair
 miles: 46.3
 lead_service: GPS tracker installation
 title: GPS Tracker & Alarm Installation Montclair | LA Car Alarm
-meta: GPS tracker and car alarm installation for Montclair drivers at LA Car Alarm by Audio MotorSports, Carson, 46.3 miles. Viper, Compustar, dash cams. Call (213) 429-1092.
+meta: GPS tracker and car alarm installation for Montclair drivers at LA Car Alarm by Audio MotorSports, Carson. Viper, Compustar, dash cams. (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # GPS Tracker and Car Alarm Installation for Montclair Drivers

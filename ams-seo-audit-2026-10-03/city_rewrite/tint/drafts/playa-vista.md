@@ -9,11 +9,11 @@ meta: Tesla window tint and ceramic window tint for Playa Vista drivers, install
 ---
 # Tesla Window Tint for Playa Vista
 
-Playa Vista has more Teslas per block than almost anywhere we serve, and the glass roof and single-piece rear window need a shop that tints them every week. LA Car Tint by Audio MotorSports, Carson, installs Tesla window tint and ceramic window tint at 22025 S Avalon Blvd Ste A, about 13.5 miles from Playa Vista, with the film cut and shaped on the car.
+Playa Vista has more Teslas per block than almost anywhere we serve, and the single-piece rear window needs a shop that tints it every week; the glass roof is already dark. LA Car Tint by Audio MotorSports, Carson, installs Tesla window tint and ceramic window tint at 22025 S Avalon Blvd Ste A, about 13.5 miles from Playa Vista, with the film cut and shaped on the car.
 
 ## What Playa Vista drivers bring to LA Car Tint
 
-**Tesla window tint.** The rear window is shrunk and laid as one unbroken piece. Electronics and speakers near the glass are covered and protected during the wet application. Ask about the roof when you book.
+**Tesla window tint.** The rear window is shrunk and laid as one unbroken piece. Electronics and speakers near the glass are covered and protected during the wet application. The factory roof glass is already dark.
 
 **Ceramic window tint for any EV or new car.** Solar Ceramic rejects heat without metal, so charging-app connectivity, phone, GPS and the key card keep working. Lower cabin heat also means less energy spent on air conditioning.
 
@@ -40,9 +40,9 @@ Because the Tesla rear glass is a single curved sheet and the film has to be sha
 
 A little, indirectly. Ceramic film cuts the infrared heat coming through the glass, so the cabin starts cooler and the climate system works less. The bigger benefit is comfort: a glass-roofed car parked in the sun is noticeably better with ceramic film on the side and rear glass.
 
-### Can the Tesla glass roof be tinted at LA Car Tint?
+### Does the Tesla glass roof get tinted at LA Car Tint?
 
-It is a store visit. Roof panels differ by model and year and have to be seen on the car, so ask when you book and bring the vehicle. Side and rear Tesla glass is quoted in person too, since it is not standard sedan glass. The one-piece rear is our usual Tesla job.
+It is already dark from the factory, so the film goes on the side and rear glass instead. Those panes differ by model and year and have to be seen on the car, so ask when you book and bring the vehicle. The one-piece rear is our usual Tesla job.
 
 ### How long does Tesla window tint take and can I wait for it?
 
@@ -54,7 +54,7 @@ Solar window tint is $249 installed and Solar Ceramic is $329 installed, as of O
 
 ## Window tint prices as of October 2026
 
-Four-door sedan with rear glass, as of October 2026: $249 installed for Solar window tint, $329 installed for Solar Ceramic. Tesla window tint, roof glass and large SUVs are quoted at the counter. Payment plan available, ask Nick. On non-Tesla cars the bay also does Apple CarPlay and Android Auto installation, speaker installation and dash camera installation.
+Four-door sedan with rear glass, as of October 2026: $249 installed for Solar window tint, $329 installed for Solar Ceramic. Tesla window tint and large SUVs are quoted at the counter. Payment plan available, ask Nick. On non-Tesla cars the bay also does Apple CarPlay and Android Auto installation, speaker installation and dash camera installation.
 
 ## Nearby cities we tint
 
@@ -128,10 +128,10 @@ Text (213) 429-1092 or call (213) 429-1092. Audio MotorSports is located at 2202
     },
     {
      "@type": "Question",
-     "name": "Can the Tesla glass roof be tinted at LA Car Tint?",
+     "name": "Does the Tesla glass roof get tinted at LA Car Tint?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "It is a store visit. Roof panels differ by model and year and have to be seen on the car, so ask when you book and bring the vehicle. Side and rear Tesla glass is quoted in person too, since it is not standard sedan glass. The one-piece rear is our usual Tesla job."
+      "text": "It is already dark from the factory, so the film goes on the side and rear glass instead. Those panes differ by model and year and have to be seen on the car, so ask when you book and bring the vehicle. The one-piece rear is our usual Tesla job."
      }
     },
     {

@@ -15,7 +15,7 @@ South Gate drivers bring SUVs, pickups and family sedans to LA Car Tint at Audio
 
 - **SUV and truck window tint** — Third-row glass, tailgates and crew-cab rear windows are measured on the vehicle and quoted per model. The shade is matched all the way around so nothing looks mismatched.
 - **Ceramic window tint** — A tall vehicle has a lot of glass area facing the sun. Ceramic film rejects infrared heat so the third row is not an oven for the kids by the time you get there.
-- **Tesla window tint** — Model Y owners from South Gate get the same hand-fitted rear glass treatment; the roof is a separate quote.
+- **Tesla window tint** — Model Y owners from South Gate get the same hand-fitted rear glass treatment; the roof glass is already dark.
 
 ## South Gate to Carson
 

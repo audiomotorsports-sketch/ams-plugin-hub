@@ -17,7 +17,7 @@ Fullerton Tesla owners drive to Tesla Tint LA by Audio MotorSports, 22025 S Aval
 
 **Ceramic window tinting, every model.** Model 3, Model Y, Model S, Model X and Cybertruck all get the same ceramic film, with the shade matched to your preference and the front doors kept at the California legal level.
 
-**Glass roof film.** For owners who park outside, film on the roof panel is the add-on that changes the cabin temperature most.
+**Doors and rear glass for cars parked outside.** For owners who park in the open, film on the doors and the one-piece rear window is the work that changes the cabin temperature most.
 
 **Door glass cut to the seal.** Tesla doors are frameless, so the film edge is cut to sit just below the seal, where it cannot peel when the window drops.
 
@@ -52,7 +52,7 @@ It cannot. The rear camera sits in the trunk lid, not on the glass, and the cera
 
 ### How dark can a Fullerton Tesla owner go in the back?
 
-As dark as you like. California limits only the front doors, which must pass 70% of visible light. Rear doors, the rear glass and the roof have no restriction. Most owners pick a dark rear with a legal front, and we show samples on your glass before cutting.
+As dark as you like. California limits only the front doors, which must pass 70% of visible light. Rear doors and the rear glass have no restriction. Most owners pick a dark rear with a legal front, and we show samples on your glass before cutting.
 
 ## Pricing
 
@@ -153,7 +153,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "How dark can a Fullerton Tesla owner go in the back?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "As dark as you like. California limits only the front doors, which must pass 70% of visible light. Rear doors, the rear glass and the roof have no restriction. Most owners pick a dark rear with a legal front, and we show samples on your glass before cutting."
+      "text": "As dark as you like. California limits only the front doors, which must pass 70% of visible light. Rear doors and the rear glass have no restriction. Most owners pick a dark rear with a legal front, and we show samples on your glass before cutting."
      }
     }
    ]

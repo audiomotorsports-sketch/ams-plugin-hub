@@ -12,7 +12,7 @@ Garden Grove Tesla owners drive 18.9 miles to Audio MotorSports in Carson, 22025
 
 ## Garden Grove jobs in the bay
 
-**Tesla window tint.** The rear glass is tinted as one piece, heat-formed to the curve on the car, and the roof can be done at the same time. Ceramic film has no metal, so the phone key, Autopilot cameras and cell signal work exactly as before.
+**Tesla window tint.** The rear glass is tinted as one piece, heat-formed to the curve on the car, and the factory-dark roof glass is left as it is. Ceramic film has no metal, so the phone key, Autopilot cameras and cell signal work exactly as before.
 
 **Car window tint and ceramic window tint.** Window tinting for any vehicle, hand-cut on the glass, with fronts at a legal shade. Solar $249 installed, Solar Ceramic $329 installed as of October 2026.
 
@@ -37,9 +37,9 @@ Waiting inside is easy for Garden Grove customers: there is seating, Netflix on 
 
 Yes, because Tesla window tint is about the install, not the roll of film. The one-piece rear glass is shrunk and laid as a single sheet here, in a clean bay, by people who do it regularly. Garden Grove is 18.9 miles, roughly thirty-eight to forty-five minutes outside rush hour. Call (213) 429-1092 to book.
 
-### Can the Tesla glass roof be tinted?
+### Does the Tesla glass roof need tint too?
 
-Yes. The roof already filters UV but still lets heat through on a summer afternoon. A layer of ceramic film cuts that noticeably. It is priced separately from the sides and rear, and we quote it at the shop once we see the car since roof sizes vary by model.
+No. The factory roof glass is already dark and filters UV on its own, so we do not film it. The heat you feel while driving comes mostly through the side and rear glass, which is where the ceramic film goes. Tesla tint is quoted at the shop once we see the car.
 
 ### How long should I keep the windows up after ceramic window tint?
 
@@ -62,7 +62,7 @@ Yes. Dash camera installation runs the power to a hardwire kit with a voltage cu
 - AMS Harley bagger pods: from $649 per pair
 - Dual Kicker Comp subwoofer box: $249 box only
 
-Tesla tint packages including the roof are quoted at the shop. Prices as of October 2026; payment plan available, ask Nick.
+Tesla tint packages are quoted at the shop by model. Prices as of October 2026; payment plan available, ask Nick.
 
 ## Near Garden Grove
 
@@ -132,10 +132,10 @@ Text the model and year to (213) 429-1092 or call (213) 429-1092. Audio MotorSpo
     },
     {
      "@type": "Question",
-     "name": "Can the Tesla glass roof be tinted?",
+     "name": "Does the Tesla glass roof need tint too?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. The roof already filters UV but still lets heat through on a summer afternoon. A layer of ceramic film cuts that noticeably. It is priced separately from the sides and rear, and we quote it at the shop once we see the car since roof sizes vary by model."
+      "text": "No. The factory roof glass is already dark and filters UV on its own, so we do not film it. The heat you feel while driving comes mostly through the side and rear glass, which is where the ceramic film goes. Tesla tint is quoted at the shop once we see the car."
      }
     },
     {

@@ -19,7 +19,7 @@ Los Alamitos Model 3 owners have their Tesla window tint done at Tesla Tint LA b
 
 **Ceramic film with no metal.** The phone key, the cell signal and the cameras all work as they did before.
 
-**Roof and windshield strip.** Film on the roof panel for heat, a strip across the top of the windshield for glare.
+**Windshield strip.** A strip across the top of the windshield for glare; the factory roof glass is already dark, so the film goes on the side and rear glass.
 
 Audio MotorSports also handles dash camera, GPS tracker, car alarm, remote start and stereo installation in the same bay.
 
@@ -40,7 +40,7 @@ The curve. It bends front to back and side to side at the same time, and a flat 
 
 ### Should a Los Alamitos owner wait at the shop or drop the Model 3 off?
 
-Either works. The trip is short enough that many owners wait, and a Model 3 is usually done the same day. If you are adding roof film or a dash camera, drop it off in the morning and pick it up later. We will tell you which makes more sense when you book.
+Either works. The trip is short enough that many owners wait, and a Model 3 is usually done the same day. If you are adding a dash camera, drop it off in the morning and pick it up later. We will tell you which makes more sense when you book.
 
 ### Does ceramic film affect the Model 3 cameras or the phone key?
 
@@ -129,7 +129,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "Should a Los Alamitos owner wait at the shop or drop the Model 3 off?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Either works. The trip is short enough that many owners wait, and a Model 3 is usually done the same day. If you are adding roof film or a dash camera, drop it off in the morning and pick it up later. We will tell you which makes more sense when you book."
+      "text": "Either works. The trip is short enough that many owners wait, and a Model 3 is usually done the same day. If you are adding a dash camera, drop it off in the morning and pick it up later. We will tell you which makes more sense when you book."
      }
     },
     {

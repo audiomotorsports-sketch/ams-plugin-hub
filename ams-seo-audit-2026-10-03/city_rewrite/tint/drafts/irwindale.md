@@ -53,7 +53,7 @@ Closest is not the same as right. This bay cuts film on your glass, tucks the ed
 
 ## Prices, as of October 2026
 
-Solar window tint $249 installed and Solar Ceramic $329 installed, as of October 2026. Cargo vans, fleet trucks, multi-vehicle bookings and Tesla roof glass are quoted at the shop. Payment plan available, ask Nick.
+Solar window tint $249 installed and Solar Ceramic $329 installed, as of October 2026. Cargo vans, fleet trucks and multi-vehicle bookings are quoted at the shop. Payment plan available, ask Nick.
 
 ## Nearby cities we also serve
 

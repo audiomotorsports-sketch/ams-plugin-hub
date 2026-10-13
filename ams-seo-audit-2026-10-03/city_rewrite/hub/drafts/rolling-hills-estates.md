@@ -43,7 +43,7 @@ It is about 6 miles, or 12 to 14 minutes (approx) off peak. A CarPlay head unit 
 
 ### What is included in your Solar Ceramic tint price?
 
-Solar Ceramic window tint is $329 installed as of October 2026 and covers the front doors, rear doors and rear window. The film is cut to the glass in the bay and the edges are finished to the gasket. The windshield and sunroof are quoted separately at the shop.
+Solar Ceramic window tint is $329 installed as of October 2026 and covers the front doors, rear doors and rear window. The film is cut to the glass in the bay and the edges are finished to the gasket. The windshield strip is quoted separately at the shop; sunroofs are not filmed.
 
 ### Do you tint Teslas from Rolling Hills Estates?
 
@@ -132,7 +132,7 @@ Call (213) 429-1092, or text the year, make and model to (213) 429-1092 and we w
      "name": "What is included in your Solar Ceramic tint price?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Solar Ceramic window tint is $329 installed as of October 2026 and covers the front doors, rear doors and rear window. The film is cut to the glass in the bay and the edges are finished to the gasket. The windshield and sunroof are quoted separately at the shop."
+      "text": "Solar Ceramic window tint is $329 installed as of October 2026 and covers the front doors, rear doors and rear window. The film is cut to the glass in the bay and the edges are finished to the gasket. The windshield strip is quoted separately at the shop; sunroofs are not filmed."
      }
     },
     {

@@ -31,11 +31,11 @@ Count on roughly 36 to 43 minutes outside rush hour for the 17.9 miles (approx).
 
 ### Why do Monterey Park Tesla owners drive to Carson for tint?
 
-Because a Tesla is not a car you want pattern-cut film on. The rear glass needs to be heat-shrunk by hand, the cameras have to stay clear, and the glass roof is its own panel. That is skilled labor, and it is the reason to drive rather than take the nearest offer.
+Because a Tesla is not a car you want pattern-cut film on. The rear glass needs to be heat-shrunk by hand, the cameras have to stay clear, and the glass roof is already dark from the factory, so it is left alone. That is skilled labor, and it is the reason to drive rather than take the nearest offer.
 
-### Can the glass roof on a Tesla be tinted too?
+### Is the glass roof on a Tesla tinted too?
 
-Yes. The roof panel takes a ceramic film that cuts the heat coming straight down without changing the look from outside. It is an add-on to the standard four doors and rear glass. Pricing for Tesla work is by model, quoted at the shop once we see the car.
+No. The roof glass comes dark from the factory, so we leave it as it is and put the film on the four doors and the rear glass, which is where the heat and glare actually reach you. Pricing for Tesla work is by model, quoted at the shop once we see the car.
 
 ### Will Tesla window tint affect the cameras or the sensors?
 
@@ -43,7 +43,7 @@ No. The side repeater cameras, the rear camera and the ultrasonic sensors are al
 
 ### How long does Tesla tint take and can I wait?
 
-A few hours for four doors and the rear glass, longer with the roof. You can wait in the shop or drop it and we will call. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, is the reason most people are comfortable leaving the car.
+A few hours for four doors and the rear glass; the roof is not filmed, so nothing adds to that. You can wait in the shop or drop it and we will call. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, is the reason most people are comfortable leaving the car.
 
 ### Do you also do car alarm installation on a Tesla?
 
@@ -112,15 +112,15 @@ Call (213) 429-1092, or text (213) 429-1092 with your Tesla model and year. Audi
      "name": "Why do Monterey Park Tesla owners drive to Carson for tint?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Because a Tesla is not a car you want pattern-cut film on. The rear glass needs to be heat-shrunk by hand, the cameras have to stay clear, and the glass roof is its own panel. That is skilled labor, and it is the reason to drive rather than take the nearest offer."
+      "text": "Because a Tesla is not a car you want pattern-cut film on. The rear glass needs to be heat-shrunk by hand, the cameras have to stay clear, and the glass roof is already dark from the factory, so it is left alone. That is skilled labor, and it is the reason to drive rather than take the nearest offer."
      }
     },
     {
      "@type": "Question",
-     "name": "Can the glass roof on a Tesla be tinted too?",
+     "name": "Is the glass roof on a Tesla tinted too?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. The roof panel takes a ceramic film that cuts the heat coming straight down without changing the look from outside. It is an add-on to the standard four doors and rear glass. Pricing for Tesla work is by model, quoted at the shop once we see the car."
+      "text": "No. The roof glass comes dark from the factory, so we leave it as it is and put the film on the four doors and the rear glass, which is where the heat and glare actually reach you. Pricing for Tesla work is by model, quoted at the shop once we see the car."
      }
     },
     {
@@ -136,7 +136,7 @@ Call (213) 429-1092, or text (213) 429-1092 with your Tesla model and year. Audi
      "name": "How long does Tesla tint take and can I wait?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "A few hours for four doors and the rear glass, longer with the roof. You can wait in the shop or drop it and we will call. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, is the reason most people are comfortable leaving the car."
+      "text": "A few hours for four doors and the rear glass; the roof is not filmed, so nothing adds to that. You can wait in the shop or drop it and we will call. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, is the reason most people are comfortable leaving the car."
      }
     },
     {

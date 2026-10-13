@@ -53,7 +53,7 @@ Often. Pattern-cut film laid in a hurry lifts at the edges, bubbles in summer an
 
 ## Prices, as of October 2026
 
-Solar window tint $249 installed and Solar Ceramic $329 installed, as of October 2026. Minivans, three-row SUVs and Tesla roof glass are quoted at the shop. Payment plan available, ask Nick.
+Solar window tint $249 installed and Solar Ceramic $329 installed, as of October 2026. Minivans and three-row SUVs are quoted at the shop. Payment plan available, ask Nick.
 
 ## Nearby cities we also serve
 

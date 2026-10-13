@@ -19,7 +19,7 @@ Sun bouncing off the marina is a special kind of glare, and it comes in from the
 
 **Convertibles and frameless glass.** Film is cut on the window so the top edge of a frameless door lands exactly where the glass does.
 
-**Tesla window tint.** One-piece rear glass fitted as one piece on the car. Ask about the roof at booking.
+**Tesla window tint.** One-piece rear glass fitted as one piece on the car. The roof glass is dark already.
 
 ## Marina del Rey to Carson
 

@@ -9,7 +9,7 @@ meta: Model 3 and Tesla window tint for Lennox drivers at Audio MotorSports in C
 ---
 # Model 3 Window Tint for Lennox Drivers
 
-Lennox Model 3 drivers have their Tesla window tint done at Tesla Tint LA by Audio MotorSports, 22025 S Avalon Blvd Ste A in Carson, about 9 miles from Lennox. The Model 3 is the lead job on this page: frameless doors, a deeply curved one-piece rear window and a glass roof, all tinted with ceramic film and quoted by model at the shop.
+Lennox Model 3 drivers have their Tesla window tint done at Tesla Tint LA by Audio MotorSports, 22025 S Avalon Blvd Ste A in Carson, about 9 miles from Lennox. The Model 3 is the lead job on this page: frameless doors, a deeply curved one-piece rear window and a factory-dark glass roof, with the film going on the side and rear glass, quoted by model at the shop.
 
 ## Tesla tint for Lennox, starting with the Model 3
 
@@ -19,7 +19,7 @@ Lennox Model 3 drivers have their Tesla window tint done at Tesla Tint LA by Aud
 
 **Ceramic film that keeps signals clean.** No metal in the film, so the phone key, the cameras and the cell connection all work as before.
 
-**Roof and windshield strip.** Two add-ons Model 3 owners like: ceramic film on the roof for heat and a strip at the top of the windshield for glare.
+**Windshield strip.** A strip at the top of the windshield for glare, an add-on Model 3 owners like.
 
 Audio MotorSports also installs dash cameras, GPS trackers, alarms with remote start and car audio, so the Lennox trip can do double duty.
 

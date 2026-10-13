@@ -49,7 +49,7 @@ Yes. A standard car takes a few hours, and the shop has room to wait. If you wou
 
 ### What is the price for car window tinting on a Tesla?
 
-Tesla window tint is quoted at the shop by model, because the rear glass and roof differ between the 3, Y, S and X. On every Tesla the rear window is laid as one piece of ceramic film and nothing on the cameras or roof is disturbed.
+Tesla window tint is quoted at the shop by model, because the rear glass and door glass differ between the 3, Y, S and X. On every Tesla the rear window is laid as one piece of ceramic film and nothing on the cameras or roof is disturbed.
 
 ### Can a car alarm installation be done on the same day as tint?
 
@@ -142,7 +142,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. The sh
      "name": "What is the price for car window tinting on a Tesla?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Tesla window tint is quoted at the shop by model, because the rear glass and roof differ between the 3, Y, S and X. On every Tesla the rear window is laid as one piece of ceramic film and nothing on the cameras or roof is disturbed."
+      "text": "Tesla window tint is quoted at the shop by model, because the rear glass and door glass differ between the 3, Y, S and X. On every Tesla the rear window is laid as one piece of ceramic film and nothing on the cameras or roof is disturbed."
      }
     },
     {

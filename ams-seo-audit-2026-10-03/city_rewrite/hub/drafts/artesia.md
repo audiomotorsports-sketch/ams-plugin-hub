@@ -35,7 +35,7 @@ You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and 
 
 ### Does tint interfere with a Tesla's cameras or glass roof?
 
-No. Window tint goes on the door glass and rear window, not over the camera housings, and the ceramic film we use is metal-free so it does not affect cell, GPS or key-card signals. The glass roof can be filmed too if you want the heat down, and that is quoted at the shop.
+No. Window tint goes on the door glass and rear window, not over the camera housings, and the ceramic film we use is metal-free so it does not affect cell, GPS or key-card signals. The glass roof is left alone: its factory glass is already dark, so the film goes on the side and rear glass only.
 
 ### How long will my Tesla be at the shop if I drive in from Artesia?
 
@@ -116,7 +116,7 @@ Call (213) 429-1092 or text (213) 429-1092 with your Tesla model. Audio MotorSpo
      "name": "Does tint interfere with a Tesla's cameras or glass roof?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "No. Window tint goes on the door glass and rear window, not over the camera housings, and the ceramic film we use is metal-free so it does not affect cell, GPS or key-card signals. The glass roof can be filmed too if you want the heat down, and that is quoted at the shop."
+      "text": "No. Window tint goes on the door glass and rear window, not over the camera housings, and the ceramic film we use is metal-free so it does not affect cell, GPS or key-card signals. The glass roof is left alone: its factory glass is already dark, so the film goes on the side and rear glass only."
      }
     },
     {

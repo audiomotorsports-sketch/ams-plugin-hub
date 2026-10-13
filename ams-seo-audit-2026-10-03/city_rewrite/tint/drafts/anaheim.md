@@ -15,7 +15,7 @@ Anaheim cars rack up miles, and a car that is driven all day needs ceramic windo
 
 - **Ceramic window tint on high-mileage cars.** Rideshare, delivery and long-commute sedans spend the day in the sun. Solar Ceramic stops infrared heat so the driver's seat is not a hot plate and the air conditioning is not maxed all shift. Cut on the glass, edges under the seal.
 - **Car window tint on the family vehicle.** Solar film for privacy and glare on the SUV, fronts at the legal shade and the rear as dark as you like.
-- **Tesla window tint.** The curved rear glass laid as one shaped sheet, frameless doors trimmed to seal, roof panel available.
+- **Tesla window tint.** The curved rear glass laid as one shaped sheet, frameless doors trimmed to seal, and the factory roof glass is already dark so none is needed up top.
 - **Trucks and vans.** Sliders filmed in separate panels, tall doors trimmed tight.
 
 Also installed here: car alarm installation, GPS tracker installation, dash camera installation, car stereo installation and Apple CarPlay and Android Auto installation, all bookable with the tint.
@@ -53,7 +53,7 @@ Because this crew tints every day and does the slow parts: film cut on your glas
 
 ## Prices, as of October 2026
 
-Solar window tint $249 installed and Solar Ceramic $329 installed, as of October 2026. Vans, trucks with sliders, large SUVs and Tesla roof glass are quoted after we see the vehicle. Payment plan available, ask Nick.
+Solar window tint $249 installed and Solar Ceramic $329 installed, as of October 2026. Vans, trucks with sliders and large SUVs are quoted after we see the vehicle. Payment plan available, ask Nick.
 
 ## Nearby cities we also serve
 

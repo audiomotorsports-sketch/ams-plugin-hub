@@ -9,13 +9,13 @@ source: hub-mounted copy; standalone www host not verified
 ---
 # Cybertruck and Tesla Window Tint for Pasadena Owners
 
-Pasadena Cybertruck owners make a 28.6-mile trip to Tesla Tint LA, the Tesla window tint shop at Audio MotorSports, 22025 S Avalon Blvd Ste A in Carson. The truck's flat, angular glass is cut to a hard pattern rather than stretched over a curve, and the tall rear window and roof panel carry more sun than most cars. Ceramic film on every Tesla model, quoted by model at the shop.
+Pasadena Cybertruck owners make a 28.6-mile trip to Tesla Tint LA, the Tesla window tint shop at Audio MotorSports, 22025 S Avalon Blvd Ste A in Carson. The truck's flat, angular glass is cut to a hard pattern rather than stretched over a curve, and the tall rear window lets in more sun than most cars. Ceramic film on every Tesla model, quoted by model at the shop.
 
 ## What Pasadena Tesla owners drive down for
 
-**Cybertruck ceramic tint.** Big flat panes with sharp corners; the film is patterned exactly so each corner is crisp and each edge lands on the seal. The rear glass and roof get the most film and make the biggest difference in heat.
+**Cybertruck ceramic tint.** Big flat panes with sharp corners; the film is patterned exactly so each corner is crisp and each edge lands on the seal. The rear glass takes the most film and makes the biggest difference in heat.
 
-**Model 3 and Model Y.** The one-piece rear window shaped as a single sheet, the roof filmed for heat and the fronts at the California legal shade.
+**Model 3 and Model Y.** The one-piece rear window shaped as a single sheet, the side glass filmed for heat, the factory roof glass left as delivered, and the fronts at the California legal shade.
 
 **Model S and Model X.** Frameless doors on the S, falcon doors on the X, each quoted after Nick looks at the car.
 
@@ -42,9 +42,9 @@ Yes. The truck is in the bay for a few hours and the install is done once by a s
 
 No. The forward cameras look through a window in the windshield that is left clear, the pillar and fender cameras are never covered, and the rear camera is in the tailgate area. Ceramic film has no metal, so the phone key and the truck's cellular and GPS connections are unaffected.
 
-### Is the roof panel on a Cybertruck worth tinting?
+### Why is the Cybertruck rear glass the main heat target?
 
-Yes. It is a large flat panel of glass over the front seats, and heat comes straight through it when the truck is parked. A ceramic film applied from inside with the headliner in place cuts that heat noticeably and barely changes the look from outside.
+The tall rear window faces the afternoon sun and sits right behind the seats, so it carries most of the heat load. The factory roof glass is already dark, and the shop films the side and rear glass instead. Ceramic film on those panes cuts cabin heat noticeably.
 
 ### Does Tesla Tint LA tint other cars in the household?
 
@@ -128,10 +128,10 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
     },
     {
      "@type": "Question",
-     "name": "Is the roof panel on a Cybertruck worth tinting?",
+     "name": "Why is the Cybertruck rear glass the main heat target?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. It is a large flat panel of glass over the front seats, and heat comes straight through it when the truck is parked. A ceramic film applied from inside with the headliner in place cuts that heat noticeably and barely changes the look from outside."
+      "text": "The tall rear window faces the afternoon sun and sits right behind the seats, so it carries most of the heat load. The factory roof glass is already dark, and the shop films the side and rear glass instead. Ceramic film on those panes cuts cabin heat noticeably."
      }
     },
     {

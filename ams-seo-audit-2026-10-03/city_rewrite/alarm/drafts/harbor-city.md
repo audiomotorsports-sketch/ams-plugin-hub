@@ -21,7 +21,7 @@ LA Car Alarm is the security side of Audio MotorSports at 22025 S Avalon Blvd St
 
 **Dash camera installation.** Front and rear cameras hardwired to a fused circuit, cable run inside the headliner and A-pillar, parking mode set so it records bumps while you are away.
 
-We also do window tint, car stereo and CarPlay installation, and Harley bagger audio under the same roof if you want to combine trips.
+We also do window tint, car stereo and CarPlay installation, and Harley bagger audio out of the same shop if you want to combine trips.
 
 <!-- owner-details-2026-10-07 -->
 Plenty of Harbor City drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Harbor City customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. From Harbor City you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd. Harbor City neighbors who work the port, the refineries or the rail yard are regulars here, often dropping the car off on the way to a shift.

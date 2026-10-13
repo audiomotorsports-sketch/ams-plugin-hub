@@ -4,18 +4,18 @@ city: Placentia
 miles: 22.9
 lead_service: Tesla window tint (Model Y)
 title: Placentia Model Y & Tesla Tint | Tesla Tint LA, Carson
-meta: Model Y ceramic window tint for Placentia at Tesla Tint LA by Audio MotorSports in Carson, 22.9 miles away. Roof, rear glass, all Teslas. Call (213) 429-1092.
+meta: Model Y ceramic window tint for Placentia at Tesla Tint LA by Audio MotorSports in Carson, 22.9 miles away. Rear glass, doors, all Teslas. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Model Y Window Tint for Placentia Tesla Owners
 
-Placentia Model Y owners drive about 22.9 miles to Tesla Tint LA, the Tesla window tint shop at Audio MotorSports, 22025 S Avalon Blvd Ste A in Carson. The Model Y has the most glass per seat of any Tesla, from the full-length roof to the tall rear hatch, and ceramic film on all of it is the difference between a hot box and a comfortable car. Quoted by model at the shop.
+Placentia Model Y owners drive about 22.9 miles to Tesla Tint LA, the Tesla window tint shop at Audio MotorSports, 22025 S Avalon Blvd Ste A in Carson. The Model Y has the most glass per seat of any Tesla, from the wide door glass to the tall rear hatch, and ceramic film on the side and rear glass is the difference between a hot box and a comfortable car. Quoted by model at the shop.
 
 ## Model Y work for Placentia drivers
 
-**Full Model Y ceramic tint.** Side windows cut to the seal, the one-piece rear hatch glass installed as a single sheet, the roof panel filmed for heat and the fronts set to the California legal shade.
+**Full Model Y ceramic tint.** Side windows cut to the seal, the one-piece rear hatch glass installed as a single sheet and the fronts set to the California legal shade. The factory roof glass is already dark and is not filmed.
 
-**Roof heat on a tall car.** The Model Y roof is big and the cabin is tall, so there is more hot air to deal with. Ceramic film on the roof cuts the heat that lands on the second row and the cargo area.
+**Cabin heat on a tall car.** The Model Y cabin is tall and the hatch is deep, so there is more hot air to deal with. Ceramic film on the doors and rear hatch glass cuts the heat that lands on the second row and the cargo area.
 
 **Model 3, S, X and Cybertruck.** All tinted in the same Carson bay, each quoted after the car is looked over.
 
@@ -36,7 +36,7 @@ Yes. The hatch window on a Model Y is wide and curved, and Tesla Tint LA shapes 
 
 ### Is the drive from Placentia worth it for Model Y tint?
 
-Yes. It is under an hour outside rush hour, the install is done by a shop that tints Teslas every week, and you get a rear window and roof done right the first time. Owners come from much farther than Placentia for the same thing; some have driven in from San Diego.
+Yes. It is under an hour outside rush hour, the install is done by a shop that tints Teslas every week, and you get a rear window and door glass done right the first time. Owners come from much farther than Placentia for the same thing; some have driven in from San Diego.
 
 ### Will ceramic tint on a Model Y affect the rear camera or sensors?
 
@@ -44,11 +44,11 @@ No. The rear camera sits in the hatch above the plate, not in the glass, and the
 
 ### How dark can the Model Y rear windows go?
 
-As dark as you like. California limits only the front door windows, which Tesla Tint LA installs at the legal shade. The rear doors, the hatch glass and the roof can go darker for privacy and heat. Nick will show you shade samples on your own car so the rear and front look balanced.
+As dark as you like. California limits only the front door windows, which Tesla Tint LA installs at the legal shade. The rear doors and the hatch glass can go darker for privacy and heat. Nick will show you shade samples on your own car so the rear and front look balanced.
 
 ### How long should I plan for a full Model Y tint?
 
-A few hours, depending on how much coverage you choose. Roof, rear glass, four doors and fronts take the longest; sides and rear only is shorter. You can wait at the shop or leave the car. Book ahead so the bay is reserved for your Model Y when you arrive from Placentia.
+A few hours, depending on how much coverage you choose. Rear glass, four doors and fronts take the longest; sides and rear only is shorter. You can wait at the shop or leave the car. Book ahead so the bay is reserved for your Model Y when you arrive from Placentia.
 
 ## Prices
 
@@ -115,7 +115,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "Is the drive from Placentia worth it for Model Y tint?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. It is under an hour outside rush hour, the install is done by a shop that tints Teslas every week, and you get a rear window and roof done right the first time. Owners come from much farther than Placentia for the same thing; some have driven in from San Diego."
+      "text": "Yes. It is under an hour outside rush hour, the install is done by a shop that tints Teslas every week, and you get a rear window and door glass done right the first time. Owners come from much farther than Placentia for the same thing; some have driven in from San Diego."
      }
     },
     {
@@ -131,7 +131,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "How dark can the Model Y rear windows go?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "As dark as you like. California limits only the front door windows, which Tesla Tint LA installs at the legal shade. The rear doors, the hatch glass and the roof can go darker for privacy and heat. Nick will show you shade samples on your own car so the rear and front look balanced."
+      "text": "As dark as you like. California limits only the front door windows, which Tesla Tint LA installs at the legal shade. The rear doors and the hatch glass can go darker for privacy and heat. Nick will show you shade samples on your own car so the rear and front look balanced."
      }
     },
     {
@@ -139,7 +139,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "How long should I plan for a full Model Y tint?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "A few hours, depending on how much coverage you choose. Roof, rear glass, four doors and fronts take the longest; sides and rear only is shorter. You can wait at the shop or leave the car. Book ahead so the bay is reserved for your Model Y when you arrive from Placentia."
+      "text": "A few hours, depending on how much coverage you choose. Rear glass, four doors and fronts take the longest; sides and rear only is shorter. You can wait at the shop or leave the car. Book ahead so the bay is reserved for your Model Y when you arrive from Placentia."
      }
     }
    ]

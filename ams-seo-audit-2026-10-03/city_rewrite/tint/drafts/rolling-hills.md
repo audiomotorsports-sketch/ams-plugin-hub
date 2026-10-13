@@ -15,7 +15,7 @@ Rolling Hills drivers come to LA Car Tint at Audio MotorSports, 22025 S Avalon B
 
 - **Ceramic window tint** — The film blocks nearly all UV and a large share of infrared heat, which is what protects leather, wood trim and the dash over years of parking in sun. It is installed four doors plus the back glass, edges trimmed to the gasket.
 - **Light, near-clear tint** — Some Rolling Hills owners want protection with almost no change in appearance. A light ceramic shade on the fronts does that while staying well within the legal limit.
-- **Tesla window tint** — Model S, 3, X and Y all get their rear glass shrunk and fitted by hand. The panoramic roof is a separate quote once we see the car.
+- **Tesla window tint** — Model S, 3, X and Y all get their rear glass shrunk and fitted by hand. The panoramic roof is already dark from the factory, so only side and rear glass get film.
 
 ## Coming down from Rolling Hills
 
@@ -38,9 +38,9 @@ Yes. A light ceramic shade changes the look of the glass very little while still
 
 We cut and heat-shrink the film on a glass board to match each window, then transfer it to the car. Cutting off the car keeps blades away from your seals and lets us finish the edge right at the gasket, so there is no thin line of light along the top.
 
-### Do you tint Teslas from Rolling Hills, including the roof?
+### Do you tint Teslas from Rolling Hills, and what about the roof?
 
-We tint every Tesla model, including the single-piece rear glass that requires careful shrinking to lie flat. The glass roof can be tinted too, usually with a lighter film, and we quote that separately in person because the roof size differs by model.
+We tint every Tesla model, including the single-piece rear glass that requires careful shrinking to lie flat. The glass roof is already dark from the factory, so the film goes on the side and rear windows, and we quote that in person.
 
 ### What should I do in the first week after the tint goes on?
 
@@ -48,7 +48,7 @@ Keep the windows up for a few days so the film can bond. You may notice slight h
 
 ## Rolling Hills tint pricing
 
-On a four-door car, Solar film is $249 installed and Solar Ceramic is $329 installed, as of October 2026, four doors and the back glass included. SUVs, coupes, Teslas and roof glass are quoted at the shop. A payment plan is available; ask Nick. As of October 2026 the shop is rated 4.8 on Google (654 reviews) and 4.7 on Yelp (777 reviews).
+On a four-door car, Solar film is $249 installed and Solar Ceramic is $329 installed, as of October 2026, four doors and the back glass included. SUVs, coupes and Teslas are quoted at the shop. A payment plan is available; ask Nick. As of October 2026 the shop is rated 4.8 on Google (654 reviews) and 4.7 on Yelp (777 reviews).
 
 ## Nearby Peninsula cities
 
@@ -135,10 +135,10 @@ Call (213) 429-1092 or send a text to (213) 429-1092 to pick a time, then come d
         },
         {
           "@type": "Question",
-          "name": "Do you tint Teslas from Rolling Hills, including the roof?",
+          "name": "Do you tint Teslas from Rolling Hills, and what about the roof?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "We tint every Tesla model, including the single-piece rear glass that requires careful shrinking to lie flat. The glass roof can be tinted too, usually with a lighter film, and we quote that separately in person because the roof size differs by model."
+            "text": "We tint every Tesla model, including the single-piece rear glass that requires careful shrinking to lie flat. The glass roof is already dark from the factory, so the film goes on the side and rear windows, and we quote that in person."
           }
         },
         {

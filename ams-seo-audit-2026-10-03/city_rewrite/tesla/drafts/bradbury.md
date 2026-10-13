@@ -5,7 +5,7 @@ miles: 34.4
 lead_service: Tesla window tint (Cybertruck)
 source: hub-mounted copy; standalone www host not verified
 title: Bradbury Cybertruck & Tesla Tint | Tesla Tint LA
-meta: Cybertruck, Model X and Tesla window tint for Bradbury owners, ceramic film cut by hand at Audio MotorSports in Carson, 34.4 miles out. Call (213) 429-1092 or text (213) 429-1092.
+meta: Cybertruck, Model X and Tesla window tint for Bradbury owners: ceramic film at Audio MotorSports in Carson, 34.4 miles out. Call (213) 429-1092.
 ---
 # Cybertruck and Tesla Window Tint for Bradbury
 
@@ -44,15 +44,15 @@ The glass is flat, so there is no heat-shaping, but the panels are big and the t
 
 ### What front tint is legal on a Cybertruck or Model X?
 
-California requires 70% VLT on the front doors. Ceramic film at that shade still blocks a large share of infrared heat, so the cab stays cooler without looking dark. The rear doors and back glass can be darker.
+California requires 70% VLT on the front doors. A ceramic film at that level keeps rejecting infrared heat, so the cab stays cooler without looking dark. Behind the front doors, the glass can go as dark as the owner picks.
 
 ### Will the film interfere with cameras on a Cybertruck?
 
-No. Camera areas on the glass are masked and left clear, and the ceramic film contains no metal, so nothing is blocked. Cameras, sensors and the phone key work the same after the tint as before it.
+No. Camera areas on the glass are masked and left clear, and the ceramic film contains no metal, so nothing is blocked. Autopilot cameras, parking sensors and the phone key behave after the appointment exactly as they did on the drive in.
 
 ### How is a Bradbury Tesla quoted?
 
-By model, at the shop. The Cybertruck, Model X and Model 3 use different amounts of film and labor, so a single list price would not be honest. Text the year and model and Nick will send a figure, confirmed at the counter.
+By model, at the shop. The Cybertruck, Model X and Model 3 use different amounts of film and labor, so a single list price would not be honest. Text the year and model, and Nick answers with a number you can check at the counter.
 
 ## Pricing
 
@@ -78,7 +78,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-bradbury/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-bradbury/",
    "name": "Bradbury Cybertruck & Tesla Tint | Tesla Tint LA",
-   "description": "Cybertruck, Model X and Tesla window tint for Bradbury owners, ceramic film cut by hand at Audio MotorSports in Carson, 34.4 miles out. Call (213) 429-1092 or text (213) 429-1092.",
+   "description": "Cybertruck, Model X and Tesla window tint for Bradbury owners: ceramic film at Audio MotorSports in Carson, 34.4 miles out. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -136,7 +136,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "What front tint is legal on a Cybertruck or Model X?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "California requires 70% VLT on the front doors. Ceramic film at that shade still blocks a large share of infrared heat, so the cab stays cooler without looking dark. The rear doors and back glass can be darker."
+      "text": "California requires 70% VLT on the front doors. A ceramic film at that level keeps rejecting infrared heat, so the cab stays cooler without looking dark. Behind the front doors, the glass can go as dark as the owner picks."
      }
     },
     {
@@ -144,7 +144,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "Will the film interfere with cameras on a Cybertruck?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "No. Camera areas on the glass are masked and left clear, and the ceramic film contains no metal, so nothing is blocked. Cameras, sensors and the phone key work the same after the tint as before it."
+      "text": "No. Camera areas on the glass are masked and left clear, and the ceramic film contains no metal, so nothing is blocked. Autopilot cameras, parking sensors and the phone key behave after the appointment exactly as they did on the drive in."
      }
     },
     {
@@ -152,7 +152,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "How is a Bradbury Tesla quoted?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "By model, at the shop. The Cybertruck, Model X and Model 3 use different amounts of film and labor, so a single list price would not be honest. Text the year and model and Nick will send a figure, confirmed at the counter."
+      "text": "By model, at the shop. The Cybertruck, Model X and Model 3 use different amounts of film and labor, so a single list price would not be honest. Text the year and model, and Nick answers with a number you can check at the counter."
      }
     }
    ]

@@ -5,7 +5,7 @@ city: Cudahy
 miles: 10.0
 lead_service: dash camera installation
 title: Dash Camera & Car Alarm Installation, Cudahy | LA Car Alarm
-meta: Dash camera installation, Viper car alarms and GPS trackers for Cudahy drivers at LA Car Alarm by Audio MotorSports in Carson, 10 miles away. Call (213) 429-1092.
+meta: Dash camera installation, Viper car alarms and GPS trackers for Cudahy drivers at LA Car Alarm by Audio MotorSports in Carson, 10 miles. (213) 429-1092.
 ---
 # Dash Camera Installation and Car Alarms for Cudahy
 

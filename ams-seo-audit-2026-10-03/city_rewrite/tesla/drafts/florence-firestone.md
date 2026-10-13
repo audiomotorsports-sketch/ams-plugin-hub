@@ -48,7 +48,7 @@ No. The film is non-metallic, so it does not interfere with the cameras, the pho
 
 ### Can I bring a Tesla and a second car from Florence-Firestone on the same day?
 
-You can, but book them as two appointments so each gets its own time in the bay. A Tesla with the roof and all windows done can fill most of a day. Call and we will line both cars up on a schedule that works, and you can drop them off together.
+You can, but book them as two appointments so each gets its own time in the bay. A Tesla with every window done can fill most of a day. Call and we will line both cars up on a schedule that works, and you can drop them off together.
 
 ### How long will the Model X tint last in the heat around here?
 
@@ -144,7 +144,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "Can I bring a Tesla and a second car from Florence-Firestone on the same day?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "You can, but book them as two appointments so each gets its own time in the bay. A Tesla with the roof and all windows done can fill most of a day. Call and we will line both cars up on a schedule that works, and you can drop them off together."
+      "text": "You can, but book them as two appointments so each gets its own time in the bay. A Tesla with every window done can fill most of a day. Call and we will line both cars up on a schedule that works, and you can drop them off together."
      }
     },
     {

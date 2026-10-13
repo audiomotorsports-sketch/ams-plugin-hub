@@ -17,7 +17,7 @@ El Segundo Tesla owners get ceramic window tint at Tesla Tint LA by Audio MotorS
 
 **Model 3, Model Y, Model S, Model X and Cybertruck.** One-piece rear glass where it curves, frameless doors cut to the seal, extra shaping on the S and X, flat board-cut panes on the truck. Each quoted by model.
 
-**Roof film.** Ceramic film on the glass roof for the heat on the front seats.
+**Camera-safe rear glass.** The rear window is filmed as one piece, with the camera zones masked first so the lens sees through clear glass.
 
 **Windshield strip.** A glare strip along the top edge, stopping above the camera housing.
 
@@ -52,7 +52,7 @@ It is not. The rear camera lives in the trunk or hatch lid, not on the glass, so
 
 ### What shade keeps the fronts legal on a Tesla in California?
 
-Front door glass must pass 70% of visible light. Ceramic film at that shade still rejects most infrared heat, so the fronts get cooler without a dark look. The rear doors, rear window and roof have no shade limit and can go as dark as you prefer.
+Front door glass must pass 70% of visible light. Ceramic film at that shade still rejects most infrared heat, so the fronts get cooler without a dark look. The rear doors and rear window have no shade limit and can go as dark as you prefer.
 
 ## Pricing
 
@@ -153,7 +153,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "What shade keeps the fronts legal on a Tesla in California?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Front door glass must pass 70% of visible light. Ceramic film at that shade still rejects most infrared heat, so the fronts get cooler without a dark look. The rear doors, rear window and roof have no shade limit and can go as dark as you prefer."
+      "text": "Front door glass must pass 70% of visible light. Ceramic film at that shade still rejects most infrared heat, so the fronts get cooler without a dark look. The rear doors and rear window have no shade limit and can go as dark as you prefer."
      }
     }
    ]

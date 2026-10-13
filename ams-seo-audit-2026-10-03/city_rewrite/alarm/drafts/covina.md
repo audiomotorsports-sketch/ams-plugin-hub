@@ -21,7 +21,7 @@ Covina drivers make a 34.8-mile trip to LA Car Alarm by Audio MotorSports, 22025
 
 **Dash camera installation.** Front and rear cameras hardwired for parking mode, cables inside the trim, nothing stuck to the glass with a cord dangling.
 
-Audio MotorSports also handles car window tint, car stereo installation, Apple CarPlay and Android Auto, subwoofer and amplifier installation and Harley bagger audio under the same roof.
+Audio MotorSports also handles car window tint, car stereo installation, Apple CarPlay and Android Auto, subwoofer and amplifier installation and Harley bagger audio in the same bay.
 
 <!-- owner-details-2026-10-07 -->
 Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Covina customers tell us makes the drop-off painless. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. From Covina you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
@@ -52,7 +52,7 @@ The camera itself sets the price, so it is quoted on the vehicle at the shop. Th
 
 ## Prices as of October 2026
 
-Viper 3108V alarm $269 installed. Compustar 9910 remote start from $499. GPS trackers, dash cameras and bypass modules are quoted on the vehicle at the shop. Payment plan available, ask Nick.
+Viper 3108V alarm $269 installed. Compustar 9910 remote start from $499. Trackers, cameras and bypass modules are priced per vehicle once Nick sees the car. Payment plan available, ask Nick.
 
 ## Nearby cities we also serve
 

@@ -33,7 +33,7 @@ Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a w
 
 ### Is Tesla window tint worth the drive from San Pedro?
 
-Yes. A Tesla cabin is mostly glass, including the roof, and ceramic film cuts the heat that comes through it without a dark, mirrored look. The trip from San Pedro to the Carson shop is about 6.5 miles, so you spend more time charging than driving. Most owners are in and out the same day.
+Yes. A Tesla cabin is mostly glass, and ceramic film on the side and rear windows cuts the heat without a dark, mirrored look; the roof is factory dark. The trip from San Pedro to the Carson shop is about 6.5 miles, so you spend more time charging than driving. Most owners are in and out the same day.
 
 ### Can you tint the rear window of a Model 3 in one piece?
 
@@ -111,7 +111,7 @@ Call (213) 429-1092, or text the model and year to (213) 429-1092 for a slot. Au
      "name": "Is Tesla window tint worth the drive from San Pedro?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. A Tesla cabin is mostly glass, including the roof, and ceramic film cuts the heat that comes through it without a dark, mirrored look. The trip from San Pedro to the Carson shop is about 6.5 miles, so you spend more time charging than driving. Most owners are in and out the same day."
+      "text": "Yes. A Tesla cabin is mostly glass, and ceramic film on the side and rear windows cuts the heat without a dark, mirrored look; the roof is factory dark. The trip from San Pedro to the Carson shop is about 6.5 miles, so you spend more time charging than driving. Most owners are in and out the same day."
      }
     },
     {

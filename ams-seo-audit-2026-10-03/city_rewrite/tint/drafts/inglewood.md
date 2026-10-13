@@ -15,7 +15,7 @@ Inglewood businesses and commuters use LA Car Tint at Audio MotorSports, 22025 S
 
 - **Fleet and work vehicle tint** — Vans and service trucks get matching shades across the fleet, quoted per vehicle. Tinted cargo glass keeps tools out of sight and the load area cooler.
 - **Ceramic window tint** — For a car that is on the road all day, ceramic film rejects infrared heat so the driver is not fighting the sun for eight hours. Same install, better comfort.
-- **Tesla window tint** — Hand-fitted rear glass on Model 3 and Model Y, with the roof quoted separately.
+- **Tesla window tint** — Hand-fitted rear glass on Model 3 and Model Y, while the roof glass stays factory-dark.
 
 ## The run from Inglewood
 

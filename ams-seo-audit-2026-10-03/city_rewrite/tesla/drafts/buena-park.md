@@ -5,7 +5,7 @@ miles: 15.4
 lead_service: Tesla window tint (Model S)
 source: hub-mounted copy; standalone www host not verified
 title: Buena Park Model S Window Tint | Tesla Tint LA
-meta: Tesla window tint for Buena Park owners, Model S first: ceramic film shaped by hand at Audio MotorSports in Carson, 15.4 miles from Buena Park. Call (213) 429-1092 to book by model.
+meta: Tesla window tint for Buena Park owners, Model S first: ceramic film shaped by hand at Audio MotorSports in Carson, 15.4 miles away. Call (213) 429-1092.
 ---
 # Tesla Window Tint for Buena Park, Model S Leading
 
@@ -79,7 +79,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-buena-park/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-buena-park/",
    "name": "Buena Park Model S Window Tint | Tesla Tint LA",
-   "description": "Tesla window tint for Buena Park owners, Model S first: ceramic film shaped by hand at Audio MotorSports in Carson, 15.4 miles from Buena Park. Call (213) 429-1092 to book by model.",
+   "description": "Tesla window tint for Buena Park owners, Model S first: ceramic film shaped by hand at Audio MotorSports in Carson, 15.4 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

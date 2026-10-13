@@ -38,7 +38,7 @@ If you would rather wait inside than make two trips from Studio City, the shop h
 
 ### Should a Studio City owner tint a new Tesla right away?
 
-Yes, if the plan is to tint at all. New factory glass needs no stripping, and the earlier the film goes on, the earlier the cabin stops heating up under the glass roof. Call (213) 429-1092 with the delivery week and a slot can be set for just after pickup.
+Yes, if the plan is to tint at all. New factory glass needs no stripping, and the earlier the film goes on, the earlier the cabin stops heating up through the doors and rear glass. Call (213) 429-1092 with the delivery week and a slot can be set for just after pickup.
 
 ### Is the drive from Studio City too long for Tesla tint?
 
@@ -122,7 +122,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "Should a Studio City owner tint a new Tesla right away?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes, if the plan is to tint at all. New factory glass needs no stripping, and the earlier the film goes on, the earlier the cabin stops heating up under the glass roof. Call (213) 429-1092 with the delivery week and a slot can be set for just after pickup."
+      "text": "Yes, if the plan is to tint at all. New factory glass needs no stripping, and the earlier the film goes on, the earlier the cabin stops heating up through the doors and rear glass. Call (213) 429-1092 with the delivery week and a slot can be set for just after pickup."
      }
     },
     {

@@ -4,7 +4,7 @@ city: Manhattan Beach
 miles: 9.3
 lead_service: dash camera installation
 title: Dash Camera Installation for Manhattan Beach | LA Car Alarm
-meta: Dash camera installation for Manhattan Beach drivers at LA Car Alarm by Audio MotorSports, Carson, 9.3 miles out. Alarms, remote start, GPS. Call (213) 429-1092.
+meta: Dash camera installation for Manhattan Beach drivers at LA Car Alarm by Audio MotorSports, Carson, 9.3 miles. Alarms, remote start, GPS. (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Dash Camera Installation for Manhattan Beach Drivers

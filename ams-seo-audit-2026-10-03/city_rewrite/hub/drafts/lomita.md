@@ -8,7 +8,7 @@ meta: Tesla window tint, ceramic tint, car audio and alarms for Lomita drivers a
 ---
 # Tesla Window Tint and Car Audio for Lomita Drivers
 
-Audio MotorSports tints Teslas, installs car stereos and fits alarms for Lomita owners from one bay in Carson at 22025 S Avalon Blvd Ste A, about 3.7 miles from Lomita. Tesla window tint is the job Lomita drivers ask about most, and the glass roof, the big rear hatch and the camera housings all get handled in the same visit.
+Audio MotorSports tints Teslas, installs car stereos and fits alarms for Lomita owners from one bay in Carson at 22025 S Avalon Blvd Ste A, about 3.7 miles from Lomita. Tesla window tint is the job Lomita drivers ask about most, and the big rear hatch, the door glass and the camera housings all get handled in the same visit.
 
 ## What Lomita drivers bring us
 

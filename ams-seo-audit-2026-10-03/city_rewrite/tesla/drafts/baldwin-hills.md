@@ -2,22 +2,22 @@
 url: https://www.audiomotorsports.com/tesla/tesla-tint-baldwin-hills/
 city: Baldwin Hills
 miles: 13.3
-lead_service: Tesla window tint (glass roof heat)
+lead_service: Tesla window tint (cabin heat through side and rear glass)
 source: hub-mounted copy; standalone www host not verified
-title: Tesla Tint for Baldwin Hills Heat | Tesla Tint LA
-meta: Tesla window tint for Baldwin Hills owners fighting glass-roof heat: ceramic film installed at Audio MotorSports in Carson, 13.3 miles away. Call (213) 429-1092 or text (213) 429-1092.
+title: Baldwin Hills Tesla Tint for Cabin Heat | Tesla Tint LA
+meta: Baldwin Hills Tesla window tint to cut cabin heat through the side and rear glass: ceramic film at Audio MotorSports in Carson. Call (213) 429-1092.
 ---
-# Tesla Window Tint for Baldwin Hills: Beating the Glass Roof Heat
+# Tesla Window Tint for Baldwin Hills: Cutting Cabin Heat Through the Doors and Rear Glass
 
-A Tesla cabin under a glass roof heats up fast, and Baldwin Hills owners drive about 13.3 miles to Tesla Tint LA by Audio MotorSports in Carson, 22025 S Avalon Blvd Ste A, to fix it with ceramic window tint. We tint the Model 3, Y, S and X, leave cameras and sensors clear, and quote each one by model at the shop.
+Baldwin Hills owners whose Tesla cabin is baking by mid-afternoon drive about 13.3 miles to Tesla Tint LA by Audio MotorSports in Carson, 22025 S Avalon Blvd Ste A. The factory roof glass is already dark, so the door windows and the one-piece rear glass are where ceramic film goes, with cameras left clear and each model quoted at the shop.
 
 ## What Baldwin Hills Tesla owners book
 
-**Ceramic tint for heat.** Ceramic film is chosen for infrared rejection, not just shade. On a Tesla with a glass roof, the doors and rear glass are where the heat comes in sideways, and that is the first place we put film.
+**Ceramic tint for heat.** Ceramic film is chosen for infrared rejection, not just shade. Sun comes in sideways through the door glass and straight through the big rear window, so those panes get the film first.
 
 **Model Y and Model 3.** Most of the Teslas in the bay. Frameless door glass cut to the gasket, one-piece rear window shaped on a board, no light line at the edge.
 
-**Model S and Model X.** Longer and taller glass respectively. Both take more shaping and more film, and both are quoted by model so there is no guessing.
+**Model S and Model X.** The S has the longer doors and the X the taller glass. Both take more shaping and more film, so each is quoted by model and there is no guessing.
 
 **Camera windows kept open.** The camera zones are masked off before film goes on. The ceramic film has no metal, so nothing about the car's electronics changes.
 
@@ -34,13 +34,13 @@ Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a w
 
 ## Baldwin Hills Tesla tint, answered
 
-### Does window tint actually help with Tesla glass roof heat?
+### Will film on the side and rear glass cool down my Tesla?
 
-Film on the doors and rear window cuts a large share of the infrared heat entering the cabin, which is most of what you feel on a hot afternoon. The roof panel itself can be filmed as well and is quoted separately. Ceramic film does this without going dark.
+Yes. Ceramic film on the four doors and the rear window rejects a large share of the infrared heat that makes a parked Tesla uncomfortable, and it does that without going dark. The factory roof glass is already dark, so the side and rear glass are where film makes the difference you feel.
 
-### Can I tint the glass roof on my Model Y or Model 3?
+### Which Tesla windows get film at the shop?
 
-Yes. The roof is a large curved panel that takes more film and more shaping than a door, so it is its own line on the quote. Many owners do the doors and rear glass first and add the roof later; either order works.
+The door windows and the one-piece rear glass, cut to the gasket and heat-shaped on a board where the curve runs. The factory roof glass is already dark and stays as it came. Camera zones are masked and left clear, so nothing about the car's electronics changes.
 
 ### How far is Baldwin Hills from the Tesla tint shop?
 
@@ -56,7 +56,7 @@ No. Camera windows on the glass are masked and left clear, and there is no metal
 
 ## Pricing
 
-Tesla tint is quoted by model at the shop, roof panel on its own line; text the year and model to get the figure. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
+Each Tesla is quoted by model at the shop; send the year and model by text for your figure. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint close to Baldwin Hills
 
@@ -77,8 +77,8 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@type": "WebPage",
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-baldwin-hills/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-baldwin-hills/",
-   "name": "Tesla Tint for Baldwin Hills Heat | Tesla Tint LA",
-   "description": "Tesla window tint for Baldwin Hills owners fighting glass-roof heat: ceramic film installed at Audio MotorSports in Carson, 13.3 miles away. Call (213) 429-1092 or text (213) 429-1092.",
+   "name": "Baldwin Hills Tesla Tint for Cabin Heat | Tesla Tint LA",
+   "description": "Baldwin Hills Tesla window tint to cut cabin heat through the side and rear glass: ceramic film at Audio MotorSports in Carson. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -117,18 +117,18 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "mainEntity": [
     {
      "@type": "Question",
-     "name": "Does window tint actually help with Tesla glass roof heat?",
+     "name": "Will film on the side and rear glass cool down my Tesla?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Film on the doors and rear window cuts a large share of the infrared heat entering the cabin, which is most of what you feel on a hot afternoon. The roof panel itself can be filmed as well and is quoted separately. Ceramic film does this without going dark."
+      "text": "Yes. Ceramic film on the four doors and the rear window rejects a large share of the infrared heat that makes a parked Tesla uncomfortable, and it does that without going dark. The factory roof glass is already dark, so the side and rear glass are where film makes the difference you feel."
      }
     },
     {
      "@type": "Question",
-     "name": "Can I tint the glass roof on my Model Y or Model 3?",
+     "name": "Which Tesla windows get film at the shop?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. The roof is a large curved panel that takes more film and more shaping than a door, so it is its own line on the quote. Many owners do the doors and rear glass first and add the roof later; either order works."
+      "text": "The door windows and the one-piece rear glass, cut to the gasket and heat-shaped on a board where the curve runs. The factory roof glass is already dark and stays as it came. Camera zones are masked and left clear, so nothing about the car's electronics changes."
      }
     },
     {

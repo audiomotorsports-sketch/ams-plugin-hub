@@ -5,7 +5,7 @@ miles: 20.2
 lead_service: Tesla window tint (Model X)
 source: hub-mounted copy; standalone www host not verified
 title: Brentwood Model X Window Tint | Tesla Tint LA
-meta: Model X and Tesla window tint for Brentwood owners: ceramic film, cameras left clear, installed at Audio MotorSports in Carson, 20.2 miles away. Call (213) 429-1092 or text (213) 429-1092.
+meta: Model X and Tesla window tint for Brentwood owners: ceramic film, cameras left clear, at Audio MotorSports in Carson, 20.2 miles away. Call (213) 429-1092.
 ---
 # Model X Window Tint for Brentwood Tesla Owners
 
@@ -44,11 +44,11 @@ About 20.2 miles, 40 to 48 minutes outside rush hour (approx). The address is 22
 
 ### Will tint affect the Model X cameras or the key fob?
 
-No. The camera zones on the glass are masked before any film is applied and left clear, and the ceramic film carries no metal, so signals pass through. Cameras, sensors and the phone key work as they did when you arrived.
+No. The camera zones on the glass are masked before any film is applied and left clear, and the ceramic film carries no metal, so signals pass through. Cameras, sensors and the phone key keep working the way they did when the car rolled in.
 
 ### Can the Model X front windows be tinted legally?
 
-Yes, at California 70% VLT. Ceramic film at that shade still rejects a large share of infrared heat, which matters on a car with this much glass. Rear doors and the back window can go darker.
+Yes, at California 70% VLT. At that shade ceramic film still rejects a large share of infrared heat, which counts on a car with this much glass. Behind the front doors the glass can go darker.
 
 ### Why is the Model X quoted at the shop instead of listed?
 
@@ -78,7 +78,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-brentwood/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-brentwood/",
    "name": "Brentwood Model X Window Tint | Tesla Tint LA",
-   "description": "Model X and Tesla window tint for Brentwood owners: ceramic film, cameras left clear, installed at Audio MotorSports in Carson, 20.2 miles away. Call (213) 429-1092 or text (213) 429-1092.",
+   "description": "Model X and Tesla window tint for Brentwood owners: ceramic film, cameras left clear, at Audio MotorSports in Carson, 20.2 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -136,7 +136,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "Will tint affect the Model X cameras or the key fob?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "No. The camera zones on the glass are masked before any film is applied and left clear, and the ceramic film carries no metal, so signals pass through. Cameras, sensors and the phone key work as they did when you arrived."
+      "text": "No. The camera zones on the glass are masked before any film is applied and left clear, and the ceramic film carries no metal, so signals pass through. Cameras, sensors and the phone key keep working the way they did when the car rolled in."
      }
     },
     {
@@ -144,7 +144,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "Can the Model X front windows be tinted legally?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes, at California 70% VLT. Ceramic film at that shade still rejects a large share of infrared heat, which matters on a car with this much glass. Rear doors and the back window can go darker."
+      "text": "Yes, at California 70% VLT. At that shade ceramic film still rejects a large share of infrared heat, which counts on a car with this much glass. Behind the front doors the glass can go darker."
      }
     },
     {

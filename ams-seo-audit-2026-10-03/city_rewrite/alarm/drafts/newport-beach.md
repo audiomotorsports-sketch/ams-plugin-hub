@@ -44,7 +44,7 @@ We pull up the app on your phone in the lot, watch it locate the car, and walk t
 
 ### What do a Viper alarm and Compustar remote start cost installed?
 
-The Viper 3108V is $269 installed and the Compustar 9910 starts from $499, as of October 2026. Tracker hardware and its service plan are quoted on the vehicle once Nick knows the year, make and model. Payment plan available, ask Nick.
+The Viper 3108V is $269 installed and the Compustar 9910 starts from $499, as of October 2026. Pricing for the tracker and its plan comes once Nick knows what the car is. Payment plan available, ask Nick.
 
 ### Why drive from Newport Beach rather than use the nearest installer?
 
@@ -140,7 +140,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the vehicle details. Audio Motor
      "name": "What do a Viper alarm and Compustar remote start cost installed?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "The Viper 3108V is $269 installed and the Compustar 9910 starts from $499, as of October 2026. Tracker hardware and its service plan are quoted on the vehicle once Nick knows the year, make and model. Payment plan available, ask Nick."
+      "text": "The Viper 3108V is $269 installed and the Compustar 9910 starts from $499, as of October 2026. Pricing for the tracker and its plan comes once Nick knows what the car is. Payment plan available, ask Nick."
      }
     },
     {

@@ -50,7 +50,7 @@ Plan on a good part of the day for a minivan or large SUV, because there is more
 
 ## Westminster tint prices
 
-Solar four-door window tint is $249 installed and Solar Ceramic four-door is $329 installed, as of October 2026, covering four doors plus the rear window. Minivans, three-row SUVs, trucks, windshield strips and Tesla roof glass are quoted in the store. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews) are the current standings as of October 2026.
+Solar four-door window tint is $249 installed and Solar Ceramic four-door is $329 installed, as of October 2026, covering four doors plus the rear window. Minivans, three-row SUVs, trucks and windshield strips are quoted in the store. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews) are the current standings as of October 2026.
 
 ## Tint near Westminster
 

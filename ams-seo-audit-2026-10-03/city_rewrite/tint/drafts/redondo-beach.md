@@ -50,7 +50,7 @@ Give it a few days. The film needs time to cure to the glass, and rolling the wi
 
 ## Tint pricing for Redondo Beach customers
 
-Four-door Solar: $249 installed. Four-door Solar Ceramic: $329 installed. Both prices are as of October 2026 and include four doors plus the back glass. Coupes, convertibles, SUVs, Tesla roof glass and windshield strips are quoted at the shop. Payment plan available, ask Nick. As of October 2026 we hold Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews).
+Four-door Solar: $249 installed. Four-door Solar Ceramic: $329 installed. Both prices are as of October 2026 and include four doors plus the back glass. Coupes, convertibles, SUVs and windshield strips are quoted at the shop. Payment plan available, ask Nick. As of October 2026 we hold Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews).
 
 ## Tint pages for nearby beach cities
 

@@ -19,7 +19,7 @@ Three rows of kids and a wall of rear glass is the Artesia vehicle we see most. 
 
 **Solar film on the sedan.** The commuter car gets Solar at $249 installed as of October 2026, four doors plus rear glass, for privacy and UV protection.
 
-**Tesla window tint.** Model Y families from Artesia get the big one-piece rear window fitted as a single panel. The roof is a conversation at booking.
+**Tesla window tint.** Model Y families from Artesia get the big one-piece rear window fitted as a single panel. The stock roof glass is dark already, so the film goes on the sides and back.
 
 ## Artesia to Carson, with the kids or without
 

@@ -2,18 +2,18 @@
 url: https://www.audiomotorsports.com/tesla/tesla-tint-san-pedro/
 city: San Pedro
 miles: 6.5
-lead_service: Tesla window tint (glass roof heat)
+lead_service: Tesla window tint (cabin heat through the glass)
 source: hub-mounted copy; standalone www host not verified
-title: Tesla Glass Roof Heat Tint, San Pedro | Tesla Tint LA
-meta: San Pedro Tesla owners beat glass-roof heat with ceramic window tint at Audio MotorSports in Carson, 6.5 miles up the road. Call (213) 429-1092.
+title: San Pedro Tesla Window Tint for Cabin Heat | Tesla Tint LA
+meta: San Pedro Tesla owners cut cabin heat with ceramic window tint on side and rear glass at Audio MotorSports in Carson, 6.5 miles. Call (213) 429-1092.
 ---
-# Tesla Window Tint for San Pedro: Taming the Glass Roof
+# Tesla Window Tint for San Pedro: Cooling the Doors and Rear Glass
 
 San Pedro Teslas run about 6.5 miles to Tesla Tint LA by Audio MotorSports, Carson, at 22025 S Avalon Blvd Ste A, mostly to deal with heat coming through all that glass. Ceramic window tint on the doors and rear glass of a Model 3, Y, S or X cuts the greenhouse effect, keeps cameras clear, and is quoted by model at the shop.
 
 ## Why San Pedro owners make the trip
 
-**Heat through the glass roof.** A Tesla cabin heats up fast when the car sits in the sun near the port. Ceramic film on the side and rear glass rejects infrared heat so the climate system is not fighting the sun all afternoon.
+**Heat through the doors and back glass.** A Tesla cabin heats up fast when the car sits in the sun near the port. Ceramic film on the side and rear glass rejects infrared heat so the climate system is not fighting the sun all afternoon.
 
 **One-piece rear glass.** The Model 3 and Model Y back window is a single large curved panel. It is tinted in one piece, shaped with heat on a board, so there is no seam and no light gap at the edges.
 
@@ -38,7 +38,7 @@ Waiting inside is easy for San Pedro customers: there is seating, Netflix on the
 
 For a Tesla, yes. The glass is curved, the rear window has electronics close by, and the cameras cannot be covered. A shop that handles Teslas constantly, about 13 to 16 minutes (approx) from San Pedro, gets all of that right the first time.
 
-### How much does ceramic tint actually help with Tesla glass-roof heat?
+### How much does ceramic tint actually help with Tesla cabin heat?
 
 A lot, but be clear about what it covers. The glass roof itself is already tinted from the factory; the side and rear glass are not. Ceramic film on those panels rejects a large share of infrared heat, so the cabin stays cooler and the air conditioning works less.
 
@@ -78,8 +78,8 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@type": "WebPage",
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-san-pedro/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-san-pedro/",
-   "name": "Tesla Glass Roof Heat Tint, San Pedro | Tesla Tint LA",
-   "description": "San Pedro Tesla owners beat glass-roof heat with ceramic window tint at Audio MotorSports in Carson, 6.5 miles up the road. Call (213) 429-1092.",
+   "name": "San Pedro Tesla Window Tint for Cabin Heat | Tesla Tint LA",
+   "description": "San Pedro Tesla owners cut cabin heat with ceramic window tint on side and rear glass at Audio MotorSports in Carson, 6.5 miles. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -126,7 +126,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
     },
     {
      "@type": "Question",
-     "name": "How much does ceramic tint actually help with Tesla glass-roof heat?",
+     "name": "How much does ceramic tint actually help with Tesla cabin heat?",
      "acceptedAnswer": {
       "@type": "Answer",
       "text": "A lot, but be clear about what it covers. The glass roof itself is already tinted from the factory; the side and rear glass are not. Ceramic film on those panels rejects a large share of infrared heat, so the cabin stays cooler and the air conditioning works less."

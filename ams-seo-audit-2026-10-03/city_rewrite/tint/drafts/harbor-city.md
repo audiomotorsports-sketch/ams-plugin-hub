@@ -46,11 +46,11 @@ California keeps front side windows mostly clear, so the darker shades go on the
 
 ### Do you tint Tesla glass for Harbor City owners?
 
-We do. Tesla window tint is a regular job here: Model 3, Model Y, Model S and Model X. The big rear window is done in one piece, roof glass is quoted in the store once we see the car, and the front side shades stay within what California allows. Ask Nick for a Tesla slot.
+We do. Tesla window tint is a regular job here: Model 3, Model Y, Model S and Model X. The big rear window is done in one piece, the factory roof glass is already dark so film goes on the side and rear glass, and the front side shades stay within what California allows. Ask Nick for a Tesla slot.
 
 ## Window tint prices for Harbor City
 
-Four-door Solar window tint is $249 installed and Solar Ceramic is $329 installed, as of October 2026. Both cover the four doors and the back window. Windshield strips, trucks, SUVs, Tesla roof glass and fleet work are quoted in person at the shop. Payment plan available, ask Nick. Reviews, as of October 2026: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews).
+Four-door Solar window tint is $249 installed and Solar Ceramic is $329 installed, as of October 2026. Both cover the four doors and the back window. Windshield strips, trucks, SUVs and fleet work are quoted in person at the shop. Payment plan available, ask Nick. Reviews, as of October 2026: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews).
 
 ## Window tint near Harbor City
 
@@ -141,7 +141,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio 
      "name": "Do you tint Tesla glass for Harbor City owners?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "We do. Tesla window tint is a regular job here: Model 3, Model Y, Model S and Model X. The big rear window is done in one piece, roof glass is quoted in the store once we see the car, and the front side shades stay within what California allows. Ask Nick for a Tesla slot."
+      "text": "We do. Tesla window tint is a regular job here: Model 3, Model Y, Model S and Model X. The big rear window is done in one piece, the factory roof glass is already dark so film goes on the side and rear glass, and the front side shades stay within what California allows. Ask Nick for a Tesla slot."
      }
     }
    ]

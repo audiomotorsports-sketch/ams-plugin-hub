@@ -19,7 +19,7 @@ Work trucks and vans from Paramount spend the day parked on job sites in full su
 
 **Solar window tinting on the family car.** The straightforward choice for a sedan or crossover: cooler, more private, UV cut, and $249 installed as of October 2026.
 
-**Tesla window tint.** Tesla owners from Paramount get the one-piece rear glass fitted as a single panel; the roof is discussed when you book.
+**Tesla window tint.** Tesla owners from Paramount get the one-piece rear glass fitted as a single panel; the roof glass is already dark.
 
 ## Paramount to the bay in Carson
 

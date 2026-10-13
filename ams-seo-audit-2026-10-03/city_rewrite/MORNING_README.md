@@ -25,3 +25,6 @@ Nothing has been published. Every file here is a draft for Zack and Tom to revie
 
 ## Overnight note
 The first run was cut off at about 2:40am by a session usage limit; the morning repair pass finished the hub. Expect the same pause if the limit trips again; work resumes where it stopped, nothing is lost.
+
+## Final status (2026-10-13)
+All six sets complete and gated: hub 158, tint 109, beats 109, amspods 60, alarm 145, tesla 124 (FAIL=0, no reused sentences). Each has REVIEW_INDEX.csv and PUBLISH_GUIDE.md. Also drafted: carson_article/, lacarstereo/LOCATIONS_PAGE_DRAFT.md, ../hub_deep_dive/HUB_MAIN_PAGE_DRAFTS.md, ../llms_txt/. See ../HANDOFF.md.

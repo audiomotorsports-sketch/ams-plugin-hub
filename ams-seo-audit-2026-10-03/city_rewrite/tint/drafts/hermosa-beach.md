@@ -13,7 +13,7 @@ Hermosa Beach has a lot of Teslas and a lot of sun, and LA Car Tint by Audio Mot
 
 ## What Hermosa Beach drivers bring us
 
-- **Tesla window tint.** Model 3, Model Y, Model S and Model X. The one-piece rear window is the test of any tinter; we heat-form it as a single sheet so there is no seam in your mirror. Roof glass is quoted in person.
+- **Tesla window tint.** Model 3, Model Y, Model S and Model X. The one-piece rear window is the test of any tinter; we heat-form it as a single sheet so there is no seam in your mirror. The factory roof glass is already dark.
 - **Ceramic window tint on everything else.** Solar Ceramic is the pick for a car parked near the sand all weekend: it stops heat without having to go darker than the law allows on the fronts.
 - **Car window tint on daily drivers.** Hand-cut on the glass, tucked to the gasket, cured before you leave. Film that is cut right does not peel at the top edge when the window drops.
 - **Jeeps and convertibles.** Removable tops and frameless doors get the same patient edge work, which is where cheaper jobs fail first.
@@ -38,7 +38,7 @@ Because the installation is what you are buying. Tesla glass is big, curved and 
 
 ### Will tint interfere with Tesla cameras or sensors?
 
-No. Window film goes on the side and rear glass, not over the camera housings, and it does not affect the car's cameras, radar or key detection. If you want the windshield strip or roof glass done, we look at the car first and quote that separately at the shop.
+No. Window film goes on the side and rear glass, not over the camera housings, and it does not affect the car's cameras, radar or key detection. If you want the windshield strip done, we look at the car first and quote that at the shop. The roof glass is already dark.
 
 ### Which film is best for a car that sits at the beach all day?
 
@@ -50,7 +50,7 @@ California keeps the front side windows mostly clear, and we stay within that li
 
 ## Tint prices for Hermosa Beach
 
-Four-door Solar is $249 installed and four-door Solar Ceramic is $329 installed, as of October 2026, each covering four doors and the rear window. Tesla roof glass, windshield strips, SUVs and trucks are quoted at the shop once we see the vehicle, and there is no separate Tesla model pricing listed here. Payment plan available, ask Nick. Reputation as of October 2026: Google 4.8 (654 reviews), Yelp 4.7 (777 reviews).
+Four-door Solar is $249 installed and four-door Solar Ceramic is $329 installed, as of October 2026, each covering four doors and the rear window. Windshield strips, SUVs and trucks are quoted at the shop once we see the vehicle, and there is no separate Tesla model pricing listed here. Payment plan available, ask Nick. Reputation as of October 2026: Google 4.8 (654 reviews), Yelp 4.7 (777 reviews).
 
 ## Tint near Hermosa Beach
 
@@ -121,7 +121,7 @@ Call (213) 429-1092 or text (213) 429-1092 with your model and year. We are at 2
      "name": "Will tint interfere with Tesla cameras or sensors?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "No. Window film goes on the side and rear glass, not over the camera housings, and it does not affect the car's cameras, radar or key detection. If you want the windshield strip or roof glass done, we look at the car first and quote that separately at the shop."
+      "text": "No. Window film goes on the side and rear glass, not over the camera housings, and it does not affect the car's cameras, radar or key detection. If you want the windshield strip done, we look at the car first and quote that at the shop. The roof glass is already dark."
      }
     },
     {

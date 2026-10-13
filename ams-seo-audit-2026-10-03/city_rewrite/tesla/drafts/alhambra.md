@@ -5,7 +5,7 @@ miles: 19.9
 lead_service: Tesla window tint (Model 3)
 source: hub-mounted copy; standalone www host not verified
 title: Alhambra Model 3 Window Tint | Tesla Tint LA
-meta: Model 3 and Tesla window tint for Alhambra drivers: ceramic film hand-cut on a board at Audio MotorSports in Carson, 19.9 miles from Alhambra. Call (213) 429-1092 to book by model.
+meta: Model 3 and Tesla window tint for Alhambra drivers: ceramic film hand-cut at Audio MotorSports in Carson, 19.9 miles away. Call (213) 429-1092 to book.
 ---
 # Model 3 Window Tint for Alhambra Tesla Drivers
 
@@ -15,7 +15,7 @@ The Model 3 is the Tesla Alhambra sends us most, and it leads this page. Tesla T
 
 **Model 3 ceramic tint.** Frameless door glass that drops when the door opens means the film edge has to be cut to the gasket by hand. The one-piece rear window is shaped with heat on a board before it goes on.
 
-**Model Y.** Bigger rear glass and a larger roof than the 3; same film, same edge, roof quoted on its own if you want it.
+**Model Y.** A taller hatch and more rear glass than the 3; the same film and the same edge, with the factory roof glass left alone because it is already dark.
 
 **Model S and Model X.** The longest and the tallest Tesla glass. Both take more shaping time and more film, and both are quoted by model.
 
@@ -78,7 +78,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-alhambra/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-alhambra/",
    "name": "Alhambra Model 3 Window Tint | Tesla Tint LA",
-   "description": "Model 3 and Tesla window tint for Alhambra drivers: ceramic film hand-cut on a board at Audio MotorSports in Carson, 19.9 miles from Alhambra. Call (213) 429-1092 to book by model.",
+   "description": "Model 3 and Tesla window tint for Alhambra drivers: ceramic film hand-cut at Audio MotorSports in Carson, 19.9 miles away. Call (213) 429-1092 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

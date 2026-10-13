@@ -13,7 +13,7 @@ Palos Verdes Estates owners bring Teslas and large SUVs to LA Car Tint for ceram
 
 ## What Palos Verdes Estates drivers bring us
 
-- **Tesla window tint.** The rear window on a Model 3 or Model Y is one tall curved sheet, so the film has to be heat-shrunk to the curve and laid as a single piece. Front doors stay at the legal light shade; the glass roof is tinted when the owner asks for it.
+- **Tesla window tint.** The rear window on a Model 3 or Model Y is one tall curved sheet, so the film has to be heat-shrunk to the curve and laid as a single piece. Front doors stay at the legal light shade; the glass roof is already dark from the factory.
 - **Ceramic window tint on SUVs and minivans.** Third-row glass and a big liftgate window take in a lot of sun. Solar Ceramic on the rear half keeps the cabin cooler, and each panel is fitted to its own window with no seams.
 - **Car window tint on luxury sedans.** Frameless doors and tight seals need the film trimmed precisely so the window still rolls up clean.
 - **Car alarm installation and GPS tracker installation.** Wired into the factory harness without drilling, hidden so they cannot be found and pulled in a minute.
@@ -33,9 +33,9 @@ You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and 
 
 Just mention the model when you book. Tesla window tint takes a bit longer because the rear glass is one large curved piece and the front doors are frameless, so we set aside the time. Model 3, Model Y, Model S and Model X are all regular work here.
 
-### Can ceramic window tint go on a full-size SUV with a glass roof?
+### Can ceramic window tint go on a full-size SUV with lots of glass?
 
-Yes. Rear doors, quarter glass and the liftgate window get Solar Ceramic cut to each panel, and a panoramic roof can be tinted on request. Ceramic film is the right pick for an SUV because the large glass area turns a dyed film's heat leak into a hot third row.
+Yes. Rear doors, quarter glass and the liftgate window get Solar Ceramic cut to each panel, and a panoramic roof needs no film because it is already dark. Ceramic film is the right pick for an SUV because the large glass area turns a dyed film's heat leak into a hot third row.
 
 ### How dark can the front windows be on a Tesla in California?
 
@@ -47,11 +47,11 @@ Because the install is the product. Film hand-cut on the glass, fitted by people
 
 ### Will window tint interfere with Tesla cameras or the glass roof sensors?
 
-No. Tesla cameras look through untinted areas of the windshield and body, not the side or rear film. Roof glass is only tinted when requested, and the film on the rear window is laid around the defroster lines without touching anything electrical.
+No. Tesla cameras look through untinted areas of the windshield and body, not the side or rear film. The roof glass is already dark from the factory, and the film on the rear window is laid around the defroster lines without touching anything electrical.
 
 ## Prices, as of October 2026
 
-Solar car window tint is $249 installed; Solar Ceramic is $329 installed; both as of October 2026. Tesla models, panoramic roofs and full-size SUVs are quoted at the shop after we see the glass. Ask Nick about a payment plan.
+Solar car window tint is $249 installed; Solar Ceramic is $329 installed; both as of October 2026. Tesla models and full-size SUVs are quoted at the shop after we see the glass. Ask Nick about a payment plan.
 
 ## Nearby cities we also serve
 
@@ -119,10 +119,10 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports at 22025 S Avalon Bl
     },
     {
      "@type": "Question",
-     "name": "Can ceramic window tint go on a full-size SUV with a glass roof?",
+     "name": "Can ceramic window tint go on a full-size SUV with lots of glass?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. Rear doors, quarter glass and the liftgate window get Solar Ceramic cut to each panel, and a panoramic roof can be tinted on request. Ceramic film is the right pick for an SUV because the large glass area turns a dyed film's heat leak into a hot third row."
+      "text": "Yes. Rear doors, quarter glass and the liftgate window get Solar Ceramic cut to each panel, and a panoramic roof needs no film because it is already dark. Ceramic film is the right pick for an SUV because the large glass area turns a dyed film's heat leak into a hot third row."
      }
     },
     {
@@ -146,7 +146,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports at 22025 S Avalon Bl
      "name": "Will window tint interfere with Tesla cameras or the glass roof sensors?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "No. Tesla cameras look through untinted areas of the windshield and body, not the side or rear film. Roof glass is only tinted when requested, and the film on the rear window is laid around the defroster lines without touching anything electrical."
+      "text": "No. Tesla cameras look through untinted areas of the windshield and body, not the side or rear film. The roof glass is already dark from the factory, and the film on the rear window is laid around the defroster lines without touching anything electrical."
      }
     }
    ]
@@ -157,4 +157,4 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports at 22025 S Avalon Bl
 
 [CONFIRM] SHOP NOTE slot: Nick to add 2-3 sentences about Palos Verdes Estates customers, routes or jobs.
 [CONFIRM] Drive time "eighteen minutes (approx)" computed from 8.0 miles at 25-30 mph; shop to verify.
-[CONFIRM] Panoramic/glass roof tint on request: confirm the shop offers roof glass tinting.
+[CONFIRM] Roof glass is not filmed; confirm wording.

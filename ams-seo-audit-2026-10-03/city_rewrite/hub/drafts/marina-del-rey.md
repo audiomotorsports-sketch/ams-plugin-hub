@@ -14,7 +14,7 @@ Marina del Rey drivers get car window tint hand-cut on the glass at Audio MotorS
 
 **Car window tint and ceramic window tint.** Window tinting here means each panel is cut and shrunk on your glass, not pre-cut from a pattern, so the edges sit tight and the film does not peel at the corners. Ceramic film cuts cabin heat without a metallic layer that would bother phone or radio signals.
 
-**Tesla window tint.** Single-sheet rear glass on Model 3 and Model Y, plus the roof, with film kept clear of the cameras.
+**Tesla window tint.** Single-sheet rear glass on Model 3 and Model Y, with film kept clear of the cameras and the factory-dark roof left alone.
 
 **Car stereo installation and speaker replacement.** Head unit installation, amplifier installation and subwoofer installation with the wiring run clean, fused at the battery and tuned at the shop.
 

@@ -4,18 +4,18 @@ city: Mar Vista
 miles: 15.4
 lead_service: Tesla window tint (Model Y)
 title: Mar Vista Model Y & Tesla Tint | Tesla Tint LA, Carson
-meta: Model Y ceramic window tint for Mar Vista at Tesla Tint LA by Audio MotorSports in Carson, 15.4 miles away. Roof, rear hatch, all Teslas. Call (213) 429-1092.
+meta: Model Y ceramic window tint for Mar Vista at Tesla Tint LA by Audio MotorSports in Carson, 15.4 miles away. One-piece rear hatch. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Model Y Window Tint for Mar Vista Tesla Owners
 
-Mar Vista has a lot of Model Ys, and the Model Y has a lot of glass. Tesla Tint LA, the Tesla window tint shop at Audio MotorSports, 22025 S Avalon Blvd Ste A in Carson, is about 15.4 miles away and puts ceramic film on the roof, the tall rear hatch, the doors and the fronts of every Y that comes in. Work is quoted by model at the shop.
+Mar Vista has a lot of Model Ys, and the Model Y has a lot of glass. Tesla Tint LA, the Tesla window tint shop at Audio MotorSports, 22025 S Avalon Blvd Ste A in Carson, is about 15.4 miles away and puts ceramic film on the tall rear hatch, the doors and the fronts of every Y that comes in. Work is quoted by model at the shop.
 
 ## What Mar Vista Model Y owners get
 
-**Full Model Y ceramic tint.** The roof panel is filmed for heat, the hatch glass goes on as one shaped sheet, the door glass is cut to the seal and the fronts stay at the California legal shade.
+**Full Model Y ceramic tint.** The hatch glass goes on as one shaped sheet, the door glass is cut to the seal and the fronts stay at the California legal shade; the factory roof glass is already dark and is left as it is.
 
-**A cooler second row.** The Model Y roof runs the length of the cabin, so rear passengers feel the sun too. Ceramic film on the roof cuts that heat without a mirror finish.
+**A cooler second row.** Rear passengers feel the sun through the quarter windows and the hatch. Ceramic film on that glass cuts the heat without a mirror finish.
 
 **Model 3, S, X and Cybertruck.** Each with its own pattern in the same Carson bay, each quoted after Nick sees it.
 
@@ -32,15 +32,15 @@ Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a w
 
 ### What is included in a full Model Y tint?
 
-The roof panel, the one-piece rear hatch glass, the fixed rear quarter windows, the four door windows and the fronts at the legal shade. Each pane is patterned on its own so the coverage is complete and the shades match. You can also choose a partial job, such as roof and rear only.
+The one-piece rear hatch glass, the fixed rear quarter windows, the four door windows and the fronts at the legal shade. Each pane is patterned on its own so the coverage is complete and the shades match. The factory roof glass is already dark, so a partial job can be the rear and quarter glass alone.
 
 ### Is Mar Vista to Carson a sensible trip for Model Y tint?
 
 Yes. It is a little over half an hour, and the Y is in the bay for a few hours. Tesla Tint LA tints Teslas every week and sees owners from more than 100 miles away for the same ceramic install. The drive from Mar Vista is modest for a job you do once.
 
-### Does the roof film make the Model Y cabin noticeably cooler?
+### Does the rear glass tint make the Model Y cabin noticeably cooler?
 
-Yes. No pane on a Model Y is bigger than the roof, and none takes more direct sun. Ceramic film shaped to that panel rejects much of the heat that would land on the seats and the second row, so the cabin cools faster and the climate system works less.
+Yes. The hatch and quarter windows take direct sun on the second row, and the doors catch the rest. Ceramic film shaped to that glass rejects much of the heat that would land on the seats, so the cabin cools faster and the climate system works less.
 
 ### Will the hatch tint interfere with the rear camera or wiper?
 
@@ -107,7 +107,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "What is included in a full Model Y tint?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "The roof panel, the one-piece rear hatch glass, the fixed rear quarter windows, the four door windows and the fronts at the legal shade. Each pane is patterned on its own so the coverage is complete and the shades match. You can also choose a partial job, such as roof and rear only."
+      "text": "The one-piece rear hatch glass, the fixed rear quarter windows, the four door windows and the fronts at the legal shade. Each pane is patterned on its own so the coverage is complete and the shades match. The factory roof glass is already dark, so a partial job can be the rear and quarter glass alone."
      }
     },
     {
@@ -120,10 +120,10 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
     },
     {
      "@type": "Question",
-     "name": "Does the roof film make the Model Y cabin noticeably cooler?",
+     "name": "Does the rear glass tint make the Model Y cabin noticeably cooler?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. No pane on a Model Y is bigger than the roof, and none takes more direct sun. Ceramic film shaped to that panel rejects much of the heat that would land on the seats and the second row, so the cabin cools faster and the climate system works less."
+      "text": "Yes. The hatch and quarter windows take direct sun on the second row, and the doors catch the rest. Ceramic film shaped to that glass rejects much of the heat that would land on the seats, so the cabin cools faster and the climate system works less."
      }
     },
     {

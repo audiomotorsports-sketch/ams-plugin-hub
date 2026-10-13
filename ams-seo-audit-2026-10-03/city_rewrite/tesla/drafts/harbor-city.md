@@ -13,7 +13,7 @@ Tesla Tint LA by Audio MotorSports, Carson, tints Harbor City Teslas at 22025 S 
 
 ## What Harbor City Tesla owners bring us
 
-**Model Y window tint.** The Y has a big back glass and a glass roof, so the heat load inside is real on a July afternoon. Ceramic film on the doors and rear glass takes the sting out while keeping the view from the driver's seat clear.
+**Model Y window tint.** The Y has a big back glass, so the heat load inside is real on a July afternoon. Ceramic film on the doors and rear glass takes the sting out while keeping the view from the driver's seat clear.
 
 **Model 3, Model S and Model X.** Each one has its own glass shape, and we treat them that way. Film is cut on a board and then laid on the car, never trimmed on your glass, so there are no scratches and no nicked defroster lines.
 
@@ -38,7 +38,7 @@ Plenty of Harbor City drivers wait inside; there is seating, a TV with Netflix, 
 
 Yes, and the short hop is the point. You get a shop that tints Teslas every week, prepares the rear-window electronics properly and cuts film off the glass, all within a 6 to 7 minute drive (approx) of Harbor City. Book an appointment, wait at the shop, drive home tinted.
 
-### Which film do you recommend for a Model Y with the glass roof?
+### Which film do you recommend for a Model Y?
 
 Ceramic. A Model Y carries a lot of glass, and ceramic film rejects heat without going darker than you want. The front doors stay at the California-legal 70% VLT and the rear glass can go darker. We walk you through the shades at the counter before cutting anything.
 
@@ -125,7 +125,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
     },
     {
      "@type": "Question",
-     "name": "Which film do you recommend for a Model Y with the glass roof?",
+     "name": "Which film do you recommend for a Model Y?",
      "acceptedAnswer": {
       "@type": "Answer",
       "text": "Ceramic. A Model Y carries a lot of glass, and ceramic film rejects heat without going darker than you want. The front doors stay at the California-legal 70% VLT and the rear glass can go darker. We walk you through the shades at the counter before cutting anything."

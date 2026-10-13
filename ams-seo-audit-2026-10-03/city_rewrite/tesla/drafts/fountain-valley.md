@@ -5,7 +5,7 @@ miles: 19.7
 lead_service: Tesla window tint (Model S)
 source: hub-mounted copy; standalone www host not verified
 title: Model S Tint for Fountain Valley | Tesla Tint LA
-meta: Model S and Tesla window tint for Fountain Valley owners at Audio MotorSports in Carson, 19.7 miles away. Ceramic film shaped to curved glass. Call (213) 429-1092.
+meta: Model S and Tesla window tint for Fountain Valley owners: ceramic film shaped to curved glass at Audio MotorSports in Carson, 19.7 miles away. (213) 429-1092
 ---
 # Model S Window Tint for Fountain Valley Owners
 
@@ -19,7 +19,7 @@ Fountain Valley Model S owners drive to Tesla Tint LA by Audio MotorSports, 2202
 
 **Model X and Cybertruck.** Falcon-wing glass on the X and flat board-cut panes on the Cybertruck, each with a quote by model.
 
-**Roof and windshield strip.** Ceramic film on the roof for heat and a visor strip at the top of the windshield, kept below the camera housing.
+**Windshield strip.** A visor strip at the top of the windshield, kept below the camera housing.
 
 Audio MotorSports installs dash cameras, GPS trackers, Viper alarms and car stereo gear in the same bay, so ask about pairing one.
 
@@ -40,7 +40,7 @@ Its door glass is the longest Tesla makes and it curves two ways at once. A flat
 
 ### Can a Fountain Valley owner get the Model S back the same day?
 
-Usually, yes. Book a morning slot, drop the car off, and it is typically ready by late afternoon. If you are adding roof film, plan on most of the day. Waiting at the shop is fine too; the drive from Fountain Valley is short enough for either.
+Usually, yes. Book a morning slot, drop the car off, and it is typically ready by late afternoon. If you are adding the windshield strip to the doors and rear glass, plan on most of the day. Waiting at the shop is fine too; the drive from Fountain Valley is short enough for either.
 
 ### Does the film affect the Model S windshield sensors or the phone key?
 
@@ -79,7 +79,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-fountain-valley/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-fountain-valley/",
    "name": "Model S Tint for Fountain Valley | Tesla Tint LA",
-   "description": "Model S and Tesla window tint for Fountain Valley owners at Audio MotorSports in Carson, 19.7 miles away. Ceramic film shaped to curved glass. Call (213) 429-1092.",
+   "description": "Model S and Tesla window tint for Fountain Valley owners: ceramic film shaped to curved glass at Audio MotorSports in Carson, 19.7 miles away. (213) 429-1092",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -129,7 +129,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "Can a Fountain Valley owner get the Model S back the same day?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Usually, yes. Book a morning slot, drop the car off, and it is typically ready by late afternoon. If you are adding roof film, plan on most of the day. Waiting at the shop is fine too; the drive from Fountain Valley is short enough for either."
+      "text": "Usually, yes. Book a morning slot, drop the car off, and it is typically ready by late afternoon. If you are adding the windshield strip to the doors and rear glass, plan on most of the day. Waiting at the shop is fine too; the drive from Fountain Valley is short enough for either."
      }
     },
     {

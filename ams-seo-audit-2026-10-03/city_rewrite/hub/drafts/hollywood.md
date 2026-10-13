@@ -14,7 +14,7 @@ Hollywood drivers get car window tint hand-cut on the glass at Audio MotorSports
 
 **Car window tint and ceramic window tint.** Each window is cut and heat-shrunk on the car, not pulled from a pre-cut pattern, so the edges are clean and the film does not lift. Ceramic window tint rejects heat without a dark shade, which keeps the fronts legal and the cabin cooler.
 
-**Tesla window tint.** Single-sheet rear glass, roof optional, film kept clear of the cameras.
+**Tesla window tint.** Single-sheet rear glass, film kept clear of the cameras, factory-dark roof left untouched.
 
 **Car stereo installation.** Head unit installation, speaker replacement, amplifier installation and subwoofer installation, with the wiring hidden and the dash left factory.
 

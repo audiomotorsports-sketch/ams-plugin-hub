@@ -15,7 +15,7 @@ Fullerton drivers come to LA Car Tint for window tinting that looks like it left
 
 - **First tint on a new car.** A lot of Fullerton owners come straight from the dealer lot. The glass is cleaned, the film is cut on the window and laid in one pass, and the car leaves looking like an option package rather than an add-on.
 - **Ceramic window tint for the long haul.** Solar Ceramic holds its color and blocks heat year after year, which is why students and commuters who keep a car a long time choose it.
-- **Tesla window tint.** One sheet on the big rear window, frameless front doors trimmed so they close without catching, roof quoted at the shop.
+- **Tesla window tint.** One sheet on the big rear window, frameless front doors trimmed so they close without catching, and the roof glass is dark from the factory already.
 - **Rear-only privacy jobs.** Some owners want just the back half dark, for kids, cargo or quiet. That is a normal request and priced accordingly at the counter.
 
 Same roof, same crew: car stereo installation, Apple CarPlay and Android Auto installation, car alarm installation, GPS tracker installation and dash camera installation can be added to the same appointment.
@@ -53,7 +53,7 @@ Because every window is a slightly different shape, even on the same model year.
 
 ## Prices, as of October 2026
 
-Solar window tint $249 installed and Solar Ceramic $329 installed, as of October 2026. Rear-only jobs, Tesla roof glass and oversized vehicles are quoted at the shop. Payment plan available, ask Nick.
+Solar window tint $249 installed and Solar Ceramic $329 installed, as of October 2026. Rear-only jobs and oversized vehicles are quoted at the shop. Payment plan available, ask Nick.
 
 ## Nearby cities we also serve
 

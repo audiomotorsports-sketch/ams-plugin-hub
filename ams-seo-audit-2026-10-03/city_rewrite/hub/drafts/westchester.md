@@ -33,7 +33,7 @@ You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and 
 
 ### Do you tint the glass roof on a Model Y?
 
-We can tint the glass roof if you want it, though most Westchester owners choose ceramic film on the doors and rear glass first, because that is where the heat and glare hit the driver. The roof already has factory tinting. Ask when you book and we will walk you through both options on your car.
+No. The roof already has factory tinting, so we leave it alone. Westchester owners get ceramic film on the doors and rear glass instead, because that is where the heat and glare hit the driver. Ask when you book and we will walk you through the shades on your car.
 
 ### How dark can I legally go on a Tesla in California?
 
@@ -111,7 +111,7 @@ Text the model and year to (213) 429-1092 or call (213) 429-1092. Audio MotorSpo
      "name": "Do you tint the glass roof on a Model Y?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "We can tint the glass roof if you want it, though most Westchester owners choose ceramic film on the doors and rear glass first, because that is where the heat and glare hit the driver. The roof already has factory tinting. Ask when you book and we will walk you through both options on your car."
+      "text": "No. The roof already has factory tinting, so we leave it alone. Westchester owners get ceramic film on the doors and rear glass instead, because that is where the heat and glare hit the driver. Ask when you book and we will walk you through the shades on your car."
      }
     },
     {

@@ -19,7 +19,7 @@ LA Car Tint by Audio MotorSports installs car window tint and ceramic window tin
 
 **Front door windows done to the California rule.** The front doors only get a light film in California; we fit the shade that passes and go darker behind the driver, and we explain the difference before any film goes on.
 
-**Tesla window tint.** Tesla rear glass is one large curved panel, so it is shrunk and fitted as a single piece. Ask about the roof when you book.
+**Tesla window tint.** Tesla rear glass is one large curved panel, so it is shrunk and fitted as a single piece. The roof glass is already dark.
 
 ## The drive from Lomita to the shop in Carson
 

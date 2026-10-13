@@ -17,7 +17,7 @@ La Puente Tesla owners drive to Tesla Tint LA by Audio MotorSports, 22025 S Aval
 
 **Side glass on every model.** Frameless Tesla doors mean the film edge is cut to sit under the seal so it cannot lift when the window drops. The Model S and Model X get more shaping, the Cybertruck is a flat board-cut. Each is quoted by model.
 
-**Roof film.** Ceramic film on the glass roof for the heat that comes straight down.
+**Cabin heat.** The factory roof glass is already dark; ceramic film on the doors and rear glass handles the heat that reaches the seats.
 
 **No signal problems.** The film has no metal in it; the phone key, the cell connection and the cameras keep working.
 

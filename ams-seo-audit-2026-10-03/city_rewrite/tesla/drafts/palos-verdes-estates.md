@@ -9,11 +9,11 @@ source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla Window Tint for Palos Verdes Estates: Tint It the Week You Take Delivery
 
-New Tesla, no tint, sun on the hill. Palos Verdes Estates owners bring freshly delivered cars 8 miles to Tesla Tint LA, the Tesla window tint shop at Audio MotorSports, 22025 S Avalon Blvd Ste A in Carson, and leave with ceramic film on every pane that should have it. Model 3, Model Y, S, X and Cybertruck, quoted by model at the shop.
+New Tesla, no tint, sun on the hill. Palos Verdes Estates owners bring freshly delivered cars 8 miles to Tesla Tint LA, the Tesla window tint shop at Audio MotorSports, 22025 S Avalon Blvd Ste A in Carson, and leave with ceramic film on the side and rear glass. Model 3, Model Y, S, X and Cybertruck, quoted by model at the shop.
 
 ## What Palos Verdes Estates owners schedule
 
-**New-delivery Tesla tint.** The best time to tint is before the car has lived in the sun. Fresh glass is clean, there is no old film to strip, and the ceramic goes on in one session: sides, rear glass, roof and the fronts at the legal shade.
+**New-delivery Tesla tint.** The best time to tint is before the car has lived in the sun. Fresh glass is clean, there is no old film to strip, and the ceramic goes on in one session: side glass, rear glass and the fronts at the legal shade.
 
 **Ceramic window tint for heat.** Ceramic film blocks heat without a metal layer, so the cabin is cooler after a day parked and the phone key keeps working.
 
@@ -46,9 +46,9 @@ Not when it is installed properly. The rear glass film is shaped on a separate s
 
 Yes, for a few days. The film needs time to cure to the glass, and moving the window too soon can catch the edge. Nick will tell you the exact window for your car at pickup. After that, roll them as you like; the film is bonded and will not shift.
 
-### Can you tint the glass roof on a new Model Y?
+### Is a new Model Y already dark overhead, or does the cabin still get hot?
 
-Yes. The roof on a Model Y is a single large panel and it is the biggest source of heat in the cabin. A ceramic film cut for it is applied from inside with the headliner left alone. It is one of the most requested items for new deliveries because the difference on a hot afternoon is immediate.
+The factory roof glass on a Model Y is already dark, and the shop leaves it alone. What heats a parked cabin is the door glass and the big rear window, so those get ceramic film. Most new owners notice the difference on the first hot afternoon after delivery.
 
 ## Prices
 
@@ -136,10 +136,10 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
     },
     {
      "@type": "Question",
-     "name": "Can you tint the glass roof on a new Model Y?",
+     "name": "Is a new Model Y already dark overhead, or does the cabin still get hot?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. The roof on a Model Y is a single large panel and it is the biggest source of heat in the cabin. A ceramic film cut for it is applied from inside with the headliner left alone. It is one of the most requested items for new deliveries because the difference on a hot afternoon is immediate."
+      "text": "The factory roof glass on a Model Y is already dark, and the shop leaves it alone. What heats a parked cabin is the door glass and the big rear window, so those get ceramic film. Most new owners notice the difference on the first hot afternoon after delivery."
      }
     }
    ]

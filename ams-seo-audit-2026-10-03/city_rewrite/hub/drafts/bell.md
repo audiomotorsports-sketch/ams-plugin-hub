@@ -12,7 +12,7 @@ Bell Tesla owners drive 11.3 miles to Audio MotorSports in Carson, 22025 S Avalo
 
 ## Bell drivers book these jobs
 
-**Tesla window tint.** Ceramic film on the sides, the big rear glass and the roof if you want it. We shrink the rear piece to the curve as one sheet, hand-cut on the glass. Nothing metallic, so the phone key, cameras and radio are untouched.
+**Tesla window tint.** Ceramic film on the sides and the big rear glass; the factory roof glass is already dark and stays as it is. We shrink the rear piece to the curve as one sheet, hand-cut on the glass. Nothing metallic, so the phone key, cameras and radio are untouched.
 
 **Car window tint for any make.** Window tinting with Solar at $249 installed or ceramic window tint at $329 installed, as of October 2026. Front windows stay within California law.
 
@@ -53,7 +53,7 @@ Keep the windows up for three to five days so the film can cure to the glass. Yo
 
 ## Bell price list, October 2026
 
-Solar window tint $249 installed; Solar Ceramic window tint $329 installed; Viper 3108V alarm $269 installed; Compustar 9910 remote start from $499; AMS Harley bagger pods from $649 a pair; Dual Kicker Comp box $249 box only. All current as of October 2026. Tesla packages, including the roof, are priced in person at the shop after we look at the car. Payment plan available, ask Nick.
+Solar window tint $249 installed; Solar Ceramic window tint $329 installed; Viper 3108V alarm $269 installed; Compustar 9910 remote start from $499; AMS Harley bagger pods from $649 a pair; Dual Kicker Comp box $249 box only. All current as of October 2026. Tesla packages are priced in person at the shop after we look at the car. Payment plan available, ask Nick.
 
 ## Cities beside Bell
 

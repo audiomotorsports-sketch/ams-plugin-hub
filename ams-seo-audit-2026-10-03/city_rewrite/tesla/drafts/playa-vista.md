@@ -13,7 +13,7 @@ A lot of Playa Vista Teslas arrive at Tesla Tint LA with delivery plastic still 
 
 ## What Playa Vista's new Tesla owners book
 
-**First-week ceramic tint.** Sides, one-piece rear glass, roof panel and the fronts at the California legal shade, all in one appointment while the glass is spotless.
+**First-week ceramic tint.** Sides, one-piece rear glass and the fronts at the California legal shade, all in one appointment while the glass is spotless.
 
 **Heat control from day one.** Ceramic film keeps the cabin cooler and does it without a metal layer, so the phone key and the app connection work as they did at delivery.
 
@@ -40,7 +40,7 @@ About half an hour outside rush hour. It is a straightforward drive and the car 
 
 ### Will the tint look even on all the windows of a new Model Y or Model 3?
 
-Yes. Every piece is cut from the same film roll and the shades are chosen together so the doors, rear glass and roof read as one from outside, with the fronts at the legal limit. Nick holds samples against the glass with you before anything is cut.
+Yes. Every piece is cut from the same film roll and the shades are chosen together so the doors and rear glass read as one beside the factory roof glass, with the fronts at the legal limit. Nick holds samples against the glass with you before anything is cut.
 
 ### What should I avoid doing in the first days after Tesla tint?
 
@@ -123,7 +123,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the model. Audio MotorSports, 22
      "name": "Will the tint look even on all the windows of a new Model Y or Model 3?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. Every piece is cut from the same film roll and the shades are chosen together so the doors, rear glass and roof read as one from outside, with the fronts at the legal limit. Nick holds samples against the glass with you before anything is cut."
+      "text": "Yes. Every piece is cut from the same film roll and the shades are chosen together so the doors and rear glass read as one beside the factory roof glass, with the fronts at the legal limit. Nick holds samples against the glass with you before anything is cut."
      }
     },
     {

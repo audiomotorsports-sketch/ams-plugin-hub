@@ -17,7 +17,7 @@ Lakewood Tesla owners get ceramic window tint at Tesla Tint LA by Audio MotorSpo
 
 **Model 3, Model Y, Model S, Model X and Cybertruck.** Each model's glass is different; the sedans and crossovers get a one-piece rear window, the S and X get extra shaping, and the Cybertruck is cut flat on a board. Quoted by model.
 
-**Roof panel film.** Ceramic film on the glass roof for the heat that lands on the front seats.
+**Cabin heat.** The factory roof glass is already dark; ceramic film on the side and rear glass handles the heat that lands on the front seats.
 
 **Windshield strip.** A glare strip along the top edge, kept well below the camera housing.
 
@@ -52,7 +52,7 @@ It cannot, because the backup camera is in the trunk or hatch lid, not on the gl
 
 ### What front shade keeps a Tesla legal in California?
 
-The front door glass has to pass 70% of visible light. Ceramic film at that shade is light to look at but still rejects most infrared heat, so the fronts get cooler without drawing attention. The rear doors, rear window and roof can be as dark as you choose.
+The front door glass has to pass 70% of visible light. Ceramic film at that shade is light to look at but still rejects most infrared heat, so the fronts get cooler without drawing attention. The rear doors and rear window can be as dark as you choose, and the factory roof glass is already dark.
 
 ## Pricing
 
@@ -153,7 +153,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "What front shade keeps a Tesla legal in California?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "The front door glass has to pass 70% of visible light. Ceramic film at that shade is light to look at but still rejects most infrared heat, so the fronts get cooler without drawing attention. The rear doors, rear window and roof can be as dark as you choose."
+      "text": "The front door glass has to pass 70% of visible light. Ceramic film at that shade is light to look at but still rejects most infrared heat, so the fronts get cooler without drawing attention. The rear doors and rear window can be as dark as you choose, and the factory roof glass is already dark."
      }
     }
    ]

@@ -4,7 +4,7 @@ city: Rancho Cucamonga
 miles: 53.6
 lead_service: dash camera installation
 title: Dash Camera Installation Rancho Cucamonga | LA Car Alarm
-meta: Dash camera installation for Rancho Cucamonga drivers at LA Car Alarm by Audio MotorSports, Carson, 53.6 miles. Viper alarms, remote start, GPS. Call (213) 429-1092.
+meta: Dash camera installation for Rancho Cucamonga drivers at LA Car Alarm by Audio MotorSports, Carson. Viper alarms, remote start, GPS. (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Dash Camera Installation for Rancho Cucamonga Drivers
@@ -15,11 +15,11 @@ Rancho Cucamonga drivers make the 53.6-mile trip to LA Car Alarm at Audio MotorS
 
 **Dash camera installation.** Front and rear cameras powered through a fused hardwire kit with a low-voltage cutoff, cables run inside the headliner and pillars, parking mode set and footage checked before you leave.
 
-**Viper alarm installation.** Hidden module, backed-up siren, starter kill off the obvious fuse and a shock sensor calibrated on your vehicle.
+**Viper alarm installation.** The module goes where trim tools are needed to reach it, the siren has its own backup, the starter kill avoids the obvious fuse, and the shock sensor is dialed in on your vehicle.
 
-**Compustar remote start installation.** Bypass matched to the car, doors secured during idle, engine off if the brake is pressed without the key.
+**Compustar remote start installation.** The 9910 with the bypass your platform calls for; the doors stay secured while it idles and the engine dies if the brake is touched without the key.
 
-**GPS tracker installation.** Constant power, behind factory panels, locate test on your phone before pickup.
+**GPS tracker installation.** Fed from constant power, concealed behind factory panels, and located on your phone before the car is handed back.
 
 Window tint and car stereo installation are done at the same address, so one trip from Rancho Cucamonga can cover several jobs.
 

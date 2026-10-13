@@ -17,7 +17,7 @@ Santa Fe Springs Tesla owners drive about 13 miles to Tesla Tint LA, the Tesla w
 
 **Ceramic film with no metal.** Heat rejection comes from the ceramic layer, so the phone key, card reader and cellular connection work unchanged.
 
-**Every pane that matters.** Four doors, the one-piece rear glass, the roof panel and fronts at the California legal shade.
+**Every pane that gets film.** Four doors, the one-piece rear glass and fronts at the California legal shade, with the dark factory roof glass left as it is.
 
 **The rest of Audio MotorSports.** Car alarm installation, remote start installation, dash camera installation, GPS tracker installation and car stereo installation are done here too, so one trip can cover two jobs.
 
@@ -40,11 +40,11 @@ Yes. It is about half an hour to Carson, and the install is done once by a shop 
 
 ### Will tint set off any warnings on the Tesla screen?
 
-No. Nothing the car monitors is covered. Cameras stay clear, the ultrasonic and radar sensors are in the bumpers rather than the glass, and ceramic film has no metal to interfere with GPS or cellular signals. The car drives and connects exactly as it did before the appointment.
+No. Nothing the car monitors is covered. Cameras stay clear, the ultrasonic and radar sensors are in the bumpers rather than the glass, and ceramic film has no metal to interfere with GPS or cellular signals. Everything on the screen and in the app behaves just as it did before you arrived.
 
-### Do you tint the small quarter windows and the roof as well?
+### Do you film the small quarter windows as well?
 
-Yes. The fixed quarter glass, the roof panel and the rear window are all patterned separately so coverage is complete and even. The roof film is applied from inside with the headliner in place, and the rear glass goes on as a single sheet shaped to the curve.
+Yes. The fixed quarter glass and the rear window are patterned separately so coverage is complete and even. The rear glass goes on as a single sheet shaped to the curve. The factory roof glass is already dark, so it is not filmed.
 
 ### Can a GPS tracker be installed on the same Tesla visit?
 
@@ -123,15 +123,15 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "Will tint set off any warnings on the Tesla screen?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "No. Nothing the car monitors is covered. Cameras stay clear, the ultrasonic and radar sensors are in the bumpers rather than the glass, and ceramic film has no metal to interfere with GPS or cellular signals. The car drives and connects exactly as it did before the appointment."
+      "text": "No. Nothing the car monitors is covered. Cameras stay clear, the ultrasonic and radar sensors are in the bumpers rather than the glass, and ceramic film has no metal to interfere with GPS or cellular signals. Everything on the screen and in the app behaves just as it did before you arrived."
      }
     },
     {
      "@type": "Question",
-     "name": "Do you tint the small quarter windows and the roof as well?",
+     "name": "Do you film the small quarter windows as well?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. The fixed quarter glass, the roof panel and the rear window are all patterned separately so coverage is complete and even. The roof film is applied from inside with the headliner in place, and the rear glass goes on as a single sheet shaped to the curve."
+      "text": "Yes. The fixed quarter glass and the rear window are patterned separately so coverage is complete and even. The rear glass goes on as a single sheet shaped to the curve. The factory roof glass is already dark, so it is not filmed."
      }
     },
     {

@@ -13,7 +13,7 @@ West Los Angeles Model Y owners make the roughly 18-mile trip to Tesla Tint LA b
 
 ## Tesla tint for West Los Angeles, Model Y first
 
-**Model Y ceramic tint.** More glass than a Model 3, and a hatch window that is both tall and curved. Ceramic film on the doors and that rear hatch is what keeps a Model Y cabin from turning into a greenhouse under the panoramic roof.
+**Model Y ceramic tint.** More glass than a Model 3, and a hatch window that is both tall and curved. Ceramic film on the doors and that rear hatch is what keeps a Model Y cabin from turning into a greenhouse, even with the factory-dark panoramic roof.
 
 **Hatch glass as a single panel.** The rear hatch window is shaped with heat on a glass board and applied as one piece. No seam across the rear camera view and no lifting at the defroster lines.
 

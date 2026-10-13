@@ -5,7 +5,7 @@ miles: 14.5
 lead_service: Tesla window tint (Model 3)
 source: hub-mounted copy; standalone www host not verified
 title: East Los Angeles Model 3 Tint | Tesla Tint LA
-meta: Model 3 and Tesla window tint for East Los Angeles owners, ceramic film hand-cut at Audio MotorSports in Carson, 14.5 miles away. Call (213) 429-1092 or text (213) 429-1092.
+meta: Model 3 and Tesla window tint for East Los Angeles owners: ceramic film hand-cut at Audio MotorSports in Carson, 14.5 miles away. Call (213) 429-1092.
 ---
 # Model 3 Window Tint for East Los Angeles Drivers
 
@@ -15,7 +15,7 @@ East Los Angeles Model 3 owners make the 14.5-mile drive to Tesla Tint LA by Aud
 
 **Model 3 window tint.** The 3 is the Tesla we tint most. Its frameless door glass needs an edge that sits at the gasket, and its rear window is one curved piece that gets shaped with heat on a board before it meets the car.
 
-**Model Y.** More rear glass and a bigger roof than the 3, same ceramic film and the same careful edge. The roof panel is quoted on its own if you want it.
+**Model Y.** A larger hatch window than the 3 and the same ceramic film. Its roof glass is already dark from the factory, so the doors and the rear glass are what get filmed.
 
 **Model S and Model X.** The S has the longest door glass, the X the tallest. Both take more shaping and more film, and the quote reflects that.
 
@@ -78,7 +78,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-east-los-angeles/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-east-los-angeles/",
    "name": "East Los Angeles Model 3 Tint | Tesla Tint LA",
-   "description": "Model 3 and Tesla window tint for East Los Angeles owners, ceramic film hand-cut at Audio MotorSports in Carson, 14.5 miles away. Call (213) 429-1092 or text (213) 429-1092.",
+   "description": "Model 3 and Tesla window tint for East Los Angeles owners: ceramic film hand-cut at Audio MotorSports in Carson, 14.5 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

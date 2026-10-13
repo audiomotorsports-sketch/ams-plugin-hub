@@ -19,7 +19,7 @@ Hacienda Heights Model X owners make the trip to Tesla Tint LA by Audio MotorSpo
 
 **Model S and Cybertruck.** Long curved doors on the S and big flat panes on the Cybertruck; each carries its own quote by model.
 
-**Second and third row heat.** On the X the roof glass is large and the rear seats sit under it. Ceramic film on the roof panel and the rear glass keeps the back of the cabin from cooking.
+**Second and third row heat.** On the X the rear seats sit behind big side glass and the rear window. Ceramic film on the third-row glass and the rear window keeps the back of the cabin from cooking; the factory roof glass is already dark.
 
 Audio MotorSports also installs dash cameras, GPS trackers, remote start and car audio in the same bay if you want to pair a job.
 
@@ -40,7 +40,7 @@ The glass is curved and the door swings up from the roof, so the film has to fol
 
 ### Should I plan a full day in Carson for a Model X tint from Hacienda Heights?
 
-Plan on most of a day if you are doing all the glass plus the roof. Most Hacienda Heights owners drop the car off in the morning and pick it up later rather than wait. If you only want the sides and rear, it can be quicker; we will tell you when you book.
+Plan on most of a day if you are doing all the glass. Most Hacienda Heights owners drop the car off in the morning and pick it up later rather than wait. If you only want the sides and rear, it can be quicker; we will tell you when you book.
 
 ### Do the Model X cameras and sensors still work after ceramic tint?
 
@@ -48,7 +48,7 @@ Yes. The film is non-metallic, so the phone key, Bluetooth and cellular signals 
 
 ### How dark can the rear of a Model X go in California?
 
-As dark as you want. The law limits only the front door glass, which must pass 70% of visible light. Rear doors, the third-row quarter glass and the rear window have no limit, and most owners go dark back there with a matching roof film.
+As dark as you want. The law limits only the front door glass, which must pass 70% of visible light. Rear doors, the third-row quarter glass and the rear window have no limit, and most owners go dark back there.
 
 ### Can I use the falcon-wing doors normally right after the tint?
 
@@ -128,7 +128,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "Should I plan a full day in Carson for a Model X tint from Hacienda Heights?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Plan on most of a day if you are doing all the glass plus the roof. Most Hacienda Heights owners drop the car off in the morning and pick it up later rather than wait. If you only want the sides and rear, it can be quicker; we will tell you when you book."
+      "text": "Plan on most of a day if you are doing all the glass. Most Hacienda Heights owners drop the car off in the morning and pick it up later rather than wait. If you only want the sides and rear, it can be quicker; we will tell you when you book."
      }
     },
     {
@@ -144,7 +144,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "How dark can the rear of a Model X go in California?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "As dark as you want. The law limits only the front door glass, which must pass 70% of visible light. Rear doors, the third-row quarter glass and the rear window have no limit, and most owners go dark back there with a matching roof film."
+      "text": "As dark as you want. The law limits only the front door glass, which must pass 70% of visible light. Rear doors, the third-row quarter glass and the rear window have no limit, and most owners go dark back there."
      }
     },
     {

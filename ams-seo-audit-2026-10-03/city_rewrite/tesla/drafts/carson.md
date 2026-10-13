@@ -5,7 +5,7 @@ miles: null
 lead_service: Tesla window tint (home city, all models)
 source: hub-mounted copy; standalone www host not verified
 title: Tesla Window Tint in Carson | Tesla Tint LA
-meta: Tesla window tint in Carson at the shop itself: Model 3, Y, S, X and Cybertruck ceramic film by Audio MotorSports, 22025 S Avalon Blvd Ste A. Call (213) 429-1092 or text (213) 429-1092.
+meta: Tesla window tint in Carson at the shop itself: Model 3, Y, S, X and Cybertruck ceramic film by Audio MotorSports, 22025 S Avalon Blvd. Call (213) 429-1092.
 ---
 # Tesla Window Tint in Carson, at the Shop Itself
 
@@ -79,7 +79,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-carson/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-carson/",
    "name": "Tesla Window Tint in Carson | Tesla Tint LA",
-   "description": "Tesla window tint in Carson at the shop itself: Model 3, Y, S, X and Cybertruck ceramic film by Audio MotorSports, 22025 S Avalon Blvd Ste A. Call (213) 429-1092 or text (213) 429-1092.",
+   "description": "Tesla window tint in Carson at the shop itself: Model 3, Y, S, X and Cybertruck ceramic film by Audio MotorSports, 22025 S Avalon Blvd. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

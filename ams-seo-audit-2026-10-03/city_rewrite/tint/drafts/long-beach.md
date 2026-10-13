@@ -54,7 +54,7 @@ No. Ceramic window tint has no metal layer, so it does not interfere with phone 
 
 ## Window tint prices as of October 2026
 
-As of October 2026 a standard sedan is $249 installed for Solar window tint and $329 installed for Solar Ceramic, covering the four door windows and the rear glass. Larger SUVs, trucks, Tesla glass and sunroofs are quoted in person. Ask Nick about the payment plan. The same bay also does car stereo installation, Apple CarPlay and Android Auto installation, dash camera installation and Viper alarm installation if you want to combine trips.
+As of October 2026 a standard sedan is $249 installed for Solar window tint and $329 installed for Solar Ceramic, covering the four door windows and the rear glass. Larger SUVs, trucks and Tesla glass are quoted in person. Ask Nick about the payment plan. The same bay also does car stereo installation, Apple CarPlay and Android Auto installation, dash camera installation and Viper alarm installation if you want to combine trips.
 
 ## Nearby cities we tint
 

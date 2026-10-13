@@ -50,7 +50,7 @@ Yes, and that back window is where a careful installer earns their keep. We shri
 
 ## Gardena tint pricing
 
-As of October 2026 the four-door packages are Solar at $249 installed and Solar Ceramic at $329 installed, covering four doors plus the rear window. SUVs, trucks, windshields and Tesla roof glass are quoted at the counter. Ask Nick about the payment plan. Our ratings as of October 2026 stand at Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews).
+As of October 2026 the four-door packages are Solar at $249 installed and Solar Ceramic at $329 installed, covering four doors plus the rear window. SUVs, trucks and windshields are quoted at the counter. Ask Nick about the payment plan. Our ratings as of October 2026 stand at Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews).
 
 ## Nearby tint pages
 

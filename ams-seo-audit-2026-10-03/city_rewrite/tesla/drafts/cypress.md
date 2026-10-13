@@ -5,7 +5,7 @@ miles: 13.0
 lead_service: Tesla window tint (Model X)
 source: hub-mounted copy; standalone www host not verified
 title: Model X Window Tint for Cypress | Tesla Tint LA
-meta: Model X and Tesla window tint for Cypress owners: ceramic film, cameras left clear, installed at Audio MotorSports in Carson, 13 miles away. Call (213) 429-1092, text (213) 429-1092.
+meta: Model X and Tesla window tint for Cypress owners: ceramic film, cameras left clear, at Audio MotorSports in Carson, 13 miles away. Call (213) 429-1092.
 ---
 # Tesla Window Tint for Cypress Owners, Led by the Model X
 
@@ -79,7 +79,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-cypress/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-cypress/",
    "name": "Model X Window Tint for Cypress | Tesla Tint LA",
-   "description": "Model X and Tesla window tint for Cypress owners: ceramic film, cameras left clear, installed at Audio MotorSports in Carson, 13 miles away. Call (213) 429-1092, text (213) 429-1092.",
+   "description": "Model X and Tesla window tint for Cypress owners: ceramic film, cameras left clear, at Audio MotorSports in Carson, 13 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

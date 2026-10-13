@@ -17,7 +17,7 @@ A Tesla is covered in cameras and sensors, and the tint has to respect all of th
 
 **Non-metallic ceramic film.** No metal layer means the phone key, the card reader and the car's cellular and GPS antennas are unaffected. The heat rejection comes from ceramic particles, not a reflective coating.
 
-**Full glass coverage.** Side windows, the one-piece rear glass, the roof panel and the fronts at the California legal shade, each from its own pattern.
+**Full glass coverage.** Side windows, the one-piece rear glass and the fronts at the California legal shade, each from its own pattern.
 
 **The rest of the shop.** Audio MotorSports installs car alarms, remote start, dash cameras, GPS trackers and car stereo systems, so a Montclair trip can cover more than tint.
 
@@ -44,7 +44,7 @@ No. Those sensors live in the bumpers and behind body panels, not in the glass, 
 
 ### What is the darkest legal front tint on a Tesla in California?
 
-California sets a visible light limit for the front door windows, and Tesla Tint LA installs the fronts at that legal shade. The rear doors, rear glass and roof have no such limit, so they can go darker for privacy and heat control. Nick will explain the exact options on your car at the shop.
+California sets a visible light limit for the front windows, and Tesla Tint LA installs the fronts at that legal shade. The rear doors and rear glass have no such limit, so they can go darker for privacy, and the factory roof glass is already dark. Nick will explain the exact options on your car at the shop.
 
 ### Does Tesla Tint LA do anything besides window tint on a Tesla?
 
@@ -131,7 +131,7 @@ Call (213) 429-1092 or text (213) 429-1092 with your model and year. Audio Motor
      "name": "What is the darkest legal front tint on a Tesla in California?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "California sets a visible light limit for the front door windows, and Tesla Tint LA installs the fronts at that legal shade. The rear doors, rear glass and roof have no such limit, so they can go darker for privacy and heat control. Nick will explain the exact options on your car at the shop."
+      "text": "California sets a visible light limit for the front windows, and Tesla Tint LA installs the fronts at that legal shade. The rear doors and rear glass have no such limit, so they can go darker for privacy, and the factory roof glass is already dark. Nick will explain the exact options on your car at the shop."
      }
     },
     {

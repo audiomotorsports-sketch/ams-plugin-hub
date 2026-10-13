@@ -5,7 +5,7 @@ city: Commerce
 miles: 13.1
 lead_service: street-parked cars
 title: Car Alarm Installation for Commerce | LA Car Alarm
-meta: Car alarm installation for street-parked Commerce cars at LA Car Alarm by Audio MotorSports in Carson, 13.1 miles. Viper, GPS trackers, dash cams. Call (213) 429-1092.
+meta: Car alarm installation for street-parked Commerce cars at LA Car Alarm by Audio MotorSports in Carson. Viper, GPS trackers, dash cams. (213) 429-1092.
 ---
 # Car Alarm Installation for Street-Parked Commerce Cars
 
@@ -19,7 +19,7 @@ A Commerce car that parks on the street or in an open lot by the warehouses is 1
 
 **Dash camera installation.** Hardwired for parking mode with a low-voltage cutoff, so the camera records whoever leans on the car at night. Cable inside the headliner, not across the glass.
 
-**Compustar remote start installation.** The 9910 with a bypass module for your make. Start it from work, walk out to a cool car that stays secured until the key arrives.
+**Compustar remote start installation.** The 9910 paired with the bypass interface your make calls for. Start it from work, walk out to a cool car that stays secured until the key arrives.
 
 The same shop does car window tint, car stereo installation, Apple CarPlay and Android Auto, subwoofers and Harley bagger audio if you would like one trip to cover it.
 

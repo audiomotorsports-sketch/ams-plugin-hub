@@ -19,7 +19,7 @@ Tesla Tint LA by Audio MotorSports tints Hawthorne Teslas at 22025 S Avalon Blvd
 
 **Model X and Cybertruck.** Tall falcon-wing glass on the X and big flat panels on the Cybertruck. Both are quoted by model because the glass area and the labor differ from the sedans.
 
-**Windshield strip and roof film.** A visor strip across the top of the windshield and ceramic film on the glass roof are the two add-ons Model S owners ask for most after the sides are done.
+**Windshield visor strip.** A strip across the top of the windshield, kept below the camera housing, is the add-on Model S owners ask for most after the sides are done. The factory roof glass is already dark, so the film goes on the side and rear glass.
 
 Need a dash camera, a GPS tracker, a Viper alarm or a subwoofer in the Tesla? Audio MotorSports handles those in the same shop, so mention it when you book.
 

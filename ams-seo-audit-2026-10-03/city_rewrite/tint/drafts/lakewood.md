@@ -50,7 +50,7 @@ Yes. The slider panels are tinted individually so the window still opens cleanly
 
 ## Window tint prices, Lakewood
 
-Solar four-door package, $249 installed; Solar Ceramic four-door package, $329 installed; both as of October 2026, covering the four doors and rear window. Trucks, SUVs, windshield strips and Tesla roof glass are priced at the shop after we see the vehicle. Payment plan available, ask Nick. Before you book, the record: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews) as of October 2026.
+Solar four-door package, $249 installed; Solar Ceramic four-door package, $329 installed; both as of October 2026, covering the four doors and rear window. Trucks, SUVs and windshield strips are priced at the shop after we see the vehicle. Payment plan available, ask Nick. Before you book, the record: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews) as of October 2026.
 
 ## Tint for Lakewood neighbors
 

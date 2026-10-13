@@ -41,7 +41,7 @@ No. Ceramic film contains no metal, so it does not interfere with the phone key,
 
 ### Can you tint the glass roof on a Model 3 or Model Y?
 
-We can discuss it at the shop. The factory roof glass already has some tint, and adding film is a judgment call based on how much heat you feel. Side and rear glass make the bigger difference for most owners, so we start there and talk about the roof in person.
+No. The factory roof glass on a Model 3 or Model Y is already dark, so we do not add film to it. Side and rear glass are where the heat and glare reach the driver, and that is where the ceramic film goes. We quote Tesla tint at the shop by model.
 
 ### How long does Tesla window tint take?
 
@@ -137,7 +137,7 @@ Text (213) 429-1092 with your Tesla model and year or call (213) 429-1092. Audio
      "name": "Can you tint the glass roof on a Model 3 or Model Y?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "We can discuss it at the shop. The factory roof glass already has some tint, and adding film is a judgment call based on how much heat you feel. Side and rear glass make the bigger difference for most owners, so we start there and talk about the roof in person."
+      "text": "No. The factory roof glass on a Model 3 or Model Y is already dark, so we do not add film to it. Side and rear glass are where the heat and glare reach the driver, and that is where the ceramic film goes. We quote Tesla tint at the shop by model."
      }
     },
     {

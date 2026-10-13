@@ -40,7 +40,7 @@ Call (213) 429-1092 or text (213) 429-1092 with your year, which of the three ba
 
 The two pods in chrome or gloss, the crash-bar bracket and the screws, built to order in the Carson shop. The speakers, usually Hertz Neo, the amplifier and the installation labor are quoted separately on the bike, so the pods price is the only number fixed ahead of time.
 
-### Do the pods fit a Road King the same way as a Street Glide?
+### Is the Road King pod mount any different from the Street Glide mount for Walnut riders?
 
 On a Street Glide, Road Glide or Road King the pods clamp to the same crash-bar position. The difference is where the amplifier goes: in the fairing on a Street Glide or Road Glide, and in a saddlebag on a carpeted board with an AMS quick disconnect on a Road King, which has no fairing to hide it in.
 
@@ -128,7 +128,7 @@ Call (213) 429-1092 or text (213) 429-1092 to start the build. Audio MotorSports
     },
     {
      "@type": "Question",
-     "name": "Do the pods fit a Road King the same way as a Street Glide?",
+     "name": "Is the Road King pod mount any different from the Street Glide mount for Walnut riders?",
      "acceptedAnswer": {
       "@type": "Answer",
       "text": "On a Street Glide, Road Glide or Road King the pods clamp to the same crash-bar position. The difference is where the amplifier goes: in the fairing on a Street Glide or Road Glide, and in a saddlebag on a carpeted board with an AMS quick disconnect on a Road King, which has no fairing to hide it in."

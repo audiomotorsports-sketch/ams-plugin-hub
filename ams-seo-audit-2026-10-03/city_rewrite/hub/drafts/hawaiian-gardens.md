@@ -31,7 +31,7 @@ Hawaiian Gardens is roughly 11 miles from the shop, around 22 to 26 minutes outs
 
 ### Is Tesla tint any different from tinting a regular car?
 
-Yes, in three ways. The rear glass is a single large curve that the film has to be shrunk to fit, the side cameras and sensors must stay uncovered, and the glass roof is an optional extra panel. We handle all three on the car rather than relying on a pre-cut pattern.
+Yes, in three ways. The rear glass is a single large curve that the film has to be shrunk to fit, the side cameras and sensors must stay uncovered, and the glass roof is already dark from the factory, so it is not filmed. We handle the glass on the car rather than relying on a pre-cut pattern.
 
 ### Will tint interfere with the Tesla cameras or Autopilot?
 
@@ -39,7 +39,7 @@ No. The cameras sit behind their own clear housings and we keep film off them en
 
 ### How long should I plan for a Tesla tint appointment from Hawaiian Gardens?
 
-Plan on a few hours for four doors plus the rear glass; add time if you want the roof panel done as well. Most Hawaiian Gardens owners drop the car in the morning and get a call when it is finished. Waiting at the shop is fine too.
+Plan on a few hours for four doors plus the rear glass; the roof glass is factory dark and is not part of the job. Most Hawaiian Gardens owners drop the car in the morning and get a call when it is finished. Waiting at the shop is fine too.
 
 ### Does a subwoofer installation work with a factory premium stereo?
 
@@ -113,7 +113,7 @@ Call (213) 429-1092 or send a text to (213) 429-1092 with the year, make and mod
      "name": "Is Tesla tint any different from tinting a regular car?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes, in three ways. The rear glass is a single large curve that the film has to be shrunk to fit, the side cameras and sensors must stay uncovered, and the glass roof is an optional extra panel. We handle all three on the car rather than relying on a pre-cut pattern."
+      "text": "Yes, in three ways. The rear glass is a single large curve that the film has to be shrunk to fit, the side cameras and sensors must stay uncovered, and the glass roof is already dark from the factory, so it is not filmed. We handle the glass on the car rather than relying on a pre-cut pattern."
      }
     },
     {
@@ -129,7 +129,7 @@ Call (213) 429-1092 or send a text to (213) 429-1092 with the year, make and mod
      "name": "How long should I plan for a Tesla tint appointment from Hawaiian Gardens?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Plan on a few hours for four doors plus the rear glass; add time if you want the roof panel done as well. Most Hawaiian Gardens owners drop the car in the morning and get a call when it is finished. Waiting at the shop is fine too."
+      "text": "Plan on a few hours for four doors plus the rear glass; the roof glass is factory dark and is not part of the job. Most Hawaiian Gardens owners drop the car in the morning and get a call when it is finished. Waiting at the shop is fine too."
      }
     },
     {

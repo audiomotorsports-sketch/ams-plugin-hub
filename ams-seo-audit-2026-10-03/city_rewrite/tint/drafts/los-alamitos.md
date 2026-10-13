@@ -15,7 +15,7 @@ Los Alamitos sends us a lot of newer cars with glass roofs and antennas built in
 
 **Ceramic window tint for new cars.** Solar Ceramic has no metal in it, so it rejects heat without blocking the radio, GPS or key fob signals that modern cars route through the glass. Hand-cut on each window and fitted to the seal.
 
-**Tesla window tint.** The Model 3 and Model Y rear glass is tinted as one piece, shrunk to the curve on the car. The glass roof is a store visit; ask when you book.
+**Tesla window tint.** The Model 3 and Model Y rear glass is tinted as one piece, shrunk to the curve on the car. Its roof glass is dark already.
 
 **Solar window tinting.** Good film at a fair price for the car that just needs privacy and UV protection: $249 installed on a sedan as of October 2026.
 
@@ -54,7 +54,7 @@ A few days, depending on heat and humidity. The film goes on wet and the remaini
 
 ## Window tint prices as of October 2026
 
-For a standard four-door sedan with rear glass, as of October 2026, Solar window tint runs $249 installed and Solar Ceramic runs $329 installed. Tesla window tint, roof glass and larger SUVs are quoted once the car is in the bay. Payment plan available, ask Nick. One cross-sell line, because it saves a trip: Compustar installation, Viper alarm installation, GPS tracker installation and dash camera installation are all done in the same bay.
+For a standard four-door sedan with rear glass, as of October 2026, Solar window tint runs $249 installed and Solar Ceramic runs $329 installed. Tesla window tint and larger SUVs are quoted once the car is in the bay. Payment plan available, ask Nick. One cross-sell line, because it saves a trip: Compustar installation, Viper alarm installation, GPS tracker installation and dash camera installation are all done in the same bay.
 
 ## Nearby cities we tint
 

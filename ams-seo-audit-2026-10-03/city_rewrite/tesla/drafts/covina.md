@@ -5,7 +5,7 @@ miles: 34.8
 lead_service: Tesla window tint (Model Y)
 source: hub-mounted copy; standalone www host not verified
 title: Covina Model Y Window Tint | Tesla Tint LA
-meta: Model Y and Tesla window tint for Covina owners: ceramic film, one-piece rear glass, cameras clear, at Audio MotorSports in Carson, 34.8 miles away. Call (213) 429-1092 or text (213) 429-1092.
+meta: Model Y and Tesla window tint for Covina owners: ceramic film, one-piece rear glass, at Audio MotorSports in Carson, 34.8 miles away. Call (213) 429-1092.
 ---
 # Model Y Window Tint for Covina Tesla Owners
 
@@ -13,11 +13,11 @@ Covina Model Y owners drive about 34.8 miles to Tesla Tint LA by Audio MotorSpor
 
 ## What Covina Teslas come in for
 
-**Model Y window tint.** A large one-piece rear window, a glass roof and frameless doors. The doors and rear glass carry most of the heat and go first; the rear piece is heat-shaped on a board so it lies flat without a seam.
+**Model Y window tint.** A large one-piece rear window and frameless doors, under a roof glass that is already dark. The doors and rear glass carry most of the heat and go first; the rear piece is heat-shaped on a board so it lies flat without a seam.
 
 **Model 3.** Shorter, flatter glass than the Y but the same frameless edge, cut to the gasket by hand.
 
-**Model S and Model X.** Longer and taller glass that needs more board time and more film. Quoted by model.
+**Model S and Model X.** Longer doors on the S and taller glass on the X, so more board time and more film. Quoted by model.
 
 **Camera and sensor clearance.** Masked before the film goes on, left uncovered, checked before the car leaves. The ceramic film has no metal.
 
@@ -40,15 +40,15 @@ It is large and curves two ways, so flat film will not sit on it. We heat-form t
 
 ### How long is the Covina drive for Tesla tint?
 
-About 34.8 miles, 70 to 84 minutes outside rush hour (approx), to 22025 S Avalon Blvd Ste A in Carson. People come from over 100 miles away for this install, so Covina is in range. Book a morning slot and the car is done the same day.
+About 34.8 miles, 70 to 84 minutes outside rush hour (approx), to 22025 S Avalon Blvd Ste A in Carson. People come from over 100 miles away for this install, so Covina is in range. Drop the car off early and it is usually ready that evening.
 
-### Should I tint the Model Y roof too?
+### Which Model Y windows should I do first?
 
-It is optional and quoted on its own. The doors and rear glass block most of the heat you feel; the roof panel takes more film and shaping. Some owners add it the same day, some later. Tell Nick when you book so the time is set aside.
+The four doors and the rear glass. They block most of the heat you feel, and the rear piece is shaped on a board so it lies flat. Some owners split the job over two visits. Tell Nick when you book so the time is set aside.
 
 ### What front shade is legal on a Model Y?
 
-California 70% VLT on the front doors. Ceramic film at that shade still blocks a large share of infrared heat, so the front seats stay comfortable without a dark look. Rear doors and the back glass can go darker.
+California sets 70% VLT on the front doors. Ceramic film at that shade keeps cutting a large share of infrared heat, so the front seats stay comfortable without a dark look. Everything behind them can go darker if you prefer.
 
 ### Will the cameras on my Model Y still work after tint?
 
@@ -78,7 +78,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-covina/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-covina/",
    "name": "Covina Model Y Window Tint | Tesla Tint LA",
-   "description": "Model Y and Tesla window tint for Covina owners: ceramic film, one-piece rear glass, cameras clear, at Audio MotorSports in Carson, 34.8 miles away. Call (213) 429-1092 or text (213) 429-1092.",
+   "description": "Model Y and Tesla window tint for Covina owners: ceramic film, one-piece rear glass, at Audio MotorSports in Carson, 34.8 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -128,15 +128,15 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "How long is the Covina drive for Tesla tint?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "About 34.8 miles, 70 to 84 minutes outside rush hour (approx), to 22025 S Avalon Blvd Ste A in Carson. People come from over 100 miles away for this install, so Covina is in range. Book a morning slot and the car is done the same day."
+      "text": "About 34.8 miles, 70 to 84 minutes outside rush hour (approx), to 22025 S Avalon Blvd Ste A in Carson. People come from over 100 miles away for this install, so Covina is in range. Drop the car off early and it is usually ready that evening."
      }
     },
     {
      "@type": "Question",
-     "name": "Should I tint the Model Y roof too?",
+     "name": "Which Model Y windows should I do first?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "It is optional and quoted on its own. The doors and rear glass block most of the heat you feel; the roof panel takes more film and shaping. Some owners add it the same day, some later. Tell Nick when you book so the time is set aside."
+      "text": "The four doors and the rear glass. They block most of the heat you feel, and the rear piece is shaped on a board so it lies flat. Some owners split the job over two visits. Tell Nick when you book so the time is set aside."
      }
     },
     {
@@ -144,7 +144,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "What front shade is legal on a Model Y?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "California 70% VLT on the front doors. Ceramic film at that shade still blocks a large share of infrared heat, so the front seats stay comfortable without a dark look. Rear doors and the back glass can go darker."
+      "text": "California sets 70% VLT on the front doors. Ceramic film at that shade keeps cutting a large share of infrared heat, so the front seats stay comfortable without a dark look. Everything behind them can go darker if you prefer."
      }
     },
     {

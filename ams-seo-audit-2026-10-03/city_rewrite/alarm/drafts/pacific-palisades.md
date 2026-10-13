@@ -40,7 +40,7 @@ $269 installed, as of October 2026, covers the Viper 3108V, the labor, calibrati
 
 ### Will the Viper remote replace my factory fob?
 
-No, it works alongside it. The factory fob keeps doing what it did, and the Viper remote adds arming, the siren and the starter kill. On many vehicles the alarm can also arm from the factory fob, which Nick confirms by platform.
+No, it works alongside it. Your factory fob still locks and unlocks as before, while the Viper remote takes over arming, the siren and the starter kill. On many vehicles the alarm can also arm from the factory fob, which Nick confirms by platform.
 
 ### Should remote start go in at the same time as the alarm?
 
@@ -135,7 +135,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the year, make and model so the 
      "name": "Will the Viper remote replace my factory fob?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "No, it works alongside it. The factory fob keeps doing what it did, and the Viper remote adds arming, the siren and the starter kill. On many vehicles the alarm can also arm from the factory fob, which Nick confirms by platform."
+      "text": "No, it works alongside it. Your factory fob still locks and unlocks as before, while the Viper remote takes over arming, the siren and the starter kill. On many vehicles the alarm can also arm from the factory fob, which Nick confirms by platform."
      }
     },
     {

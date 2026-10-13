@@ -12,7 +12,7 @@ San Dimas Tesla owners drive 42.1 miles to Audio MotorSports in Carson, 22025 S 
 
 ## San Dimas drivers come for
 
-**Tesla window tint.** One sheet of ceramic film shrunk to the curved rear glass on the car, sides and roof done by hand, film kept clear of camera housings. No metal in the film, so Autopilot, Sentry and the phone key are unaffected.
+**Tesla window tint.** One sheet of ceramic film shrunk to the curved rear glass on the car, sides done by hand, film kept clear of camera housings and off the factory-dark roof. No metal in the film, so Autopilot, Sentry and the phone key are unaffected.
 
 **Car window tint and ceramic window tint.** Window tinting for any vehicle, hand-cut on the glass with fronts at a legal shade: Solar at $249 installed, Solar Ceramic at $329 installed, as of October 2026.
 
@@ -39,9 +39,9 @@ Yes. Tesla window tint lives or dies on the rear glass, and here it is one sheet
 
 No. The film has no metal, so the cameras, radar, phone key and cellular connection behave the same, and we keep film off the camera housings and the sensor area of the windshield. What changes is the cabin temperature and the glare, both for the better.
 
-### Can the panoramic roof on a Model Y be tinted?
+### Does the panoramic roof on a Model Y get tinted?
 
-Yes. The roof already blocks UV, but ceramic film on top of it cuts the heat you feel on your head and shoulders on a summer drive. It is priced separately from the sides and rear, and we quote it at the shop once we see the car since roof glass varies by model.
+No. The roof already comes dark from the factory and blocks UV on its own, so we leave it alone. The heat you feel on your head and shoulders on a summer drive comes mostly through the side and rear glass, and that is where the ceramic film goes. Tesla tint is quoted at the shop.
 
 ### How long should I leave the windows up after a Tesla tint?
 
@@ -60,7 +60,7 @@ Yes. Viper alarm installation adds a siren and shock sensor the factory system d
 - AMS Harley pods: from $649 a pair
 - Dual Kicker Comp subwoofer box: $249 for the box only
 
-Tesla packages with the roof are quoted at the shop. As of October 2026. Payment plan available, ask Nick.
+Tesla packages are quoted at the shop by model. As of October 2026. Payment plan available, ask Nick.
 
 ## Near San Dimas
 
@@ -138,10 +138,10 @@ Call (213) 429-1092 or text the model and year to (213) 429-1092. Audio MotorSpo
     },
     {
      "@type": "Question",
-     "name": "Can the panoramic roof on a Model Y be tinted?",
+     "name": "Does the panoramic roof on a Model Y get tinted?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. The roof already blocks UV, but ceramic film on top of it cuts the heat you feel on your head and shoulders on a summer drive. It is priced separately from the sides and rear, and we quote it at the shop once we see the car since roof glass varies by model."
+      "text": "No. The roof already comes dark from the factory and blocks UV on its own, so we leave it alone. The heat you feel on your head and shoulders on a summer drive comes mostly through the side and rear glass, and that is where the ceramic film goes. Tesla tint is quoted at the shop."
      }
     },
     {

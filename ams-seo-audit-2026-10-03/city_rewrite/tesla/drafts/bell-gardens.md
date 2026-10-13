@@ -2,24 +2,24 @@
 url: https://www.audiomotorsports.com/tesla/tesla-tint-bell-gardens/
 city: Bell Gardens
 miles: 11.3
-lead_service: Tesla window tint (glass roof heat)
+lead_service: Tesla window tint (one-piece rear glass)
 source: hub-mounted copy; standalone www host not verified
-title: Bell Gardens Tesla Tint for Heat | Tesla Tint LA
-meta: Tesla window tint for Bell Gardens owners tired of glass-roof heat: ceramic film hand-cut at Audio MotorSports in Carson, 11.3 miles away. Call (213) 429-1092 or text (213) 429-1092.
+title: Bell Gardens Tesla Tint, One-Piece Rear | Tesla Tint LA
+meta: Tesla window tint for Bell Gardens owners, with the rear glass filmed in one piece: ceramic film at Audio MotorSports in Carson. Call (213) 429-1092.
 ---
-# Tesla Window Tint for Bell Gardens: Taking the Heat Out of the Glass Roof
+# Tesla Window Tint for Bell Gardens: One-Piece Rear Glass Done Clean
 
-A Tesla parked in the Bell Gardens sun is an oven by noon, and owners drive about 11.3 miles to Tesla Tint LA by Audio MotorSports in Carson, 22025 S Avalon Blvd Ste A, for ceramic window tint that cuts the heat. Model 3, Y, S and X, film hand-cut to the glass, cameras clear, each model quoted at the shop.
+A Tesla parked in the Bell Gardens sun is an oven by noon, and owners drive about 11.3 miles to Tesla Tint LA by Audio MotorSports in Carson, 22025 S Avalon Blvd Ste A, for ceramic window tint. The curved rear window is filmed as a single sheet, the doors are cut to the gasket, and each model is quoted at the shop.
 
 ## What Bell Gardens Teslas come in for
 
-**Heat-rejecting ceramic film.** Ceramic blocks infrared without going dark, so the front doors can stay at California 70% VLT and still feel cooler. Doors and rear glass first; the roof panel is its own line.
+**Heat-rejecting ceramic film.** Ceramic blocks infrared without going dark, so the front doors can stay at California 70% VLT and still feel cooler. The factory roof glass is already dark; film goes on the doors and the rear glass.
 
 **Model 3 and Model Y.** Frameless doors cut to the gasket, one-piece rear window heat-shaped on a board. These are most of the Teslas in the bay.
 
 **Model S and Model X.** The longest and tallest Tesla glass. More shaping, more film, quoted by model.
 
-**Roof panel film.** A big curved panel that takes more material and time. Many owners add it after the doors and rear glass, and it can be done the same day if booked.
+**The rear window in one piece.** The back glass curves in two directions, so the film is shrunk on a board with heat until it lies flat to the edge, with no seam and no light line. It is the panel owners look at most from the driver's seat.
 
 While the Tesla is here, Audio MotorSports can install a dash camera, a GPS tracker or an alarm with remote start, and the shop does car stereo installation for other cars as well.
 
@@ -34,17 +34,17 @@ You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and 
 
 ## Bell Gardens Tesla heat and tint questions
 
-### Does tint really cool down a Tesla with a glass roof?
+### Does tint really cool down a Tesla with all that glass?
 
-Yes, noticeably. Ceramic film on the doors and rear glass blocks a large share of the infrared heat coming in from the sides, which is most of what you feel. The roof can be filmed as well and is quoted on its own. The cabin is cooler the first afternoon it sits in the sun.
+Yes, noticeably. Ceramic film on the doors and rear glass blocks a large share of the infrared heat coming in from the sides and back, which is most of what you feel. The factory roof glass is already dark. Expect the cabin to be cooler the first afternoon it sits in the sun.
 
 ### How far is the drive from Bell Gardens for Tesla tint?
 
 About 11.3 miles, roughly 23 to 27 minutes outside rush hour (approx), to 22025 S Avalon Blvd Ste A in Carson. Most Bell Gardens owners book a morning slot and have the car back before the heat of the day.
 
-### Can I add the roof film later if I do the doors now?
+### How is the curved rear window of a Tesla filmed without a seam?
 
-Yes. Doors and the one-piece rear window are the usual first job, and the roof panel can be done on a second visit or the same day if the time is booked. Tell Nick what you want when you call and he will schedule accordingly.
+The sheet is cut oversize, laid on the outside of the glass and shrunk with heat until it follows the curve, then moved inside and set. The result is one clean piece edge to edge. Nick explains the process when you book, and the work is done the same day in most cases.
 
 ### Is ceramic film worth it over dyed film on a Tesla?
 
@@ -56,7 +56,7 @@ No. The camera zones on the glass are masked and left clear, and the ceramic fil
 
 ## Pricing
 
-Tesla tint, with or without the roof, is quoted by model at the shop; text the year and model and Nick will reply. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
+Tesla tint is quoted by model at the shop; text the year and model and Nick will reply. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near Bell Gardens
 
@@ -78,8 +78,8 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@type": "WebPage",
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-bell-gardens/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-bell-gardens/",
-   "name": "Bell Gardens Tesla Tint for Heat | Tesla Tint LA",
-   "description": "Tesla window tint for Bell Gardens owners tired of glass-roof heat: ceramic film hand-cut at Audio MotorSports in Carson, 11.3 miles away. Call (213) 429-1092 or text (213) 429-1092.",
+   "name": "Bell Gardens Tesla Tint, One-Piece Rear | Tesla Tint LA",
+   "description": "Tesla window tint for Bell Gardens owners, with the rear glass filmed in one piece: ceramic film at Audio MotorSports in Carson. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -118,10 +118,10 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "mainEntity": [
     {
      "@type": "Question",
-     "name": "Does tint really cool down a Tesla with a glass roof?",
+     "name": "Does tint really cool down a Tesla with all that glass?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes, noticeably. Ceramic film on the doors and rear glass blocks a large share of the infrared heat coming in from the sides, which is most of what you feel. The roof can be filmed as well and is quoted on its own. The cabin is cooler the first afternoon it sits in the sun."
+      "text": "Yes, noticeably. Ceramic film on the doors and rear glass blocks a large share of the infrared heat coming in from the sides and back, which is most of what you feel. The factory roof glass is already dark. Expect the cabin to be cooler the first afternoon it sits in the sun."
      }
     },
     {
@@ -134,10 +134,10 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
     },
     {
      "@type": "Question",
-     "name": "Can I add the roof film later if I do the doors now?",
+     "name": "How is the curved rear window of a Tesla filmed without a seam?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. Doors and the one-piece rear window are the usual first job, and the roof panel can be done on a second visit or the same day if the time is booked. Tell Nick what you want when you call and he will schedule accordingly."
+      "text": "The sheet is cut oversize, laid on the outside of the glass and shrunk with heat until it follows the curve, then moved inside and set. The result is one clean piece edge to edge. Nick explains the process when you book, and the work is done the same day in most cases."
      }
     },
     {

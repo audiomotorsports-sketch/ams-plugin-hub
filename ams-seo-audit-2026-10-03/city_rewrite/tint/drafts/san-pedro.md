@@ -43,7 +43,7 @@ California keeps the front side windows light; the film has to let most of the v
 
 ### Will Tesla window tint affect my cameras or glass roof?
 
-No. The side cameras and sensors sit outside the tinted areas, and the roof glass is tinted only on request. The one-piece rear window is the tricky part on a Model 3 or Model Y, and we shrink and fit it as a single panel rather than cutting it.
+No. The side cameras and sensors sit outside the tinted areas, and the roof glass is already dark from the factory. The one-piece rear window is the tricky part on a Model 3 or Model Y, and we shrink and fit it as a single panel rather than cutting it.
 
 ### How long do I wait before washing the car after window tinting?
 
@@ -137,7 +137,7 @@ As of October 2026, Solar car window tint is $249 installed and Solar Ceramic is
      "name": "Will Tesla window tint affect my cameras or glass roof?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "No. The side cameras and sensors sit outside the tinted areas, and the roof glass is tinted only on request. The one-piece rear window is the tricky part on a Model 3 or Model Y, and we shrink and fit it as a single panel rather than cutting it."
+      "text": "No. The side cameras and sensors sit outside the tinted areas, and the roof glass is already dark from the factory. The one-piece rear window is the tricky part on a Model 3 or Model Y, and we shrink and fit it as a single panel rather than cutting it."
      }
     },
     {

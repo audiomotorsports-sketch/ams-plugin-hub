@@ -5,7 +5,7 @@ miles: 11.0
 lead_service: Tesla window tint (new-delivery tint)
 source: hub-mounted copy; standalone www host not verified
 title: New Tesla Tint, Hawaiian Gardens | Tesla Tint LA
-meta: New-delivery Tesla window tint for Hawaiian Gardens owners at Audio MotorSports in Carson, 11 miles away. Ceramic film on bare glass. Call (213) 429-1092 to book.
+meta: New-delivery Tesla window tint for Hawaiian Gardens owners: ceramic film on bare glass at Audio MotorSports in Carson, 11 miles away. Call (213) 429-1092.
 ---
 # New-Delivery Tesla Window Tint for Hawaiian Gardens Owners
 
@@ -13,7 +13,7 @@ Hawaiian Gardens owners with a Tesla fresh off delivery bring it to Tesla Tint L
 
 ## Tesla tint for a new car from Hawaiian Gardens
 
-**Tint in the first weeks of ownership.** A Tesla arrives with untinted side glass and a roof that looks dark but lets heat through. We tint the sides, do the curved rear glass as one piece, and film the roof if you want, so the car is set for summer from the start.
+**Tint in the first weeks of ownership.** A Tesla arrives with untinted side glass, and its roof glass is already dark from the factory. We tint the sides and do the curved rear glass as one piece, so the car is set for summer from the start.
 
 **A new interior kept new.** Seats and door panels are covered before the work starts, and the install water is kept out of the door electronics. The car goes home as clean as it arrived.
 
@@ -48,7 +48,7 @@ Window film is applied to the inside of the glass and can be removed without har
 
 ### Which shades do new Tesla owners from Hawaiian Gardens usually choose?
 
-A legal shade on the front doors, which in California means glass that passes 70% of visible light, and a darker shade on the rear doors and back glass. Many add ceramic film on the roof. We put the samples on your glass outside so you can judge the look in real light.
+A legal shade on the front doors, which in California means glass that passes 70% of visible light, and a darker shade on the rear doors and back glass. We put the samples on your glass outside so you can judge the look in real light.
 
 ### What do I need to do after I drive the new car home?
 
@@ -79,7 +79,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-hawaiian-gardens/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-hawaiian-gardens/",
    "name": "New Tesla Tint, Hawaiian Gardens | Tesla Tint LA",
-   "description": "New-delivery Tesla window tint for Hawaiian Gardens owners at Audio MotorSports in Carson, 11 miles away. Ceramic film on bare glass. Call (213) 429-1092 to book.",
+   "description": "New-delivery Tesla window tint for Hawaiian Gardens owners: ceramic film on bare glass at Audio MotorSports in Carson, 11 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -145,7 +145,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "Which shades do new Tesla owners from Hawaiian Gardens usually choose?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "A legal shade on the front doors, which in California means glass that passes 70% of visible light, and a darker shade on the rear doors and back glass. Many add ceramic film on the roof. We put the samples on your glass outside so you can judge the look in real light."
+      "text": "A legal shade on the front doors, which in California means glass that passes 70% of visible light, and a darker shade on the rear doors and back glass. We put the samples on your glass outside so you can judge the look in real light."
      }
     },
     {

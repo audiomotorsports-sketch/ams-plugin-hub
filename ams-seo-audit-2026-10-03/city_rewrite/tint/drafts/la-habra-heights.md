@@ -15,7 +15,7 @@ La Habra Heights owners with full-size SUVs and trucks drive to LA Car Tint for 
 
 - **Ceramic window tint on big SUVs.** Lots of glass means lots of heat. Solar Ceramic rejects the infrared band, so the second and third rows stop baking. Each window is cut on the vehicle and laid without trapped dust.
 - **Window tinting on pickups.** Back glass with a slider, tall door windows and a cab that sits in the sun all day. We fit the slider panels individually so they still move freely.
-- **Tesla window tint.** Curved rear glass shaped as one piece, frameless doors trimmed to seal, with the roof glass as an option quoted at the counter.
+- **Tesla window tint.** Curved rear glass shaped as one piece, frameless doors trimmed to seal, and the roof glass is already dark from the factory.
 - **Matching a replaced window.** If one pane was replaced after a break-in, we match the shade on that window so the car looks even again.
 
 Everything else in the shop, car stereo installation, Apple CarPlay and Android Auto installation, car alarm installation and remote start installation, can share the appointment.
@@ -53,7 +53,7 @@ A low price usually means pattern-cut film laid fast, and the signs show up late
 
 ## Prices, as of October 2026
 
-Solar window tint $249 installed and Solar Ceramic $329 installed, as of October 2026. Full-size SUVs, trucks with sliders, single-window matches and Tesla roof glass are quoted at the shop. Payment plan available, ask Nick.
+Solar window tint $249 installed and Solar Ceramic $329 installed, as of October 2026. Full-size SUVs, trucks with sliders and single-window matches are quoted at the shop. Payment plan available, ask Nick.
 
 ## Nearby cities we also serve
 

@@ -17,7 +17,7 @@ Inglewood Model Y owners get ceramic window tint at Tesla Tint LA by Audio Motor
 
 **Model 3, Model S, Model X and Cybertruck.** Different glass, same ceramic film. The S and X need more shaping, the Cybertruck is a flat board-cut, and each is quoted by model.
 
-**Glass roof film.** The Model Y roof is the biggest heat source in the car. Ceramic film on the inside of that panel makes the difference you feel in a parking lot.
+**Cabin heat through the doors and hatch.** The Model Y has a lot of glass overhead, and the factory roof glass is already dark. Ceramic film on the door and hatch glass is what you feel in a parking lot.
 
 **Rear window care.** The defroster lines and the electronics near the hatch are protected before the water comes out.
 
@@ -40,7 +40,7 @@ One sheet of ceramic film is heat-shrunk on the outside of the hatch glass until
 
 ### Is it worth coming from Inglewood for Model Y tint instead of the nearest shop?
 
-The Model Y has frameless doors, a curved hatch window, a glass roof and cameras in the glass. A shop that handles those every day gets them right the first time. Inglewood is about twenty minutes away, which is far less than many of our Tesla customers drive.
+The Model Y has frameless doors, a curved hatch window and cameras in the glass. A shop that handles those every day gets them right the first time. Inglewood is about twenty minutes away, which is far less than many of our Tesla customers drive.
 
 ### Will ceramic tint affect the cameras or the phone key on my Model Y?
 
@@ -48,7 +48,7 @@ No. The film has no metallic layer, so it does not block the phone key, the cell
 
 ### How dark can the Model Y go and still be legal in California?
 
-Front door glass must pass 70% of visible light, so the fronts stay light. The rear doors, hatch glass and roof have no limit. Ceramic film at the legal front shade still rejects most of the heat, so a light front with a dark rear is the usual choice.
+Front door glass must pass 70% of visible light, so the fronts stay light. The rear doors and hatch glass have no limit. Ceramic film at the legal front shade still rejects most of the heat, so a light front with a dark rear is the usual choice.
 
 ### Can an Inglewood owner add a dash camera on the same visit?
 
@@ -129,7 +129,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "Is it worth coming from Inglewood for Model Y tint instead of the nearest shop?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "The Model Y has frameless doors, a curved hatch window, a glass roof and cameras in the glass. A shop that handles those every day gets them right the first time. Inglewood is about twenty minutes away, which is far less than many of our Tesla customers drive."
+      "text": "The Model Y has frameless doors, a curved hatch window and cameras in the glass. A shop that handles those every day gets them right the first time. Inglewood is about twenty minutes away, which is far less than many of our Tesla customers drive."
      }
     },
     {
@@ -145,7 +145,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "How dark can the Model Y go and still be legal in California?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Front door glass must pass 70% of visible light, so the fronts stay light. The rear doors, hatch glass and roof have no limit. Ceramic film at the legal front shade still rejects most of the heat, so a light front with a dark rear is the usual choice."
+      "text": "Front door glass must pass 70% of visible light, so the fronts stay light. The rear doors and hatch glass have no limit. Ceramic film at the legal front shade still rejects most of the heat, so a light front with a dark rear is the usual choice."
      }
     },
     {

@@ -15,7 +15,7 @@ Garden Grove drivers who spend an hour a day facing low sun bring their cars to 
 
 - **Car window tint for the commute.** Solar film takes the sting out of a westbound evening drive and keeps the cabin private at a stoplight. The top edge is trimmed to the glass line so there is no bright strip when the window is up.
 - **Ceramic window tint for heat.** Solar Ceramic blocks infrared, which is the part of sunlight you feel on your arm. Garden Grove owners who park outside at work tend to choose it.
-- **Tesla window tint.** Single-sheet rear glass shaped to the curve, frameless doors trimmed to seal, roof glass quoted after we see the car.
+- **Tesla window tint.** Single-sheet rear glass shaped to the curve, frameless doors trimmed to seal, and the roof glass is already dark as built.
 - **Trucks and vans.** Tall door glass and sliding rear windows take patience to lay flat; this is work we do constantly.
 
 If the doors are already open, car stereo installation, Apple CarPlay and Android Auto installation, car alarm installation and remote start installation happen in the same bay and can be booked for the same visit.
@@ -53,7 +53,7 @@ Yes. Rear cargo glass and side windows on a van can take a dark film so tools an
 
 ## Prices, as of October 2026
 
-Solar car window tint $249 installed and Solar Ceramic $329 installed, as of October 2026. Vans, Tesla roof glass and anything oversized get a quote at the counter. Payment plan available, ask Nick.
+Solar car window tint $249 installed and Solar Ceramic $329 installed, as of October 2026. Vans and anything oversized get a quote at the counter. Payment plan available, ask Nick.
 
 ## Nearby cities we also serve
 

@@ -16,7 +16,7 @@ Azusa sits where the sun comes in hard off the foothills, and LA Car Tint instal
 - **Car window tint on trucks and SUVs.** Tall doors trimmed to the seal, rear sliders filmed in separate panels, third-row glass matched to the rest. Film is heat-set so it stays flat when the doors slam.
 - **Ceramic window tint for the heat.** Solar Ceramic stops infrared heat on every pane, so a vehicle parked in a sunny driveway all day is not an oven at 5 p.m.
 - **Sedans and commuters.** Solar film for a long daily drive: less glare, more privacy, fronts at the legal shade.
-- **Tesla window tint.** The big curved back window gets a single formed sheet, and the frameless door glass is trimmed so it still closes tight; roof panel on request.
+- **Tesla window tint.** The big curved back window gets a single formed sheet, and the frameless door glass is trimmed so it still closes tight; the stock roof glass is dark already, so film stays on the side and rear glass.
 
 With the vehicle already here, remote start installation, car alarm installation, car stereo installation, subwoofer installation and dash camera installation can be added to the same day.
 
@@ -45,7 +45,7 @@ Yes. Any tint lowers the light coming through the side glass, which takes the st
 
 ### What is included in a standard tint job and what is extra?
 
-Standard covers the four door windows and the rear glass, with fronts at the legal shade. Sunroofs, Tesla roof panels, truck sliders, old film removal and oversized vehicles are extra and quoted at the shop after we see them. Tell us the vehicle at booking so the quote is right.
+Standard covers the four door windows and the rear glass, with fronts at the legal shade. Truck sliders, old film removal and oversized vehicles are extra and quoted at the shop after we see them. Tell us the vehicle at booking so the quote is right.
 
 ### Why choose a Carson shop from Azusa instead of somewhere closer?
 
@@ -53,7 +53,7 @@ For the install. This crew tints every day, cuts on your glass, tucks and heat-s
 
 ## Prices, as of October 2026
 
-Solar window tint $249 installed and Solar Ceramic $329 installed, as of October 2026. Sliders, sunroofs, removal and oversized vehicles are quoted when we see them. Payment plan available, ask Nick.
+Solar window tint $249 installed and Solar Ceramic $329 installed, as of October 2026. Sliders, removal and oversized vehicles are quoted when we see them. Payment plan available, ask Nick.
 
 ## Nearby cities we also serve
 
@@ -139,7 +139,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "What is included in a standard tint job and what is extra?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Standard covers the four door windows and the rear glass, with fronts at the legal shade. Sunroofs, Tesla roof panels, truck sliders, old film removal and oversized vehicles are extra and quoted at the shop after we see them. Tell us the vehicle at booking so the quote is right."
+      "text": "Standard covers the four door windows and the rear glass, with fronts at the legal shade. Truck sliders, old film removal and oversized vehicles are extra and quoted at the shop after we see them. Tell us the vehicle at booking so the quote is right."
      }
     },
     {

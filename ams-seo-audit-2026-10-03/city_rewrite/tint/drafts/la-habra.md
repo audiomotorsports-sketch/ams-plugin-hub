@@ -53,7 +53,7 @@ The install is the product. Film laid fast from a pattern lifts, bubbles and sho
 
 ## Prices, as of October 2026
 
-Solar window tint $249 installed and Solar Ceramic $329 installed, as of October 2026. Oversized vehicles, old film removal and Tesla roof glass are quoted at the shop. Payment plan available, ask Nick.
+Solar window tint $249 installed and Solar Ceramic $329 installed, as of October 2026. Oversized vehicles and old film removal are quoted at the shop. Payment plan available, ask Nick.
 
 ## Nearby cities we also serve
 

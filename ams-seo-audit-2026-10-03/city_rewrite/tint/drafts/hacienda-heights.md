@@ -46,11 +46,11 @@ We clean the glass, cut the film by hand on each window, heat-shrink it to the c
 
 ### Can I pay for ceramic tint over time?
 
-Payment plan available, ask Nick when you book. The four-door Solar Ceramic package is $329 installed and the standard Solar package is $249 installed, as of October 2026. SUVs, trucks and Tesla roof glass are quoted at the shop once we see the vehicle.
+Payment plan available, ask Nick when you book. The four-door Solar Ceramic package is $329 installed and the standard Solar package is $249 installed, as of October 2026. SUVs and trucks are quoted at the shop once we see the vehicle.
 
 ## Ceramic tint pricing for Hacienda Heights
 
-Solar Ceramic four-door: $329 installed. Solar four-door: $249 installed. Both as of October 2026, covering four doors plus the rear glass. SUVs, trucks, windshield strips and Tesla roof glass are quoted in person. Payment plan available, ask Nick. Customer ratings as of October 2026 sit at Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews).
+Solar Ceramic four-door: $329 installed. Solar four-door: $249 installed. Both as of October 2026, covering four doors plus the rear glass. SUVs, trucks and windshield strips are quoted in person. Payment plan available, ask Nick. Customer ratings as of October 2026 sit at Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews).
 
 ## Nearby tint pages
 
@@ -137,7 +137,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports at 22025 S Avalon 
      "name": "Can I pay for ceramic tint over time?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Payment plan available, ask Nick when you book. The four-door Solar Ceramic package is $329 installed and the standard Solar package is $249 installed, as of October 2026. SUVs, trucks and Tesla roof glass are quoted at the shop once we see the vehicle."
+      "text": "Payment plan available, ask Nick when you book. The four-door Solar Ceramic package is $329 installed and the standard Solar package is $249 installed, as of October 2026. SUVs and trucks are quoted at the shop once we see the vehicle."
      }
     }
    ]

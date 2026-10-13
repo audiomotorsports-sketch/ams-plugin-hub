@@ -15,7 +15,7 @@ The rear window on a Model 3 or Model Y is the part of a Tesla tint that gets ru
 
 **One-piece rear glass tint.** The wide, steep rear pane is matched with one continuous sheet of film, shrunk off the car and laid in with the defroster lines guarded. No strips, no seams across your mirror view.
 
-**Ceramic side windows and roof.** Door glass cut to the seal and a roof film chosen for heat, so a car parked on a Norwalk street all day is bearable when you get in.
+**Ceramic side windows.** Door glass cut to the seal with a film chosen for heat, so a car parked on a Norwalk street all day is bearable when you get in. The factory roof glass is already dark, so the side and rear glass are what get filmed.
 
 **Fronts at the legal shade.** The two front door windows are installed at the California limit, which still cuts glare.
 
@@ -52,7 +52,7 @@ Dash camera installation and GPS tracker installation are the usual pairings, wi
 
 ## Prices
 
-Nick quotes each Tesla by model at the shop, since the rear glass and roof vary from model to model. For a non-Tesla reference, the same bay installs Solar for $249 and Solar Ceramic for $329, as of October 2026. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
+Nick quotes each Tesla by model at the shop, since the rear glass and side glass vary from model to model. For a non-Tesla reference, the same bay installs Solar for $249 and Solar Ceramic for $329, as of October 2026. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby Tesla tint pages
 

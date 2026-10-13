@@ -12,7 +12,7 @@ Signal Hill Tesla owners drive 5.8 miles to Audio MotorSports in Carson, 22025 S
 
 ## Work we do for Signal Hill
 
-**Tesla window tint.** One-piece rear glass on a Model 3 or Model Y is the hardest tint job on the road, and we shrink it to the curve in the bay as a single sheet, not a patchwork. Ceramic window tint keeps the glass roof and cabin cooler without touching the cameras or the signal to your phone key.
+**Tesla window tint.** One-piece rear glass on a Model 3 or Model Y is the hardest tint job on the road, and we shrink it to the curve in the bay as a single sheet, not a patchwork. Ceramic window tint on the doors and rear glass keeps the cabin cooler without touching the cameras, the factory-dark roof or the signal to your phone key.
 
 **Car window tint for everything else.** Solar for privacy, Solar Ceramic for heat, both hand-cut on the glass and both legal on the fronts at the right shade.
 
@@ -41,7 +41,7 @@ No. Ceramic film is non-metallic, so Bluetooth phone keys, Autopilot cameras, FM
 
 ### Can you tint the glass roof on a Model Y?
 
-Yes. The panoramic roof already blocks some UV, but owners still feel the heat on summer afternoons, and a ceramic layer cuts it noticeably. It is a separate line item from the side and rear glass, and we quote it at the shop once we see the car.
+No. The panoramic roof comes dark from the factory and already blocks some UV, so we leave it as it is. Where owners actually feel the heat on summer afternoons is through the side and rear glass, and a ceramic layer there cuts it noticeably. We quote the job at the shop once we see the car.
 
 ### How long does a full car tint take in your shop?
 
@@ -133,7 +133,7 @@ Phone (213) 429-1092, or text the year, make and model to (213) 429-1092 and we 
      "name": "Can you tint the glass roof on a Model Y?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. The panoramic roof already blocks some UV, but owners still feel the heat on summer afternoons, and a ceramic layer cuts it noticeably. It is a separate line item from the side and rear glass, and we quote it at the shop once we see the car."
+      "text": "No. The panoramic roof comes dark from the factory and already blocks some UV, so we leave it as it is. Where owners actually feel the heat on summer afternoons is through the side and rear glass, and a ceramic layer there cuts it noticeably. We quote the job at the shop once we see the car."
      }
     },
     {

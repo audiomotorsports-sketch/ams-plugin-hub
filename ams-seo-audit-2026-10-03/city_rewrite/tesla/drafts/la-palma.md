@@ -5,7 +5,7 @@ miles: 12.5
 lead_service: Tesla window tint (Model 3)
 source: hub-mounted copy; standalone www host not verified
 title: Model 3 Window Tint for La Palma | Tesla Tint LA
-meta: Model 3 and Tesla window tint for La Palma owners at Audio MotorSports in Carson, 12.5 miles away. Ceramic film, one-piece rear glass, cameras clear. Call (213) 429-1092.
+meta: Model 3 and Tesla window tint for La Palma owners at Audio MotorSports in Carson, 12.5 miles away. Ceramic film, one-piece rear glass. Call (213) 429-1092.
 ---
 # Model 3 Window Tint for La Palma Owners
 
@@ -19,7 +19,7 @@ La Palma Model 3 owners drive to Tesla Tint LA by Audio MotorSports, 22025 S Ava
 
 **Film that passes signals.** No metal in the ceramic film, so the phone key, the cell link and the cameras are unaffected.
 
-**Roof and visor strip.** Film on the roof panel for heat, a strip along the top of the windshield for glare, both clear of the camera housing.
+**Windshield visor strip.** A strip along the top of the windshield for glare, clear of the camera housing. The factory roof glass is already dark, so film goes on the side and rear glass.
 
 Audio MotorSports also installs dash cameras, GPS trackers, car alarms, remote start and car stereo gear in the same bay.
 
@@ -40,7 +40,7 @@ Fingers at the edges, seams where strips meet, and haze where the film was not s
 
 ### Is La Palma close enough to wait at the shop for Model 3 tint?
 
-Yes. The drive is under half an hour outside rush hour, and a Model 3 with sides and rear done is usually finished the same day. If you add roof film or a dash camera, dropping the car off in the morning is easier. We will suggest which when you book.
+Yes. The drive is under half an hour outside rush hour, and a Model 3 with sides and rear done is usually finished the same day. If you add a dash camera, dropping the car off in the morning is easier. We will suggest which when you book.
 
 ### Will the film affect the Model 3 cameras, the phone key or Autopilot?
 
@@ -78,7 +78,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-la-palma/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-la-palma/",
    "name": "Model 3 Window Tint for La Palma | Tesla Tint LA",
-   "description": "Model 3 and Tesla window tint for La Palma owners at Audio MotorSports in Carson, 12.5 miles away. Ceramic film, one-piece rear glass, cameras clear. Call (213) 429-1092.",
+   "description": "Model 3 and Tesla window tint for La Palma owners at Audio MotorSports in Carson, 12.5 miles away. Ceramic film, one-piece rear glass. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -128,7 +128,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "Is La Palma close enough to wait at the shop for Model 3 tint?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. The drive is under half an hour outside rush hour, and a Model 3 with sides and rear done is usually finished the same day. If you add roof film or a dash camera, dropping the car off in the morning is easier. We will suggest which when you book."
+      "text": "Yes. The drive is under half an hour outside rush hour, and a Model 3 with sides and rear done is usually finished the same day. If you add a dash camera, dropping the car off in the morning is easier. We will suggest which when you book."
      }
     },
     {

@@ -15,7 +15,7 @@ Compton drivers bring their cars to LA Car Tint at Audio MotorSports, 22025 S Av
 
 - **Window tinting for glare** — Low sun through the side glass is tiring on a long commute. A medium shade on the rear doors and back window softens it without making the car feel dark from the driver seat.
 - **Ceramic window tint** — If the car sits in an open lot all day, ceramic is the film that makes the real difference. It rejects infrared heat so the cabin cools down faster once the air conditioning starts.
-- **Tesla window tint** — Model 3 and Model Y rear glass needs a careful heat-shrink to lie flat; we handle it in the bay and quote the glass roof separately when you want it covered.
+- **Tesla window tint** — Model 3 and Model Y rear glass needs a careful heat-shrink to lie flat; we handle it in the bay and the glass roof is already dark from the factory, so the film goes on the side and rear glass.
 
 ## Getting here from Compton
 

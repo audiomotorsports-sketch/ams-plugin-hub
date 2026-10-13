@@ -15,7 +15,7 @@ Los Angeles has no shortage of tint shops, and drivers still come to LA Car Tint
 
 - **Car window tint for the daily commute.** Four doors and the rear glass, hand-cut, heat-formed and tucked to the seal. Less glare on the freeway, no bright line at the top of the window.
 - **Ceramic window tint.** Solar Ceramic for cars that park on the street or in open lots all day. Heat rejection without needing a dark shade.
-- **Tesla window tint.** The one-piece rear glass on a Model 3 or Model Y is formed as a single sheet. Roof glass quoted in person.
+- **Tesla window tint.** The one-piece rear glass on a Model 3 or Model Y is formed as a single sheet. Factory roof glass is already dark.
 - **Rideshare and delivery cars.** Legal front shades, cooler cabin, a nicer ride for the passenger in back.
 - Once, the rest: car stereo installation, Apple CarPlay and Android Auto installation, car alarm installation, dash camera installation and GPS tracker installation.
 
@@ -42,7 +42,7 @@ Yes. We put a light, legal shade on the front doors and a medium or dark shade b
 
 ### Do you tint Teslas for Los Angeles owners?
 
-Yes, all models. The rear glass on a Model 3 or Model Y is done as one sheet, no seam. Front shades stay within the California limit, and the glass roof is quoted at the shop after we see the car. Book a Tesla slot by text with the model and year.
+Yes, all models. The rear glass on a Model 3 or Model Y is done as one sheet, no seam. Front shades stay within the California limit, and the factory-dark roof glass needs no film. Book a Tesla slot by text with the model and year.
 
 ### How do I book a tint appointment from Los Angeles?
 
@@ -50,7 +50,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the year, make and model and the
 
 ## Window tint prices for Los Angeles
 
-Solar four-door window tint is $249 installed and Solar Ceramic four-door is $329 installed, as of October 2026, each covering the four doors plus the rear window. SUVs, trucks, Tesla roof glass and windshield strips are quoted at the shop. Payment plan available, ask Nick. Ratings as of October 2026: Google 4.8 with 654 reviews, Yelp 4.7 with 777 reviews.
+Solar four-door window tint is $249 installed and Solar Ceramic four-door is $329 installed, as of October 2026, each covering the four doors plus the rear window. SUVs, trucks and windshield strips are quoted at the counter. Payment plan available, ask Nick. Ratings as of October 2026: Google 4.8 with 654 reviews, Yelp 4.7 with 777 reviews.
 
 ## More Los Angeles-area tint pages
 
@@ -129,7 +129,7 @@ Call (213) 429-1092 or text (213) 429-1092. The shop: Audio MotorSports, 22025 S
      "name": "Do you tint Teslas for Los Angeles owners?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes, all models. The rear glass on a Model 3 or Model Y is done as one sheet, no seam. Front shades stay within the California limit, and the glass roof is quoted at the shop after we see the car. Book a Tesla slot by text with the model and year."
+      "text": "Yes, all models. The rear glass on a Model 3 or Model Y is done as one sheet, no seam. Front shades stay within the California limit, and the factory-dark roof glass needs no film. Book a Tesla slot by text with the model and year."
      }
     },
     {

@@ -5,11 +5,11 @@ miles: 27.0
 lead_service: Tesla window tint (Model X)
 source: hub-mounted copy; standalone www host not verified
 title: Model X Window Tint for Irvine | Tesla Tint LA
-meta: Model X and Tesla window tint for Irvine owners at Audio MotorSports in Carson, 27 miles away. Ceramic film on falcon-wing glass, sensors clear. Call (213) 429-1092.
+meta: Model X and Tesla window tint for Irvine owners at Audio MotorSports in Carson, 27 miles away. Ceramic film, sensors clear. Call (213) 429-1092.
 ---
 # Model X Window Tint for Irvine Owners
 
-Irvine Model X owners make the drive to Tesla Tint LA by Audio MotorSports, 22025 S Avalon Blvd Ste A in Carson, about 27 miles away, for ceramic window tint on the falcon-wing glass, the tall front doors and the roof. Each curve is shaped on the glass, the cameras and sensors stay clear, and the Model X, like every Tesla, is quoted by model at the shop.
+Irvine Model X owners make the drive to Tesla Tint LA by Audio MotorSports, 22025 S Avalon Blvd Ste A in Carson, about 27 miles away, for ceramic window tint on the falcon-wing glass, the tall front doors and the rear glass. Each curve is shaped on the glass, the cameras and sensors stay clear, and the Model X, like every Tesla, is quoted by model at the shop.
 
 ## Tesla tint for Irvine drivers
 
@@ -17,9 +17,9 @@ Irvine Model X owners make the drive to Tesla Tint LA by Audio MotorSports, 2202
 
 **Model 3 and Model Y tint.** One-piece rear window, frameless doors cut to the seal, camera zones open.
 
-**Model S and Cybertruck.** Long curved doors on the S, flat board-cut panes on the Cybertruck, each with its own quote by model.
+**Model S and Cybertruck.** The S has long curved doors and the Cybertruck has flat panes cut on a board; each gets its own quote by model.
 
-**Rear-seat heat.** The X's roof glass sits over the second and third rows; ceramic film on the roof and rear glass keeps the back of the cabin cooler for passengers.
+**Rear-seat heat.** The factory roof glass is already dark; ceramic film on the doors and rear glass keeps the back of the cabin cooler for second and third row passengers.
 
 Audio MotorSports also installs dash cameras, GPS trackers, remote start and car audio in the same bay.
 
@@ -48,11 +48,11 @@ Yes. The film is non-metallic, so the phone key, Bluetooth and cellular signals 
 
 ### How dark can the back of a Model X go in California?
 
-As dark as you like. The law restricts only the front door glass, which must pass 70% of visible light. Rear doors, third-row quarter glass and the rear window are unrestricted, and most owners go dark there with roof film to match.
+As dark as you like. The law restricts only the front door glass, which must pass 70% of visible light. Rear doors, third-row quarter glass and the rear window are unrestricted, and most owners go dark there since the factory roof glass is already dark.
 
 ### Can the falcon-wing doors be used right after the install?
 
-Yes. The film is on the inside of the glass and never touches the hinge or seal, so the doors open and close normally from the moment you leave. Keep the windows up for a few days while the film cures, and leave the rear defroster off during that time.
+Yes. The film is on the inside of the glass and never touches the hinge or seal, so the doors open and close normally from the moment you leave. Leave the windows up for the first few days while the film cures, and skip the rear defroster during that stretch.
 
 ## Pricing
 
@@ -78,7 +78,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-irvine/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-irvine/",
    "name": "Model X Window Tint for Irvine | Tesla Tint LA",
-   "description": "Model X and Tesla window tint for Irvine owners at Audio MotorSports in Carson, 27 miles away. Ceramic film on falcon-wing glass, sensors clear. Call (213) 429-1092.",
+   "description": "Model X and Tesla window tint for Irvine owners at Audio MotorSports in Carson, 27 miles away. Ceramic film, sensors clear. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -144,7 +144,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "How dark can the back of a Model X go in California?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "As dark as you like. The law restricts only the front door glass, which must pass 70% of visible light. Rear doors, third-row quarter glass and the rear window are unrestricted, and most owners go dark there with roof film to match."
+      "text": "As dark as you like. The law restricts only the front door glass, which must pass 70% of visible light. Rear doors, third-row quarter glass and the rear window are unrestricted, and most owners go dark there since the factory roof glass is already dark."
      }
     },
     {
@@ -152,7 +152,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "Can the falcon-wing doors be used right after the install?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. The film is on the inside of the glass and never touches the hinge or seal, so the doors open and close normally from the moment you leave. Keep the windows up for a few days while the film cures, and leave the rear defroster off during that time."
+      "text": "Yes. The film is on the inside of the glass and never touches the hinge or seal, so the doors open and close normally from the moment you leave. Leave the windows up for the first few days while the film cures, and skip the rear defroster during that stretch."
      }
     }
    ]

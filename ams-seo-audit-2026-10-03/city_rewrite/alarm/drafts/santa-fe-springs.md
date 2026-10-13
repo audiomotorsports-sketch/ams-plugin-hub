@@ -40,7 +40,7 @@ Because that port is the first place a thief looks, and unplugging it takes a se
 
 ### Will a tracker drain the battery on a van that sits over the weekend?
 
-A properly wired tracker draws very little at rest and sleeps between check-ins. We use the right fuse rating and check the draw before the vehicle leaves, so it starts on Monday morning.
+Wired correctly, a tracker sips almost nothing while parked and stays dormant between check-ins. We use the right fuse rating and check the draw before the vehicle leaves, so it starts on Monday morning. A van that sits parked from Friday night to Monday is well within what the system handles.
 
 ### Can the tracker and a Viper alarm be done in a single visit?
 
@@ -134,7 +134,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the year, make and model, or the
      "name": "Will a tracker drain the battery on a van that sits over the weekend?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "A properly wired tracker draws very little at rest and sleeps between check-ins. We use the right fuse rating and check the draw before the vehicle leaves, so it starts on Monday morning."
+      "text": "Wired correctly, a tracker sips almost nothing while parked and stays dormant between check-ins. We use the right fuse rating and check the draw before the vehicle leaves, so it starts on Monday morning. A van that sits parked from Friday night to Monday is well within what the system handles."
      }
     },
     {

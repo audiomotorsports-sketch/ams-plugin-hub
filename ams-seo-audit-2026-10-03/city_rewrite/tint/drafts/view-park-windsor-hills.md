@@ -19,7 +19,7 @@ Drivers from View Park-Windsor Hills tell us they want the car to look finished:
 
 **Clean edges that stay clean.** Film is shrunk to the curve of the glass and run out to the seal, so there is no bright hairline when the sun hits the door at an angle.
 
-**Tesla window tint.** Single-piece rear glass fitted as a single piece on the car; the roof is a question for the booking call.
+**Tesla window tint.** Single-piece rear glass fitted as a single piece on the car; the roof glass is already dark.
 
 ## View Park-Windsor Hills to the shop in Carson
 

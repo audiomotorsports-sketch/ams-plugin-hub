@@ -5,7 +5,7 @@ miles: 10.0
 lead_service: Tesla window tint (Model X)
 source: hub-mounted copy; standalone www host not verified
 title: Cudahy Model X Window Tint | Tesla Tint LA
-meta: Model X and Tesla window tint for Cudahy owners: tall glass, ceramic film, cameras left clear, at Audio MotorSports in Carson, 10 miles away. Call (213) 429-1092 or text (213) 429-1092.
+meta: Model X and Tesla window tint for Cudahy owners: tall glass, ceramic film, cameras clear, at Audio MotorSports in Carson, 10 miles away. Call (213) 429-1092.
 ---
 # Model X Window Tint for Cudahy Tesla Owners
 
@@ -44,7 +44,7 @@ About 10 miles, 20 to 24 minutes outside rush hour (approx), to 22025 S Avalon B
 
 ### Can I tint the Model X front windows legally?
 
-Yes, at California 70% VLT. Ceramic film at that shade still rejects a large share of infrared heat, which matters on a car with this much glass. The rear doors and back window can go darker for the passengers.
+Yes, at California 70% VLT. Film at that shade is ceramic, and it still turns away a good share of infrared heat, which matters on a car with this much glass. Passenger windows behind the front doors can go darker.
 
 ### Will tint interfere with the Model X cameras or phone key?
 
@@ -52,7 +52,7 @@ No. The camera zones on the glass are masked and left uncovered, and ceramic fil
 
 ### How is a Model X quoted for a Cudahy owner?
 
-By model, at the shop. The X uses more film and more hours than a Model 3, so a single list price would be wrong. Text the year and model and Nick will send a figure, confirmed at the counter when the car comes in.
+By model, at the shop. The X uses more film and more hours than a Model 3, so a single list price would be wrong. Text the year and model, and Nick sends a figure that is confirmed at the counter when the car comes in.
 
 ## Pricing
 
@@ -79,7 +79,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-cudahy/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-cudahy/",
    "name": "Cudahy Model X Window Tint | Tesla Tint LA",
-   "description": "Model X and Tesla window tint for Cudahy owners: tall glass, ceramic film, cameras left clear, at Audio MotorSports in Carson, 10 miles away. Call (213) 429-1092 or text (213) 429-1092.",
+   "description": "Model X and Tesla window tint for Cudahy owners: tall glass, ceramic film, cameras clear, at Audio MotorSports in Carson, 10 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -137,7 +137,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "Can I tint the Model X front windows legally?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes, at California 70% VLT. Ceramic film at that shade still rejects a large share of infrared heat, which matters on a car with this much glass. The rear doors and back window can go darker for the passengers."
+      "text": "Yes, at California 70% VLT. Film at that shade is ceramic, and it still turns away a good share of infrared heat, which matters on a car with this much glass. Passenger windows behind the front doors can go darker."
      }
     },
     {
@@ -153,7 +153,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "How is a Model X quoted for a Cudahy owner?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "By model, at the shop. The X uses more film and more hours than a Model 3, so a single list price would be wrong. Text the year and model and Nick will send a figure, confirmed at the counter when the car comes in."
+      "text": "By model, at the shop. The X uses more film and more hours than a Model 3, so a single list price would be wrong. Text the year and model, and Nick sends a figure that is confirmed at the counter when the car comes in."
      }
     }
    ]

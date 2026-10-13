@@ -9,13 +9,13 @@ source: hub-mounted copy; standalone www host not verified
 ---
 # Cybertruck and Tesla Window Tint for Redondo Beach
 
-Redondo Beach Cybertruck owners are 7.2 miles from Tesla Tint LA, the Tesla window tint side of Audio MotorSports at 22025 S Avalon Blvd Ste A in Carson. The truck's flat glass and sharp corners call for a precise pattern rather than a stretched one, and the tall rear window and roof carry a lot of sun. Ceramic film, every Tesla model, quoted by model at the shop.
+Redondo Beach Cybertruck owners are 7.2 miles from Tesla Tint LA, the Tesla window tint side of Audio MotorSports at 22025 S Avalon Blvd Ste A in Carson. The truck's flat glass and sharp corners call for a precise pattern rather than a stretched one, and the tall rear window lets in a lot of sun. Ceramic film, every Tesla model, quoted by model at the shop.
 
 ## What Redondo Beach Tesla owners come for
 
-**Cybertruck ceramic tint.** Flat panes with hard angles are cut to a tight pattern so the corners are crisp and the edges sit right on the seal. The big rear glass and the roof panel take the most film and make the biggest difference in cabin heat.
+**Cybertruck ceramic tint.** Flat panes with hard angles are cut to a tight pattern so the corners are crisp and the edges sit right on the seal. The big rear glass takes the most film and makes the biggest difference in cabin heat.
 
-**Model 3 and Model Y.** One-piece rear glass, glass roof, fronts at the California legal shade. Same bay, same ceramic film.
+**Model 3 and Model Y.** One-piece rear glass, filmed door windows and fronts at the California legal shade; the dark factory roof glass is left alone. Same bay, same ceramic film.
 
 **Model S and Model X.** Long curved glass and, on the X, falcon doors; both quoted after Nick sees the car.
 

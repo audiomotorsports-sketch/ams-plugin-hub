@@ -5,7 +5,7 @@ miles: 21.8
 lead_service: Tesla window tint (new delivery)
 source: hub-mounted copy; standalone www host not verified
 title: Brea New Tesla Delivery Tint | Tesla Tint LA
-meta: New Tesla in Brea? Tesla window tint with ceramic film, hand-cut and cameras left clear, at Audio MotorSports in Carson, 21.8 miles away. Call (213) 429-1092 or text (213) 429-1092.
+meta: New Tesla in Brea? Tesla window tint with ceramic film, hand-cut with cameras left clear, at Audio MotorSports in Carson, 21.8 miles away. Call (213) 429-1092.
 ---
 # Tesla Window Tint for Brea: The First Upgrade After Delivery
 
@@ -15,7 +15,7 @@ For Brea owners who just took delivery, Tesla window tint is usually the first s
 
 **First-week ceramic tint.** Factory glass with nothing to strip. Camera zones are masked, each piece is cut on a board to the actual window, and the edges are set to the gasket so the car looks finished from the start.
 
-**Model 3 and Model Y.** The most common new deliveries. Frameless doors and a one-piece rear window shaped with heat so it lies flat.
+**Model 3 and Model Y.** These two arrive new more than any other models. Frameless doors and a one-piece rear window shaped with heat so it lies flat.
 
 **Model S and Model X.** Longer and taller glass. More shaping, more film, quoted by model.
 
@@ -48,7 +48,7 @@ A thorough clean and a careful mask of the camera and sensor zones, but no strip
 
 ### Will ceramic film block the cameras on a new Model 3?
 
-No. Every camera zone on the glass is masked and left uncovered, and the ceramic film has no metal layer, so nothing interferes with the cameras or the phone key. The car works the same as it did on delivery day.
+No. Every camera zone on the glass is masked and left uncovered, and the ceramic film has no metal layer, so nothing interferes with the cameras or the phone key. Everything behaves as it did when it left the Tesla store.
 
 ### What is included in a new Tesla tint quote?
 
@@ -78,7 +78,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-brea/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-brea/",
    "name": "Brea New Tesla Delivery Tint | Tesla Tint LA",
-   "description": "New Tesla in Brea? Tesla window tint with ceramic film, hand-cut and cameras left clear, at Audio MotorSports in Carson, 21.8 miles away. Call (213) 429-1092 or text (213) 429-1092.",
+   "description": "New Tesla in Brea? Tesla window tint with ceramic film, hand-cut with cameras left clear, at Audio MotorSports in Carson, 21.8 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -144,7 +144,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "Will ceramic film block the cameras on a new Model 3?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "No. Every camera zone on the glass is masked and left uncovered, and the ceramic film has no metal layer, so nothing interferes with the cameras or the phone key. The car works the same as it did on delivery day."
+      "text": "No. Every camera zone on the glass is masked and left uncovered, and the ceramic film has no metal layer, so nothing interferes with the cameras or the phone key. Everything behaves as it did when it left the Tesla store."
      }
     },
     {

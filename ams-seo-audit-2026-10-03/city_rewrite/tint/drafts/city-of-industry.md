@@ -15,7 +15,7 @@ City of Industry is where people work, not where they park at night, so LA Car T
 
 - **Car window tint on company vehicles.** A sales car or a service truck that sits in a customer's lot all day gets Solar or Solar Ceramic cut on each window and laid so the edges hide under the seal. Fronts legal, rear dark enough to keep laptops out of sight.
 - **Ceramic window tint for the commuter.** Solar Ceramic blocks infrared heat on the drive in and the drive home, so the car does not greet you like a sauna at quitting time.
-- **Tesla window tint.** Single-panel rear glass shrunk to the curve, frameless doors trimmed clean, roof panel quoted at the counter.
+- **Tesla window tint.** Single-panel rear glass shrunk to the curve, frameless doors trimmed clean, with the dark factory roof glass left alone.
 - **Trucks with sliders.** The sliding rear window is filmed in separate panels so it keeps moving.
 
 Add-ons for the same drop-off: GPS tracker installation and dash camera installation for business vehicles, plus car stereo installation, Apple CarPlay and Android Auto installation and car alarm installation for anyone.
@@ -53,7 +53,7 @@ Yes. GPS tracker installation and dash camera installation are done in the same 
 
 ## Prices, as of October 2026
 
-Solar window tint $249 installed and Solar Ceramic $329 installed, as of October 2026. Work trucks, vans, multi-vehicle bookings and Tesla roof glass are quoted at the shop. Payment plan available, ask Nick.
+Solar window tint $249 installed and Solar Ceramic $329 installed, as of October 2026. Work trucks, vans and multi-vehicle bookings are quoted at the shop. Payment plan available, ask Nick.
 
 ## Nearby cities we also serve
 

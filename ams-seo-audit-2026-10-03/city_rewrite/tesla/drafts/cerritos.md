@@ -5,7 +5,7 @@ miles: 11.7
 lead_service: Tesla window tint (Model Y)
 source: hub-mounted copy; standalone www host not verified
 title: Cerritos Model Y Window Tint | Tesla Tint LA
-meta: Model Y and Tesla window tint for Cerritos drivers: ceramic film hand-cut at Audio MotorSports in Carson, 11.7 miles from Cerritos. Call (213) 429-1092 for a quote by model.
+meta: Model Y and Tesla window tint for Cerritos drivers: ceramic film hand-cut at Audio MotorSports in Carson, 11.7 miles away. Call (213) 429-1092 for a quote.
 ---
 # Model Y Window Tint for Cerritos Tesla Owners
 
@@ -13,7 +13,7 @@ The Model Y is the family Tesla in Cerritos, and it is the lead for Tesla Tint L
 
 ## What Cerritos Teslas book here
 
-**Model Y ceramic tint.** A big rear window, a glass roof and a lot of side glass for the footprint. Doors and back glass are where the heat comes in, and that is the first film to go on; the roof is quoted on its own.
+**Model Y ceramic tint.** A big rear window and a lot of side glass for the footprint. Doors and back glass are where the heat comes in, so that is the first film to go on; the factory roof glass is already dark.
 
 **Model 3 and Model S.** Shorter, flatter glass on the 3; long curved doors on the S. Both are hand-cut on a board and shaped with heat where the glass curves.
 
@@ -36,7 +36,7 @@ Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a w
 
 ### What does a Model Y tint include?
 
-Typically the four door windows and the one-piece rear glass, hand-cut on a board and shaped with heat where the glass curves. The glass roof can be added as its own line. Camera zones are masked and left clear, and the ceramic film has no metal.
+Typically the four door windows and the one-piece rear glass, hand-cut on a board and shaped with heat where the glass curves. The factory roof glass is left as it came. Camera zones are masked and left clear, and the ceramic film has no metal in it.
 
 ### How long does the drive from Cerritos take?
 
@@ -79,7 +79,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-cerritos/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-cerritos/",
    "name": "Cerritos Model Y Window Tint | Tesla Tint LA",
-   "description": "Model Y and Tesla window tint for Cerritos drivers: ceramic film hand-cut at Audio MotorSports in Carson, 11.7 miles from Cerritos. Call (213) 429-1092 for a quote by model.",
+   "description": "Model Y and Tesla window tint for Cerritos drivers: ceramic film hand-cut at Audio MotorSports in Carson, 11.7 miles away. Call (213) 429-1092 for a quote.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -121,7 +121,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "What does a Model Y tint include?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Typically the four door windows and the one-piece rear glass, hand-cut on a board and shaped with heat where the glass curves. The glass roof can be added as its own line. Camera zones are masked and left clear, and the ceramic film has no metal."
+      "text": "Typically the four door windows and the one-piece rear glass, hand-cut on a board and shaped with heat where the glass curves. The factory roof glass is left as it came. Camera zones are masked and left clear, and the ceramic film has no metal in it."
      }
     },
     {

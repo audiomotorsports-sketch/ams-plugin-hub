@@ -4,7 +4,7 @@ city: North Hollywood
 miles: 24.7
 lead_service: Compustar remote start installation
 title: Remote Start Installation North Hollywood | LA Car Alarm
-meta: Compustar remote start installation for North Hollywood drivers at LA Car Alarm by Audio MotorSports, Carson, 24.7 miles. Viper alarms, GPS. Call (213) 429-1092.
+meta: Compustar remote start installation for North Hollywood drivers at LA Car Alarm by Audio MotorSports, Carson. Viper alarms, GPS. (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Compustar Remote Start Installation for North Hollywood

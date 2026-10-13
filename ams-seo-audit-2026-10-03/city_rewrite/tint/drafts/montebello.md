@@ -50,7 +50,7 @@ We clean the glass, hand-cut the film on each window, heat-shrink it to match th
 
 ## Ceramic tint pricing for Montebello
 
-Solar Ceramic on a four-door is $329 installed; standard Solar is $249 installed; both as of October 2026 and covering four doors plus the back glass. Trucks, SUVs, windshield strips and Tesla roof glass are quoted in person. Payment plan available, ask Nick. The numbers as of October 2026: Google 4.8 (654 reviews), Yelp 4.7 (777 reviews).
+Solar Ceramic on a four-door is $329 installed; standard Solar is $249 installed; both as of October 2026 and covering four doors plus the back glass. Trucks, SUVs and windshield strips are quoted in person. Payment plan available, ask Nick. The numbers as of October 2026: Google 4.8 (654 reviews), Yelp 4.7 (777 reviews).
 
 ## Tint pages for Montebello neighbors
 

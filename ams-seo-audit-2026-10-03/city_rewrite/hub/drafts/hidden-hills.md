@@ -14,7 +14,7 @@ Hidden Hills drivers bring cars 32.3 miles to Audio MotorSports in Carson, 22025
 
 **Ceramic window tint and car window tint.** Window tinting where each panel is cut and heat-shrunk on your glass, so the edges sit flush and the film does not lift. Ceramic film keeps a cabin cooler at a lighter, legal shade and has no metal to interfere with signals.
 
-**Tesla window tint.** Rear glass as one sheet, roof optional, film kept off the camera housings.
+**Tesla window tint.** Rear glass as one sheet, factory-dark roof left alone, film kept off the camera housings.
 
 **Car stereo installation.** Head unit installation, speaker replacement, amplifier installation and subwoofer installation, wired clean and tuned before pickup.
 
@@ -41,7 +41,7 @@ Ceramic particles in the film block infrared heat without needing a dark shade, 
 
 ### Can you tint a Tesla Model X or Model S?
 
-Yes. The rear glass is tinted as one sheet shrunk to the curve, the sides and quarter windows are done by hand, and the roof can be added. Ceramic film is used so the phone key and Autopilot cameras are unaffected. Tesla packages are quoted at the shop by model.
+Yes. The rear glass is tinted as one sheet shrunk to the curve, the sides and quarter windows are done by hand, and the factory-dark roof is left as it is. Ceramic film is used so the phone key and Autopilot cameras are unaffected. Tesla packages are quoted at the shop by model.
 
 ### Should I wait or leave the car for a full tint?
 
@@ -134,7 +134,7 @@ Text the year, make and model to (213) 429-1092 or call (213) 429-1092. Audio Mo
      "name": "Can you tint a Tesla Model X or Model S?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. The rear glass is tinted as one sheet shrunk to the curve, the sides and quarter windows are done by hand, and the roof can be added. Ceramic film is used so the phone key and Autopilot cameras are unaffected. Tesla packages are quoted at the shop by model."
+      "text": "Yes. The rear glass is tinted as one sheet shrunk to the curve, the sides and quarter windows are done by hand, and the factory-dark roof is left as it is. Ceramic film is used so the phone key and Autopilot cameras are unaffected. Tesla packages are quoted at the shop by model."
      }
     },
     {

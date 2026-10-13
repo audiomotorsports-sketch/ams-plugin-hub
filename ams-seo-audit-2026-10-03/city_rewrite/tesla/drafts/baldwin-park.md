@@ -5,7 +5,7 @@ miles: 30.8
 lead_service: Tesla window tint (Model 3)
 source: hub-mounted copy; standalone www host not verified
 title: Baldwin Park Model 3 Window Tint | Tesla Tint LA
-meta: Model 3 and Tesla window tint for Baldwin Park owners: ceramic film hand-cut at Audio MotorSports in Carson, 30.8 miles from Baldwin Park. Call (213) 429-1092 or text (213) 429-1092.
+meta: Model 3 and Tesla window tint for Baldwin Park owners: ceramic film hand-cut at Audio MotorSports in Carson, 30.8 miles out. Call (213) 429-1092.
 ---
 # Model 3 Window Tint for Baldwin Park Tesla Owners
 
@@ -15,7 +15,7 @@ Baldwin Park Model 3 owners make the roughly 30.8-mile drive to Tesla Tint LA by
 
 **Model 3 window tint.** Frameless door glass that drops a hair when the door opens, so the film edge is cut to the gasket by hand. The one-piece rear window is heat-shaped on a board before it is laid.
 
-**Model Y.** More rear glass and a bigger roof than the 3. Same ceramic film and the same careful edge; the roof is quoted separately.
+**Model Y.** More rear glass than the 3, handled with the same ceramic film and careful edge. The roof glass comes dark from the factory, so the film goes on the doors and the back window.
 
 **Model S, Model X and Cybertruck.** Longest glass, tallest glass and flattest glass respectively. Each is cut to its own windows and quoted by model.
 
@@ -44,7 +44,7 @@ Usually the edge. A plotter pattern trimmed short leaves a line of light at the 
 
 ### Can I legally tint the front windows of a Model 3?
 
-Yes, at California 70% VLT. Ceramic film at that shade looks nearly clear and still blocks a large share of the infrared heat. The rear doors and back glass can go as dark as you like.
+Yes, at California 70% VLT. Ceramic film at that shade looks nearly clear and still blocks a large share of the infrared heat. Everything behind the front doors can go as dark as you like.
 
 ### Does the film affect the Model 3 cameras?
 
@@ -52,7 +52,7 @@ No. The camera areas on the glass are masked before the film is applied and left
 
 ### How is a Model 3 quoted for a Baldwin Park owner?
 
-By model, at the shop. A Model 3, a Model X and a Cybertruck use different amounts of film and labor, so each is priced on its own. Text the year and model and Nick will send a figure, confirmed at the counter.
+By model, at the shop. A Model 3, a Model X and a Cybertruck use different amounts of film and labor, so each is priced on its own. Send the year and model by text, and Nick replies with a figure you can confirm in person.
 
 ## Pricing
 
@@ -79,7 +79,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-baldwin-park/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-baldwin-park/",
    "name": "Baldwin Park Model 3 Window Tint | Tesla Tint LA",
-   "description": "Model 3 and Tesla window tint for Baldwin Park owners: ceramic film hand-cut at Audio MotorSports in Carson, 30.8 miles from Baldwin Park. Call (213) 429-1092 or text (213) 429-1092.",
+   "description": "Model 3 and Tesla window tint for Baldwin Park owners: ceramic film hand-cut at Audio MotorSports in Carson, 30.8 miles out. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -137,7 +137,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "Can I legally tint the front windows of a Model 3?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes, at California 70% VLT. Ceramic film at that shade looks nearly clear and still blocks a large share of the infrared heat. The rear doors and back glass can go as dark as you like."
+      "text": "Yes, at California 70% VLT. Ceramic film at that shade looks nearly clear and still blocks a large share of the infrared heat. Everything behind the front doors can go as dark as you like."
      }
     },
     {
@@ -153,7 +153,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "How is a Model 3 quoted for a Baldwin Park owner?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "By model, at the shop. A Model 3, a Model X and a Cybertruck use different amounts of film and labor, so each is priced on its own. Text the year and model and Nick will send a figure, confirmed at the counter."
+      "text": "By model, at the shop. A Model 3, a Model X and a Cybertruck use different amounts of film and labor, so each is priced on its own. Send the year and model by text, and Nick replies with a figure you can confirm in person."
      }
     }
    ]

@@ -15,7 +15,7 @@ Manhattan Beach Tesla owners drive 9.3 miles to Tesla Tint LA, the Tesla window 
 
 **Model X ceramic window tint.** The X windshield runs up over your head, so a lot of owners want a ceramic band or full coverage on that panel to kill the glare. The falcon-wing door glass is tinted with the doors open and the panel supported, so nothing is stressed.
 
-**Model 3 and Model Y tint.** Smaller glass, but the single rear piece and the glass roof still need an experienced hand. Ceramic film keeps cabin heat down on a car that sits in beach parking all day.
+**Model 3 and Model Y tint.** Smaller glass, but the single rear piece and the curved door glass still need an experienced hand. Ceramic film keeps cabin heat down on a car that sits in beach parking all day.
 
 **Model S and Cybertruck.** Both come through the Carson bay with their own patterns, and both are quoted after Nick sees the car.
 
@@ -48,7 +48,7 @@ No. The forward cameras sit behind a window in the windshield that is left clear
 
 ### Do you offer a lighter shade for the front windows than the rear?
 
-Yes, and it is the common setup. The front doors go at the California legal level, the rear doors and rear glass can go darker for privacy, and the roof gets a film chosen for heat rather than looks. Nick matches the shades so the car reads as one piece from outside.
+Yes, and it is the common setup. The front doors go at the California legal level, the rear doors and rear glass can go darker for privacy, and the factory roof glass is already dark. Nick matches the shades so the car reads as one piece from outside.
 
 ## What it costs
 
@@ -139,7 +139,7 @@ Call (213) 429-1092 or text (213) 429-1092 with your model and the coverage you 
      "name": "Do you offer a lighter shade for the front windows than the rear?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes, and it is the common setup. The front doors go at the California legal level, the rear doors and rear glass can go darker for privacy, and the roof gets a film chosen for heat rather than looks. Nick matches the shades so the car reads as one piece from outside."
+      "text": "Yes, and it is the common setup. The front doors go at the California legal level, the rear doors and rear glass can go darker for privacy, and the factory roof glass is already dark. Nick matches the shades so the car reads as one piece from outside."
      }
     }
    ]

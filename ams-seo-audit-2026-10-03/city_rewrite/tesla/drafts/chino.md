@@ -5,7 +5,7 @@ miles: 44.0
 lead_service: Tesla window tint (Model Y)
 source: hub-mounted copy; standalone www host not verified
 title: Chino Model Y Window Tint | Tesla Tint LA
-meta: Model Y and Tesla window tint for Chino owners who want it done once: ceramic film hand-cut at Audio MotorSports in Carson, 44 miles away. Call (213) 429-1092 or text (213) 429-1092.
+meta: Model Y and Tesla window tint for Chino owners who want it done once: ceramic film at Audio MotorSports in Carson, 44 miles away. Call (213) 429-1092.
 ---
 # Model Y Window Tint for Chino Tesla Owners
 
@@ -13,7 +13,7 @@ Chino Model Y owners drive about 44 miles to Tesla Tint LA by Audio MotorSports 
 
 ## What Chino Teslas come in for
 
-**Model Y ceramic tint.** The Y has a big one-piece rear window, a glass roof and frameless doors. Doors and rear glass carry most of the heat and go first; the rear piece is heat-shaped on a board so it lies flat with no seam.
+**Model Y ceramic tint.** The Y has a big one-piece rear window and frameless doors, and its factory roof glass is already dark. Doors and rear glass carry the film and go first; the rear piece is heat-shaped on a board so it lies flat with no seam.
 
 **Model 3.** Shorter, flatter glass with the same frameless edge, cut to the gasket by hand.
 
@@ -42,13 +42,13 @@ Because the install is the reason to drive. The film is hand-cut to the glass, t
 
 It is large and curves in two directions, so flat film will not sit on it. We form the film on a glass board to the curve and lay it as a single piece. Done right it looks like factory glass; rushed, it shows fingers and haze.
 
-### Can the Model Y roof be tinted on the same visit?
+### Can the Model Y doors and rear glass be done on the same visit?
 
-Yes, if the time is booked. Doors and rear glass are the usual starting point and block most of the heat you feel; the roof panel takes more film and shaping and is quoted on its own. Tell Nick when you call so the bay is scheduled for it.
+Yes, if the time is booked. Doors and rear glass block most of the heat you feel, and the rear piece takes the longest because of the curve it is shaped to. Tell Nick when you call so the bay is scheduled for the full job.
 
 ### What front tint is legal on a Model Y in California?
 
-The front doors must stay at 70% VLT. Ceramic film at that shade still blocks a large share of infrared heat, so the front seats stay comfortable without a dark look. The rear doors and back glass can go darker.
+The front doors must stay at 70% VLT. Ceramic at that shade keeps blocking a good share of infrared heat, so the front seats stay comfortable without a dark look. Behind the front doors the glass can go as dark as you want.
 
 ### Will the Model Y cameras work after the tint?
 
@@ -56,7 +56,7 @@ Yes. Each camera zone on the glass is masked and left uncovered, and the ceramic
 
 ## Pricing
 
-The Model Y and every Tesla are quoted by model at the shop; text the year and model and Nick will send the number. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
+The Model Y and every other Tesla are quoted by model at the shop; text the year and model and Nick will send the number. For a non-Tesla reference, as of October 2026, Solar is $249 and Solar Ceramic is $329 installed. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Tesla tint near Chino
 
@@ -78,7 +78,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-chino/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-chino/",
    "name": "Chino Model Y Window Tint | Tesla Tint LA",
-   "description": "Model Y and Tesla window tint for Chino owners who want it done once: ceramic film hand-cut at Audio MotorSports in Carson, 44 miles away. Call (213) 429-1092 or text (213) 429-1092.",
+   "description": "Model Y and Tesla window tint for Chino owners who want it done once: ceramic film at Audio MotorSports in Carson, 44 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -133,10 +133,10 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
     },
     {
      "@type": "Question",
-     "name": "Can the Model Y roof be tinted on the same visit?",
+     "name": "Can the Model Y doors and rear glass be done on the same visit?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes, if the time is booked. Doors and rear glass are the usual starting point and block most of the heat you feel; the roof panel takes more film and shaping and is quoted on its own. Tell Nick when you call so the bay is scheduled for it."
+      "text": "Yes, if the time is booked. Doors and rear glass block most of the heat you feel, and the rear piece takes the longest because of the curve it is shaped to. Tell Nick when you call so the bay is scheduled for the full job."
      }
     },
     {
@@ -144,7 +144,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "What front tint is legal on a Model Y in California?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "The front doors must stay at 70% VLT. Ceramic film at that shade still blocks a large share of infrared heat, so the front seats stay comfortable without a dark look. The rear doors and back glass can go darker."
+      "text": "The front doors must stay at 70% VLT. Ceramic at that shade keeps blocking a good share of infrared heat, so the front seats stay comfortable without a dark look. Behind the front doors the glass can go as dark as you want."
      }
     },
     {

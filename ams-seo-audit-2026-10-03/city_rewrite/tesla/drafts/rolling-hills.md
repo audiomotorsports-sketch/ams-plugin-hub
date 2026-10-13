@@ -4,7 +4,7 @@ city: Rolling Hills
 miles: 7.2
 lead_service: Tesla window tint (one-piece rear glass)
 title: Rolling Hills Tesla Window Tint | Tesla Tint LA, Carson
-meta: Tesla window tint for Rolling Hills owners, one-piece rear glass and ceramic film, at Tesla Tint LA by Audio MotorSports in Carson, 7.2 miles. Call (213) 429-1092.
+meta: Tesla window tint for Rolling Hills, one-piece rear glass and ceramic film, at Tesla Tint LA by Audio MotorSports in Carson, 7.2 miles. Call (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla Window Tint for Rolling Hills: Rear Glass in a Single Sheet
@@ -15,7 +15,7 @@ Rolling Hills Tesla owners are about 7.2 miles from Tesla Tint LA, the Tesla win
 
 **One-piece rear glass tint.** The film is heat-shaped off the car until it matches the curve, then installed as a single sheet with the defroster grid protected underneath.
 
-**Ceramic sides and roof.** Door glass cut to the seal, a roof film chosen for heat, and the two fronts at the California legal shade.
+**Ceramic side windows.** Door glass cut to the seal and the two fronts at the California legal shade; the factory roof glass is already dark and stays untouched.
 
 **Model S, Model X and Cybertruck.** Frameless doors, falcon doors and flat panels respectively; each patterned on its own and quoted after Nick inspects it.
 

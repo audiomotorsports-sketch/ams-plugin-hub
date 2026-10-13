@@ -5,7 +5,7 @@ miles: 23.7
 lead_service: Tesla window tint (camera and sensor clearance)
 source: hub-mounted copy; standalone www host not verified
 title: Costa Mesa Tesla Tint, Cameras Clear | Tesla Tint LA
-meta: Tesla window tint for Costa Mesa owners with every camera and sensor left clear, ceramic film by Audio MotorSports in Carson, 23.7 miles away. Call (213) 429-1092 to book your model.
+meta: Tesla window tint for Costa Mesa owners, every camera and sensor left clear: ceramic film by Audio MotorSports in Carson, 23.7 miles away. Call (213) 429-1092.
 ---
 # Tesla Window Tint for Costa Mesa with Cameras and Sensors Left Clear
 
@@ -78,7 +78,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-costa-mesa/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-costa-mesa/",
    "name": "Costa Mesa Tesla Tint, Cameras Clear | Tesla Tint LA",
-   "description": "Tesla window tint for Costa Mesa owners with every camera and sensor left clear, ceramic film by Audio MotorSports in Carson, 23.7 miles away. Call (213) 429-1092 to book your model.",
+   "description": "Tesla window tint for Costa Mesa owners, every camera and sensor left clear: ceramic film by Audio MotorSports in Carson, 23.7 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

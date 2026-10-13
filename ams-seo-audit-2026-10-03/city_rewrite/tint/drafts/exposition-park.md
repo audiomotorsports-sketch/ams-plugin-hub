@@ -53,7 +53,7 @@ If the car parks in shade most of the time, Solar covers privacy, glare and UV w
 
 ## Prices, as of October 2026
 
-Solar window tint $249 installed and Solar Ceramic $329 installed, as of October 2026. Hatchbacks with odd glass, large SUVs and Tesla roof glass are quoted once we see the car. Payment plan available, ask Nick.
+Solar window tint $249 installed and Solar Ceramic $329 installed, as of October 2026. Hatchbacks with odd glass and large SUVs are quoted once we see the car. Payment plan available, ask Nick.
 
 ## Nearby cities we also serve
 

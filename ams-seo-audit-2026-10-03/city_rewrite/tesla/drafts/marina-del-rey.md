@@ -9,11 +9,11 @@ source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla Window Tint for Marina del Rey, Model 3 Leading
 
-Marina del Rey Model 3 owners cover about 14.9 miles to reach Tesla Tint LA, the Tesla window tint shop at Audio MotorSports, 22025 S Avalon Blvd Ste A in Carson. The Model 3 is compact but carries a large one-piece rear window and a full glass roof, and both need ceramic film shaped to fit. Nick quotes each model separately at the shop.
+Marina del Rey Model 3 owners cover about 14.9 miles to reach Tesla Tint LA, the Tesla window tint shop at Audio MotorSports, 22025 S Avalon Blvd Ste A in Carson. The Model 3 is compact but carries a large one-piece rear window and frameless doors, and both need ceramic film shaped to fit. The factory roof glass is already dark. Nick quotes each model separately at the shop.
 
 ## What Marina del Rey Tesla owners ask for
 
-**Model 3 ceramic tint.** Door glass cut to the seal, the rear window installed as a single shaped sheet, the roof filmed for heat and the two fronts set at the California legal shade.
+**Model 3 ceramic tint.** Door glass cut to the seal, the rear window installed as a single shaped sheet, the rear doors matched to it and the two fronts set at the California legal shade.
 
 **Salt air and sun.** A car parked near the water gets glare off everything. Ceramic film takes the edge off without a reflective look and holds its color over time.
 
@@ -42,9 +42,9 @@ Yes. Just over half an hour each way, with the car in the bay for a few hours in
 
 No. Ceramic film contains no metal, so Bluetooth from your phone key, the pillar card reader and the car's cellular link all work as before. The windshield camera window and the pillar camera lenses are left clear, so Autopilot's view is unchanged.
 
-### Can the Model 3 glass roof be tinted even though it already looks dark?
+### Does the Model 3 need more than the rear window done to stay cool?
 
-Yes, and it is worth doing. The factory glass looks dark but passes a lot of heat onto the front seats. A ceramic film on the roof cuts that heat noticeably while changing the outside appearance very little. It is applied from inside with the headliner left in place.
+The factory roof glass is already dark, so the work goes on the side and rear glass. Ceramic film on the doors and the one-piece rear window cuts the heat that reaches the front seats while changing the outside appearance very little. It goes on from inside with the trim left in place.
 
 ### Can I bring a second car for window tint on the same day?
 
@@ -128,10 +128,10 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
     },
     {
      "@type": "Question",
-     "name": "Can the Model 3 glass roof be tinted even though it already looks dark?",
+     "name": "Does the Model 3 need more than the rear window done to stay cool?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes, and it is worth doing. The factory glass looks dark but passes a lot of heat onto the front seats. A ceramic film on the roof cuts that heat noticeably while changing the outside appearance very little. It is applied from inside with the headliner left in place."
+      "text": "The factory roof glass is already dark, so the work goes on the side and rear glass. Ceramic film on the doors and the one-piece rear window cuts the heat that reaches the front seats while changing the outside appearance very little. It goes on from inside with the trim left in place."
      }
     },
     {

@@ -35,7 +35,7 @@ Yes. Tesla rear glass is one large curved piece and the film has to be heat-shru
 
 ### Which Tesla models do you tint?
 
-Model 3, Model Y, Model S and Model X, plus Cybertruck on request. We tint the front doors, rear doors or quarter glass and the rear window; the glass roof can be discussed at the shop. Pricing is quoted in person because it varies by model and glass area.
+Model 3, Model Y, Model S and Model X, plus Cybertruck on request. We tint the front doors, rear doors or quarter glass and the rear window; the glass roof is already dark from the factory and is not filmed. Pricing is quoted in person because it varies by model and glass area.
 
 ### Does ceramic tint interfere with the Tesla cameras or key card?
 
@@ -127,7 +127,7 @@ Text (213) 429-1092 with your Tesla model and year, or call (213) 429-1092. We a
      "name": "Which Tesla models do you tint?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Model 3, Model Y, Model S and Model X, plus Cybertruck on request. We tint the front doors, rear doors or quarter glass and the rear window; the glass roof can be discussed at the shop. Pricing is quoted in person because it varies by model and glass area."
+      "text": "Model 3, Model Y, Model S and Model X, plus Cybertruck on request. We tint the front doors, rear doors or quarter glass and the rear window; the glass roof is already dark from the factory and is not filmed. Pricing is quoted in person because it varies by model and glass area."
      }
     },
     {

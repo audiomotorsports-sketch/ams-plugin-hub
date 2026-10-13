@@ -13,7 +13,7 @@ Huntington Beach sends us two kinds of vehicles more than any other: Teslas and 
 
 ## What Huntington Beach drivers bring us
 
-- **Tesla window tint.** Model 3, Model Y, Model S and Model X. Single-sheet rear glass, no seam; roof panels quoted after we see the car.
+- **Tesla window tint.** Model 3, Model Y, Model S and Model X. Single-sheet rear glass, no seam; factory-dark roof glass stays as it is.
 - **Truck window tint.** Tall door glass, sliding rear windows handled panel by panel, back glass formed by hand. The fronts stay legal; the rear can go dark.
 - **Ceramic window tint for beach parking.** Solar Ceramic keeps a car that sits at the beach all day from turning into an oven.
 - **Car window tint, Solar.** Full UV protection, hand-cut, installed in one visit.
@@ -34,7 +34,7 @@ Yes. A lifted truck is tinted the same as any other truck; the glass does not ca
 
 ### Is the Tesla rear window tinted in one piece?
 
-Yes. Model 3 and Model Y rear glass is one large curved pane, and we form a single sheet of film to it by hand rather than splitting it. The front doors stay within the California limit, the rear doors can go darker, and roof glass is a separate quote once we see the car.
+Yes. Model 3 and Model Y rear glass is one large curved pane, and we form a single sheet of film to it by hand rather than splitting it. The front doors stay within the California limit, the rear doors can go darker, and the roof glass is already dark from the factory.
 
 ### Is Carson too far from Huntington Beach for a tint job?
 
@@ -50,7 +50,7 @@ No. California applies the same front-window rule to trucks as to cars, regardle
 
 ## Tint prices for Huntington Beach
 
-Four-door Solar window tint: $249 installed. Four-door Solar Ceramic: $329 installed. Prices as of October 2026, covering four doors plus the back glass. Trucks, SUVs, Tesla roof glass and windshield strips are quoted in person; no Tesla model pricing is listed here. Payment plan available, ask Nick. Google 4.8 (654 reviews), Yelp 4.7 (777 reviews), figures as of October 2026.
+Four-door Solar window tint: $249 installed. Four-door Solar Ceramic: $329 installed. Prices as of October 2026, covering four doors plus the back glass. Trucks, SUVs and windshield strips are quoted in person; no Tesla model pricing is listed here. Payment plan available, ask Nick. Google 4.8 (654 reviews), Yelp 4.7 (777 reviews), figures as of October 2026.
 
 ## Nearby Orange County tint pages
 
@@ -113,7 +113,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the model. Audio MotorSports is 
      "name": "Is the Tesla rear window tinted in one piece?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. Model 3 and Model Y rear glass is one large curved pane, and we form a single sheet of film to it by hand rather than splitting it. The front doors stay within the California limit, the rear doors can go darker, and roof glass is a separate quote once we see the car."
+      "text": "Yes. Model 3 and Model Y rear glass is one large curved pane, and we form a single sheet of film to it by hand rather than splitting it. The front doors stay within the California limit, the rear doors can go darker, and the roof glass is already dark from the factory."
      }
     },
     {

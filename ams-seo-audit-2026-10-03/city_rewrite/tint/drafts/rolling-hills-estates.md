@@ -15,7 +15,7 @@ For Rolling Hills Estates owners who want privacy glass on an SUV without the fa
 
 - **Privacy tint on SUVs.** Rear doors and cargo glass can go darker under California rules, and that is where most Rolling Hills Estates families want it. Hand-cutting on the glass means the film reaches the gasket with no visible hairline at the top.
 - **Ceramic window tint for the whole car.** Solar Ceramic keeps the heat out at any shade, so the fronts can stay light and legal while the cabin still runs cooler.
-- **Tesla window tint.** Model Y and Model X are regular visitors. The single-piece rear window is formed in one sheet; roof glass is quoted once we see it.
+- **Tesla window tint.** Model Y and Model X are regular visitors. The single-piece rear window is formed in one sheet; the roof glass is dark from the factory already.
 - **Luxury sedans.** Frameless doors and tight gaskets take patience. The film is shrunk to the curve and tucked, never trimmed short to save time.
 - The cross-sell, said once: the same shop does car stereo installation, Apple CarPlay and Android Auto installation, dash camera installation and GPS tracker installation.
 
@@ -46,11 +46,11 @@ We lay a sheet over the outside of the glass, heat-shrink it until it follows th
 
 ### Do you do Tesla window tint for Model X falcon doors?
 
-We do, along with Model 3, Model Y and Model S. Tesla glass is large and curved, which is exactly the kind of work that rewards hand-cutting. Roof glass and windshield strips are quoted in the shop after we see the car, and the fronts stay within California limits.
+We do, along with Model 3, Model Y and Model S. Tesla glass is large and curved, which is exactly the kind of work that rewards hand-cutting. Windshield strips are quoted in the shop after we see the car, and the fronts stay within California limits.
 
 ## What tint costs, as of October 2026
 
-Solar four-door window tint is $249 installed; Solar Ceramic four-door is $329 installed, as of October 2026. Those cover four side windows plus the rear glass. SUVs, trucks, Tesla roof glass, windshields and full privacy packages are quoted in person. Payment plan available, ask Nick. Trust check, as of October 2026: Google 4.8 across 654 reviews, Yelp 4.7 across 777 reviews.
+Solar four-door window tint is $249 installed; Solar Ceramic four-door is $329 installed, as of October 2026. Those cover four side windows plus the rear glass. SUVs, trucks, windshields and full privacy packages are quoted in person. Payment plan available, ask Nick. Trust check, as of October 2026: Google 4.8 across 654 reviews, Yelp 4.7 across 777 reviews.
 
 ## Other Peninsula and South Bay tint pages
 
@@ -141,7 +141,7 @@ Call (213) 429-1092, or text (213) 429-1092 with a photo of the car. The address
      "name": "Do you do Tesla window tint for Model X falcon doors?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "We do, along with Model 3, Model Y and Model S. Tesla glass is large and curved, which is exactly the kind of work that rewards hand-cutting. Roof glass and windshield strips are quoted in the shop after we see the car, and the fronts stay within California limits."
+      "text": "We do, along with Model 3, Model Y and Model S. Tesla glass is large and curved, which is exactly the kind of work that rewards hand-cutting. Windshield strips are quoted in the shop after we see the car, and the fronts stay within California limits."
      }
     }
    ]

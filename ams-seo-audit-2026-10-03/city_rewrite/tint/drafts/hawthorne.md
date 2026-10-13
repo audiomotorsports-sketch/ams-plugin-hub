@@ -17,7 +17,7 @@ A faded dash and cracked leather are what untinted glass does to a car over a fe
 
 **Ceramic window tint for heat.** Solar Ceramic adds strong infrared rejection on top of UV protection, so a black car parked outside is bearable at pickup. No metal layer, so no signal interference.
 
-**Tesla window tint.** Model 3, Model Y and the rest get the big rear glass fitted as one piece. We talk about the glass roof when you call.
+**Tesla window tint.** Model 3, Model Y and the rest get the big rear glass fitted as one piece. The glass roof is already dark from the factory, so film goes on the side and rear glass.
 
 **SUV and third-row glass.** Family SUVs with a third row get every rear panel matched so the shade is even from front to back.
 
@@ -54,7 +54,7 @@ Wait a few days. The film is applied wet and the moisture under it needs time to
 
 ## Window tint prices as of October 2026
 
-Standard sedan pricing as of October 2026: Solar window tint $249 installed, Solar Ceramic window tint $329 installed, four doors plus rear glass. SUVs, pickups, Teslas, and sunroof or windshield strips are quoted when the vehicle is in the bay. Payment plan available, ask Nick. The same shop also does Apple CarPlay and Android Auto installation, speaker replacement, Compustar installation and dash camera installation.
+Standard sedan pricing as of October 2026: Solar window tint $249 installed, Solar Ceramic window tint $329 installed, four doors plus rear glass. SUVs, pickups, Teslas and windshield strips are quoted when the vehicle is in the bay. Payment plan available, ask Nick. The same shop also does Apple CarPlay and Android Auto installation, speaker replacement, Compustar installation and dash camera installation.
 
 ## Nearby cities we tint
 

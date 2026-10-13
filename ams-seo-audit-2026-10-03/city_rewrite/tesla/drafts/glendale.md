@@ -19,7 +19,7 @@ Glendale Cybertruck owners drive to Tesla Tint LA by Audio MotorSports, 22025 S 
 
 **Model S and Model X.** More shaping on longer and taller curved glass, with a separate quote by model for each.
 
-**Roof and windshield strip.** Ceramic film on the glass roof and a glare strip along the top of the windshield, below the camera housing.
+**Windshield strip.** A glare strip along the top of the windshield, kept below the camera housing.
 
 Audio MotorSports can also wire a dash camera, a GPS tracker, a Compustar remote start or an audio upgrade into the truck during the same visit.
 

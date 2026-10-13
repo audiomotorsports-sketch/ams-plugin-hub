@@ -15,7 +15,7 @@ Bradbury owners tend to bring cars that deserve a careful hand, and LA Car Tint 
 
 - **Ceramic window tint on luxury sedans.** Solar Ceramic blocks infrared heat with a neutral look that does not change the car's character. The glass is cleaned to bare, the film is cut on each window and squeegeed so there is nothing trapped under it.
 - **Car window tinting on SUVs.** Second and third row glass laid panel by panel so every window reads the same shade from the outside.
-- **Tesla window tint.** The curved rear window gets one shaped sheet, the frameless doors are trimmed to seal, and the roof panel can be done on request.
+- **Tesla window tint.** The curved rear window gets one shaped sheet, the frameless doors are trimmed to seal, and the factory roof glass is already dark so the film stays on the side and rear windows.
 - **Light, legal fronts.** Many Bradbury owners want the fronts barely tinted, just enough to cut glare and UV. That is a standard request and handled at the car.
 
 If you want more done in the same visit, car stereo installation, Apple CarPlay and Android Auto installation, car alarm installation and dash camera installation are all performed in this bay by the same people.
@@ -53,7 +53,7 @@ Repetition and care. This crew tints every day, cuts on the glass rather than fr
 
 ## Prices, as of October 2026
 
-Solar window tint $249 installed and Solar Ceramic $329 installed, as of October 2026. Tesla roof glass, full-size SUVs and anything unusual are quoted at the shop. Payment plan available, ask Nick.
+Solar window tint $249 installed and Solar Ceramic $329 installed, as of October 2026. full-size SUVs and anything unusual are quoted at the shop. Payment plan available, ask Nick.
 
 ## Nearby cities we also serve
 

@@ -14,7 +14,7 @@ Rancho Palos Verdes drivers come down the hill 9 miles to Audio MotorSports in C
 
 **Car window tint and ceramic window tint.** Solar film at $249 installed and Solar Ceramic at $329 installed as of October 2026, each piece hand-cut on the glass. Ceramic is the pick for a car that sits in coastal sun, because it rejects heat without darkening the glass past what the front-window law allows.
 
-**Tesla window tint.** Model 3, Y, S and X, including one-piece rear glass and the panoramic roof, done without disturbing the cameras.
+**Tesla window tint.** Model 3, Y, S and X, including one-piece rear glass, done without disturbing the cameras or the factory-dark roof.
 
 **Car stereo installation.** Upgrades to premium factory systems, head unit installation, speaker replacement, subwoofer installation and amplifier installation, tuned on site.
 

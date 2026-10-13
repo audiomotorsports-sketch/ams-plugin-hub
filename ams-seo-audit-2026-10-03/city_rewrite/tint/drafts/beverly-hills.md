@@ -14,7 +14,7 @@ Beverly Hills owners want ceramic window tint that nobody notices and everybody 
 ## What Beverly Hills drivers bring us
 
 - **Ceramic window tint on luxury sedans and coupes.** Solar Ceramic stops infrared heat through a neutral, non-mirrored film. The glass is cleaned to bare, the film cut on the pane and squeegeed from the center so nothing sits under it.
-- **Tesla window tint.** The curved rear glass gets one continuous panel shaped to it, frameless doors are trimmed to seal, and the glass roof can be filmed to cut overhead heat.
+- **Tesla window tint.** The curved rear glass gets one continuous panel shaped to it, frameless doors are trimmed to seal, and the factory roof glass is already dark, so film goes on the side and rear glass.
 - **Privacy on SUVs.** Rear doors and back glass dark enough to keep the cabin private at valet and at the curb, with the fronts at a light legal shade.
 - **Car window tint on the weekend car.** Solar film, same careful install, lower price.
 
@@ -35,9 +35,9 @@ Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a w
 
 No. Solar Ceramic is neutral in color and does not have the mirrored look of older metallic films. A light shade on the fronts and a moderate shade on the rear reads as factory glass. The heat rejection comes from the ceramic layer, so you do not need to go dark to get the benefit.
 
-### Do you tint the glass roof on a Tesla or a panoramic sunroof?
+### Does a Tesla's glass roof need tint, or is it already dark?
 
-Fixed roof glass, yes. A ceramic film on the roof panel cuts the heat that comes straight down, which side-window tint cannot address. Sliding sunroofs are evaluated at the car. Roof work is quoted at the shop after we see the panel.
+It is already dark from the factory. Tesla and panoramic roof glass leaves the plant with a heavy tint, so the film goes on the side and rear glass instead. That is where our Solar Ceramic work happens, and we quote the job once we see the car.
 
 ### How is the film kept free of dust and specks during the install?
 
@@ -53,7 +53,7 @@ Because this bay tints every working day and treats every pane the same way: cut
 
 ## Prices, as of October 2026
 
-Solar window tint $249 installed and Solar Ceramic $329 installed, as of October 2026. Tesla roof glass, panoramic sunroofs and full-size SUVs are quoted at the shop. Payment plan available, ask Nick.
+Solar window tint $249 installed and Solar Ceramic $329 installed, as of October 2026. Full-size SUVs are quoted at the shop. Payment plan available, ask Nick.
 
 ## Nearby cities we also serve
 
@@ -120,10 +120,10 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
     },
     {
      "@type": "Question",
-     "name": "Do you tint the glass roof on a Tesla or a panoramic sunroof?",
+     "name": "Does a Tesla's glass roof need tint, or is it already dark?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Fixed roof glass, yes. A ceramic film on the roof panel cuts the heat that comes straight down, which side-window tint cannot address. Sliding sunroofs are evaluated at the car. Roof work is quoted at the shop after we see the panel."
+      "text": "It is already dark from the factory. Tesla and panoramic roof glass leaves the plant with a heavy tint, so the film goes on the side and rear glass instead. That is where our Solar Ceramic work happens, and we quote the job once we see the car."
      }
     },
     {
@@ -158,4 +158,4 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
 
 [CONFIRM] SHOP NOTE slot: Nick to add 2-3 sentences about Beverly Hills customers, routes or jobs.
 [CONFIRM] Drive time "forty minutes (approx)" computed from 18.5 miles at 25-30 mph; shop to verify.
-[CONFIRM] Roof glass and panoramic sunroof tinting offered: confirm.
+[CONFIRM] Roof glass is not filmed at the shop; confirm wording.

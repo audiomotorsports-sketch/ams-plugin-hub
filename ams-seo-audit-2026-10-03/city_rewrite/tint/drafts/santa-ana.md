@@ -16,7 +16,7 @@ Santa Ana drivers cross the county line for car window tint that is cut on the g
 - **Car window tint on sedans and coupes.** Four doors and the back glass, each piece hand-trimmed so the film reaches the seal with no light line showing. Nothing is drilled, nothing is glued.
 - **Ceramic window tint for the lot and the freeway.** Solar Ceramic holds back infrared heat while the car sits and cuts glare on the drive home. It stays clear, so the view out is not affected.
 - **Window tinting for luxury and German cars.** Frameless doors and tight seals need patient fitting. The film is shaped on the glass and laid so the edge disappears when the window rolls up.
-- **Tesla window tint.** Tesla side glass and the curved rear window are handled routinely; ask about the roof when you call.
+- **Tesla window tint.** Tesla side glass and the curved rear window are handled routinely; the roof glass is already dark.
 
 One Santa Ana visit can also take in car stereo installation, Apple CarPlay and Android Auto installation, car alarm installation, remote start installation or dash camera installation.
 

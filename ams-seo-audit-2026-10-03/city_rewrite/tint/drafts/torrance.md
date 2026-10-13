@@ -43,7 +43,7 @@ Front side windows have to let most of the light through, so they stay a light s
 
 ### Do you do Tesla window tint for Torrance owners?
 
-Yes. Tesla window tint is a regular job here. The rear window on a Model 3 or Model Y is one large curved piece, so the film is shrunk and laid as a single panel. Front doors stay at the legal shade, and the roof glass can be done on request.
+Yes. Tesla window tint is a regular job here. The rear window on a Model 3 or Model Y is one large curved piece, so the film is shrunk and laid as a single panel. Front doors stay at the legal shade, and the roof glass is already dark from the factory.
 
 ### Can window tinting go on the same day as remote start installation?
 
@@ -138,7 +138,7 @@ Phone (213) 429-1092. Text line (213) 429-1092. Audio MotorSports, 22025 S Avalo
      "name": "Do you do Tesla window tint for Torrance owners?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. Tesla window tint is a regular job here. The rear window on a Model 3 or Model Y is one large curved piece, so the film is shrunk and laid as a single panel. Front doors stay at the legal shade, and the roof glass can be done on request."
+      "text": "Yes. Tesla window tint is a regular job here. The rear window on a Model 3 or Model Y is one large curved piece, so the film is shrunk and laid as a single panel. Front doors stay at the legal shade, and the roof glass is already dark from the factory."
      }
     },
     {

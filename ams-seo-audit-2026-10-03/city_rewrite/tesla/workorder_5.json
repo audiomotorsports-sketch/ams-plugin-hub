@@ -1,21 +1,7 @@
 {
  "site": "tesla",
  "out_dir": "tesla/drafts",
- "fix_files": {
-  "anaheim.md": "see qa_check",
-  "artesia.md": "see qa_check",
-  "azusa.md": "see qa_check",
-  "bellflower.md": "see qa_check",
-  "beverly-hills.md": "see qa_check",
-  "boyle-heights.md": "see qa_check",
-  "brea.md": "see qa_check",
-  "carson.md": "see qa_check",
-  "city-of-commerce.md": "see qa_check",
-  "city-of-industry.md": "see qa_check",
-  "compton.md": "see qa_check",
-  "costa-mesa.md": "see qa_check",
-  "culver-city.md": "see qa_check"
- },
+ "fix_files": {},
  "write_missing": [
   {
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-monrovia/",

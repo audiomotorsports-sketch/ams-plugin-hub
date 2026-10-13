@@ -50,7 +50,7 @@ Yes. The cab doors get the legal shade, sliding rear windows are done panel by p
 
 ## Window tint prices for Bell
 
-Solar, four doors plus rear glass: $249 installed. Solar Ceramic, same coverage: $329 installed. Both are as of October 2026. Trucks, vans, SUVs, windshield strips and Tesla roof glass are quoted at the counter. Payment plan available, ask Nick. The review record as of October 2026: Google 4.8 (654 reviews), Yelp 4.7 (777 reviews).
+Solar, four doors plus rear glass: $249 installed. Solar Ceramic, same coverage: $329 installed. Both are as of October 2026. Trucks, vans, SUVs and windshield strips are quoted at the counter. Payment plan available, ask Nick. The review record as of October 2026: Google 4.8 (654 reviews), Yelp 4.7 (777 reviews).
 
 ## Tint pages near Bell
 

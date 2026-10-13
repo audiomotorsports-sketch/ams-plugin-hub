@@ -50,7 +50,7 @@ Book ahead. Tint is scheduled so the bay is clean and the film is ready when you
 
 ## Tint pricing for Downey, as of October 2026
 
-Solar four-door window tint is $249 installed and Solar Ceramic four-door is $329 installed, as of October 2026. Both include the four doors and the rear glass. Minivans, SUVs, trucks, Tesla roof glass and windshield strips are quoted when we see the vehicle. Payment plan available, ask Nick. Google shows 4.8 (654 reviews) and Yelp shows 4.7 (777 reviews), as of October 2026.
+Solar four-door window tint is $249 installed and Solar Ceramic four-door is $329 installed, as of October 2026. Both include the four doors and the rear glass. Minivans, SUVs, trucks and windshield strips are quoted when we see the vehicle. Payment plan available, ask Nick. Google shows 4.8 (654 reviews) and Yelp shows 4.7 (777 reviews), as of October 2026.
 
 ## Nearby tint pages
 

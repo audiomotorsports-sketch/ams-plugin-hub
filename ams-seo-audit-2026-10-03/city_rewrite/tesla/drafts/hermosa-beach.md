@@ -13,7 +13,7 @@ A new Tesla in Hermosa Beach usually gets tinted within its first couple of week
 
 ## Tesla tint for Hermosa Beach owners
 
-**New-delivery tint.** The car arrives with clear side glass and a roof that looks dark but passes heat. We tint the sides, do the rear window in one piece, and film the roof if you want it, so the car is ready for the sun before you have had a chance to miss it.
+**New-delivery tint.** The car arrives with clear side glass, and the factory roof glass is already dark. We tint the sides and do the rear window in one piece, so the car is ready for the sun before you have had a chance to miss it.
 
 **Protecting a new interior.** Door panels and seats are covered before the work starts, and the water used in the install is kept out of the door electronics. The car leaves as clean as it came.
 
@@ -48,7 +48,7 @@ Window film is applied to the inside of the glass and does not alter the car; it
 
 ### What shades do Hermosa Beach owners usually pick on a new Tesla?
 
-Legal shade on the fronts, which in California means the glass must pass 70% of visible light, and a darker shade on the rear doors and back glass. Many add ceramic film to the roof. We hold samples against your glass outside so you decide by what you see.
+Legal shade on the fronts, which in California means the glass must pass 70% of visible light, and a darker shade on the rear doors and back glass. The factory roof glass is already dark, so the film goes on the sides and the rear glass. We hold samples against your glass outside so you decide by what you see.
 
 ### Can I drive the new Tesla home right after and roll the windows down?
 
@@ -144,7 +144,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "What shades do Hermosa Beach owners usually pick on a new Tesla?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Legal shade on the fronts, which in California means the glass must pass 70% of visible light, and a darker shade on the rear doors and back glass. Many add ceramic film to the roof. We hold samples against your glass outside so you decide by what you see."
+      "text": "Legal shade on the fronts, which in California means the glass must pass 70% of visible light, and a darker shade on the rear doors and back glass. The factory roof glass is already dark, so the film goes on the sides and the rear glass. We hold samples against your glass outside so you decide by what you see."
      }
     },
     {

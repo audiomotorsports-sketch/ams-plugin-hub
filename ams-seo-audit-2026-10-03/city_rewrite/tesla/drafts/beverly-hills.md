@@ -5,7 +5,7 @@ miles: 18.5
 lead_service: Tesla window tint (new delivery)
 source: hub-mounted copy; standalone www host not verified
 title: New Tesla Tint for Beverly Hills | Tesla Tint LA
-meta: Tesla window tint for Beverly Hills owners fresh from delivery: ceramic film hand-cut at Audio MotorSports in Carson, 18.5 miles away. Call (213) 429-1092 or text (213) 429-1092 to book.
+meta: Tesla window tint for Beverly Hills owners fresh from delivery: ceramic film hand-cut at Audio MotorSports in Carson, 18.5 miles away. Call (213) 429-1092.
 ---
 # Tesla Window Tint for Beverly Hills, Right After Delivery
 
@@ -48,7 +48,7 @@ We do not make claims about Tesla terms, and the tint does not touch any factory
 
 ### What does the Tesla quote cover?
 
-The ceramic film, the hand-cut install on each window you choose, and the prep around the rear-glass electronics. Teslas are quoted by model at the shop because glass area differs so much. Text the year and model and Nick will send the number.
+The ceramic film, the hand-cut install on each window you choose, and the prep around the rear-glass electronics. Teslas are quoted by model at the shop because glass area differs so much. Send Nick the year and model by text and he replies with a quote.
 
 ### Do you cut the film on the new glass?
 
@@ -78,7 +78,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-beverly-hills/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-beverly-hills/",
    "name": "New Tesla Tint for Beverly Hills | Tesla Tint LA",
-   "description": "Tesla window tint for Beverly Hills owners fresh from delivery: ceramic film hand-cut at Audio MotorSports in Carson, 18.5 miles away. Call (213) 429-1092 or text (213) 429-1092 to book.",
+   "description": "Tesla window tint for Beverly Hills owners fresh from delivery: ceramic film hand-cut at Audio MotorSports in Carson, 18.5 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -144,7 +144,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "What does the Tesla quote cover?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "The ceramic film, the hand-cut install on each window you choose, and the prep around the rear-glass electronics. Teslas are quoted by model at the shop because glass area differs so much. Text the year and model and Nick will send the number."
+      "text": "The ceramic film, the hand-cut install on each window you choose, and the prep around the rear-glass electronics. Teslas are quoted by model at the shop because glass area differs so much. Send Nick the year and model by text and he replies with a quote."
      }
     },
     {

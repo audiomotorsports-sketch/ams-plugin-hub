@@ -42,7 +42,7 @@ Because the installation decides whether the tint still looks right in five year
 
 ### Can you tint a Tesla Model Y for a Rossmoor family?
 
-Yes. The Model Y rear window is one large curved pane and we tint it in a single sheet with no seam. The front doors stay within the California limit, the rear doors can go darker, and the glass roof is quoted at the shop once we see the car in person.
+Yes. The Model Y rear window is one large curved pane and we tint it in a single sheet with no seam. The front doors stay within the California limit, the rear doors can go darker, and the glass roof is already dark from the factory.
 
 ### What should I do after the tint is installed?
 
@@ -50,7 +50,7 @@ Leave the windows up for a few days so the film cures to the glass. Light haze o
 
 ## Rossmoor tint prices
 
-As of October 2026: four-door Solar window tint, $249 installed; four-door Solar Ceramic, $329 installed. Each covers four doors and the rear glass. Three-row SUVs, minivans, trucks and Tesla roof glass are quoted in person at the shop. Payment plan available, ask Nick. Google 4.8 with 654 reviews and Yelp 4.7 with 777 reviews, as of October 2026.
+As of October 2026: four-door Solar window tint, $249 installed; four-door Solar Ceramic, $329 installed. Each covers four doors and the rear glass. Three-row SUVs, minivans and trucks are quoted in person at the shop. Payment plan available, ask Nick. Google 4.8 with 654 reviews and Yelp 4.7 with 777 reviews, as of October 2026.
 
 ## Nearby cities we tint for
 
@@ -129,7 +129,7 @@ Text (213) 429-1092 or call (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "Can you tint a Tesla Model Y for a Rossmoor family?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. The Model Y rear window is one large curved pane and we tint it in a single sheet with no seam. The front doors stay within the California limit, the rear doors can go darker, and the glass roof is quoted at the shop once we see the car in person."
+      "text": "Yes. The Model Y rear window is one large curved pane and we tint it in a single sheet with no seam. The front doors stay within the California limit, the rear doors can go darker, and the glass roof is already dark from the factory."
      }
     },
     {

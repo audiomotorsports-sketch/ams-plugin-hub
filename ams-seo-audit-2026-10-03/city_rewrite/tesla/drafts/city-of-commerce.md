@@ -5,7 +5,7 @@ miles: 13.1
 lead_service: Tesla window tint (one-piece rear glass)
 source: hub-mounted copy; standalone www host not verified
 title: Commerce Tesla Rear Glass Tint | Tesla Tint LA
-meta: Tesla window tint for Commerce owners with the one-piece rear glass shaped by hand: ceramic film at Audio MotorSports in Carson, 13.1 miles away. Call (213) 429-1092 or text (213) 429-1092.
+meta: Tesla window tint for Commerce owners, one-piece rear glass shaped by hand: ceramic film at Audio MotorSports in Carson, 13.1 miles away. Call (213) 429-1092.
 ---
 # Tesla Window Tint for Commerce, One-Piece Rear Glass Included
 
@@ -44,7 +44,7 @@ About 13.1 miles, 26 to 31 minutes outside rush hour (approx), to 22025 S Avalon
 
 ### Will the defroster still work after the rear glass is tinted?
 
-Yes. The defroster lines and the electronics near the rear window are shielded before any water goes on, and the film is laid over the lines without scraping. The defroster works the same after the tint as before.
+Yes. The defroster lines and the electronics near the rear window are shielded before any water goes on, and the film is laid over the lines without scraping. Your rear defroster keeps working exactly as it did before the tint.
 
 ### How dark can the rear glass go on a Tesla in California?
 
@@ -79,7 +79,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-city-of-commerce/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-city-of-commerce/",
    "name": "Commerce Tesla Rear Glass Tint | Tesla Tint LA",
-   "description": "Tesla window tint for Commerce owners with the one-piece rear glass shaped by hand: ceramic film at Audio MotorSports in Carson, 13.1 miles away. Call (213) 429-1092 or text (213) 429-1092.",
+   "description": "Tesla window tint for Commerce owners, one-piece rear glass shaped by hand: ceramic film at Audio MotorSports in Carson, 13.1 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -137,7 +137,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "Will the defroster still work after the rear glass is tinted?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. The defroster lines and the electronics near the rear window are shielded before any water goes on, and the film is laid over the lines without scraping. The defroster works the same after the tint as before."
+      "text": "Yes. The defroster lines and the electronics near the rear window are shielded before any water goes on, and the film is laid over the lines without scraping. Your rear defroster keeps working exactly as it did before the tint."
      }
     },
     {

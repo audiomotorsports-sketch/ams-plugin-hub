@@ -13,7 +13,7 @@ Fountain Valley driveways hold a lot of Teslas and a lot of minivans, and LA Car
 
 ## What Fountain Valley drivers bring us
 
-- **Tesla window tint.** The curved rear window on a Model 3 or Model Y is heat-formed to shape and laid in one piece, so there is no seam. Frameless front doors are trimmed so the glass still seals, and the roof panel can be filmed to cut overhead heat.
+- **Tesla window tint.** The curved rear window on a Model 3 or Model Y is heat-formed to shape and laid in one piece, so there is no seam. Frameless front doors are trimmed so the glass still seals, and the factory roof glass is already dark, so film goes on the side and rear glass.
 - **Ceramic window tint on minivans and SUVs.** Solar Ceramic stops infrared heat across all that glass, so the rear rows are not the hot rows.
 - **Car window tint on sedans.** Solar film for privacy and glare, fronts at the legal shade.
 - **Replacing failed tint.** Purple or bubbled film is removed, the glass cleaned, and new film installed.
@@ -39,9 +39,9 @@ It is one tall, deeply curved piece. The film has to be heat-formed to that curv
 
 Yes. Rear sliding-door windows, quarter panes and the hatch glass can all run a privacy shade, since California only limits the front doors and windshield. Each pane is cut on the van so the sliders still drop and seal and the whole side reads one shade.
 
-### Will tinting a Tesla's roof glass make the cabin cooler?
+### What cuts the heat in a Tesla if the roof is glass?
 
-Yes, when the roof is fixed glass. A ceramic film on the roof stops heat coming from directly overhead, which the side and rear tint cannot touch. It is an add-on quoted at the shop after we see the panel. Most owners do the sides first and add the roof if the cabin still runs warm.
+The roof glass is already dark from the factory, so the heat that gets in mostly comes through the side and rear windows. Ceramic film on those panes blocks infrared and keeps the cabin cooler. We fit it by hand and quote after seeing the car.
 
 ### Is Fountain Valley to Carson a reasonable drive for a tint job?
 
@@ -53,7 +53,7 @@ It comes off completely. The old film is peeled, the adhesive is lifted off the 
 
 ## Prices, as of October 2026
 
-Solar window tint $249 installed and Solar Ceramic $329 installed, as of October 2026. Tesla models, roof glass, minivans and old film removal are quoted at the shop. Payment plan available, ask Nick.
+Solar window tint $249 installed and Solar Ceramic $329 installed, as of October 2026. Tesla models, minivans and old film removal are quoted at the shop. Payment plan available, ask Nick.
 
 ## Nearby cities we also serve
 
@@ -128,10 +128,10 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
     },
     {
      "@type": "Question",
-     "name": "Will tinting a Tesla's roof glass make the cabin cooler?",
+     "name": "What cuts the heat in a Tesla if the roof is glass?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes, when the roof is fixed glass. A ceramic film on the roof stops heat coming from directly overhead, which the side and rear tint cannot touch. It is an add-on quoted at the shop after we see the panel. Most owners do the sides first and add the roof if the cabin still runs warm."
+      "text": "The roof glass is already dark from the factory, so the heat that gets in mostly comes through the side and rear windows. Ceramic film on those panes blocks infrared and keeps the cabin cooler. We fit it by hand and quote after seeing the car."
      }
     },
     {
@@ -158,4 +158,4 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
 
 [CONFIRM] SHOP NOTE slot: Nick to add 2-3 sentences about Fountain Valley customers, routes or jobs.
 [CONFIRM] Drive time "forty-five minutes (approx)" computed from 19.7 miles at 25-30 mph; shop to verify.
-[CONFIRM] Tesla roof glass tint and old film removal offered: confirm.
+[CONFIRM] Old film removal offered: confirm.

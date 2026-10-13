@@ -19,7 +19,7 @@ Norwalk drivers log long freeway miles, and a lot of them do it in a company tru
 
 **Solar film for the budget-minded.** Solid heat and UV reduction with privacy, $249 installed on a sedan as of October 2026. Same hand-cut installation as the ceramic.
 
-**Tesla window tint.** The single-piece rear window is tinted as a single piece, on the car. Ask about the roof.
+**Tesla window tint.** The single-piece rear window is tinted as a single piece, on the car. The roof glass is dark from the factory.
 
 ## Norwalk to Carson by the numbers
 

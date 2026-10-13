@@ -31,11 +31,11 @@ For a longer job from La Palma, some people walk to the mall, the movie theaters
 
 ### How is Tesla window tint different from tinting a regular car?
 
-The rear window is one large curved piece, the front doors are frameless and the glass roof is an option. The rear film has to be shrunk and laid as a single panel, and the door film trimmed so the window seals without a frame. It takes more time and more care than a sedan.
+The rear window is one large curved piece, the front doors are frameless and the glass roof is already dark from the factory. The rear film has to be shrunk and laid as a single panel, and the door film trimmed so the window seals without a frame. It takes more time and more care than a sedan.
 
-### Can La Palma owners get the Tesla glass roof tinted too?
+### Do La Palma Tesla owners need the glass roof done as well?
 
-Yes, on request. The roof panel can take a ceramic film to cut heat coming from overhead, and it is quoted at the shop after we see the car. Most owners start with the side and rear glass and add the roof if the cabin still runs warm.
+No. The roof glass is dark when the car leaves the factory, so the film goes on the side and rear windows. That is where La Palma sun reaches the cabin. We check the car first and quote the job at the shop.
 
 ### Is ceramic window tint worth it on a Tesla?
 
@@ -51,7 +51,7 @@ The same rule as every car: the front side windows must let most of the light th
 
 ## Prices, as of October 2026
 
-Solar car window tint $249 installed and Solar Ceramic $329 installed, as of October 2026. Tesla models, roof glass, oversized SUVs and fleet vehicles are quoted at the shop. Ask Nick about a payment plan.
+Solar car window tint $249 installed and Solar Ceramic $329 installed, as of October 2026. Tesla models, big SUVs and fleet vehicles are quoted at the shop. Ask Nick about a payment plan.
 
 ## Nearby cities we also serve
 
@@ -113,15 +113,15 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "How is Tesla window tint different from tinting a regular car?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "The rear window is one large curved piece, the front doors are frameless and the glass roof is an option. The rear film has to be shrunk and laid as a single panel, and the door film trimmed so the window seals without a frame. It takes more time and more care than a sedan."
+      "text": "The rear window is one large curved piece, the front doors are frameless and the glass roof is already dark from the factory. The rear film has to be shrunk and laid as a single panel, and the door film trimmed so the window seals without a frame. It takes more time and more care than a sedan."
      }
     },
     {
      "@type": "Question",
-     "name": "Can La Palma owners get the Tesla glass roof tinted too?",
+     "name": "Do La Palma Tesla owners need the glass roof done as well?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes, on request. The roof panel can take a ceramic film to cut heat coming from overhead, and it is quoted at the shop after we see the car. Most owners start with the side and rear glass and add the roof if the cabin still runs warm."
+      "text": "No. The roof glass is dark when the car leaves the factory, so the film goes on the side and rear windows. That is where La Palma sun reaches the cabin. We check the car first and quote the job at the shop."
      }
     },
     {
@@ -156,4 +156,4 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
 
 [CONFIRM] SHOP NOTE slot: Nick to add 2-3 sentences about La Palma customers, routes or jobs.
 [CONFIRM] Drive time "twenty-seven minutes (approx)" computed from 12.5 miles at 25-30 mph; shop to verify.
-[CONFIRM] Tesla glass roof tint on request: confirm the shop offers it.
+[CONFIRM] Roof glass is left as is; confirm wording.

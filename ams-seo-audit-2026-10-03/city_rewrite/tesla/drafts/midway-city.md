@@ -44,7 +44,7 @@ No. The forward cameras look through a clear window in the windshield, the pilla
 
 ### Can the fronts on a Model S be tinted, and how dark?
 
-Yes, at the California legal shade for front door windows. That still cuts glare and heat noticeably. The rear doors, the hatch glass and the roof have no such limit and can go darker. Nick will show you shade samples on your own car so the front and rear look balanced.
+Yes, at the California legal shade for front door windows. That still cuts glare and heat noticeably. The rear doors, and the hatch glass have no such limit and can go darker. Nick will show you shade samples on your own car so the front and rear look balanced.
 
 ### Is remote start or an alarm something you can add to a Tesla visit?
 
@@ -131,7 +131,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "Can the fronts on a Model S be tinted, and how dark?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes, at the California legal shade for front door windows. That still cuts glare and heat noticeably. The rear doors, the hatch glass and the roof have no such limit and can go darker. Nick will show you shade samples on your own car so the front and rear look balanced."
+      "text": "Yes, at the California legal shade for front door windows. That still cuts glare and heat noticeably. The rear doors, and the hatch glass have no such limit and can go darker. Nick will show you shade samples on your own car so the front and rear look balanced."
      }
     },
     {

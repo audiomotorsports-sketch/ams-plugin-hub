@@ -50,7 +50,7 @@ The glass is cleaned inside and out, the film is cut by hand on each window and 
 
 ## Prices for Cypress customers
 
-Four-door Solar window tint, $249 installed; four-door Solar Ceramic, $329 installed; prices as of October 2026 and covering four doors plus the rear window. SUVs, trucks, windshield strips and Tesla roof glass are quoted at the shop. Payment plan available, ask Nick. Rated Google 4.8 on 654 reviews and Yelp 4.7 on 777 reviews, as of October 2026.
+Four-door Solar window tint, $249 installed; four-door Solar Ceramic, $329 installed; prices as of October 2026 and covering four doors plus the rear window. SUVs, trucks and windshield strips are quoted at the shop. Payment plan available, ask Nick. Rated Google 4.8 on 654 reviews and Yelp 4.7 on 777 reviews, as of October 2026.
 
 ## Tint pages for nearby Orange County cities
 

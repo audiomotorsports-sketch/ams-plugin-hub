@@ -19,7 +19,7 @@ Lawndale drivers ask us one question more than any other: how dark can I legally
 
 **Removing old purple or bubbled film.** Old film is stripped, the adhesive is cleaned off the glass and the defroster lines are protected before new film goes on. Quoted at the shop because every old job peels differently.
 
-**Tesla window tint.** The one-piece rear glass and glass roof on a Tesla are handled as single panels. Bring the car in so the shape is measured on the vehicle.
+**Tesla window tint.** The one-piece rear glass on a Tesla is handled as a single panel, and the glass roof is already dark. Bring the car in so the shape is measured on the vehicle.
 
 ## Lawndale to Carson: what the trip looks like
 

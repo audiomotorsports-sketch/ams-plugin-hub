@@ -5,7 +5,7 @@ miles: 14.3
 lead_service: Tesla window tint (one-piece rear glass)
 source: hub-mounted copy; standalone www host not verified
 title: Tesla Rear Glass Tint, Boyle Heights | Tesla Tint LA
-meta: Tesla window tint for Boyle Heights: one-piece rear glass and ceramic doors, hand-cut at Audio MotorSports in Carson, 14.3 miles from Boyle Heights. Call (213) 429-1092 to book.
+meta: Tesla window tint for Boyle Heights: one-piece rear glass and ceramic doors, hand-cut at Audio MotorSports in Carson, 14.3 miles away. Call (213) 429-1092.
 ---
 # Tesla Window Tint for Boyle Heights, Done Right on the One-Piece Rear Glass
 
@@ -79,7 +79,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-boyle-heights/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-boyle-heights/",
    "name": "Tesla Rear Glass Tint, Boyle Heights | Tesla Tint LA",
-   "description": "Tesla window tint for Boyle Heights: one-piece rear glass and ceramic doors, hand-cut at Audio MotorSports in Carson, 14.3 miles from Boyle Heights. Call (213) 429-1092 to book.",
+   "description": "Tesla window tint for Boyle Heights: one-piece rear glass and ceramic doors, hand-cut at Audio MotorSports in Carson, 14.3 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

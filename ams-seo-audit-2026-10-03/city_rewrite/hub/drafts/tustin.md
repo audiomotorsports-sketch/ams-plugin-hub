@@ -12,7 +12,7 @@ Tustin Tesla owners drive to Audio MotorSports in Carson for Tesla window tint w
 
 ## What Tustin drivers bring us
 
-**Tesla window tint.** Model 3, Y, S and X. The large curved rear window is heat-shrunk and laid as a single piece of ceramic film, hand-cut on the glass, so there is no seam in the mirror. The film is metal-free and leaves the cameras, sensors and key card alone. The glass roof can be filmed as well.
+**Tesla window tint.** Model 3, Y, S and X. The large curved rear window is heat-shrunk and laid as a single piece of ceramic film, hand-cut on the glass, so there is no seam in the mirror. The film is metal-free and leaves the cameras, sensors and key card alone. The glass roof is already dark from the factory and is left alone.
 
 **Ceramic window tint on anything else.** Solar Ceramic for heat on a daily commuter, Solar for glare and privacy, edges finished to the gasket.
 
@@ -64,7 +64,7 @@ Yes. A Viper 3108V alarm is $269 installed as of October 2026, with the module h
 | AMS Harley pods | from $649 a pair |
 | Dual Kicker Comp loaded box | $249 box only |
 
-Tesla window tint, roof film, car stereo installation, GPS tracker installation and dash camera installation are quoted at the shop. Payment plan available, ask Nick.
+Tesla window tint, car stereo installation, GPS tracker installation and dash camera installation are quoted at the shop. Payment plan available, ask Nick.
 
 ## Nearby cities
 

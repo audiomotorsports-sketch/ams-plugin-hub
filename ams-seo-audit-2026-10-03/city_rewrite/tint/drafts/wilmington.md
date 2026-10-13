@@ -15,7 +15,7 @@ LA Car Tint is the window tinting bay at Audio MotorSports, 22025 S Avalon Blvd 
 
 - **Ceramic window tint** — Ceramic film blocks a large share of the infrared heat that plain dyed film lets through, so the seats and steering wheel are not scorching after a day in the sun. We shrink and fit each panel to your glass, then trim it to the gasket so the edges sit flat.
 - **Standard window tinting** — Our Solar film is the budget-minded option when the main goal is a cooler cabin and a cleaner look. It is installed the same careful way as ceramic, four doors plus the back glass.
-- **Tesla window tint** — Tesla rear glass is one large curved panel, and that is exactly the kind of piece that goes wrong when it is rushed. We do these regularly and quote the roof glass in person.
+- **Tesla window tint** — Tesla rear glass is one large curved panel, and that is exactly the kind of piece that goes wrong when it is rushed. We do these regularly and the roof glass is already dark from the factory.
 
 ## The drive from Wilmington
 

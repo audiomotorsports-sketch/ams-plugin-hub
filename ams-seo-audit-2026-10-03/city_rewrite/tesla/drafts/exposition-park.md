@@ -9,7 +9,7 @@ meta: Model Y and Tesla window tint for Exposition Park owners at Audio MotorSpo
 ---
 # Model Y Window Tint for Exposition Park Owners
 
-Exposition Park Model Y owners drive to Tesla Tint LA by Audio MotorSports, 22025 S Avalon Blvd Ste A in Carson, about 15.9 miles away, for ceramic window tint on the Y's tall hatch glass, frameless doors and glass roof. The hatch window is done as a single sheet, the cameras stay uncovered, and the Model Y, like every Tesla, is quoted by model at the shop.
+Exposition Park Model Y owners drive to Tesla Tint LA by Audio MotorSports, 22025 S Avalon Blvd Ste A in Carson, about 15.9 miles away, for ceramic window tint on the Y's tall hatch glass and frameless doors. The hatch window is done as a single sheet, the cameras stay uncovered, and the Model Y, like every Tesla, is quoted by model at the shop.
 
 ## Tesla tint for Exposition Park drivers
 
@@ -17,7 +17,7 @@ Exposition Park Model Y owners drive to Tesla Tint LA by Audio MotorSports, 2202
 
 **Model 3, Model S, Model X and Cybertruck.** The 3 is a shorter version of the same job, the S and X need more shaping on longer and taller glass, and the Cybertruck is flat board-cut panes. Each quoted by model.
 
-**Roof heat on the Model Y.** The panoramic roof is the biggest heat source in the car; ceramic film on the inside of it cuts what reaches the front seats.
+**Heat on the Model Y.** The hatch glass and the doors take the afternoon sun; ceramic film on them cuts what reaches the front seats, and the factory roof glass is already dark.
 
 **Signals and cameras.** No metal in the film, camera zones left clear, so the phone key and Autopilot do not change.
 
@@ -40,7 +40,7 @@ Size and curve. The hatch window is tall and bends across its width, and a singl
 
 ### Is it reasonable to drive from Exposition Park to Carson for Model Y tint?
 
-It is about half an hour outside rush hour, and the Model Y has frameless doors, a curved hatch, a glass roof and cameras in the glass, all of which reward a shop that does them daily. Owners drive much farther than Exposition Park for this, and the car is usually ready the same day.
+It is about half an hour outside rush hour, and the Model Y has frameless doors, a curved hatch and cameras in the glass, all of which reward a shop that does them daily. Owners drive much farther than Exposition Park for this, and the car is usually ready the same day.
 
 ### Does ceramic tint interfere with the Model Y cameras or the phone key?
 
@@ -48,7 +48,7 @@ No. The film has no metallic layer, so the phone key, the app connection and cel
 
 ### How dark can an Exposition Park owner go on a Model Y and stay legal?
 
-Front door glass must pass 70% of visible light in California, so the fronts stay light. The rear doors, hatch glass and roof are unrestricted. Ceramic film at the legal front shade still blocks most of the heat, so light fronts and a dark rear is the usual combination.
+Front door glass must pass 70% of visible light in California, so the fronts stay light. The rear doors and hatch glass are unrestricted. Ceramic film at the legal front shade still blocks most of the heat, so light fronts and a dark rear is the usual combination.
 
 ### Can I pair a dash camera install with the Model Y tint?
 
@@ -128,7 +128,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "Is it reasonable to drive from Exposition Park to Carson for Model Y tint?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "It is about half an hour outside rush hour, and the Model Y has frameless doors, a curved hatch, a glass roof and cameras in the glass, all of which reward a shop that does them daily. Owners drive much farther than Exposition Park for this, and the car is usually ready the same day."
+      "text": "It is about half an hour outside rush hour, and the Model Y has frameless doors, a curved hatch and cameras in the glass, all of which reward a shop that does them daily. Owners drive much farther than Exposition Park for this, and the car is usually ready the same day."
      }
     },
     {
@@ -144,7 +144,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "How dark can an Exposition Park owner go on a Model Y and stay legal?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Front door glass must pass 70% of visible light in California, so the fronts stay light. The rear doors, hatch glass and roof are unrestricted. Ceramic film at the legal front shade still blocks most of the heat, so light fronts and a dark rear is the usual combination."
+      "text": "Front door glass must pass 70% of visible light in California, so the fronts stay light. The rear doors and hatch glass are unrestricted. Ceramic film at the legal front shade still blocks most of the heat, so light fronts and a dark rear is the usual combination."
      }
     },
     {

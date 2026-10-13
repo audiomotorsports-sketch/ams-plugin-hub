@@ -5,7 +5,7 @@ miles: 5.4
 lead_service: Tesla window tint (one-piece rear glass)
 source: hub-mounted copy; standalone www host not verified
 title: Compton Tesla Window Tint, 5 Miles | Tesla Tint LA
-meta: Tesla window tint for Compton owners, with the one-piece rear glass shaped right: ceramic film at Audio MotorSports in Carson, 5.4 miles away. Call (213) 429-1092 or text (213) 429-1092.
+meta: Tesla window tint for Compton owners, one-piece rear glass shaped right: ceramic film at Audio MotorSports in Carson, 5.4 miles away. Call (213) 429-1092.
 ---
 # Tesla Window Tint for Compton, Rear Glass Done as One Piece
 
@@ -17,7 +17,7 @@ Compton is about 5.4 miles from Tesla Tint LA by Audio MotorSports in Carson, 22
 
 **Model 3 and Model Y doors.** Frameless glass, so the edge must be cut to the gasket. We cut on a board to the real window and the edge sits where it should.
 
-**Model S and Model X.** More curve on the S, more height on the X. Both are shaped with the same patience and quoted by model.
+**Model S and Model X.** The S has the longer curve and the X has the taller glass. Both are shaped with the same patience and quoted by model.
 
 **Defroster and electronics prep.** Lines and wiring near the rear glass are shielded before the window is wetted. It is a small step that prevents a big problem.
 
@@ -79,7 +79,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-compton/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-compton/",
    "name": "Compton Tesla Window Tint, 5 Miles | Tesla Tint LA",
-   "description": "Tesla window tint for Compton owners, with the one-piece rear glass shaped right: ceramic film at Audio MotorSports in Carson, 5.4 miles away. Call (213) 429-1092 or text (213) 429-1092.",
+   "description": "Tesla window tint for Compton owners, one-piece rear glass shaped right: ceramic film at Audio MotorSports in Carson, 5.4 miles away. Call (213) 429-1092.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

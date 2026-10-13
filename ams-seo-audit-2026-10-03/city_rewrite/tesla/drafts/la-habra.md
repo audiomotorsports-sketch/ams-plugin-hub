@@ -19,7 +19,7 @@ La Habra Model S owners bring the car to Tesla Tint LA by Audio MotorSports, 220
 
 **Model X and Cybertruck.** Falcon-wing glass on the X and flat board-cut panes on the Cybertruck; each quoted by model.
 
-**Windshield strip and roof film.** A glare strip at the top of the windshield below the camera housing, and ceramic film on the roof for heat.
+**Windshield strip.** A glare strip at the top of the windshield below the camera housing; the factory roof glass is already dark, so the film goes on the side and rear glass.
 
 Audio MotorSports installs dash cameras, Viper alarms, GPS trackers and car stereo gear in the same bay, so ask about adding one.
 

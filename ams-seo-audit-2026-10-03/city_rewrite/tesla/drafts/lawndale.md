@@ -19,7 +19,7 @@ Lawndale Model Y owners bring their cars to Tesla Tint LA by Audio MotorSports, 
 
 **Cybertruck tint.** Flat glass sounds easy, but the panels are large and the truck's edges are unforgiving. We cut it on a board, not on the paint.
 
-**Heat control through the glass roof.** A lot of Model Y owners ask about the roof after their first summer. Ceramic film on the roof knocks down the heat you feel on your head and shoulders without changing the look from outside.
+**Cabin heat after the first summer.** A lot of Model Y owners ask about heat on their head and shoulders. The factory roof glass is already dark, so ceramic film on the doors and rear glass is where the change comes from, without altering the look.
 
 Audio MotorSports also installs dash cameras, car alarms with remote start, GPS trackers and car stereo upgrades in the same bay, so a second job can ride along with the tint.
 
@@ -44,7 +44,7 @@ No. The ceramic film we install has no metal layer, so the phone key, the cellul
 
 ### How dark can I legally tint the front windows on a Tesla in California?
 
-Front door glass must let 70% of visible light through, so the fronts stay light. The rear doors, rear window and glass roof can go as dark as you want. Ceramic film at the legal front shade still cuts a large share of the heat, which is the point for most owners.
+Front door glass must let 70% of visible light through, so the fronts stay light. The rear doors and rear window can go as dark as you want, and the factory roof glass is already dark. Ceramic film at the legal front shade still cuts a large share of the heat, which is the point for most owners.
 
 ### Can the Lawndale trip cover a dash camera install at the same time?
 
@@ -136,7 +136,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "How dark can I legally tint the front windows on a Tesla in California?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Front door glass must let 70% of visible light through, so the fronts stay light. The rear doors, rear window and glass roof can go as dark as you want. Ceramic film at the legal front shade still cuts a large share of the heat, which is the point for most owners."
+      "text": "Front door glass must let 70% of visible light through, so the fronts stay light. The rear doors and rear window can go as dark as you want, and the factory roof glass is already dark. Ceramic film at the legal front shade still cuts a large share of the heat, which is the point for most owners."
      }
     },
     {

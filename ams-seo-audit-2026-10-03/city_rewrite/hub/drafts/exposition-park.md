@@ -12,7 +12,7 @@ Exposition Park Tesla owners drive to Audio MotorSports in Carson for Tesla wind
 
 ## What Exposition Park drivers bring us
 
-**Tesla window tint.** The rear glass on a Model 3 and Model Y is one large curved piece; we heat-shrink the film to it and lay it as a single sheet, hand-cut on the glass, so there is no seam across your mirror view. The glass roof can be filmed to cut heat.
+**Tesla window tint.** The rear glass on a Model 3 and Model Y is one large curved piece; we heat-shrink the film to it and lay it as a single sheet, hand-cut on the glass, so there is no seam across your mirror view. The glass roof is tinted from the factory, so the film goes on the sides and rear only.
 
 **Ceramic window tint.** For any car that parks in the open all day. Solar Ceramic blocks heat without a dark shade, and the edges are finished to the gasket.
 
@@ -61,7 +61,7 @@ Yes. A Viper 3108V alarm, $269 installed as of October 2026, is wired so it cann
 - AMS Harley bagger pods from $649 a pair
 - Dual Kicker Comp loaded box $249 box only
 
-Tesla window tint, roof film, stereos, GPS tracker installation and dash camera installation are quoted at the shop. Payment plan available, ask Nick.
+Tesla window tint, stereos, GPS tracker installation and dash camera installation are quoted at the shop. Payment plan available, ask Nick.
 
 ## Nearby cities
 

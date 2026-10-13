@@ -15,7 +15,7 @@ Pacific Palisades Model X owners travel about 21.4 miles to Tesla Tint LA, the T
 
 **Model X ceramic tint.** A film band across the upper windshield to cut overhead glare, the falcon-door glass filmed with the doors supported, and the hatch glass done as one sheet.
 
-**Model 3 and Model Y.** One-piece rear glass, roof panel, doors and fronts at the California legal shade.
+**Model 3 and Model Y.** A one-piece rear window, filmed door glass and fronts at the California legal shade; the factory roof glass is already dark and stays as delivered.
 
 **Model S and Cybertruck.** The S with its frameless doors and the truck with its flat panels, each patterned separately and quoted after Nick sees the car.
 
@@ -48,7 +48,7 @@ No. The windshield camera window and the pillar cameras are left clear, the ultr
 
 ### Can the Model X rear and hatch glass be darker than the front?
 
-Yes. The front door windows go at the legal shade; the rear doors and the hatch can be darker for privacy and heat. The roof glass gets a film chosen for heat rather than looks. Nick lines up samples on the car so the shades flow together from the outside.
+Yes. The front door windows go at the legal shade; the rear doors and the hatch can be darker for privacy and heat. The factory roof glass is already dark, so Nick matches the door and hatch shades to it. Nick lines up samples on the car so the shades flow together from the outside.
 
 ## Prices
 
@@ -139,7 +139,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "Can the Model X rear and hatch glass be darker than the front?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. The front door windows go at the legal shade; the rear doors and the hatch can be darker for privacy and heat. The roof glass gets a film chosen for heat rather than looks. Nick lines up samples on the car so the shades flow together from the outside."
+      "text": "Yes. The front door windows go at the legal shade; the rear doors and the hatch can be darker for privacy and heat. The factory roof glass is already dark, so Nick matches the door and hatch shades to it. Nick lines up samples on the car so the shades flow together from the outside."
      }
     }
    ]

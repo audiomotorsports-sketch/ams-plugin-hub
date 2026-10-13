@@ -15,7 +15,7 @@ Glendale drivers bring well-kept sedans and SUVs to LA Car Tint for window tinti
 
 - **Window tinting on luxury sedans.** Solar Ceramic in a neutral shade that reads as factory glass. The pane is cleaned to bare, the film is cut on it and squeegeed so nothing is trapped, and every window is inspected before the keys come back.
 - **Ceramic window tint on SUVs.** Solar Ceramic stops infrared heat through the large side and rear glass, so the whole cabin stays cooler after a day in a lot.
-- **Tesla window tint.** One shaped sheet across the curved rear window, frameless doors trimmed to seal, roof glass quoted after we see it.
+- **Tesla window tint.** One shaped sheet across the curved rear window, frameless doors trimmed to seal, with the roof glass already dark from the factory.
 - **Car window tint on the second car.** Solar film, same careful install, lower price.
 
 The same crew also handles car alarm installation, car stereo installation, Apple CarPlay and Android Auto installation, speaker replacement and dash camera installation, so one appointment can cover more than tint.
@@ -53,7 +53,7 @@ Repetition and care. This bay tints daily, cuts on the glass rather than from pa
 
 ## Prices, as of October 2026
 
-Solar window tint $249 installed and Solar Ceramic $329 installed, as of October 2026. Tesla roof glass, panoramic sunroofs and large SUVs are quoted at the shop. Payment plan available, ask Nick.
+Solar window tint $249 installed and Solar Ceramic $329 installed, as of October 2026. large SUVs are quoted at the shop. Payment plan available, ask Nick.
 
 ## Nearby cities we also serve
 

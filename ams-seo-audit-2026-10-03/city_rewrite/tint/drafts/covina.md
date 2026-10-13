@@ -16,7 +16,7 @@ Covina drivers make the trip to LA Car Tint for ceramic window tint when the val
 - **Ceramic window tint.** Solar Ceramic rejects infrared heat on every tinted pane, so a car that sat in a driveway through a Covina afternoon is comfortable within a minute of starting. Cut on each window, edges under the seal.
 - **Car window tint on the second car.** Solar film for the commuter or the teenager's sedan, with fronts at the legal shade.
 - **SUVs and trucks.** Third-row glass and tall truck doors fitted panel by panel so the whole vehicle matches.
-- **Tesla window tint.** Curved rear glass laid as one shaped sheet, frameless doors trimmed to seal, roof on request.
+- **Tesla window tint.** Curved rear glass laid as one shaped sheet, frameless doors trimmed to seal, factory-dark roof glass left as is.
 
 If you are making the drive, the same crew can handle remote start installation, car alarm installation, car stereo installation, Apple CarPlay and Android Auto installation and dash camera installation the same day.
 
@@ -53,7 +53,7 @@ The install. Film cut on your glass, edges under the seal, every panel heat-set 
 
 ## Prices, as of October 2026
 
-Solar window tint $249 installed and Solar Ceramic $329 installed, as of October 2026. Full-size SUVs, trucks, multi-car bookings and Tesla roof glass are quoted at the shop. Payment plan available, ask Nick.
+Solar window tint $249 installed and Solar Ceramic $329 installed, as of October 2026. Full-size SUVs, trucks and multi-car bookings are quoted at the shop. Payment plan available, ask Nick.
 
 ## Nearby cities we also serve
 

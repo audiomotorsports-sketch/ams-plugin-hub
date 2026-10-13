@@ -16,7 +16,7 @@ Chino is the farthest of the cities on this list, and Chino drivers still make t
 - **Car window tint on trucks.** Chino runs on pickups. Tall door glass is trimmed to the seal and heat-set; rear sliders are filmed as separate panels so they keep working. The cab stops cooking on the job.
 - **Ceramic window tint on SUVs.** Solar Ceramic stops infrared heat on every pane, which matters most where the summer is long and the shade is scarce.
 - **Sedans and commuters.** Solar film for the long daily drive: glare down, privacy up, fronts at the legal shade.
-- **Tesla window tint.** One sheet shaped to the curved rear glass, frameless doors trimmed to seal, roof panel on request.
+- **Tesla window tint.** One sheet shaped to the curved rear glass, frameless doors trimmed to seal, and the roof glass is already dark from the factory.
 
 For a drive this long, people stack jobs: remote start installation, car alarm installation, car stereo installation, Apple CarPlay and Android Auto installation and dash camera installation can all be booked for the same visit.
 
@@ -53,7 +53,7 @@ Yes. Any shade of film cuts side-glass glare, and Solar Ceramic adds infrared he
 
 ## Prices, as of October 2026
 
-Solar window tint $249 installed and Solar Ceramic $329 installed, as of October 2026. Work trucks, big SUVs, two-vehicle bookings and Tesla roof glass are priced at the shop. Payment plan available, ask Nick.
+Solar window tint $249 installed and Solar Ceramic $329 installed, as of October 2026. Work trucks, big SUVs and two-vehicle bookings are priced at the shop. Payment plan available, ask Nick.
 
 ## Nearby cities we also serve
 

@@ -16,7 +16,7 @@ Car window tint for South Pasadena means a trip of about 20.7 miles to Audio Mot
 
 **Solar window tint.** Same install, lower price, for owners who mostly want glare and privacy.
 
-**Tesla window tint.** Heat-formed on the one-piece rear glass, cameras kept clear, roof optional.
+**Tesla window tint.** Heat-formed on the one-piece rear glass, cameras kept clear, factory-dark roof left as it is.
 
 **Car stereo installation.** Head unit installation with CarPlay, speaker replacement and subwoofer installation, all with the factory camera and controls kept.
 

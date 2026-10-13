@@ -17,7 +17,7 @@ San Gabriel Tesla owners make the 20.4-mile drive to Tesla Tint LA at Audio Moto
 
 **Ceramic side windows.** Door glass gets film cut to the gasket edge so there is no light gap at the top and nothing to catch when the window drops.
 
-**Roof panel and fronts.** The glass roof gets a heat-rejecting ceramic film; the fronts stay at the California legal shade.
+**Fronts and the factory roof.** The fronts stay at the California legal shade, and the roof glass is already dark from the factory, so the filming stays on the side and rear windows.
 
 **Model S, Model X and Cybertruck.** Bigger or stranger glass, same approach, each quoted by model at the shop. The shop's other work, car stereo installation, car alarm installation, dash camera installation and GPS tracking, is available on the same ticket.
 
@@ -52,7 +52,7 @@ Dash camera installation is the most common pairing, followed by GPS tracker ins
 
 ## Prices
 
-Tesla window tint is quoted by model at the shop, since the rear glass and roof differ from model to model. For a non-Tesla reference, standard window tint at the same bay is Solar $249 or Solar Ceramic $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
+Tesla window tint is quoted by model at the shop, since the rear glass and side glass differ from model to model. For a non-Tesla reference, standard window tint at the same bay is Solar $249 or Solar Ceramic $329 installed, as of October 2026. Payment plan available, ask Nick. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Nearby Tesla tint pages
 

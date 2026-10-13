@@ -12,7 +12,7 @@ Duarte Tesla owners drive 27.1 miles to Audio MotorSports in Carson, 22025 S Ava
 
 ## Duarte drivers come for
 
-**Tesla window tint.** The rear window on a Model 3 or Model Y is one large curved piece, and we shrink one sheet of ceramic film to it on the car with no seam. Sides, roof and the windshield strip above the AS-1 line can be done in the same visit.
+**Tesla window tint.** The rear window on a Model 3 or Model Y is one large curved piece, and we shrink one sheet of ceramic film to it on the car with no seam. Sides and the windshield strip above the AS-1 line can be done in the same visit; the glass roof is already dark from the factory and is not filmed.
 
 **Car window tint and ceramic window tint.** Window tinting for any car or truck, hand-cut on the glass, fronts at a legal shade, with Solar at $249 installed and Solar Ceramic at $329 installed as of October 2026.
 
@@ -43,7 +43,7 @@ No. Ceramic film contains no metal, so Bluetooth, cellular, FM and the Autopilot
 
 ### Can you tint the windshield on a Tesla?
 
-Only the strip above the AS-1 line, which is the California rule for every car. A full ceramic windshield film is not something we install at a shade that would fail inspection. The sides, rear glass and roof are where the heat rejection makes the real difference.
+Only the strip above the AS-1 line, which is the California rule for every car. A full ceramic windshield film is not something we install at a shade that would fail inspection. The sides and rear glass are where the heat rejection makes the real difference; the roof glass comes dark from the factory.
 
 ### How long before the tint looks fully clear?
 
@@ -62,7 +62,7 @@ Viper alarm installation adds a siren and shock sensor the factory system lacks,
 - AMS Harley pods: from $649 a pair
 - Dual Kicker Comp subwoofer box: $249 box only
 
-Tesla tint with the roof is quoted at the shop. Prices as of October 2026. Payment plan available, ask Nick.
+Tesla tint is quoted at the shop by model. Prices as of October 2026. Payment plan available, ask Nick.
 
 ## Near Duarte
 
@@ -143,7 +143,7 @@ Call (213) 429-1092 or text the model and year to (213) 429-1092. Audio MotorSpo
      "name": "Can you tint the windshield on a Tesla?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Only the strip above the AS-1 line, which is the California rule for every car. A full ceramic windshield film is not something we install at a shade that would fail inspection. The sides, rear glass and roof are where the heat rejection makes the real difference."
+      "text": "Only the strip above the AS-1 line, which is the California rule for every car. A full ceramic windshield film is not something we install at a shade that would fail inspection. The sides and rear glass are where the heat rejection makes the real difference; the roof glass comes dark from the factory."
      }
     },
     {

@@ -15,7 +15,7 @@ Chino Hills summers are the reason ceramic window tint exists, and LA Car Tint i
 
 - **Ceramic window tint, first and foremost.** Solar Ceramic blocks the infrared band that turns a parked car into an oven. For an inland driveway with no shade, it is the film that changes how the car feels at 4 p.m.
 - **Car window tint on a second car.** Solar film for the kid's sedan or the weekend car: privacy, glare control and UV protection at a lower price, installed with the same care.
-- **Tesla window tint.** One continuous sheet on the curved rear window, frameless doors trimmed so they drop and seal, roof panel available.
+- **Tesla window tint.** One continuous sheet on the curved rear window, frameless doors trimmed so they drop and seal, while the roof glass stays as the factory made it, already dark.
 - **Big SUVs and trucks.** Third-row glass, sliders and tall doors are fitted panel by panel so every window matches.
 
 The rest of the shop rides along if you want it: car stereo installation, Apple CarPlay and Android Auto installation, car alarm installation, remote start installation and dash camera installation are all booked through the same desk.
@@ -45,15 +45,15 @@ No. Solar Ceramic comes in the same shades as Solar and has a neutral, non-refle
 
 ### Which windows does a standard Chino Hills tint job cover?
 
-All four door windows plus the rear glass. The front doors get the light shade California allows; the rear doors and back glass are your choice. The windshield is not tinted. Sunroofs and Tesla roof panels are separate and quoted at the shop after we see the car.
+All four door windows plus the rear glass. The front doors get the light shade California allows; the rear doors and back glass are your choice. The windshield is not tinted. Anything with unusual glass is quoted at the shop after we see the car.
 
 ### What should a Chino Hills driver tell the shop when booking?
 
-Year, make and model, which film you are leaning toward, and whether the car has a sunroof or any previous tint to remove. That lets us block the right amount of time and have the film ready. Call (213) 429-1092 or text (213) 429-1092.
+Year, make and model, which film you are leaning toward, and whether there is any previous tint to remove. That lets us block the right amount of time and have the film ready. Call (213) 429-1092 or text (213) 429-1092.
 
 ## Prices, as of October 2026
 
-Solar window tint $249 installed and Solar Ceramic $329 installed, as of October 2026. Full-size SUVs, trucks, sunroofs and Tesla roof glass are quoted at the shop. Payment plan available, ask Nick.
+Solar window tint $249 installed and Solar Ceramic $329 installed, as of October 2026. Full-size SUVs and trucks are quoted at the shop. Payment plan available, ask Nick.
 
 ## Nearby cities we also serve
 
@@ -139,7 +139,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "Which windows does a standard Chino Hills tint job cover?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "All four door windows plus the rear glass. The front doors get the light shade California allows; the rear doors and back glass are your choice. The windshield is not tinted. Sunroofs and Tesla roof panels are separate and quoted at the shop after we see the car."
+      "text": "All four door windows plus the rear glass. The front doors get the light shade California allows; the rear doors and back glass are your choice. The windshield is not tinted. Anything with unusual glass is quoted at the shop after we see the car."
      }
     },
     {
@@ -147,7 +147,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "What should a Chino Hills driver tell the shop when booking?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Year, make and model, which film you are leaning toward, and whether the car has a sunroof or any previous tint to remove. That lets us block the right amount of time and have the film ready. Call (213) 429-1092 or text (213) 429-1092."
+      "text": "Year, make and model, which film you are leaning toward, and whether there is any previous tint to remove. That lets us block the right amount of time and have the film ready. Call (213) 429-1092 or text (213) 429-1092."
      }
     }
    ]

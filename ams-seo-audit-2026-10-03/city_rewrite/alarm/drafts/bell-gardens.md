@@ -5,7 +5,7 @@ city: Bell Gardens
 miles: 11.3
 lead_service: work-truck security
 title: Work Truck Alarm Install for Bell Gardens | LA Car Alarm
-meta: Work truck alarm installation, GPS trackers and remote start for Bell Gardens drivers at LA Car Alarm by Audio MotorSports in Carson, 11.3 miles. (213) 429-1092.
+meta: Work truck alarm installation, GPS trackers and remote start for Bell Gardens drivers at LA Car Alarm by Audio MotorSports, Carson. (213) 429-1092.
 ---
 # Work Truck Security and Car Alarm Installation for Bell Gardens
 
@@ -28,7 +28,7 @@ Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a w
 
 ## Bell Gardens to the shop
 
-Count on 23 to 27 minutes for the 11.3 miles outside rush hour (approx). Book a time, then drop the truck or wait at the shop while we wire it. Mon-Sat 9:30-18:00, closed Sunday. [SHOP NOTE: 2-3 sentences from Nick about Bell Gardens customers, routes or jobs]
+Count on 23 to 27 minutes for the 11.3 miles outside rush hour (approx). Set a time, then leave the truck for the day or stay and wait at the shop while the wiring goes in. Mon-Sat 9:30-18:00, closed Sunday. [SHOP NOTE: 2-3 sentences from Nick about Bell Gardens customers, routes or jobs]
 
 ### Can the alarm protect tools in the bed of a Bell Gardens work truck?
 

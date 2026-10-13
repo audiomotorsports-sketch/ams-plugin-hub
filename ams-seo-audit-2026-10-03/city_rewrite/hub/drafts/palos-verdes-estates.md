@@ -16,7 +16,7 @@ Audio MotorSports in Carson, at 22025 S Avalon Blvd Ste A, is where Palos Verdes
 
 **Solar window tint.** The value option when the main goals are privacy and glare. Same hand-cut install, same attention at the edges.
 
-**Tesla window tint.** Teslas get their own process because of the glass roof and the camera positions; the film is shrunk on the car, not plotter-cut from a database.
+**Tesla window tint.** Teslas get their own process because of the one-piece rear glass and the camera positions; the film is shrunk on the car, not plotter-cut from a database. The factory-dark roof is left alone.
 
 **Head unit installation with Apple CarPlay and Android Auto.** Head unit installation that keeps the factory look, with the camera and wheel buttons carried over, and adds CarPlay or Android Auto.
 

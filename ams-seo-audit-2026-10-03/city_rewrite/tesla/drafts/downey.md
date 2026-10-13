@@ -5,7 +5,7 @@ miles: 10.9
 lead_service: Tesla window tint (Model Y)
 source: hub-mounted copy; standalone www host not verified
 title: Model Y Window Tint, Downey Owners | Tesla Tint LA
-meta: Model Y and Tesla window tint for Downey drivers, ceramic film installed by Audio MotorSports in Carson, about 10.9 miles out. Book at (213) 429-1092 or text (213) 429-1092.
+meta: Model Y and Tesla window tint for Downey drivers: ceramic film installed by Audio MotorSports in Carson, 10.9 miles out. Call (213) 429-1092 to book.
 ---
 # Tesla Window Tint for Downey Drivers, Model Y First
 
@@ -13,7 +13,7 @@ The Model Y is the Tesla we see most from Downey, and it is the lead here. Tesla
 
 ## What a Downey Tesla gets here
 
-**Model Y window tint.** The Y has a big back window and a glass roof that pours heat into the cabin. Ceramic film on the doors and rear glass is where most owners start; the roof is a separate conversation at the counter.
+**Model Y window tint.** The Y has a big back window that lets heat pour into the cabin on a sunny day. Ceramic film on the doors and rear glass is where owners start, and the factory roof glass is already dark.
 
 **Model 3 and Model S.** Same ceramic film, different cut. The 3 is the shorter, flatter piece; the S has the long door that needs patience and heat to shape. Neither is cut on the car.
 
@@ -38,9 +38,9 @@ You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and 
 
 Roughly 10.9 miles, about 22 to 26 minutes outside rush hour (approx). Head toward Carson and look for 22025 S Avalon Blvd Ste A. Most Downey owners book a morning slot, drop the key and are back the same afternoon with a finished car.
 
-### Does the Model Y glass roof get tinted too?
+### Which Model Y windows get film?
 
-It can, but it is a separate decision from the doors and rear window. The roof panel is large and curved, so it takes more film and more shaping time. Ask Nick when you book and he will quote the roof on its own line.
+The four doors and the one-piece rear glass. The roof glass is already dark from the factory and stays as it is. The rear piece is curved, so it takes shaping time on a board. Ask Nick when you book and he will line up the bay.
 
 ### What shade can a Downey Model Y legally run?
 
@@ -79,7 +79,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-downey/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-downey/",
    "name": "Model Y Window Tint, Downey Owners | Tesla Tint LA",
-   "description": "Model Y and Tesla window tint for Downey drivers, ceramic film installed by Audio MotorSports in Carson, about 10.9 miles out. Book at (213) 429-1092 or text (213) 429-1092.",
+   "description": "Model Y and Tesla window tint for Downey drivers: ceramic film installed by Audio MotorSports in Carson, 10.9 miles out. Call (213) 429-1092 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -126,10 +126,10 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
     },
     {
      "@type": "Question",
-     "name": "Does the Model Y glass roof get tinted too?",
+     "name": "Which Model Y windows get film?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "It can, but it is a separate decision from the doors and rear window. The roof panel is large and curved, so it takes more film and more shaping time. Ask Nick when you book and he will quote the roof on its own line."
+      "text": "The four doors and the one-piece rear glass. The roof glass is already dark from the factory and stays as it is. The rear piece is curved, so it takes shaping time on a board. Ask Nick when you book and he will line up the bay."
      }
     },
     {

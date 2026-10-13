@@ -13,7 +13,7 @@ Santa Monica Model Y owners drive about 18.4 miles to Tesla Tint LA by Audio Mot
 
 ## Tesla tint for Santa Monica, Model Y leading
 
-**Model Y ceramic tint.** Doors, rear quarter glass and a big hatch window under a panoramic roof. Ceramic film on all of it rejects infrared heat instead of soaking it up, so the cabin cools faster and the seats are not scorching after a few hours parked.
+**Model Y ceramic tint.** Doors, rear quarter glass and a big hatch window beneath a roof that is already dark from the factory. Ceramic film on all of it rejects infrared heat instead of soaking it up, so the cabin cools faster and the seats are not scorching after a few hours parked.
 
 **Hatch glass as one formed panel.** The hatch window is tall with a strong curve. The film is shrunk to that curve on a glass board and applied as one piece, with no seam in the rear camera's view and no lift along the defroster lines.
 
@@ -42,7 +42,7 @@ For a hatch window done as one formed sheet and frameless door edges cut to the 
 
 Mostly the hatch. It is taller and more curved than the Model 3 rear window, so the film needs more shaping on the glass board before it will lie flat as one piece. The quarter glass is a separate small panel as well.
 
-### Does ceramic tint really help a Model Y with a glass roof?
+### Does ceramic tint help a Model Y that already has a dark glass roof?
 
 Yes. The roof carries factory treatment but the doors and hatch do not, and they take sun for most of the day. Ceramic film on those windows removes the largest remaining source of heat, which is obvious the first hot afternoon after the tint.
 
@@ -134,7 +134,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
     },
     {
      "@type": "Question",
-     "name": "Does ceramic tint really help a Model Y with a glass roof?",
+     "name": "Does ceramic tint help a Model Y that already has a dark glass roof?",
      "acceptedAnswer": {
       "@type": "Answer",
       "text": "Yes. The roof carries factory treatment but the doors and hatch do not, and they take sun for most of the day. Ceramic film on those windows removes the largest remaining source of heat, which is obvious the first hot afternoon after the tint."

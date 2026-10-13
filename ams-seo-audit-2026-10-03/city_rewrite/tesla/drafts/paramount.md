@@ -9,7 +9,7 @@ source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla Window Tint for Paramount Owners, Starting With the Model S
 
-Tesla Tint LA is the Tesla window tint arm of Audio MotorSports, 22025 S Avalon Blvd Ste A in Carson, roughly 7.4 miles from Paramount. The Model S gets a lot of attention here: long curved side glass, a big rear window and a roof that soaks up sun. Ceramic film is patterned off the car, laid in clean, and quoted by model at the shop.
+Tesla Tint LA is the Tesla window tint arm of Audio MotorSports, 22025 S Avalon Blvd Ste A in Carson, roughly 7.4 miles from Paramount. The Model S gets a lot of attention here: long curved side glass, a big rear window and factory roof glass that is already dark. Ceramic film is patterned off the car, laid in clean, and quoted by model at the shop.
 
 ## What Paramount Tesla owners bring us
 
