@@ -4,7 +4,7 @@ city: Altadena
 miles: 26.2
 lead_service: window tint
 title: Window Tinting for Altadena Drivers | Audio MotorSports
-meta: Car window tint and ceramic tinting for Altadena drivers at Audio MotorSports in Carson, 26.2 miles away. Stereo and alarm installs too. Call (213) 429-1092.
+meta: Car window tint and ceramic tinting for Altadena drivers at Audio MotorSports in Carson, 26.2 miles away. Stereo and alarm installs too. Call (310) 513-8800.
 ---
 # Window Tinting for Altadena Drivers
 
@@ -67,7 +67,7 @@ Our pages for the cities below the foothills:
 
 ## Book window tint from Altadena
 
-Call (213) 429-1092 or text (213) 429-1092 with the vehicle details. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, Monday through Saturday 9:30 AM to 6:00 PM, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with the vehicle details. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, Monday through Saturday 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -78,7 +78,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the vehicle details. Audio Motor
    "@id": "https://www.audiomotorsports.com/altadena/#webpage",
    "url": "https://www.audiomotorsports.com/altadena/",
    "name": "Window Tinting for Altadena Drivers | Audio MotorSports",
-   "description": "Car window tint and ceramic tinting for Altadena drivers at Audio MotorSports in Carson, 26.2 miles away. Stereo and alarm installs too. Call (213) 429-1092.",
+   "description": "Car window tint and ceramic tinting for Altadena drivers at Audio MotorSports in Carson, 26.2 miles away. Stereo and alarm installs too. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

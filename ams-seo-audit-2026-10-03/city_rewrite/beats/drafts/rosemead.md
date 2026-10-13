@@ -4,7 +4,7 @@ city: Rosemead
 miles: 20.4
 lead_service: truck and SUV car audio installation
 title: Rosemead Truck & SUV Car Audio Install | LA Car Beats
-meta: Truck and SUV car stereo, subwoofer and amplifier installation for Rosemead drivers at LA Car Beats, Audio MotorSports, Carson. Call (213) 429-1092.
+meta: Truck and SUV car stereo, subwoofer and amplifier installation for Rosemead drivers at LA Car Beats, Audio MotorSports, Carson. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Truck and SUV Car Audio Installation for Rosemead
@@ -68,7 +68,7 @@ LA Car Beats pages for Rosemead neighbors:
 
 ## Book your truck or SUV install
 
-Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30-18:00, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -79,7 +79,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio 
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-rosemead/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-rosemead/",
    "name": "Rosemead Truck & SUV Car Audio Install | LA Car Beats",
-   "description": "Truck and SUV car stereo, subwoofer and amplifier installation for Rosemead drivers at LA Car Beats, Audio MotorSports, Carson. Call (213) 429-1092.",
+   "description": "Truck and SUV car stereo, subwoofer and amplifier installation for Rosemead drivers at LA Car Beats, Audio MotorSports, Carson. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

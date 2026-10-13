@@ -5,7 +5,7 @@ city: Long Beach
 miles: 5.7
 lead_service: GPS tracker installation
 title: GPS Tracker and Car Alarm, Long Beach | LA Car Alarm
-meta: GPS tracker installation, Viper alarms and Compustar remote start for Long Beach drivers at LA Car Alarm by Audio MotorSports in Carson. Call (213) 429-1092.
+meta: GPS tracker installation, Viper alarms and Compustar remote start for Long Beach drivers at LA Car Alarm by Audio MotorSports in Carson. Call (310) 513-8800.
 ---
 
 # GPS Tracker and Car Alarm Installation for Long Beach
@@ -62,7 +62,7 @@ Viper 3108V $269 installed. Compustar 9910 remote start from $499. Tracker and c
 
 ## Book your Long Beach alarm or tracker install
 
-Call (213) 429-1092 or text (213) 429-1092. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

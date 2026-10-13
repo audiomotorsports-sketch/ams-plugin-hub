@@ -4,7 +4,7 @@ city: Pico Rivera
 miles: 14.2
 lead_service: Car alarm installation and remote start installation
 title: Alarm & Remote Start, Pico Rivera | Audio MotorSports
-meta: Viper alarm installation, Compustar remote start installation, window tint and car audio for Pico Rivera drivers at Audio MotorSports in Carson. (213) 429-1092.
+meta: Viper alarm installation, Compustar remote start installation, window tint and car audio for Pico Rivera drivers at Audio MotorSports in Carson. (310) 513-8800.
 ---
 # Car Alarm and Remote Start Installation for Pico Rivera
 
@@ -27,7 +27,7 @@ Waiting inside is easy for Pico Rivera customers: there is seating, Netflix on t
 
 ## Pico Rivera to Carson
 
-About 14.2 miles, which is roughly 28 to 34 minutes (approx) when traffic cooperates. Open Monday through Saturday 9:30 to 6, closed Sunday. Set an appointment, then leave the car for the day or wait at the shop; most alarm installs take a few hours. Call (213) 429-1092 or text (213) 429-1092 with your year, make and model. Pico Rivera customers can see the shop's record on Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
+About 14.2 miles, which is roughly 28 to 34 minutes (approx) when traffic cooperates. Open Monday through Saturday 9:30 to 6, closed Sunday. Set an appointment, then leave the car for the day or wait at the shop; most alarm installs take a few hours. Call (310) 513-8800 or text (213) 429-1092 with your year, make and model. Pico Rivera customers can see the shop's record on Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 [SHOP NOTE: 2-3 sentences from Nick about Pico Rivera customers, routes or jobs]
 
@@ -74,7 +74,7 @@ GPS trackers, dash cams, car stereo installation and CarPlay head units are quot
 
 ## Book an alarm or remote start from Pico Rivera
 
-Phone (213) 429-1092, or text (213) 429-1092 with the vehicle. Audio MotorSports, one bay at 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30-18:00, Sunday closed.
+Phone (310) 513-8800, or text (213) 429-1092 with the vehicle. Audio MotorSports, one bay at 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -85,7 +85,7 @@ Phone (213) 429-1092, or text (213) 429-1092 with the vehicle. Audio MotorSports
    "@id": "https://www.audiomotorsports.com/pico-rivera/#webpage",
    "url": "https://www.audiomotorsports.com/pico-rivera/",
    "name": "Alarm & Remote Start, Pico Rivera | Audio MotorSports",
-   "description": "Viper alarm installation, Compustar remote start installation, window tint and car audio for Pico Rivera drivers at Audio MotorSports in Carson. (213) 429-1092.",
+   "description": "Viper alarm installation, Compustar remote start installation, window tint and car audio for Pico Rivera drivers at Audio MotorSports in Carson. (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

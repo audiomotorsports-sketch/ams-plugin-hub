@@ -4,7 +4,7 @@ city: West Carson
 miles: 1.8
 lead_service: Harley bagger audio for group rides
 title: West Carson Harley Bagger Audio | AMS Pods
-meta: Harley bagger audio installation for West Carson riders: AMS lower-fairing pods and amplifier installs at Audio MotorSports in Carson. Call (213) 429-1092.
+meta: Harley bagger audio installation for West Carson riders: AMS lower-fairing pods and amplifier installs at Audio MotorSports in Carson. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Harley Bagger Audio for West Carson Group Rides
@@ -65,7 +65,7 @@ Other AMS Pods pages nearby: [Harbor City](/amspods/bagger-audio-harbor-city/), 
 
 ## Book from West Carson
 
-Call (213) 429-1092 or text (213) 429-1092. 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -76,7 +76,7 @@ Call (213) 429-1092 or text (213) 429-1092. 22025 S Avalon Blvd Ste A, Carson, C
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-west-carson/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-west-carson/",
    "name": "West Carson Harley Bagger Audio | AMS Pods",
-   "description": "Harley bagger audio installation for West Carson riders: AMS lower-fairing pods and amplifier installs at Audio MotorSports in Carson. Call (213) 429-1092.",
+   "description": "Harley bagger audio installation for West Carson riders: AMS lower-fairing pods and amplifier installs at Audio MotorSports in Carson. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

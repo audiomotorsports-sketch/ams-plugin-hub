@@ -5,7 +5,7 @@ miles: 20.3
 lead_service: Tesla window tint (Model X)
 source: hub-mounted copy; standalone www host not verified
 title: Model X Tint for Hacienda Heights | Tesla Tint LA
-meta: Model X and Tesla window tint for Hacienda Heights owners at Audio MotorSports in Carson, 20.3 miles away. Falcon-wing glass done right. Call (213) 429-1092.
+meta: Model X and Tesla window tint for Hacienda Heights owners at Audio MotorSports in Carson, 20.3 miles away. Falcon-wing glass done right. Call (310) 513-8800.
 ---
 # Model X Window Tint for Hacienda Heights Owners
 
@@ -67,7 +67,7 @@ The Model X and every other Tesla are quoted by model at the shop; text the year
 
 ## Reserve your slot
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -78,7 +78,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-hacienda-heights/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-hacienda-heights/",
    "name": "Model X Tint for Hacienda Heights | Tesla Tint LA",
-   "description": "Model X and Tesla window tint for Hacienda Heights owners at Audio MotorSports in Carson, 20.3 miles away. Falcon-wing glass done right. Call (213) 429-1092.",
+   "description": "Model X and Tesla window tint for Hacienda Heights owners at Audio MotorSports in Carson, 20.3 miles away. Falcon-wing glass done right. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

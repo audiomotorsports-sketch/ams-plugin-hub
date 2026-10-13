@@ -5,7 +5,7 @@ miles: 15.6
 lead_service: Tesla window tint (new delivery)
 source: hub-mounted copy; standalone www host not verified
 title: New Tesla Tint for Stanton Deliveries | Tesla Tint LA
-meta: Ceramic Tesla window tint for a Stanton owner's new delivery. Tesla Tint LA by Audio MotorSports in Carson, 15.6 miles away. Call (213) 429-1092 to book.
+meta: Ceramic Tesla window tint for a Stanton owner's new delivery. Tesla Tint LA by Audio MotorSports in Carson, 15.6 miles away. Call (310) 513-8800 to book.
 ---
 # Tesla Window Tint for Stanton Owners With a New Delivery
 
@@ -38,7 +38,7 @@ For a longer job from Stanton, some people walk to the mall, the movie theaters 
 
 ### How soon after delivery should a Stanton owner tint a Tesla?
 
-As soon as you can book it. There is no waiting period for new factory glass, and the earlier the film goes on, the sooner the cabin stops baking through the doors and back glass. Call (213) 429-1092 with the delivery date and a slot can be set for the week the car arrives.
+As soon as you can book it. There is no waiting period for new factory glass, and the earlier the film goes on, the sooner the cabin stops baking through the doors and back glass. Call (310) 513-8800 with the delivery date and a slot can be set for the week the car arrives.
 
 ### Is a new Tesla from Stanton safe to tint without harming the paint?
 
@@ -70,7 +70,7 @@ New or not, every Tesla is quoted by model at the shop; text the year and model 
 
 ## Book your appointment
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -81,7 +81,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-stanton/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-stanton/",
    "name": "New Tesla Tint for Stanton Deliveries | Tesla Tint LA",
-   "description": "Ceramic Tesla window tint for a Stanton owner's new delivery. Tesla Tint LA by Audio MotorSports in Carson, 15.6 miles away. Call (213) 429-1092 to book.",
+   "description": "Ceramic Tesla window tint for a Stanton owner's new delivery. Tesla Tint LA by Audio MotorSports in Carson, 15.6 miles away. Call (310) 513-8800 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -123,7 +123,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "How soon after delivery should a Stanton owner tint a Tesla?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "As soon as you can book it. There is no waiting period for new factory glass, and the earlier the film goes on, the sooner the cabin stops baking through the doors and back glass. Call (213) 429-1092 with the delivery date and a slot can be set for the week the car arrives."
+      "text": "As soon as you can book it. There is no waiting period for new factory glass, and the earlier the film goes on, the sooner the cabin stops baking through the doors and back glass. Call (310) 513-8800 with the delivery date and a slot can be set for the week the car arrives."
      }
     },
     {

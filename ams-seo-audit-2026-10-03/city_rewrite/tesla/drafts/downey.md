@@ -5,7 +5,7 @@ miles: 10.9
 lead_service: Tesla window tint (Model Y)
 source: hub-mounted copy; standalone www host not verified
 title: Model Y Window Tint, Downey Owners | Tesla Tint LA
-meta: Model Y and Tesla window tint for Downey drivers: ceramic film installed by Audio MotorSports in Carson, 10.9 miles out. Call (213) 429-1092 to book.
+meta: Model Y and Tesla window tint for Downey drivers: ceramic film installed by Audio MotorSports in Carson, 10.9 miles out. Call (310) 513-8800 to book.
 ---
 # Tesla Window Tint for Downey Drivers, Model Y First
 
@@ -68,7 +68,7 @@ Each Tesla is priced by model at the counter, so text the year and model and Nic
 
 ## Set a Downey appointment
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -79,7 +79,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-downey/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-downey/",
    "name": "Model Y Window Tint, Downey Owners | Tesla Tint LA",
-   "description": "Model Y and Tesla window tint for Downey drivers: ceramic film installed by Audio MotorSports in Carson, 10.9 miles out. Call (213) 429-1092 to book.",
+   "description": "Model Y and Tesla window tint for Downey drivers: ceramic film installed by Audio MotorSports in Carson, 10.9 miles out. Call (310) 513-8800 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

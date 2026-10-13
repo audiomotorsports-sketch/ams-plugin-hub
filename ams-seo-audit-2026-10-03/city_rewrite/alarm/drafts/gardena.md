@@ -4,7 +4,7 @@ city: Gardena
 miles: 4.9
 lead_service: dash camera installation
 title: Dash Cam & Car Alarm Installation in Gardena | LA Car Alarm
-meta: Dash camera and car alarm installation for Gardena, done at LA Car Alarm by Audio MotorSports in Carson, 22025 S Avalon Blvd. Call (213) 429-1092 to book.
+meta: Dash camera and car alarm installation for Gardena, done at LA Car Alarm by Audio MotorSports in Carson, 22025 S Avalon Blvd. Call (310) 513-8800 to book.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Dash Camera and Car Alarm Installation for Gardena
@@ -69,7 +69,7 @@ Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Call or text to book
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

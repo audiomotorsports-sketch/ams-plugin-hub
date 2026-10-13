@@ -4,7 +4,7 @@ city: El Monte
 miles: 26.6
 lead_service: window tinting
 title: Window Tinting El Monte | LA Car Tint, Carson
-meta: Window tinting for El Monte pickups, SUVs and sedans, Solar and ceramic film cut on the glass at Audio MotorSports, Carson, 26.6 miles. Call (213) 429-1092.
+meta: Window tinting for El Monte pickups, SUVs and sedans, Solar and ceramic film cut on the glass at Audio MotorSports, Carson, 26.6 miles. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Window Tinting for El Monte Trucks and Cars, by Audio MotorSports, Carson
@@ -64,7 +64,7 @@ Solar window tint $249 installed and Solar Ceramic $329 installed, as of October
 
 ## Book it
 
-Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
+Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
 
 ```json
 {
@@ -75,7 +75,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-el-monte/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-el-monte/",
    "name": "Window Tinting El Monte | LA Car Tint, Carson",
-   "description": "Window tinting for El Monte pickups, SUVs and sedans, Solar and ceramic film cut on the glass at Audio MotorSports, Carson, 26.6 miles. Call (213) 429-1092.",
+   "description": "Window tinting for El Monte pickups, SUVs and sedans, Solar and ceramic film cut on the glass at Audio MotorSports, Carson, 26.6 miles. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

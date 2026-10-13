@@ -6,7 +6,7 @@ lead_service: subwoofer installation and subwoofer upgrade
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Subwoofer Installation, Hawaiian Gardens | LA Car Beats
-meta: Subwoofer installation and subwoofer upgrades for Hawaiian Gardens drivers at LA Car Beats by Audio MotorSports in Carson, 11 miles. Call (213) 429-1092.
+meta: Subwoofer installation and subwoofer upgrades for Hawaiian Gardens drivers at LA Car Beats by Audio MotorSports in Carson, 11 miles. Call (310) 513-8800.
 ---
 # Subwoofer Installation and Upgrades for Hawaiian Gardens
 
@@ -22,7 +22,7 @@ Hawaiian Gardens drivers who want bass that hits clean rather than loud and slop
 
 ## Hawaiian Gardens to Carson
 
-The drive from Hawaiian Gardens is about 11.0 miles, roughly 22 to 26 minutes outside rush hour (approx). Call (213) 429-1092 or text (213) 429-1092 to set a time. A box-and-amp install can be waited on; a full upgrade with new speakers is better as a drop-off. Hours are Monday to Saturday 9:30 to 6:00, closed Sunday. For perspective, people have driven from San Diego for subwoofer work here, so Hawaiian Gardens is a short trip.
+The drive from Hawaiian Gardens is about 11.0 miles, roughly 22 to 26 minutes outside rush hour (approx). Call (310) 513-8800 or text (213) 429-1092 to set a time. A box-and-amp install can be waited on; a full upgrade with new speakers is better as a drop-off. Hours are Monday to Saturday 9:30 to 6:00, closed Sunday. For perspective, people have driven from San Diego for subwoofer work here, so Hawaiian Gardens is a short trip.
 
 <!-- owner-details-2026-10-07 -->
 For a longer job from Hawaiian Gardens, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Hawaiian Gardens customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Coming from Hawaiian Gardens, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
@@ -59,7 +59,7 @@ Nearby car stereo installation pages: [Cerritos](/beats/car-stereo-cerritos/) ·
 
 ## Book a Hawaiian Gardens sub install
 
-Tell us the car and whether you already have an amp, and the quote comes back the same day. Call (213) 429-1092 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Tell us the car and whether you already have an amp, and the quote comes back the same day. Call (310) 513-8800 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -70,7 +70,7 @@ Tell us the car and whether you already have an amp, and the quote comes back th
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-hawaiian-gardens/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-hawaiian-gardens/",
    "name": "Subwoofer Installation, Hawaiian Gardens | LA Car Beats",
-   "description": "Subwoofer installation and subwoofer upgrades for Hawaiian Gardens drivers at LA Car Beats by Audio MotorSports in Carson, 11 miles. Call (213) 429-1092.",
+   "description": "Subwoofer installation and subwoofer upgrades for Hawaiian Gardens drivers at LA Car Beats by Audio MotorSports in Carson, 11 miles. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

@@ -4,7 +4,7 @@ city: Rancho Cucamonga
 miles: 53.6
 lead_service: ceramic window tint (Inland Empire heat)
 title: Ceramic Window Tint Rancho Cucamonga | LA Car Tint
-meta: Ceramic window tint for Rancho Cucamonga heat, hand-cut and installed by LA Car Tint at Audio MotorSports in Carson, 53.6 miles away. Call (213) 429-1092.
+meta: Ceramic window tint for Rancho Cucamonga heat, hand-cut and installed by LA Car Tint at Audio MotorSports in Carson, 53.6 miles away. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Ceramic Window Tint for Rancho Cucamonga Drivers, by Audio MotorSports, Carson
@@ -63,7 +63,7 @@ Solar window tinting $249 installed; Solar Ceramic window tinting $329 installed
 
 ## Book it
 
-Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
+Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
 
 ```json
 {
@@ -74,7 +74,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-rancho-cucamonga/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-rancho-cucamonga/",
    "name": "Ceramic Window Tint Rancho Cucamonga | LA Car Tint",
-   "description": "Ceramic window tint for Rancho Cucamonga heat, hand-cut and installed by LA Car Tint at Audio MotorSports in Carson, 53.6 miles away. Call (213) 429-1092.",
+   "description": "Ceramic window tint for Rancho Cucamonga heat, hand-cut and installed by LA Car Tint at Audio MotorSports in Carson, 53.6 miles away. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

@@ -4,7 +4,7 @@ city: Stanton
 miles: 15.6
 lead_service: alarm & remote start
 title: Car Alarm Installation for Stanton | Audio MotorSports
-meta: Viper alarm installation, Compustar remote start, GPS trackers, window tint and car stereo for Stanton drivers at Audio MotorSports, Carson. (213) 429-1092.
+meta: Viper alarm installation, Compustar remote start, GPS trackers, window tint and car stereo for Stanton drivers at Audio MotorSports, Carson. (310) 513-8800.
 ---
 # Car Alarm and Remote Start Installation for Stanton
 
@@ -59,7 +59,7 @@ Viper 3108V alarm $269 installed. Compustar 9910 remote start from $499. Car win
 
 ## Set up a Stanton appointment
 
-Call (213) 429-1092 or text (213) 429-1092 with the vehicle year, make and model. The shop is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092 with the vehicle year, make and model. The shop is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {

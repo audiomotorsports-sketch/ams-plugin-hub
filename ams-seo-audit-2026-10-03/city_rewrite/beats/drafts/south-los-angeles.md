@@ -4,7 +4,7 @@ city: South Los Angeles
 miles: 11.0
 lead_service: truck and SUV car audio installation
 title: South Los Angeles Truck & SUV Audio | LA Car Beats, Carson
-meta: Truck and SUV car stereo installation, subwoofer and amplifier installation for South Los Angeles drivers at Audio MotorSports in Carson. Call (213) 429-1092.
+meta: Truck and SUV car stereo installation, subwoofer and amplifier installation for South Los Angeles drivers at Audio MotorSports in Carson. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Truck and SUV Car Stereo Installation for South Los Angeles
@@ -65,7 +65,7 @@ More LA Car Beats pages near South Los Angeles:
 
 ## Book your truck install
 
-Call (213) 429-1092 or text (213) 429-1092 with the year, make and model of your truck or SUV. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092 with the year, make and model of your truck or SUV. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -76,7 +76,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the year, make and model of your
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-south-los-angeles/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-south-los-angeles/",
    "name": "South Los Angeles Truck & SUV Audio | LA Car Beats, Carson",
-   "description": "Truck and SUV car stereo installation, subwoofer and amplifier installation for South Los Angeles drivers at Audio MotorSports in Carson. Call (213) 429-1092.",
+   "description": "Truck and SUV car stereo installation, subwoofer and amplifier installation for South Los Angeles drivers at Audio MotorSports in Carson. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

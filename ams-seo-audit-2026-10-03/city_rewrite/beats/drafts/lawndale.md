@@ -6,7 +6,7 @@ lead_service: truck and SUV car audio
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Lawndale Truck & SUV Car Stereo Installation | LA Car Beats
-meta: Car stereo installation, subwoofers and speaker replacement for Lawndale trucks and SUVs at Audio MotorSports in Carson, 6.5 miles. Call (213) 429-1092.
+meta: Car stereo installation, subwoofers and speaker replacement for Lawndale trucks and SUVs at Audio MotorSports in Carson, 6.5 miles. Call (310) 513-8800.
 ---
 # Truck and SUV Car Stereo Installation for Lawndale
 
@@ -22,7 +22,7 @@ Pickups and SUVs from Lawndale are regular visitors at LA Car Beats by Audio Mot
 
 ## From Lawndale to Carson
 
-Lawndale to the shop is about 6.5 miles, roughly 13 to 16 minutes outside the commute crunch (approx). The bay runs Monday through Saturday from 9:30 until 6:00 and is closed on Sunday. Call (213) 429-1092 or text (213) 429-1092 to set a time; bigger truck installs are easier to drop off in the morning, and shorter ones can be waited on. Customers come to Carson from over 100 miles away for this work, so the Lawndale run is short by comparison. [SHOP NOTE: 2-3 sentences from Nick about Lawndale customers, routes or jobs]
+Lawndale to the shop is about 6.5 miles, roughly 13 to 16 minutes outside the commute crunch (approx). The bay runs Monday through Saturday from 9:30 until 6:00 and is closed on Sunday. Call (310) 513-8800 or text (213) 429-1092 to set a time; bigger truck installs are easier to drop off in the morning, and shorter ones can be waited on. Customers come to Carson from over 100 miles away for this work, so the Lawndale run is short by comparison. [SHOP NOTE: 2-3 sentences from Nick about Lawndale customers, routes or jobs]
 
 <!-- owner-details-2026-10-07 -->
 For a longer job from Lawndale, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. From Lawndale you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
@@ -59,7 +59,7 @@ Lawndale neighbors with their own car stereo page: [Hawthorne](/beats/car-stereo
 
 ## Book the truck in
 
-Text (213) 429-1092 with the truck details or call (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745; open Mon-Sat 9:30-18:00 and closed Sunday.
+Text (213) 429-1092 with the truck details or call (310) 513-8800. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745; open Mon-Sat 9:30-18:00 and closed Sunday.
 
 ```json
 {
@@ -71,7 +71,7 @@ Text (213) 429-1092 with the truck details or call (213) 429-1092. Audio MotorSp
    "name": "Lawndale Truck & SUV Car Stereo Installation | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-lawndale/",
    "dateModified": "2026-10-08",
-   "description": "Car stereo installation, subwoofers and speaker replacement for Lawndale trucks and SUVs at Audio MotorSports in Carson, 6.5 miles. Call (213) 429-1092.",
+   "description": "Car stereo installation, subwoofers and speaker replacement for Lawndale trucks and SUVs at Audio MotorSports in Carson, 6.5 miles. Call (310) 513-8800.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

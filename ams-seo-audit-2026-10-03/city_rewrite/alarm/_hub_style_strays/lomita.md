@@ -5,7 +5,7 @@ city: Lomita
 miles: 3.7
 lead_service: Harley bagger amplifier installation and tuning (AMS pods)
 title: Lomita Harley Bagger Audio | AMS Pods by Audio MotorSports
-meta: Amplifier installation and tuning for Harley baggers from Lomita at Audio MotorSports, Carson, 3.7 miles away. AMS pods fitted on the bike. Call (213) 429-1092.
+meta: Amplifier installation and tuning for Harley baggers from Lomita at Audio MotorSports, Carson, 3.7 miles away. AMS pods fitted on the bike. Call (310) 513-8800.
 ---
 # Harley Bagger Amplifier Installation and Tuning for Lomita Riders
 
@@ -66,7 +66,7 @@ AMS lower-fairing pods start at $649 a pair, as of October 2026. Amplifier insta
 
 ## Set a time
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Monday through Saturday, 9:30 AM to 6:00 PM, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Monday through Saturday, 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {

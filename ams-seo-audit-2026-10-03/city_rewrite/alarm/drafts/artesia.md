@@ -5,7 +5,7 @@ city: Artesia
 miles: 10.8
 lead_service: work-truck security
 title: Work Truck Alarm Installation for Artesia | LA Car Alarm
-meta: Work truck alarm installation, GPS trackers and remote start for Artesia drivers at LA Car Alarm by Audio MotorSports in Carson. Call (213) 429-1092.
+meta: Work truck alarm installation, GPS trackers and remote start for Artesia drivers at LA Car Alarm by Audio MotorSports in Carson. Call (310) 513-8800.
 ---
 # Work Truck Security and Car Alarm Installation for Artesia
 
@@ -60,7 +60,7 @@ Viper 3108V alarm $269 installed. Compustar 9910 remote start from $499. Tracker
 
 ## Book an Artesia truck or car install
 
-Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

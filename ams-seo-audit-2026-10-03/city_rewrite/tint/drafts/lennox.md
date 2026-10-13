@@ -5,7 +5,7 @@ miles: 9.0
 lead_service: Tesla window tint
 source: hub-mounted copy; standalone www host not verified
 title: Lennox Window Tint | LA Car Tint by Audio MotorSports
-meta: Tesla window tint and ceramic window tint for Lennox drivers, installed indoors at Audio MotorSports in Carson, 9 miles away. Call (213) 429-1092.
+meta: Tesla window tint and ceramic window tint for Lennox drivers, installed indoors at Audio MotorSports in Carson, 9 miles away. Call (310) 513-8800.
 ---
 # Tesla and Car Window Tint for Lennox
 
@@ -61,7 +61,7 @@ Car alarm installation, remote start installation, car stereo installation with 
 
 ## Book from Lennox
 
-Call (213) 429-1092 or text (213) 429-1092 with your Tesla model or vehicle, and bring it to Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-6:00 (Sunday closed).
+Call (310) 513-8800 or text (213) 429-1092 with your Tesla model or vehicle, and bring it to Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-6:00 (Sunday closed).
 
 ```json
 {
@@ -72,7 +72,7 @@ Call (213) 429-1092 or text (213) 429-1092 with your Tesla model or vehicle, and
       "@id": "https://www.audiomotorsports.com/tint/window-tint-lennox/#webpage",
       "url": "https://www.audiomotorsports.com/tint/window-tint-lennox/",
       "name": "Lennox Window Tint | LA Car Tint by Audio MotorSports",
-      "description": "Tesla window tint and ceramic window tint for Lennox drivers, installed indoors at Audio MotorSports in Carson, 9 miles away. Call (213) 429-1092.",
+      "description": "Tesla window tint and ceramic window tint for Lennox drivers, installed indoors at Audio MotorSports in Carson, 9 miles away. Call (310) 513-8800.",
       "dateModified": "2026-10-08",
       "about": {
         "@id": "https://www.audiomotorsports.com/#business"

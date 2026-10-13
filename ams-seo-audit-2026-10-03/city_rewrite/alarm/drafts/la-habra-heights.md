@@ -4,7 +4,7 @@ city: La Habra Heights
 miles: 20.1
 lead_service: theft recovery (GPS + alarm)
 title: Theft Recovery & Alarms, La Habra Heights | LA Car Alarm
-meta: Theft recovery GPS tracker installation and car alarm installation for La Habra Heights drivers at LA Car Alarm by Audio MotorSports, Carson. (213) 429-1092.
+meta: Theft recovery GPS tracker installation and car alarm installation for La Habra Heights drivers at LA Car Alarm by Audio MotorSports, Carson. (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Theft Recovery and Car Alarm Installation for La Habra Heights
@@ -68,7 +68,7 @@ Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Get on the schedule
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

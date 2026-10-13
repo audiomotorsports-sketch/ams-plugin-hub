@@ -4,7 +4,7 @@ city: Rosemead
 miles: 20.4
 lead_service: Tesla window tint (Model 3)
 title: Rosemead Model 3 Tesla Window Tint | Tesla Tint LA
-meta: Model 3 window tint for Rosemead owners, ceramic film on side and rear glass, at Tesla Tint LA in Carson, 20.4 miles away. Call (213) 429-1092.
+meta: Model 3 window tint for Rosemead owners, ceramic film on side and rear glass, at Tesla Tint LA in Carson, 20.4 miles away. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Model 3 Window Tint for Rosemead Tesla Owners
@@ -61,7 +61,7 @@ Model 3 pricing is settled in person at the shop, never guessed over the phone. 
 
 ## Book it
 
-Call (213) 429-1092 or text (213) 429-1092 to book. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 to book. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

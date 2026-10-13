@@ -4,7 +4,7 @@ city: Hawaiian Gardens
 miles: 11.0
 lead_service: speaker upgrades
 title: Speaker Replacement for Hawaiian Gardens | LA Car Beats
-meta: Speaker replacement, car stereo installation and subwoofer upgrades for Hawaiian Gardens drivers at LA Car Beats by Audio MotorSports in Carson, 11 miles. Call (213) 429-1092.
+meta: Speaker replacement, car stereo installation and subwoofer upgrades for Hawaiian Gardens drivers at LA Car Beats by Audio MotorSports in Carson, 11 miles. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Speaker Replacement and Car Audio for Hawaiian Gardens
@@ -68,7 +68,7 @@ Full-service pages on the main site: [Cerritos](/cerritos/) · [Los Alamitos](/l
 
 ## Book from Hawaiian Gardens
 
-Call (213) 429-1092 or text (213) 429-1092 with your vehicle. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30 to 6:00, Sunday closed. Google 4.8 across 654 reviews, Yelp 4.7 across 777, as of October 2026.
+Call (310) 513-8800 or text (213) 429-1092 with your vehicle. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30 to 6:00, Sunday closed. Google 4.8 across 654 reviews, Yelp 4.7 across 777, as of October 2026.
 
 ```json
 {

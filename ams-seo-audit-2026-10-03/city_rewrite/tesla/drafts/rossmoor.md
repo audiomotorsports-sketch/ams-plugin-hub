@@ -4,7 +4,7 @@ city: Rossmoor
 miles: 11.0
 lead_service: Tesla window tint (Cybertruck)
 title: Rossmoor Tesla & Cybertruck Tint | Tesla Tint LA, Carson
-meta: Cybertruck, Model 3, Model Y, S and X window tint for Rossmoor at Tesla Tint LA by Audio MotorSports in Carson, 11 miles away. Call (213) 429-1092.
+meta: Cybertruck, Model 3, Model Y, S and X window tint for Rossmoor at Tesla Tint LA by Audio MotorSports in Carson, 11 miles away. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Cybertruck and Tesla Window Tint for Rossmoor
@@ -60,7 +60,7 @@ Tesla and Cybertruck tint are quoted by model at the shop. The non-Tesla referen
 
 ## Set up your appointment
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

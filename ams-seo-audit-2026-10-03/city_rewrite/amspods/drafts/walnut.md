@@ -4,7 +4,7 @@ city: Walnut
 miles: 26.5
 lead_service: AMS pods built in Carson and installed in one trip
 title: Harley Bagger Audio Walnut | AMS Pods
-meta: AMS pods built in Carson and installed in one trip for Walnut Harley riders, with amplifier and speaker installation. Audio MotorSports, (213) 429-1092.
+meta: AMS pods built in Carson and installed in one trip for Walnut Harley riders, with amplifier and speaker installation. Audio MotorSports, (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # AMS Pods Built and Installed for Walnut Harley Riders
@@ -34,7 +34,7 @@ Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a w
 
 ### How does a Walnut rider order AMS pods without visiting first?
 
-Call (213) 429-1092 or text (213) 429-1092 with your year, which of the three baggers you ride, and chrome or gloss. The pair goes into the build queue for about three weeks, and Nick books the install day for when it is done. The first ride from Walnut is the install.
+Call (310) 513-8800 or text (213) 429-1092 with your year, which of the three baggers you ride, and chrome or gloss. The pair goes into the build queue for about three weeks, and Nick books the install day for when it is done. The first ride from Walnut is the install.
 
 ### What is included with a pair of AMS pods?
 
@@ -65,7 +65,7 @@ Other AMS Pods pages for riders out past Walnut: [Diamond Bar](/amspods/bagger-a
 
 ## Order the pair, then ride in once
 
-Call (213) 429-1092 or text (213) 429-1092 to start the build. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 to start the build. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -76,7 +76,7 @@ Call (213) 429-1092 or text (213) 429-1092 to start the build. Audio MotorSports
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-walnut/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-walnut/",
    "name": "Harley Bagger Audio Walnut | AMS Pods",
-   "description": "AMS pods built in Carson and installed in one trip for Walnut Harley riders, with amplifier and speaker installation. Audio MotorSports, (213) 429-1092.",
+   "description": "AMS pods built in Carson and installed in one trip for Walnut Harley riders, with amplifier and speaker installation. Audio MotorSports, (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -115,7 +115,7 @@ Call (213) 429-1092 or text (213) 429-1092 to start the build. Audio MotorSports
      "name": "How does a Walnut rider order AMS pods without visiting first?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Call (213) 429-1092 or text (213) 429-1092 with your year, which of the three baggers you ride, and chrome or gloss. The pair goes into the build queue for about three weeks, and Nick books the install day for when it is done. The first ride from Walnut is the install."
+      "text": "Call (310) 513-8800 or text (213) 429-1092 with your year, which of the three baggers you ride, and chrome or gloss. The pair goes into the build queue for about three weeks, and Nick books the install day for when it is done. The first ride from Walnut is the install."
      }
     },
     {

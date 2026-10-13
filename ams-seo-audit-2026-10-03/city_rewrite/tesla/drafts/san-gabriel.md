@@ -4,7 +4,7 @@ city: San Gabriel
 miles: 20.4
 lead_service: Tesla window tint (one-piece rear glass)
 title: San Gabriel Tesla Window Tint | Tesla Tint LA, Carson
-meta: One-piece rear glass tint for Model 3, Model Y, S, X and Cybertruck for San Gabriel at Tesla Tint LA by Audio MotorSports, Carson, 20 mi. Call (213) 429-1092.
+meta: One-piece rear glass tint for Model 3, Model Y, S, X and Cybertruck for San Gabriel at Tesla Tint LA by Audio MotorSports, Carson, 20 mi. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla Window Tint for San Gabriel: One-Piece Rear Glass Done Right
@@ -60,7 +60,7 @@ Tesla window tint is quoted by model at the shop, since the rear glass and side 
 
 ## Reserve the bay
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

@@ -5,7 +5,7 @@ city: Azusa
 miles: 36.5
 lead_service: GPS tracker installation
 title: GPS Tracker & Car Alarm Installation, Azusa | LA Car Alarm
-meta: GPS tracker installation, Viper car alarms and remote start for Azusa drivers at LA Car Alarm by Audio MotorSports in Carson, 36.5 miles. Call (213) 429-1092.
+meta: GPS tracker installation, Viper car alarms and remote start for Azusa drivers at LA Car Alarm by Audio MotorSports in Carson, 36.5 miles. Call (310) 513-8800.
 ---
 # GPS Tracker Installation and Car Alarms for Azusa
 
@@ -60,7 +60,7 @@ Viper 3108V alarm $269 installed. Compustar 9910 remote start from $499. Tracker
 
 ## Book an Azusa tracker or alarm install
 
-Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

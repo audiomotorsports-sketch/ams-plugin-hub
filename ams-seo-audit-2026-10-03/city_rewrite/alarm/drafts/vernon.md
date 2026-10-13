@@ -5,7 +5,7 @@ city: Vernon
 miles: 12.1
 lead_service: fleet security (GPS tracker and immobilizer installation)
 title: Fleet Alarm & GPS Installation for Vernon | LA Car Alarm
-meta: Fleet GPS tracker installation, immobilizers and Viper car alarms for Vernon work vehicles at LA Car Alarm by Audio MotorSports in Carson. Call (213) 429-1092.
+meta: Fleet GPS tracker installation, immobilizers and Viper car alarms for Vernon work vehicles at LA Car Alarm by Audio MotorSports in Carson. Call (310) 513-8800.
 ---
 # Fleet Security and Car Alarm Installation for Vernon
 
@@ -70,7 +70,7 @@ Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Book a Vernon fleet or a single vehicle
 
-Call (213) 429-1092 or text (213) 429-1092 with the vehicle list. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with the vehicle list. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

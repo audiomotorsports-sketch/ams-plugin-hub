@@ -4,7 +4,7 @@ city: Lakewood
 miles: 7.7
 lead_service: Tesla window tint
 title: Tesla Window Tint for Lakewood | Audio MotorSports
-meta: Tesla window tint, ceramic tint, car audio and alarms for Lakewood owners at Audio MotorSports in Carson, 7.7 miles away. Call (213) 429-1092 to schedule.
+meta: Tesla window tint, ceramic tint, car audio and alarms for Lakewood owners at Audio MotorSports in Carson, 7.7 miles away. Call (310) 513-8800 to schedule.
 ---
 # Tesla Window Tint for Lakewood Owners
 
@@ -65,7 +65,7 @@ Coming from around Lakewood? These pages cover the cities next door:
 
 ## Book Tesla tint from Lakewood
 
-Text (213) 429-1092 with your Tesla model and year, or call (213) 429-1092. We are at 22025 S Avalon Blvd Ste A, Carson, CA 90745. Hours: Monday to Saturday, 9:30 AM to 6:00 PM; Sunday closed.
+Text (213) 429-1092 with your Tesla model and year, or call (310) 513-8800. We are at 22025 S Avalon Blvd Ste A, Carson, CA 90745. Hours: Monday to Saturday, 9:30 AM to 6:00 PM; Sunday closed.
 
 ```json
 {
@@ -76,7 +76,7 @@ Text (213) 429-1092 with your Tesla model and year, or call (213) 429-1092. We a
    "@id": "https://www.audiomotorsports.com/lakewood/#webpage",
    "url": "https://www.audiomotorsports.com/lakewood/",
    "name": "Tesla Window Tint for Lakewood | Audio MotorSports",
-   "description": "Tesla window tint, ceramic tint, car audio and alarms for Lakewood owners at Audio MotorSports in Carson, 7.7 miles away. Call (213) 429-1092 to schedule.",
+   "description": "Tesla window tint, ceramic tint, car audio and alarms for Lakewood owners at Audio MotorSports in Carson, 7.7 miles away. Call (310) 513-8800 to schedule.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

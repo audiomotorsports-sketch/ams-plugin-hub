@@ -6,7 +6,7 @@ lead_service: head unit installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: West Carson Head Unit Installation | LA Car Beats
-meta: Head unit installation and car stereo installation for West Carson at LA Car Beats by Audio MotorSports in Carson, 1.8 miles away. Call (213) 429-1092.
+meta: Head unit installation and car stereo installation for West Carson at LA Car Beats by Audio MotorSports in Carson, 1.8 miles away. Call (310) 513-8800.
 ---
 # Head Unit Installation for West Carson Drivers
 
@@ -22,7 +22,7 @@ West Carson is the closest city on this list to LA Car Beats by Audio MotorSport
 
 ## Getting here from West Carson
 
-From West Carson the shop is about 1.8 miles, which is roughly a 4-minute drive outside rush hour (approx). Hours are Monday to Saturday 9:30 to 6:00, closed Sunday. Because the trip is so short, most West Carson customers wait for a head unit installation and go home; bigger jobs with speakers and an amp are easier as a drop-off. Phone (213) 429-1092 or text (213) 429-1092 to set a time. [SHOP NOTE: 2-3 sentences from Nick about West Carson customers, routes or jobs]
+From West Carson the shop is about 1.8 miles, which is roughly a 4-minute drive outside rush hour (approx). Hours are Monday to Saturday 9:30 to 6:00, closed Sunday. Because the trip is so short, most West Carson customers wait for a head unit installation and go home; bigger jobs with speakers and an amp are easier as a drop-off. Phone (310) 513-8800 or text (213) 429-1092 to set a time. [SHOP NOTE: 2-3 sentences from Nick about West Carson customers, routes or jobs]
 
 <!-- owner-details-2026-10-07 -->
 Plenty of West Carson drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. The shop is LGBTQ-friendly and everyone from West Carson is welcome, as our Google and Yelp listings state. From West Carson you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd. Many West Carson customers work at the port, the rail yard or one of the refineries and book around their shifts.
@@ -64,7 +64,7 @@ Car stereo installation pages for the cities around West Carson:
 
 ## Book from West Carson
 
-Call (213) 429-1092 or text (213) 429-1092 with your year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with your year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -76,7 +76,7 @@ Call (213) 429-1092 or text (213) 429-1092 with your year, make and model. Audio
    "name": "West Carson Head Unit Installation | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-west-carson/",
    "dateModified": "2026-10-08",
-   "description": "Head unit installation and car stereo installation for West Carson at LA Car Beats by Audio MotorSports in Carson, 1.8 miles away. Call (213) 429-1092.",
+   "description": "Head unit installation and car stereo installation for West Carson at LA Car Beats by Audio MotorSports in Carson, 1.8 miles away. Call (310) 513-8800.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

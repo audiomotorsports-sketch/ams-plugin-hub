@@ -6,7 +6,7 @@ lead_service: head unit installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Downey Head Unit Installation | LA Car Beats
-meta: Head unit installation and Apple CarPlay for Downey drivers at LA Car Beats by Audio MotorSports in Carson, about 10.9 miles away. Call (213) 429-1092.
+meta: Head unit installation and Apple CarPlay for Downey drivers at LA Car Beats by Audio MotorSports in Carson, about 10.9 miles away. Call (310) 513-8800.
 ---
 # Head Unit Installation for Downey Drivers
 
@@ -21,7 +21,7 @@ A bigger screen, CarPlay and a radio that still looks like it came with the car:
 
 ## Downey to the shop
 
-Downey is about 10.9 miles from the Carson bay, roughly 22 to 26 minutes outside rush hour (approx). Reserve a time at (213) 429-1092 or by text at (213) 429-1092. A head unit swap is a short enough job to wait for; add speakers and a sub and plan on dropping the car in the morning. Open Monday through Saturday 9:30 to 6:00, closed Sunday. [SHOP NOTE: 2-3 sentences from Nick about Downey customers, routes or jobs]
+Downey is about 10.9 miles from the Carson bay, roughly 22 to 26 minutes outside rush hour (approx). Reserve a time at (310) 513-8800 or by text at (213) 429-1092. A head unit swap is a short enough job to wait for; add speakers and a sub and plan on dropping the car in the morning. Open Monday through Saturday 9:30 to 6:00, closed Sunday. [SHOP NOTE: 2-3 sentences from Nick about Downey customers, routes or jobs]
 
 <!-- owner-details-2026-10-07 -->
 If you would rather wait inside than make two trips from Downey, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Downey traffic sends you.
@@ -58,7 +58,7 @@ LA Car Beats pages for nearby cities: [Bellflower](/beats/car-stereo-bellflower/
 
 ## Book a Downey head unit install
 
-Text the year, make and model and the parts will be pulled before you arrive. Call (213) 429-1092 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Text the year, make and model and the parts will be pulled before you arrive. Call (310) 513-8800 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -69,7 +69,7 @@ Text the year, make and model and the parts will be pulled before you arrive. Ca
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-downey/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-downey/",
    "name": "Downey Head Unit Installation | LA Car Beats",
-   "description": "Head unit installation and Apple CarPlay for Downey drivers at LA Car Beats by Audio MotorSports in Carson, about 10.9 miles away. Call (213) 429-1092.",
+   "description": "Head unit installation and Apple CarPlay for Downey drivers at LA Car Beats by Audio MotorSports in Carson, about 10.9 miles away. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

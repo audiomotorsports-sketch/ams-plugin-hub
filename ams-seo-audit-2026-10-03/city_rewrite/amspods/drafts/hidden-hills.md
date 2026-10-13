@@ -4,7 +4,7 @@ city: Hidden Hills
 miles: 32.3
 lead_service: Fairing wiring and quick disconnects for Harley bagger audio
 title: Harley Bagger Audio Hidden Hills | AMS Pods
-meta: Fairing wiring, soldered quick disconnects and AMS pods for Hidden Hills Harley riders at AMS Pods by Audio MotorSports in Carson. Call (213) 429-1092.
+meta: Fairing wiring, soldered quick disconnects and AMS pods for Hidden Hills Harley riders at AMS Pods by Audio MotorSports in Carson. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Fairing Wiring Done Right for Hidden Hills Bagger Riders
@@ -65,7 +65,7 @@ Riders also come in from [Woodland Hills](/amspods/bagger-audio-woodland-hills/)
 
 ## Book the wiring job
 
-Call (213) 429-1092 or text (213) 429-1092 with your year and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with your year and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -76,7 +76,7 @@ Call (213) 429-1092 or text (213) 429-1092 with your year and model. Audio Motor
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-hidden-hills/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-hidden-hills/",
    "name": "Harley Bagger Audio Hidden Hills | AMS Pods",
-   "description": "Fairing wiring, soldered quick disconnects and AMS pods for Hidden Hills Harley riders at AMS Pods by Audio MotorSports in Carson. Call (213) 429-1092.",
+   "description": "Fairing wiring, soldered quick disconnects and AMS pods for Hidden Hills Harley riders at AMS Pods by Audio MotorSports in Carson. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

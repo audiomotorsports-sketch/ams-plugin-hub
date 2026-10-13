@@ -4,7 +4,7 @@ city: Northridge
 miles: 32.2
 lead_service: First Harley bagger audio upgrade
 title: Northridge First Harley Bagger Audio Upgrade | AMS Pods
-meta: First bagger audio upgrade for Northridge riders: AMS lower-fairing pods, amp and speaker installation. AMS Pods by Audio MotorSports, Carson. (213) 429-1092.
+meta: First bagger audio upgrade for Northridge riders: AMS lower-fairing pods, amp and speaker installation. AMS Pods by Audio MotorSports, Carson. (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # A First Harley Bagger Audio Upgrade for Northridge Riders
@@ -65,7 +65,7 @@ Also serving riders in [Winnetka](/amspods/bagger-audio-winnetka/), [Granada Hil
 
 ## Start with a call
 
-(213) 429-1092 by phone, (213) 429-1092 by text. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+(310) 513-8800 by phone, (213) 429-1092 by text. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -76,7 +76,7 @@ Also serving riders in [Winnetka](/amspods/bagger-audio-winnetka/), [Granada Hil
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-northridge/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-northridge/",
    "name": "Northridge First Harley Bagger Audio Upgrade | AMS Pods",
-   "description": "First bagger audio upgrade for Northridge riders: AMS lower-fairing pods, amp and speaker installation. AMS Pods by Audio MotorSports, Carson. (213) 429-1092.",
+   "description": "First bagger audio upgrade for Northridge riders: AMS lower-fairing pods, amp and speaker installation. AMS Pods by Audio MotorSports, Carson. (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

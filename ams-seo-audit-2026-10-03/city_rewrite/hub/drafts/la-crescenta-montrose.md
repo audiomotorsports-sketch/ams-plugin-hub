@@ -4,7 +4,7 @@ city: La Crescenta-Montrose
 miles: 28.0
 lead_service: alarm & remote start
 title: Car Alarms for La Crescenta-Montrose | Audio MotorSports
-meta: Car alarm installation, remote start and window tint for La Crescenta-Montrose drivers at Audio MotorSports in Carson, 28 miles. Call (213) 429-1092.
+meta: Car alarm installation, remote start and window tint for La Crescenta-Montrose drivers at Audio MotorSports in Carson, 28 miles. Call (310) 513-8800.
 ---
 # Car Alarm and Remote Start Installation for La Crescenta-Montrose
 
@@ -67,7 +67,7 @@ We also serve the cities next to La Crescenta-Montrose:
 
 ## Book from La Crescenta-Montrose
 
-Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open 9:30 AM to 6:00 PM Monday through Saturday and closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open 9:30 AM to 6:00 PM Monday through Saturday and closed Sunday.
 
 ```json
 {
@@ -78,7 +78,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio 
    "@id": "https://www.audiomotorsports.com/la-crescenta-montrose/#webpage",
    "url": "https://www.audiomotorsports.com/la-crescenta-montrose/",
    "name": "Car Alarms for La Crescenta-Montrose | Audio MotorSports",
-   "description": "Car alarm installation, remote start and window tint for La Crescenta-Montrose drivers at Audio MotorSports in Carson, 28 miles. Call (213) 429-1092.",
+   "description": "Car alarm installation, remote start and window tint for La Crescenta-Montrose drivers at Audio MotorSports in Carson, 28 miles. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

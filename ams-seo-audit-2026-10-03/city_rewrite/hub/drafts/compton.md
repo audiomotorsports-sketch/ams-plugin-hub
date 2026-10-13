@@ -4,7 +4,7 @@ city: Compton
 miles: 5.4
 lead_service: car audio/stereo
 title: Car Stereo & Subwoofers for Compton | Audio MotorSports
-meta: Car stereo, subwoofer and amplifier installs for Compton drivers at Audio MotorSports in Carson, 5.4 miles away. Tint and alarms too. Call (213) 429-1092.
+meta: Car stereo, subwoofer and amplifier installs for Compton drivers at Audio MotorSports in Carson, 5.4 miles away. Tint and alarms too. Call (310) 513-8800.
 ---
 # Car Audio Installation for Compton, Done in Carson
 
@@ -67,7 +67,7 @@ If you are coming from the cities around Compton, these pages are for you:
 
 ## Set up a Compton install
 
-Text your year, make and model to (213) 429-1092 or call (213) 429-1092. The shop is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open 9:30 AM to 6:00 PM Monday through Saturday and closed on Sunday.
+Text your year, make and model to (213) 429-1092 or call (310) 513-8800. The shop is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open 9:30 AM to 6:00 PM Monday through Saturday and closed on Sunday.
 
 ```json
 {
@@ -78,7 +78,7 @@ Text your year, make and model to (213) 429-1092 or call (213) 429-1092. The sho
    "@id": "https://www.audiomotorsports.com/compton/#webpage",
    "url": "https://www.audiomotorsports.com/compton/",
    "name": "Car Stereo & Subwoofers for Compton | Audio MotorSports",
-   "description": "Car stereo, subwoofer and amplifier installs for Compton drivers at Audio MotorSports in Carson, 5.4 miles away. Tint and alarms too. Call (213) 429-1092.",
+   "description": "Car stereo, subwoofer and amplifier installs for Compton drivers at Audio MotorSports in Carson, 5.4 miles away. Tint and alarms too. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

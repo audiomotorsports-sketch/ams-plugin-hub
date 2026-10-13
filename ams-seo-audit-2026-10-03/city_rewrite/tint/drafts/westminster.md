@@ -4,7 +4,7 @@ city: Westminster
 miles: 16.4
 lead_service: window tinting (SUV and minivan privacy)
 title: Westminster Window Tinting | LA Car Tint, Audio MotorSports
-meta: Window tinting for Westminster SUVs, minivans and sedans, hand-cut and installed by Audio MotorSports in Carson, 16.4 miles away. Call (213) 429-1092 to book.
+meta: Window tinting for Westminster SUVs, minivans and sedans, hand-cut and installed by Audio MotorSports in Carson, 16.4 miles away. Call (310) 513-8800 to book.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Window Tinting for Westminster SUVs, Minivans and Sedans
@@ -58,7 +58,7 @@ Solar four-door window tint is $249 installed and Solar Ceramic four-door is $32
 
 ## Book the van or the SUV
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports — 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports — 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30-18:00, Sunday closed.
 
 ```json
 {

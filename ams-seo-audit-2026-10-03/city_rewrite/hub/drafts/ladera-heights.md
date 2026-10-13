@@ -4,7 +4,7 @@ city: Ladera Heights
 miles: 13.0
 lead_service: Car stereo installation
 title: Car Stereo Installation, Ladera Heights | Audio MotorSports
-meta: Car stereo installation, speaker replacement, amplifier installs, window tint and alarms for Ladera Heights drivers. Audio MotorSports, Carson. (213) 429-1092.
+meta: Car stereo installation, speaker replacement, amplifier installs, window tint and alarms for Ladera Heights drivers. Audio MotorSports, Carson. (310) 513-8800.
 ---
 # Car Stereo Installation for Ladera Heights
 
@@ -27,7 +27,7 @@ If you would rather wait inside than make two trips from Ladera Heights, the sho
 
 ## Ladera Heights to the Carson bay
 
-Plan on about 13.0 miles and roughly 26 to 31 minutes (approx) in normal traffic. We have done tint for a customer who drove up from San Diego, so this is a short hop. Hours are Monday to Saturday, 9:30 AM to 6:00 PM, closed Sunday. Book first, then drop the car or wait at the shop while the system goes in. Reach the shop at (213) 429-1092 or by text at (213) 429-1092. Ladera Heights drivers can check the reviews: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
+Plan on about 13.0 miles and roughly 26 to 31 minutes (approx) in normal traffic. We have done tint for a customer who drove up from San Diego, so this is a short hop. Hours are Monday to Saturday, 9:30 AM to 6:00 PM, closed Sunday. Book first, then drop the car or wait at the shop while the system goes in. Reach the shop at (310) 513-8800 or by text at (213) 429-1092. Ladera Heights drivers can check the reviews: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 [SHOP NOTE: 2-3 sentences from Nick about Ladera Heights customers, routes or jobs]
 
@@ -74,7 +74,7 @@ Head units, speakers, amplifiers, GPS tracker installation and dash camera insta
 
 ## Book stereo installation from Ladera Heights
 
-Call (213) 429-1092 or text (213) 429-1092 with your car. Audio MotorSports is at 22025 S Avalon Blvd Ste A in Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092 with your car. Audio MotorSports is at 22025 S Avalon Blvd Ste A in Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -85,7 +85,7 @@ Call (213) 429-1092 or text (213) 429-1092 with your car. Audio MotorSports is a
    "@id": "https://www.audiomotorsports.com/ladera-heights/#webpage",
    "url": "https://www.audiomotorsports.com/ladera-heights/",
    "name": "Car Stereo Installation, Ladera Heights | Audio MotorSports",
-   "description": "Car stereo installation, speaker replacement, amplifier installs, window tint and alarms for Ladera Heights drivers. Audio MotorSports, Carson. (213) 429-1092.",
+   "description": "Car stereo installation, speaker replacement, amplifier installs, window tint and alarms for Ladera Heights drivers. Audio MotorSports, Carson. (310) 513-8800.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

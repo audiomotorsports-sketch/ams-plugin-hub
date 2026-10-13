@@ -4,7 +4,7 @@ city: Torrance
 miles: 4.4
 lead_service: Harley bagger fairing wiring and audio installation
 title: Torrance Harley Bagger Audio Installation | AMS Pods
-meta: Clean fairing wiring, AMS lower-fairing pods and amplifier installation for Torrance Harley riders at Audio MotorSports in Carson. Call (213) 429-1092.
+meta: Clean fairing wiring, AMS lower-fairing pods and amplifier installation for Torrance Harley riders at Audio MotorSports in Carson. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Harley Bagger Audio Installation for Torrance Riders
@@ -65,7 +65,7 @@ See the pages for [Lomita](/amspods/bagger-audio-lomita/), [Gardena](/amspods/ba
 
 ## Call or text
 
-(213) 429-1092 voice, (213) 429-1092 text. 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+(310) 513-8800 voice, (213) 429-1092 text. 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -76,7 +76,7 @@ See the pages for [Lomita](/amspods/bagger-audio-lomita/), [Gardena](/amspods/ba
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-torrance/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-torrance/",
    "name": "Torrance Harley Bagger Audio Installation | AMS Pods",
-   "description": "Clean fairing wiring, AMS lower-fairing pods and amplifier installation for Torrance Harley riders at Audio MotorSports in Carson. Call (213) 429-1092.",
+   "description": "Clean fairing wiring, AMS lower-fairing pods and amplifier installation for Torrance Harley riders at Audio MotorSports in Carson. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

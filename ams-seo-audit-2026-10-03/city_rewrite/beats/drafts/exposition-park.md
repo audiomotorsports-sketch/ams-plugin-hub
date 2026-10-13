@@ -6,7 +6,7 @@ lead_service: subwoofer and amplifier installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Exposition Park Subwoofer Installation | LA Car Beats
-meta: Subwoofer installation and amplifier installation for Exposition Park drivers at LA Car Beats by Audio MotorSports in Carson, 15.9 miles. Call (213) 429-1092.
+meta: Subwoofer installation and amplifier installation for Exposition Park drivers at LA Car Beats by Audio MotorSports in Carson, 15.9 miles. Call (310) 513-8800.
 ---
 # Subwoofer and Amplifier Installation for Exposition Park
 
@@ -21,7 +21,7 @@ Exposition Park drivers get subwoofer installation and amplifier installation at
 
 ## From Exposition Park to Carson
 
-Exposition Park to the shop is about 15.9 miles, roughly 32 to 38 minutes outside the rush (approx). We are open Monday through Saturday, 9:30 to 6:00, closed Sunday. To book, call (213) 429-1092 or text (213) 429-1092. A sub and amp installation is usually a morning drop-off; a subwoofer upgrade on existing wiring can be waited on. The shop is near the beach in Carson, and plenty of customers make a much longer drive for the same install.
+Exposition Park to the shop is about 15.9 miles, roughly 32 to 38 minutes outside the rush (approx). We are open Monday through Saturday, 9:30 to 6:00, closed Sunday. To book, call (310) 513-8800 or text (213) 429-1092. A sub and amp installation is usually a morning drop-off; a subwoofer upgrade on existing wiring can be waited on. The shop is near the beach in Carson, and plenty of customers make a much longer drive for the same install.
 
 <!-- owner-details-2026-10-07 -->
 Waiting inside is easy for Exposition Park customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. Exposition Park customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Exposition Park traffic sends you.
@@ -58,7 +58,7 @@ Neighboring car stereo installation pages: [South Los Angeles](/beats/car-stereo
 
 ## Book a sub install from Exposition Park
 
-Call (213) 429-1092 or text (213) 429-1092 to get a slot. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 to get a slot. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -70,7 +70,7 @@ Call (213) 429-1092 or text (213) 429-1092 to get a slot. Audio MotorSports, 220
    "name": "Exposition Park Subwoofer Installation | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-exposition-park/",
    "dateModified": "2026-10-08",
-   "description": "Subwoofer installation and amplifier installation for Exposition Park drivers at LA Car Beats by Audio MotorSports in Carson, 15.9 miles. Call (213) 429-1092.",
+   "description": "Subwoofer installation and amplifier installation for Exposition Park drivers at LA Car Beats by Audio MotorSports in Carson, 15.9 miles. Call (310) 513-8800.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

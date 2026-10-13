@@ -4,7 +4,7 @@ city: Rolling Hills Estates
 miles: 6.0
 lead_service: work-truck security
 title: Work Truck Alarms Rolling Hills Estates | LA Car Alarm
-meta: Work-truck security, car alarm installation and GPS trackers for Rolling Hills Estates, done at Audio MotorSports in Carson, 6 miles away. Call (213) 429-1092.
+meta: Work-truck security, car alarm installation and GPS trackers for Rolling Hills Estates, done at Audio MotorSports in Carson, 6 miles away. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Work-Truck Security and Car Alarm Installation for Rolling Hills Estates
@@ -63,7 +63,7 @@ As of October 2026, the Viper 3108V alarm is $269 installed at the shop in Carso
 
 ## Book it
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

@@ -5,7 +5,7 @@ miles: 12.1
 lead_service: Tesla window tint (new delivery)
 source: hub-mounted copy; standalone www host not verified
 title: Tesla Tint for New Deliveries, Vernon Owners | Tesla Tint LA
-meta: New-delivery Tesla window tint for Vernon owners at Tesla Tint LA by Audio MotorSports in Carson, 12.1 miles away. Quoted by model. Call (213) 429-1092.
+meta: New-delivery Tesla window tint for Vernon owners at Tesla Tint LA by Audio MotorSports in Carson, 12.1 miles away. Quoted by model. Call (310) 513-8800.
 ---
 # Tesla Window Tint for Vernon's New Deliveries
 
@@ -70,7 +70,7 @@ Every Tesla is quoted by model at the shop, so text the year and model for your 
 
 ## Book your appointment
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -81,7 +81,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-vernon/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-vernon/",
    "name": "Tesla Tint for New Deliveries, Vernon Owners | Tesla Tint LA",
-   "description": "New-delivery Tesla window tint for Vernon owners at Tesla Tint LA by Audio MotorSports in Carson, 12.1 miles away. Quoted by model. Call (213) 429-1092.",
+   "description": "New-delivery Tesla window tint for Vernon owners at Tesla Tint LA by Audio MotorSports in Carson, 12.1 miles away. Quoted by model. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

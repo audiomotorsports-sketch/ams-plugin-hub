@@ -4,7 +4,7 @@ city: Santa Monica
 miles: 18.4
 lead_service: ceramic window tint (glare and UV)
 title: Santa Monica Ceramic Window Tint | LA Car Tint, Carson
-meta: Ceramic window tint for Santa Monica glare and UV, hand-cut and installed by Audio MotorSports in Carson, 18.4 miles away. Dated prices. Call (213) 429-1092.
+meta: Ceramic window tint for Santa Monica glare and UV, hand-cut and installed by Audio MotorSports in Carson, 18.4 miles away. Dated prices. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Ceramic Window Tint for Santa Monica Drivers
@@ -58,7 +58,7 @@ Solar, four doors plus rear glass: $249 installed. Solar Ceramic, same coverage:
 
 ## Book from Santa Monica
 
-Call (213) 429-1092 or text (213) 429-1092. You will find Audio MotorSports at 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00; Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. You will find Audio MotorSports at 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00; Sunday closed.
 
 ```json
 {

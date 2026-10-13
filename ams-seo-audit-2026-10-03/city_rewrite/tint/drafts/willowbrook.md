@@ -5,7 +5,7 @@ miles: 6.0
 lead_service: car window tint (privacy angle)
 source: hub-mounted copy; standalone www host not verified
 title: Willowbrook Window Tint | LA Car Tint, Audio MotorSports
-meta: Privacy and ceramic window tint for Willowbrook cars, installed by Audio MotorSports in Carson, 6 miles away. Call (213) 429-1092 or text (213) 429-1092.
+meta: Privacy and ceramic window tint for Willowbrook cars, installed by Audio MotorSports in Carson, 6 miles away. Call (310) 513-8800 or text (213) 429-1092.
 ---
 # Car Window Tint for Willowbrook: Privacy Done Properly
 
@@ -61,7 +61,7 @@ Car stereo installation, speaker replacement, Apple CarPlay and Android Auto ins
 
 ## Book from Willowbrook
 
-Call (213) 429-1092, or text (213) 429-1092 with a photo of the car if you like. You will find Audio MotorSports at 22025 S Avalon Blvd Ste A in Carson, CA 90745, Mon-Sat 9:30-6:00, Sunday closed.
+Call (310) 513-8800, or text (213) 429-1092 with a photo of the car if you like. You will find Audio MotorSports at 22025 S Avalon Blvd Ste A in Carson, CA 90745, Mon-Sat 9:30-6:00, Sunday closed.
 
 ```json
 {
@@ -72,7 +72,7 @@ Call (213) 429-1092, or text (213) 429-1092 with a photo of the car if you like.
       "@id": "https://www.audiomotorsports.com/tint/window-tint-willowbrook/#webpage",
       "url": "https://www.audiomotorsports.com/tint/window-tint-willowbrook/",
       "name": "Willowbrook Window Tint | LA Car Tint, Audio MotorSports",
-      "description": "Privacy and ceramic window tint for Willowbrook cars, installed by Audio MotorSports in Carson, 6 miles away. Call (213) 429-1092 or text (213) 429-1092.",
+      "description": "Privacy and ceramic window tint for Willowbrook cars, installed by Audio MotorSports in Carson, 6 miles away. Call (310) 513-8800 or text (213) 429-1092.",
       "dateModified": "2026-10-08",
       "about": {
         "@id": "https://www.audiomotorsports.com/#business"

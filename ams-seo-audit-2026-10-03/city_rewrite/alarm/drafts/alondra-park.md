@@ -4,7 +4,7 @@ city: Alondra Park
 miles: 5.9
 lead_service: work-truck security
 title: Work Truck Alarm Installation, Alondra Park | LA Car Alarm
-meta: Work truck alarms, GPS trackers and remote start installed for Alondra Park drivers at LA Car Alarm by Audio MotorSports in Carson. Call (213) 429-1092 or text.
+meta: Work truck alarms, GPS trackers and remote start installed for Alondra Park drivers at LA Car Alarm by Audio MotorSports in Carson. Call (310) 513-8800 or text.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Work Truck Security and Car Alarm Installation for Alondra Park
@@ -70,7 +70,7 @@ Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Book it
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

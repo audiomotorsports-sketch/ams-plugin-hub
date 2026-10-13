@@ -5,7 +5,7 @@ miles: 10.0
 lead_service: Tesla window tint (Model X)
 source: hub-mounted copy; standalone www host not verified
 title: Model X Window Tint, Florence-Firestone | Tesla Tint LA
-meta: Model X and Tesla window tint for Florence-Firestone owners at Audio MotorSports in Carson, 10 miles away. Ceramic film, clean edges. Call (213) 429-1092.
+meta: Model X and Tesla window tint for Florence-Firestone owners at Audio MotorSports in Carson, 10 miles away. Ceramic film, clean edges. Call (310) 513-8800.
 ---
 # Model X and Tesla Window Tint for Florence-Firestone
 
@@ -67,7 +67,7 @@ Tesla window tint, including the Model X, is quoted by model at the shop. For a 
 
 ## Get on the schedule
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -78,7 +78,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-florence-firestone/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-florence-firestone/",
    "name": "Model X Window Tint, Florence-Firestone | Tesla Tint LA",
-   "description": "Model X and Tesla window tint for Florence-Firestone owners at Audio MotorSports in Carson, 10 miles away. Ceramic film, clean edges. Call (213) 429-1092.",
+   "description": "Model X and Tesla window tint for Florence-Firestone owners at Audio MotorSports in Carson, 10 miles away. Ceramic film, clean edges. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

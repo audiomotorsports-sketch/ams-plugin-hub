@@ -5,7 +5,7 @@ city: Granada Hills
 miles: 33.7
 lead_service: work-truck security
 title: Work Truck Security, Granada Hills | LA Car Alarm
-meta: Work-truck security, Viper car alarm installation and remote start for Granada Hills drivers at LA Car Alarm in Carson. Call (213) 429-1092.
+meta: Work-truck security, Viper car alarm installation and remote start for Granada Hills drivers at LA Car Alarm in Carson. Call (310) 513-8800.
 ---
 
 # Work-Truck Security and Car Alarm Installation for Granada Hills
@@ -62,7 +62,7 @@ Viper 3108V $269 installed. Compustar 9910 remote start from $499. Tracker and c
 
 ## Book your Granada Hills alarm or tracker install
 
-Call (213) 429-1092 or text (213) 429-1092. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

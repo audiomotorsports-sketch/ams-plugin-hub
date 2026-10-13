@@ -5,7 +5,7 @@ miles: 3.7
 lead_service: Window tint / ceramic window tint (LA Car Tint)
 source: hub-mounted copy; standalone www host not verified
 title: Lomita Window Tint | LA Car Tint by Audio MotorSports
-meta: Car window tint and ceramic window tint for Lomita drivers, installed at Audio MotorSports in Carson, 3.7 miles away. Hand-cut film. Call (213) 429-1092.
+meta: Car window tint and ceramic window tint for Lomita drivers, installed at Audio MotorSports in Carson, 3.7 miles away. Hand-cut film. Call (310) 513-8800.
 ---
 # Car Window Tint for Lomita Drivers
 
@@ -62,7 +62,7 @@ Solar window tint is $249 installed and Solar Ceramic window tint is $329 instal
 
 ## Book Lomita window tint
 
-Call (213) 429-1092 or text (213) 429-1092 for a slot. Find us at 22025 S Avalon Blvd Ste A, Carson, CA 90745 (Audio MotorSports). Monday to Saturday 9:30 to 6:00; Sunday closed. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
+Call (310) 513-8800 or text (213) 429-1092 for a slot. Find us at 22025 S Avalon Blvd Ste A, Carson, CA 90745 (Audio MotorSports). Monday to Saturday 9:30 to 6:00; Sunday closed. Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ```json
 {
@@ -73,7 +73,7 @@ Call (213) 429-1092 or text (213) 429-1092 for a slot. Find us at 22025 S Avalon
    "@id": "https://www.audiomotorsports.com/tint/window-tint-lomita/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-lomita/",
    "name": "Lomita Window Tint | LA Car Tint by Audio MotorSports",
-   "description": "Car window tint and ceramic window tint for Lomita drivers, installed at Audio MotorSports in Carson, 3.7 miles away. Hand-cut film. Call (213) 429-1092.",
+   "description": "Car window tint and ceramic window tint for Lomita drivers, installed at Audio MotorSports in Carson, 3.7 miles away. Hand-cut film. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

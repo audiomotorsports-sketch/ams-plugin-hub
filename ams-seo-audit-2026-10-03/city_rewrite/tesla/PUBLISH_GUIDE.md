@@ -8,7 +8,7 @@ Rewrites of the live mounted pages at `/tesla/tesla-tint-<slug>/` on the hub. Ea
 ## Before the first page
 1. Run the hub snapshot: `python3 hub_deep_dive/harness/hub_snapshot.py` and keep it as BEFORE.
 2. Save the current page or template for every page you replace.
-3. Confirm the shared facts every draft cites: reviews "Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026"; call and text (213) 429-1092; the price lines; no roof tint; the amenity, welcome and freeway lines.
+3. Confirm the shared facts every draft cites: reviews "Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026"; call (310) 513-8800 and text (213) 429-1092; the price lines; no roof tint; the amenity, welcome and freeway lines.
 
 ## Each draft
 - Frontmatter url, title (<=60), meta (120-160). Body: answer intro, services, route block, five question headings, prices, neighbor links, CTA, JSON-LD.

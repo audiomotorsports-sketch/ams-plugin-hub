@@ -4,7 +4,7 @@ city: Covina
 miles: 34.8
 lead_service: Viper alarm installation and Compustar remote start installation
 title: Viper Alarm & Remote Start for Covina | Audio MotorSports
-meta: Viper alarm installation, Compustar remote start, GPS tracker installs and window tint for Covina drivers at Audio MotorSports in Carson. Call (213) 429-1092.
+meta: Viper alarm installation, Compustar remote start, GPS tracker installs and window tint for Covina drivers at Audio MotorSports in Carson. Call (310) 513-8800.
 ---
 # Viper Alarm Installation and Remote Start for Covina Drivers
 
@@ -72,7 +72,7 @@ GPS trackers, dash cameras, DroneMobile and stereo systems are priced on your ve
 
 ## Book alarm installation from Covina
 
-Call (213) 429-1092 or text (213) 429-1092 with the vehicle. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30-18:00, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092 with the vehicle. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -83,7 +83,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the vehicle. Audio MotorSports i
    "@id": "https://www.audiomotorsports.com/covina/#webpage",
    "url": "https://www.audiomotorsports.com/covina/",
    "name": "Viper Alarm & Remote Start for Covina | Audio MotorSports",
-   "description": "Viper alarm installation, Compustar remote start, GPS tracker installs and window tint for Covina drivers at Audio MotorSports in Carson. Call (213) 429-1092.",
+   "description": "Viper alarm installation, Compustar remote start, GPS tracker installs and window tint for Covina drivers at Audio MotorSports in Carson. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

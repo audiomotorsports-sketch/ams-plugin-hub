@@ -4,7 +4,7 @@ city: Rancho Palos Verdes
 miles: 9.0
 lead_service: Tesla window tint (hillside cabin heat)
 title: Rancho Palos Verdes Tesla Tint | Tesla Tint LA, Carson
-meta: Tesla window tint for Rancho Palos Verdes, ceramic film on side and rear glass, at Tesla Tint LA by Audio MotorSports in Carson, 9 miles. Call (213) 429-1092.
+meta: Tesla window tint for Rancho Palos Verdes, ceramic film on side and rear glass, at Tesla Tint LA by Audio MotorSports in Carson, 9 miles. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla Window Tint for Rancho Palos Verdes: Cooler Doors and Rear Glass
@@ -60,7 +60,7 @@ Tesla window tint is part of the model-by-model quote Nick gives at the shop. Fo
 
 ## Book the glass
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

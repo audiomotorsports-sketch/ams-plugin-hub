@@ -4,7 +4,7 @@ city: Manhattan Beach
 miles: 9.3
 lead_service: Car alarms & remote start
 title: Alarms & Remote Start, Manhattan Beach | Audio MotorSports
-meta: Car alarms, remote start, GPS tracking and window tint for Manhattan Beach drivers at Audio MotorSports in Carson, 9.3 miles away. Call (213) 429-1092 to book.
+meta: Car alarms, remote start, GPS tracking and window tint for Manhattan Beach drivers at Audio MotorSports in Carson, 9.3 miles away. Call (310) 513-8800 to book.
 ---
 # Car Alarms and Remote Start for Manhattan Beach
 
@@ -63,7 +63,7 @@ Viper 3108V alarm $269 installed. Compustar 9910 remote start from $499. Solar w
 
 ## Book an alarm or remote start
 
-Call (213) 429-1092 or text your year, make and model to (213) 429-1092. Find us at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-6:00 with Sunday off.
+Call (310) 513-8800 or text your year, make and model to (213) 429-1092. Find us at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-6:00 with Sunday off.
 
 ```json
 {
@@ -74,7 +74,7 @@ Call (213) 429-1092 or text your year, make and model to (213) 429-1092. Find us
    "@id": "https://www.audiomotorsports.com/manhattan-beach/#webpage",
    "url": "https://www.audiomotorsports.com/manhattan-beach/",
    "name": "Alarms & Remote Start, Manhattan Beach | Audio MotorSports",
-   "description": "Car alarms, remote start, GPS tracking and window tint for Manhattan Beach drivers at Audio MotorSports in Carson, 9.3 miles away. Call (213) 429-1092 to book.",
+   "description": "Car alarms, remote start, GPS tracking and window tint for Manhattan Beach drivers at Audio MotorSports in Carson, 9.3 miles away. Call (310) 513-8800 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

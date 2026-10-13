@@ -5,7 +5,7 @@ miles: 32.3
 lead_service: Tesla window tint (Cybertruck)
 source: hub-mounted copy; standalone www host not verified
 title: Cybertruck Tint for Sierra Madre Owners | Tesla Tint LA
-meta: Cybertruck and Tesla window tint for Sierra Madre owners at Tesla Tint LA by Audio MotorSports in Carson, 32.3 miles away. Call (213) 429-1092 to book.
+meta: Cybertruck and Tesla window tint for Sierra Madre owners at Tesla Tint LA by Audio MotorSports in Carson, 32.3 miles away. Call (310) 513-8800 to book.
 ---
 # Cybertruck Window Tint for Sierra Madre Tesla Owners
 
@@ -67,7 +67,7 @@ Cybertruck, Model 3, Model Y, Model S and Model X tint are each quoted by model 
 
 ## Book your appointment
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -78,7 +78,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-sierra-madre/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-sierra-madre/",
    "name": "Cybertruck Tint for Sierra Madre Owners | Tesla Tint LA",
-   "description": "Cybertruck and Tesla window tint for Sierra Madre owners at Tesla Tint LA by Audio MotorSports in Carson, 32.3 miles away. Call (213) 429-1092 to book.",
+   "description": "Cybertruck and Tesla window tint for Sierra Madre owners at Tesla Tint LA by Audio MotorSports in Carson, 32.3 miles away. Call (310) 513-8800 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

@@ -4,7 +4,7 @@ city: Cerritos
 miles: 11.7
 lead_service: Harley bagger audio
 title: Harley Bagger Audio & Stereo, Cerritos | Audio MotorSports
-meta: Harley bagger audio with AMS pods, car stereo installation, window tint and alarms for Cerritos riders and drivers at Audio MotorSports, Carson. (213) 429-1092.
+meta: Harley bagger audio with AMS pods, car stereo installation, window tint and alarms for Cerritos riders and drivers at Audio MotorSports, Carson. (310) 513-8800.
 ---
 # Harley Bagger Audio and Car Stereo for Cerritos
 
@@ -59,7 +59,7 @@ AMS Harley pods from $649 a pair. Dual Kicker Comp box $249 box only. Window tin
 
 ## Book your Cerritos appointment
 
-Call (213) 429-1092 or text (213) 429-1092 with your bike or car's year, make and model. Audio MotorSports: 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with your bike or car's year, make and model. Audio MotorSports: 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

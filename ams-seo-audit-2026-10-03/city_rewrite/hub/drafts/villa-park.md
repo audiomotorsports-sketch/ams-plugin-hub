@@ -4,7 +4,7 @@ city: Villa Park
 miles: 26.0
 lead_service: Harley bagger audio installation
 title: Bagger Audio Installation, Villa Park | Audio MotorSports
-meta: Harley-Davidson bagger audio with AMS pods, car window tint, stereo and alarms for Villa Park riders and drivers at Audio MotorSports, Carson. (213) 429-1092.
+meta: Harley-Davidson bagger audio with AMS pods, car window tint, stereo and alarms for Villa Park riders and drivers at Audio MotorSports, Carson. (310) 513-8800.
 ---
 # Bagger Audio Installation for Villa Park Riders
 
@@ -27,7 +27,7 @@ You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and 
 
 ## Villa Park to Carson
 
-About 26.0 miles, roughly 52 to 62 minutes (approx) when the freeway is moving. Riders have come 100 miles for this bay, so Villa Park is a normal ride. Hours are Monday to Saturday, 9:30 AM to 6:00 PM, closed Sunday. Schedule a time, then leave the bike or wait at the shop while the pods go on. Call (213) 429-1092 or text (213) 429-1092 with the year and model. Villa Park riders can check Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
+About 26.0 miles, roughly 52 to 62 minutes (approx) when the freeway is moving. Riders have come 100 miles for this bay, so Villa Park is a normal ride. Hours are Monday to Saturday, 9:30 AM to 6:00 PM, closed Sunday. Schedule a time, then leave the bike or wait at the shop while the pods go on. Call (310) 513-8800 or text (213) 429-1092 with the year and model. Villa Park riders can check Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 [SHOP NOTE: 2-3 sentences from Nick about Villa Park customers, routes or jobs]
 
@@ -74,7 +74,7 @@ Amplifier installation, fairing speakers, car stereo work, GPS and dash camera i
 
 ## Book bagger audio from Villa Park
 
-Call (213) 429-1092 or text (213) 429-1092 with the bike. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with the bike. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -85,7 +85,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the bike. Audio MotorSports is a
    "@id": "https://www.audiomotorsports.com/villa-park/#webpage",
    "url": "https://www.audiomotorsports.com/villa-park/",
    "name": "Bagger Audio Installation, Villa Park | Audio MotorSports",
-   "description": "Harley-Davidson bagger audio with AMS pods, car window tint, stereo and alarms for Villa Park riders and drivers at Audio MotorSports, Carson. (213) 429-1092.",
+   "description": "Harley-Davidson bagger audio with AMS pods, car window tint, stereo and alarms for Villa Park riders and drivers at Audio MotorSports, Carson. (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

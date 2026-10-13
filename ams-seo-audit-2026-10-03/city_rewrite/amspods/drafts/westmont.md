@@ -4,7 +4,7 @@ city: Westmont
 miles: 8.2
 lead_service: Harley bagger audio for long rides
 title: Westmont Harley Bagger Audio for the Long Haul | AMS Pods
-meta: Long-ride Harley bagger audio for Westmont riders: AMS lower-fairing pods, amplifier installation and speaker replacement in Carson. Call (213) 429-1092.
+meta: Long-ride Harley bagger audio for Westmont riders: AMS lower-fairing pods, amplifier installation and speaker replacement in Carson. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Long-Haul Harley Bagger Audio for Westmont Riders
@@ -67,7 +67,7 @@ Other AMS Pods pages nearby: [Willowbrook](/amspods/bagger-audio-willowbrook/), 
 
 ## Book from Westmont
 
-Call (213) 429-1092 or text (213) 429-1092. 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -78,7 +78,7 @@ Call (213) 429-1092 or text (213) 429-1092. 22025 S Avalon Blvd Ste A, Carson, C
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-westmont/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-westmont/",
    "name": "Westmont Harley Bagger Audio for the Long Haul | AMS Pods",
-   "description": "Long-ride Harley bagger audio for Westmont riders: AMS lower-fairing pods, amplifier installation and speaker replacement in Carson. Call (213) 429-1092.",
+   "description": "Long-ride Harley bagger audio for Westmont riders: AMS lower-fairing pods, amplifier installation and speaker replacement in Carson. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

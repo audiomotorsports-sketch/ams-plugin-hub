@@ -5,7 +5,7 @@ miles: 5.8
 lead_service: Tesla window tint (camera and sensor clearance)
 source: hub-mounted copy; standalone www host not verified
 title: Signal Hill Tesla Tint, Cameras Kept Clear | Tesla Tint LA
-meta: Tesla window tint for Signal Hill drivers, cameras and sensors left clear. Tesla Tint LA by Audio MotorSports in Carson, 5.8 miles away. Call (213) 429-1092.
+meta: Tesla window tint for Signal Hill drivers, cameras and sensors left clear. Tesla Tint LA by Audio MotorSports in Carson, 5.8 miles away. Call (310) 513-8800.
 ---
 # Tesla Window Tint for Signal Hill: Cameras and Sensors Stay Clear
 
@@ -67,7 +67,7 @@ Tesla tint prices are given by model at the shop; text the year and model for yo
 
 ## Book your appointment
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -78,7 +78,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-signal-hill/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-signal-hill/",
    "name": "Signal Hill Tesla Tint, Cameras Kept Clear | Tesla Tint LA",
-   "description": "Tesla window tint for Signal Hill drivers, cameras and sensors left clear. Tesla Tint LA by Audio MotorSports in Carson, 5.8 miles away. Call (213) 429-1092.",
+   "description": "Tesla window tint for Signal Hill drivers, cameras and sensors left clear. Tesla Tint LA by Audio MotorSports in Carson, 5.8 miles away. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

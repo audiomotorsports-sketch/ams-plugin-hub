@@ -5,7 +5,7 @@ miles: 21.8
 lead_service: Tesla window tint (new delivery)
 source: hub-mounted copy; standalone www host not verified
 title: Brea New Tesla Delivery Tint | Tesla Tint LA
-meta: New Tesla in Brea? Tesla window tint with ceramic film, hand-cut with cameras left clear, at Audio MotorSports in Carson, 21.8 miles away. Call (213) 429-1092.
+meta: New Tesla in Brea? Tesla window tint with ceramic film, hand-cut with cameras left clear, at Audio MotorSports in Carson, 21.8 miles away. Call (310) 513-8800.
 ---
 # Tesla Window Tint for Brea: The First Upgrade After Delivery
 
@@ -67,7 +67,7 @@ New or not, every Tesla is priced by model at the shop; text the year and model 
 
 ## Book from Brea
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -78,7 +78,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-brea/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-brea/",
    "name": "Brea New Tesla Delivery Tint | Tesla Tint LA",
-   "description": "New Tesla in Brea? Tesla window tint with ceramic film, hand-cut with cameras left clear, at Audio MotorSports in Carson, 21.8 miles away. Call (213) 429-1092.",
+   "description": "New Tesla in Brea? Tesla window tint with ceramic film, hand-cut with cameras left clear, at Audio MotorSports in Carson, 21.8 miles away. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

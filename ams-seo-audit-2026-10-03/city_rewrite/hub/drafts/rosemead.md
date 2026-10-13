@@ -4,7 +4,7 @@ city: Rosemead
 miles: 20.4
 lead_service: Harley bagger audio installation (AMS pods)
 title: Bagger Audio Installation for Rosemead | Audio MotorSports
-meta: Rosemead Harley bagger audio installation with AMS pods at Audio MotorSports in Carson, 20.4 miles, plus car window tint, stereo and alarms. (213) 429-1092.
+meta: Rosemead Harley bagger audio installation with AMS pods at Audio MotorSports in Carson, 20.4 miles, plus car window tint, stereo and alarms. (310) 513-8800.
 ---
 # Harley Bagger Audio Installation for Rosemead Riders
 
@@ -61,7 +61,7 @@ Riders and drivers near Rosemead who make the same run: [San Gabriel](/san-gabri
 
 ## Book Rosemead bagger audio
 
-Call (213) 429-1092 or text the bike year and model to (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30 AM to 6:00 PM; closed Sunday.
+Call (310) 513-8800 or text the bike year and model to (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30 AM to 6:00 PM; closed Sunday.
 
 ```json
 {
@@ -72,7 +72,7 @@ Call (213) 429-1092 or text the bike year and model to (213) 429-1092. Audio Mot
    "@id": "https://www.audiomotorsports.com/rosemead/#webpage",
    "url": "https://www.audiomotorsports.com/rosemead/",
    "name": "Bagger Audio Installation for Rosemead | Audio MotorSports",
-   "description": "Rosemead Harley bagger audio installation with AMS pods at Audio MotorSports in Carson, 20.4 miles away, plus car window tint, stereo and alarm installs. Call (213) 429-1092.",
+   "description": "Rosemead Harley bagger audio installation with AMS pods at Audio MotorSports in Carson, 20.4 miles away, plus car window tint, stereo and alarm installs. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

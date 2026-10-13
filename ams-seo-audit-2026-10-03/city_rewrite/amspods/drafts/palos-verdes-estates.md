@@ -4,7 +4,7 @@ city: Palos Verdes Estates
 miles: 8.0
 lead_service: clean fairing wiring
 title: Harley Bagger Audio Palos Verdes Estates | AMS Pods
-meta: Harley bagger audio wired clean for Palos Verdes Estates riders: AMS pods, amplifier and head unit installation at Audio MotorSports, Carson. (213) 429-1092.
+meta: Harley bagger audio wired clean for Palos Verdes Estates riders: AMS pods, amplifier and head unit installation at Audio MotorSports, Carson. (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Bagger Audio Wired Right for Palos Verdes Estates Riders
@@ -65,7 +65,7 @@ Riders also come down from [Rancho Palos Verdes](/amspods/bagger-audio-rancho-pa
 
 ## Book a wiring-first build
 
-Text (213) 429-1092 a photo of the fairing and lids, or call (213) 429-1092 and ask for Nick. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Text (213) 429-1092 a photo of the fairing and lids, or call (310) 513-8800 and ask for Nick. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -76,7 +76,7 @@ Text (213) 429-1092 a photo of the fairing and lids, or call (213) 429-1092 and 
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-palos-verdes-estates/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-palos-verdes-estates/",
    "name": "Harley Bagger Audio Palos Verdes Estates | AMS Pods",
-   "description": "Harley bagger audio wired clean for Palos Verdes Estates riders: AMS pods, amplifier and head unit installation at Audio MotorSports, Carson. (213) 429-1092.",
+   "description": "Harley bagger audio wired clean for Palos Verdes Estates riders: AMS pods, amplifier and head unit installation at Audio MotorSports, Carson. (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

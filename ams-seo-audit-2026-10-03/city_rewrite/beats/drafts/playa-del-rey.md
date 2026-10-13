@@ -4,7 +4,7 @@ city: Playa del Rey
 miles: 13.3
 lead_service: speaker replacement
 title: Playa del Rey Speaker Replacement | LA Car Beats, Carson
-meta: Speaker replacement and speaker installation for Playa del Rey drivers at LA Car Beats by Audio MotorSports in Carson. No rattles. Call (213) 429-1092.
+meta: Speaker replacement and speaker installation for Playa del Rey drivers at LA Car Beats by Audio MotorSports in Carson. No rattles. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Speaker Replacement and Installation for Playa del Rey
@@ -65,7 +65,7 @@ LA Car Beats pages for Playa del Rey neighbors:
 
 ## Book speaker installation
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30-18:00, closed on Sunday.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30-18:00, closed on Sunday.
 
 ```json
 {
@@ -76,7 +76,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-playa-del-rey/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-playa-del-rey/",
    "name": "Playa del Rey Speaker Replacement | LA Car Beats, Carson",
-   "description": "Speaker replacement and speaker installation for Playa del Rey drivers at LA Car Beats by Audio MotorSports in Carson. No rattles. Call (213) 429-1092.",
+   "description": "Speaker replacement and speaker installation for Playa del Rey drivers at LA Car Beats by Audio MotorSports in Carson. No rattles. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

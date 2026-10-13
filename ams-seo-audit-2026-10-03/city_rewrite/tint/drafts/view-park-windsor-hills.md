@@ -5,7 +5,7 @@ miles: 12.3
 lead_service: Window tint / ceramic window tint (LA Car Tint)
 source: hub-mounted copy; standalone www host not verified
 title: View Park-Windsor Hills Window Tint | LA Car Tint
-meta: Privacy and ceramic window tint for View Park-Windsor Hills drivers, installed at Audio MotorSports in Carson, 12.3 miles away. Call (213) 429-1092 to book.
+meta: Privacy and ceramic window tint for View Park-Windsor Hills drivers, installed at Audio MotorSports in Carson, 12.3 miles away. Call (310) 513-8800 to book.
 ---
 # Window Tint for View Park-Windsor Hills: Privacy Done Right
 
@@ -62,7 +62,7 @@ A standard sedan, four doors plus rear glass, is $249 installed for Solar window
 
 ## Book window tint from View Park-Windsor Hills
 
-Call (213) 429-1092 or text (213) 429-1092 and pick a time. Audio MotorSports: 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Monday through Saturday, 9:30-6:00; closed Sunday. Google 4.8 on 654 reviews and Yelp 4.7 on 777 reviews, as of October 2026.
+Call (310) 513-8800 or text (213) 429-1092 and pick a time. Audio MotorSports: 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Monday through Saturday, 9:30-6:00; closed Sunday. Google 4.8 on 654 reviews and Yelp 4.7 on 777 reviews, as of October 2026.
 
 ```json
 {
@@ -73,7 +73,7 @@ Call (213) 429-1092 or text (213) 429-1092 and pick a time. Audio MotorSports: 2
    "@id": "https://www.audiomotorsports.com/tint/window-tint-view-park-windsor-hills/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-view-park-windsor-hills/",
    "name": "View Park-Windsor Hills Window Tint | LA Car Tint",
-   "description": "Privacy and ceramic window tint for View Park-Windsor Hills drivers, installed at Audio MotorSports in Carson, 12.3 miles away. Call (213) 429-1092 to book.",
+   "description": "Privacy and ceramic window tint for View Park-Windsor Hills drivers, installed at Audio MotorSports in Carson, 12.3 miles away. Call (310) 513-8800 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

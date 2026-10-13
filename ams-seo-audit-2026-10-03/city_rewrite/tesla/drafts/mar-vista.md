@@ -4,7 +4,7 @@ city: Mar Vista
 miles: 15.4
 lead_service: Tesla window tint (Model Y)
 title: Mar Vista Model Y & Tesla Tint | Tesla Tint LA, Carson
-meta: Model Y ceramic window tint for Mar Vista at Tesla Tint LA by Audio MotorSports in Carson, 15.4 miles away. One-piece rear hatch. Call (213) 429-1092.
+meta: Model Y ceramic window tint for Mar Vista at Tesla Tint LA by Audio MotorSports in Carson, 15.4 miles away. One-piece rear hatch. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Model Y Window Tint for Mar Vista Tesla Owners
@@ -60,7 +60,7 @@ Model Y tint, like every Tesla at this shop, is quoted by model once Nick sees t
 
 ## Book the Y
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

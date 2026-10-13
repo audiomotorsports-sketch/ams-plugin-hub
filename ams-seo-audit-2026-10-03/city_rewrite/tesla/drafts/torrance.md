@@ -5,7 +5,7 @@ miles: 4.4
 lead_service: Tesla window tint (one-piece rear glass)
 source: hub-mounted copy; standalone www host not verified
 title: Torrance Tesla Tint, One-Piece Rear Glass | Tesla Tint LA
-meta: One-piece rear glass Tesla window tint for Torrance owners at Tesla Tint LA by Audio MotorSports, Carson, 4.4 miles away. Call (213) 429-1092 to book.
+meta: One-piece rear glass Tesla window tint for Torrance owners at Tesla Tint LA by Audio MotorSports, Carson, 4.4 miles away. Call (310) 513-8800 to book.
 ---
 # Tesla Window Tint for Torrance Owners, Rear Glass Done in One Piece
 
@@ -70,7 +70,7 @@ Each Tesla is priced by model at the shop, so send the year and model by text fo
 
 ## Book your appointment
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -81,7 +81,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-torrance/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-torrance/",
    "name": "Torrance Tesla Tint, One-Piece Rear Glass | Tesla Tint LA",
-   "description": "One-piece rear glass Tesla window tint for Torrance owners at Tesla Tint LA by Audio MotorSports, Carson, 4.4 miles away. Call (213) 429-1092 to book.",
+   "description": "One-piece rear glass Tesla window tint for Torrance owners at Tesla Tint LA by Audio MotorSports, Carson, 4.4 miles away. Call (310) 513-8800 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

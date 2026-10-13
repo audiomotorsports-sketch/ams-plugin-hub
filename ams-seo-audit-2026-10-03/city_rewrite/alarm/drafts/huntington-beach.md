@@ -5,7 +5,7 @@ city: Huntington Beach
 miles: 19.3
 lead_service: dash camera installation
 title: Dash Cam Installation in Huntington Beach | LA Car Alarm
-meta: Dash camera installation, Viper car alarms and remote start installation for Huntington Beach drivers at LA Car Alarm in Carson. Call (213) 429-1092.
+meta: Dash camera installation, Viper car alarms and remote start installation for Huntington Beach drivers at LA Car Alarm in Carson. Call (310) 513-8800.
 ---
 
 # Dash Camera Installation for Huntington Beach Drivers
@@ -62,7 +62,7 @@ Viper 3108V $269 installed. Compustar 9910 remote start from $499. Tracker and c
 
 ## Book your Huntington Beach alarm or tracker install
 
-Call (213) 429-1092 or text (213) 429-1092. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

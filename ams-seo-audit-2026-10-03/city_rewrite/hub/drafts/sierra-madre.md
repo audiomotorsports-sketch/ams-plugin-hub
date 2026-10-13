@@ -4,7 +4,7 @@ city: Sierra Madre
 miles: 32.3
 lead_service: car audio/stereo
 title: Car Stereo Installation for Sierra Madre | Audio MotorSports
-meta: Car stereo installation, speaker replacement, subwoofer installs, window tint and alarms for Sierra Madre drivers at Audio MotorSports, Carson. (213) 429-1092.
+meta: Car stereo installation, speaker replacement, subwoofer installs, window tint and alarms for Sierra Madre drivers at Audio MotorSports, Carson. (310) 513-8800.
 ---
 # Car Stereo Installation for Sierra Madre Drivers
 
@@ -59,7 +59,7 @@ Dual Kicker Comp box $249 box only. Car window tint Solar $249, Solar Ceramic $3
 
 ## Book from Sierra Madre
 
-Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio MotorSports sits at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio MotorSports sits at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -70,7 +70,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio 
    "@id": "https://www.audiomotorsports.com/sierra-madre/#webpage",
    "url": "https://www.audiomotorsports.com/sierra-madre/",
    "name": "Car Stereo Installation for Sierra Madre | Audio MotorSports",
-   "description": "Car stereo installation, speaker replacement, subwoofer and amplifier installs, window tint and alarms for Sierra Madre drivers at Audio MotorSports in Carson. (213) 429-1092.",
+   "description": "Car stereo installation, speaker replacement, subwoofer and amplifier installs, window tint and alarms for Sierra Madre drivers at Audio MotorSports in Carson. (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

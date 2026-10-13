@@ -5,7 +5,7 @@ miles: 32.6
 lead_service: Tesla window tint (all-day sun)
 source: hub-mounted copy; standalone www host not verified
 title: Tesla Window Tint for Malibu Owners | Tesla Tint LA
-meta: Tesla window tint for Malibu owners at Audio MotorSports in Carson, 32.6 miles away. Ceramic film for all-day coast sun. Call (213) 429-1092 to book.
+meta: Tesla window tint for Malibu owners at Audio MotorSports in Carson, 32.6 miles away. Ceramic film for all-day coast sun. Call (310) 513-8800 to book.
 ---
 # Tesla Window Tint for Malibu Owners Who Live in the Sun
 
@@ -67,7 +67,7 @@ Whether it is the rear glass alone or the whole car, a Tesla is quoted by model 
 
 ## Call or text from Malibu
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -78,7 +78,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-malibu/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-malibu/",
    "name": "Tesla Window Tint for Malibu Owners | Tesla Tint LA",
-   "description": "Tesla window tint for Malibu owners at Audio MotorSports in Carson, 32.6 miles away. Ceramic film for all-day coast sun. Call (213) 429-1092 to book.",
+   "description": "Tesla window tint for Malibu owners at Audio MotorSports in Carson, 32.6 miles away. Ceramic film for all-day coast sun. Call (310) 513-8800 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

@@ -4,12 +4,12 @@ city: Palos Verdes Estates
 miles: 8.0
 lead_service: Tesla window tint / SUV ceramic window tint
 title: Tesla & SUV Window Tint Palos Verdes Estates | LA Car Tint
-meta: Tesla window tint and ceramic window tinting for Palos Verdes Estates SUVs at LA Car Tint by Audio MotorSports, Carson, 8 miles. Call (213) 429-1092.
+meta: Tesla window tint and ceramic window tinting for Palos Verdes Estates SUVs at LA Car Tint by Audio MotorSports, Carson, 8 miles. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla and SUV Window Tint for Palos Verdes Estates, by Audio MotorSports, Carson
 
-Palos Verdes Estates owners bring Teslas and large SUVs to LA Car Tint for ceramic window tint that handles big curved glass. The shop is Audio MotorSports at 22025 S Avalon Blvd Ste A in Carson, about 8 miles from Palos Verdes Estates. Tesla window tint, Solar and Solar Ceramic window tinting, car stereo installation and car alarm installation all happen in one bay, with every panel hand-cut on the glass. Call (213) 429-1092.
+Palos Verdes Estates owners bring Teslas and large SUVs to LA Car Tint for ceramic window tint that handles big curved glass. The shop is Audio MotorSports at 22025 S Avalon Blvd Ste A in Carson, about 8 miles from Palos Verdes Estates. Tesla window tint, Solar and Solar Ceramic window tinting, car stereo installation and car alarm installation all happen in one bay, with every panel hand-cut on the glass. Call (310) 513-8800.
 
 ## What Palos Verdes Estates drivers bring us
 
@@ -63,7 +63,7 @@ Solar car window tint is $249 installed; Solar Ceramic is $329 installed; both a
 
 ## Book it
 
-Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports at 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday through Saturday, 9:30-6:00. Sunday closed.
+Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports at 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday through Saturday, 9:30-6:00. Sunday closed.
 
 ```json
 {
@@ -74,7 +74,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports at 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tint/window-tint-palos-verdes-estates/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-palos-verdes-estates/",
    "name": "Tesla & SUV Window Tint Palos Verdes Estates | LA Car Tint",
-   "description": "Tesla window tint and ceramic window tinting for Palos Verdes Estates SUVs at LA Car Tint by Audio MotorSports, Carson, 8 miles. Call (213) 429-1092.",
+   "description": "Tesla window tint and ceramic window tinting for Palos Verdes Estates SUVs at LA Car Tint by Audio MotorSports, Carson, 8 miles. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

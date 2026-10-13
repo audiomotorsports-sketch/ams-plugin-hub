@@ -6,7 +6,7 @@ lead_service: Apple CarPlay and Android Auto installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: La Habra Heights CarPlay Installation | LA Car Beats
-meta: Apple CarPlay and Android Auto installation and head unit installation for La Habra Heights at LA Car Beats, Audio MotorSports, Carson. Call (213) 429-1092.
+meta: Apple CarPlay and Android Auto installation and head unit installation for La Habra Heights at LA Car Beats, Audio MotorSports, Carson. Call (310) 513-8800.
 ---
 # Apple CarPlay and Android Auto Installation for La Habra Heights
 
@@ -22,7 +22,7 @@ La Habra Heights drivers with a newer car and a factory screen that cannot run C
 
 ## La Habra Heights to the shop
 
-La Habra Heights is about 20.1 miles from the Carson bay, roughly 40 to 48 minutes outside rush hour (approx). Call (213) 429-1092 or text (213) 429-1092 to book. An interface install can be waited on; a head unit plus speakers is a drop-off with a text when it is ready. Hours: Monday to Saturday 9:30 to 6:00, closed Sunday. [SHOP NOTE: 2-3 sentences from Nick about La Habra Heights customers, routes or jobs]
+La Habra Heights is about 20.1 miles from the Carson bay, roughly 40 to 48 minutes outside rush hour (approx). Call (310) 513-8800 or text (213) 429-1092 to book. An interface install can be waited on; a head unit plus speakers is a drop-off with a text when it is ready. Hours: Monday to Saturday 9:30 to 6:00, closed Sunday. [SHOP NOTE: 2-3 sentences from Nick about La Habra Heights customers, routes or jobs]
 
 <!-- owner-details-2026-10-07 -->
 If you would rather wait inside than make two trips from La Habra Heights, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. The shop is LGBTQ-friendly and everyone from La Habra Heights is welcome, as our Google and Yelp listings state. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way La Habra Heights traffic sends you.
@@ -59,7 +59,7 @@ LA Car Beats pages for neighboring cities: [La Habra](/beats/car-stereo-la-habra
 
 ## Book from La Habra Heights
 
-Tell us the year and model and whether the screen runs climate, and we will pick the right install. Call (213) 429-1092 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Tell us the year and model and whether the screen runs climate, and we will pick the right install. Call (310) 513-8800 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -70,7 +70,7 @@ Tell us the year and model and whether the screen runs climate, and we will pick
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-la-habra-heights/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-la-habra-heights/",
    "name": "La Habra Heights CarPlay Installation | LA Car Beats",
-   "description": "Apple CarPlay and Android Auto installation and head unit installation for La Habra Heights at LA Car Beats, Audio MotorSports, Carson. Call (213) 429-1092.",
+   "description": "Apple CarPlay and Android Auto installation and head unit installation for La Habra Heights at LA Car Beats, Audio MotorSports, Carson. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

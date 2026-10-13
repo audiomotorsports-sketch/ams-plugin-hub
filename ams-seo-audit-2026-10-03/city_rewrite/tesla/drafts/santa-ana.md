@@ -4,7 +4,7 @@ city: Santa Ana
 miles: 23.5
 lead_service: Tesla window tint (Model Y)
 title: Santa Ana Model Y Tesla Window Tint | Tesla Tint LA
-meta: Santa Ana Model Y window tint, ceramic film on side and rear glass, from Tesla Tint LA by Audio MotorSports in Carson, 23.5 miles. Call (213) 429-1092.
+meta: Santa Ana Model Y window tint, ceramic film on side and rear glass, from Tesla Tint LA by Audio MotorSports in Carson, 23.5 miles. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Model Y Window Tint for Santa Ana Drivers
@@ -61,7 +61,7 @@ Model Y pricing comes from a look at the car, quoted at the shop. For a non-Tesl
 
 ## Book it
 
-Call (213) 429-1092 or text (213) 429-1092 to book. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 to book. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

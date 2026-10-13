@@ -4,7 +4,7 @@ city: Gardena
 miles: 4.9
 lead_service: window tinting (glare)
 title: Gardena Window Tinting | LA Car Tint by Audio MotorSports
-meta: Window tinting and ceramic window tint for Gardena drivers, done at Audio MotorSports in Carson, 4.9 miles away. Hand-cut film. Call (213) 429-1092.
+meta: Window tinting and ceramic window tint for Gardena drivers, done at Audio MotorSports in Carson, 4.9 miles away. Hand-cut film. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Window Tinting for Gardena Drivers
@@ -58,7 +58,7 @@ Also served from the Carson bay: [Torrance](/tint/window-tint-torrance/), [Lawnd
 
 ## Schedule window tinting from Gardena
 
-Text (213) 429-1092 or call (213) 429-1092 to pick a slot. Find us at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-18:00, Sunday closed.
+Text (213) 429-1092 or call (310) 513-8800 to pick a slot. Find us at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -69,7 +69,7 @@ Text (213) 429-1092 or call (213) 429-1092 to pick a slot. Find us at 22025 S Av
    "@id": "https://www.audiomotorsports.com/tint/window-tint-gardena/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-gardena/",
    "name": "Gardena Window Tinting | LA Car Tint by Audio MotorSports",
-   "description": "Window tinting and ceramic window tint for Gardena drivers, done at Audio MotorSports in Carson, 4.9 miles away. Hand-cut film. Call (213) 429-1092.",
+   "description": "Window tinting and ceramic window tint for Gardena drivers, done at Audio MotorSports in Carson, 4.9 miles away. Hand-cut film. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

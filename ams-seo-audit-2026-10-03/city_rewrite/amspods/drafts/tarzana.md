@@ -4,7 +4,7 @@ city: Tarzana
 miles: 29.0
 lead_service: Replacing blown stock Harley speakers
 title: Tarzana Harley Speaker Replacement | AMS Pods, Carson
-meta: Blown stock Harley speakers replaced for Tarzana riders: speaker installation, amplifier tuning and AMS lower-fairing pods in Carson. Call (213) 429-1092.
+meta: Blown stock Harley speakers replaced for Tarzana riders: speaker installation, amplifier tuning and AMS lower-fairing pods in Carson. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Blown Stock Speaker Replacement for Tarzana Harley Riders
@@ -65,7 +65,7 @@ Other AMS Pods pages nearby: [Encino](/amspods/bagger-audio-encino/), [Woodland 
 
 ## Reach the shop from Tarzana
 
-Call (213) 429-1092, text (213) 429-1092. 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (310) 513-8800, text (213) 429-1092. 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -76,7 +76,7 @@ Call (213) 429-1092, text (213) 429-1092. 22025 S Avalon Blvd Ste A, Carson, CA 
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-tarzana/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-tarzana/",
    "name": "Tarzana Harley Speaker Replacement | AMS Pods, Carson",
-   "description": "Blown stock Harley speakers replaced for Tarzana riders: speaker installation, amplifier tuning and AMS lower-fairing pods in Carson. Call (213) 429-1092.",
+   "description": "Blown stock Harley speakers replaced for Tarzana riders: speaker installation, amplifier tuning and AMS lower-fairing pods in Carson. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

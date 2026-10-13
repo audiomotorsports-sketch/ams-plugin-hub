@@ -3,12 +3,12 @@ url: https://www.audiomotorsports.com/carson/
 city: Carson
 lead_service: car stereo installation
 title: Car Stereo, Tint & Alarms in Carson | Audio MotorSports
-meta: Car stereo, window tint, Viper and Compustar alarms, dash cams and GPS in Carson, CA. Wait inside or drop off. Call Audio MotorSports at (213) 429-1092.
+meta: Car stereo, window tint, Viper and Compustar alarms, dash cams and GPS in Carson, CA. Wait inside or drop off. Call Audio MotorSports at (310) 513-8800.
 source: dedicated article, not a template city page; draft only
 ---
 # Car stereo, window tint and car alarm installation in Carson, CA
 
-Audio MotorSports has been the ultimate destination in Carson for car audio, window tint and vehicle security, and our doors are open to the whole South Bay. We are at 22025 S Avalon Blvd Ste A, Carson, CA 90745, right off the 110. Call or text (213) 429-1092 to book.
+Audio MotorSports has been the ultimate destination in Carson for car audio, window tint and vehicle security, and our doors are open to the whole South Bay. We are at 22025 S Avalon Blvd Ste A, Carson, CA 90745, right off the 110. Call (310) 513-8800 or text (213) 429-1092 to book.
 
 ## Why Carson drivers keep coming back
 
@@ -55,23 +55,23 @@ Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026. We read
 ## Questions from Carson drivers
 
 ### Where is Audio MotorSports in Carson?
-We are at 22025 S Avalon Blvd Ste A, Carson, CA 90745, right off the 110 freeway. The 405 and 710 also lead here. Hours are Monday to Saturday, 9:30 AM to 6:00 PM. Call or text (213) 429-1092 to book your car stereo, tint or alarm install.
+We are at 22025 S Avalon Blvd Ste A, Carson, CA 90745, right off the 110 freeway. The 405 and 710 also lead here. Hours are Monday to Saturday, 9:30 AM to 6:00 PM. Call (310) 513-8800 or text (213) 429-1092 to book your car stereo, tint or alarm install.
 
 ### Can I wait at the shop while my car is worked on?
-Yes. You can wait inside with seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. A mall, restaurants and coffee shops are within walking distance, and a DoubleTree hotel is down the street. You can also drop the car off. Call (213) 429-1092 to schedule.
+Yes. You can wait inside with seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. A mall, restaurants and coffee shops are within walking distance, and a DoubleTree hotel is down the street. You can also drop the car off. Call (310) 513-8800 to schedule.
 
 ### What do you install for drivers in Carson?
-Car stereos with Apple CarPlay and Android Auto, speakers, subwoofers and amplifiers, window tint, Viper car alarms, Compustar remote start, dash cameras and GPS trackers. We install related brands under LA Car Beats, LA Car Tint, LA Car Alarm, Tesla Tint LA and AMS Pods. Call (213) 429-1092 for a quote.
+Car stereos with Apple CarPlay and Android Auto, speakers, subwoofers and amplifiers, window tint, Viper car alarms, Compustar remote start, dash cameras and GPS trackers. We install related brands under LA Car Beats, LA Car Tint, LA Car Alarm, Tesla Tint LA and AMS Pods. Call (310) 513-8800 for a quote.
 
 ### Do you serve the rest of the South Bay?
 Yes. Drivers come from Lomita, Harbor City, Torrance, Wilmington, San Pedro, Rolling Hills and Redondo Beach, usually straight off the 110. Some customers drive 400 or more miles for the work [CONFIRM]. Everything is done at our Carson shop, so book by phone or text at (213) 429-1092.
 
 ### Is the shop LGBTQ-friendly?
-Yes. Everyone is welcome at Audio MotorSports, and our Google and Yelp pages say so. Whether you come for a stereo, tint or an alarm, you will be treated with respect and told plainly what the work involves and costs. Call or text (213) 429-1092 to book a time.
+Yes. Everyone is welcome at Audio MotorSports, and our Google and Yelp pages say so. Whether you come for a stereo, tint or an alarm, you will be treated with respect and told plainly what the work involves and costs. Call (310) 513-8800 or text (213) 429-1092 to book a time.
 
 ## Book your install
 
-Call or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday, 9:30 AM to 6:00 PM.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday, 9:30 AM to 6:00 PM.
 
 ```json
 {
@@ -82,7 +82,7 @@ Call or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carso
       "@id": "https://www.audiomotorsports.com/carson/#webpage",
       "url": "https://www.audiomotorsports.com/carson/",
       "name": "Car Stereo, Tint & Alarms in Carson | Audio MotorSports",
-      "description": "Car stereo, window tint, Viper and Compustar alarms, dash cams and GPS in Carson, CA. Wait inside or drop off. Call Audio MotorSports at (213) 429-1092.",
+      "description": "Car stereo, window tint, Viper and Compustar alarms, dash cams and GPS in Carson, CA. Wait inside or drop off. Call Audio MotorSports at (310) 513-8800.",
       "inLanguage": "en-US",
       "dateModified": "2026-10-08",
       "isPartOf": {
@@ -134,7 +134,7 @@ Call or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carso
           "name": "Where is Audio MotorSports in Carson?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "We are at 22025 S Avalon Blvd Ste A, Carson, CA 90745, right off the 110 freeway. The 405 and 710 also lead here. Hours are Monday to Saturday, 9:30 AM to 6:00 PM. Call or text (213) 429-1092 to book your car stereo, tint or alarm install."
+            "text": "We are at 22025 S Avalon Blvd Ste A, Carson, CA 90745, right off the 110 freeway. The 405 and 710 also lead here. Hours are Monday to Saturday, 9:30 AM to 6:00 PM. Call (310) 513-8800 or text (213) 429-1092 to book your car stereo, tint or alarm install."
           }
         },
         {
@@ -142,7 +142,7 @@ Call or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carso
           "name": "Can I wait at the shop while my car is worked on?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. You can wait inside with seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. A mall, restaurants and coffee shops are within walking distance, and a DoubleTree hotel is down the street. You can also drop the car off. Call (213) 429-1092 to schedule."
+            "text": "Yes. You can wait inside with seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. A mall, restaurants and coffee shops are within walking distance, and a DoubleTree hotel is down the street. You can also drop the car off. Call (310) 513-8800 to schedule."
           }
         },
         {
@@ -150,7 +150,7 @@ Call or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carso
           "name": "What do you install for drivers in Carson?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Car stereos with Apple CarPlay and Android Auto, speakers, subwoofers and amplifiers, window tint, Viper car alarms, Compustar remote start, dash cameras and GPS trackers. We install related brands under LA Car Beats, LA Car Tint, LA Car Alarm, Tesla Tint LA and AMS Pods. Call (213) 429-1092 for a quote."
+            "text": "Car stereos with Apple CarPlay and Android Auto, speakers, subwoofers and amplifiers, window tint, Viper car alarms, Compustar remote start, dash cameras and GPS trackers. We install related brands under LA Car Beats, LA Car Tint, LA Car Alarm, Tesla Tint LA and AMS Pods. Call (310) 513-8800 for a quote."
           }
         },
         {
@@ -166,7 +166,7 @@ Call or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carso
           "name": "Is the shop LGBTQ-friendly?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. Everyone is welcome at Audio MotorSports, and our Google and Yelp pages say so. Whether you come for a stereo, tint or an alarm, you will be treated with respect and told plainly what the work involves and costs. Call or text (213) 429-1092 to book a time."
+            "text": "Yes. Everyone is welcome at Audio MotorSports, and our Google and Yelp pages say so. Whether you come for a stereo, tint or an alarm, you will be treated with respect and told plainly what the work involves and costs. Call (310) 513-8800 or text (213) 429-1092 to book a time."
           }
         }
       ]

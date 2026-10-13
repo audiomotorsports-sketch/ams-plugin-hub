@@ -5,7 +5,7 @@ miles: 4.9
 lead_service: Tesla window tint (Model S)
 source: hub-mounted copy; standalone www host not verified
 title: Model S Window Tint, Gardena Drivers | Tesla Tint LA
-meta: Ceramic Tesla window tint for Gardena Model S, 3, Y and X owners at Audio MotorSports in Carson, under 5 miles away. Call (213) 429-1092 to book.
+meta: Ceramic Tesla window tint for Gardena Model S, 3, Y and X owners at Audio MotorSports in Carson, under 5 miles away. Call (310) 513-8800 to book.
 ---
 # Tesla Window Tint for Gardena Owners, Starting with the Model S
 
@@ -68,7 +68,7 @@ Every Tesla is quoted by model at the shop; text the year and model for a figure
 
 ## Call or text to book
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -79,7 +79,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-gardena/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-gardena/",
    "name": "Model S Window Tint, Gardena Drivers | Tesla Tint LA",
-   "description": "Ceramic Tesla window tint for Gardena Model S, 3, Y and X owners at Audio MotorSports in Carson, under 5 miles away. Call (213) 429-1092 to book.",
+   "description": "Ceramic Tesla window tint for Gardena Model S, 3, Y and X owners at Audio MotorSports in Carson, under 5 miles away. Call (310) 513-8800 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

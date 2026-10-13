@@ -5,7 +5,7 @@ city: Cypress
 miles: 13.0
 lead_service: dash camera installation
 title: Dash Camera & Alarm Installation for Cypress | LA Car Alarm
-meta: Dash camera installation, Viper car alarm installation and remote start for Cypress drivers at LA Car Alarm by Audio MotorSports in Carson. Call (213) 429-1092.
+meta: Dash camera installation, Viper car alarm installation and remote start for Cypress drivers at LA Car Alarm by Audio MotorSports in Carson. Call (310) 513-8800.
 ---
 # Dash Camera Installation and Car Alarms for Cypress
 
@@ -60,7 +60,7 @@ Viper 3108V alarm $269 installed. Compustar 9910 remote start from $499. Dash ca
 
 ## Book a Cypress dash cam install
 
-Call (213) 429-1092 or text (213) 429-1092 with your year, make and model. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with your year, make and model. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

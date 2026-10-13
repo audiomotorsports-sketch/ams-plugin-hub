@@ -5,7 +5,7 @@ city: Rolling Hills
 miles: 7.2
 lead_service: work-truck security
 title: Truck Security & Car Alarms, Rolling Hills | LA Car Alarm
-meta: LA Car Alarm in Carson: work-truck security, Viper alarms and GPS trackers for Rolling Hills drivers at LA Car Alarm in Carson. Call (213) 429-1092.
+meta: LA Car Alarm in Carson: work-truck security, Viper alarms and GPS trackers for Rolling Hills drivers at LA Car Alarm in Carson. Call (310) 513-8800.
 ---
 # Work Truck Security and Car Alarm Installation for Rolling Hills
 
@@ -59,7 +59,7 @@ Viper 3108V $269 installed. Compustar 9910 remote start from $499. GPS trackers 
 
 ## Book your Rolling Hills install
 
-Call (213) 429-1092 or text (213) 429-1092. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

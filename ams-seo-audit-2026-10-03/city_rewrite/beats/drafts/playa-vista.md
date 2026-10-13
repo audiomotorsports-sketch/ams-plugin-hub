@@ -6,7 +6,7 @@ lead_service: factory-look head unit installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Playa Vista Factory-Look Stereo Install | LA Car Beats
-meta: Factory-look head unit installation and Apple CarPlay for Playa Vista drivers at LA Car Beats by Audio MotorSports in Carson, 13.5 miles. Call (213) 429-1092.
+meta: Factory-look head unit installation and Apple CarPlay for Playa Vista drivers at LA Car Beats by Audio MotorSports in Carson, 13.5 miles. Call (310) 513-8800.
 ---
 # Factory-Look Head Unit Installation for Playa Vista
 
@@ -21,7 +21,7 @@ Playa Vista drivers who want a bigger screen without a modified-looking dash use
 
 ## Playa Vista to the bay
 
-Playa Vista to the shop is about 13.5 miles, roughly 27 to 32 minutes outside commute hours (approx). We are open Monday through Saturday, 9:30 to 6:00, and closed Sunday. Call (213) 429-1092 or text (213) 429-1092 to reserve a slot, then wait for a head unit installation or drop off a fuller build. The shop is close to the beach in Carson, and the drive from Playa Vista is shorter than many customers make.
+Playa Vista to the shop is about 13.5 miles, roughly 27 to 32 minutes outside commute hours (approx). We are open Monday through Saturday, 9:30 to 6:00, and closed Sunday. Call (310) 513-8800 or text (213) 429-1092 to reserve a slot, then wait for a head unit installation or drop off a fuller build. The shop is close to the beach in Carson, and the drive from Playa Vista is shorter than many customers make.
 
 <!-- owner-details-2026-10-07 -->
 Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Playa Vista customers tell us makes the drop-off painless. Playa Vista customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Playa Vista traffic sends you.
@@ -58,7 +58,7 @@ Car stereo installation for neighbors: [Playa del Rey](/beats/car-stereo-playa-d
 
 ## Reserve a Playa Vista install
 
-Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745; Mon-Sat 9:30-18:00, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745; Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -70,7 +70,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio 
    "name": "Playa Vista Factory-Look Stereo Install | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-playa-vista/",
    "dateModified": "2026-10-08",
-   "description": "Factory-look head unit installation and Apple CarPlay for Playa Vista drivers at LA Car Beats by Audio MotorSports in Carson, 13.5 miles. Call (213) 429-1092.",
+   "description": "Factory-look head unit installation and Apple CarPlay for Playa Vista drivers at LA Car Beats by Audio MotorSports in Carson, 13.5 miles. Call (310) 513-8800.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

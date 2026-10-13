@@ -4,12 +4,12 @@ city: Bell Gardens
 miles: 11.3
 lead_service: UV-blocking car window tint
 title: UV Car Window Tint Bell Gardens | LA Car Tint
-meta: UV-blocking car window tint and ceramic window tinting for Bell Gardens drivers at LA Car Tint by Audio MotorSports in Carson, 11.3 miles. Call (213) 429-1092.
+meta: UV-blocking car window tint and ceramic window tinting for Bell Gardens drivers at LA Car Tint by Audio MotorSports in Carson, 11.3 miles. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # UV-Blocking Car Window Tint for Bell Gardens, by Audio MotorSports, Carson
 
-Bell Gardens drivers protect skin, seats and dashboards with car window tint from LA Car Tint, the window tinting desk at Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, roughly 11.3 miles away. Solar and Solar Ceramic films block nearly all UV and are hand-cut on the glass; the same bay does Tesla window tint, car stereo installation, car alarm installation and remote start installation. Call (213) 429-1092.
+Bell Gardens drivers protect skin, seats and dashboards with car window tint from LA Car Tint, the window tinting desk at Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, roughly 11.3 miles away. Solar and Solar Ceramic films block nearly all UV and are hand-cut on the glass; the same bay does Tesla window tint, car stereo installation, car alarm installation and remote start installation. Call (310) 513-8800.
 
 ## What Bell Gardens drivers bring us
 
@@ -62,7 +62,7 @@ Solar car window tint is $249 installed, Solar Ceramic is $329 installed, as of 
 
 ## Book it
 
-Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday to Saturday 9:30-6:00. Sunday closed.
+Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday to Saturday 9:30-6:00. Sunday closed.
 
 ```json
 {
@@ -73,7 +73,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-bell-gardens/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-bell-gardens/",
    "name": "UV Car Window Tint Bell Gardens | LA Car Tint",
-   "description": "UV-blocking car window tint and ceramic window tinting for Bell Gardens drivers at LA Car Tint by Audio MotorSports in Carson, 11.3 miles. Call (213) 429-1092.",
+   "description": "UV-blocking car window tint and ceramic window tinting for Bell Gardens drivers at LA Car Tint by Audio MotorSports in Carson, 11.3 miles. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

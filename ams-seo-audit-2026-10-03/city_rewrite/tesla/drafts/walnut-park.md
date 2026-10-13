@@ -5,7 +5,7 @@ miles: 9.7
 lead_service: Tesla window tint (cabin heat through the doors)
 source: hub-mounted copy; standalone www host not verified
 title: Walnut Park Tesla Tint for Cabin Heat | Tesla Tint LA
-meta: Tesla window tint for Walnut Park owners, a cooler cabin from ceramic film on the doors. Tesla Tint LA, Audio MotorSports, Carson, 9.7 mi. Call (213) 429-1092.
+meta: Tesla window tint for Walnut Park owners, a cooler cabin from ceramic film on the doors. Tesla Tint LA, Audio MotorSports, Carson, 9.7 mi. Call (310) 513-8800.
 ---
 # Tesla Window Tint for Walnut Park: A Cooler Cabin Through the Doors and Rear Glass
 
@@ -70,7 +70,7 @@ Tesla tint is quoted per model at the shop; text the year and model to get a fig
 
 ## Book your appointment
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -81,7 +81,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-walnut-park/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-walnut-park/",
    "name": "Walnut Park Tesla Tint for Cabin Heat | Tesla Tint LA",
-   "description": "Tesla window tint for Walnut Park owners, a cooler cabin from ceramic film on the doors. Tesla Tint LA, Audio MotorSports, Carson, 9.7 mi. Call (213) 429-1092.",
+   "description": "Tesla window tint for Walnut Park owners, a cooler cabin from ceramic film on the doors. Tesla Tint LA, Audio MotorSports, Carson, 9.7 mi. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

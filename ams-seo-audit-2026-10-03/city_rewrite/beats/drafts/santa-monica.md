@@ -6,7 +6,7 @@ lead_service: speaker replacement
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Santa Monica Speaker Replacement | LA Car Beats
-meta: Speaker replacement and amplifier installation for Santa Monica drivers at LA Car Beats by Audio MotorSports in Carson, 18.4 miles. Call (213) 429-1092 to book.
+meta: Speaker replacement and amplifier installation for Santa Monica drivers at LA Car Beats by Audio MotorSports in Carson, 18.4 miles. Call (310) 513-8800 to book.
 ---
 # Speaker Replacement for Santa Monica Drivers
 
@@ -22,7 +22,7 @@ Santa Monica drivers replace worn, papery factory speakers at LA Car Beats by Au
 
 ## Santa Monica to the Carson shop
 
-Santa Monica to 22025 S Avalon Blvd is about 18.4 miles, roughly 37 to 44 minutes outside rush hour (approx). Hours are Monday through Saturday 9:30 to 6:00; the shop is closed Sunday. Call (213) 429-1092 or text (213) 429-1092 to set an appointment. A front-speaker job can be waited on; four doors and an amplifier is a morning drop-off with an afternoon pickup. [SHOP NOTE: 2-3 sentences from Nick about Santa Monica customers, routes or jobs]
+Santa Monica to 22025 S Avalon Blvd is about 18.4 miles, roughly 37 to 44 minutes outside rush hour (approx). Hours are Monday through Saturday 9:30 to 6:00; the shop is closed Sunday. Call (310) 513-8800 or text (213) 429-1092 to set an appointment. A front-speaker job can be waited on; four doors and an amplifier is a morning drop-off with an afternoon pickup. [SHOP NOTE: 2-3 sentences from Nick about Santa Monica customers, routes or jobs]
 
 <!-- owner-details-2026-10-07 -->
 For a longer job from Santa Monica, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Santa Monica customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. From Santa Monica you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
@@ -64,7 +64,7 @@ Nearby car stereo installation pages:
 
 ## Book from Santa Monica
 
-Call (213) 429-1092 or text (213) 429-1092 with the vehicle details. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with the vehicle details. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -76,7 +76,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the vehicle details. Audio Motor
    "name": "Santa Monica Speaker Replacement | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-santa-monica/",
    "dateModified": "2026-10-08",
-   "description": "Speaker replacement and amplifier installation for Santa Monica drivers at LA Car Beats by Audio MotorSports in Carson, 18.4 miles. Call (213) 429-1092 to book.",
+   "description": "Speaker replacement and amplifier installation for Santa Monica drivers at LA Car Beats by Audio MotorSports in Carson, 18.4 miles. Call (310) 513-8800 to book.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

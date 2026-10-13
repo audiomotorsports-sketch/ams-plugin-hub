@@ -4,7 +4,7 @@ city: Lakewood
 miles: 7.7
 lead_service: window tinting (legal front-window rules)
 title: Lakewood Window Tinting | LA Car Tint by Audio MotorSports
-meta: Legal window tinting for Lakewood drivers: Audio MotorSports in Carson installs car window tint and ceramic film 7.7 miles away. Call (213) 429-1092.
+meta: Legal window tinting for Lakewood drivers: Audio MotorSports in Carson installs car window tint and ceramic film 7.7 miles away. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Window Tinting for Lakewood, Done Legal and Done Right
@@ -58,7 +58,7 @@ Solar four-door package, $249 installed; Solar Ceramic four-door package, $329 i
 
 ## Call, text or come by
 
-(213) 429-1092 by phone, (213) 429-1092 by text. Audio MotorSports sits at 22025 S Avalon Blvd Ste A in Carson, CA 90745, Monday to Saturday 9:30-18:00, Sunday closed.
+(310) 513-8800 by phone, (213) 429-1092 by text. Audio MotorSports sits at 22025 S Avalon Blvd Ste A in Carson, CA 90745, Monday to Saturday 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -69,7 +69,7 @@ Solar four-door package, $249 installed; Solar Ceramic four-door package, $329 i
    "@id": "https://www.audiomotorsports.com/tint/window-tint-lakewood/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-lakewood/",
    "name": "Lakewood Window Tinting | LA Car Tint by Audio MotorSports",
-   "description": "Legal window tinting for Lakewood drivers: Audio MotorSports in Carson installs car window tint and ceramic film 7.7 miles away. Call (213) 429-1092.",
+   "description": "Legal window tinting for Lakewood drivers: Audio MotorSports in Carson installs car window tint and ceramic film 7.7 miles away. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

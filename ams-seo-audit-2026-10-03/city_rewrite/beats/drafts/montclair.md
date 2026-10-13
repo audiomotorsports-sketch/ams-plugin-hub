@@ -6,7 +6,7 @@ lead_service: truck and SUV car audio
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Montclair Truck & SUV Car Audio Installation | LA Car Beats
-meta: Truck and SUV car stereo, subwoofer and amplifier installation for Montclair at Audio MotorSports in Carson, 46.3 miles. Call (213) 429-1092.
+meta: Truck and SUV car stereo, subwoofer and amplifier installation for Montclair at Audio MotorSports in Carson, 46.3 miles. Call (310) 513-8800.
 ---
 # Truck and SUV Car Audio Installation for Montclair
 
@@ -22,7 +22,7 @@ Montclair truck and SUV owners drive to LA Car Beats by Audio MotorSports, Carso
 
 ## The run from Montclair
 
-Montclair is about 46.3 miles from the shop, roughly 93 to 111 minutes outside rush hour (approx). Hours are Monday through Saturday from 9:30 to 6:00; we are closed Sunday. Call (213) 429-1092 or text (213) 429-1092 to schedule, send the truck details, and plan a morning drop-off with afternoon pickup so the whole build is done in one trip. Customers have come from Temecula and San Diego, about 120 miles, so Montclair is a drive people make for this work.
+Montclair is about 46.3 miles from the shop, roughly 93 to 111 minutes outside rush hour (approx). Hours are Monday through Saturday from 9:30 to 6:00; we are closed Sunday. Call (310) 513-8800 or text (213) 429-1092 to schedule, send the truck details, and plan a morning drop-off with afternoon pickup so the whole build is done in one trip. Customers have come from Temecula and San Diego, about 120 miles, so Montclair is a drive people make for this work.
 
 <!-- owner-details-2026-10-07 -->
 For a longer job from Montclair, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. The shop is LGBTQ-friendly and everyone from Montclair is welcome, as our Google and Yelp listings state. From Montclair you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
@@ -59,7 +59,7 @@ Car stereo installation pages for the Montclair area: [Pomona](/beats/car-stereo
 
 ## Plan the Montclair trip
 
-Call (213) 429-1092 or text (213) 429-1092 with the truck or SUV details. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745; Mon-Sat 9:30-18:00, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092 with the truck or SUV details. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745; Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -71,7 +71,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the truck or SUV details. Audio 
    "name": "Montclair Truck & SUV Car Audio Installation | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-montclair/",
    "dateModified": "2026-10-08",
-   "description": "Truck and SUV car stereo, subwoofer and amplifier installation for Montclair at Audio MotorSports in Carson, 46.3 miles. Call (213) 429-1092.",
+   "description": "Truck and SUV car stereo, subwoofer and amplifier installation for Montclair at Audio MotorSports in Carson, 46.3 miles. Call (310) 513-8800.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

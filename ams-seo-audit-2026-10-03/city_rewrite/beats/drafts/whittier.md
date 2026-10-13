@@ -4,7 +4,7 @@ city: Whittier
 miles: 16.7
 lead_service: subwoofer installation and amplifier installation
 title: Whittier Subwoofer & Amplifier Installation | LA Car Beats
-meta: Subwoofer installation, subwoofer upgrades and amplifier installation for Whittier drivers at LA Car Beats, Audio MotorSports, Carson. Call (213) 429-1092.
+meta: Subwoofer installation, subwoofer upgrades and amplifier installation for Whittier drivers at LA Car Beats, Audio MotorSports, Carson. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Subwoofer and Amplifier Installation for Whittier
@@ -66,7 +66,7 @@ Other LA Car Beats pages around Whittier:
 
 ## Book subwoofer or amplifier installation
 
-Call (213) 429-1092 or text (213) 429-1092 and tell us the car and the sound you want. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30-18:00; closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092 and tell us the car and the sound you want. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30-18:00; closed Sunday.
 
 ```json
 {
@@ -77,7 +77,7 @@ Call (213) 429-1092 or text (213) 429-1092 and tell us the car and the sound you
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-whittier/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-whittier/",
    "name": "Whittier Subwoofer & Amplifier Installation | LA Car Beats",
-   "description": "Subwoofer installation, subwoofer upgrades and amplifier installation for Whittier drivers at LA Car Beats, Audio MotorSports, Carson. Call (213) 429-1092.",
+   "description": "Subwoofer installation, subwoofer upgrades and amplifier installation for Whittier drivers at LA Car Beats, Audio MotorSports, Carson. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

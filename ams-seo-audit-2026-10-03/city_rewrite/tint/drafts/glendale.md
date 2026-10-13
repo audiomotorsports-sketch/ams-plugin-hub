@@ -4,7 +4,7 @@ city: Glendale
 miles: 26.9
 lead_service: window tinting
 title: Window Tinting Glendale | LA Car Tint, Carson
-meta: Window tinting for Glendale luxury sedans, SUVs and Teslas, Solar and ceramic film installed by Audio MotorSports, Carson, 26.9 miles away. Call (213) 429-1092.
+meta: Window tinting for Glendale luxury sedans, SUVs and Teslas, Solar and ceramic film installed by Audio MotorSports, Carson, 26.9 miles away. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Window Tinting for Glendale Drivers, by Audio MotorSports, Carson
@@ -37,7 +37,7 @@ That is the standard. Film cut on the glass reaches the true edge of each pane, 
 
 ### Can a Glendale owner have the car tinted and collected the same afternoon?
 
-Yes. A sedan or SUV takes a few hours, so a morning drop-off is normally ready after lunch. Some owners wait at the shop instead. Book by calling (213) 429-1092 or texting (213) 429-1092 and tell us the model so the right time is set aside.
+Yes. A sedan or SUV takes a few hours, so a morning drop-off is normally ready after lunch. Some owners wait at the shop instead. Book by calling (310) 513-8800 or texting (213) 429-1092 and tell us the model so the right time is set aside.
 
 ### Does ceramic film interfere with phone or key signals?
 
@@ -64,7 +64,7 @@ Solar window tint $249 installed and Solar Ceramic $329 installed, as of October
 
 ## Book it
 
-Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
+Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
 
 ```json
 {
@@ -75,7 +75,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-glendale/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-glendale/",
    "name": "Window Tinting Glendale | LA Car Tint, Carson",
-   "description": "Window tinting for Glendale luxury sedans, SUVs and Teslas, Solar and ceramic film installed by Audio MotorSports, Carson, 26.9 miles away. Call (213) 429-1092.",
+   "description": "Window tinting for Glendale luxury sedans, SUVs and Teslas, Solar and ceramic film installed by Audio MotorSports, Carson, 26.9 miles away. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -123,7 +123,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "Can a Glendale owner have the car tinted and collected the same afternoon?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. A sedan or SUV takes a few hours, so a morning drop-off is normally ready after lunch. Some owners wait at the shop instead. Book by calling (213) 429-1092 or texting (213) 429-1092 and tell us the model so the right time is set aside."
+      "text": "Yes. A sedan or SUV takes a few hours, so a morning drop-off is normally ready after lunch. Some owners wait at the shop instead. Book by calling (310) 513-8800 or texting (213) 429-1092 and tell us the model so the right time is set aside."
      }
     },
     {

@@ -6,7 +6,7 @@ lead_service: subwoofer installation and amplifier installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Garden Grove Subwoofer & Amp Installation | LA Car Beats
-meta: Subwoofer installation and amplifier installation for Garden Grove drivers at LA Car Beats by Audio MotorSports in Carson, 18.9 miles. Call (213) 429-1092.
+meta: Subwoofer installation and amplifier installation for Garden Grove drivers at LA Car Beats by Audio MotorSports in Carson, 18.9 miles. Call (310) 513-8800.
 ---
 # Subwoofer and Amplifier Installation for Garden Grove
 
@@ -22,7 +22,7 @@ Garden Grove drivers who want bass that is tight rather than boomy bring the car
 
 ## Garden Grove to Carson
 
-From Garden Grove the drive is about 18.9 miles, roughly 38 to 45 minutes outside rush hour (approx). Call (213) 429-1092 or text (213) 429-1092 to book. A box-and-amp install can be waited on; add speakers or a head unit and it becomes a drop-off with pickup later the same day. Open Monday to Saturday 9:30 to 6:00, closed Sunday. Customers come from over 100 miles away for subwoofer work, so Garden Grove is a normal trip.
+From Garden Grove the drive is about 18.9 miles, roughly 38 to 45 minutes outside rush hour (approx). Call (310) 513-8800 or text (213) 429-1092 to book. A box-and-amp install can be waited on; add speakers or a head unit and it becomes a drop-off with pickup later the same day. Open Monday to Saturday 9:30 to 6:00, closed Sunday. Customers come from over 100 miles away for subwoofer work, so Garden Grove is a normal trip.
 
 <!-- owner-details-2026-10-07 -->
 You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Garden Grove job is finished. The shop is LGBTQ-friendly and everyone from Garden Grove is welcome, as our Google and Yelp listings state. Coming from Garden Grove, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
@@ -59,7 +59,7 @@ LA Car Beats pages for nearby Orange County cities: [Westminster](/beats/car-ste
 
 ## Book from Garden Grove
 
-Send the car and what is already installed; we spec the amp and box together. Call (213) 429-1092 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Send the car and what is already installed; we spec the amp and box together. Call (310) 513-8800 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -70,7 +70,7 @@ Send the car and what is already installed; we spec the amp and box together. Ca
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-garden-grove/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-garden-grove/",
    "name": "Garden Grove Subwoofer & Amp Installation | LA Car Beats",
-   "description": "Subwoofer installation and amplifier installation for Garden Grove drivers at LA Car Beats by Audio MotorSports in Carson, 18.9 miles. Call (213) 429-1092.",
+   "description": "Subwoofer installation and amplifier installation for Garden Grove drivers at LA Car Beats by Audio MotorSports in Carson, 18.9 miles. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

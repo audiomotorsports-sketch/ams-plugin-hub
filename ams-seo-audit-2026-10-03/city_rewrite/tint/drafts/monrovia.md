@@ -4,7 +4,7 @@ city: Monrovia
 miles: 33.3
 lead_service: window tinting (foothill heat and UV)
 title: Window Tinting Monrovia | LA Car Tint by Audio MotorSports
-meta: Window tinting and ceramic window tint for Monrovia drivers, hand-cut and installed by Audio MotorSports in Carson, 33.3 miles away. Call (213) 429-1092.
+meta: Window tinting and ceramic window tint for Monrovia drivers, hand-cut and installed by Audio MotorSports in Carson, 33.3 miles away. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Window Tinting for Monrovia Drivers, by Audio MotorSports in Carson
@@ -37,7 +37,7 @@ Yes. Film cut on your glass and sealed at the edge does not peel or bubble, so i
 
 ### How should a Monrovia driver plan the day?
 
-Call (213) 429-1092 or text (213) 429-1092 for a time, ideally in the morning. Drive down, hand over the keys, and either wait at the shop or get lunch nearby. Most cars are done the same day. You will be back in Monrovia before the evening traffic builds.
+Call (310) 513-8800 or text (213) 429-1092 for a time, ideally in the morning. Drive down, hand over the keys, and either wait at the shop or get lunch nearby. Most cars are done the same day. You will be back in Monrovia before the evening traffic builds.
 
 ### Which film protects the interior better?
 
@@ -63,7 +63,7 @@ Solar window tinting $249 installed; Solar Ceramic window tinting $329 installed
 
 ## Book it
 
-Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
+Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
 
 ```json
 {
@@ -74,7 +74,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-monrovia/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-monrovia/",
    "name": "Window Tinting Monrovia | LA Car Tint by Audio MotorSports",
-   "description": "Window tinting and ceramic window tint for Monrovia drivers, hand-cut and installed by Audio MotorSports in Carson, 33.3 miles away. Call (213) 429-1092.",
+   "description": "Window tinting and ceramic window tint for Monrovia drivers, hand-cut and installed by Audio MotorSports in Carson, 33.3 miles away. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -122,7 +122,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "How should a Monrovia driver plan the day?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Call (213) 429-1092 or text (213) 429-1092 for a time, ideally in the morning. Drive down, hand over the keys, and either wait at the shop or get lunch nearby. Most cars are done the same day. You will be back in Monrovia before the evening traffic builds."
+      "text": "Call (310) 513-8800 or text (213) 429-1092 for a time, ideally in the morning. Drive down, hand over the keys, and either wait at the shop or get lunch nearby. Most cars are done the same day. You will be back in Monrovia before the evening traffic builds."
      }
     },
     {

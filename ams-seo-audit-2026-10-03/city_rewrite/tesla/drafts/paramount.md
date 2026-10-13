@@ -4,7 +4,7 @@ city: Paramount
 miles: 7.4
 lead_service: Tesla window tint (Model S)
 title: Paramount Tesla Window Tint | Tesla Tint LA, Carson
-meta: Model S and every Tesla tinted at Tesla Tint LA by Audio MotorSports in Carson, 7.4 miles from Paramount. Ceramic film, cameras clear. Call (213) 429-1092.
+meta: Model S and every Tesla tinted at Tesla Tint LA by Audio MotorSports in Carson, 7.4 miles from Paramount. Ceramic film, cameras clear. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla Window Tint for Paramount Owners, Starting With the Model S
@@ -60,7 +60,7 @@ Tesla window tint is quoted by model at the shop. For a reference point, the sta
 
 ## Book your Tesla tint
 
-Call (213) 429-1092 or text (213) 429-1092 and tell us the model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 and tell us the model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

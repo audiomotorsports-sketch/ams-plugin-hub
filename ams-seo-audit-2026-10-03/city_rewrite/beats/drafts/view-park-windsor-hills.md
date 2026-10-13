@@ -6,7 +6,7 @@ lead_service: Apple CarPlay and Android Auto installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: View Park-Windsor Hills CarPlay Install | LA Car Beats
-meta: Apple CarPlay and Android Auto installation for View Park-Windsor Hills drivers at LA Car Beats, Audio MotorSports in Carson, 12.3 miles. Call (213) 429-1092.
+meta: Apple CarPlay and Android Auto installation for View Park-Windsor Hills drivers at LA Car Beats, Audio MotorSports in Carson, 12.3 miles. Call (310) 513-8800.
 ---
 # Apple CarPlay and Android Auto Installation for View Park-Windsor Hills
 
@@ -21,7 +21,7 @@ View Park-Windsor Hills drivers get Apple CarPlay and Android Auto installation 
 
 ## View Park-Windsor Hills to the shop
 
-From View Park-Windsor Hills the bay is about 12.3 miles, roughly 25 to 30 minutes outside rush hour (approx). We are open Monday to Saturday, 9:30 a.m. to 6 p.m., and closed Sunday. Call (213) 429-1092 or text (213) 429-1092 to book. A CarPlay interface or head unit installation is usually a wait-and-drive job; bigger builds are dropped off. The shop is near the beach in Carson and sees cars from a lot farther away than View Park-Windsor Hills every week.
+From View Park-Windsor Hills the bay is about 12.3 miles, roughly 25 to 30 minutes outside rush hour (approx). We are open Monday to Saturday, 9:30 a.m. to 6 p.m., and closed Sunday. Call (310) 513-8800 or text (213) 429-1092 to book. A CarPlay interface or head unit installation is usually a wait-and-drive job; bigger builds are dropped off. The shop is near the beach in Carson and sees cars from a lot farther away than View Park-Windsor Hills every week.
 
 <!-- owner-details-2026-10-07 -->
 You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the View Park-Windsor Hills job is finished. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way View Park-Windsor Hills traffic sends you.
@@ -58,7 +58,7 @@ Car stereo installation pages near View Park-Windsor Hills: [Ladera Heights](/be
 
 ## Book CarPlay from View Park-Windsor Hills
 
-Call (213) 429-1092 or text (213) 429-1092 with your vehicle. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-18:00, closed on Sunday.
+Call (310) 513-8800 or text (213) 429-1092 with your vehicle. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-18:00, closed on Sunday.
 
 ```json
 {
@@ -70,7 +70,7 @@ Call (213) 429-1092 or text (213) 429-1092 with your vehicle. Audio MotorSports,
    "name": "View Park-Windsor Hills CarPlay Install | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-view-park-windsor-hills/",
    "dateModified": "2026-10-08",
-   "description": "Apple CarPlay and Android Auto installation for View Park-Windsor Hills drivers at LA Car Beats, Audio MotorSports in Carson, 12.3 miles. Call (213) 429-1092.",
+   "description": "Apple CarPlay and Android Auto installation for View Park-Windsor Hills drivers at LA Car Beats, Audio MotorSports in Carson, 12.3 miles. Call (310) 513-8800.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

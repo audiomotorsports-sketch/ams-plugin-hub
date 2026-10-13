@@ -4,7 +4,7 @@ city: Alondra Park
 miles: 5.9
 lead_service: Harley bagger audio
 title: Harley Bagger Audio & Tint, Alondra Park | Audio MotorSports
-meta: Harley bagger audio with AMS pods, window tint, car stereo and alarms for Alondra Park riders and drivers at Audio MotorSports in Carson. Call (213) 429-1092.
+meta: Harley bagger audio with AMS pods, window tint, car stereo and alarms for Alondra Park riders and drivers at Audio MotorSports in Carson. Call (310) 513-8800.
 ---
 # Harley Bagger Audio and Window Tint for Alondra Park
 
@@ -59,7 +59,7 @@ AMS Harley pods from $649 a pair. Dual Kicker Comp box $249 box only. Window tin
 
 ## Set up an Alondra Park appointment
 
-Call (213) 429-1092, or text (213) 429-1092 with your year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sunday.
+Call (310) 513-8800, or text (213) 429-1092 with your year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -70,7 +70,7 @@ Call (213) 429-1092, or text (213) 429-1092 with your year, make and model. Audi
    "@id": "https://www.audiomotorsports.com/alondra-park/#webpage",
    "url": "https://www.audiomotorsports.com/alondra-park/",
    "name": "Harley Bagger Audio & Tint, Alondra Park | Audio MotorSports",
-   "description": "Harley bagger audio with AMS pods, window tint, car stereo and alarms for Alondra Park riders and drivers at Audio MotorSports in Carson. Call (213) 429-1092.",
+   "description": "Harley bagger audio with AMS pods, window tint, car stereo and alarms for Alondra Park riders and drivers at Audio MotorSports in Carson. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

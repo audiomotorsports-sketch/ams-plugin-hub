@@ -5,7 +5,7 @@ miles: 26.6
 lead_service: Tesla window tint (side and rear glass heat)
 source: hub-mounted copy; standalone www host not verified
 title: El Monte Tesla Window Tint for Heat | Tesla Tint LA
-meta: Tesla window tint for El Monte owners at Audio MotorSports in Carson, 26.6 miles away. Ceramic film cuts cabin heat on side and rear glass. Call (213) 429-1092.
+meta: Tesla window tint for El Monte owners at Audio MotorSports in Carson, 26.6 miles away. Ceramic film cuts cabin heat on side and rear glass. Call (310) 513-8800.
 ---
 # Tesla Window Tint for El Monte Owners: Heat Rejection on Every Side Window
 
@@ -67,7 +67,7 @@ Window tint on a Tesla is quoted by model at the shop; text the year and model f
 
 ## Call or text
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -78,7 +78,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-el-monte/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-el-monte/",
    "name": "El Monte Tesla Window Tint for Heat | Tesla Tint LA",
-   "description": "Tesla window tint for El Monte owners at Audio MotorSports in Carson, 26.6 miles away. Ceramic film cuts cabin heat on side and rear glass. Call (213) 429-1092.",
+   "description": "Tesla window tint for El Monte owners at Audio MotorSports in Carson, 26.6 miles away. Ceramic film cuts cabin heat on side and rear glass. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

@@ -4,7 +4,7 @@ city: Stanton
 miles: 15.6
 lead_service: car window tint (Orange County commuters)
 title: Car Window Tint Stanton | LA Car Tint by Audio MotorSports
-meta: Car window tint and ceramic film for Stanton drivers, hand-cut and installed by Audio MotorSports in Carson, 15.6 miles away. Call (213) 429-1092 to book.
+meta: Car window tint and ceramic film for Stanton drivers, hand-cut and installed by Audio MotorSports in Carson, 15.6 miles away. Call (310) 513-8800 to book.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Window Tint for Stanton Drivers, by Audio MotorSports, Carson
@@ -37,7 +37,7 @@ Because the film is fitted by hand, the edges are sealed, and the results are pu
 
 ### What should I tell you when I book from Stanton?
 
-Year, make and model, the film you want, and whether you plan to wait or drop the car. That lets us schedule the bay and give you a finish time. Call (213) 429-1092 or text (213) 429-1092. With those details the car goes straight into the bay when you arrive.
+Year, make and model, the film you want, and whether you plan to wait or drop the car. That lets us schedule the bay and give you a finish time. Call (310) 513-8800 or text (213) 429-1092. With those details the car goes straight into the bay when you arrive.
 
 ### Is Solar Ceramic noticeably cooler than regular Solar film?
 
@@ -64,7 +64,7 @@ Solar window tinting $249 installed; Solar Ceramic window tinting $329 installed
 
 ## Book it
 
-Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
+Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
 
 ```json
 {
@@ -75,7 +75,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-stanton/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-stanton/",
    "name": "Car Window Tint Stanton | LA Car Tint by Audio MotorSports",
-   "description": "Car window tint and ceramic film for Stanton drivers, hand-cut and installed by Audio MotorSports in Carson, 15.6 miles away. Call (213) 429-1092 to book.",
+   "description": "Car window tint and ceramic film for Stanton drivers, hand-cut and installed by Audio MotorSports in Carson, 15.6 miles away. Call (310) 513-8800 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -123,7 +123,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "What should I tell you when I book from Stanton?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Year, make and model, the film you want, and whether you plan to wait or drop the car. That lets us schedule the bay and give you a finish time. Call (213) 429-1092 or text (213) 429-1092. With those details the car goes straight into the bay when you arrive."
+      "text": "Year, make and model, the film you want, and whether you plan to wait or drop the car. That lets us schedule the bay and give you a finish time. Call (310) 513-8800 or text (213) 429-1092. With those details the car goes straight into the bay when you arrive."
      }
     },
     {

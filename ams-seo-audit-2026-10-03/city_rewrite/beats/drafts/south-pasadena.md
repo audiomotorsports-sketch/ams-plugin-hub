@@ -6,7 +6,7 @@ lead_service: amplifier installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: South Pasadena Amplifier Installation | LA Car Beats
-meta: Amplifier installation and speaker replacement for South Pasadena drivers at LA Car Beats by Audio MotorSports in Carson, 20.7 miles. Call (213) 429-1092.
+meta: Amplifier installation and speaker replacement for South Pasadena drivers at LA Car Beats by Audio MotorSports in Carson, 20.7 miles. Call (310) 513-8800.
 ---
 # Amplifier Installation for South Pasadena Drivers
 
@@ -22,7 +22,7 @@ South Pasadena drivers who want their stereo loud and clean, not loud and harsh,
 
 ## South Pasadena to the Carson shop
 
-The trip from South Pasadena is about 20.7 miles, roughly 41 to 50 minutes outside rush hour (approx). Hours are Monday through Saturday 9:30 to 6:00, closed Sunday. Reserve a time at (213) 429-1092 or text (213) 429-1092. A first amplifier installation with a new power run is a drop-off; a swap onto existing wiring can be waited on. [SHOP NOTE: 2-3 sentences from Nick about South Pasadena customers, routes or jobs]
+The trip from South Pasadena is about 20.7 miles, roughly 41 to 50 minutes outside rush hour (approx). Hours are Monday through Saturday 9:30 to 6:00, closed Sunday. Reserve a time at (310) 513-8800 or text (213) 429-1092. A first amplifier installation with a new power run is a drop-off; a swap onto existing wiring can be waited on. [SHOP NOTE: 2-3 sentences from Nick about South Pasadena customers, routes or jobs]
 
 <!-- owner-details-2026-10-07 -->
 Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which South Pasadena customers tell us makes the drop-off painless. South Pasadena customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from South Pasadena.
@@ -64,7 +64,7 @@ Car stereo installation pages for nearby cities:
 
 ## Book from South Pasadena
 
-Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -76,7 +76,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio 
    "name": "South Pasadena Amplifier Installation | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-south-pasadena/",
    "dateModified": "2026-10-08",
-   "description": "Amplifier installation and speaker replacement for South Pasadena drivers at LA Car Beats by Audio MotorSports in Carson, 20.7 miles. Call (213) 429-1092.",
+   "description": "Amplifier installation and speaker replacement for South Pasadena drivers at LA Car Beats by Audio MotorSports in Carson, 20.7 miles. Call (310) 513-8800.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

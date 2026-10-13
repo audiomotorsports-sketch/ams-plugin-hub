@@ -4,7 +4,7 @@ city: Garden Grove
 miles: 18.9
 lead_service: car window tint
 title: Car Window Tint Garden Grove | LA Car Tint, Carson
-meta: Car window tint for Garden Grove commuters, Solar and Solar Ceramic film installed by hand at Audio MotorSports in Carson, 18.9 miles away. Call (213) 429-1092.
+meta: Car window tint for Garden Grove commuters, Solar and Solar Ceramic film installed by hand at Audio MotorSports in Carson, 18.9 miles away. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Window Tint for Garden Grove Commuters, by Audio MotorSports, Carson
@@ -64,7 +64,7 @@ Solar car window tint $249 installed and Solar Ceramic $329 installed, as of Oct
 
 ## Book it
 
-Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
+Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
 
 ```json
 {
@@ -75,7 +75,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-garden-grove/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-garden-grove/",
    "name": "Car Window Tint Garden Grove | LA Car Tint, Carson",
-   "description": "Car window tint for Garden Grove commuters, Solar and Solar Ceramic film installed by hand at Audio MotorSports in Carson, 18.9 miles away. Call (213) 429-1092.",
+   "description": "Car window tint for Garden Grove commuters, Solar and Solar Ceramic film installed by hand at Audio MotorSports in Carson, 18.9 miles away. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

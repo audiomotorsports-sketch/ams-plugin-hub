@@ -5,7 +5,7 @@ miles: 5.9
 lead_service: Tesla window tint (Model X)
 source: hub-mounted copy; standalone www host not verified
 title: Model X Tint for Alondra Park Teslas | Tesla Tint LA
-meta: Model X and every other Tesla tinted with ceramic film for Alondra Park drivers at Audio MotorSports, Carson, about 5.9 miles. Call (213) 429-1092.
+meta: Model X and every other Tesla tinted with ceramic film for Alondra Park drivers at Audio MotorSports, Carson, about 5.9 miles. Call (310) 513-8800.
 ---
 # Model X Window Tint for Alondra Park, Done in Carson
 
@@ -67,7 +67,7 @@ Tesla window tint is quoted by model at the shop, with the Model X at the top of
 
 ## Book it
 
-Call (213) 429-1092, text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (310) 513-8800, text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -78,7 +78,7 @@ Call (213) 429-1092, text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-alondra-park/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-alondra-park/",
    "name": "Model X Tint for Alondra Park Teslas | Tesla Tint LA",
-   "description": "Model X and every other Tesla tinted with ceramic film for Alondra Park drivers at Audio MotorSports, Carson, about 5.9 miles. Call (213) 429-1092.",
+   "description": "Model X and every other Tesla tinted with ceramic film for Alondra Park drivers at Audio MotorSports, Carson, about 5.9 miles. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

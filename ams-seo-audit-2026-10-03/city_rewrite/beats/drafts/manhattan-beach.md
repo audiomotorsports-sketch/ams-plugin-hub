@@ -6,7 +6,7 @@ lead_service: speaker replacement
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Manhattan Beach Speaker Replacement | LA Car Beats
-meta: Speaker replacement and amplifier installation for Manhattan Beach drivers at LA Car Beats by Audio MotorSports in Carson, 9.3 miles away. Call (213) 429-1092.
+meta: Speaker replacement and amplifier installation for Manhattan Beach drivers at LA Car Beats by Audio MotorSports in Carson, 9.3 miles away. Call (310) 513-8800.
 ---
 # Speaker Replacement for Manhattan Beach Drivers
 
@@ -22,7 +22,7 @@ Manhattan Beach drivers upgrade dull or crackling factory speakers at LA Car Bea
 
 ## Manhattan Beach to the shop
 
-Manhattan Beach is about 9.3 miles from 22025 S Avalon Blvd, roughly 19 to 22 minutes outside rush hour (approx). The shop is open Monday through Saturday 9:30 to 6:00 and closed Sunday. Reserve a time at (213) 429-1092 or text (213) 429-1092. Front speakers alone can be waited on; a four-door speaker replacement with an amplifier is a morning drop-off. [SHOP NOTE: 2-3 sentences from Nick about Manhattan Beach customers, routes or jobs]
+Manhattan Beach is about 9.3 miles from 22025 S Avalon Blvd, roughly 19 to 22 minutes outside rush hour (approx). The shop is open Monday through Saturday 9:30 to 6:00 and closed Sunday. Reserve a time at (310) 513-8800 or text (213) 429-1092. Front speakers alone can be waited on; a four-door speaker replacement with an amplifier is a morning drop-off. [SHOP NOTE: 2-3 sentences from Nick about Manhattan Beach customers, routes or jobs]
 
 <!-- owner-details-2026-10-07 -->
 Plenty of Manhattan Beach drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Manhattan Beach traffic sends you.
@@ -64,7 +64,7 @@ Nearby car stereo installation pages:
 
 ## Book from Manhattan Beach
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -76,7 +76,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "name": "Manhattan Beach Speaker Replacement | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-manhattan-beach/",
    "dateModified": "2026-10-08",
-   "description": "Speaker replacement and amplifier installation for Manhattan Beach drivers at LA Car Beats by Audio MotorSports in Carson, 9.3 miles away. Call (213) 429-1092.",
+   "description": "Speaker replacement and amplifier installation for Manhattan Beach drivers at LA Car Beats by Audio MotorSports in Carson, 9.3 miles away. Call (310) 513-8800.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

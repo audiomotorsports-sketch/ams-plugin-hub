@@ -4,7 +4,7 @@ city: Cerritos
 miles: 11.7
 lead_service: car stereo installation
 title: Car Stereo Installation Cerritos | LA Car Beats by AMS
-meta: Car stereo installation and head unit installation for Cerritos drivers at LA Car Beats by Audio MotorSports in Carson. Speakers, subs. Call (213) 429-1092.
+meta: Car stereo installation and head unit installation for Cerritos drivers at LA Car Beats by Audio MotorSports in Carson. Speakers, subs. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Stereo Installation for Cerritos Drivers
@@ -66,7 +66,7 @@ LA Car Beats pages for Cerritos neighbors:
 
 ## Book car stereo installation in Carson
 
-Text (213) 429-1092 or call (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30 to 6:00, Sunday closed.
+Text (213) 429-1092 or call (310) 513-8800. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30 to 6:00, Sunday closed.
 
 ```json
 {
@@ -77,7 +77,7 @@ Text (213) 429-1092 or call (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-cerritos/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-cerritos/",
    "name": "Car Stereo Installation Cerritos | LA Car Beats by AMS",
-   "description": "Car stereo installation and head unit installation for Cerritos drivers at LA Car Beats by Audio MotorSports in Carson. Speakers, subs. Call (213) 429-1092.",
+   "description": "Car stereo installation and head unit installation for Cerritos drivers at LA Car Beats by Audio MotorSports in Carson. Speakers, subs. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

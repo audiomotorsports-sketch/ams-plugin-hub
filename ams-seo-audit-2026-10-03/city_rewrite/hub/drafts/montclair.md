@@ -4,7 +4,7 @@ city: Montclair
 miles: 46.3
 lead_service: car stereo installation
 title: Car Stereo Installation for Montclair | Audio MotorSports
-meta: Montclair car stereo installation, subwoofer and amplifier installs, window tint and alarms at Audio MotorSports in Carson, 46.3 miles. (213) 429-1092.
+meta: Montclair car stereo installation, subwoofer and amplifier installs, window tint and alarms at Audio MotorSports in Carson, 46.3 miles. (310) 513-8800.
 ---
 # Car Stereo Installation for Montclair Drivers
 
@@ -59,7 +59,7 @@ Dual Kicker Comp box $249 box only. Solar window tint $249, Solar Ceramic $329 i
 
 ## Book car stereo installation from Montclair
 
-Call (213) 429-1092 or text (213) 429-1092 with the vehicle and what you want it to do. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092 with the vehicle and what you want it to do. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -70,7 +70,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the vehicle and what you want it
    "@id": "https://www.audiomotorsports.com/montclair/#webpage",
    "url": "https://www.audiomotorsports.com/montclair/",
    "name": "Car Stereo Installation for Montclair | Audio MotorSports",
-   "description": "Montclair car stereo installation, subwoofer and amplifier installs, window tint and alarms at Audio MotorSports in Carson, 46.3 miles. (213) 429-1092.",
+   "description": "Montclair car stereo installation, subwoofer and amplifier installs, window tint and alarms at Audio MotorSports in Carson, 46.3 miles. (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

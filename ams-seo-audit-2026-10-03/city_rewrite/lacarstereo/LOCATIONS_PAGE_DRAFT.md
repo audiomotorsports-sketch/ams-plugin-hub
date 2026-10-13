@@ -4,7 +4,7 @@ page: Locations (rewrite of the live 123-city list)
 brand: LA Car Stereo by Audio MotorSports, Carson
 lead_service: car stereo installation
 title: Car Stereo Installation Near You: 123 Cities | LA Car Stereo
-meta: LA Car Stereo in Carson installs car audio for drivers from 123 LA-area cities. See miles and drive times, then book by call or text (213) 429-1092.
+meta: LA Car Stereo in Carson installs car audio for drivers from 123 LA-area cities. See miles and drive times, then book by call (310) 513-8800 or text (213) 429-1092.
 ---
 # Car Stereo Installation From 123 Cities: LA Car Stereo in Carson
 
@@ -12,7 +12,7 @@ LA Car Stereo, the car audio shop of Audio MotorSports, is at 22025 S Avalon Blv
 
 ## How a visit works
 
-1. **Book.** Call or text (213) 429-1092 to schedule your car audio installation.
+1. **Book.** Call (310) 513-8800 or text (213) 429-1092 to schedule your car audio installation.
 2. **Drop off or wait inside.** Leave the car with the shop, or stay. The waiting area has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain.
 3. **Walk around if you like.** A mall, movie theaters, restaurants and a Starbucks are within walking distance of the shop.
 4. **Easy to reach.** The shop is right off the 110 freeway, with easy access from the 405 and the 710, so three freeways lead to it.
@@ -207,7 +207,7 @@ The farthest cities on the list are east in the Inland Empire and north in the A
 
 ### Do I need an appointment for car stereo installation in Carson?
 
-Yes, installs are by appointment. Call or text (213) 429-1092 to book. The shop is open Monday through Saturday, 9:30 AM to 6:00 PM, and closed Sunday. Same-day installs are sometimes possible at opening, so ask when you call. Booking does not require a deposit.
+Yes, installs are by appointment. Call (310) 513-8800 or text (213) 429-1092 to book. The shop is open Monday through Saturday, 9:30 AM to 6:00 PM, and closed Sunday. Same-day installs are sometimes possible at opening, so ask when you call. Booking does not require a deposit.
 
 ### How far is LA Car Stereo from my city, and is the drive worth it?
 
@@ -215,7 +215,7 @@ The closest city on this list is West Carson at 1.8 miles and the farthest is La
 
 ### What does car stereo installation cost at LA Car Stereo?
 
-Car stereo installation labor is from $149, as of October 2026. The final price depends on your vehicle and the equipment, so the shop quotes it before work starts. Call or text (213) 429-1092 with your year, make and model, and ask what a car stereo installation would run for your car.
+Car stereo installation labor is from $149, as of October 2026. The final price depends on your vehicle and the equipment, so the shop quotes it before work starts. Call (310) 513-8800 or text (213) 429-1092 with your year, make and model, and ask what a car stereo installation would run for your car.
 
 ### Where can I wait while my car stereo is being installed?
 
@@ -227,7 +227,7 @@ Yes. Everyone is welcome, and the shop is LGBTQ-friendly. Customers rate it Goog
 
 ## Book your install
 
-Call or text (213) 429-1092. LA Car Stereo, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30 AM to 6:00 PM, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. LA Car Stereo, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -238,7 +238,7 @@ Call or text (213) 429-1092. LA Car Stereo, 22025 S Avalon Blvd Ste A, Carson, C
       "@id": "https://www.lacarstereo.com/locations/#webpage",
       "url": "https://www.lacarstereo.com/locations/",
       "name": "Car Stereo Installation Near You: 123 Cities | LA Car Stereo",
-      "description": "LA Car Stereo in Carson installs car audio for drivers from 123 LA-area cities. See miles and drive times, then book by call or text (213) 429-1092.",
+      "description": "LA Car Stereo in Carson installs car audio for drivers from 123 LA-area cities. See miles and drive times, then book by call (310) 513-8800 or text (213) 429-1092.",
       "dateModified": "2026-10-08",
       "about": {
         "@id": "https://www.audiomotorsports.com/#business"
@@ -274,7 +274,7 @@ Call or text (213) 429-1092. LA Car Stereo, 22025 S Avalon Blvd Ste A, Carson, C
           "name": "Do I need an appointment for car stereo installation in Carson?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, installs are by appointment. Call or text (213) 429-1092 to book. The shop is open Monday through Saturday, 9:30 AM to 6:00 PM, and closed Sunday. Same-day installs are sometimes possible at opening, so ask when you call. Booking does not require a deposit."
+            "text": "Yes, installs are by appointment. Call (310) 513-8800 or text (213) 429-1092 to book. The shop is open Monday through Saturday, 9:30 AM to 6:00 PM, and closed Sunday. Same-day installs are sometimes possible at opening, so ask when you call. Booking does not require a deposit."
           }
         },
         {
@@ -290,7 +290,7 @@ Call or text (213) 429-1092. LA Car Stereo, 22025 S Avalon Blvd Ste A, Carson, C
           "name": "What does car stereo installation cost at LA Car Stereo?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Car stereo installation labor is from $149, as of October 2026. The final price depends on your vehicle and the equipment, so the shop quotes it before work starts. Call or text (213) 429-1092 with your year, make and model, and ask what a car stereo installation would run for your car."
+            "text": "Car stereo installation labor is from $149, as of October 2026. The final price depends on your vehicle and the equipment, so the shop quotes it before work starts. Call (310) 513-8800 or text (213) 429-1092 with your year, make and model, and ask what a car stereo installation would run for your car."
           }
         },
         {

@@ -4,7 +4,7 @@ city: Lomita
 miles: 3.7
 lead_service: Tesla window tint (cabin heat)
 title: Tesla Window Tint for Lomita | Tesla Tint LA, Carson
-meta: Tesla window tint for Lomita owners at Tesla Tint LA by Audio MotorSports in Carson, 3.7 miles away. Ceramic film for cabin heat. Call (213) 429-1092.
+meta: Tesla window tint for Lomita owners at Tesla Tint LA by Audio MotorSports in Carson, 3.7 miles away. Ceramic film for cabin heat. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla Window Tint for Lomita: Beat the Cabin Heat
@@ -60,7 +60,7 @@ Tesla window tint is quoted by model at the shop, because Model 3, Model Y, Mode
 
 ## Book it
 
-Call (213) 429-1092 or text (213) 429-1092 with your model and year. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with your model and year. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

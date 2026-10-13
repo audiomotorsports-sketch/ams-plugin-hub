@@ -4,7 +4,7 @@ city: West Hollywood
 miles: 18.8
 lead_service: car alarm & remote start installation
 title: Car Alarm Installation, West Hollywood | Audio MotorSports
-meta: West Hollywood car alarm installation, remote start and GPS trackers plus window tint and car stereo at Audio MotorSports in Carson, 18.8 miles. (213) 429-1092.
+meta: West Hollywood car alarm installation, remote start and GPS trackers plus window tint and car stereo at Audio MotorSports in Carson, 18.8 miles. (310) 513-8800.
 ---
 # Car Alarm Installation and Remote Start for West Hollywood
 
@@ -61,7 +61,7 @@ Also on the drive-in list: [Beverly Hills](/beverly-hills/), [Hollywood](/hollyw
 
 ## Book West Hollywood alarm installation
 
-Call (213) 429-1092 or text (213) 429-1092 with your year, make and model. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday to Saturday 9:30 AM to 6:00 PM, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with your year, make and model. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday to Saturday 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -72,7 +72,7 @@ Call (213) 429-1092 or text (213) 429-1092 with your year, make and model. Audio
    "@id": "https://www.audiomotorsports.com/west-hollywood/#webpage",
    "url": "https://www.audiomotorsports.com/west-hollywood/",
    "name": "Car Alarm Installation, West Hollywood | Audio MotorSports",
-   "description": "West Hollywood car alarm installation, remote start and GPS tracker installs plus window tint and car stereo at Audio MotorSports in Carson, 18.8 miles away. Call (213) 429-1092.",
+   "description": "West Hollywood car alarm installation, remote start and GPS tracker installs plus window tint and car stereo at Audio MotorSports in Carson, 18.8 miles away. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

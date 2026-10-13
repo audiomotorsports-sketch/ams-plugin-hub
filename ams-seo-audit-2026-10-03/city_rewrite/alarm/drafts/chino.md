@@ -5,7 +5,7 @@ city: Chino
 miles: 44.0
 lead_service: Viper alarm installation
 title: Viper Alarm Installation, Chino | LA Car Alarm
-meta: Viper alarm installation for Chino drivers at LA Car Alarm by Audio MotorSports in Carson, plus remote start and GPS. Call (213) 429-1092.
+meta: Viper alarm installation for Chino drivers at LA Car Alarm by Audio MotorSports in Carson, plus remote start and GPS. Call (310) 513-8800.
 ---
 # Viper Alarm Installation for Chino Drivers
 
@@ -59,7 +59,7 @@ Viper 3108V $269 installed. Compustar 9910 remote start from $499. The cost of a
 
 ## Book your Chino alarm install
 
-Call (213) 429-1092 or text (213) 429-1092. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

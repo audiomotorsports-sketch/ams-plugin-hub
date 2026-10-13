@@ -4,7 +4,7 @@ city: Hidden Hills
 miles: 32.3
 lead_service: car window tint / ceramic window tint
 title: Ceramic Window Tint for Hidden Hills | Audio MotorSports
-meta: Ceramic window tint, Tesla tint, car stereo installation and alarm installs for Hidden Hills drivers at Audio MotorSports in Carson, 32.3 miles. (213) 429-1092.
+meta: Ceramic window tint, Tesla tint, car stereo installation and alarm installs for Hidden Hills drivers at Audio MotorSports in Carson, 32.3 miles. (310) 513-8800.
 ---
 # Ceramic Window Tint for Hidden Hills Drivers
 
@@ -33,7 +33,7 @@ If you would rather wait inside than make two trips from Hidden Hills, the shop 
 
 ### Is Carson too far from Hidden Hills for window tint?
 
-No. It is 32.3 miles, roughly sixty-five to seventy-eight minutes outside rush hour, and the install is what makes the trip worthwhile: film hand-cut on your glass in a clean bay, cured properly, with fronts at a legal shade. Book by calling (213) 429-1092 or texting (213) 429-1092.
+No. It is 32.3 miles, roughly sixty-five to seventy-eight minutes outside rush hour, and the install is what makes the trip worthwhile: film hand-cut on your glass in a clean bay, cured properly, with fronts at a legal shade. Book by calling (310) 513-8800 or texting (213) 429-1092.
 
 ### What makes ceramic window tint better for a car that sits in the sun?
 
@@ -64,7 +64,7 @@ Solar car window tint $249 installed; Solar Ceramic $329 installed. Viper 3108V 
 
 ## Schedule from Hidden Hills
 
-Text the year, make and model to (213) 429-1092 or call (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00, closed Sunday. Drop off or wait on site.
+Text the year, make and model to (213) 429-1092 or call (310) 513-8800. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00, closed Sunday. Drop off or wait on site.
 
 ```json
 {
@@ -75,7 +75,7 @@ Text the year, make and model to (213) 429-1092 or call (213) 429-1092. Audio Mo
    "@id": "https://www.audiomotorsports.com/hidden-hills/#webpage",
    "url": "https://www.audiomotorsports.com/hidden-hills/",
    "name": "Ceramic Window Tint for Hidden Hills | Audio MotorSports",
-   "description": "Ceramic window tint, Tesla tint, car stereo installation and alarm installs for Hidden Hills drivers at Audio MotorSports in Carson, 32.3 miles. (213) 429-1092.",
+   "description": "Ceramic window tint, Tesla tint, car stereo installation and alarm installs for Hidden Hills drivers at Audio MotorSports in Carson, 32.3 miles. (310) 513-8800.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {
@@ -118,7 +118,7 @@ Text the year, make and model to (213) 429-1092 or call (213) 429-1092. Audio Mo
      "name": "Is Carson too far from Hidden Hills for window tint?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "No. It is 32.3 miles, roughly sixty-five to seventy-eight minutes outside rush hour, and the install is what makes the trip worthwhile: film hand-cut on your glass in a clean bay, cured properly, with fronts at a legal shade. Book by calling (213) 429-1092 or texting (213) 429-1092."
+      "text": "No. It is 32.3 miles, roughly sixty-five to seventy-eight minutes outside rush hour, and the install is what makes the trip worthwhile: film hand-cut on your glass in a clean bay, cured properly, with fronts at a legal shade. Book by calling (310) 513-8800 or texting (213) 429-1092."
      }
     },
     {

@@ -5,7 +5,7 @@ miles: 2.8
 lead_service: Tesla window tint (Model Y)
 source: hub-mounted copy; standalone www host not verified
 title: Model Y Window Tint for Harbor City | Tesla Tint LA
-meta: Tesla window tint for Harbor City Model Y, 3, S and X owners, installed in Carson at 22025 S Avalon Blvd, 2.8 miles away. Call (213) 429-1092.
+meta: Tesla window tint for Harbor City Model Y, 3, S and X owners, installed in Carson at 22025 S Avalon Blvd, 2.8 miles away. Call (310) 513-8800.
 ---
 # Tesla Window Tint for Harbor City: Model Y First
 
@@ -67,7 +67,7 @@ Tesla window tint is quoted by model at the shop; call or text with the year and
 
 ## Book your Tesla tint
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -78,7 +78,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-harbor-city/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-harbor-city/",
    "name": "Model Y Window Tint for Harbor City | Tesla Tint LA",
-   "description": "Tesla window tint for Harbor City Model Y, 3, S and X owners, installed in Carson at 22025 S Avalon Blvd, 2.8 miles away. Call (213) 429-1092.",
+   "description": "Tesla window tint for Harbor City Model Y, 3, S and X owners, installed in Carson at 22025 S Avalon Blvd, 2.8 miles away. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

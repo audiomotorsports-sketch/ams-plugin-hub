@@ -4,7 +4,7 @@ city: Hollywood
 miles: 23.3
 lead_service: car window tint / ceramic window tint
 title: Window Tinting for Hollywood Drivers | Audio MotorSports
-meta: Car window tint, ceramic window tint, car stereo installation and alarms for Hollywood drivers at Audio MotorSports in Carson, 23.3 miles. Call (213) 429-1092.
+meta: Car window tint, ceramic window tint, car stereo installation and alarms for Hollywood drivers at Audio MotorSports in Carson, 23.3 miles. Call (310) 513-8800.
 ---
 # Car Window Tint & Window Tinting for Hollywood
 
@@ -45,7 +45,7 @@ No. Ceramic film blocks heat through the ceramic layer rather than the color, so
 
 ### Can I wait at the shop while my car is tinted?
 
-Yes. A sedan or coupe takes roughly two to three hours and most people wait inside. A larger SUV or a Tesla with the rear glass takes longer, so dropping off and picking up later is the better plan. Set the time by calling (213) 429-1092 or texting (213) 429-1092.
+Yes. A sedan or coupe takes roughly two to three hours and most people wait inside. A larger SUV or a Tesla with the rear glass takes longer, so dropping off and picking up later is the better plan. Set the time by calling (310) 513-8800 or texting (213) 429-1092.
 
 ### Do you install dash cameras for cars parked on the street overnight?
 
@@ -65,7 +65,7 @@ Solar car window tint is $249 installed. Solar Ceramic window tint is $329 insta
 
 ## Book your tint
 
-Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. The shop is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00, closed Sunday. Drop off or wait.
+Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. The shop is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00, closed Sunday. Drop off or wait.
 
 ```json
 {
@@ -76,7 +76,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. The sh
    "@id": "https://www.audiomotorsports.com/hollywood/#webpage",
    "url": "https://www.audiomotorsports.com/hollywood/",
    "name": "Window Tinting for Hollywood Drivers | Audio MotorSports",
-   "description": "Car window tint, ceramic window tint, car stereo installation and alarms for Hollywood drivers at Audio MotorSports in Carson, 23.3 miles. Call (213) 429-1092.",
+   "description": "Car window tint, ceramic window tint, car stereo installation and alarms for Hollywood drivers at Audio MotorSports in Carson, 23.3 miles. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -142,7 +142,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. The sh
      "name": "Can I wait at the shop while my car is tinted?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. A sedan or coupe takes roughly two to three hours and most people wait inside. A larger SUV or a Tesla with the rear glass takes longer, so dropping off and picking up later is the better plan. Set the time by calling (213) 429-1092 or texting (213) 429-1092."
+      "text": "Yes. A sedan or coupe takes roughly two to three hours and most people wait inside. A larger SUV or a Tesla with the rear glass takes longer, so dropping off and picking up later is the better plan. Set the time by calling (310) 513-8800 or texting (213) 429-1092."
      }
     },
     {

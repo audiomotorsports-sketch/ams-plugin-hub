@@ -4,7 +4,7 @@ city: Costa Mesa
 miles: 23.7
 lead_service: Tesla window tint
 title: Tesla Window Tint & Audio, Costa Mesa | Audio MotorSports
-meta: Tesla window tint, ceramic window tint, car stereo installation and alarm installs for Costa Mesa drivers at Audio MotorSports in Carson. Call (213) 429-1092.
+meta: Tesla window tint, ceramic window tint, car stereo installation and alarm installs for Costa Mesa drivers at Audio MotorSports in Carson. Call (310) 513-8800.
 ---
 # Tesla Window Tint for Costa Mesa Owners
 
@@ -27,7 +27,7 @@ For a longer job from Costa Mesa, some people walk to the mall, the movie theate
 
 ## Costa Mesa to the Carson bay
 
-Figure about 23.7 miles and roughly 47 to 57 minutes (approx) with clear roads. We are open Monday through Saturday 9:30 AM to 6:00 PM and closed Sunday. Book a time, then drop the car or wait at the shop during the tint. Call (213) 429-1092 or text (213) 429-1092 with the model and year. Costa Mesa owners can check the shop first on Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
+Figure about 23.7 miles and roughly 47 to 57 minutes (approx) with clear roads. We are open Monday through Saturday 9:30 AM to 6:00 PM and closed Sunday. Book a time, then drop the car or wait at the shop during the tint. Call (310) 513-8800 or text (213) 429-1092 with the model and year. Costa Mesa owners can check the shop first on Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 [SHOP NOTE: 2-3 sentences from Nick about Costa Mesa customers, routes or jobs]
 
@@ -74,7 +74,7 @@ Audio, amplifier, GPS tracker and dash camera installs are priced after a look a
 
 ## Book Tesla tint from Costa Mesa
 
-Call (213) 429-1092. Text (213) 429-1092 with the model. The bay is at 22025 S Avalon Blvd Ste A in Carson, CA 90745, open Mon-Sat 9:30-18:00, closed Sunday.
+Call (310) 513-8800. Text (213) 429-1092 with the model. The bay is at 22025 S Avalon Blvd Ste A in Carson, CA 90745, open Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -85,7 +85,7 @@ Call (213) 429-1092. Text (213) 429-1092 with the model. The bay is at 22025 S A
    "@id": "https://www.audiomotorsports.com/costa-mesa/#webpage",
    "url": "https://www.audiomotorsports.com/costa-mesa/",
    "name": "Tesla Window Tint & Audio, Costa Mesa | Audio MotorSports",
-   "description": "Tesla window tint, ceramic window tint, car stereo installation and alarm installs for Costa Mesa drivers at Audio MotorSports in Carson. Call (213) 429-1092.",
+   "description": "Tesla window tint, ceramic window tint, car stereo installation and alarm installs for Costa Mesa drivers at Audio MotorSports in Carson. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

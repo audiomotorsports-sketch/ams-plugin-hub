@@ -6,7 +6,7 @@ lead_service: truck and work-vehicle car stereo installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: City of Industry Car Stereo Installation | LA Car Beats
-meta: Car stereo installation and head unit installation for City of Industry work trucks at LA Car Beats, Audio MotorSports, Carson. Call (213) 429-1092.
+meta: Car stereo installation and head unit installation for City of Industry work trucks at LA Car Beats, Audio MotorSports, Carson. Call (310) 513-8800.
 ---
 # Car Stereo Installation for City of Industry Trucks and Vans
 
@@ -22,7 +22,7 @@ Work trucks and vans from City of Industry come to LA Car Beats for car stereo i
 
 ## City of Industry to Carson
 
-From City of Industry the shop is about 27.2 miles, roughly 54 to 65 minutes outside rush hour (approx). Schedule at (213) 429-1092 or text (213) 429-1092. For a work vehicle the practical plan is a morning drop-off with pickup late afternoon; a head unit alone can be waited on. Monday to Saturday 9:30 to 6:00, closed Sunday. [SHOP NOTE: 2-3 sentences from Nick about City of Industry customers, routes or jobs]
+From City of Industry the shop is about 27.2 miles, roughly 54 to 65 minutes outside rush hour (approx). Schedule at (310) 513-8800 or text (213) 429-1092. For a work vehicle the practical plan is a morning drop-off with pickup late afternoon; a head unit alone can be waited on. Monday to Saturday 9:30 to 6:00, closed Sunday. [SHOP NOTE: 2-3 sentences from Nick about City of Industry customers, routes or jobs]
 
 <!-- owner-details-2026-10-07 -->
 Waiting inside is easy for City of Industry customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. From City of Industry you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
@@ -59,7 +59,7 @@ LA Car Beats pages for neighboring cities: [Hacienda Heights](/beats/car-stereo-
 
 ## Book from City of Industry
 
-Tell us the vehicle and whether it has wheel buttons or a camera already, and the quote is ready before you arrive. Call (213) 429-1092 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Tell us the vehicle and whether it has wheel buttons or a camera already, and the quote is ready before you arrive. Call (310) 513-8800 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -70,7 +70,7 @@ Tell us the vehicle and whether it has wheel buttons or a camera already, and th
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-city-of-industry/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-city-of-industry/",
    "name": "City of Industry Car Stereo Installation | LA Car Beats",
-   "description": "Car stereo installation and head unit installation for City of Industry work trucks at LA Car Beats, Audio MotorSports, Carson. Call (213) 429-1092.",
+   "description": "Car stereo installation and head unit installation for City of Industry work trucks at LA Car Beats, Audio MotorSports, Carson. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

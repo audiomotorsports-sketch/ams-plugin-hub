@@ -4,7 +4,7 @@ city: Cudahy
 miles: 10.0
 lead_service: car window tint / ceramic window tint
 title: Car Window Tint for Cudahy Drivers | Audio MotorSports
-meta: Cudahy car window tint and ceramic window tint, plus car stereo and alarm installation at Audio MotorSports in Carson, 10 miles away. Call (213) 429-1092.
+meta: Cudahy car window tint and ceramic window tint, plus car stereo and alarm installation at Audio MotorSports in Carson, 10 miles away. Call (310) 513-8800.
 ---
 # Car Window Tint and Ceramic Window Tint for Cudahy
 
@@ -61,7 +61,7 @@ A few minutes from Cudahy and on the same route to Carson: [Bell](/bell/), [Sout
 
 ## Book Cudahy window tinting
 
-Call (213) 429-1092 or text (213) 429-1092 with the car and the shade you want. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30 AM to 6:00 PM, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092 with the car and the shade you want. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -72,7 +72,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the car and the shade you want. 
    "@id": "https://www.audiomotorsports.com/cudahy/#webpage",
    "url": "https://www.audiomotorsports.com/cudahy/",
    "name": "Car Window Tint for Cudahy Drivers | Audio MotorSports",
-   "description": "Cudahy car window tint and ceramic window tint, plus car stereo and alarm installation at Audio MotorSports in Carson, 10 miles away. Call (213) 429-1092.",
+   "description": "Cudahy car window tint and ceramic window tint, plus car stereo and alarm installation at Audio MotorSports in Carson, 10 miles away. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

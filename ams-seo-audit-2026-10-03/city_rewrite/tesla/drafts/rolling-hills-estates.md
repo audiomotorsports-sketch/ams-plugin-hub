@@ -4,7 +4,7 @@ city: Rolling Hills Estates
 miles: 6.0
 lead_service: Tesla window tint (Model X)
 title: Rolling Hills Estates Tesla Tint | Tesla Tint LA, Carson
-meta: Model X and all Tesla window tint for Rolling Hills Estates at Tesla Tint LA by Audio MotorSports in Carson, 6 miles away. Ceramic film. Call (213) 429-1092.
+meta: Model X and all Tesla window tint for Rolling Hills Estates at Tesla Tint LA by Audio MotorSports in Carson, 6 miles away. Ceramic film. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla Window Tint for Rolling Hills Estates: Model X and the Rest
@@ -60,7 +60,7 @@ Every Model X, like every Tesla here, gets its own quote by model at the shop. T
 
 ## Book the X
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

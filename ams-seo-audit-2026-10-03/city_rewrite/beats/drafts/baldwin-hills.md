@@ -6,7 +6,7 @@ lead_service: factory-screen Apple CarPlay and Android Auto installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Baldwin Hills CarPlay Installation | LA Car Beats
-meta: Apple CarPlay and Android Auto installation on factory screens for Baldwin Hills drivers at LA Car Beats, Audio MotorSports, Carson. Call (213) 429-1092.
+meta: Apple CarPlay and Android Auto installation on factory screens for Baldwin Hills drivers at LA Car Beats, Audio MotorSports, Carson. Call (310) 513-8800.
 ---
 # Apple CarPlay and Android Auto Installation for Baldwin Hills
 
@@ -22,7 +22,7 @@ Baldwin Hills drivers with a newer car and a factory screen that will not run Ca
 
 ## Baldwin Hills to the shop
 
-Baldwin Hills is about 13.3 miles from the Carson bay, roughly 27 to 32 minutes outside rush hour (approx). Call (213) 429-1092 or text (213) 429-1092 for a time. An interface install can be waited on; a head unit plus speakers is a drop-off. Monday through Saturday 9:30 to 6:00, closed Sunday. Customers have driven from Temecula for CarPlay work, so Baldwin Hills is a quick run by comparison.
+Baldwin Hills is about 13.3 miles from the Carson bay, roughly 27 to 32 minutes outside rush hour (approx). Call (310) 513-8800 or text (213) 429-1092 for a time. An interface install can be waited on; a head unit plus speakers is a drop-off. Monday through Saturday 9:30 to 6:00, closed Sunday. Customers have driven from Temecula for CarPlay work, so Baldwin Hills is a quick run by comparison.
 
 <!-- owner-details-2026-10-07 -->
 Waiting inside is easy for Baldwin Hills customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Baldwin Hills.
@@ -59,7 +59,7 @@ LA Car Beats pages for neighboring areas: [View Park-Windsor Hills](/beats/car-s
 
 ## Book from Baldwin Hills
 
-Year, model and whether the screen runs climate is all we need to pick the right install. Call (213) 429-1092 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Year, model and whether the screen runs climate is all we need to pick the right install. Call (310) 513-8800 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -70,7 +70,7 @@ Year, model and whether the screen runs climate is all we need to pick the right
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-baldwin-hills/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-baldwin-hills/",
    "name": "Baldwin Hills CarPlay Installation | LA Car Beats",
-   "description": "Apple CarPlay and Android Auto installation on factory screens for Baldwin Hills drivers at LA Car Beats, Audio MotorSports, Carson. Call (213) 429-1092.",
+   "description": "Apple CarPlay and Android Auto installation on factory screens for Baldwin Hills drivers at LA Car Beats, Audio MotorSports, Carson. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

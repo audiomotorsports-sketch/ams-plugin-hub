@@ -4,12 +4,12 @@ city: El Segundo
 miles: 10.8
 lead_service: car window tint (glare)
 title: Car Window Tint El Segundo | LA Car Tint, Carson
-meta: Glare-cutting car window tint and ceramic window tinting for El Segundo commuters at LA Car Tint by Audio MotorSports, Carson, 10.8 miles. Call (213) 429-1092.
+meta: Glare-cutting car window tint and ceramic window tinting for El Segundo commuters at LA Car Tint by Audio MotorSports, Carson, 10.8 miles. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Window Tint for El Segundo Commuters, by Audio MotorSports, Carson
 
-El Segundo drivers who are tired of squinting through low sun on the way home get car window tint at LA Car Tint, inside Audio MotorSports at 22025 S Avalon Blvd Ste A, Carson, about 10.8 miles away. We install Solar and Solar Ceramic window tinting, hand-cut on the glass, plus Tesla window tint, car stereo installation, car alarm installation and dash camera installation in one bay. Call (213) 429-1092.
+El Segundo drivers who are tired of squinting through low sun on the way home get car window tint at LA Car Tint, inside Audio MotorSports at 22025 S Avalon Blvd Ste A, Carson, about 10.8 miles away. We install Solar and Solar Ceramic window tinting, hand-cut on the glass, plus Tesla window tint, car stereo installation, car alarm installation and dash camera installation in one bay. Call (310) 513-8800.
 
 ## What El Segundo drivers bring us
 
@@ -63,7 +63,7 @@ Window tinting here is $249 installed for Solar film and $329 installed for Sola
 
 ## Book it
 
-Call (213) 429-1092, or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 AM-6:00 PM. Sunday closed.
+Call (310) 513-8800, or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 AM-6:00 PM. Sunday closed.
 
 ```json
 {
@@ -74,7 +74,7 @@ Call (213) 429-1092, or text (213) 429-1092. Audio MotorSports, 22025 S Avalon B
    "@id": "https://www.audiomotorsports.com/tint/window-tint-el-segundo/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-el-segundo/",
    "name": "Car Window Tint El Segundo | LA Car Tint, Carson",
-   "description": "Glare-cutting car window tint and ceramic window tinting for El Segundo commuters at LA Car Tint by Audio MotorSports, Carson, 10.8 miles. Call (213) 429-1092.",
+   "description": "Glare-cutting car window tint and ceramic window tinting for El Segundo commuters at LA Car Tint by Audio MotorSports, Carson, 10.8 miles. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

@@ -4,7 +4,7 @@ city: Azusa
 miles: 36.5
 lead_service: window tint
 title: Car Window Tint for Azusa Drivers | Audio MotorSports
-meta: Car window tint and ceramic tinting for Azusa drivers at Audio MotorSports in Carson, 36.5 miles away. Car stereo and alarm installs too. Call (213) 429-1092.
+meta: Car window tint and ceramic tinting for Azusa drivers at Audio MotorSports in Carson, 36.5 miles away. Car stereo and alarm installs too. Call (310) 513-8800.
 ---
 # Car Window Tint for Azusa Drivers
 
@@ -67,7 +67,7 @@ Our pages for the cities around Azusa:
 
 ## Book window tint from Azusa
 
-Call (213) 429-1092 or text (213) 429-1092 with your vehicle details. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday through Saturday 9:30 AM to 6:00 PM, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with your vehicle details. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday through Saturday 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -78,7 +78,7 @@ Call (213) 429-1092 or text (213) 429-1092 with your vehicle details. Audio Moto
    "@id": "https://www.audiomotorsports.com/azusa/#webpage",
    "url": "https://www.audiomotorsports.com/azusa/",
    "name": "Car Window Tint for Azusa Drivers | Audio MotorSports",
-   "description": "Car window tint and ceramic tinting for Azusa drivers at Audio MotorSports in Carson, 36.5 miles away. Car stereo and alarm installs too. Call (213) 429-1092.",
+   "description": "Car window tint and ceramic tinting for Azusa drivers at Audio MotorSports in Carson, 36.5 miles away. Car stereo and alarm installs too. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

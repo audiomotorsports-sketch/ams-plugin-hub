@@ -4,7 +4,7 @@ city: South El Monte
 miles: 19.7
 lead_service: window tinting (work vehicles)
 title: South El Monte Window Tinting | LA Car Tint, Carson
-meta: Window tinting for South El Monte work trucks, vans and family cars, installed by Audio MotorSports in Carson, 19.7 miles away. Call (213) 429-1092 to book.
+meta: Window tinting for South El Monte work trucks, vans and family cars, installed by Audio MotorSports in Carson, 19.7 miles away. Call (310) 513-8800 to book.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Window Tinting for South El Monte Work Trucks and Family Cars
@@ -58,7 +58,7 @@ Solar four-door is $249 installed and Solar Ceramic four-door is $329 installed,
 
 ## Book the truck
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday to Saturday 9:30-18:00 and closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday to Saturday 9:30-18:00 and closed Sunday.
 
 ```json
 {

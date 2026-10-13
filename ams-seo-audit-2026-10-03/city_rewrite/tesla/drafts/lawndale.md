@@ -5,7 +5,7 @@ miles: 6.5
 lead_service: Tesla window tint (Model Y)
 source: hub-mounted copy; standalone www host not verified
 title: Model Y Window Tint for Lawndale | Tesla Tint LA
-meta: Tesla window tint for Lawndale Model Y owners, done in Carson by Audio MotorSports about 6.5 miles away. Ceramic film, cameras kept clear. Call (213) 429-1092.
+meta: Tesla window tint for Lawndale Model Y owners, done in Carson by Audio MotorSports about 6.5 miles away. Ceramic film, cameras kept clear. Call (310) 513-8800.
 ---
 # Model Y Window Tint for Lawndale Owners
 
@@ -67,7 +67,7 @@ Tesla window tint is quoted by model at the shop, so text us the year and model 
 
 ## Book it
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -78,7 +78,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-lawndale/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-lawndale/",
    "name": "Model Y Window Tint for Lawndale | Tesla Tint LA",
-   "description": "Tesla window tint for Lawndale Model Y owners, done in Carson by Audio MotorSports about 6.5 miles away. Ceramic film, cameras kept clear. Call (213) 429-1092.",
+   "description": "Tesla window tint for Lawndale Model Y owners, done in Carson by Audio MotorSports about 6.5 miles away. Ceramic film, cameras kept clear. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

@@ -4,7 +4,7 @@ city: Huntington Beach
 miles: 19.3
 lead_service: Harley bagger audio
 title: Bagger Audio & Tint for Huntington Beach | Audio MotorSports
-meta: Harley bagger audio with AMS pods, window tint, car stereo and alarms for Huntington Beach riders at Audio MotorSports in Carson. Call (213) 429-1092.
+meta: Harley bagger audio with AMS pods, window tint, car stereo and alarms for Huntington Beach riders at Audio MotorSports in Carson. Call (310) 513-8800.
 ---
 # Harley Bagger Audio Installation for Huntington Beach
 
@@ -59,7 +59,7 @@ AMS Harley pods from $649 a pair. Dual Kicker Comp box $249 box only. Window tin
 
 ## Book a Huntington Beach visit
 
-Call (213) 429-1092 or text (213) 429-1092 with the bike or car year, make and model. 22025 S Avalon Blvd Ste A, Carson, CA 90745, is where you are headed; Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with the bike or car year, make and model. 22025 S Avalon Blvd Ste A, Carson, CA 90745, is where you are headed; Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -70,7 +70,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the bike or car year, make and m
    "@id": "https://www.audiomotorsports.com/huntington-beach/#webpage",
    "url": "https://www.audiomotorsports.com/huntington-beach/",
    "name": "Bagger Audio & Tint for Huntington Beach | Audio MotorSports",
-   "description": "Harley bagger audio with AMS pods, window tint, car stereo and alarms for Huntington Beach riders at Audio MotorSports in Carson. Call (213) 429-1092.",
+   "description": "Harley bagger audio with AMS pods, window tint, car stereo and alarms for Huntington Beach riders at Audio MotorSports in Carson. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

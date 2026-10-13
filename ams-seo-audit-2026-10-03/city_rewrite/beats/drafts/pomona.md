@@ -6,7 +6,7 @@ lead_service: subwoofer installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Pomona Subwoofer Installation | LA Car Beats
-meta: Subwoofer installation and amplifier installation for Pomona drivers at LA Car Beats by Audio MotorSports in Carson, 41.6 miles. Call (213) 429-1092 to book.
+meta: Subwoofer installation and amplifier installation for Pomona drivers at LA Car Beats by Audio MotorSports in Carson, 41.6 miles. Call (310) 513-8800 to book.
 ---
 # Subwoofer Installation for Pomona Drivers
 
@@ -22,7 +22,7 @@ Pomona drivers drive to LA Car Beats by Audio MotorSports, Carson, 22025 S Avalo
 
 ## Pomona to the Carson shop
 
-Pomona to 22025 S Avalon Blvd is about 41.6 miles, roughly 83 to 100 minutes outside rush hour (approx). Hours are Monday through Saturday 9:30 to 6:00, closed Sunday. Call (213) 429-1092 or text (213) 429-1092 to book a full day and drop the car off in the morning. Customers have made the trip from Temecula and San Diego, about 120 miles, so Pomona is well inside the distance people already cover for this shop.
+Pomona to 22025 S Avalon Blvd is about 41.6 miles, roughly 83 to 100 minutes outside rush hour (approx). Hours are Monday through Saturday 9:30 to 6:00, closed Sunday. Call (310) 513-8800 or text (213) 429-1092 to book a full day and drop the car off in the morning. Customers have made the trip from Temecula and San Diego, about 120 miles, so Pomona is well inside the distance people already cover for this shop.
 
 <!-- owner-details-2026-10-07 -->
 You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Pomona job is finished. The shop is LGBTQ-friendly and everyone from Pomona is welcome, as our Google and Yelp listings state. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Pomona.
@@ -65,7 +65,7 @@ Car stereo installation pages for cities around Pomona:
 
 ## Book your Pomona sub install
 
-Call (213) 429-1092 or text (213) 429-1092 and we will set aside the day. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 and we will set aside the day. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -77,7 +77,7 @@ Call (213) 429-1092 or text (213) 429-1092 and we will set aside the day. Audio 
    "name": "Pomona Subwoofer Installation | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-pomona/",
    "dateModified": "2026-10-08",
-   "description": "Subwoofer installation and amplifier installation for Pomona drivers at LA Car Beats by Audio MotorSports in Carson, 41.6 miles. Call (213) 429-1092 to book.",
+   "description": "Subwoofer installation and amplifier installation for Pomona drivers at LA Car Beats by Audio MotorSports in Carson, 41.6 miles. Call (310) 513-8800 to book.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

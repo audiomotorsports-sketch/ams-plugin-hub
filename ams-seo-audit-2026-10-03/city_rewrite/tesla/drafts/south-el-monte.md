@@ -5,7 +5,7 @@ miles: 19.7
 lead_service: Tesla window tint (Model S)
 source: hub-mounted copy; standalone www host not verified
 title: Model S Tint for South El Monte Owners | Tesla Tint LA
-meta: Model S ceramic window tint for South El Monte Tesla owners, curved doors formed to fit. Audio MotorSports, Carson, 19.7 miles away. Call (213) 429-1092.
+meta: Model S ceramic window tint for South El Monte Tesla owners, curved doors formed to fit. Audio MotorSports, Carson, 19.7 miles away. Call (310) 513-8800.
 ---
 # Model S Window Tint for South El Monte Tesla Owners
 
@@ -68,7 +68,7 @@ Model S and every other Tesla are quoted by model at the shop; text the year and
 
 ## Book your appointment
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -79,7 +79,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-south-el-monte/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-south-el-monte/",
    "name": "Model S Tint for South El Monte Owners | Tesla Tint LA",
-   "description": "Model S ceramic window tint for South El Monte Tesla owners, curved doors formed to fit. Audio MotorSports, Carson, 19.7 miles away. Call (213) 429-1092.",
+   "description": "Model S ceramic window tint for South El Monte Tesla owners, curved doors formed to fit. Audio MotorSports, Carson, 19.7 miles away. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

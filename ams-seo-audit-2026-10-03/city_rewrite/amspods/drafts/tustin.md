@@ -4,7 +4,7 @@ city: Tustin
 miles: 25.8
 lead_service: First Harley bagger audio upgrade
 title: Tustin Harley Bagger Audio Installation | AMS Pods
-meta: First bagger audio upgrade for Tustin Harley riders: AMS lower-fairing pods, amplifier and speaker installs at Audio MotorSports, Carson. Call (213) 429-1092.
+meta: First bagger audio upgrade for Tustin Harley riders: AMS lower-fairing pods, amplifier and speaker installs at Audio MotorSports, Carson. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Your First Harley Bagger Audio Upgrade, from Tustin
@@ -65,7 +65,7 @@ Other AMS Pods pages nearby: [Santa Ana](/amspods/bagger-audio-santa-ana/), [Ora
 
 ## Book from Tustin
 
-Call (213) 429-1092 or text (213) 429-1092. 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -76,7 +76,7 @@ Call (213) 429-1092 or text (213) 429-1092. 22025 S Avalon Blvd Ste A, Carson, C
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-tustin/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-tustin/",
    "name": "Tustin Harley Bagger Audio Installation | AMS Pods",
-   "description": "First bagger audio upgrade for Tustin Harley riders: AMS lower-fairing pods, amplifier and speaker installs at Audio MotorSports, Carson. Call (213) 429-1092.",
+   "description": "First bagger audio upgrade for Tustin Harley riders: AMS lower-fairing pods, amplifier and speaker installs at Audio MotorSports, Carson. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

@@ -6,7 +6,7 @@ lead_service: Apple CarPlay and Android Auto installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Rolling Hills Estates CarPlay Install | LA Car Beats
-meta: Apple CarPlay and Android Auto installation for Rolling Hills Estates drivers at LA Car Beats by Audio MotorSports in Carson, 6 miles. Call (213) 429-1092.
+meta: Apple CarPlay and Android Auto installation for Rolling Hills Estates drivers at LA Car Beats by Audio MotorSports in Carson, 6 miles. Call (310) 513-8800.
 ---
 # Apple CarPlay and Android Auto Installation for Rolling Hills Estates
 
@@ -22,7 +22,7 @@ Rolling Hills Estates drivers get Apple CarPlay and Android Auto installation at
 
 ## Rolling Hills Estates to the shop
 
-From Rolling Hills Estates to 22025 S Avalon Blvd is about 6 miles, roughly 12 to 14 minutes outside rush hour (approx). The shop is open Monday to Saturday 9:30 to 6:00 and closed Sunday. Call (213) 429-1092 or text (213) 429-1092 to make an appointment. A CarPlay interface is a short wait; a head unit with speakers and an amp is a morning drop-off. [SHOP NOTE: 2-3 sentences from Nick about Rolling Hills Estates customers, routes or jobs]
+From Rolling Hills Estates to 22025 S Avalon Blvd is about 6 miles, roughly 12 to 14 minutes outside rush hour (approx). The shop is open Monday to Saturday 9:30 to 6:00 and closed Sunday. Call (310) 513-8800 or text (213) 429-1092 to make an appointment. A CarPlay interface is a short wait; a head unit with speakers and an amp is a morning drop-off. [SHOP NOTE: 2-3 sentences from Nick about Rolling Hills Estates customers, routes or jobs]
 
 <!-- owner-details-2026-10-07 -->
 Plenty of Rolling Hills Estates drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. The shop is LGBTQ-friendly and everyone from Rolling Hills Estates is welcome, as our Google and Yelp listings state. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Rolling Hills Estates traffic sends you.
@@ -65,7 +65,7 @@ Car stereo installation pages around Rolling Hills Estates:
 
 ## Book from Rolling Hills Estates
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -77,7 +77,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "name": "Rolling Hills Estates CarPlay Install | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-rolling-hills-estates/",
    "dateModified": "2026-10-08",
-   "description": "Apple CarPlay and Android Auto installation for Rolling Hills Estates drivers at LA Car Beats by Audio MotorSports in Carson, 6 miles. Call (213) 429-1092.",
+   "description": "Apple CarPlay and Android Auto installation for Rolling Hills Estates drivers at LA Car Beats by Audio MotorSports in Carson, 6 miles. Call (310) 513-8800.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

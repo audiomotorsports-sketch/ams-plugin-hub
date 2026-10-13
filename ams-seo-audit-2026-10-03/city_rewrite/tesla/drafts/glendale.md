@@ -5,7 +5,7 @@ miles: 26.9
 lead_service: Tesla window tint (Cybertruck)
 source: hub-mounted copy; standalone www host not verified
 title: Cybertruck Window Tint for Glendale | Tesla Tint LA
-meta: Cybertruck and Tesla window tint for Glendale owners at Audio MotorSports in Carson, 26.9 miles away. Ceramic film cut flat to the glass. Call (213) 429-1092.
+meta: Cybertruck and Tesla window tint for Glendale owners at Audio MotorSports in Carson, 26.9 miles away. Ceramic film cut flat to the glass. Call (310) 513-8800.
 ---
 # Cybertruck and Tesla Window Tint for Glendale Owners
 
@@ -68,7 +68,7 @@ Cybertruck tint, like every Tesla, is quoted by model at the shop; text the year
 
 ## Book from Glendale
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -79,7 +79,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-glendale/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-glendale/",
    "name": "Cybertruck Window Tint for Glendale | Tesla Tint LA",
-   "description": "Cybertruck and Tesla window tint for Glendale owners at Audio MotorSports in Carson, 26.9 miles away. Ceramic film cut flat to the glass. Call (213) 429-1092.",
+   "description": "Cybertruck and Tesla window tint for Glendale owners at Audio MotorSports in Carson, 26.9 miles away. Ceramic film cut flat to the glass. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

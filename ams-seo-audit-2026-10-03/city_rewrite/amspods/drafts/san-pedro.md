@@ -4,7 +4,7 @@ city: San Pedro
 miles: 6.5
 lead_service: Harley bagger audio for long rides
 title: San Pedro Harley Bagger Audio for Long Rides | AMS Pods
-meta: Long-ride Harley bagger audio for San Pedro: AMS lower-fairing pods, amplifier installation and tuning at Audio MotorSports in Carson. Call (213) 429-1092.
+meta: Long-ride Harley bagger audio for San Pedro: AMS lower-fairing pods, amplifier installation and tuning at Audio MotorSports in Carson. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Long-Ride Harley Bagger Audio for San Pedro Riders
@@ -67,7 +67,7 @@ Other AMS Pods pages nearby: [Wilmington](/amspods/bagger-audio-wilmington/), [R
 
 ## Call or text from San Pedro
 
-(213) 429-1092 voice, (213) 429-1092 text. 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+(310) 513-8800 voice, (213) 429-1092 text. 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -78,7 +78,7 @@ Other AMS Pods pages nearby: [Wilmington](/amspods/bagger-audio-wilmington/), [R
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-san-pedro/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-san-pedro/",
    "name": "San Pedro Harley Bagger Audio for Long Rides | AMS Pods",
-   "description": "Long-ride Harley bagger audio for San Pedro: AMS lower-fairing pods, amplifier installation and tuning at Audio MotorSports in Carson. Call (213) 429-1092.",
+   "description": "Long-ride Harley bagger audio for San Pedro: AMS lower-fairing pods, amplifier installation and tuning at Audio MotorSports in Carson. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

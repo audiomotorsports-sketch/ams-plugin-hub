@@ -4,7 +4,7 @@ city: Woodland Hills
 miles: 30.6
 lead_service: Apple CarPlay and Android Auto installation
 title: CarPlay & Android Auto, Woodland Hills | Audio MotorSports
-meta: Apple CarPlay and Android Auto installation, car stereo, tint and alarms for Woodland Hills drivers at Audio MotorSports in Carson, 30.6 miles. (213) 429-1092.
+meta: Apple CarPlay and Android Auto installation, car stereo, tint and alarms for Woodland Hills drivers at Audio MotorSports in Carson, 30.6 miles. (310) 513-8800.
 ---
 # Apple CarPlay and Android Auto Installation for Woodland Hills
 
@@ -74,7 +74,7 @@ Head units, interfaces, cameras, speakers and amps are priced on your vehicle at
 
 ## Book from Woodland Hills
 
-Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio MotorSports is at 22025 S Avalon Blvd Ste A in Carson, CA 90745, with hours of Mon-Sat 9:30-18:00, Sunday closed. Wait at the shop or drop the car.
+Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio MotorSports is at 22025 S Avalon Blvd Ste A in Carson, CA 90745, with hours of Mon-Sat 9:30-18:00, Sunday closed. Wait at the shop or drop the car.
 
 ```json
 {
@@ -85,7 +85,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio 
    "@id": "https://www.audiomotorsports.com/woodland-hills/#webpage",
    "url": "https://www.audiomotorsports.com/woodland-hills/",
    "name": "CarPlay & Android Auto, Woodland Hills | Audio MotorSports",
-   "description": "Apple CarPlay and Android Auto installation, car stereo installs, tint and alarms for Woodland Hills drivers at Audio MotorSports in Carson, 30.6 miles. (213) 429-1092.",
+   "description": "Apple CarPlay and Android Auto installation, car stereo installs, tint and alarms for Woodland Hills drivers at Audio MotorSports in Carson, 30.6 miles. (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

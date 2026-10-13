@@ -4,7 +4,7 @@ city: Granada Hills
 miles: 33.7
 lead_service: First bagger audio upgrade
 title: Harley Bagger Audio Granada Hills | AMS Pods
-meta: First Harley bagger audio upgrade for Granada Hills riders: AMS pods, amplifier and speakers at AMS Pods by Audio MotorSports in Carson. (213) 429-1092.
+meta: First Harley bagger audio upgrade for Granada Hills riders: AMS pods, amplifier and speakers at AMS Pods by Audio MotorSports in Carson. (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Your First Bagger Audio Upgrade, Granada Hills to Carson
@@ -65,7 +65,7 @@ Riders also come in from [Northridge](/amspods/bagger-audio-northridge/), [Sylma
 
 ## Start the first upgrade
 
-Call (213) 429-1092 or text (213) 429-1092 with your year and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with your year and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -76,7 +76,7 @@ Call (213) 429-1092 or text (213) 429-1092 with your year and model. Audio Motor
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-granada-hills/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-granada-hills/",
    "name": "Harley Bagger Audio Granada Hills | AMS Pods",
-   "description": "First Harley bagger audio upgrade for Granada Hills riders: AMS pods, amplifier and speakers at AMS Pods by Audio MotorSports in Carson. (213) 429-1092.",
+   "description": "First Harley bagger audio upgrade for Granada Hills riders: AMS pods, amplifier and speakers at AMS Pods by Audio MotorSports in Carson. (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

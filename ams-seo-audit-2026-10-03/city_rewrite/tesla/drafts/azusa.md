@@ -5,7 +5,7 @@ miles: 36.5
 lead_service: Tesla window tint (new delivery)
 source: hub-mounted copy; standalone www host not verified
 title: New Tesla Delivery Tint for Azusa | Tesla Tint LA
-meta: Just took delivery in Azusa? Tesla window tint with ceramic film, cameras left clear, at Audio MotorSports in Carson, 36.5 miles away. Call (213) 429-1092.
+meta: Just took delivery in Azusa? Tesla window tint with ceramic film, cameras left clear, at Audio MotorSports in Carson, 36.5 miles away. Call (310) 513-8800.
 ---
 # Tesla Window Tint for Azusa: First Stop After Delivery
 
@@ -68,7 +68,7 @@ New or not, every Tesla is quoted by model at the shop; text the year and model 
 
 ## Book from Azusa
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -79,7 +79,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-azusa/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-azusa/",
    "name": "New Tesla Delivery Tint for Azusa | Tesla Tint LA",
-   "description": "Just took delivery in Azusa? Tesla window tint with ceramic film, cameras left clear, at Audio MotorSports in Carson, 36.5 miles away. Call (213) 429-1092.",
+   "description": "Just took delivery in Azusa? Tesla window tint with ceramic film, cameras left clear, at Audio MotorSports in Carson, 36.5 miles away. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

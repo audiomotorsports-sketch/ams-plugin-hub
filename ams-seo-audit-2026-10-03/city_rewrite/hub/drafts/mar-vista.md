@@ -4,7 +4,7 @@ city: Mar Vista
 miles: 15.4
 lead_service: CarPlay/Android Auto
 title: CarPlay & Android Auto for Mar Vista | Audio MotorSports
-meta: Apple CarPlay and Android Auto installation for Mar Vista drivers at Audio MotorSports in Carson, 15.4 miles away. Tint too. Call (213) 429-1092.
+meta: Apple CarPlay and Android Auto installation for Mar Vista drivers at Audio MotorSports in Carson, 15.4 miles away. Tint too. Call (310) 513-8800.
 ---
 # Apple CarPlay and Android Auto Installation for Mar Vista
 
@@ -67,7 +67,7 @@ Pages for the cities around Mar Vista:
 
 ## Schedule CarPlay installation
 
-Text your year, make and model to (213) 429-1092, or call (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open 9:30 AM to 6:00 PM Monday through Saturday; closed Sunday.
+Text your year, make and model to (213) 429-1092, or call (310) 513-8800. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open 9:30 AM to 6:00 PM Monday through Saturday; closed Sunday.
 
 ```json
 {
@@ -78,7 +78,7 @@ Text your year, make and model to (213) 429-1092, or call (213) 429-1092. Audio 
    "@id": "https://www.audiomotorsports.com/mar-vista/#webpage",
    "url": "https://www.audiomotorsports.com/mar-vista/",
    "name": "CarPlay & Android Auto for Mar Vista | Audio MotorSports",
-   "description": "Apple CarPlay and Android Auto installation for Mar Vista drivers at Audio MotorSports in Carson, 15.4 miles away. Tint too. Call (213) 429-1092.",
+   "description": "Apple CarPlay and Android Auto installation for Mar Vista drivers at Audio MotorSports in Carson, 15.4 miles away. Tint too. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

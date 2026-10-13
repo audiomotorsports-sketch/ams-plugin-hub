@@ -5,7 +5,7 @@ miles: 19.9
 lead_service: Tesla window tint (Model 3)
 source: hub-mounted copy; standalone www host not verified
 title: Alhambra Model 3 Window Tint | Tesla Tint LA
-meta: Model 3 and Tesla window tint for Alhambra drivers: ceramic film hand-cut at Audio MotorSports in Carson, 19.9 miles away. Call (213) 429-1092 to book.
+meta: Model 3 and Tesla window tint for Alhambra drivers: ceramic film hand-cut at Audio MotorSports in Carson, 19.9 miles away. Call (310) 513-8800 to book.
 ---
 # Model 3 Window Tint for Alhambra Tesla Drivers
 
@@ -67,7 +67,7 @@ The Model 3 and all other Teslas are quoted by model at the shop; text the year 
 
 ## Book from Alhambra
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -78,7 +78,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-alhambra/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-alhambra/",
    "name": "Alhambra Model 3 Window Tint | Tesla Tint LA",
-   "description": "Model 3 and Tesla window tint for Alhambra drivers: ceramic film hand-cut at Audio MotorSports in Carson, 19.9 miles away. Call (213) 429-1092 to book.",
+   "description": "Model 3 and Tesla window tint for Alhambra drivers: ceramic film hand-cut at Audio MotorSports in Carson, 19.9 miles away. Call (310) 513-8800 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

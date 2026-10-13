@@ -4,7 +4,7 @@ city: Westminster
 miles: 16.4
 lead_service: window tint
 title: Car Window Tint for Westminster | Audio MotorSports
-meta: Car window tint and ceramic window tinting for Westminster drivers at Audio MotorSports in Carson, 16.4 miles away. Call (213) 429-1092 to book.
+meta: Car window tint and ceramic window tinting for Westminster drivers at Audio MotorSports in Carson, 16.4 miles away. Call (310) 513-8800 to book.
 ---
 # Car Window Tint for Westminster Drivers
 
@@ -67,7 +67,7 @@ Our pages for nearby Orange County cities:
 
 ## Book window tint from Westminster
 
-Call (213) 429-1092 or text (213) 429-1092 with your vehicle details. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday, 9:30 AM to 6:00 PM; Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with your vehicle details. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday, 9:30 AM to 6:00 PM; Sunday closed.
 
 ```json
 {
@@ -78,7 +78,7 @@ Call (213) 429-1092 or text (213) 429-1092 with your vehicle details. Audio Moto
    "@id": "https://www.audiomotorsports.com/westminster/#webpage",
    "url": "https://www.audiomotorsports.com/westminster/",
    "name": "Car Window Tint for Westminster | Audio MotorSports",
-   "description": "Car window tint and ceramic window tinting for Westminster drivers at Audio MotorSports in Carson, 16.4 miles away. Call (213) 429-1092 to book.",
+   "description": "Car window tint and ceramic window tinting for Westminster drivers at Audio MotorSports in Carson, 16.4 miles away. Call (310) 513-8800 to book.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

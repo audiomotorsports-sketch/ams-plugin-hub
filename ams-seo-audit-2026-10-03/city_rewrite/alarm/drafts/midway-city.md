@@ -4,7 +4,7 @@ city: Midway City
 miles: 17.0
 lead_service: theft recovery
 title: Theft Recovery Tracker & Alarms Midway City | LA Car Alarm
-meta: Theft recovery GPS tracker and car alarm installation for Midway City at LA Car Alarm by Audio MotorSports, Carson, 17 miles. Call (213) 429-1092.
+meta: Theft recovery GPS tracker and car alarm installation for Midway City at LA Car Alarm by Audio MotorSports, Carson, 17 miles. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Theft Recovery Tracker and Car Alarm Installation for Midway City
@@ -67,7 +67,7 @@ Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Book from Midway City
 
-Call (213) 429-1092 or text (213) 429-1092 with the vehicle details. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with the vehicle details. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

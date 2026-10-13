@@ -4,7 +4,7 @@ city: Gardena
 miles: 4.9
 lead_service: Harley bagger audio for riding with a group
 title: Harley Bagger Audio Gardena | AMS Pods
-meta: Group-ride Harley bagger audio for Gardena riders: AMS pods, amplifier installation and speakers at AMS Pods by Audio MotorSports in Carson. (213) 429-1092.
+meta: Group-ride Harley bagger audio for Gardena riders: AMS pods, amplifier installation and speakers at AMS Pods by Audio MotorSports in Carson. (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Bagger Audio for Gardena Riders Who Ride in a Pack
@@ -65,7 +65,7 @@ Riders also come in from [Torrance](/amspods/bagger-audio-torrance/), [Alondra P
 
 ## Book before the next group ride
 
-Call (213) 429-1092 or text (213) 429-1092 with your year and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with your year and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -76,7 +76,7 @@ Call (213) 429-1092 or text (213) 429-1092 with your year and model. Audio Motor
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-gardena/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-gardena/",
    "name": "Harley Bagger Audio Gardena | AMS Pods",
-   "description": "Group-ride Harley bagger audio for Gardena riders: AMS pods, amplifier installation and speakers at AMS Pods by Audio MotorSports in Carson. (213) 429-1092.",
+   "description": "Group-ride Harley bagger audio for Gardena riders: AMS pods, amplifier installation and speakers at AMS Pods by Audio MotorSports in Carson. (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

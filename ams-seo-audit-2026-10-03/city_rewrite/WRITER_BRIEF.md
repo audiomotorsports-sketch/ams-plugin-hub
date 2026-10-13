@@ -90,7 +90,7 @@ You are finishing an interrupted run, not starting over. Your work order JSON li
 
 ## Owner update 3 (2026-10-07 evening; applies to EVERY page, written or not; overrides anything above that conflicts)
 1. Reviews line is exactly: "Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026". Never "650+" or "770+".
-2. Phone for Call AND Text is (213) 429-1092 (tel:+12134291092 / sms:+12134291092). Never (310) 513-8800 anywhere, including JSON-LD.
+2. SUPERSEDED 2026-10-13 by owner: CALL is (310) 513-8800 (tel:+13105138800); TEXT is (213) 429-1092 (sms:+12134291092). Use the call number for "call", the text number for "text". In JSON-LD the telephone is "+1-310-513-8800". Separate Call and Text buttons.
 3. Product orders (when a page mentions buying gear): offer in-store pickup, or call for delivery; everything is paid upfront before delivery. Service booking stays: book by call or text, drop the car off, or wait inside.
 4. Financing wording: "Payment plan" or "Buy now, pay later" only. Never 100-day, Snap, Koalafi or EasyPay.
 5. Car audio focus. No DJ products.
@@ -104,3 +104,6 @@ You are finishing an interrupted run, not starting over. Your work order JSON li
 13. Location: right off the 110 freeway, easy access from the 405 and the 710 (three freeways lead to it).
 14. The script `apply_owner_corrections.py` inserts one marked paragraph (`<!-- owner-details-2026-10-07 -->`) with items 10, 11, 13 (and 12 where it applies) before the questions section of every existing draft. New drafts: write these lines yourself, in your own words, and do NOT add the marker.
 15. Carson gets a dedicated article (not a template page): see `carson_article/` when written.
+
+## Owner update 4 (2026-10-13)
+Phone rule: call (310) 513-8800, text (213) 429-1092. Item 2 of Owner update 3 is replaced. Metas that carry a number use the call number. `apply_phone_rule.py` already converted every existing draft.

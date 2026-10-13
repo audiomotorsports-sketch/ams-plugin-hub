@@ -4,7 +4,7 @@ city: Pacific Palisades
 miles: 21.4
 lead_service: Tesla window tint (Model X)
 title: Pacific Palisades Tesla Tint | Tesla Tint LA, Carson
-meta: Model X and all Tesla window tint for Pacific Palisades at Tesla Tint LA by Audio MotorSports in Carson, 21.4 miles away. Ceramic film. Call (213) 429-1092.
+meta: Model X and all Tesla window tint for Pacific Palisades at Tesla Tint LA by Audio MotorSports in Carson, 21.4 miles away. Ceramic film. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Model X and Tesla Window Tint for Pacific Palisades
@@ -60,7 +60,7 @@ Model X tint, like every Tesla here, is quoted by model at the shop. Non-Tesla w
 
 ## Book the X
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

@@ -6,7 +6,7 @@ lead_service: Apple CarPlay and Android Auto installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: CarPlay & Android Auto Installation, Gardena | LA Car Beats
-meta: Apple CarPlay and Android Auto installation and car stereo installation for Gardena at LA Car Beats, Audio MotorSports, Carson. Call (213) 429-1092.
+meta: Apple CarPlay and Android Auto installation and car stereo installation for Gardena at LA Car Beats, Audio MotorSports, Carson. Call (310) 513-8800.
 ---
 # Apple CarPlay and Android Auto Installation for Gardena
 
@@ -21,7 +21,7 @@ Gardena drivers who are tired of propping a phone on the vent come to LA Car Bea
 
 ## Gardena to the shop
 
-From Gardena the drive is about 4.9 miles, roughly 10 to 12 minutes outside rush hour (approx). Book first by phone at (213) 429-1092 or text at (213) 429-1092, then decide whether to wait or drop off; a CarPlay interface is usually a wait-and-watch job, while a full speaker and amp install is better as a drop-off. Doors open Monday through Saturday 9:30 to 6:00, closed Sunday. For scale, customers have driven in from San Diego for this work, so Gardena is a quick errand by comparison.
+From Gardena the drive is about 4.9 miles, roughly 10 to 12 minutes outside rush hour (approx). Book first by phone at (310) 513-8800 or text at (213) 429-1092, then decide whether to wait or drop off; a CarPlay interface is usually a wait-and-watch job, while a full speaker and amp install is better as a drop-off. Doors open Monday through Saturday 9:30 to 6:00, closed Sunday. For scale, customers have driven in from San Diego for this work, so Gardena is a quick errand by comparison.
 
 <!-- owner-details-2026-10-07 -->
 Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Gardena customers tell us makes the drop-off painless. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. From Gardena you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd. Gardena sends us Metro bus operators and plenty of commuters who work at the bigger employers around the 110 and the 405.
@@ -58,7 +58,7 @@ Close to Gardena: [Torrance](/beats/car-stereo-torrance/) · [all services](/tor
 
 ## Set a Gardena appointment
 
-Tell us the year, make and model and whether the car has a factory amp or premium sound, and we will have the parts waiting. Call (213) 429-1092 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Tell us the year, make and model and whether the car has a factory amp or premium sound, and we will have the parts waiting. Call (310) 513-8800 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -69,7 +69,7 @@ Tell us the year, make and model and whether the car has a factory amp or premiu
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-gardena/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-gardena/",
    "name": "CarPlay & Android Auto Installation, Gardena | LA Car Beats",
-   "description": "Apple CarPlay and Android Auto installation and car stereo installation for Gardena at LA Car Beats, Audio MotorSports, Carson. Call (213) 429-1092.",
+   "description": "Apple CarPlay and Android Auto installation and car stereo installation for Gardena at LA Car Beats, Audio MotorSports, Carson. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

@@ -4,7 +4,7 @@ city: Cypress
 miles: 13.0
 lead_service: car window tint (UV and interior fading)
 title: Cypress Car Window Tint | LA Car Tint by Audio MotorSports
-meta: Car window tint that stops UV fading for Cypress drivers, hand-cut and installed by Audio MotorSports in Carson, 13 miles away. Call (213) 429-1092.
+meta: Car window tint that stops UV fading for Cypress drivers, hand-cut and installed by Audio MotorSports in Carson, 13 miles away. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Window Tint for Cypress: Stop the Fade Before It Starts
@@ -58,7 +58,7 @@ Four-door Solar window tint, $249 installed; four-door Solar Ceramic, $329 insta
 
 ## Protect the interior now
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports: 22025 S Avalon Blvd Ste A, Carson, CA 90745. Hours Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports: 22025 S Avalon Blvd Ste A, Carson, CA 90745. Hours Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

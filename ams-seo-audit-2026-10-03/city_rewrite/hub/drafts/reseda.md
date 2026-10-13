@@ -4,7 +4,7 @@ city: Reseda
 miles: 30.1
 lead_service: Harley bagger audio installation (AMS pods)
 title: Bagger Audio Installation for Reseda | Audio MotorSports
-meta: Reseda Harley bagger audio installation with AMS pods at Audio MotorSports in Carson, 30.1 miles away, plus car window tint, stereo and alarms. (213) 429-1092.
+meta: Reseda Harley bagger audio installation with AMS pods at Audio MotorSports in Carson, 30.1 miles away, plus car window tint, stereo and alarms. (310) 513-8800.
 ---
 # Harley Bagger Audio Installation for Reseda Riders
 
@@ -61,7 +61,7 @@ Riders and drivers near Reseda who make the same ride: [Tarzana](/tarzana/), [Wi
 
 ## Book Reseda bagger audio
 
-Call (213) 429-1092 or text the bike year and model to (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30 AM to 6:00 PM; closed Sunday.
+Call (310) 513-8800 or text the bike year and model to (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30 AM to 6:00 PM; closed Sunday.
 
 ```json
 {
@@ -72,7 +72,7 @@ Call (213) 429-1092 or text the bike year and model to (213) 429-1092. Audio Mot
    "@id": "https://www.audiomotorsports.com/reseda/#webpage",
    "url": "https://www.audiomotorsports.com/reseda/",
    "name": "Bagger Audio Installation for Reseda | Audio MotorSports",
-   "description": "Reseda Harley bagger audio installation with AMS pods at Audio MotorSports in Carson, 30.1 miles away, plus car window tint, stereo and alarm installs. Call (213) 429-1092.",
+   "description": "Reseda Harley bagger audio installation with AMS pods at Audio MotorSports in Carson, 30.1 miles away, plus car window tint, stereo and alarm installs. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

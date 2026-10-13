@@ -6,7 +6,7 @@ lead_service: Apple CarPlay and Android Auto installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Pasadena Apple CarPlay Installation | LA Car Beats
-meta: Apple CarPlay and Android Auto installation for Pasadena drivers at LA Car Beats by Audio MotorSports in Carson, 28.6 miles. Call (213) 429-1092.
+meta: Apple CarPlay and Android Auto installation for Pasadena drivers at LA Car Beats by Audio MotorSports in Carson, 28.6 miles. Call (310) 513-8800.
 ---
 # Apple CarPlay and Android Auto Installation for Pasadena
 
@@ -22,7 +22,7 @@ Pasadena drivers add Apple CarPlay and Android Auto installation to older vehicl
 
 ## Pasadena to Carson
 
-Pasadena is about 28.6 miles from the bay, roughly 57 to 69 minutes outside peak traffic (approx). Hours are Monday through Saturday, 9:30 a.m. to 6:00 p.m., closed Sunday. Call (213) 429-1092 or text (213) 429-1092 to set a time. Pasadena drivers often book an early slot, wait for a CarPlay interface or head unit installation, and head home with it working; fuller builds are a drop-off. The shop is near the beach in Carson, and people drive in from much farther than Pasadena for the same install.
+Pasadena is about 28.6 miles from the bay, roughly 57 to 69 minutes outside peak traffic (approx). Hours are Monday through Saturday, 9:30 a.m. to 6:00 p.m., closed Sunday. Call (310) 513-8800 or text (213) 429-1092 to set a time. Pasadena drivers often book an early slot, wait for a CarPlay interface or head unit installation, and head home with it working; fuller builds are a drop-off. The shop is near the beach in Carson, and people drive in from much farther than Pasadena for the same install.
 
 <!-- owner-details-2026-10-07 -->
 Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Pasadena customers tell us makes the drop-off painless. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Pasadena traffic sends you.
@@ -59,7 +59,7 @@ Also see car stereo installation pages for [Glendale](/beats/car-stereo-glendale
 
 ## Book CarPlay from Pasadena
 
-Call (213) 429-1092 or text (213) 429-1092 with your year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with your year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -71,7 +71,7 @@ Call (213) 429-1092 or text (213) 429-1092 with your year, make and model. Audio
    "name": "Pasadena Apple CarPlay Installation | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-pasadena/",
    "dateModified": "2026-10-08",
-   "description": "Apple CarPlay and Android Auto installation for Pasadena drivers at LA Car Beats by Audio MotorSports in Carson, 28.6 miles. Call (213) 429-1092.",
+   "description": "Apple CarPlay and Android Auto installation for Pasadena drivers at LA Car Beats by Audio MotorSports in Carson, 28.6 miles. Call (310) 513-8800.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

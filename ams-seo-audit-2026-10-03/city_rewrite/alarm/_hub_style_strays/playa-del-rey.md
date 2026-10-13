@@ -4,7 +4,7 @@ city: Playa del Rey
 miles: 13.3
 lead_service: window tint
 title: Car Window Tint for Playa del Rey | Audio MotorSports
-meta: Car window tint, ceramic tint, car stereo installation and alarms for Playa del Rey drivers at Audio MotorSports, Carson, 13.3 miles out. Call (213) 429-1092.
+meta: Car window tint, ceramic tint, car stereo installation and alarms for Playa del Rey drivers at Audio MotorSports, Carson, 13.3 miles out. Call (310) 513-8800.
 ---
 # Car Window Tint for Playa del Rey Drivers
 
@@ -59,7 +59,7 @@ Solar window tint $249 installed, Solar Ceramic $329 installed. Viper 3108V alar
 
 ## Book your Playa del Rey appointment
 
-Call (213) 429-1092 or text the year, make and model to (213) 429-1092. The shop address is 22025 S Avalon Blvd Ste A, Carson, CA 90745; hours Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text the year, make and model to (213) 429-1092. The shop address is 22025 S Avalon Blvd Ste A, Carson, CA 90745; hours Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

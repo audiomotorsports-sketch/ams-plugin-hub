@@ -4,7 +4,7 @@ city: Placentia
 miles: 22.9
 lead_service: Tesla window tint (Model Y)
 title: Placentia Model Y & Tesla Tint | Tesla Tint LA, Carson
-meta: Model Y ceramic window tint for Placentia at Tesla Tint LA by Audio MotorSports in Carson, 22.9 miles away. Rear glass, doors, all Teslas. Call (213) 429-1092.
+meta: Model Y ceramic window tint for Placentia at Tesla Tint LA by Audio MotorSports in Carson, 22.9 miles away. Rear glass, doors, all Teslas. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Model Y Window Tint for Placentia Tesla Owners
@@ -60,7 +60,7 @@ Model Y tint and every other Tesla job are quoted by model at the shop. The non-
 
 ## Reserve your Model Y slot
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

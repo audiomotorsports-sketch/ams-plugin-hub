@@ -6,7 +6,7 @@ lead_service: car stereo installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Palos Verdes Estates Car Stereo Install | LA Car Beats
-meta: Car stereo installation with the factory look kept, for Palos Verdes Estates drivers at LA Car Beats, Audio MotorSports, Carson, 8 miles. Call (213) 429-1092.
+meta: Car stereo installation with the factory look kept, for Palos Verdes Estates drivers at LA Car Beats, Audio MotorSports, Carson, 8 miles. Call (310) 513-8800.
 ---
 # Car Stereo Installation for Palos Verdes Estates
 
@@ -22,7 +22,7 @@ Palos Verdes Estates drivers who want better sound without changing how the inte
 
 ## From Palos Verdes Estates to the shop
 
-The run from Palos Verdes Estates is about 8 miles, roughly 16 to 19 minutes outside rush hour (approx). The shop is open Monday through Saturday 9:30 to 6:00 and closed Sunday. Call (213) 429-1092 or text (213) 429-1092 to arrange an appointment. A full system with amplifier, speakers and sub is a day drop-off so the wiring can be routed invisibly; a single-component job can be waited on. [SHOP NOTE: 2-3 sentences from Nick about Palos Verdes Estates customers, routes or jobs]
+The run from Palos Verdes Estates is about 8 miles, roughly 16 to 19 minutes outside rush hour (approx). The shop is open Monday through Saturday 9:30 to 6:00 and closed Sunday. Call (310) 513-8800 or text (213) 429-1092 to arrange an appointment. A full system with amplifier, speakers and sub is a day drop-off so the wiring can be routed invisibly; a single-component job can be waited on. [SHOP NOTE: 2-3 sentences from Nick about Palos Verdes Estates customers, routes or jobs]
 
 <!-- owner-details-2026-10-07 -->
 You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Palos Verdes Estates job is finished. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Palos Verdes Estates.
@@ -64,7 +64,7 @@ Car stereo installation pages near Palos Verdes Estates:
 
 ## Book from Palos Verdes Estates
 
-Call (213) 429-1092 or text (213) 429-1092 with the vehicle and trim. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with the vehicle and trim. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -76,7 +76,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the vehicle and trim. Audio Moto
    "name": "Palos Verdes Estates Car Stereo Install | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-palos-verdes-estates/",
    "dateModified": "2026-10-08",
-   "description": "Car stereo installation with the factory look kept, for Palos Verdes Estates drivers at LA Car Beats, Audio MotorSports, Carson, 8 miles. Call (213) 429-1092.",
+   "description": "Car stereo installation with the factory look kept, for Palos Verdes Estates drivers at LA Car Beats, Audio MotorSports, Carson, 8 miles. Call (310) 513-8800.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

@@ -4,7 +4,7 @@ city: Rancho Palos Verdes
 miles: 9.0
 lead_service: Viper alarm installation
 title: Viper Alarm Installation Rancho Palos Verdes | LA Car Alarm
-meta: Viper alarm installation for Rancho Palos Verdes drivers at LA Car Alarm by Audio MotorSports, Carson, 9 miles away. Remote start, GPS. Call (213) 429-1092.
+meta: Viper alarm installation for Rancho Palos Verdes drivers at LA Car Alarm by Audio MotorSports, Carson, 9 miles away. Remote start, GPS. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Viper Alarm Installation for Rancho Palos Verdes
@@ -69,7 +69,7 @@ Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Book a Viper install from Rancho Palos Verdes
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

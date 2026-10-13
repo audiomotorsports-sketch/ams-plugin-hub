@@ -4,7 +4,7 @@ city: Willowbrook
 miles: 6.0
 lead_service: factory-look car stereo installation
 title: Factory-Look Car Stereo Install, Willowbrook | LA Car Beats
-meta: Factory-look car stereo installation, CarPlay and speaker upgrades for Willowbrook drivers at Audio MotorSports in Carson. Call (213) 429-1092 to book.
+meta: Factory-look car stereo installation, CarPlay and speaker upgrades for Willowbrook drivers at Audio MotorSports in Carson. Call (310) 513-8800 to book.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Factory-Look Car Stereo Installation for Willowbrook
@@ -65,7 +65,7 @@ Willowbrook neighbors with their own car stereo installation pages:
 
 ## Book a factory-look install
 
-Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Call (213) 429-1092 or text (213) 429-1092. Open Mon-Sat 9:30-18:00; closed Sunday.
+Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Call (310) 513-8800 or text (213) 429-1092. Open Mon-Sat 9:30-18:00; closed Sunday.
 
 ```json
 {
@@ -76,7 +76,7 @@ Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Call (213) 429-1
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-willowbrook/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-willowbrook/",
    "name": "Factory-Look Car Stereo Install, Willowbrook | LA Car Beats",
-   "description": "Factory-look car stereo installation, CarPlay and speaker upgrades for Willowbrook drivers at Audio MotorSports in Carson. Call (213) 429-1092 to book.",
+   "description": "Factory-look car stereo installation, CarPlay and speaker upgrades for Willowbrook drivers at Audio MotorSports in Carson. Call (310) 513-8800 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

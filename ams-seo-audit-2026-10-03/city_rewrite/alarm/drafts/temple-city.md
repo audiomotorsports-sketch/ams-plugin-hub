@@ -5,7 +5,7 @@ city: Temple City
 miles: 22.7
 lead_service: Viper alarm installation
 title: Viper Alarm & Remote Start, Temple City | LA Car Alarm
-meta: LA Car Alarm in Carson: Viper alarm installation, remote start and GPS trackers for Temple City drivers at LA Car Alarm in Carson. Call (213) 429-1092.
+meta: LA Car Alarm in Carson: Viper alarm installation, remote start and GPS trackers for Temple City drivers at LA Car Alarm in Carson. Call (310) 513-8800.
 ---
 # Viper Alarm Installation and Remote Start for Temple City
 
@@ -59,7 +59,7 @@ Viper 3108V $269 installed. Compustar 9910 remote start from $499. GPS trackers 
 
 ## Book your Temple City install
 
-Call (213) 429-1092 or text (213) 429-1092. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

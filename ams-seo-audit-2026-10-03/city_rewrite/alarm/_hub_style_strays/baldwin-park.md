@@ -4,7 +4,7 @@ city: Baldwin Park
 miles: 30.8
 lead_service: window tint
 title: Car Window Tint for Baldwin Park | Audio MotorSports
-meta: Car window tinting, ceramic tint, car stereo installation and alarms for Baldwin Park drivers at Audio MotorSports in Carson. Call (213) 429-1092.
+meta: Car window tinting, ceramic tint, car stereo installation and alarms for Baldwin Park drivers at Audio MotorSports in Carson. Call (310) 513-8800.
 ---
 # Car Window Tint for Baldwin Park Drivers
 
@@ -59,7 +59,7 @@ Solar window tint $249 installed, Solar Ceramic $329 installed. Viper 3108V alar
 
 ## Schedule from Baldwin Park
 
-Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Head to 22025 S Avalon Blvd Ste A, Carson, CA 90745; hours are Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Head to 22025 S Avalon Blvd Ste A, Carson, CA 90745; hours are Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

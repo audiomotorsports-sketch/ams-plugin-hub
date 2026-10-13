@@ -4,7 +4,7 @@ city: City of Industry
 miles: 27.2
 lead_service: Harley bagger audio
 title: Bagger Audio & Tint for City of Industry | Audio MotorSports
-meta: Harley bagger audio with AMS pods, window tint, car stereo and alarms for City of Industry riders and drivers at Audio MotorSports, Carson. (213) 429-1092.
+meta: Harley bagger audio with AMS pods, window tint, car stereo and alarms for City of Industry riders and drivers at Audio MotorSports, Carson. (310) 513-8800.
 ---
 # Harley Bagger Audio Installation for City of Industry
 
@@ -59,7 +59,7 @@ AMS Harley pods from $649 a pair. Window tint Solar $249, Solar Ceramic $329 ins
 
 ## Book from City of Industry
 
-Call (213) 429-1092 or text (213) 429-1092 with the bike or vehicle year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-18:00 and closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092 with the bike or vehicle year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-18:00 and closed Sunday.
 
 ```json
 {

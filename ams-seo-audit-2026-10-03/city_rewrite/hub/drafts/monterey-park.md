@@ -4,7 +4,7 @@ city: Monterey Park
 miles: 17.9
 lead_service: Tesla window tint
 title: Tesla Window Tint for Monterey Park | Audio MotorSports
-meta: Tesla window tint, ceramic tint, car stereo installation and alarms for Monterey Park drivers at Audio MotorSports in Carson, 17.9 miles. Call (213) 429-1092.
+meta: Tesla window tint, ceramic tint, car stereo installation and alarms for Monterey Park drivers at Audio MotorSports in Carson, 17.9 miles. Call (310) 513-8800.
 ---
 # Tesla Window Tint for Monterey Park Drivers
 
@@ -59,7 +59,7 @@ Standard-vehicle window tint Solar $249, Solar Ceramic $329 installed. Viper 310
 
 ## Book from Monterey Park
 
-Call (213) 429-1092, or text (213) 429-1092 with your Tesla model and year. Audio MotorSports is located at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-18:00, closed Sunday.
+Call (310) 513-8800, or text (213) 429-1092 with your Tesla model and year. Audio MotorSports is located at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -70,7 +70,7 @@ Call (213) 429-1092, or text (213) 429-1092 with your Tesla model and year. Audi
    "@id": "https://www.audiomotorsports.com/monterey-park/#webpage",
    "url": "https://www.audiomotorsports.com/monterey-park/",
    "name": "Tesla Window Tint for Monterey Park | Audio MotorSports",
-   "description": "Tesla window tint, ceramic window tint, car stereo installation and alarms for Monterey Park drivers at Audio MotorSports in Carson, 17.9 miles out. Call (213) 429-1092.",
+   "description": "Tesla window tint, ceramic window tint, car stereo installation and alarms for Monterey Park drivers at Audio MotorSports in Carson, 17.9 miles out. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

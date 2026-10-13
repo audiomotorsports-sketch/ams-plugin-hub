@@ -4,7 +4,7 @@ city: West Carson
 miles: 1.8
 lead_service: car stereo installation
 title: Car Stereo Installation for West Carson | LA Car Beats
-meta: Car stereo installation, subwoofers and CarPlay for West Carson drivers at LA Car Beats by Audio MotorSports in Carson, 1.8 miles away. Call (213) 429-1092.
+meta: Car stereo installation, subwoofers and CarPlay for West Carson drivers at LA Car Beats by Audio MotorSports in Carson, 1.8 miles away. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Stereo Installation for West Carson
@@ -68,7 +68,7 @@ Full-service pages on the main site: [Harbor City](/harbor-city/) · [Wilmington
 
 ## Book from West Carson
 
-Call (213) 429-1092 or text (213) 429-1092 with your year, make and model. LA Car Beats is inside Audio MotorSports at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday to Saturday 9:30 to 6:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with your year, make and model. LA Car Beats is inside Audio MotorSports at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday to Saturday 9:30 to 6:00, Sunday closed.
 
 ```json
 {

@@ -4,7 +4,7 @@ city: Montebello
 miles: 15.3
 lead_service: Tesla window tint (camera clearance)
 title: Montebello Tesla Tint, Cameras Clear | Tesla Tint LA
-meta: Tesla window tint for Montebello owners, 15.3 miles from Tesla Tint LA by Audio MotorSports in Carson. Cameras and sensors left clear. Call (213) 429-1092.
+meta: Tesla window tint for Montebello owners, 15.3 miles from Tesla Tint LA by Audio MotorSports in Carson. Cameras and sensors left clear. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla Window Tint for Montebello, With Cameras and Sensors Left Clear
@@ -60,7 +60,7 @@ Every Tesla job is priced by model after Nick looks at the car. As a non-Tesla r
 
 ## Book your Tesla
 
-Call (213) 429-1092 or text (213) 429-1092 with the model and year. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with the model and year. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

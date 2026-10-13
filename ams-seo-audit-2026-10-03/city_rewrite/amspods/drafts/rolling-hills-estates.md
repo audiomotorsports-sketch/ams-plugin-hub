@@ -4,7 +4,7 @@ city: Rolling Hills Estates
 miles: 6.0
 lead_service: Harley bagger audio for long rides
 title: Rolling Hills Estates Bagger Audio | AMS Pods
-meta: Long-ride Harley bagger audio for Rolling Hills Estates: AMS lower-fairing pods and amplifier installation at Audio MotorSports, Carson. Call (213) 429-1092.
+meta: Long-ride Harley bagger audio for Rolling Hills Estates: AMS lower-fairing pods and amplifier installation at Audio MotorSports, Carson. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Long-Ride Harley Bagger Audio for Rolling Hills Estates
@@ -50,7 +50,7 @@ They are not back ordered, they are built to order in Carson and take about thre
 
 ### Can I wait at the shop while the amp goes in?
 
-Yes for most amplifier and pod installs. A full system with a tank pull, head unit and saddlebag work may need the bike for longer, and Nick will say so when you book. Call (213) 429-1092 to set it up.
+Yes for most amplifier and pod installs. A full system with a tank pull, head unit and saddlebag work may need the bike for longer, and Nick will say so when you book. Call (310) 513-8800 to set it up.
 
 ## Prices as of October 2026
 
@@ -65,7 +65,7 @@ Riders from [Palos Verdes Estates](/amspods/bagger-audio-palos-verdes-estates/),
 
 ## Set a time
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -76,7 +76,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-rolling-hills-estates/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-rolling-hills-estates/",
    "name": "Rolling Hills Estates Bagger Audio | AMS Pods",
-   "description": "Long-ride Harley bagger audio for Rolling Hills Estates: AMS lower-fairing pods and amplifier installation at Audio MotorSports, Carson. Call (213) 429-1092.",
+   "description": "Long-ride Harley bagger audio for Rolling Hills Estates: AMS lower-fairing pods and amplifier installation at Audio MotorSports, Carson. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -147,7 +147,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "Can I wait at the shop while the amp goes in?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes for most amplifier and pod installs. A full system with a tank pull, head unit and saddlebag work may need the bike for longer, and Nick will say so when you book. Call (213) 429-1092 to set it up."
+      "text": "Yes for most amplifier and pod installs. A full system with a tank pull, head unit and saddlebag work may need the bike for longer, and Nick will say so when you book. Call (310) 513-8800 to set it up."
      }
     }
    ]

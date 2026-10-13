@@ -5,7 +5,7 @@ miles: 9.3
 lead_service: Tesla window tint (cabin heat through doors and rear glass)
 source: hub-mounted copy; standalone www host not verified
 title: South Gate Tesla Tint for Cabin Heat | Tesla Tint LA
-meta: Ceramic Tesla window tint for South Gate owners fighting cabin heat. Tesla Tint LA by Audio MotorSports in Carson, 9.3 miles away. Call (213) 429-1092.
+meta: Ceramic Tesla window tint for South Gate owners fighting cabin heat. Tesla Tint LA by Audio MotorSports in Carson, 9.3 miles away. Call (310) 513-8800.
 ---
 # Tesla Window Tint for South Gate: Cooling the Cabin Through Doors and Rear Glass
 
@@ -68,7 +68,7 @@ Tesla tint is priced by model at the shop; text the year and model and you will 
 
 ## Book your appointment
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -79,7 +79,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-south-gate/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-south-gate/",
    "name": "South Gate Tesla Tint for Cabin Heat | Tesla Tint LA",
-   "description": "Ceramic Tesla window tint for South Gate owners fighting cabin heat. Tesla Tint LA by Audio MotorSports in Carson, 9.3 miles away. Call (213) 429-1092.",
+   "description": "Ceramic Tesla window tint for South Gate owners fighting cabin heat. Tesla Tint LA by Audio MotorSports in Carson, 9.3 miles away. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

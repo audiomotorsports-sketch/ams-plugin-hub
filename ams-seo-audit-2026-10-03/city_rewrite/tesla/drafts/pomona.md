@@ -4,7 +4,7 @@ city: Pomona
 miles: 41.6
 lead_service: Tesla window tint (inland cabin heat)
 title: Pomona Tesla Window Tint | Tesla Tint LA, Carson
-meta: Tesla window tint for Pomona owners, ceramic film on side and rear glass, at Tesla Tint LA by Audio MotorSports in Carson, 41.6 miles. Call (213) 429-1092.
+meta: Tesla window tint for Pomona owners, ceramic film on side and rear glass, at Tesla Tint LA by Audio MotorSports in Carson, 41.6 miles. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla Window Tint for Pomona: Cool the Cabin Through the Doors and Rear Glass
@@ -60,7 +60,7 @@ Full Tesla tint is quoted by model at the shop, since each model's glass is diff
 
 ## Book the glass
 
-Call (213) 429-1092 or text (213) 429-1092 with the model and year. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with the model and year. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

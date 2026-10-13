@@ -5,7 +5,7 @@ city: Bell Gardens
 miles: 11.3
 lead_service: work-truck security
 title: Work Truck Alarm Install for Bell Gardens | LA Car Alarm
-meta: Work truck alarm installation, GPS trackers and remote start for Bell Gardens drivers at LA Car Alarm by Audio MotorSports, Carson. (213) 429-1092.
+meta: Work truck alarm installation, GPS trackers and remote start for Bell Gardens drivers at LA Car Alarm by Audio MotorSports, Carson. (310) 513-8800.
 ---
 # Work Truck Security and Car Alarm Installation for Bell Gardens
 
@@ -60,7 +60,7 @@ Viper 3108V alarm $269 installed. Compustar 9910 remote start from $499. Tracker
 
 ## Book a Bell Gardens truck or car install
 
-Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

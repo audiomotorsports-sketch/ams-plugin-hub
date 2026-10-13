@@ -4,7 +4,7 @@ city: Irwindale
 miles: 33.5
 lead_service: window tinting
 title: Window Tinting Irwindale | LA Car Tint, Carson
-meta: Window tinting for Irwindale work vans, fleet trucks and personal cars, installed by hand at Audio MotorSports in Carson, 33.5 miles out. Call (213) 429-1092.
+meta: Window tinting for Irwindale work vans, fleet trucks and personal cars, installed by hand at Audio MotorSports in Carson, 33.5 miles out. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Window Tinting for Irwindale Vans, Trucks and Cars, by Audio MotorSports, Carson
@@ -45,7 +45,7 @@ For a driver who sits in that cab all day, yes. Solar Ceramic blocks the infrare
 
 ### How does an Irwindale driver book and what happens on the day?
 
-Call (213) 429-1092 or text (213) 429-1092 with the vehicle and the windows you want done. On the day, drop the vehicle in Carson and pick it up later, or wait while it is tinted. The drive from Irwindale is roughly an hour and ten minutes outside rush hour.
+Call (310) 513-8800 or text (213) 429-1092 with the vehicle and the windows you want done. On the day, drop the vehicle in Carson and pick it up later, or wait while it is tinted. The drive from Irwindale is roughly an hour and ten minutes outside rush hour.
 
 ### Why not just have the tint done at the closest shop to Irwindale?
 
@@ -64,7 +64,7 @@ Solar window tint $249 installed and Solar Ceramic $329 installed, as of October
 
 ## Book it
 
-Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
+Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
 
 ```json
 {
@@ -75,7 +75,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-irwindale/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-irwindale/",
    "name": "Window Tinting Irwindale | LA Car Tint, Carson",
-   "description": "Window tinting for Irwindale work vans, fleet trucks and personal cars, installed by hand at Audio MotorSports in Carson, 33.5 miles out. Call (213) 429-1092.",
+   "description": "Window tinting for Irwindale work vans, fleet trucks and personal cars, installed by hand at Audio MotorSports in Carson, 33.5 miles out. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -139,7 +139,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "How does an Irwindale driver book and what happens on the day?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Call (213) 429-1092 or text (213) 429-1092 with the vehicle and the windows you want done. On the day, drop the vehicle in Carson and pick it up later, or wait while it is tinted. The drive from Irwindale is roughly an hour and ten minutes outside rush hour."
+      "text": "Call (310) 513-8800 or text (213) 429-1092 with the vehicle and the windows you want done. On the day, drop the vehicle in Carson and pick it up later, or wait while it is tinted. The drive from Irwindale is roughly an hour and ten minutes outside rush hour."
      }
     },
     {

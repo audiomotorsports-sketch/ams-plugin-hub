@@ -5,7 +5,7 @@ miles: 23.4
 lead_service: Tesla window tint (new delivery)
 source: hub-mounted copy; standalone www host not verified
 title: Studio City New-Tesla Window Tint | Tesla Tint LA
-meta: Ceramic window tint for a new Tesla delivery in Studio City. Tesla Tint LA by Audio MotorSports in Carson, 23.4 miles away. Call (213) 429-1092 to book.
+meta: Ceramic window tint for a new Tesla delivery in Studio City. Tesla Tint LA by Audio MotorSports in Carson, 23.4 miles away. Call (310) 513-8800 to book.
 ---
 # Tesla Window Tint for Studio City's New Deliveries
 
@@ -38,7 +38,7 @@ If you would rather wait inside than make two trips from Studio City, the shop h
 
 ### Should a Studio City owner tint a new Tesla right away?
 
-Yes, if the plan is to tint at all. New factory glass needs no stripping, and the earlier the film goes on, the earlier the cabin stops heating up through the doors and rear glass. Call (213) 429-1092 with the delivery week and a slot can be set for just after pickup.
+Yes, if the plan is to tint at all. New factory glass needs no stripping, and the earlier the film goes on, the earlier the cabin stops heating up through the doors and rear glass. Call (310) 513-8800 with the delivery week and a slot can be set for just after pickup.
 
 ### Is the drive from Studio City too long for Tesla tint?
 
@@ -69,7 +69,7 @@ Every Tesla, new or not, is quoted by model at the shop; text the year and model
 
 ## Book your appointment
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -80,7 +80,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-studio-city/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-studio-city/",
    "name": "Studio City New-Tesla Window Tint | Tesla Tint LA",
-   "description": "Ceramic window tint for a new Tesla delivery in Studio City. Tesla Tint LA by Audio MotorSports in Carson, 23.4 miles away. Call (213) 429-1092 to book.",
+   "description": "Ceramic window tint for a new Tesla delivery in Studio City. Tesla Tint LA by Audio MotorSports in Carson, 23.4 miles away. Call (310) 513-8800 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -122,7 +122,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "Should a Studio City owner tint a new Tesla right away?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes, if the plan is to tint at all. New factory glass needs no stripping, and the earlier the film goes on, the earlier the cabin stops heating up through the doors and rear glass. Call (213) 429-1092 with the delivery week and a slot can be set for just after pickup."
+      "text": "Yes, if the plan is to tint at all. New factory glass needs no stripping, and the earlier the film goes on, the earlier the cabin stops heating up through the doors and rear glass. Call (310) 513-8800 with the delivery week and a slot can be set for just after pickup."
      }
     },
     {

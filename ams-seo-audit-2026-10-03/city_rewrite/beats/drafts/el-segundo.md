@@ -6,7 +6,7 @@ lead_service: factory-screen Apple CarPlay and Android Auto installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: El Segundo CarPlay & Car Stereo Installation | LA Car Beats
-meta: Apple CarPlay and Android Auto installation and car stereo installation for El Segundo at LA Car Beats, Audio MotorSports, Carson. Call (213) 429-1092.
+meta: Apple CarPlay and Android Auto installation and car stereo installation for El Segundo at LA Car Beats, Audio MotorSports, Carson. Call (310) 513-8800.
 ---
 # Apple CarPlay and Android Auto Installation for El Segundo
 
@@ -22,7 +22,7 @@ El Segundo drivers with a newer car and a factory screen that cannot run CarPlay
 
 ## El Segundo to the bay
 
-El Segundo is about 10.8 miles from the shop, roughly 22 to 26 minutes outside rush hour (approx). Call (213) 429-1092 or text (213) 429-1092 for a time. An interface install is typically a wait; a head unit with speakers and an amp is a drop-off. Hours are Monday through Saturday 9:30 to 6:00, closed Sunday. We have had calls from as far as San Jose about this kind of work, so El Segundo is a local run.
+El Segundo is about 10.8 miles from the shop, roughly 22 to 26 minutes outside rush hour (approx). Call (310) 513-8800 or text (213) 429-1092 for a time. An interface install is typically a wait; a head unit with speakers and an amp is a drop-off. Hours are Monday through Saturday 9:30 to 6:00, closed Sunday. We have had calls from as far as San Jose about this kind of work, so El Segundo is a local run.
 
 <!-- owner-details-2026-10-07 -->
 For a longer job from El Segundo, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. The shop is LGBTQ-friendly and everyone from El Segundo is welcome, as our Google and Yelp listings state. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way El Segundo traffic sends you. El Segundo sends us engineers and staff from the aerospace and corporate offices along the 105, usually on a weekday drop-off.
@@ -59,7 +59,7 @@ LA Car Beats pages for neighboring cities: [Manhattan Beach](/beats/car-stereo-m
 
 ## Set up an El Segundo appointment
 
-Give us the year, model and whether the screen runs climate, and we will know which install fits before you arrive. Call (213) 429-1092 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Give us the year, model and whether the screen runs climate, and we will know which install fits before you arrive. Call (310) 513-8800 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -70,7 +70,7 @@ Give us the year, model and whether the screen runs climate, and we will know wh
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-el-segundo/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-el-segundo/",
    "name": "El Segundo CarPlay & Car Stereo Installation | LA Car Beats",
-   "description": "Apple CarPlay and Android Auto installation and car stereo installation for El Segundo at LA Car Beats, Audio MotorSports, Carson. Call (213) 429-1092.",
+   "description": "Apple CarPlay and Android Auto installation and car stereo installation for El Segundo at LA Car Beats, Audio MotorSports, Carson. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

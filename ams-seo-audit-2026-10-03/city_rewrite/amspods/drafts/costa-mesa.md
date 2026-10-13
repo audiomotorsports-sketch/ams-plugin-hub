@@ -4,7 +4,7 @@ city: Costa Mesa
 miles: 23.7
 lead_service: Harley bagger amplifier and head unit installation
 title: Harley Bagger Audio Costa Mesa | AMS Pods
-meta: Harley bagger amplifier and head unit installation plus AMS pods for Costa Mesa riders at AMS Pods by Audio MotorSports in Carson. Call (213) 429-1092.
+meta: Harley bagger amplifier and head unit installation plus AMS pods for Costa Mesa riders at AMS Pods by Audio MotorSports in Carson. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Bagger Amp and Radio Installation for Costa Mesa Riders
@@ -65,7 +65,7 @@ Riders also come in from [Newport Beach](/amspods/bagger-audio-newport-beach/), 
 
 ## Book the radio and amp
 
-Call (213) 429-1092 or text (213) 429-1092 with your year and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with your year and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -76,7 +76,7 @@ Call (213) 429-1092 or text (213) 429-1092 with your year and model. Audio Motor
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-costa-mesa/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-costa-mesa/",
    "name": "Harley Bagger Audio Costa Mesa | AMS Pods",
-   "description": "Harley bagger amplifier and head unit installation plus AMS pods for Costa Mesa riders at AMS Pods by Audio MotorSports in Carson. Call (213) 429-1092.",
+   "description": "Harley bagger amplifier and head unit installation plus AMS pods for Costa Mesa riders at AMS Pods by Audio MotorSports in Carson. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

@@ -4,7 +4,7 @@ city: Hacienda Heights
 miles: 20.3
 lead_service: ceramic window tint (heat)
 title: Hacienda Heights Ceramic Window Tint | LA Car Tint
-meta: Ceramic window tint for Hacienda Heights heat, hand-cut and installed by Audio MotorSports in Carson, 20.3 miles away. Call (213) 429-1092 to book.
+meta: Ceramic window tint for Hacienda Heights heat, hand-cut and installed by Audio MotorSports in Carson, 20.3 miles away. Call (310) 513-8800 to book.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Ceramic Window Tint for Hacienda Heights Summers
@@ -58,7 +58,7 @@ Solar Ceramic four-door: $329 installed. Solar four-door: $249 installed. Both a
 
 ## Book a ceramic tint slot
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports at 22025 S Avalon Blvd Ste A, Carson, CA 90745; hours Mon-Sat 9:30-18:00, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports at 22025 S Avalon Blvd Ste A, Carson, CA 90745; hours Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {

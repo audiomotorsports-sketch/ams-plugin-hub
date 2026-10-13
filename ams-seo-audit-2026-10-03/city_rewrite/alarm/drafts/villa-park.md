@@ -5,7 +5,7 @@ city: Villa Park
 miles: 26.0
 lead_service: two-way remote alarm and remote start
 title: Two-Way Remote Alarm & Start for Villa Park | LA Car Alarm
-meta: Two-way remote car alarm installation and Compustar remote start for Villa Park drivers at LA Car Alarm by Audio MotorSports in Carson. Call (213) 429-1092.
+meta: Two-way remote car alarm installation and Compustar remote start for Villa Park drivers at LA Car Alarm by Audio MotorSports in Carson. Call (310) 513-8800.
 ---
 # Two-Way Remote Car Alarm Installation for Villa Park
 
@@ -67,7 +67,7 @@ Two-way remote packages, trackers and immobilizers are quoted at the shop on the
 
 ## Book a Villa Park appointment
 
-Call (213) 429-1092 or text (213) 429-1092. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

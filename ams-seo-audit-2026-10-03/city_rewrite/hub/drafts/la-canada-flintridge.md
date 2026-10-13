@@ -4,7 +4,7 @@ city: La Canada Flintridge
 miles: 26.4
 lead_service: car alarm installation & remote start installation
 title: Car Alarm Install, La Canada Flintridge | Audio MotorSports
-meta: Viper alarm installation, Compustar remote start, tint and stereo installs for La Canada Flintridge at Audio MotorSports in Carson, 26.4 miles. (213) 429-1092.
+meta: Viper alarm installation, Compustar remote start, tint and stereo installs for La Canada Flintridge at Audio MotorSports in Carson, 26.4 miles. (310) 513-8800.
 ---
 # Car Alarm & Remote Start Installation for La Canada Flintridge
 
@@ -33,7 +33,7 @@ You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and 
 
 ### Is driving from La Canada Flintridge to Carson sensible for a car alarm?
 
-Yes, because alarm installation is only as good as the wiring. At 26.4 miles you get a Viper 3108V wired to the ignition and locks, hidden in the factory loom and tested before you leave, for $269 installed as of October 2026. Call (213) 429-1092 or text (213) 429-1092 to book.
+Yes, because alarm installation is only as good as the wiring. At 26.4 miles you get a Viper 3108V wired to the ignition and locks, hidden in the factory loom and tested before you leave, for $269 installed as of October 2026. Call (310) 513-8800 or text (213) 429-1092 to book.
 
 ### Does remote start installation work on a hybrid?
 
@@ -65,7 +65,7 @@ Viper 3108V alarm installation $269. Compustar 9910 remote start installation fr
 
 ## Schedule the install
 
-Phone (213) 429-1092 or text (213) 429-1092 with your year, make and model. Audio MotorSports is at 22025 S Avalon Blvd Ste A in Carson, CA 90745; hours are Mon-Sat 9:30-18:00, Sunday closed. Drop the car or wait.
+Phone (310) 513-8800 or text (213) 429-1092 with your year, make and model. Audio MotorSports is at 22025 S Avalon Blvd Ste A in Carson, CA 90745; hours are Mon-Sat 9:30-18:00, Sunday closed. Drop the car or wait.
 
 ```json
 {
@@ -76,7 +76,7 @@ Phone (213) 429-1092 or text (213) 429-1092 with your year, make and model. Audi
    "@id": "https://www.audiomotorsports.com/la-canada-flintridge/#webpage",
    "url": "https://www.audiomotorsports.com/la-canada-flintridge/",
    "name": "Car Alarm Install, La Canada Flintridge | Audio MotorSports",
-   "description": "Viper alarm installation, Compustar remote start, tint and stereo installs for La Canada Flintridge at Audio MotorSports in Carson, 26.4 miles. (213) 429-1092.",
+   "description": "Viper alarm installation, Compustar remote start, tint and stereo installs for La Canada Flintridge at Audio MotorSports in Carson, 26.4 miles. (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -118,7 +118,7 @@ Phone (213) 429-1092 or text (213) 429-1092 with your year, make and model. Audi
      "name": "Is driving from La Canada Flintridge to Carson sensible for a car alarm?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes, because alarm installation is only as good as the wiring. At 26.4 miles you get a Viper 3108V wired to the ignition and locks, hidden in the factory loom and tested before you leave, for $269 installed as of October 2026. Call (213) 429-1092 or text (213) 429-1092 to book."
+      "text": "Yes, because alarm installation is only as good as the wiring. At 26.4 miles you get a Viper 3108V wired to the ignition and locks, hidden in the factory loom and tested before you leave, for $269 installed as of October 2026. Call (310) 513-8800 or text (213) 429-1092 to book."
      }
     },
     {

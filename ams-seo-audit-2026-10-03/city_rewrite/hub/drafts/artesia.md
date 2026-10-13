@@ -4,7 +4,7 @@ city: Artesia
 miles: 10.8
 lead_service: Tesla window tint
 title: Tesla Window Tint & Car Audio, Artesia | Audio MotorSports
-meta: Tesla window tint, ceramic tint, car audio and alarms for Artesia drivers at Audio MotorSports in Carson, 10.8 miles from Artesia. Call (213) 429-1092 to book.
+meta: Tesla window tint, ceramic tint, car audio and alarms for Artesia drivers at Audio MotorSports in Carson, 10.8 miles from Artesia. Call (310) 513-8800 to book.
 ---
 # Tesla Window Tint for Artesia Drivers
 
@@ -63,7 +63,7 @@ Solar window tint: $249 installed. Solar Ceramic window tint: $329 installed. Vi
 
 ## Book Tesla tint from Artesia
 
-Call (213) 429-1092 or text (213) 429-1092 with your Tesla model. Audio MotorSports sits at 22025 S Avalon Blvd Ste A in Carson, CA 90745, and is open Mon-Sat 9:30 to 6:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with your Tesla model. Audio MotorSports sits at 22025 S Avalon Blvd Ste A in Carson, CA 90745, and is open Mon-Sat 9:30 to 6:00, Sunday closed.
 
 ```json
 {
@@ -74,7 +74,7 @@ Call (213) 429-1092 or text (213) 429-1092 with your Tesla model. Audio MotorSpo
    "@id": "https://www.audiomotorsports.com/artesia/#webpage",
    "url": "https://www.audiomotorsports.com/artesia/",
    "name": "Tesla Window Tint & Car Audio, Artesia | Audio MotorSports",
-   "description": "Tesla window tint, ceramic tint, car audio and alarms for Artesia drivers at Audio MotorSports in Carson, 10.8 miles from Artesia. Call (213) 429-1092 to book.",
+   "description": "Tesla window tint, ceramic tint, car audio and alarms for Artesia drivers at Audio MotorSports in Carson, 10.8 miles from Artesia. Call (310) 513-8800 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

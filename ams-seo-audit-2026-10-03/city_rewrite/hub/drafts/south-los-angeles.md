@@ -4,7 +4,7 @@ city: South Los Angeles
 miles: 11.0
 lead_service: Apple CarPlay and Android Auto installation
 title: CarPlay Installation, South Los Angeles | Audio MotorSports
-meta: Apple CarPlay and Android Auto installation, car stereo, window tint and alarms for South Los Angeles drivers. Audio MotorSports, Carson. Call (213) 429-1092.
+meta: Apple CarPlay and Android Auto installation, car stereo, window tint and alarms for South Los Angeles drivers. Audio MotorSports, Carson. Call (310) 513-8800.
 ---
 # Apple CarPlay and Android Auto Installation for South Los Angeles
 
@@ -27,7 +27,7 @@ Plenty of South Los Angeles drivers wait inside; there is seating, a TV with Net
 
 ## The drive from South Los Angeles
 
-From South Los Angeles the shop is about 11.0 miles, roughly 22 to 26 minutes (approx) with light traffic. Hours are Monday through Saturday from 9:30 AM to 6:00 PM; closed on Sunday. Make an appointment, then either drop the car off or wait while we install. A CarPlay deck is usually done the same day. Call (213) 429-1092 or text (213) 429-1092 with your year, make and model. South Los Angeles customers can read the reviews first: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
+From South Los Angeles the shop is about 11.0 miles, roughly 22 to 26 minutes (approx) with light traffic. Hours are Monday through Saturday from 9:30 AM to 6:00 PM; closed on Sunday. Make an appointment, then either drop the car off or wait while we install. A CarPlay deck is usually done the same day. Call (310) 513-8800 or text (213) 429-1092 with your year, make and model. South Los Angeles customers can read the reviews first: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 [SHOP NOTE: 2-3 sentences from Nick about South Los Angeles customers, routes or jobs]
 
@@ -74,7 +74,7 @@ CarPlay and Android Auto head units, speaker replacement, amplifier installation
 
 ## Book a CarPlay install from South Los Angeles
 
-Call (213) 429-1092 to reserve a slot. Text (213) 429-1092 with the vehicle. Head to 22025 S Avalon Blvd Ste A, Carson, CA 90745 when you are booked. Mon-Sat 9:30-18:00, closed Sunday.
+Call (310) 513-8800 to reserve a slot. Text (213) 429-1092 with the vehicle. Head to 22025 S Avalon Blvd Ste A, Carson, CA 90745 when you are booked. Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {

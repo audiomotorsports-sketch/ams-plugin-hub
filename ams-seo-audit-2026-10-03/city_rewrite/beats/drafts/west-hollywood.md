@@ -6,7 +6,7 @@ lead_service: speaker replacement
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: West Hollywood Speaker Replacement | LA Car Beats
-meta: Speaker replacement and speaker installation for West Hollywood drivers at LA Car Beats by Audio MotorSports in Carson, 18.8 miles. Call (213) 429-1092.
+meta: Speaker replacement and speaker installation for West Hollywood drivers at LA Car Beats by Audio MotorSports in Carson, 18.8 miles. Call (310) 513-8800.
 ---
 # Speaker Replacement and Speaker Installation for West Hollywood
 
@@ -22,7 +22,7 @@ West Hollywood drivers with flat or buzzing factory sound get speaker replacemen
 
 ## West Hollywood to Carson
 
-From West Hollywood the bay is about 18.8 miles, roughly 38 to 45 minutes outside rush hour (approx). We are open Monday through Saturday, 9:30 to 6:00, and closed Sunday. Call (213) 429-1092 or text (213) 429-1092 to make an appointment, then wait for a speaker replacement or drop off a bigger build. The shop is near the beach in Carson, and customers have driven here from San Diego for the same work, so West Hollywood is well inside the usual range.
+From West Hollywood the bay is about 18.8 miles, roughly 38 to 45 minutes outside rush hour (approx). We are open Monday through Saturday, 9:30 to 6:00, and closed Sunday. Call (310) 513-8800 or text (213) 429-1092 to make an appointment, then wait for a speaker replacement or drop off a bigger build. The shop is near the beach in Carson, and customers have driven here from San Diego for the same work, so West Hollywood is well inside the usual range.
 
 <!-- owner-details-2026-10-07 -->
 For a longer job from West Hollywood, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. The shop is LGBTQ-friendly and everyone from West Hollywood is welcome, as our Google and Yelp listings state. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way West Hollywood traffic sends you.
@@ -59,7 +59,7 @@ Car stereo installation pages for the neighborhood: [Beverly Hills](/beats/car-s
 
 ## Book speaker replacement from West Hollywood
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745; Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745; Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -71,7 +71,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "name": "West Hollywood Speaker Replacement | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-west-hollywood/",
    "dateModified": "2026-10-08",
-   "description": "Speaker replacement and speaker installation for West Hollywood drivers at LA Car Beats by Audio MotorSports in Carson, 18.8 miles. Call (213) 429-1092.",
+   "description": "Speaker replacement and speaker installation for West Hollywood drivers at LA Car Beats by Audio MotorSports in Carson, 18.8 miles. Call (310) 513-8800.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

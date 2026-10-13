@@ -5,7 +5,7 @@ miles: 3.3
 lead_service: car window tint (heat angle)
 source: hub-mounted copy; standalone www host not verified
 title: Wilmington Window Tint | LA Car Tint by Audio MotorSports
-meta: Car window tint and ceramic window tint for Wilmington drivers, installed at Audio MotorSports in Carson, 3.3 miles away. Call (213) 429-1092 to book.
+meta: Car window tint and ceramic window tint for Wilmington drivers, installed at Audio MotorSports in Carson, 3.3 miles away. Call (310) 513-8800 to book.
 ---
 # Car Window Tint for Wilmington Drivers
 
@@ -61,7 +61,7 @@ Car stereo installation, Apple CarPlay and Android Auto installation, car alarm 
 
 ## Book window tint from Wilmington
 
-Call (213) 429-1092 or text (213) 429-1092 and tell us the year, make and model, then head to Audio MotorSports at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday to Saturday 9:30 to 6:00 and closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092 and tell us the year, make and model, then head to Audio MotorSports at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday to Saturday 9:30 to 6:00 and closed Sunday.
 
 ```json
 {
@@ -72,7 +72,7 @@ Call (213) 429-1092 or text (213) 429-1092 and tell us the year, make and model,
       "@id": "https://www.audiomotorsports.com/tint/window-tint-wilmington/#webpage",
       "url": "https://www.audiomotorsports.com/tint/window-tint-wilmington/",
       "name": "Wilmington Window Tint | LA Car Tint by Audio MotorSports",
-      "description": "Car window tint and ceramic window tint for Wilmington drivers, installed at Audio MotorSports in Carson, 3.3 miles away. Call (213) 429-1092 to book.",
+      "description": "Car window tint and ceramic window tint for Wilmington drivers, installed at Audio MotorSports in Carson, 3.3 miles away. Call (310) 513-8800 to book.",
       "dateModified": "2026-10-08",
       "about": {
         "@id": "https://www.audiomotorsports.com/#business"

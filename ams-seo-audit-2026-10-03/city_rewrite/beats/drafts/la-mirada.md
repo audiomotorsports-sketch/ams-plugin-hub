@@ -6,7 +6,7 @@ lead_service: speaker replacement and speaker installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: La Mirada Speaker Replacement | LA Car Beats
-meta: Speaker replacement, speaker installation and car stereo installation for La Mirada drivers at LA Car Beats by Audio MotorSports in Carson. Call (213) 429-1092.
+meta: Speaker replacement, speaker installation and car stereo installation for La Mirada drivers at LA Car Beats by Audio MotorSports in Carson. Call (310) 513-8800.
 ---
 # Speaker Replacement and Speaker Installation for La Mirada
 
@@ -22,7 +22,7 @@ Speaker replacement is the job La Mirada drivers book most at LA Car Beats, usua
 
 ## La Mirada to the bay
 
-La Mirada is about 15.6 miles from the shop, roughly 31 to 37 minutes outside rush hour (approx). Book at (213) 429-1092 or text (213) 429-1092. A front-door pair can be waited on; four doors plus an amplifier is a morning drop-off and we text when it is ready. Monday through Saturday 9:30 to 6:00, Sunday closed. [SHOP NOTE: 2-3 sentences from Nick about La Mirada customers, routes or jobs]
+La Mirada is about 15.6 miles from the shop, roughly 31 to 37 minutes outside rush hour (approx). Book at (310) 513-8800 or text (213) 429-1092. A front-door pair can be waited on; four doors plus an amplifier is a morning drop-off and we text when it is ready. Monday through Saturday 9:30 to 6:00, Sunday closed. [SHOP NOTE: 2-3 sentences from Nick about La Mirada customers, routes or jobs]
 
 <!-- owner-details-2026-10-07 -->
 If you would rather wait inside than make two trips from La Mirada, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. From La Mirada you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
@@ -59,7 +59,7 @@ Neighboring LA Car Beats pages: [Santa Fe Springs](/beats/car-stereo-santa-fe-sp
 
 ## Book speaker work from La Mirada
 
-Text the car and, if you can, which speaker is crackling; it speeds up the quote. Call (213) 429-1092 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Text the car and, if you can, which speaker is crackling; it speeds up the quote. Call (310) 513-8800 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -70,7 +70,7 @@ Text the car and, if you can, which speaker is crackling; it speeds up the quote
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-la-mirada/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-la-mirada/",
    "name": "La Mirada Speaker Replacement | LA Car Beats",
-   "description": "Speaker replacement, speaker installation and car stereo installation for La Mirada drivers at LA Car Beats by Audio MotorSports in Carson. Call (213) 429-1092.",
+   "description": "Speaker replacement, speaker installation and car stereo installation for La Mirada drivers at LA Car Beats by Audio MotorSports in Carson. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

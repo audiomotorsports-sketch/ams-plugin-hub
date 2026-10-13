@@ -4,7 +4,7 @@ city: Marina del Rey
 miles: 14.9
 lead_service: car window tint / ceramic window tint
 title: Car Window Tint for Marina del Rey | Audio MotorSports
-meta: Car window tint, ceramic tint, Tesla tint and car stereo installation for Marina del Rey drivers at Audio MotorSports, Carson, 14.9 miles. Call (213) 429-1092.
+meta: Car window tint, ceramic tint, Tesla tint and car stereo installation for Marina del Rey drivers at Audio MotorSports, Carson, 14.9 miles. Call (310) 513-8800.
 ---
 # Car Window Tint & Ceramic Window Tint for Marina del Rey
 
@@ -41,7 +41,7 @@ In our bay the glass is cleaned, the film is hand-cut on the window, heat-shrunk
 
 ### Is the drive from Marina del Rey worth it just for tint?
 
-It is 14.9 miles, roughly thirty to thirty-six minutes outside rush hour, and you leave with film that was cut on your glass by people who tint every day. Schedule by calling (213) 429-1092 or texting (213) 429-1092, then drop the car or wait while it is done.
+It is 14.9 miles, roughly thirty to thirty-six minutes outside rush hour, and you leave with film that was cut on your glass by people who tint every day. Schedule by calling (310) 513-8800 or texting (213) 429-1092, then drop the car or wait while it is done.
 
 ### Can you tint a Tesla rear window without seams?
 
@@ -65,7 +65,7 @@ Solar window tint is $249 installed and Solar Ceramic window tint is $329 instal
 
 ## Book your tint from Marina del Rey
 
-Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00, Sunday closed. Drop the car or wait for it.
+Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00, Sunday closed. Drop the car or wait for it.
 
 ```json
 {
@@ -76,7 +76,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio 
    "@id": "https://www.audiomotorsports.com/marina-del-rey/#webpage",
    "url": "https://www.audiomotorsports.com/marina-del-rey/",
    "name": "Car Window Tint for Marina del Rey | Audio MotorSports",
-   "description": "Car window tint, ceramic tint, Tesla tint and car stereo installation for Marina del Rey drivers at Audio MotorSports, Carson, 14.9 miles. Call (213) 429-1092.",
+   "description": "Car window tint, ceramic tint, Tesla tint and car stereo installation for Marina del Rey drivers at Audio MotorSports, Carson, 14.9 miles. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -134,7 +134,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio 
      "name": "Is the drive from Marina del Rey worth it just for tint?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "It is 14.9 miles, roughly thirty to thirty-six minutes outside rush hour, and you leave with film that was cut on your glass by people who tint every day. Schedule by calling (213) 429-1092 or texting (213) 429-1092, then drop the car or wait while it is done."
+      "text": "It is 14.9 miles, roughly thirty to thirty-six minutes outside rush hour, and you leave with film that was cut on your glass by people who tint every day. Schedule by calling (310) 513-8800 or texting (213) 429-1092, then drop the car or wait while it is done."
      }
     },
     {

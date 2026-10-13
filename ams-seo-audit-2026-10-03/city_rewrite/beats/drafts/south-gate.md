@@ -4,7 +4,7 @@ city: South Gate
 miles: 9.3
 lead_service: Apple CarPlay and Android Auto installation
 title: South Gate Apple CarPlay Installation | LA Car Beats
-meta: Apple CarPlay and Android Auto installation for South Gate at LA Car Beats by Audio MotorSports in Carson, plus speaker installs. Call (213) 429-1092.
+meta: Apple CarPlay and Android Auto installation for South Gate at LA Car Beats by Audio MotorSports in Carson, plus speaker installs. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Apple CarPlay and Android Auto Installation for South Gate
@@ -66,7 +66,7 @@ Nearby cities with their own LA Car Beats pages:
 
 ## Schedule CarPlay installation
 
-Reach us at (213) 429-1092 by phone or (213) 429-1092 by text. LA Car Beats, Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30 to 6:00, closed Sunday.
+Reach us at (310) 513-8800 by phone or (213) 429-1092 by text. LA Car Beats, Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30 to 6:00, closed Sunday.
 
 ```json
 {
@@ -77,7 +77,7 @@ Reach us at (213) 429-1092 by phone or (213) 429-1092 by text. LA Car Beats, Aud
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-south-gate/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-south-gate/",
    "name": "South Gate Apple CarPlay Installation | LA Car Beats",
-   "description": "Apple CarPlay and Android Auto installation for South Gate at LA Car Beats by Audio MotorSports in Carson, plus speaker installs. Call (213) 429-1092.",
+   "description": "Apple CarPlay and Android Auto installation for South Gate at LA Car Beats by Audio MotorSports in Carson, plus speaker installs. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

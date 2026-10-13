@@ -4,7 +4,7 @@ city: Redondo Beach
 miles: 7.2
 lead_service: Harley bagger audio (AMS pods)
 title: Harley Bagger Audio for Redondo Beach | Audio MotorSports
-meta: Harley bagger audio with AMS pods, car stereo installs and window tint for Redondo Beach riders. Audio MotorSports in Carson, 7.2 miles. Call (213) 429-1092.
+meta: Harley bagger audio with AMS pods, car stereo installs and window tint for Redondo Beach riders. Audio MotorSports in Carson, 7.2 miles. Call (310) 513-8800.
 ---
 # Harley Bagger Audio & Car Stereo for Redondo Beach
 
@@ -43,7 +43,7 @@ Yes. Redondo Beach is 7.2 miles from the shop, and bagger audio is a specialty h
 
 ### Can I hear a bagger system before I buy?
 
-Come by during business hours and we will show you a pod setup and an amplified fairing so you can hear the difference against stock speakers. Call (213) 429-1092 first so someone is free to walk you through it. No pressure to book that day.
+Come by during business hours and we will show you a pod setup and an amplified fairing so you can hear the difference against stock speakers. Call (310) 513-8800 first so someone is free to walk you through it. No pressure to book that day.
 
 ### Will window tint hold up on a car that lives by the ocean?
 
@@ -74,7 +74,7 @@ Everything else, including full bagger systems with amps and fairing speakers, i
 
 ## Ride over, or call first
 
-Call (213) 429-1092 or text (213) 429-1092 to schedule. We are at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-18:00, closed Sunday. Drop the bike off or wait while the pods go in.
+Call (310) 513-8800 or text (213) 429-1092 to schedule. We are at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-18:00, closed Sunday. Drop the bike off or wait while the pods go in.
 
 ```json
 {
@@ -85,7 +85,7 @@ Call (213) 429-1092 or text (213) 429-1092 to schedule. We are at 22025 S Avalon
    "@id": "https://www.audiomotorsports.com/redondo-beach/#webpage",
    "url": "https://www.audiomotorsports.com/redondo-beach/",
    "name": "Harley Bagger Audio for Redondo Beach | Audio MotorSports",
-   "description": "Harley bagger audio with AMS pods, car stereo installs and window tint for Redondo Beach riders. Audio MotorSports in Carson, 7.2 miles. Call (213) 429-1092.",
+   "description": "Harley bagger audio with AMS pods, car stereo installs and window tint for Redondo Beach riders. Audio MotorSports in Carson, 7.2 miles. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -143,7 +143,7 @@ Call (213) 429-1092 or text (213) 429-1092 to schedule. We are at 22025 S Avalon
      "name": "Can I hear a bagger system before I buy?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Come by during business hours and we will show you a pod setup and an amplified fairing so you can hear the difference against stock speakers. Call (213) 429-1092 first so someone is free to walk you through it. No pressure to book that day."
+      "text": "Come by during business hours and we will show you a pod setup and an amplified fairing so you can hear the difference against stock speakers. Call (310) 513-8800 first so someone is free to walk you through it. No pressure to book that day."
      }
     },
     {

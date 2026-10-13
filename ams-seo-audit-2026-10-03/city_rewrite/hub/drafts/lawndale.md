@@ -4,7 +4,7 @@ city: Lawndale
 miles: 6.5
 lead_service: alarm & remote start
 title: Car Alarm & Remote Start for Lawndale | Audio MotorSports
-meta: Car alarms, remote start, window tint and car stereo for Lawndale at Audio MotorSports in Carson, 6.5 miles out. Call (213) 429-1092 or text (213) 429-1092.
+meta: Car alarms, remote start, window tint and car stereo for Lawndale at Audio MotorSports in Carson, 6.5 miles out. Call (310) 513-8800 or text (213) 429-1092.
 ---
 # Car Alarms and Remote Start for Lawndale Drivers
 
@@ -66,7 +66,7 @@ We also serve these neighboring South Bay cities:
 
 ## Schedule from Lawndale
 
-Call (213) 429-1092, or text (213) 429-1092 with the vehicle details, and we will set a time. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Monday through Saturday 9:30 AM to 6:00 PM, closed Sundays.
+Call (310) 513-8800, or text (213) 429-1092 with the vehicle details, and we will set a time. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Monday through Saturday 9:30 AM to 6:00 PM, closed Sundays.
 
 ```json
 {
@@ -77,7 +77,7 @@ Call (213) 429-1092, or text (213) 429-1092 with the vehicle details, and we wil
    "@id": "https://www.audiomotorsports.com/lawndale/#webpage",
    "url": "https://www.audiomotorsports.com/lawndale/",
    "name": "Car Alarm & Remote Start for Lawndale | Audio MotorSports",
-   "description": "Car alarms, remote start, window tint and car stereo for Lawndale at Audio MotorSports in Carson, 6.5 miles out. Call (213) 429-1092 or text (213) 429-1092.",
+   "description": "Car alarms, remote start, window tint and car stereo for Lawndale at Audio MotorSports in Carson, 6.5 miles out. Call (310) 513-8800 or text (213) 429-1092.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

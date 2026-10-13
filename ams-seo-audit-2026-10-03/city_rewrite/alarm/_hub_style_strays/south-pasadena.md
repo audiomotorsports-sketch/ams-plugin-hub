@@ -4,7 +4,7 @@ city: South Pasadena
 miles: 20.7
 lead_service: factory-look installs
 title: Factory-Look Stereo Installs for South Pasadena | LA Car Beats
-meta: Factory-look car stereo installation, head unit installation and CarPlay for South Pasadena drivers at LA Car Beats by Audio MotorSports in Carson, 20.7 miles. Call (213) 429-1092.
+meta: Factory-look car stereo installation, head unit installation and CarPlay for South Pasadena drivers at LA Car Beats by Audio MotorSports in Carson, 20.7 miles. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Factory-Look Stereo Installs for South Pasadena
@@ -54,7 +54,7 @@ Yes. Amplifier installation puts the amp under a seat, behind trunk side trim or
 
 ### What is the loaded subwoofer box price?
 
-The Dual Kicker Comp loaded box is $249 box only as of October 2026. The amplifier, wiring and subwoofer installation labor are quoted at the shop by vehicle. Call (213) 429-1092 or text (213) 429-1092 with the year, make and model.
+The Dual Kicker Comp loaded box is $249 box only as of October 2026. The amplifier, wiring and subwoofer installation labor are quoted at the shop by vehicle. Call (310) 513-8800 or text (213) 429-1092 with the year, make and model.
 
 ## Pricing as of October 2026
 
@@ -70,7 +70,7 @@ Full-service pages on the main site: [Alhambra](/alhambra/) · [San Gabriel](/sa
 
 ## Book from South Pasadena
 
-Call (213) 429-1092 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, Monday through Saturday 9:30 to 6:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, Monday through Saturday 9:30 to 6:00, Sunday closed.
 
 ```json
 {
@@ -151,7 +151,7 @@ Call (213) 429-1092 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 2
      "name": "What is the loaded subwoofer box price?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "The Dual Kicker Comp loaded box is $249 box only as of October 2026. The amplifier, wiring and subwoofer installation labor are quoted at the shop by vehicle. Call (213) 429-1092 or text (213) 429-1092 with the year, make and model."
+      "text": "The Dual Kicker Comp loaded box is $249 box only as of October 2026. The amplifier, wiring and subwoofer installation labor are quoted at the shop by vehicle. Call (310) 513-8800 or text (213) 429-1092 with the year, make and model."
      }
     }
    ]

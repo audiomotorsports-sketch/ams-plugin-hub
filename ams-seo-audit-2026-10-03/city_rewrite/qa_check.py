@@ -2,7 +2,7 @@
 """Read-only QA for city-page drafts. usage: qa_check.py DRAFTS_DIR [--allsites]"""
 import sys,os,re,json,glob,collections
 d=sys.argv[1]; files=sorted(glob.glob(os.path.join(d,'*.md')))
-FORBID=['we do not invent','do not reverse','never imply','schema aggregate','locked','placeholder','todo','we are not in','lobby','roof tint','tint the roof','tint on the roof','film on the roof','koalafi','easypay','snap finance','100 days','100-day','48 states','48-state','nationwide shipping','national shipping','ppf','paint protection','glass repair','vinyl wrap','dj ','(310) 513-8800','650+','770+']
+FORBID=['we do not invent','do not reverse','never imply','schema aggregate','locked','placeholder','todo','we are not in','lobby','roof tint','tint the roof','tint on the roof','film on the roof','koalafi','easypay','snap finance','100 days','100-day','48 states','48-state','nationwide shipping','national shipping','ppf','paint protection','glass repair','vinyl wrap','dj ','650+','770+']
 PRICES_OK={'$249','$329','$269','$499','$649'}
 SERVICES=['window tint','ceramic','car audio','car stereo','subwoofer','amplifier','carplay','android auto','alarm','remote start','gps','dash cam','tesla','harley','bagger','pods']
 sent_index=collections.defaultdict(list); fails=0; warns=0; report=[]

@@ -5,7 +5,7 @@ miles: 16.4
 lead_service: Tesla window tint (Model 3)
 source: hub-mounted copy; standalone www host not verified
 title: Model 3 Window Tint for Westminster Owners | Tesla Tint LA
-meta: Model 3 ceramic window tint for Westminster Tesla owners at Tesla Tint LA by Audio MotorSports in Carson, 16.4 miles away. Call (213) 429-1092 to book.
+meta: Model 3 ceramic window tint for Westminster Tesla owners at Tesla Tint LA by Audio MotorSports in Carson, 16.4 miles away. Call (310) 513-8800 to book.
 ---
 # Model 3 Window Tint for Westminster Tesla Owners
 
@@ -68,7 +68,7 @@ Model 3 tint and every other Tesla are quoted by model at the shop; text the yea
 
 ## Book your appointment
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -79,7 +79,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-westminster/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-westminster/",
    "name": "Model 3 Window Tint for Westminster Owners | Tesla Tint LA",
-   "description": "Model 3 ceramic window tint for Westminster Tesla owners at Tesla Tint LA by Audio MotorSports in Carson, 16.4 miles away. Call (213) 429-1092 to book.",
+   "description": "Model 3 ceramic window tint for Westminster Tesla owners at Tesla Tint LA by Audio MotorSports in Carson, 16.4 miles away. Call (310) 513-8800 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

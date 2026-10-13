@@ -4,7 +4,7 @@ city: South Pasadena
 miles: 20.7
 lead_service: window tinting (valley heat and fading)
 title: Window Tinting South Pasadena | LA Car Tint, Carson
-meta: Window tinting and ceramic window tint for South Pasadena cars, hand-cut and installed by Audio MotorSports in Carson, 20.7 miles away. Call (213) 429-1092.
+meta: Window tinting and ceramic window tint for South Pasadena cars, hand-cut and installed by Audio MotorSports in Carson, 20.7 miles away. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Window Tinting for South Pasadena, by Audio MotorSports in Carson
@@ -49,7 +49,7 @@ Yes. A curved hatch window gets one sheet of film that is shrunk with heat to ma
 
 ### What is the booking process for a South Pasadena driver?
 
-Call (213) 429-1092 or text (213) 429-1092 with your year, make and model and the film you want. We set a time, you drive down, and the car goes straight into the bay. Wait on site or come back later the same day.
+Call (310) 513-8800 or text (213) 429-1092 with your year, make and model and the film you want. We set a time, you drive down, and the car goes straight into the bay. Wait on site or come back later the same day.
 
 ## Prices, as of October 2026
 
@@ -64,7 +64,7 @@ Solar window tinting $249 installed; Solar Ceramic window tinting $329 installed
 
 ## Book it
 
-Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
+Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
 
 ```json
 {
@@ -75,7 +75,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-south-pasadena/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-south-pasadena/",
    "name": "Window Tinting South Pasadena | LA Car Tint, Carson",
-   "description": "Window tinting and ceramic window tint for South Pasadena cars, hand-cut and installed by Audio MotorSports in Carson, 20.7 miles away. Call (213) 429-1092.",
+   "description": "Window tinting and ceramic window tint for South Pasadena cars, hand-cut and installed by Audio MotorSports in Carson, 20.7 miles away. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -147,7 +147,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "What is the booking process for a South Pasadena driver?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Call (213) 429-1092 or text (213) 429-1092 with your year, make and model and the film you want. We set a time, you drive down, and the car goes straight into the bay. Wait on site or come back later the same day."
+      "text": "Call (310) 513-8800 or text (213) 429-1092 with your year, make and model and the film you want. We set a time, you drive down, and the car goes straight into the bay. Wait on site or come back later the same day."
      }
     }
    ]

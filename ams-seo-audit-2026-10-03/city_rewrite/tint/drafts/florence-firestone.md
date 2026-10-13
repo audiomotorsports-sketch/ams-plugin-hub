@@ -4,7 +4,7 @@ city: Florence-Firestone
 miles: 10.0
 lead_service: window tinting (fleet and work vehicles)
 title: Florence-Firestone Window Tinting | LA Car Tint, Carson
-meta: Window tinting for Florence-Firestone work trucks, vans and daily drivers, installed by Audio MotorSports in Carson, 10 miles away. Call (213) 429-1092.
+meta: Window tinting for Florence-Firestone work trucks, vans and daily drivers, installed by Audio MotorSports in Carson, 10 miles away. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Window Tinting for Florence-Firestone Trucks, Vans and Cars
@@ -58,7 +58,7 @@ Four-door Solar is $249 installed, four-door Solar Ceramic is $329 installed, as
 
 ## Book the truck, the van or the car
 
-Call (213) 429-1092 or text (213) 429-1092 with the vehicle list. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30 a.m. to 6 p.m., closed Sundays.
+Call (310) 513-8800 or text (213) 429-1092 with the vehicle list. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30 a.m. to 6 p.m., closed Sundays.
 
 ```json
 {

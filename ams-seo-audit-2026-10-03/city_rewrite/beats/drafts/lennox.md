@@ -4,7 +4,7 @@ city: Lennox
 miles: 9.0
 lead_service: subwoofer installation and amplifier installation
 title: Lennox Subwoofer & Amplifier Installation | LA Car Beats
-meta: Subwoofer installation and amplifier installation for Lennox drivers at LA Car Beats by Audio MotorSports, Carson. Clean wiring, tuned. Call (213) 429-1092.
+meta: Subwoofer installation and amplifier installation for Lennox drivers at LA Car Beats by Audio MotorSports, Carson. Clean wiring, tuned. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Subwoofer and Amplifier Installation for Lennox
@@ -67,7 +67,7 @@ LA Car Beats city pages for areas around Lennox:
 
 ## Book subwoofer or amplifier installation
 
-Text (213) 429-1092 or call (213) 429-1092 and tell us the car and what you want it to do. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sunday.
+Text (213) 429-1092 or call (310) 513-8800 and tell us the car and what you want it to do. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -78,7 +78,7 @@ Text (213) 429-1092 or call (213) 429-1092 and tell us the car and what you want
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-lennox/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-lennox/",
    "name": "Lennox Subwoofer & Amplifier Installation | LA Car Beats",
-   "description": "Subwoofer installation and amplifier installation for Lennox drivers at LA Car Beats by Audio MotorSports, Carson. Clean wiring, tuned. Call (213) 429-1092.",
+   "description": "Subwoofer installation and amplifier installation for Lennox drivers at LA Car Beats by Audio MotorSports, Carson. Clean wiring, tuned. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

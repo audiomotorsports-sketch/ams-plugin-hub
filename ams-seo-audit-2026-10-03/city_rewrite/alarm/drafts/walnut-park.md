@@ -5,7 +5,7 @@ city: Walnut Park
 miles: 9.7
 lead_service: work-truck security
 title: Work Truck Alarm Installation, Walnut Park | LA Car Alarm
-meta: Work truck alarm installation, Viper alarms and GPS trackers for Walnut Park drivers at LA Car Alarm by Audio MotorSports, Carson. Call (213) 429-1092.
+meta: Work truck alarm installation, Viper alarms and GPS trackers for Walnut Park drivers at LA Car Alarm by Audio MotorSports, Carson. Call (310) 513-8800.
 ---
 # Work Truck Alarm Installation for Walnut Park
 
@@ -59,7 +59,7 @@ Viper 3108V $269 installed. Compustar 9910 remote start from $499. Tracker and c
 
 ## Book a Walnut Park truck alarm install
 
-Call (213) 429-1092 or text (213) 429-1092. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed. Customers rate the shop Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
+Call (310) 513-8800 or text (213) 429-1092. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed. Customers rate the shop Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ```json
 {

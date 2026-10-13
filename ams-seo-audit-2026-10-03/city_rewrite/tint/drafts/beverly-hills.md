@@ -4,7 +4,7 @@ city: Beverly Hills
 miles: 18.5
 lead_service: ceramic window tint
 title: Ceramic Window Tint Beverly Hills | LA Car Tint, Carson
-meta: Ceramic window tint for Beverly Hills luxury cars and Teslas, hand-cut and installed by Audio MotorSports in Carson, 18.5 miles away. Call (213) 429-1092.
+meta: Ceramic window tint for Beverly Hills luxury cars and Teslas, hand-cut and installed by Audio MotorSports in Carson, 18.5 miles away. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Ceramic Window Tint for Beverly Hills Cars, by Audio MotorSports, Carson
@@ -45,7 +45,7 @@ The glass is scrubbed and scraped, the film is cut on the window so it is handle
 
 ### Can a Beverly Hills owner drop the car and have it collected the same day?
 
-Yes. The install takes a few hours, so a morning drop-off is usually ready by afternoon. Some owners wait at the shop instead. Appointments are made by calling (213) 429-1092 or texting (213) 429-1092; tell us the model so the right time is set aside.
+Yes. The install takes a few hours, so a morning drop-off is usually ready by afternoon. Some owners wait at the shop instead. Appointments are made by calling (310) 513-8800 or texting (213) 429-1092; tell us the model so the right time is set aside.
 
 ### Why trust a Carson shop with a Beverly Hills car?
 
@@ -64,7 +64,7 @@ Solar window tint $249 installed and Solar Ceramic $329 installed, as of October
 
 ## Book it
 
-Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
+Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
 
 ```json
 {
@@ -75,7 +75,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-beverly-hills/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-beverly-hills/",
    "name": "Ceramic Window Tint Beverly Hills | LA Car Tint, Carson",
-   "description": "Ceramic window tint for Beverly Hills luxury cars and Teslas, hand-cut and installed by Audio MotorSports in Carson, 18.5 miles away. Call (213) 429-1092.",
+   "description": "Ceramic window tint for Beverly Hills luxury cars and Teslas, hand-cut and installed by Audio MotorSports in Carson, 18.5 miles away. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -139,7 +139,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "Can a Beverly Hills owner drop the car and have it collected the same day?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. The install takes a few hours, so a morning drop-off is usually ready by afternoon. Some owners wait at the shop instead. Appointments are made by calling (213) 429-1092 or texting (213) 429-1092; tell us the model so the right time is set aside."
+      "text": "Yes. The install takes a few hours, so a morning drop-off is usually ready by afternoon. Some owners wait at the shop instead. Appointments are made by calling (310) 513-8800 or texting (213) 429-1092; tell us the model so the right time is set aside."
      }
     },
     {

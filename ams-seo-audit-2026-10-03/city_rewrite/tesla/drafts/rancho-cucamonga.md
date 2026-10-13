@@ -4,7 +4,7 @@ city: Rancho Cucamonga
 miles: 53.6
 lead_service: Tesla window tint (Model S)
 title: Rancho Cucamonga Tesla Tint | Tesla Tint LA, Carson
-meta: Model S and all Tesla window tint for Rancho Cucamonga owners at Tesla Tint LA by Audio MotorSports in Carson, 53.6 miles. Ceramic film. Call (213) 429-1092.
+meta: Model S and all Tesla window tint for Rancho Cucamonga owners at Tesla Tint LA by Audio MotorSports in Carson, 53.6 miles. Ceramic film. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla Window Tint for Rancho Cucamonga, Model S First
@@ -60,7 +60,7 @@ Your Model S, or any Tesla, is quoted by model at the shop. For a non-Tesla refe
 
 ## Book the Model S
 
-Call (213) 429-1092 or text (213) 429-1092 with the model and year. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with the model and year. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

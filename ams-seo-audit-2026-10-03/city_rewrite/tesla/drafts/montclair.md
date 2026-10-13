@@ -4,7 +4,7 @@ city: Montclair
 miles: 46.3
 lead_service: Tesla window tint (camera and sensor clearance)
 title: Montclair Tesla Window Tint | Tesla Tint LA, Carson
-meta: Tesla window tint with every camera and sensor left clear, for Montclair owners at Tesla Tint LA by Audio MotorSports in Carson, 46 miles. Call (213) 429-1092.
+meta: Tesla window tint with every camera and sensor left clear, for Montclair owners at Tesla Tint LA by Audio MotorSports in Carson, 46 miles. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla Window Tint for Montclair, With Every Camera Left Clear
@@ -60,7 +60,7 @@ Tesla window tint is quoted by model at the shop, because glass and camera layou
 
 ## Make the appointment
 
-Call (213) 429-1092 or text (213) 429-1092 with your model and year. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with your model and year. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

@@ -4,7 +4,7 @@ city: El Monte
 miles: 26.6
 lead_service: Harley bagger audio
 title: Harley Bagger Audio & Tint for El Monte | Audio MotorSports
-meta: Bagger audio installation with AMS pods, window tint, car stereo and alarms for El Monte at Audio MotorSports in Carson, 26.6 miles. Call (213) 429-1092.
+meta: Bagger audio installation with AMS pods, window tint, car stereo and alarms for El Monte at Audio MotorSports in Carson, 26.6 miles. Call (310) 513-8800.
 ---
 # Harley Bagger Audio Installation for El Monte
 
@@ -69,7 +69,7 @@ Fairing speakers, amplifiers, car stereo installation, Tesla window tint, GPS tr
 
 ## Book your bagger from El Monte
 
-Call (213) 429-1092 or text (213) 429-1092 with the year and model of the bike. Audio MotorSports is at 22025 S Avalon Blvd Ste A in Carson, CA 90745, open Mon-Sat 9:30-6:00, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092 with the year and model of the bike. Audio MotorSports is at 22025 S Avalon Blvd Ste A in Carson, CA 90745, open Mon-Sat 9:30-6:00, closed Sunday.
 
 ```json
 {
@@ -80,7 +80,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the year and model of the bike. 
    "@id": "https://www.audiomotorsports.com/el-monte/#webpage",
    "url": "https://www.audiomotorsports.com/el-monte/",
    "name": "Harley Bagger Audio & Tint for El Monte | Audio MotorSports",
-   "description": "Bagger audio installation with AMS pods, window tint, car stereo and alarms for El Monte at Audio MotorSports in Carson, 26.6 miles. Call (213) 429-1092.",
+   "description": "Bagger audio installation with AMS pods, window tint, car stereo and alarms for El Monte at Audio MotorSports in Carson, 26.6 miles. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

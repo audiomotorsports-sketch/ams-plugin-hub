@@ -4,7 +4,7 @@ city: Pasadena
 miles: 28.6
 lead_service: CarPlay/Android Auto
 title: CarPlay Installation & Tint for Pasadena | Audio MotorSports
-meta: Apple CarPlay and Android Auto installation, window tint and alarms for Pasadena drivers at Audio MotorSports in Carson, 28.6 miles away. Call (213) 429-1092.
+meta: Apple CarPlay and Android Auto installation, window tint and alarms for Pasadena drivers at Audio MotorSports in Carson, 28.6 miles away. Call (310) 513-8800.
 ---
 # Apple CarPlay and Android Auto Installation for Pasadena
 
@@ -59,7 +59,7 @@ Window tint Solar $249, Solar Ceramic $329 installed. Viper 3108V alarm $269 ins
 
 ## Book a Pasadena install
 
-Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat from 9:30 to 18:00 and closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat from 9:30 to 18:00 and closed Sunday.
 
 ```json
 {
@@ -70,7 +70,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio 
    "@id": "https://www.audiomotorsports.com/pasadena/#webpage",
    "url": "https://www.audiomotorsports.com/pasadena/",
    "name": "CarPlay Installation & Tint for Pasadena | Audio MotorSports",
-   "description": "Apple CarPlay and Android Auto installation, window tint and alarms for Pasadena drivers at Audio MotorSports in Carson, 28.6 miles away. Call (213) 429-1092.",
+   "description": "Apple CarPlay and Android Auto installation, window tint and alarms for Pasadena drivers at Audio MotorSports in Carson, 28.6 miles away. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

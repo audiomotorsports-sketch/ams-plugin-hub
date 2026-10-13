@@ -4,7 +4,7 @@ city: Rancho Palos Verdes
 miles: 9.0
 lead_service: window tint / ceramic window tint
 title: Window Tint for Rancho Palos Verdes | Audio MotorSports
-meta: Ceramic window tint, car audio, CarPlay and alarms for Rancho Palos Verdes drivers at Audio MotorSports in Carson, 9 miles away. Call (213) 429-1092 to book.
+meta: Ceramic window tint, car audio, CarPlay and alarms for Rancho Palos Verdes drivers at Audio MotorSports in Carson, 9 miles away. Call (310) 513-8800 to book.
 ---
 # Window Tint & Ceramic Tint for Rancho Palos Verdes
 
@@ -37,7 +37,7 @@ For a Rancho Palos Verdes car that spends afternoons in direct sun, yes. Solar C
 
 ### How far is Audio MotorSports from Rancho Palos Verdes?
 
-The shop is 9 miles from Rancho Palos Verdes at 22025 S Avalon Blvd Ste A in Carson. Outside rush hour that is roughly eighteen to twenty-two minutes of driving. Book an appointment by calling (213) 429-1092 or texting (213) 429-1092, then drop the car or wait while the work is done.
+The shop is 9 miles from Rancho Palos Verdes at 22025 S Avalon Blvd Ste A in Carson. Outside rush hour that is roughly eighteen to twenty-two minutes of driving. Book an appointment by calling (310) 513-8800 or texting (213) 429-1092, then drop the car or wait while the work is done.
 
 ### What tint shade is legal on front windows in California?
 
@@ -72,7 +72,7 @@ Prices above are current as of October 2026. Tesla tint, removal of old film, st
 
 ## Schedule your tint
 
-Call (213) 429-1092 or text your year, make and model to (213) 429-1092. Audio MotorSports sits at 22025 S Avalon Blvd Ste A, Carson, CA 90745, with hours of Mon-Sat 9:30-18:00, closed Sunday. Drop-off and wait-while-we-work both welcome.
+Call (310) 513-8800 or text your year, make and model to (213) 429-1092. Audio MotorSports sits at 22025 S Avalon Blvd Ste A, Carson, CA 90745, with hours of Mon-Sat 9:30-18:00, closed Sunday. Drop-off and wait-while-we-work both welcome.
 
 ```json
 {
@@ -83,7 +83,7 @@ Call (213) 429-1092 or text your year, make and model to (213) 429-1092. Audio M
    "@id": "https://www.audiomotorsports.com/rancho-palos-verdes/#webpage",
    "url": "https://www.audiomotorsports.com/rancho-palos-verdes/",
    "name": "Window Tint for Rancho Palos Verdes | Audio MotorSports",
-   "description": "Ceramic window tint, car audio, CarPlay and alarms for Rancho Palos Verdes drivers at Audio MotorSports in Carson, 9 miles away. Call (213) 429-1092 to book.",
+   "description": "Ceramic window tint, car audio, CarPlay and alarms for Rancho Palos Verdes drivers at Audio MotorSports in Carson, 9 miles away. Call (310) 513-8800 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -133,7 +133,7 @@ Call (213) 429-1092 or text your year, make and model to (213) 429-1092. Audio M
      "name": "How far is Audio MotorSports from Rancho Palos Verdes?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "The shop is 9 miles from Rancho Palos Verdes at 22025 S Avalon Blvd Ste A in Carson. Outside rush hour that is roughly eighteen to twenty-two minutes of driving. Book an appointment by calling (213) 429-1092 or texting (213) 429-1092, then drop the car or wait while the work is done."
+      "text": "The shop is 9 miles from Rancho Palos Verdes at 22025 S Avalon Blvd Ste A in Carson. Outside rush hour that is roughly eighteen to twenty-two minutes of driving. Book an appointment by calling (310) 513-8800 or texting (213) 429-1092, then drop the car or wait while the work is done."
      }
     },
     {

@@ -4,7 +4,7 @@ city: Commerce
 miles: 13.1
 lead_service: Harley bagger audio installation (AMS pods)
 title: Harley Bagger Audio for Commerce Riders | Audio MotorSports
-meta: Commerce Harley riders get bagger audio installation and AMS pods at Audio MotorSports in Carson, 13.1 miles away, plus window tint and alarms. (213) 429-1092.
+meta: Commerce Harley riders get bagger audio installation and AMS pods at Audio MotorSports in Carson, 13.1 miles away, plus window tint and alarms. (310) 513-8800.
 ---
 # Harley Bagger Audio Installation for Commerce
 
@@ -49,7 +49,7 @@ We do. Head unit installation, speaker replacement, subwoofer installation and a
 
 ### How do I book bagger audio installation from Commerce?
 
-Call (213) 429-1092 or text (213) 429-1092 with your bike's year and model and what you want it to do. We will quote the pods, speakers and amp, set a date, and tell you whether to plan on waiting or leaving the bike. The shop is at 22025 S Avalon Blvd Ste A, Carson.
+Call (310) 513-8800 or text (213) 429-1092 with your bike's year and model and what you want it to do. We will quote the pods, speakers and amp, set a date, and tell you whether to plan on waiting or leaving the bike. The shop is at 22025 S Avalon Blvd Ste A, Carson.
 
 ## Commerce prices, as of October 2026
 
@@ -61,7 +61,7 @@ Riders and drivers nearby who make the same trip: [Vernon](/vernon/), [Montebell
 
 ## Book your Commerce bagger audio
 
-Call (213) 429-1092 or text the bike details to (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30 AM to 6:00 PM, Sunday closed.
+Call (310) 513-8800 or text the bike details to (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -72,7 +72,7 @@ Call (213) 429-1092 or text the bike details to (213) 429-1092. Audio MotorSport
    "@id": "https://www.audiomotorsports.com/city-of-commerce/#webpage",
    "url": "https://www.audiomotorsports.com/city-of-commerce/",
    "name": "Harley Bagger Audio for Commerce Riders | Audio MotorSports",
-   "description": "Commerce Harley riders get bagger audio installation and AMS pods at Audio MotorSports in Carson, 13.1 miles away, plus window tint and alarms. (213) 429-1092.",
+   "description": "Commerce Harley riders get bagger audio installation and AMS pods at Audio MotorSports in Carson, 13.1 miles away, plus window tint and alarms. (310) 513-8800.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {
@@ -147,7 +147,7 @@ Call (213) 429-1092 or text the bike details to (213) 429-1092. Audio MotorSport
      "name": "How do I book bagger audio installation from Commerce?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Call (213) 429-1092 or text (213) 429-1092 with your bike's year and model and what you want it to do. We will quote the pods, speakers and amp, set a date, and tell you whether to plan on waiting or leaving the bike. The shop is at 22025 S Avalon Blvd Ste A, Carson."
+      "text": "Call (310) 513-8800 or text (213) 429-1092 with your bike's year and model and what you want it to do. We will quote the pods, speakers and amp, set a date, and tell you whether to plan on waiting or leaving the bike. The shop is at 22025 S Avalon Blvd Ste A, Carson."
      }
     }
    ]

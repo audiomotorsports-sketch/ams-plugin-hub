@@ -4,7 +4,7 @@ city: Rowland Heights
 miles: 33.9
 lead_service: car stereo installation
 title: Car Stereo Install for Rowland Heights | Audio MotorSports
-meta: Car stereo installation, subwoofer and amp installs, tint and alarms for Rowland Heights drivers at Audio MotorSports in Carson, 33.9 miles. (213) 429-1092.
+meta: Car stereo installation, subwoofer and amp installs, tint and alarms for Rowland Heights drivers at Audio MotorSports in Carson, 33.9 miles. (310) 513-8800.
 ---
 # Car Stereo Installation for Rowland Heights
 
@@ -45,7 +45,7 @@ Yes. Speaker replacement on its own makes a clear difference, and adding an ampl
 
 ### How long will the car be at the shop from Rowland Heights?
 
-A head unit or speaker replacement is two to three hours, so you can wait. Amplifier installation with a subwoofer is most of a day, so dropping off in the morning is the usual plan. Call (213) 429-1092 to book and we will tell you which to expect for your job.
+A head unit or speaker replacement is two to three hours, so you can wait. Amplifier installation with a subwoofer is most of a day, so dropping off in the morning is the usual plan. Call (310) 513-8800 to book and we will tell you which to expect for your job.
 
 ### Will a subwoofer and amp dim my headlights?
 
@@ -72,7 +72,7 @@ Head units, speakers, amplifiers and labor on your car are quoted at the counter
 
 ## Get on the schedule from Rowland Heights
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745; open Monday to Saturday 9:30-18:00, closed Sunday. Drop off for the day or wait for shorter work.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745; open Monday to Saturday 9:30-18:00, closed Sunday. Drop off for the day or wait for shorter work.
 
 ```json
 {
@@ -83,7 +83,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/rowland-heights/#webpage",
    "url": "https://www.audiomotorsports.com/rowland-heights/",
    "name": "Car Stereo Install for Rowland Heights | Audio MotorSports",
-   "description": "Car stereo installation, subwoofer and amplifier installs, speaker replacement, tint and alarms for Rowland Heights at Audio MotorSports in Carson, 33.9 miles. (213) 429-1092.",
+   "description": "Car stereo installation, subwoofer and amplifier installs, speaker replacement, tint and alarms for Rowland Heights at Audio MotorSports in Carson, 33.9 miles. (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -149,7 +149,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "How long will the car be at the shop from Rowland Heights?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "A head unit or speaker replacement is two to three hours, so you can wait. Amplifier installation with a subwoofer is most of a day, so dropping off in the morning is the usual plan. Call (213) 429-1092 to book and we will tell you which to expect for your job."
+      "text": "A head unit or speaker replacement is two to three hours, so you can wait. Amplifier installation with a subwoofer is most of a day, so dropping off in the morning is the usual plan. Call (310) 513-8800 to book and we will tell you which to expect for your job."
      }
     },
     {

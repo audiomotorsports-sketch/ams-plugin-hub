@@ -4,7 +4,7 @@ city: Sherman Oaks
 miles: 24.7
 lead_service: Harley bagger audio for group rides
 title: Sherman Oaks Harley Bagger Audio | AMS Pods, Carson
-meta: Harley bagger audio for Sherman Oaks riders who ride in a pack: AMS lower-fairing pods, amplifier installation and tuning in Carson. Call (213) 429-1092.
+meta: Harley bagger audio for Sherman Oaks riders who ride in a pack: AMS lower-fairing pods, amplifier installation and tuning in Carson. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Bagger Audio Built for Sherman Oaks Group Rides
@@ -65,7 +65,7 @@ Other AMS Pods pages nearby: [Studio City](/amspods/bagger-audio-studio-city/), 
 
 ## Book from Sherman Oaks
 
-(213) 429-1092 voice, (213) 429-1092 text. 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+(310) 513-8800 voice, (213) 429-1092 text. 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -76,7 +76,7 @@ Other AMS Pods pages nearby: [Studio City](/amspods/bagger-audio-studio-city/), 
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-sherman-oaks/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-sherman-oaks/",
    "name": "Sherman Oaks Harley Bagger Audio | AMS Pods, Carson",
-   "description": "Harley bagger audio for Sherman Oaks riders who ride in a pack: AMS lower-fairing pods, amplifier installation and tuning in Carson. Call (213) 429-1092.",
+   "description": "Harley bagger audio for Sherman Oaks riders who ride in a pack: AMS lower-fairing pods, amplifier installation and tuning in Carson. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

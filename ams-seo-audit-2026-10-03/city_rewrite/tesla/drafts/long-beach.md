@@ -4,7 +4,7 @@ city: Long Beach
 miles: 5.7
 lead_service: Tesla window tint (one-piece rear glass)
 title: Long Beach Tesla Tint | Tesla Tint LA by Audio MotorSports
-meta: Long Beach Tesla window tint done in Carson by Tesla Tint LA, the Tesla side of Audio MotorSports. One-piece rear glass, ceramic film. Call (213) 429-1092.
+meta: Long Beach Tesla window tint done in Carson by Tesla Tint LA, the Tesla side of Audio MotorSports. One-piece rear glass, ceramic film. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla Window Tint for Long Beach Owners, Including the One-Piece Rear Glass
@@ -62,7 +62,7 @@ All Tesla models are quoted by model at the shop, not from a chart. If you want 
 
 ## Book it
 
-Text (213) 429-1092 or call (213) 429-1092 to book. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30-18:00, closed Sunday.
+Text (213) 429-1092 or call (310) 513-8800 to book. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {

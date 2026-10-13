@@ -4,12 +4,12 @@ city: Pico Rivera
 miles: 14.2
 lead_service: ceramic window tint (heat)
 title: Ceramic Window Tint Pico Rivera | LA Car Tint
-meta: Ceramic window tint that beats Pico Rivera heat, hand-cut and installed by LA Car Tint at Audio MotorSports in Carson, 14.2 miles away. Call (213) 429-1092.
+meta: Ceramic window tint that beats Pico Rivera heat, hand-cut and installed by LA Car Tint at Audio MotorSports in Carson, 14.2 miles away. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Ceramic Window Tint for Pico Rivera, by Audio MotorSports, Carson
 
-Pico Rivera gets hot, and ceramic window tint is the cheapest way to make a parked car bearable. LA Car Tint is the window tinting desk at Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, about 14.2 miles from Pico Rivera. Solar and Solar Ceramic car window tint are hand-cut on the glass here, and the bay also does remote start installation, car stereo installation, car alarm installation and Tesla window tint. Call (213) 429-1092.
+Pico Rivera gets hot, and ceramic window tint is the cheapest way to make a parked car bearable. LA Car Tint is the window tinting desk at Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, about 14.2 miles from Pico Rivera. Solar and Solar Ceramic car window tint are hand-cut on the glass here, and the bay also does remote start installation, car stereo installation, car alarm installation and Tesla window tint. Call (310) 513-8800.
 
 ## What Pico Rivera drivers bring us
 
@@ -62,7 +62,7 @@ Solar window tinting $249 installed; Solar Ceramic window tinting $329 installed
 
 ## Book it
 
-Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday through Saturday 9:30-6:00. Sunday closed.
+Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday through Saturday 9:30-6:00. Sunday closed.
 
 ```json
 {
@@ -73,7 +73,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-pico-rivera/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-pico-rivera/",
    "name": "Ceramic Window Tint Pico Rivera | LA Car Tint",
-   "description": "Ceramic window tint that beats Pico Rivera heat, hand-cut and installed by LA Car Tint at Audio MotorSports in Carson, 14.2 miles away. Call (213) 429-1092.",
+   "description": "Ceramic window tint that beats Pico Rivera heat, hand-cut and installed by LA Car Tint at Audio MotorSports in Carson, 14.2 miles away. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

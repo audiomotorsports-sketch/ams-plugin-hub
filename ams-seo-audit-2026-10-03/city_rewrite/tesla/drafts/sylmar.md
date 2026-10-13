@@ -5,7 +5,7 @@ miles: 34.9
 lead_service: Tesla window tint (Cybertruck)
 source: hub-mounted copy; standalone www host not verified
 title: Cybertruck & Tesla Tint for Sylmar Owners | Tesla Tint LA
-meta: Cybertruck and Tesla window tint for Sylmar owners, panels cut to the trim line. Tesla Tint LA by Audio MotorSports, Carson, 34.9 miles. Call (213) 429-1092.
+meta: Cybertruck and Tesla window tint for Sylmar owners, panels cut to the trim line. Tesla Tint LA by Audio MotorSports, Carson, 34.9 miles. Call (310) 513-8800.
 ---
 # Cybertruck and Tesla Window Tint for Sylmar Owners
 
@@ -52,7 +52,7 @@ No. Camera positions are masked before the glass is prepped and the film pattern
 
 ### How should a Sylmar owner plan the day?
 
-Book the earliest slot available, drop the Cybertruck off, and either wait at the shop or head out and return in the afternoon. Keep the windows up for several days while the film sets. Call (213) 429-1092 to set the time before you leave Sylmar.
+Book the earliest slot available, drop the Cybertruck off, and either wait at the shop or head out and return in the afternoon. Keep the windows up for several days while the film sets. Call (310) 513-8800 to set the time before you leave Sylmar.
 
 ## Pricing
 
@@ -66,7 +66,7 @@ Cybertruck and every other Tesla are quoted by model at the shop; text the year 
 
 ## Book your appointment
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -77,7 +77,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-sylmar/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-sylmar/",
    "name": "Cybertruck & Tesla Tint for Sylmar Owners | Tesla Tint LA",
-   "description": "Cybertruck and Tesla window tint for Sylmar owners, panels cut to the trim line. Tesla Tint LA by Audio MotorSports, Carson, 34.9 miles. Call (213) 429-1092.",
+   "description": "Cybertruck and Tesla window tint for Sylmar owners, panels cut to the trim line. Tesla Tint LA by Audio MotorSports, Carson, 34.9 miles. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -151,7 +151,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "How should a Sylmar owner plan the day?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Book the earliest slot available, drop the Cybertruck off, and either wait at the shop or head out and return in the afternoon. Keep the windows up for several days while the film sets. Call (213) 429-1092 to set the time before you leave Sylmar."
+      "text": "Book the earliest slot available, drop the Cybertruck off, and either wait at the shop or head out and return in the afternoon. Keep the windows up for several days while the film sets. Call (310) 513-8800 to set the time before you leave Sylmar."
      }
     }
    ]

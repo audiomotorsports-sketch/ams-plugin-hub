@@ -4,7 +4,7 @@ city: Malibu
 miles: 32.6
 lead_service: Harley bagger audio wiring inside the fairing
 title: Malibu Harley Bagger Audio Wiring & AMS Pods | Carson
-meta: Harley bagger audio wiring done clean inside the fairing, AMS pods and amp install for Malibu riders. AMS Pods by Audio MotorSports, Carson. (213) 429-1092.
+meta: Harley bagger audio wiring done clean inside the fairing, AMS pods and amp install for Malibu riders. AMS Pods by Audio MotorSports, Carson. (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Clean Fairing Wiring and AMS Pods for Malibu Harley Riders
@@ -65,7 +65,7 @@ Pages for riders in [Pacific Palisades](/amspods/bagger-audio-pacific-palisades/
 
 ## Get it done once
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -76,7 +76,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-malibu/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-malibu/",
    "name": "Malibu Harley Bagger Audio Wiring & AMS Pods | Carson",
-   "description": "Harley bagger audio wiring done clean inside the fairing, AMS pods and amp install for Malibu riders. AMS Pods by Audio MotorSports, Carson. (213) 429-1092.",
+   "description": "Harley bagger audio wiring done clean inside the fairing, AMS pods and amp install for Malibu riders. AMS Pods by Audio MotorSports, Carson. (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

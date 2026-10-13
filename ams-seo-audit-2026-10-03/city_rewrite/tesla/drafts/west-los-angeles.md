@@ -5,7 +5,7 @@ miles: 18.0
 lead_service: Tesla window tint (Model Y)
 source: hub-mounted copy; standalone www host not verified
 title: Model Y Tint for West Los Angeles | Tesla Tint LA
-meta: Model Y ceramic window tint for West Los Angeles Tesla owners at Tesla Tint LA by Audio MotorSports in Carson, 18 miles away. Call (213) 429-1092 to book.
+meta: Model Y ceramic window tint for West Los Angeles Tesla owners at Tesla Tint LA by Audio MotorSports in Carson, 18 miles away. Call (310) 513-8800 to book.
 ---
 # Model Y Window Tint for West Los Angeles Drivers
 
@@ -68,7 +68,7 @@ The Model Y and every other Tesla are quoted by model at the shop; text the year
 
 ## Book your appointment
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -79,7 +79,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-west-los-angeles/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-west-los-angeles/",
    "name": "Model Y Tint for West Los Angeles | Tesla Tint LA",
-   "description": "Model Y ceramic window tint for West Los Angeles Tesla owners at Tesla Tint LA by Audio MotorSports in Carson, 18 miles away. Call (213) 429-1092 to book.",
+   "description": "Model Y ceramic window tint for West Los Angeles Tesla owners at Tesla Tint LA by Audio MotorSports in Carson, 18 miles away. Call (310) 513-8800 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

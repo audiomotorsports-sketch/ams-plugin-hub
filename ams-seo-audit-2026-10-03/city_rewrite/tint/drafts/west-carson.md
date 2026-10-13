@@ -4,12 +4,12 @@ city: West Carson
 miles: 1.8
 lead_service: car window tint / ceramic window tint (heat)
 title: Car Window Tint West Carson | LA Car Tint
-meta: Car window tint and ceramic window tinting for West Carson drivers at LA Car Tint by Audio MotorSports in Carson, 1.8 miles away. Call (213) 429-1092.
+meta: Car window tint and ceramic window tinting for West Carson drivers at LA Car Tint by Audio MotorSports in Carson, 1.8 miles away. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Window Tint for West Carson, by Audio MotorSports in Carson
 
-LA Car Tint is the window tinting desk at Audio MotorSports, 22025 S Avalon Blvd Ste A in Carson, about 1.8 miles from West Carson. We install Solar and Solar Ceramic car window tint that cuts cabin heat, hand-cutting the film on the glass so edges sit clean, and the same bay does car stereo installation, car alarm installation, remote start installation and Tesla window tint. Call (213) 429-1092 or text (213) 429-1092 to book.
+LA Car Tint is the window tinting desk at Audio MotorSports, 22025 S Avalon Blvd Ste A in Carson, about 1.8 miles from West Carson. We install Solar and Solar Ceramic car window tint that cuts cabin heat, hand-cutting the film on the glass so edges sit clean, and the same bay does car stereo installation, car alarm installation, remote start installation and Tesla window tint. Call (310) 513-8800 or text (213) 429-1092 to book.
 
 ## What West Carson drivers bring us
 
@@ -62,7 +62,7 @@ Solar car window tint runs $249 installed, and Solar Ceramic is $329 installed, 
 
 ## Book it
 
-Call (213) 429-1092. Text (213) 429-1092. 22025 S Avalon Blvd Ste A. Carson, CA 90745. Mon-Sat 9:30-6:00. Sunday closed.
+Call (310) 513-8800. Text (213) 429-1092. 22025 S Avalon Blvd Ste A. Carson, CA 90745. Mon-Sat 9:30-6:00. Sunday closed.
 
 ```json
 {
@@ -73,7 +73,7 @@ Call (213) 429-1092. Text (213) 429-1092. 22025 S Avalon Blvd Ste A. Carson, CA 
    "@id": "https://www.audiomotorsports.com/tint/window-tint-west-carson/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-west-carson/",
    "name": "Car Window Tint West Carson | LA Car Tint",
-   "description": "Car window tint and ceramic window tinting for West Carson drivers at LA Car Tint by Audio MotorSports in Carson, 1.8 miles away. Call (213) 429-1092.",
+   "description": "Car window tint and ceramic window tinting for West Carson drivers at LA Car Tint by Audio MotorSports in Carson, 1.8 miles away. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

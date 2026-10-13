@@ -4,7 +4,7 @@ city: Vernon
 miles: 12.1
 lead_service: fleet window tinting
 title: Vernon Fleet Window Tinting | LA Car Tint, Carson
-meta: Fleet window tinting for Vernon trucks, vans and company cars, scheduled back to back at Audio MotorSports in Carson, 12.1 miles away. Call (213) 429-1092.
+meta: Fleet window tinting for Vernon trucks, vans and company cars, scheduled back to back at Audio MotorSports in Carson, 12.1 miles away. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Fleet and Commercial Window Tinting for Vernon
@@ -58,7 +58,7 @@ The four-door Solar package is $249 installed and Solar Ceramic is $329 installe
 
 ## Book the fleet
 
-Call (213) 429-1092 or text (213) 429-1092 with the vehicle list. Audio MotorSports is located at 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092 with the vehicle list. Audio MotorSports is located at 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {

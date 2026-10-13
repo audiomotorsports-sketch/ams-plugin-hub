@@ -4,7 +4,7 @@ city: Studio City
 miles: 23.4
 lead_service: bagger audio for riding with a group
 title: Harley Bagger Audio Studio City | AMS Pods
-meta: Group-ride Harley bagger audio for Studio City riders: AMS pods, amplifier installation and bag-lid bass at Audio MotorSports in Carson. Call (213) 429-1092.
+meta: Group-ride Harley bagger audio for Studio City riders: AMS pods, amplifier installation and bag-lid bass at Audio MotorSports in Carson. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Bagger Audio for Studio City Riders Who Roll Out in a Pack
@@ -65,7 +65,7 @@ Riders also come in from [Sherman Oaks](/amspods/bagger-audio-sherman-oaks/), [N
 
 ## Book before the next pack ride
 
-Call (213) 429-1092 or text (213) 429-1092 with the year and model for every bike in the group. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with the year and model for every bike in the group. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -76,7 +76,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the year and model for every bik
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-studio-city/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-studio-city/",
    "name": "Harley Bagger Audio Studio City | AMS Pods",
-   "description": "Group-ride Harley bagger audio for Studio City riders: AMS pods, amplifier installation and bag-lid bass at Audio MotorSports in Carson. Call (213) 429-1092.",
+   "description": "Group-ride Harley bagger audio for Studio City riders: AMS pods, amplifier installation and bag-lid bass at Audio MotorSports in Carson. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

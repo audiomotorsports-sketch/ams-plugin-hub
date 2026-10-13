@@ -4,7 +4,7 @@ city: Malibu
 miles: 32.6
 lead_service: car window tint / ceramic window tint
 title: Car Window Tint for Malibu Drivers | Audio MotorSports
-meta: Malibu car window tint and ceramic tint at Audio MotorSports in Carson, 32.6 miles away, plus car stereo, CarPlay and alarm installation. Call (213) 429-1092.
+meta: Malibu car window tint and ceramic tint at Audio MotorSports in Carson, 32.6 miles away, plus car stereo, CarPlay and alarm installation. Call (310) 513-8800.
 ---
 # Car Window Tint for Malibu Drivers
 
@@ -59,7 +59,7 @@ Solar window tint $249 installed. Solar Ceramic window tint $329 installed. Vipe
 
 ## Book window tint from Malibu
 
-Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -70,7 +70,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio 
    "@id": "https://www.audiomotorsports.com/malibu/#webpage",
    "url": "https://www.audiomotorsports.com/malibu/",
    "name": "Car Window Tint for Malibu Drivers | Audio MotorSports",
-   "description": "Malibu car window tint and ceramic tint at Audio MotorSports in Carson, 32.6 miles away, plus car stereo, CarPlay and alarm installation. Call (213) 429-1092.",
+   "description": "Malibu car window tint and ceramic tint at Audio MotorSports in Carson, 32.6 miles away, plus car stereo, CarPlay and alarm installation. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

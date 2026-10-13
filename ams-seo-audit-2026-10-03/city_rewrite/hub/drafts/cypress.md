@@ -4,7 +4,7 @@ city: Cypress
 miles: 13.0
 lead_service: Window tint
 title: Window Tint & Car Stereo for Cypress | Audio MotorSports
-meta: Car window tint, ceramic tint, car stereo installation and alarms for Cypress drivers at Audio MotorSports in Carson, 13 miles away. Call (213) 429-1092.
+meta: Car window tint, ceramic tint, car stereo installation and alarms for Cypress drivers at Audio MotorSports in Carson, 13 miles away. Call (310) 513-8800.
 ---
 # Window Tint and Car Stereo for Cypress
 
@@ -72,7 +72,7 @@ Tesla window tint, stereos, GPS tracking and dash cameras are quoted at the shop
 
 ## Book tint from Cypress
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745; open Mon-Sat 9:30 to 6:00 and closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745; open Mon-Sat 9:30 to 6:00 and closed Sunday.
 
 ```json
 {
@@ -83,7 +83,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/cypress/#webpage",
    "url": "https://www.audiomotorsports.com/cypress/",
    "name": "Window Tint & Car Stereo for Cypress | Audio MotorSports",
-   "description": "Car window tint, ceramic tint, car stereo installation and alarms for Cypress drivers at Audio MotorSports in Carson, 13 miles away. Call (213) 429-1092.",
+   "description": "Car window tint, ceramic tint, car stereo installation and alarms for Cypress drivers at Audio MotorSports in Carson, 13 miles away. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

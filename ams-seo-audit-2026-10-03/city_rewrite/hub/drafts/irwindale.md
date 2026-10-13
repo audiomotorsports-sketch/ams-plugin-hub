@@ -4,7 +4,7 @@ city: Irwindale
 miles: 33.5
 lead_service: CarPlay/Android Auto
 title: CarPlay & Android Auto for Irwindale | Audio MotorSports
-meta: Apple CarPlay and Android Auto installation for Irwindale drivers at Audio MotorSports in Carson, 33.5 miles away. Tint and alarms too. Call (213) 429-1092.
+meta: Apple CarPlay and Android Auto installation for Irwindale drivers at Audio MotorSports in Carson, 33.5 miles away. Tint and alarms too. Call (310) 513-8800.
 ---
 # Apple CarPlay and Android Auto Installation for Irwindale
 
@@ -67,7 +67,7 @@ Pages for the cities next to Irwindale:
 
 ## Schedule CarPlay from Irwindale
 
-Text (213) 429-1092 with your year, make and model, or call (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30 AM to 6:00 PM; closed Sunday.
+Text (213) 429-1092 with your year, make and model, or call (310) 513-8800. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30 AM to 6:00 PM; closed Sunday.
 
 ```json
 {
@@ -78,7 +78,7 @@ Text (213) 429-1092 with your year, make and model, or call (213) 429-1092. Audi
    "@id": "https://www.audiomotorsports.com/irwindale/#webpage",
    "url": "https://www.audiomotorsports.com/irwindale/",
    "name": "CarPlay & Android Auto for Irwindale | Audio MotorSports",
-   "description": "Apple CarPlay and Android Auto installation for Irwindale drivers at Audio MotorSports in Carson, 33.5 miles away. Tint and alarms too. Call (213) 429-1092.",
+   "description": "Apple CarPlay and Android Auto installation for Irwindale drivers at Audio MotorSports in Carson, 33.5 miles away. Tint and alarms too. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

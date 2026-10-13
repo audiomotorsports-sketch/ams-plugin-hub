@@ -4,7 +4,7 @@ city: El Segundo
 miles: 10.8
 lead_service: Harley bagger audio installation
 title: Bagger Audio Installation, El Segundo | Audio MotorSports
-meta: Harley bagger audio with AMS pods, car window tint, stereo and alarm installation for El Segundo riders and drivers. Audio MotorSports, Carson. (213) 429-1092.
+meta: Harley bagger audio with AMS pods, car window tint, stereo and alarm installation for El Segundo riders and drivers. Audio MotorSports, Carson. (310) 513-8800.
 ---
 # Harley Bagger Audio Installation for El Segundo Riders
 
@@ -29,7 +29,7 @@ Plenty of El Segundo drivers wait inside; there is seating, a TV with Netflix, f
 
 ## Riding in from El Segundo
 
-El Segundo is about 10.8 miles from the shop, roughly 22 to 26 minutes (approx) in easy traffic. Bay hours are Monday through Saturday, 9:30 to 6, closed Sunday. Set up a time, then leave the bike with us or stick around while the pods go on. To book, call (213) 429-1092 or send a text to (213) 429-1092 with the year and model. El Segundo riders can see the track record on Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
+El Segundo is about 10.8 miles from the shop, roughly 22 to 26 minutes (approx) in easy traffic. Bay hours are Monday through Saturday, 9:30 to 6, closed Sunday. Set up a time, then leave the bike with us or stick around while the pods go on. To book, call (310) 513-8800 or send a text to (213) 429-1092 with the year and model. El Segundo riders can see the track record on Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 [SHOP NOTE: 2-3 sentences from Nick about El Segundo customers, routes or jobs]
 
@@ -76,7 +76,7 @@ Amplifier installation, fairing speaker installation, car stereo work, GPS and d
 
 ## Book bagger audio from El Segundo
 
-Call (213) 429-1092. Text (213) 429-1092 with your bike. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800. Text (213) 429-1092 with your bike. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

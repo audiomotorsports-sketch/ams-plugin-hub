@@ -4,7 +4,7 @@ city: Wilmington
 miles: 3.3
 lead_service: Tesla window tint (Model S)
 title: Tesla Window Tint for Wilmington | Tesla Tint LA, Carson
-meta: Tesla window tint for Wilmington owners, about 3 miles away at Audio MotorSports in Carson. Model S, 3, X, Y, Cybertruck. Ceramic film. Call (213) 429-1092.
+meta: Tesla window tint for Wilmington owners, about 3 miles away at Audio MotorSports in Carson. Model S, 3, X, Y, Cybertruck. Ceramic film. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 
@@ -65,9 +65,9 @@ Other harbor-area cities that drive in for Tesla window tint:
 
 ## Book your Wilmington Tesla tint
 
-Call (213) 429-1092 or text (213) 429-1092 with your Tesla model and year.
+Call (310) 513-8800 or text (213) 429-1092 with your Tesla model and year.
 
-Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Call (213) 429-1092 or text (213) 429-1092. Mon-Sat 9:30-18:00, Sunday closed.
+Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Call (310) 513-8800 or text (213) 429-1092. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -78,7 +78,7 @@ Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Call (213) 429-1
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-wilmington/#webpage",
    "name": "Tesla Window Tint for Wilmington | Tesla Tint LA, Carson",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-wilmington/",
-   "description": "Tesla window tint for Wilmington owners, about 3 miles away at Audio MotorSports in Carson. Model S, 3, X, Y, Cybertruck. Ceramic film. Call (213) 429-1092.",
+   "description": "Tesla window tint for Wilmington owners, about 3 miles away at Audio MotorSports in Carson. Model S, 3, X, Y, Cybertruck. Ceramic film. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

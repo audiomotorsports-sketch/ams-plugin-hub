@@ -4,7 +4,7 @@ city: East Los Angeles
 miles: 14.5
 lead_service: factory-look car stereo installation
 title: East Los Angeles Factory-Look Car Stereo | LA Car Beats
-meta: Factory-look car stereo installation and head unit installation for East Los Angeles drivers at LA Car Beats by Audio MotorSports, Carson. Call (213) 429-1092.
+meta: Factory-look car stereo installation and head unit installation for East Los Angeles drivers at LA Car Beats by Audio MotorSports, Carson. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Factory-Look Car Stereo Installation for East Los Angeles
@@ -66,7 +66,7 @@ LA Car Beats pages for neighbors of East Los Angeles:
 
 ## Book a factory-look stereo install
 
-Call (213) 429-1092 or text (213) 429-1092 to book. LA Car Beats at Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30-18:00; Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 to book. LA Car Beats at Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30-18:00; Sunday closed.
 
 ```json
 {
@@ -77,7 +77,7 @@ Call (213) 429-1092 or text (213) 429-1092 to book. LA Car Beats at Audio MotorS
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-east-los-angeles/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-east-los-angeles/",
    "name": "East Los Angeles Factory-Look Car Stereo | LA Car Beats",
-   "description": "Factory-look car stereo installation and head unit installation for East Los Angeles drivers at LA Car Beats by Audio MotorSports, Carson. Call (213) 429-1092.",
+   "description": "Factory-look car stereo installation and head unit installation for East Los Angeles drivers at LA Car Beats by Audio MotorSports, Carson. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

@@ -4,7 +4,7 @@ city: Rolling Hills
 miles: 7.2
 lead_service: truck and SUV car audio installation
 title: Rolling Hills Truck & SUV Car Audio | LA Car Beats, Carson
-meta: Truck and SUV car stereo installation, subwoofer and amplifier installs for Rolling Hills drivers. LA Car Beats, Audio MotorSports, Carson. Call (213) 429-1092.
+meta: Truck and SUV car stereo installation, subwoofer and amplifier installs for Rolling Hills drivers. LA Car Beats, Audio MotorSports, Carson. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Truck and SUV Car Audio Installation for Rolling Hills
@@ -67,7 +67,7 @@ Other LA Car Beats city pages near Rolling Hills:
 
 ## Set up your truck or SUV install
 
-Call (213) 429-1092, or text (213) 429-1092 with the year, make and model of your truck or SUV. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-18:00, Sunday closed.
+Call (310) 513-8800, or text (213) 429-1092 with the year, make and model of your truck or SUV. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -78,7 +78,7 @@ Call (213) 429-1092, or text (213) 429-1092 with the year, make and model of you
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-rolling-hills/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-rolling-hills/",
    "name": "Rolling Hills Truck & SUV Car Audio | LA Car Beats, Carson",
-   "description": "Truck and SUV car stereo installation, subwoofer and amplifier installs for Rolling Hills drivers. LA Car Beats, Audio MotorSports, Carson. Call (213) 429-1092.",
+   "description": "Truck and SUV car stereo installation, subwoofer and amplifier installs for Rolling Hills drivers. LA Car Beats, Audio MotorSports, Carson. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

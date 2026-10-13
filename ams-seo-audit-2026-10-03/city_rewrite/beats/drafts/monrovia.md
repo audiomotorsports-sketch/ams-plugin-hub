@@ -6,7 +6,7 @@ lead_service: speaker replacement
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Monrovia Speaker Replacement & Car Audio | LA Car Beats
-meta: Speaker replacement, car stereo installation and amplifier installation for Monrovia drivers at Audio MotorSports in Carson, 33.3 miles. Call (213) 429-1092.
+meta: Speaker replacement, car stereo installation and amplifier installation for Monrovia drivers at Audio MotorSports in Carson, 33.3 miles. Call (310) 513-8800.
 ---
 # Speaker Replacement and Car Audio Installation for Monrovia
 
@@ -22,7 +22,7 @@ Monrovia drivers make the trip to LA Car Beats by Audio MotorSports, Carson, for
 
 ## Monrovia to the Carson bay
 
-Monrovia to the shop is about 33.3 miles, roughly 67 to 80 minutes outside rush hour (approx). We are open Monday through Saturday, 9:30 to 6:00, and closed on Sunday. Call (213) 429-1092 or text (213) 429-1092 to book. Because of the distance, Monrovia drivers usually bundle speaker replacement with a head unit or amp and drop the car off in the morning for same-day pickup. Customers have come from Temecula and San Diego, about 120 miles, so Monrovia is well within range. [SHOP NOTE: 2-3 sentences from Nick about Monrovia customers, routes or jobs]
+Monrovia to the shop is about 33.3 miles, roughly 67 to 80 minutes outside rush hour (approx). We are open Monday through Saturday, 9:30 to 6:00, and closed on Sunday. Call (310) 513-8800 or text (213) 429-1092 to book. Because of the distance, Monrovia drivers usually bundle speaker replacement with a head unit or amp and drop the car off in the morning for same-day pickup. Customers have come from Temecula and San Diego, about 120 miles, so Monrovia is well within range. [SHOP NOTE: 2-3 sentences from Nick about Monrovia customers, routes or jobs]
 
 <!-- owner-details-2026-10-07 -->
 Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Monrovia customers tell us makes the drop-off painless. The shop is LGBTQ-friendly and everyone from Monrovia is welcome, as our Google and Yelp listings state. Coming from Monrovia, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
@@ -59,7 +59,7 @@ Car stereo installation pages for the foothill cities: [Pasadena](/beats/car-ste
 
 ## Book the Monrovia trip
 
-Call (213) 429-1092 or text (213) 429-1092 with the vehicle details. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092 with the vehicle details. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -71,7 +71,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the vehicle details. Audio Motor
    "name": "Monrovia Speaker Replacement & Car Audio | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-monrovia/",
    "dateModified": "2026-10-08",
-   "description": "Speaker replacement, car stereo installation and amplifier installation for Monrovia drivers at Audio MotorSports in Carson, 33.3 miles. Call (213) 429-1092.",
+   "description": "Speaker replacement, car stereo installation and amplifier installation for Monrovia drivers at Audio MotorSports in Carson, 33.3 miles. Call (310) 513-8800.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

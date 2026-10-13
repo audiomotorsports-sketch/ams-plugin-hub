@@ -6,7 +6,7 @@ lead_service: speaker replacement
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Speaker Replacement for Lakewood Cars | LA Car Beats
-meta: Speaker replacement, speaker installation and car stereo installation for Lakewood drivers at LA Car Beats, Audio MotorSports, Carson. Call (213) 429-1092.
+meta: Speaker replacement, speaker installation and car stereo installation for Lakewood drivers at LA Car Beats, Audio MotorSports, Carson. Call (310) 513-8800.
 ---
 # Speaker Replacement and Speaker Installation for Lakewood
 
@@ -22,7 +22,7 @@ Lakewood drivers bring LA Car Beats a lot of cars with blown or tired factory sp
 
 ## Getting here from Lakewood
 
-Lakewood sits about 7.7 miles from the Carson bay, roughly 15 to 18 minutes outside rush hour (approx). Book a slot by calling (213) 429-1092 or texting (213) 429-1092. A front-speaker replacement can be waited on; a full four-door swap with an amplifier is a drop-off, and we will text when it is ready. Hours are Monday to Saturday 9:30 to 6:00, Sunday closed. [SHOP NOTE: 2-3 sentences from Nick about Lakewood customers, routes or jobs]
+Lakewood sits about 7.7 miles from the Carson bay, roughly 15 to 18 minutes outside rush hour (approx). Book a slot by calling (310) 513-8800 or texting (213) 429-1092. A front-speaker replacement can be waited on; a full four-door swap with an amplifier is a drop-off, and we will text when it is ready. Hours are Monday to Saturday 9:30 to 6:00, Sunday closed. [SHOP NOTE: 2-3 sentences from Nick about Lakewood customers, routes or jobs]
 
 <!-- owner-details-2026-10-07 -->
 Waiting inside is easy for Lakewood customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. From Lakewood you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
@@ -59,7 +59,7 @@ More LA Car Beats pages near Lakewood: [Long Beach](/beats/car-stereo-long-beach
 
 ## Book speaker work from Lakewood
 
-Text the vehicle and a photo of the door speaker if you have one; we quote faster with it. Call (213) 429-1092 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Text the vehicle and a photo of the door speaker if you have one; we quote faster with it. Call (310) 513-8800 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -70,7 +70,7 @@ Text the vehicle and a photo of the door speaker if you have one; we quote faste
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-lakewood/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-lakewood/",
    "name": "Speaker Replacement for Lakewood Cars | LA Car Beats",
-   "description": "Speaker replacement, speaker installation and car stereo installation for Lakewood drivers at LA Car Beats, Audio MotorSports, Carson. Call (213) 429-1092.",
+   "description": "Speaker replacement, speaker installation and car stereo installation for Lakewood drivers at LA Car Beats, Audio MotorSports, Carson. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

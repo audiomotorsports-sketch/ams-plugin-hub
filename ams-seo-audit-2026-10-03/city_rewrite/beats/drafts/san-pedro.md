@@ -6,7 +6,7 @@ lead_service: amplifier installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Amplifier Installation for San Pedro | LA Car Beats
-meta: Amplifier installation, speaker replacement and subwoofer installation for San Pedro at LA Car Beats, Audio MotorSports, Carson, 6.5 miles. Call (213) 429-1092.
+meta: Amplifier installation, speaker replacement and subwoofer installation for San Pedro at LA Car Beats, Audio MotorSports, Carson, 6.5 miles. Call (310) 513-8800.
 ---
 # Amplifier Installation for San Pedro Drivers
 
@@ -21,7 +21,7 @@ San Pedro drivers bring amplifier installation to LA Car Beats by Audio MotorSpo
 
 ## San Pedro to Carson
 
-San Pedro to the shop is about 6.5 miles, roughly 13 to 16 minutes outside rush hour (approx). The bay is open Monday through Saturday 9:30 to 6:00 and closed Sunday. Call (213) 429-1092 or text (213) 429-1092 to reserve a slot. An amplifier installation with a new wiring run is best as a drop-off, since routing the power lead and tuning takes time that should not be hurried; a simple amp swap can be waited on. Customers come to this bay from over 100 miles away, so San Pedro is an easy morning.
+San Pedro to the shop is about 6.5 miles, roughly 13 to 16 minutes outside rush hour (approx). The bay is open Monday through Saturday 9:30 to 6:00 and closed Sunday. Call (310) 513-8800 or text (213) 429-1092 to reserve a slot. An amplifier installation with a new wiring run is best as a drop-off, since routing the power lead and tuning takes time that should not be hurried; a simple amp swap can be waited on. Customers come to this bay from over 100 miles away, so San Pedro is an easy morning.
 
 <!-- owner-details-2026-10-07 -->
 If you would rather wait inside than make two trips from San Pedro, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way San Pedro traffic sends you. A lot of our San Pedro customers are ILWU longshore workers and refinery and rail-yard crews who come in before or after a shift.
@@ -63,7 +63,7 @@ Nearby car stereo installation pages:
 
 ## Book from San Pedro
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -75,7 +75,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "name": "Amplifier Installation for San Pedro | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-san-pedro/",
    "dateModified": "2026-10-08",
-   "description": "Amplifier installation, speaker replacement and subwoofer installation for San Pedro at LA Car Beats, Audio MotorSports, Carson, 6.5 miles. Call (213) 429-1092.",
+   "description": "Amplifier installation, speaker replacement and subwoofer installation for San Pedro at LA Car Beats, Audio MotorSports, Carson, 6.5 miles. Call (310) 513-8800.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

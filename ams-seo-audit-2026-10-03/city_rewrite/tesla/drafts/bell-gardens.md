@@ -5,7 +5,7 @@ miles: 11.3
 lead_service: Tesla window tint (one-piece rear glass)
 source: hub-mounted copy; standalone www host not verified
 title: Bell Gardens Tesla Tint, One-Piece Rear | Tesla Tint LA
-meta: Tesla window tint for Bell Gardens owners, with the rear glass filmed in one piece: ceramic film at Audio MotorSports in Carson. Call (213) 429-1092.
+meta: Tesla window tint for Bell Gardens owners, with the rear glass filmed in one piece: ceramic film at Audio MotorSports in Carson. Call (310) 513-8800.
 ---
 # Tesla Window Tint for Bell Gardens: One-Piece Rear Glass Done Clean
 
@@ -68,7 +68,7 @@ Tesla tint is quoted by model at the shop; text the year and model and Nick will
 
 ## Book from Bell Gardens
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -79,7 +79,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-bell-gardens/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-bell-gardens/",
    "name": "Bell Gardens Tesla Tint, One-Piece Rear | Tesla Tint LA",
-   "description": "Tesla window tint for Bell Gardens owners, with the rear glass filmed in one piece: ceramic film at Audio MotorSports in Carson. Call (213) 429-1092.",
+   "description": "Tesla window tint for Bell Gardens owners, with the rear glass filmed in one piece: ceramic film at Audio MotorSports in Carson. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

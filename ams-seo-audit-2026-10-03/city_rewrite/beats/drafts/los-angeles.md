@@ -6,7 +6,7 @@ lead_service: Apple CarPlay and Android Auto installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Los Angeles CarPlay & Android Auto | LA Car Beats
-meta: Apple CarPlay and Android Auto installation for Los Angeles drivers at LA Car Beats by Audio MotorSports in Carson, 15.6 miles. Call (213) 429-1092 to book.
+meta: Apple CarPlay and Android Auto installation for Los Angeles drivers at LA Car Beats by Audio MotorSports in Carson, 15.6 miles. Call (310) 513-8800 to book.
 ---
 # Apple CarPlay and Android Auto Installation for Los Angeles
 
@@ -22,7 +22,7 @@ Los Angeles drivers get Apple CarPlay and Android Auto installation at LA Car Be
 
 ## Los Angeles to the Carson shop
 
-Central Los Angeles to 22025 S Avalon Blvd is about 15.6 miles, roughly 31 to 37 minutes outside rush hour (approx). Hours are Monday through Saturday 9:30 to 6:00, closed Sunday. Call (213) 429-1092 or text (213) 429-1092 to set a time. A CarPlay interface or head unit is a wait-inside job; a system with speakers and an amp is a morning drop-off. Customers have driven in from San Diego for this shop, so the run from Los Angeles is nothing unusual.
+Central Los Angeles to 22025 S Avalon Blvd is about 15.6 miles, roughly 31 to 37 minutes outside rush hour (approx). Hours are Monday through Saturday 9:30 to 6:00, closed Sunday. Call (310) 513-8800 or text (213) 429-1092 to set a time. A CarPlay interface or head unit is a wait-inside job; a system with speakers and an amp is a morning drop-off. Customers have driven in from San Diego for this shop, so the run from Los Angeles is nothing unusual.
 
 <!-- owner-details-2026-10-07 -->
 Plenty of Los Angeles drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. The shop is LGBTQ-friendly and everyone from Los Angeles is welcome, as our Google and Yelp listings state. Coming from Los Angeles, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
@@ -65,7 +65,7 @@ More car stereo installation pages around Los Angeles:
 
 ## Book from Los Angeles
 
-Text (213) 429-1092 or call (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Text (213) 429-1092 or call (310) 513-8800. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -77,7 +77,7 @@ Text (213) 429-1092 or call (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "name": "Los Angeles CarPlay & Android Auto | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-los-angeles/",
    "dateModified": "2026-10-08",
-   "description": "Apple CarPlay and Android Auto installation for Los Angeles drivers at LA Car Beats by Audio MotorSports in Carson, 15.6 miles. Call (213) 429-1092 to book.",
+   "description": "Apple CarPlay and Android Auto installation for Los Angeles drivers at LA Car Beats by Audio MotorSports in Carson, 15.6 miles. Call (310) 513-8800 to book.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

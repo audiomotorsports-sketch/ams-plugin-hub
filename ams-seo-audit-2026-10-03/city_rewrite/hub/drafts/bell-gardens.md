@@ -4,7 +4,7 @@ city: Bell Gardens
 miles: 11.3
 lead_service: car alarm & remote start installation
 title: Car Alarm Installation in Bell Gardens | Audio MotorSports
-meta: Bell Gardens car alarm installation, remote start and GPS trackers plus window tint and car stereo at Audio MotorSports in Carson, 11.3 miles. (213) 429-1092.
+meta: Bell Gardens car alarm installation, remote start and GPS trackers plus window tint and car stereo at Audio MotorSports in Carson, 11.3 miles. (310) 513-8800.
 ---
 # Car Alarm Installation and Remote Start Installation for Bell Gardens
 
@@ -61,7 +61,7 @@ Also driving in from around Bell Gardens: [Bell](/bell/), [Downey](/downey/), [M
 
 ## Set up your Bell Gardens alarm appointment
 
-Phone (213) 429-1092 or text (213) 429-1092 with your year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Hours: Monday to Saturday 9:30 AM to 6:00 PM; Sunday closed.
+Phone (310) 513-8800 or text (213) 429-1092 with your year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Hours: Monday to Saturday 9:30 AM to 6:00 PM; Sunday closed.
 
 ```json
 {
@@ -72,7 +72,7 @@ Phone (213) 429-1092 or text (213) 429-1092 with your year, make and model. Audi
    "@id": "https://www.audiomotorsports.com/bell-gardens/#webpage",
    "url": "https://www.audiomotorsports.com/bell-gardens/",
    "name": "Car Alarm Installation in Bell Gardens | Audio MotorSports",
-   "description": "Bell Gardens car alarm installation, remote start and GPS trackers plus window tint and car stereo at Audio MotorSports in Carson, 11.3 miles. (213) 429-1092.",
+   "description": "Bell Gardens car alarm installation, remote start and GPS trackers plus window tint and car stereo at Audio MotorSports in Carson, 11.3 miles. (310) 513-8800.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

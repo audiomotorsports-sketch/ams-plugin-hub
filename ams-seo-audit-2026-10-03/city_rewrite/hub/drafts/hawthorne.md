@@ -4,7 +4,7 @@ city: Hawthorne
 miles: 8.0
 lead_service: Apple CarPlay / Android Auto
 title: CarPlay & Android Auto for Hawthorne | Audio MotorSports
-meta: Apple CarPlay and Android Auto installs, car stereos, window tint and alarms for Hawthorne drivers at Audio MotorSports in Carson, 8 miles away. (213) 429-1092.
+meta: Apple CarPlay and Android Auto installs, car stereos, window tint and alarms for Hawthorne drivers at Audio MotorSports in Carson, 8 miles away. (310) 513-8800.
 ---
 # Apple CarPlay & Android Auto for Hawthorne Drivers
 
@@ -67,7 +67,7 @@ Window tint runs $249 installed for Solar film and $329 installed for Solar Cera
 
 ## Reach the shop
 
-(213) 429-1092 by phone, (213) 429-1092 by text. Find Audio MotorSports at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-18:00, Sunday closed. Book it, then drop off or wait.
+(310) 513-8800 by phone, (213) 429-1092 by text. Find Audio MotorSports at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-18:00, Sunday closed. Book it, then drop off or wait.
 
 ```json
 {
@@ -78,7 +78,7 @@ Window tint runs $249 installed for Solar film and $329 installed for Solar Cera
    "@id": "https://www.audiomotorsports.com/hawthorne/#webpage",
    "url": "https://www.audiomotorsports.com/hawthorne/",
    "name": "CarPlay & Android Auto for Hawthorne | Audio MotorSports",
-   "description": "Apple CarPlay and Android Auto installs, car stereos, window tint and alarms for Hawthorne drivers at Audio MotorSports in Carson, 8 miles away. (213) 429-1092.",
+   "description": "Apple CarPlay and Android Auto installs, car stereos, window tint and alarms for Hawthorne drivers at Audio MotorSports in Carson, 8 miles away. (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

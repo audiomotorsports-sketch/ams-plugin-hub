@@ -5,7 +5,7 @@ miles: 1.8
 lead_service: Tesla window tint (cabin heat through the doors)
 source: hub-mounted copy; standalone www host not verified
 title: West Carson Tesla Tint for Cabin Heat | Tesla Tint LA
-meta: Tesla window tint for West Carson owners at Audio MotorSports in Carson, 1.8 miles away. Ceramic film that cools the cabin. Call (213) 429-1092.
+meta: Tesla window tint for West Carson owners at Audio MotorSports in Carson, 1.8 miles away. Ceramic film that cools the cabin. Call (310) 513-8800.
 ---
 # Tesla Window Tint for West Carson: Cooling the Cabin Through the Doors
 
@@ -67,7 +67,7 @@ Tesla tint is quoted by model at the shop; send the year and model by text for a
 
 ## Book your appointment
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -78,7 +78,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-west-carson/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-west-carson/",
    "name": "West Carson Tesla Tint for Cabin Heat | Tesla Tint LA",
-   "description": "Tesla window tint for West Carson owners at Audio MotorSports in Carson, 1.8 miles away. Ceramic film that cools the cabin. Call (213) 429-1092.",
+   "description": "Tesla window tint for West Carson owners at Audio MotorSports in Carson, 1.8 miles away. Ceramic film that cools the cabin. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

@@ -6,7 +6,7 @@ lead_service: Apple CarPlay and Android Auto installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Bradbury CarPlay & Android Auto Install | LA Car Beats
-meta: Apple CarPlay and Android Auto installation and head unit installation for Bradbury drivers at LA Car Beats by Audio MotorSports in Carson. Call (213) 429-1092.
+meta: Apple CarPlay and Android Auto installation and head unit installation for Bradbury drivers at LA Car Beats by Audio MotorSports in Carson. Call (310) 513-8800.
 ---
 # Apple CarPlay and Android Auto Installation for Bradbury
 
@@ -22,7 +22,7 @@ Bradbury drivers who want phone navigation and messages on the dash screen witho
 
 ## Bradbury to the shop
 
-Bradbury is about 34.4 miles from the Carson bay, roughly 69 to 83 minutes outside rush hour (approx). Book by calling (213) 429-1092 or texting (213) 429-1092. With that drive, most Bradbury customers drop the car in the morning, combine the CarPlay work with speakers or an amplifier, and pick up late afternoon. Monday through Saturday 9:30 to 6:00; Sunday closed. We have had calls from as far as San Jose, so Bradbury is comfortably within the usual range.
+Bradbury is about 34.4 miles from the Carson bay, roughly 69 to 83 minutes outside rush hour (approx). Book by calling (310) 513-8800 or texting (213) 429-1092. With that drive, most Bradbury customers drop the car in the morning, combine the CarPlay work with speakers or an amplifier, and pick up late afternoon. Monday through Saturday 9:30 to 6:00; Sunday closed. We have had calls from as far as San Jose, so Bradbury is comfortably within the usual range.
 
 <!-- owner-details-2026-10-07 -->
 If you would rather wait inside than make two trips from Bradbury, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Bradbury.
@@ -59,7 +59,7 @@ LA Car Beats pages for cities near Bradbury: [Monrovia](/beats/car-stereo-monrov
 
 ## Book from Bradbury
 
-Tell us the year, model and whether the screen runs climate, and we will pick the right install before you arrive. Call (213) 429-1092 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Tell us the year, model and whether the screen runs climate, and we will pick the right install before you arrive. Call (310) 513-8800 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -70,7 +70,7 @@ Tell us the year, model and whether the screen runs climate, and we will pick th
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-bradbury/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-bradbury/",
    "name": "Bradbury CarPlay & Android Auto Install | LA Car Beats",
-   "description": "Apple CarPlay and Android Auto installation and head unit installation for Bradbury drivers at LA Car Beats by Audio MotorSports in Carson. Call (213) 429-1092.",
+   "description": "Apple CarPlay and Android Auto installation and head unit installation for Bradbury drivers at LA Car Beats by Audio MotorSports in Carson. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

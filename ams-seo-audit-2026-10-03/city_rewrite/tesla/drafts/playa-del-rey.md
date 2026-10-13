@@ -4,7 +4,7 @@ city: Playa del Rey
 miles: 13.3
 lead_service: Tesla window tint (Model 3)
 title: Playa del Rey Model 3 & Tesla Tint | Tesla Tint LA, Carson
-meta: Model 3 ceramic window tint for Playa del Rey owners at Tesla Tint LA by Audio MotorSports in Carson, 13.3 miles away. All Tesla models. Call (213) 429-1092.
+meta: Model 3 ceramic window tint for Playa del Rey owners at Tesla Tint LA by Audio MotorSports in Carson, 13.3 miles away. All Tesla models. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Model 3 Window Tint for Playa del Rey Tesla Owners
@@ -60,7 +60,7 @@ Model 3 tint, like every Tesla here, is quoted by model at the shop. For referen
 
 ## Book the Model 3
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

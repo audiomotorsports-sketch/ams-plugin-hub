@@ -4,7 +4,7 @@ city: Westmont
 miles: 8.2
 lead_service: Car alarm installation and remote start installation
 title: Alarm & Remote Start Installs, Westmont | Audio MotorSports
-meta: Viper alarm installation, Compustar remote start, window tint and car stereo for Westmont drivers at Audio MotorSports in Carson. Call (213) 429-1092.
+meta: Viper alarm installation, Compustar remote start, window tint and car stereo for Westmont drivers at Audio MotorSports in Carson. Call (310) 513-8800.
 ---
 # Car Alarm Installation and Remote Start for Westmont
 
@@ -29,7 +29,7 @@ Waiting inside is easy for Westmont customers: there is seating, Netflix on the 
 
 ## Westmont to the Carson bay
 
-Count on about 8.2 miles and roughly 16 to 20 minutes (approx) in light traffic. Hours are Monday to Saturday, 9:30 to 6; Sunday we are closed. Schedule a slot, then decide whether to drop the car for the day or wait on it; an alarm install is typically a few hours. Reach us at (213) 429-1092 by phone or (213) 429-1092 by text. For Westmont customers who want proof before the drive, the shop holds Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
+Count on about 8.2 miles and roughly 16 to 20 minutes (approx) in light traffic. Hours are Monday to Saturday, 9:30 to 6; Sunday we are closed. Schedule a slot, then decide whether to drop the car for the day or wait on it; an alarm install is typically a few hours. Reach us at (310) 513-8800 by phone or (213) 429-1092 by text. For Westmont customers who want proof before the drive, the shop holds Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 [SHOP NOTE: 2-3 sentences from Nick about Westmont customers, routes or jobs]
 
@@ -76,7 +76,7 @@ GPS trackers, dash cams, stereo and CarPlay installs are quoted at the shop. An 
 
 ## Book an alarm or remote start from Westmont
 
-Call (213) 429-1092 for a slot. Text (213) 429-1092 with your car. The bay: 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sunday.
+Call (310) 513-8800 for a slot. Text (213) 429-1092 with your car. The bay: 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {

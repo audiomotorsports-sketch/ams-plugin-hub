@@ -4,7 +4,7 @@ city: Los Alamitos
 miles: 11.2
 lead_service: car audio/stereo
 title: Car Stereo Installation, Los Alamitos | Audio MotorSports
-meta: Car stereo installation, speaker replacement and subwoofer installs for Los Alamitos at Audio MotorSports in Carson, 11.2 miles away. Call (213) 429-1092.
+meta: Car stereo installation, speaker replacement and subwoofer installs for Los Alamitos at Audio MotorSports in Carson, 11.2 miles away. Call (310) 513-8800.
 ---
 # Car Stereo Installation for Los Alamitos Drivers
 
@@ -67,7 +67,7 @@ Pages for the cities that border Los Alamitos:
 
 ## Book from Los Alamitos
 
-Call (213) 429-1092 or text your year, make and model to (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Hours are 9:30 AM to 6:00 PM Monday through Saturday, closed Sunday.
+Call (310) 513-8800 or text your year, make and model to (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Hours are 9:30 AM to 6:00 PM Monday through Saturday, closed Sunday.
 
 ```json
 {
@@ -78,7 +78,7 @@ Call (213) 429-1092 or text your year, make and model to (213) 429-1092. Audio M
    "@id": "https://www.audiomotorsports.com/los-alamitos/#webpage",
    "url": "https://www.audiomotorsports.com/los-alamitos/",
    "name": "Car Stereo Installation, Los Alamitos | Audio MotorSports",
-   "description": "Car stereo installation, speaker replacement and subwoofer installs for Los Alamitos at Audio MotorSports in Carson, 11.2 miles away. Call (213) 429-1092.",
+   "description": "Car stereo installation, speaker replacement and subwoofer installs for Los Alamitos at Audio MotorSports in Carson, 11.2 miles away. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

@@ -4,7 +4,7 @@ city: La Palma
 miles: 12.5
 lead_service: car stereo installation
 title: Car Stereo Installation for La Palma Drivers | LA Car Beats
-meta: Car stereo installation, Apple CarPlay and Android Auto installation and subwoofer upgrades for La Palma at LA Car Beats, Carson, 12.5 miles away. Call (213) 429-1092.
+meta: Car stereo installation, Apple CarPlay and Android Auto installation and subwoofer upgrades for La Palma at LA Car Beats, Carson, 12.5 miles away. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Stereo Installation for La Palma Drivers
@@ -54,7 +54,7 @@ Noticeably. Factory speakers are usually the weakest link, and good coaxials or 
 
 ### What is the price of the loaded subwoofer box?
 
-The Dual Kicker Comp loaded box is $249 box only as of October 2026. The amplifier, wiring kit and subwoofer installation labor are quoted at the shop by vehicle. Call (213) 429-1092 with your car for the full number.
+The Dual Kicker Comp loaded box is $249 box only as of October 2026. The amplifier, wiring kit and subwoofer installation labor are quoted at the shop by vehicle. Call (310) 513-8800 with your car for the full number.
 
 ## Pricing as of October 2026
 
@@ -70,7 +70,7 @@ Full-service pages on the main site: [Cypress](/cypress/) · [Buena Park](/buena
 
 ## Book from La Palma
 
-Call (213) 429-1092 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, Monday through Saturday 9:30 to 6:00, Sunday closed. Rated 4.8 on Google (654 reviews) and 4.7 on Yelp (777 reviews), as of October 2026.
+Call (310) 513-8800 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, Monday through Saturday 9:30 to 6:00, Sunday closed. Rated 4.8 on Google (654 reviews) and 4.7 on Yelp (777 reviews), as of October 2026.
 
 ```json
 {
@@ -151,7 +151,7 @@ Call (213) 429-1092 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 2
      "name": "What is the price of the loaded subwoofer box?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "The Dual Kicker Comp loaded box is $249 box only as of October 2026. The amplifier, wiring kit and subwoofer installation labor are quoted at the shop by vehicle. Call (213) 429-1092 with your car for the full number."
+      "text": "The Dual Kicker Comp loaded box is $249 box only as of October 2026. The amplifier, wiring kit and subwoofer installation labor are quoted at the shop by vehicle. Call (310) 513-8800 with your car for the full number."
      }
     }
    ]

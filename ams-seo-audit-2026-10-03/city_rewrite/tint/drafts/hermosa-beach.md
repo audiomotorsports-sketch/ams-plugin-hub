@@ -4,7 +4,7 @@ city: Hermosa Beach
 miles: 8.1
 lead_service: Tesla window tint
 title: Hermosa Beach Tesla & Car Window Tint | LA Car Tint
-meta: Tesla window tint and ceramic car window tint for Hermosa Beach, installed by Audio MotorSports in Carson, 8.1 miles away. Book: (213) 429-1092.
+meta: Tesla window tint and ceramic car window tint for Hermosa Beach, installed by Audio MotorSports in Carson, 8.1 miles away. Book: (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla Window Tint and Car Window Tint for Hermosa Beach
@@ -58,7 +58,7 @@ Four-door Solar is $249 installed and four-door Solar Ceramic is $329 installed,
 
 ## Book a Tesla or car tint slot
 
-Call (213) 429-1092 or text (213) 429-1092 with your model and year. We are at 22025 S Avalon Blvd Ste A, Carson, CA 90745 (Audio MotorSports). Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with your model and year. We are at 22025 S Avalon Blvd Ste A, Carson, CA 90745 (Audio MotorSports). Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

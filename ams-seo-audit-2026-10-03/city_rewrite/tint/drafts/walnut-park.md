@@ -5,7 +5,7 @@ miles: 9.7
 lead_service: Window tint / ceramic window tint (LA Car Tint)
 source: hub-mounted copy; standalone www host not verified
 title: Walnut Park Window Tint for Privacy | LA Car Tint, Carson
-meta: Privacy window tint and ceramic window tint for Walnut Park drivers, installed by Audio MotorSports in Carson, 9.7 miles away. Call (213) 429-1092 for a slot.
+meta: Privacy window tint and ceramic window tint for Walnut Park drivers, installed by Audio MotorSports in Carson, 9.7 miles away. Call (310) 513-8800 for a slot.
 ---
 # Privacy Window Tint for Walnut Park Drivers
 
@@ -62,7 +62,7 @@ As of October 2026: $249 installed for Solar window tint and $329 installed for 
 
 ## Book privacy tint from Walnut Park
 
-Call (213) 429-1092; texts go to (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday-Saturday 9:30-6:00 and closed Sunday. On the record as of October 2026: 4.8 on Google (654 reviews) and 4.7 on Yelp (777 reviews).
+Call (310) 513-8800; texts go to (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday-Saturday 9:30-6:00 and closed Sunday. On the record as of October 2026: 4.8 on Google (654 reviews) and 4.7 on Yelp (777 reviews).
 
 ```json
 {
@@ -73,7 +73,7 @@ Call (213) 429-1092; texts go to (213) 429-1092. Audio MotorSports, 22025 S Aval
    "@id": "https://www.audiomotorsports.com/tint/window-tint-walnut-park/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-walnut-park/",
    "name": "Walnut Park Window Tint for Privacy | LA Car Tint, Carson",
-   "description": "Privacy window tint and ceramic window tint for Walnut Park drivers, installed by Audio MotorSports in Carson, 9.7 miles away. Call (213) 429-1092 for a slot.",
+   "description": "Privacy window tint and ceramic window tint for Walnut Park drivers, installed by Audio MotorSports in Carson, 9.7 miles away. Call (310) 513-8800 for a slot.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

@@ -4,7 +4,7 @@ city: Canoga Park
 miles: 39.1
 lead_service: Subwoofer installation and amplifier installation
 title: Subwoofer & Amp Installs, Canoga Park | Audio MotorSports
-meta: Subwoofer installation, amplifier installation, car stereo, window tint and alarms for Canoga Park drivers at Audio MotorSports in Carson. Call (213) 429-1092.
+meta: Subwoofer installation, amplifier installation, car stereo, window tint and alarms for Canoga Park drivers at Audio MotorSports in Carson. Call (310) 513-8800.
 ---
 # Subwoofer and Amplifier Installation for Canoga Park Drivers
 
@@ -71,7 +71,7 @@ Amplifiers, speakers, head units, GPS trackers and dash cameras are quoted once 
 
 ## Book audio installation from Canoga Park
 
-Call (213) 429-1092 or text (213) 429-1092 with the year, make and model and what you want the system to do. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with the year, make and model and what you want the system to do. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -82,7 +82,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the year, make and model and wha
    "@id": "https://www.audiomotorsports.com/canoga-park/#webpage",
    "url": "https://www.audiomotorsports.com/canoga-park/",
    "name": "Subwoofer & Amp Installs, Canoga Park | Audio MotorSports",
-   "description": "Subwoofer installation, amplifier installation, car stereo, window tint and alarms for Canoga Park drivers at Audio MotorSports in Carson. Call (213) 429-1092.",
+   "description": "Subwoofer installation, amplifier installation, car stereo, window tint and alarms for Canoga Park drivers at Audio MotorSports in Carson. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

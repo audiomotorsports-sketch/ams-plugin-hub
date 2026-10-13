@@ -4,7 +4,7 @@ city: Anaheim
 miles: 20.0
 lead_service: CarPlay/Android Auto
 title: CarPlay & Android Auto Installs, Anaheim | Audio MotorSports
-meta: Apple CarPlay and Android Auto installation, car stereo, window tint and alarms for Anaheim drivers at Audio MotorSports in Carson, 20 miles. (213) 429-1092.
+meta: Apple CarPlay and Android Auto installation, car stereo, window tint and alarms for Anaheim drivers at Audio MotorSports in Carson, 20 miles. (310) 513-8800.
 ---
 # Apple CarPlay and Android Auto Installation for Anaheim
 
@@ -59,7 +59,7 @@ Window tint Solar $249 or Solar Ceramic $329 installed. Viper 3108V alarm $269 i
 
 ## Schedule an Anaheim install
 
-Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745; open Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745; open Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -70,7 +70,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio 
    "@id": "https://www.audiomotorsports.com/anaheim/#webpage",
    "url": "https://www.audiomotorsports.com/anaheim/",
    "name": "CarPlay & Android Auto Installs, Anaheim | Audio MotorSports",
-   "description": "Apple CarPlay and Android Auto installation, car stereo, window tint and alarms for Anaheim drivers at Audio MotorSports in Carson, 20 miles. (213) 429-1092.",
+   "description": "Apple CarPlay and Android Auto installation, car stereo, window tint and alarms for Anaheim drivers at Audio MotorSports in Carson, 20 miles. (310) 513-8800.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

@@ -4,7 +4,7 @@ city: Midway City
 miles: 17.0
 lead_service: Tesla window tint (Model S)
 title: Midway City Tesla Window Tint | Tesla Tint LA, Carson
-meta: Model S and every Tesla window tint for Midway City owners at Tesla Tint LA by Audio MotorSports in Carson, 17 miles away. Ceramic film. Call (213) 429-1092.
+meta: Model S and every Tesla window tint for Midway City owners at Tesla Tint LA by Audio MotorSports in Carson, 17 miles away. Ceramic film. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla Window Tint for Midway City, Beginning With the Model S
@@ -60,7 +60,7 @@ The Model S and every other Tesla get a quote by model at the shop. For a non-Te
 
 ## Book the S
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

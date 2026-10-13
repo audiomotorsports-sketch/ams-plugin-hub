@@ -4,7 +4,7 @@ city: Malibu
 miles: 32.6
 lead_service: GPS tracker installation
 title: GPS Tracker & Car Alarm Installation Malibu | LA Car Alarm
-meta: GPS tracker and car alarm installation for Malibu drivers at LA Car Alarm by Audio MotorSports, Carson. Viper, Compustar, dash cams. (213) 429-1092.
+meta: GPS tracker and car alarm installation for Malibu drivers at LA Car Alarm by Audio MotorSports, Carson. Viper, Compustar, dash cams. (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # GPS Tracker and Car Alarm Installation for Malibu Drivers
@@ -68,7 +68,7 @@ Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Schedule a Malibu install
 
-Call (213) 429-1092 or text (213) 429-1092 with your year, make and model before you leave. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with your year, make and model before you leave. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

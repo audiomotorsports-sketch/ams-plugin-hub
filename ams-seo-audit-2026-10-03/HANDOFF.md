@@ -10,7 +10,7 @@ Written and updated 2026-10-13 for Zack, Tom and the next session. Read this fir
 
 ## Business facts (owner-confirmed; use these)
 - Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson CA 90745. "Avalon" is only ever a street name.
-- Call AND text: (213) 429-1092. Never (310) 513-8800.
+- Call (310) 513-8800; text (213) 429-1092. Owner rule of 2026-10-13: call number for calls, text number for texts, separate Call and Text buttons. (Earlier "both (213)" rule is replaced.)
 - Hours Mon-Sat 9:30-6, Sunday closed [CONFIRM: some listings show Sunday open].
 - Reviews line: "Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026".
 - Prices allowed, always "as of October 2026": Solar tint $249, Solar Ceramic $329 installed; Viper 3108V $269; Compustar 9910 from $499; AMS pods from $649 a pair; Kicker Comp box $249 box only. No Tesla model prices (site conflicts).
@@ -37,7 +37,7 @@ Written and updated 2026-10-13 for Zack, Tom and the next session. Read this fir
 
 All six sets are complete, gated (FAIL=0, no reused sentences), roof-tint wording removed, owner corrections applied. REVIEW_INDEX.csv and PUBLISH_GUIDE.md exist for every set. Not machine-checked: the gate does not flag FAQ answers of 34-39 words (some Tesla and alarm pages), some padded filler lines in a few alarm FAQs, formulaic "Coming from X," phrasing in the first alarm batch, and the three Carson/hub/lacarstereo drafts below. Read a sample of each set before publishing.
 
-Also written (not run through qa_check): city_rewrite/carson_article/CARSON_ARTICLE.md, hub_deep_dive/HUB_MAIN_PAGE_DRAFTS.md (/, /tint/, /beats/, /alarm/, /tesla/, /amspods/, /faq/, /services/), city_rewrite/lacarstereo/LOCATIONS_PAGE_DRAFT.md (all 123 cities, 8 region tables), llms_txt/*.llms.txt. Live-site problems found while writing: the live business JSON-LD still carries the old (310) number; live pages still mention Snap, Koalafi, EasyPay and 650+/700+ review counts.
+Also written (not run through qa_check): city_rewrite/carson_article/CARSON_ARTICLE.md, hub_deep_dive/HUB_MAIN_PAGE_DRAFTS.md (/, /tint/, /beats/, /alarm/, /tesla/, /amspods/, /faq/, /services/), city_rewrite/lacarstereo/LOCATIONS_PAGE_DRAFT.md (all 123 cities, 8 region tables), llms_txt/*.llms.txt. Live-site problems found while writing: live pages still mention Snap, Koalafi, EasyPay and 650+/700+ review counts.
 
 No live pages were fetched for most alarm and Tesla drafts (written from the work-order data); they say "Live page not fetched".
 

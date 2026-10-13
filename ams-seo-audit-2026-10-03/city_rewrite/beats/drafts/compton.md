@@ -4,7 +4,7 @@ city: Compton
 miles: 5.4
 lead_service: speaker replacement
 title: Compton Speaker Replacement & Car Audio | LA Car Beats
-meta: Speaker replacement, car stereo installation and subwoofer upgrades for Compton at LA Car Beats by Audio MotorSports in Carson. Call (213) 429-1092 to book.
+meta: Speaker replacement, car stereo installation and subwoofer upgrades for Compton at LA Car Beats by Audio MotorSports in Carson. Call (310) 513-8800 to book.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Speaker Replacement and Car Audio Installation for Compton
@@ -68,7 +68,7 @@ More LA Car Beats city pages close to Compton:
 
 ## Schedule speaker replacement
 
-Text (213) 429-1092 or call (213) 429-1092 with your year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday-Saturday 9:30-18:00, closed Sunday.
+Text (213) 429-1092 or call (310) 513-8800 with your year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday-Saturday 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -79,7 +79,7 @@ Text (213) 429-1092 or call (213) 429-1092 with your year, make and model. Audio
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-compton/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-compton/",
    "name": "Compton Speaker Replacement & Car Audio | LA Car Beats",
-   "description": "Speaker replacement, car stereo installation and subwoofer upgrades for Compton at LA Car Beats by Audio MotorSports in Carson. Call (213) 429-1092 to book.",
+   "description": "Speaker replacement, car stereo installation and subwoofer upgrades for Compton at LA Car Beats by Audio MotorSports in Carson. Call (310) 513-8800 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

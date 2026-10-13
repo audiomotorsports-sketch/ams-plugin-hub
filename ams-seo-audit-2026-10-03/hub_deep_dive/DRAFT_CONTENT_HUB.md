@@ -4,7 +4,7 @@ Prepared 2026-10-07 for Zack and Tom. **Drafts only. Nothing here has been appli
 
 How this was built: each of the ten pages was fetched live on 2026-10-07 (HTTP 200) and every draft starts from its actual text. Answers use only facts found on live hub pages (or the live /llms.txt) and cite the page. Anything the site does not state, or states two different ways, is marked [CONFIRM] and collected in the checklist at the end. Numbers: titles are 60 characters or fewer, metas 120 to 160, answer-first paragraphs 50 to 70 words, question answers 40 to 60 words (all counted by script). In every JSON-LD block the FAQPage text was generated from the same string as the visible HTML and checked equal.
 
-Verified business facts used throughout: Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745; (213) 429-1092; Monday to Saturday 9:30 AM to 6:00 PM. The text number (213) 429-1092 appears on the live pages as the text line. "Avalon" is the street name and is never used as a city.
+Verified business facts used throughout: Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745; (310) 513-8800; Monday to Saturday 9:30 AM to 6:00 PM. The text number (213) 429-1092 appears on the live pages as the text line. "Avalon" is the street name and is never used as a city.
 
 ### What the fetch changed in the brief (read first)
 
@@ -28,14 +28,14 @@ Live URL: https://www.audiomotorsports.com/  (fetched 2026-10-07, HTTP 200)
 |---|---|---|
 | Title | `Audio MotorSports \| Carson Shop` | 31 |
 | H1 | `Pick a skill` | |
-| Meta description | `Audio MotorSports in Carson. Tesla tint, car alarm, window tint, AMS Pods, stereo, and beats. Call (213) 429-1092 or text (213) 429-1092. Payment plan available.` | 161 |
+| Meta description | `Audio MotorSports in Carson. Tesla tint, car alarm, window tint, AMS Pods, stereo, and beats. Call (310) 513-8800 or text (213) 429-1092. Payment plan available.` | 161 |
 
 ### Proposed head and H1
 
 | Field | Proposed | Check |
 |---|---|---|
 | Title | `Car Stereo, Tint & Alarm Shop in Carson \| Audio MotorSports` | 59 of 60 characters |
-| Meta description | `Car stereo, CarPlay, hand-cut window tint, car alarms and Harley bagger audio in Carson, CA. Mon-Sat 9:30-6:00. Call (213) 429-1092. Payment plan available.` | 156 characters (target 120 to 160) |
+| Meta description | `Car stereo, CarPlay, hand-cut window tint, car alarms and Harley bagger audio in Carson, CA. Mon-Sat 9:30-6:00. Call (310) 513-8800. Payment plan available.` | 156 characters (target 120 to 160) |
 | H1 | `Car stereo, window tint and car alarms in Carson, CA` | |
 
 Note: Keep the current words "Pick a skill" as a short line above the six skill tiles (an H2 or eyebrow), so the tile section keeps its label. Only the H1 changes.
@@ -43,7 +43,7 @@ Note: Keep the current words "Pick a skill" as a short line above the six skill 
 ### Answer-first paragraph (65 words; place directly under the H1)
 
 ```html
-<p class="answer-first">Audio MotorSports is a car stereo, window tint and car alarm shop at 22025 S Avalon Blvd Ste A, Carson, CA 90745. One bay handles stereo and CarPlay installs, hand-cut ceramic tint, Viper and Compustar alarms with remote start, and Harley bagger audio. Hours are Monday to Saturday, 9:30 AM to 6:00 PM, closed Sunday. Call (213) 429-1092 or text (213) 429-1092 for a quote.</p>
+<p class="answer-first">Audio MotorSports is a car stereo, window tint and car alarm shop at 22025 S Avalon Blvd Ste A, Carson, CA 90745. One bay handles stereo and CarPlay installs, hand-cut ceramic tint, Viper and Compustar alarms with remote start, and Harley bagger audio. Hours are Monday to Saturday, 9:30 AM to 6:00 PM, closed Sunday. Call (310) 513-8800 or text (213) 429-1092 for a quote.</p>
 ```
 
 ### Question headings and answers (5 questions, 40 to 60 words each)
@@ -52,13 +52,13 @@ Note: Keep the current words "Pick a skill" as a short line above the six skill 
 <section class="faq" id="faq" aria-labelledby="faq-heading">
   <h2 id="faq-heading">Questions about Audio MotorSports in Carson</h2>
   <h3>Where is Audio MotorSports?</h3>
-  <p>Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745. It is one shop with one bay, open Monday through Saturday, 9:30 AM to 6:00 PM and closed Sunday. Call (213) 429-1092 or text (213) 429-1092. The city pages on this site are drive-ins to the Carson bay, not separate shops.</p>
+  <p>Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745. It is one shop with one bay, open Monday through Saturday, 9:30 AM to 6:00 PM and closed Sunday. Call (310) 513-8800 or text (213) 429-1092. The city pages on this site are drive-ins to the Carson bay, not separate shops.</p>
   <h3>What does Audio MotorSports install?</h3>
   <p>Car stereos with Apple CarPlay and Android Auto, amplifiers and subwoofers, dash cameras, ceramic window tint, car alarms and remote start, and Harley bagger audio built as AMS Pods. The shop does not do wraps, wheels, tires, auto glass repair or suspension work. Call with the year, make and model for a quote.</p>
   <h3>Does Audio MotorSports offer a payment plan?</h3>
   <p>Yes. Every job can go on a payment plan. Apply online in about two minutes with Snap Finance, Koalafi, EasyPay Finance or Synchrony, then bring the approval to the counter. Approval and terms are set by the provider, and the provider shows the exact terms before you accept.</p>
   <h3>How do I get a quote?</h3>
-  <p>Call (213) 429-1092, text (213) 429-1092, or send the Get a Quote form with your phone number, year, make, model and the skill you want. Nick texts or calls you back. Published specials are installed starting prices, not final quotes, so the shop confirms the price for your vehicle.</p>
+  <p>Call (310) 513-8800, text (213) 429-1092, or send the Get a Quote form with your phone number, year, make, model and the skill you want. Nick texts or calls you back. Published specials are installed starting prices, not final quotes, so the shop confirms the price for your vehicle.</p>
   <h3>Do customers drive in from other cities?</h3>
   <p>Yes. Customers drive in from the harbor area, the South Bay, Long Beach, inland Los Angeles and Orange County. The Locations page lists 123 drive-in cities, and every job is done at the Carson bay. The shop does no mobile installs, so the work always happens at 22025 S Avalon Blvd Ste A.</p>
 </section>
@@ -175,7 +175,7 @@ Where each answer comes from (live pages only):
       "@id": "https://www.audiomotorsports.com/#webpage",
       "url": "https://www.audiomotorsports.com/",
       "name": "Car Stereo, Tint & Alarm Shop in Carson | Audio MotorSports",
-      "description": "Car stereo, CarPlay, hand-cut window tint, car alarms and Harley bagger audio in Carson, CA. Mon-Sat 9:30-6:00. Call (213) 429-1092. Payment plan available.",
+      "description": "Car stereo, CarPlay, hand-cut window tint, car alarms and Harley bagger audio in Carson, CA. Mon-Sat 9:30-6:00. Call (310) 513-8800. Payment plan available.",
       "inLanguage": "en-US",
       "isPartOf": {
         "@id": "https://www.audiomotorsports.com/#website"
@@ -204,7 +204,7 @@ Where each answer comes from (live pages only):
           "name": "Where is Audio MotorSports?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745. It is one shop with one bay, open Monday through Saturday, 9:30 AM to 6:00 PM and closed Sunday. Call (213) 429-1092 or text (213) 429-1092. The city pages on this site are drive-ins to the Carson bay, not separate shops."
+            "text": "Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745. It is one shop with one bay, open Monday through Saturday, 9:30 AM to 6:00 PM and closed Sunday. Call (310) 513-8800 or text (213) 429-1092. The city pages on this site are drive-ins to the Carson bay, not separate shops."
           }
         },
         {
@@ -228,7 +228,7 @@ Where each answer comes from (live pages only):
           "name": "How do I get a quote?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Call (213) 429-1092, text (213) 429-1092, or send the Get a Quote form with your phone number, year, make, model and the skill you want. Nick texts or calls you back. Published specials are installed starting prices, not final quotes, so the shop confirms the price for your vehicle."
+            "text": "Call (310) 513-8800, text (213) 429-1092, or send the Get a Quote form with your phone number, year, make, model and the skill you want. Nick texts or calls you back. Published specials are installed starting prices, not final quotes, so the shop confirms the price for your vehicle."
           }
         },
         {
@@ -275,13 +275,13 @@ Live URL: https://www.audiomotorsports.com/tint/  (fetched 2026-10-07, HTTP 200)
 | Field | Proposed | Check |
 |---|---|---|
 | Title | `Hand-Cut Ceramic Window Tint in Carson, CA \| LA Car Tint` | 56 of 60 characters |
-| Meta description | `Hand-cut ceramic window tint at the Carson bay, serving Los Angeles, Long Beach and the South Bay. 3M film, California-legal fronts. Call (213) 429-1092.` | 153 characters (target 120 to 160) |
+| Meta description | `Hand-cut ceramic window tint at the Carson bay, serving Los Angeles, Long Beach and the South Bay. 3M film, California-legal fronts. Call (310) 513-8800.` | 153 characters (target 120 to 160) |
 | H1 | `Hand-cut ceramic window tint in Carson, serving Los Angeles and Long Beach` | |
 
 ### Answer-first paragraph (68 words; place directly under the H1)
 
 ```html
-<p class="answer-first">LA Car Tint is the window-tint desk at Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Every piece of film is hand-cut on a glass board, never on your glass. Solar starts at $249 and Solar Ceramic at $329 installed for a four-door sedan, doors and back glass, no windshield (verified September 2026). 3M Ceramic IR and Color Stable are quote only. Call (213) 429-1092.</p>
+<p class="answer-first">LA Car Tint is the window-tint desk at Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Every piece of film is hand-cut on a glass board, never on your glass. Solar starts at $249 and Solar Ceramic at $329 installed for a four-door sedan, doors and back glass, no windshield (verified September 2026). 3M Ceramic IR and Color Stable are quote only. Call (310) 513-8800.</p>
 ```
 
 ### Question headings and answers (6 questions, 40 to 60 words each)
@@ -325,7 +325,7 @@ Where each answer comes from (live pages only):
       "@id": "https://www.audiomotorsports.com/tint/#webpage",
       "url": "https://www.audiomotorsports.com/tint/",
       "name": "Hand-Cut Ceramic Window Tint in Carson, CA | LA Car Tint",
-      "description": "Hand-cut ceramic window tint at the Carson bay, serving Los Angeles, Long Beach and the South Bay. 3M film, California-legal fronts. Call (213) 429-1092.",
+      "description": "Hand-cut ceramic window tint at the Carson bay, serving Los Angeles, Long Beach and the South Bay. 3M film, California-legal fronts. Call (310) 513-8800.",
       "inLanguage": "en-US",
       "isPartOf": {
         "@id": "https://www.audiomotorsports.com/#website"
@@ -436,13 +436,13 @@ Live URL: https://www.audiomotorsports.com/tesla/  (fetched 2026-10-07, HTTP 200
 | Field | Proposed | Check |
 |---|---|---|
 | Title | `Tesla Window Tint in Carson & LA \| Tesla Tint LA` | 48 of 60 characters |
-| Meta description | `Hand-cut ceramic window tint for Tesla Model 3, Y, Y L, S, X and Cybertruck at the Carson bay. Solar Ceramic or 3M IR Ceramic. Call (213) 429-1092.` | 147 characters (target 120 to 160) |
+| Meta description | `Hand-cut ceramic window tint for Tesla Model 3, Y, Y L, S, X and Cybertruck at the Carson bay. Solar Ceramic or 3M IR Ceramic. Call (310) 513-8800.` | 147 characters (target 120 to 160) |
 | H1 | `Tesla window tint in Carson for Model 3, Y, Y L, S, X and Cybertruck` | |
 
 ### Answer-first paragraph (65 words; place directly under the H1)
 
 ```html
-<p class="answer-first">Tesla Tint LA is the Tesla window-tint desk at Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. The bay tints Model 3, Model Y, Model Y L, Model S, Model X and Cybertruck with hand-cut Solar Ceramic or 3M IR Ceramic film. Front windows stay at California's 70% VLT. Appointments are 10:00 AM or 12:00 PM. Call (213) 429-1092 or text Nick.</p>
+<p class="answer-first">Tesla Tint LA is the Tesla window-tint desk at Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. The bay tints Model 3, Model Y, Model Y L, Model S, Model X and Cybertruck with hand-cut Solar Ceramic or 3M IR Ceramic film. Front windows stay at California's 70% VLT. Appointments are 10:00 AM or 12:00 PM. Call (310) 513-8800 or text Nick.</p>
 ```
 
 ### Question headings and answers (6 questions, 40 to 60 words each)
@@ -451,7 +451,7 @@ Live URL: https://www.audiomotorsports.com/tesla/  (fetched 2026-10-07, HTTP 200
 <section class="faq" id="faq" aria-labelledby="faq-heading">
   <h2 id="faq-heading">Tesla window tint questions answered</h2>
   <h3>Which Tesla models do you tint?</h3>
-  <p>Tesla Model 3, Model Y, Model Y L, Model S, Model X and Cybertruck. Film is hand-cut on a glass board, then applied to your car, and never cut on your glass. Other vehicles go to LA Car Tint, so this desk handles Tesla glass only. Call (213) 429-1092 or text Nick with the model.</p>
+  <p>Tesla Model 3, Model Y, Model Y L, Model S, Model X and Cybertruck. Film is hand-cut on a glass board, then applied to your car, and never cut on your glass. Other vehicles go to LA Car Tint, so this desk handles Tesla glass only. Call (310) 513-8800 or text Nick with the model.</p>
   <h3>Does ceramic tint affect GPS or phone signal?</h3>
   <p>No. Ceramic film is non-metal, so it does not affect GPS or phone signal. Tesla owners pick ceramic over a dyed metal film for that reason. The bay runs two ceramic films on Tesla glass, Solar Ceramic and 3M IR Ceramic. The shop does not invent a range percentage for cameras.</p>
   <h3>How long does a Model Y take?</h3>
@@ -486,7 +486,7 @@ Where each answer comes from (live pages only):
       "@id": "https://www.audiomotorsports.com/tesla/#webpage",
       "url": "https://www.audiomotorsports.com/tesla/",
       "name": "Tesla Window Tint in Carson & LA | Tesla Tint LA",
-      "description": "Hand-cut ceramic window tint for Tesla Model 3, Y, Y L, S, X and Cybertruck at the Carson bay. Solar Ceramic or 3M IR Ceramic. Call (213) 429-1092.",
+      "description": "Hand-cut ceramic window tint for Tesla Model 3, Y, Y L, S, X and Cybertruck at the Carson bay. Solar Ceramic or 3M IR Ceramic. Call (310) 513-8800.",
       "inLanguage": "en-US",
       "isPartOf": {
         "@id": "https://www.audiomotorsports.com/#website"
@@ -514,7 +514,7 @@ Where each answer comes from (live pages only):
           "name": "Which Tesla models do you tint?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Tesla Model 3, Model Y, Model Y L, Model S, Model X and Cybertruck. Film is hand-cut on a glass board, then applied to your car, and never cut on your glass. Other vehicles go to LA Car Tint, so this desk handles Tesla glass only. Call (213) 429-1092 or text Nick with the model."
+            "text": "Tesla Model 3, Model Y, Model Y L, Model S, Model X and Cybertruck. Film is hand-cut on a glass board, then applied to your car, and never cut on your glass. Other vehicles go to LA Car Tint, so this desk handles Tesla glass only. Call (310) 513-8800 or text Nick with the model."
           }
         },
         {
@@ -589,20 +589,20 @@ Live URL: https://www.audiomotorsports.com/tesla/tesla-tint-carson/  (fetched 20
 |---|---|---|
 | Title | `Tesla Window Tint Avalon \| Tesla Tint LA` | 40 |
 | H1 | `Tesla Window Tint for Avalon` | |
-| Meta description | `Tesla window tint for Avalon — Solar Ceramic and 3M IR Ceramic on Avalon. Ask for Nick. (213) 429-1092.` | 103 |
+| Meta description | `Tesla window tint for Avalon — Solar Ceramic and 3M IR Ceramic on Avalon. Ask for Nick. (310) 513-8800.` | 103 |
 
 ### Proposed head and H1
 
 | Field | Proposed | Check |
 |---|---|---|
 | Title | `Tesla Window Tint in Carson, CA \| Tesla Tint LA` | 47 of 60 characters |
-| Meta description | `Tesla window tint in Carson, CA: hand-cut Solar Ceramic and 3M IR Ceramic at 22025 S Avalon Blvd Ste A. Ask for Nick. Call (213) 429-1092.` | 138 characters (target 120 to 160) |
+| Meta description | `Tesla window tint in Carson, CA: hand-cut Solar Ceramic and 3M IR Ceramic at 22025 S Avalon Blvd Ste A. Ask for Nick. Call (310) 513-8800.` | 138 characters (target 120 to 160) |
 | H1 | `Tesla Window Tint in Carson, CA` | |
 
 ### Answer-first paragraph (68 words; place directly under the H1)
 
 ```html
-<p class="answer-first">Tesla Tint LA tints Teslas in Carson, CA, at Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Model 3, Model Y, Model Y L, Model S, Model X and Cybertruck get hand-cut Solar Ceramic or 3M IR Ceramic film, with California-legal 70% VLT fronts. Appointments are 10:00 AM or 12:00 PM, Monday to Saturday, 9:30 AM to 6:00 PM. Ask for Nick at (213) 429-1092.</p>
+<p class="answer-first">Tesla Tint LA tints Teslas in Carson, CA, at Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Model 3, Model Y, Model Y L, Model S, Model X and Cybertruck get hand-cut Solar Ceramic or 3M IR Ceramic film, with California-legal 70% VLT fronts. Appointments are 10:00 AM or 12:00 PM, Monday to Saturday, 9:30 AM to 6:00 PM. Ask for Nick at (310) 513-8800.</p>
 ```
 
 ### Question headings and answers (5 questions, 40 to 60 words each)
@@ -611,13 +611,13 @@ Live URL: https://www.audiomotorsports.com/tesla/tesla-tint-carson/  (fetched 20
 <section class="faq" id="faq" aria-labelledby="faq-heading">
   <h2 id="faq-heading">Tesla tint in Carson: questions answered</h2>
   <h3>Where is Tesla Tint LA in Carson?</h3>
-  <p>Tesla Tint LA is the Tesla window-tint side of Audio MotorSports, in the Carson shop at 22025 S Avalon Blvd Ste A, Carson, CA 90745. It is one bay with one map pin. Walk-ins fill the floor, so text the year and model to hold a 10:00 AM or 12:00 PM slot. Ask for Nick at (213) 429-1092.</p>
+  <p>Tesla Tint LA is the Tesla window-tint side of Audio MotorSports, in the Carson shop at 22025 S Avalon Blvd Ste A, Carson, CA 90745. It is one bay with one map pin. Walk-ins fill the floor, so text the year and model to hold a 10:00 AM or 12:00 PM slot. Ask for Nick at (310) 513-8800.</p>
   <h3>How much is Tesla window tint in Carson?</h3>
   <p>Price depends on the Tesla model, the film (Solar Ceramic or 3M IR Ceramic) and the glass: two front windows, doors plus back with no windshield, or the windshield, each priced as its own line. The installed prices for every model are in the price table on this page. Text Nick the model and film to confirm.</p>
   <h3>Do you tint the Tesla Model Y L in Carson?</h3>
   <p>Yes. Model Y L has more glass than a Model Y, and it is first in the lineup on this site. Text the year and Model Y L so Nick can hold a 10:00 AM or 12:00 PM slot, and ask for the Model Y L price from the table on this page. Bring the car if you can.</p>
   <h3>When can I book Tesla tint in Carson?</h3>
-  <p>Appointments are 10:00 AM or 12:00 PM only, Monday through Saturday. The shop is open 9:30 AM to 6:00 PM and closed Sunday. Call (213) 429-1092 and ask for Nick, or text the year and model before you drive in. Walk-ins happen, but they fill the floor.</p>
+  <p>Appointments are 10:00 AM or 12:00 PM only, Monday through Saturday. The shop is open 9:30 AM to 6:00 PM and closed Sunday. Call (310) 513-8800 and ask for Nick, or text the year and model before you drive in. Walk-ins happen, but they fill the floor.</p>
   <h3>Can I get a stereo or alarm at Tesla Tint LA?</h3>
   <p>No. Tesla Tint LA is Tesla window tint only, with Solar Ceramic and 3M IR Ceramic. It does not sell stereo, alarm, audio, wraps, PPF or glass repair. A payment plan is available at the counter for the tint job. Stereo and alarm work is done at Audio MotorSports in the same Carson shop.</p>
 </section>
@@ -643,7 +643,7 @@ Where each answer comes from (live pages only):
       "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-carson/#webpage",
       "url": "https://www.audiomotorsports.com/tesla/tesla-tint-carson/",
       "name": "Tesla Window Tint in Carson, CA | Tesla Tint LA",
-      "description": "Tesla window tint in Carson, CA: hand-cut Solar Ceramic and 3M IR Ceramic at 22025 S Avalon Blvd Ste A. Ask for Nick. Call (213) 429-1092.",
+      "description": "Tesla window tint in Carson, CA: hand-cut Solar Ceramic and 3M IR Ceramic at 22025 S Avalon Blvd Ste A. Ask for Nick. Call (310) 513-8800.",
       "inLanguage": "en-US",
       "isPartOf": {
         "@id": "https://www.audiomotorsports.com/#website"
@@ -671,7 +671,7 @@ Where each answer comes from (live pages only):
           "name": "Where is Tesla Tint LA in Carson?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Tesla Tint LA is the Tesla window-tint side of Audio MotorSports, in the Carson shop at 22025 S Avalon Blvd Ste A, Carson, CA 90745. It is one bay with one map pin. Walk-ins fill the floor, so text the year and model to hold a 10:00 AM or 12:00 PM slot. Ask for Nick at (213) 429-1092."
+            "text": "Tesla Tint LA is the Tesla window-tint side of Audio MotorSports, in the Carson shop at 22025 S Avalon Blvd Ste A, Carson, CA 90745. It is one bay with one map pin. Walk-ins fill the floor, so text the year and model to hold a 10:00 AM or 12:00 PM slot. Ask for Nick at (310) 513-8800."
           }
         },
         {
@@ -695,7 +695,7 @@ Where each answer comes from (live pages only):
           "name": "When can I book Tesla tint in Carson?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Appointments are 10:00 AM or 12:00 PM only, Monday through Saturday. The shop is open 9:30 AM to 6:00 PM and closed Sunday. Call (213) 429-1092 and ask for Nick, or text the year and model before you drive in. Walk-ins happen, but they fill the floor."
+            "text": "Appointments are 10:00 AM or 12:00 PM only, Monday through Saturday. The shop is open 9:30 AM to 6:00 PM and closed Sunday. Call (310) 513-8800 and ask for Nick, or text the year and model before you drive in. Walk-ins happen, but they fill the floor."
           }
         },
         {
@@ -735,20 +735,20 @@ Live URL: https://www.audiomotorsports.com/tesla/tesla-tint-torrance/  (fetched 
 |---|---|---|
 | Title | `Tesla Window Tint Torrance \| Tesla Tint LA` | 42 |
 | H1 | `Tesla Window Tint for Torrance` | |
-| Meta description | `Tesla window tint for Torrance — Solar Ceramic and 3M IR Ceramic on Avalon. Ask for Nick. (213) 429-1092.` | 105 |
+| Meta description | `Tesla window tint for Torrance — Solar Ceramic and 3M IR Ceramic on Avalon. Ask for Nick. (310) 513-8800.` | 105 |
 
 ### Proposed head and H1
 
 | Field | Proposed | Check |
 |---|---|---|
 | Title | `Tesla Window Tint Near Torrance \| Tesla Tint LA, Carson` | 55 of 60 characters |
-| Meta description | `Torrance Tesla owners drive to the Carson bay at 22025 S Avalon Blvd for hand-cut Solar Ceramic or 3M IR Ceramic tint. Ask for Nick. (213) 429-1092.` | 148 characters (target 120 to 160) |
+| Meta description | `Torrance Tesla owners drive to the Carson bay at 22025 S Avalon Blvd for hand-cut Solar Ceramic or 3M IR Ceramic tint. Ask for Nick. (310) 513-8800.` | 148 characters (target 120 to 160) |
 | H1 | `Tesla Window Tint Near Torrance, at the Carson Bay` | |
 
 ### Answer-first paragraph (60 words; place directly under the H1)
 
 ```html
-<p class="answer-first">Tesla Tint LA has no Torrance storefront. Torrance drivers bring their Tesla to the one shop, Audio MotorSports at 22025 S Avalon Blvd Ste A in Carson, CA 90745, for hand-cut Solar Ceramic or 3M IR Ceramic tint. Text the year and model so Nick can hold a 10:00 AM or 12:00 PM slot, Monday to Saturday. Call (213) 429-1092.</p>
+<p class="answer-first">Tesla Tint LA has no Torrance storefront. Torrance drivers bring their Tesla to the one shop, Audio MotorSports at 22025 S Avalon Blvd Ste A in Carson, CA 90745, for hand-cut Solar Ceramic or 3M IR Ceramic tint. Text the year and model so Nick can hold a 10:00 AM or 12:00 PM slot, Monday to Saturday. Call (310) 513-8800.</p>
 ```
 
 ### Question headings and answers (5 questions, 40 to 60 words each)
@@ -757,13 +757,13 @@ Live URL: https://www.audiomotorsports.com/tesla/tesla-tint-torrance/  (fetched 
 <section class="faq" id="faq" aria-labelledby="faq-heading">
   <h2 id="faq-heading">Tesla tint for Torrance drivers: questions answered</h2>
   <h3>Is Tesla Tint LA in Torrance?</h3>
-  <p>No. Tesla Tint LA has no Torrance storefront. It is the Tesla window-tint side of Audio MotorSports at 22025 S Avalon Blvd Ste A in Carson, CA 90745: one bay, one map pin. Torrance is a drive-in. Call (213) 429-1092 and ask for Nick. Zack runs the floor.</p>
+  <p>No. Tesla Tint LA has no Torrance storefront. It is the Tesla window-tint side of Audio MotorSports at 22025 S Avalon Blvd Ste A in Carson, CA 90745: one bay, one map pin. Torrance is a drive-in. Call (310) 513-8800 and ask for Nick. Zack runs the floor.</p>
   <h3>How much is Tesla window tint for Torrance drivers?</h3>
   <p>Price follows the Tesla model, the film (Solar Ceramic or 3M IR Ceramic) and the glass covered: two front windows, doors plus back with no windshield, or the windshield. The installed price for each model is in the price table on this page. Text Nick the model and film to confirm.</p>
   <h3>Do you tint the Tesla Model Y L for Torrance drivers?</h3>
   <p>Yes. Model Y L has more glass than a Model Y and is first in the lineup on this site. Text the year and Model Y L so Nick can hold a 10:00 AM or 12:00 PM slot, and ask for the Model Y L price from the table on this page. Bring the car; glass shape lies in photos.</p>
   <h3>When can Torrance drivers book Tesla tint?</h3>
-  <p>Appointments are 10:00 AM or 12:00 PM only, Monday through Saturday. The shop is open 9:30 AM to 6:00 PM and closed Sunday. Call (213) 429-1092 and ask for Nick, or text the year and Tesla model before you leave Torrance.</p>
+  <p>Appointments are 10:00 AM or 12:00 PM only, Monday through Saturday. The shop is open 9:30 AM to 6:00 PM and closed Sunday. Call (310) 513-8800 and ask for Nick, or text the year and Tesla model before you leave Torrance.</p>
   <h3>Can I get a stereo or alarm at Tesla Tint LA?</h3>
   <p>No. Tesla Tint LA is Tesla window tint only, with Solar Ceramic and 3M IR Ceramic. It does not sell stereo, alarm, audio, wraps, PPF or glass repair. A payment plan is available at the counter for the tint job. Stereo and alarm work is done at Audio MotorSports in the same Carson shop.</p>
 </section>
@@ -789,7 +789,7 @@ Where each answer comes from (live pages only):
       "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-torrance/#webpage",
       "url": "https://www.audiomotorsports.com/tesla/tesla-tint-torrance/",
       "name": "Tesla Window Tint Near Torrance | Tesla Tint LA, Carson",
-      "description": "Torrance Tesla owners drive to the Carson bay at 22025 S Avalon Blvd for hand-cut Solar Ceramic or 3M IR Ceramic tint. Ask for Nick. (213) 429-1092.",
+      "description": "Torrance Tesla owners drive to the Carson bay at 22025 S Avalon Blvd for hand-cut Solar Ceramic or 3M IR Ceramic tint. Ask for Nick. (310) 513-8800.",
       "inLanguage": "en-US",
       "isPartOf": {
         "@id": "https://www.audiomotorsports.com/#website"
@@ -817,7 +817,7 @@ Where each answer comes from (live pages only):
           "name": "Is Tesla Tint LA in Torrance?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. Tesla Tint LA has no Torrance storefront. It is the Tesla window-tint side of Audio MotorSports at 22025 S Avalon Blvd Ste A in Carson, CA 90745: one bay, one map pin. Torrance is a drive-in. Call (213) 429-1092 and ask for Nick. Zack runs the floor."
+            "text": "No. Tesla Tint LA has no Torrance storefront. It is the Tesla window-tint side of Audio MotorSports at 22025 S Avalon Blvd Ste A in Carson, CA 90745: one bay, one map pin. Torrance is a drive-in. Call (310) 513-8800 and ask for Nick. Zack runs the floor."
           }
         },
         {
@@ -841,7 +841,7 @@ Where each answer comes from (live pages only):
           "name": "When can Torrance drivers book Tesla tint?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Appointments are 10:00 AM or 12:00 PM only, Monday through Saturday. The shop is open 9:30 AM to 6:00 PM and closed Sunday. Call (213) 429-1092 and ask for Nick, or text the year and Tesla model before you leave Torrance."
+            "text": "Appointments are 10:00 AM or 12:00 PM only, Monday through Saturday. The shop is open 9:30 AM to 6:00 PM and closed Sunday. Call (310) 513-8800 and ask for Nick, or text the year and Tesla model before you leave Torrance."
           }
         },
         {
@@ -892,7 +892,7 @@ Live URL: https://www.audiomotorsports.com/faq/  (fetched 2026-10-07, HTTP 200)
 ### Answer-first paragraph (60 words; place directly under the H1)
 
 ```html
-<p class="answer-first">Audio MotorSports answers the questions drivers ask before a stereo, tint or alarm job: what stays working after an install, whether ceramic tint is legal in California, Compustar or Viper, and what things cost. Every job is done in one Carson bay at 22025 S Avalon Blvd Ste A, Monday to Saturday, 9:30 AM to 6:00 PM. Call (213) 429-1092.</p>
+<p class="answer-first">Audio MotorSports answers the questions drivers ask before a stereo, tint or alarm job: what stays working after an install, whether ceramic tint is legal in California, Compustar or Viper, and what things cost. Every job is done in one Carson bay at 22025 S Avalon Blvd Ste A, Monday to Saturday, 9:30 AM to 6:00 PM. Call (310) 513-8800.</p>
 ```
 
 ### Visible short answers for all 18 questions (insert under each existing question heading)
@@ -940,7 +940,7 @@ Each existing question keeps its long answer. The line below is added directly u
 <p class="faq-short">Cicada is a serious motorcycle brand. People speak well of it. It also costs more than Hertz, and the magnet is huge — it eats most of the space in the lid. We ran them side by side. Hertz was louder and cleaner. Better performance in the bag. Hertz Neo is weatherproof, small neo magnet, so you keep the space. That is the one we recommend.</p>
 <!-- existing long answer stays here -->
 <h2>Where is the shop?</h2> <!-- REWRITTEN, 55 words -->
-<p class="faq-short">Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, the only location. There is no second shop in Long Beach, Torrance, Irvine or downtown Los Angeles, and the city pages are drive-ins. Hours are Monday through Saturday, 9:30 AM to 6:00 PM, closed Sunday. Call (213) 429-1092 or text (213) 429-1092.</p>
+<p class="faq-short">Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, the only location. There is no second shop in Long Beach, Torrance, Irvine or downtown Los Angeles, and the city pages are drive-ins. Hours are Monday through Saturday, 9:30 AM to 6:00 PM, closed Sunday. Call (310) 513-8800 or text (213) 429-1092.</p>
 <!-- existing long answer stays here -->
 <h2>Do you do mobile installs?</h2> <!-- REWRITTEN, 60 words -->
 <p class="faq-short">No. Every job is done in the Audio MotorSports bay at 22025 S Avalon Blvd Ste A, Carson. Cutting tint on the vehicle scratches glass and risks defroster lines, so every piece is hand-cut on a glass board in the shop, then applied. Stereo, alarm and bagger audio need the same bay, power and people. Drive in or trailer in.</p>
@@ -1100,7 +1100,7 @@ Each existing question keeps its long answer. The line below is added directly u
           "name": "Where is the shop?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, the only location. There is no second shop in Long Beach, Torrance, Irvine or downtown Los Angeles, and the city pages are drive-ins. Hours are Monday through Saturday, 9:30 AM to 6:00 PM, closed Sunday. Call (213) 429-1092 or text (213) 429-1092."
+            "text": "Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, the only location. There is no second shop in Long Beach, Torrance, Irvine or downtown Los Angeles, and the city pages are drive-ins. Hours are Monday through Saturday, 9:30 AM to 6:00 PM, closed Sunday. Call (310) 513-8800 or text (213) 429-1092."
           }
         },
         {
@@ -1159,11 +1159,11 @@ Sources: Live /faq/ (all 18 answers read in full, plus the live schema); /paymen
 Live defects found on /faq/ while drafting (each is a fix that improves the page):
 
 - The meta description says "no public prices" but the page publishes prices (Viper 3108V $269, Compustar 9910 from $499, Solar $249, Solar Ceramic $329, AMS pods from $649). The proposed meta drops that phrase.
-- 8 of the 18 visible answers are cut off mid-sentence at about 167 words, so the closing line ends in a fragment. Restore the full closing sentence: "Call (213) 429-1092 or text (213) 429-1092. Walk in before 4 and most jobs go home the same day." Live endings:
-  - Why hire a pro for a bass amplifier install? ... `unday closed. Call (213) 429-1092 or text (213).`
+- 8 of the 18 visible answers are cut off mid-sentence at about 167 words, so the closing line ends in a fragment. Restore the full closing sentence: "Call (310) 513-8800 or text (213) 429-1092. Walk in before 4 and most jobs go home the same day." Live endings:
+  - Why hire a pro for a bass amplifier install? ... `unday closed. Call (310) 513-8800 or text (213).`
   - Is oxygen-free copper wire worth it, or is a cheap CCA amp kit fine? ... `00 or text (213) 429-1092. Walk in before 4 and.`
   - Why add a GPS tracker that notifies you? ... `3-8800 or text (213) 429-1092. Walk in before 4.`
-  - Compustar vs Viper — which alarm? ... ` (213) 429-1092 or text (213) 429-1092. Walk in.`
+  - Compustar vs Viper — which alarm? ... ` (310) 513-8800 or text (213) 429-1092. Walk in.`
   - What is ceramic window tint? ... `turday, 9:30 AM to 6:00 PM. Sunday closed. Call.`
   - Hertz Neo or DS18 on a bagger? ... `092. Walk in before 4 and most jobs go home the.`
   - Hertz Neo or Cicada on a bagger? ... `Walk in before 4 and most jobs go home the same.`
@@ -1212,7 +1212,7 @@ Live URL: https://www.audiomotorsports.com/reviews/  (fetched 2026-10-07, HTTP 2
   <h3>Where do the quotes on this page come from?</h3>
   <p>The five quotes are five-star reviews from the Audio MotorSports Yelp listing, shown word for word with the name as it appears on Yelp. They cover honest pricing, a subwoofer purchase, a replacement for a factory premium stereo and a dash cam install in a 1979 VW bus. Google reviews stay on Google.</p>
   <h3>How do I leave a review?</h3>
-  <p>After your install, leave a review on Google or Yelp using the buttons at the bottom of this page. You can also call (213) 429-1092, text (213) 429-1092 or send a quote request for your next job. The shop is open Monday through Saturday, 9:30 AM to 6:00 PM.</p>
+  <p>After your install, leave a review on Google or Yelp using the buttons at the bottom of this page. You can also call (310) 513-8800, text (213) 429-1092 or send a quote request for your next job. The shop is open Monday through Saturday, 9:30 AM to 6:00 PM.</p>
   <h3>Are these reviews for one shop?</h3>
   <p>Yes. Every review is for the one Audio MotorSports shop at 22025 S Avalon Blvd Ste A, Carson, CA 90745. The tint, stereo, alarm, Harley bagger and Tesla sites in the network are desks in the same bay, so the ratings belong to the same shop and the same Google listing.</p>
 </section>
@@ -1281,7 +1281,7 @@ Where each answer comes from (live pages only):
           "name": "How do I leave a review?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "After your install, leave a review on Google or Yelp using the buttons at the bottom of this page. You can also call (213) 429-1092, text (213) 429-1092 or send a quote request for your next job. The shop is open Monday through Saturday, 9:30 AM to 6:00 PM."
+            "text": "After your install, leave a review on Google or Yelp using the buttons at the bottom of this page. You can also call (310) 513-8800, text (213) 429-1092 or send a quote request for your next job. The shop is open Monday through Saturday, 9:30 AM to 6:00 PM."
           }
         },
         {
@@ -1332,7 +1332,7 @@ Live URL: https://www.audiomotorsports.com/about/  (fetched 2026-10-07, HTTP 200
 ### Answer-first paragraph (62 words; place directly under the H1)
 
 ```html
-<p class="answer-first">Audio MotorSports is a Carson, CA shop for car stereo, window tint, car alarms and Harley bagger audio, at 22025 S Avalon Blvd Ste A for 20+ years. The team is Zack, Operational Manager; Nick, sales since 1992; Alex, 3M Certified Tinter; Richard, stereo and remote start; and Albert, high-tech installer. Call (213) 429-1092, Monday to Saturday, 9:30 AM to 6:00 PM.</p>
+<p class="answer-first">Audio MotorSports is a Carson, CA shop for car stereo, window tint, car alarms and Harley bagger audio, at 22025 S Avalon Blvd Ste A for 20+ years. The team is Zack, Operational Manager; Nick, sales since 1992; Alex, 3M Certified Tinter; Richard, stereo and remote start; and Albert, high-tech installer. Call (310) 513-8800, Monday to Saturday, 9:30 AM to 6:00 PM.</p>
 ```
 
 ### Question headings and answers (5 questions, 40 to 60 words each)
@@ -1343,11 +1343,11 @@ Live URL: https://www.audiomotorsports.com/about/  (fetched 2026-10-07, HTTP 200
   <h3>Who works at Audio MotorSports?</h3>
   <p>The shop team goes by first names. Zack is Operational Manager and backs up Nick in sales. Nick has handled sales since 1992. Alex is the 3M Certified Tinter. Richard does stereo and remote start, classics and Harley baggers, and has been in the trade since 1998. Albert does Firstech, Compustar, iDatalink and ZZ2 CarPlay work.</p>
   <h3>Who should I contact for sales or operations?</h3>
-  <p>Ask for Nick on sales. He has handled sales since 1992 and answers the quote and the walk-in. Zack is Operational Manager and makes sure the job is complete, delivered and you leave satisfied. Call (213) 429-1092 or text (213) 429-1092.</p>
+  <p>Ask for Nick on sales. He has handled sales since 1992 and answers the quote and the walk-in. Zack is Operational Manager and makes sure the job is complete, delivered and you leave satisfied. Call (310) 513-8800 or text (213) 429-1092.</p>
   <h3>What does Audio MotorSports work on?</h3>
   <p>Four specialties: car stereo, window tint, car alarm and security, and Harley bagger audio. Dash cameras sit with the alarm work. The shop does not do wraps, wheels, tires, auto glass repair or suspension work. If it cannot help, it points you in the right direction.</p>
   <h3>Where is the shop and when is it open?</h3>
-  <p>Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday through Saturday, 9:30 AM to 6:00 PM and closed Sunday. Call (213) 429-1092. It is one shop with one bay. The other brand sites are desks in the same bay, not separate shops.</p>
+  <p>Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday through Saturday, 9:30 AM to 6:00 PM and closed Sunday. Call (310) 513-8800. It is one shop with one bay. The other brand sites are desks in the same bay, not separate shops.</p>
   <h3>How long has Audio MotorSports been in business?</h3>
   <p>The shop describes itself as 20+ years serving Los Angeles people who care about how the work is done, in one Carson building. Harley bagger audio has been built in-house as AMS Pods since 2003. Nick has handled sales since 1992 and Richard has been in the trade since 1998.</p>
 </section>
@@ -1478,7 +1478,7 @@ Where each answer comes from (live pages only):
           "name": "Who should I contact for sales or operations?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Ask for Nick on sales. He has handled sales since 1992 and answers the quote and the walk-in. Zack is Operational Manager and makes sure the job is complete, delivered and you leave satisfied. Call (213) 429-1092 or text (213) 429-1092."
+            "text": "Ask for Nick on sales. He has handled sales since 1992 and answers the quote and the walk-in. Zack is Operational Manager and makes sure the job is complete, delivered and you leave satisfied. Call (310) 513-8800 or text (213) 429-1092."
           }
         },
         {
@@ -1494,7 +1494,7 @@ Where each answer comes from (live pages only):
           "name": "Where is the shop and when is it open?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday through Saturday, 9:30 AM to 6:00 PM and closed Sunday. Call (213) 429-1092. It is one shop with one bay. The other brand sites are desks in the same bay, not separate shops."
+            "text": "Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday through Saturday, 9:30 AM to 6:00 PM and closed Sunday. Call (310) 513-8800. It is one shop with one bay. The other brand sites are desks in the same bay, not separate shops."
           }
         },
         {
@@ -1534,20 +1534,20 @@ Live URL: https://www.audiomotorsports.com/services/remote-start/  (fetched 2026
 |---|---|---|
 | Title | `Remote Start \| Audio MotorSports` | 32 |
 | H1 | `Remote Start` | |
-| Meta description | `A warm car in winter, a cool one in August — without leaving a hole in your security. Serving Los Angeles, Long Beach and Orange County. Call (213) 429-1092.` | 157 |
+| Meta description | `A warm car in winter, a cool one in August — without leaving a hole in your security. Serving Los Angeles, Long Beach and Orange County. Call (310) 513-8800.` | 157 |
 
 ### Proposed head and H1
 
 | Field | Proposed | Check |
 |---|---|---|
 | Title | `Remote Start Installation in Carson, CA \| Audio MotorSports` | 59 of 60 characters |
-| Meta description | `Remote start installed in Carson with the vehicle-specific bypass module, every safety lockout wired, and cold and warm start tests. Call (213) 429-1092.` | 153 characters (target 120 to 160) |
+| Meta description | `Remote start installed in Carson with the vehicle-specific bypass module, every safety lockout wired, and cold and warm start tests. Call (310) 513-8800.` | 153 characters (target 120 to 160) |
 | H1 | `Remote start installation in Carson, CA` | |
 
 ### Answer-first paragraph (64 words; place directly under the H1)
 
 ```html
-<p class="answer-first">Audio MotorSports installs remote start at 22025 S Avalon Blvd Ste A, Carson, CA. Remote start is not a plug-in: the shop installs the vehicle-specific bypass module the manufacturer intends, wires every safety lockout, and runs cold and warm start cycles before you get the keys. Add DroneMobile or Viper SmartStart for phone control. Call (213) 429-1092 or text (213) 429-1092 for a quote.</p>
+<p class="answer-first">Audio MotorSports installs remote start at 22025 S Avalon Blvd Ste A, Carson, CA. Remote start is not a plug-in: the shop installs the vehicle-specific bypass module the manufacturer intends, wires every safety lockout, and runs cold and warm start cycles before you get the keys. Add DroneMobile or Viper SmartStart for phone control. Call (310) 513-8800 or text (213) 429-1092 for a quote.</p>
 ```
 
 ### Question headings and answers (6 questions, 40 to 60 words each)
@@ -1591,7 +1591,7 @@ Where each answer comes from (live pages only):
       "@id": "https://www.audiomotorsports.com/services/remote-start/#webpage",
       "url": "https://www.audiomotorsports.com/services/remote-start/",
       "name": "Remote Start Installation in Carson, CA | Audio MotorSports",
-      "description": "Remote start installed in Carson with the vehicle-specific bypass module, every safety lockout wired, and cold and warm start tests. Call (213) 429-1092.",
+      "description": "Remote start installed in Carson with the vehicle-specific bypass module, every safety lockout wired, and cold and warm start tests. Call (310) 513-8800.",
       "inLanguage": "en-US",
       "isPartOf": {
         "@id": "https://www.audiomotorsports.com/#website"
@@ -1689,20 +1689,20 @@ Live URL: https://www.audiomotorsports.com/locations/  (fetched 2026-10-07, HTTP
 |---|---|---|
 | Title | `Drive-in Locations \| One Avalon Shop \| Audio MotorSports` | 56 |
 | H1 | `One Avalon shop. One hundred twenty-three drive-ins.` | |
-| Meta description | `One Avalon bay. Drive in from the harbor, South Bay, Long Beach, inland, and Orange County for stereo, 3M tint, and car alarm. Call (213) 429-1092.` | 147 |
+| Meta description | `One Avalon bay. Drive in from the harbor, South Bay, Long Beach, inland, and Orange County for stereo, 3M tint, and car alarm. Call (310) 513-8800.` | 147 |
 
 ### Proposed head and H1
 
 | Field | Proposed | Check |
 |---|---|---|
 | Title | `Areas Served: 123 Drive-In Cities \| Audio MotorSports Carson` | 60 of 60 characters |
-| Meta description | `One Carson shop at 22025 S Avalon Blvd. Drive in from the harbor, South Bay, Long Beach, inland and Orange County for stereo, tint and alarms. (213) 429-1092` | 157 characters (target 120 to 160) |
+| Meta description | `One Carson shop at 22025 S Avalon Blvd. Drive in from the harbor, South Bay, Long Beach, inland and Orange County for stereo, tint and alarms. (310) 513-8800` | 157 characters (target 120 to 160) |
 | H1 | `One Carson shop, 123 drive-in cities` | |
 
 ### Answer-first paragraph (60 words; place directly under the H1)
 
 ```html
-<p class="answer-first">Audio MotorSports has one shop, at 22025 S Avalon Blvd Ste A, Carson, CA 90745. The 123 city pages on this site are drive-ins to that one bay, not separate storefronts, grouped by area from Harbor and South Bay to Long Beach, Inland, Westside and Orange County. Call (213) 429-1092 and text the year, make and model before you leave.</p>
+<p class="answer-first">Audio MotorSports has one shop, at 22025 S Avalon Blvd Ste A, Carson, CA 90745. The 123 city pages on this site are drive-ins to that one bay, not separate storefronts, grouped by area from Harbor and South Bay to Long Beach, Inland, Westside and Orange County. Call (310) 513-8800 and text the year, make and model before you leave.</p>
 ```
 
 ### Question headings and answers (5 questions, 40 to 60 words each)
@@ -1711,7 +1711,7 @@ Live URL: https://www.audiomotorsports.com/locations/  (fetched 2026-10-07, HTTP
 <section class="faq" id="faq" aria-labelledby="faq-heading">
   <h2 id="faq-heading">Drive-in questions answered</h2>
   <h3>Where is Audio MotorSports?</h3>
-  <p>One bay at 22025 S Avalon Blvd Ste A, Carson, CA 90745. The shop is open Monday through Saturday, 9:30 AM to 6:00 PM and closed Sunday. Call (213) 429-1092 and ask for Nick; Zack runs the floor. Google Maps pins that address only, because there is no second location.</p>
+  <p>One bay at 22025 S Avalon Blvd Ste A, Carson, CA 90745. The shop is open Monday through Saturday, 9:30 AM to 6:00 PM and closed Sunday. Call (310) 513-8800 and ask for Nick; Zack runs the floor. Google Maps pins that address only, because there is no second location.</p>
   <h3>Do you have a shop in each of these cities?</h3>
   <p>No. The 123 tiles are 123 drive-ins to one Carson shop, not a storefront in each city. Pick the city you leave from and the tile shows the drive. Stereo, tint and alarm work is done at the same Carson bay, and the shop does no mobile installs.</p>
   <h3>What happens under one roof at the Carson shop?</h3>
@@ -1746,7 +1746,7 @@ Where each answer comes from (live pages only):
       "@id": "https://www.audiomotorsports.com/locations/#webpage",
       "url": "https://www.audiomotorsports.com/locations/",
       "name": "Areas Served: 123 Drive-In Cities | Audio MotorSports Carson",
-      "description": "One Carson shop at 22025 S Avalon Blvd. Drive in from the harbor, South Bay, Long Beach, inland and Orange County for stereo, tint and alarms. (213) 429-1092",
+      "description": "One Carson shop at 22025 S Avalon Blvd. Drive in from the harbor, South Bay, Long Beach, inland and Orange County for stereo, tint and alarms. (310) 513-8800",
       "inLanguage": "en-US",
       "isPartOf": {
         "@id": "https://www.audiomotorsports.com/#website"
@@ -1774,7 +1774,7 @@ Where each answer comes from (live pages only):
           "name": "Where is Audio MotorSports?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "One bay at 22025 S Avalon Blvd Ste A, Carson, CA 90745. The shop is open Monday through Saturday, 9:30 AM to 6:00 PM and closed Sunday. Call (213) 429-1092 and ask for Nick; Zack runs the floor. Google Maps pins that address only, because there is no second location."
+            "text": "One bay at 22025 S Avalon Blvd Ste A, Carson, CA 90745. The shop is open Monday through Saturday, 9:30 AM to 6:00 PM and closed Sunday. Call (310) 513-8800 and ask for Nick; Zack runs the floor. Google Maps pins that address only, because there is no second location."
           }
         },
         {
@@ -1859,23 +1859,23 @@ Rows are grouped by element; the # column lists the occurrence numbers each row 
 | # | Where | Before (live, verbatim) | After (proposed) | Type |
 |---|---|---|---|---|
 | 1, 4, 7 | Title, og:title, twitter:title | Tesla Window Tint Avalon \| Tesla Tint LA | Tesla Window Tint in Carson, CA \| Tesla Tint LA | city placeholder |
-| 2, 3, 5, 6, 8, 9 | Meta description, og:description, twitter:description (two uses in each) | Tesla window tint for Avalon — Solar Ceramic and 3M IR Ceramic on Avalon. Ask for Nick. (213) 429-1092. | Tesla window tint in Carson, CA: hand-cut Solar Ceramic and 3M IR Ceramic at 22025 S Avalon Blvd Ste A. Ask for Nick. Call (213) 429-1092. | city placeholder (first use), street shorthand (second use) |
+| 2, 3, 5, 6, 8, 9 | Meta description, og:description, twitter:description (two uses in each) | Tesla window tint for Avalon — Solar Ceramic and 3M IR Ceramic on Avalon. Ask for Nick. (310) 513-8800. | Tesla window tint in Carson, CA: hand-cut Solar Ceramic and 3M IR Ceramic at 22025 S Avalon Blvd Ste A. Ask for Nick. Call (310) 513-8800. | city placeholder (first use), street shorthand (second use) |
 | 10 | BreadcrumbList JSON-LD, item 3 name | Tesla Window Tint for Avalon | Tesla Window Tint in Carson, CA | city placeholder |
 | 19 | Visible breadcrumb | Home / Locations / Avalon | Home / Locations / Carson | city placeholder |
 | 17, 18 | Hero image alt text | Tesla window tint for Avalon — Tesla Tint LA at Audio MotorSports on Avalon | Tesla window tint in Carson, CA — Tesla Tint LA at Audio MotorSports | city placeholder (first), street shorthand (second) |
 | 20 | H1 | Tesla Window Tint for Avalon | Tesla Window Tint in Carson, CA | city placeholder |
-| 21, 22, 24 | Lead paragraph under H1 (superseded by the answer-first paragraph if that is adopted) | The bay is on Avalon. Tesla Tint LA is the Tesla window-tint side of Audio MotorSports on Avalon — 22025 S Avalon Blvd Ste A · CA 90745. You are already on Avalon. Call (213) 429-1092. Ask for Nick. Zack runs the floor. | The bay is in Carson. Tesla Tint LA is the Tesla window-tint side of Audio MotorSports, at 22025 S Avalon Blvd Ste A, Carson, CA 90745. Call (213) 429-1092. Ask for Nick. Zack runs the floor. | city placeholder / street shorthand |
+| 21, 22, 24 | Lead paragraph under H1 (superseded by the answer-first paragraph if that is adopted) | The bay is on Avalon. Tesla Tint LA is the Tesla window-tint side of Audio MotorSports on Avalon — 22025 S Avalon Blvd Ste A · CA 90745. You are already on Avalon. Call (310) 513-8800. Ask for Nick. Zack runs the floor. | The bay is in Carson. Tesla Tint LA is the Tesla window-tint side of Audio MotorSports, at 22025 S Avalon Blvd Ste A, Carson, CA 90745. Call (310) 513-8800. Ask for Nick. Zack runs the floor. | city placeholder / street shorthand |
 | 25, 26 | First body paragraph, opening sentences | The bay is on Avalon. Tesla Tint LA is the Tesla window-tint side of Audio MotorSports on Avalon — 22025 S Avalon Blvd Ste A · CA 90745. One bay. One map pin. | The bay is in Carson. Tesla Tint LA is the Tesla window-tint side of Audio MotorSports, at 22025 S Avalon Blvd Ste A, Carson, CA 90745. One bay. One map pin. | city placeholder / street shorthand |
 | 28, 30, 31 | Second body paragraph | You are already on Avalon. This is not a hop. This is a walk-in on the shop street — 22025 S Avalon Blvd Ste A · CA 90745 — the same pin every other page on this site is driving toward. Two minutes if you are already on the block. If you came off the 405 or the 110, stay on Avalon until the bay is on the right. No second turn. The address is Avalon. The work is Tesla window tint. | This is the shop itself, not a drive-in. The pin is 22025 S Avalon Blvd Ste A, Carson, CA 90745, the same pin every other page on this site points to. Use the Google Maps pin for that address. The shop is in Carson. The work is Tesla window tint. | city placeholder; 'stay on Avalon until the bay is on the right' and 'two minutes' are unverified directions (dropped, see [CONFIRM] list) |
 | 32 | Third body paragraph | Tesla Tint LA exists so a Avalon Tesla owner can read the films, the locked numbers, and the drive without wading through a car-stereo menu. | Tesla Tint LA exists so a Carson Tesla owner can read the films, the locked numbers, and the drive without wading through a car-stereo menu. | city placeholder (also fixes 'a Avalon') |
 | 33 | Fourth body paragraph, first sentences | The shop-street heat is bay heat. Avalon lots, a harbor-adjacent shimmer by noon. You do not get a freeway windshield story because you did not take a freeway. You get the same oven-cabin a daily gets when it sits on this block through a lunch hour. | A Tesla parked in the Carson sun heats up like any other car. | invented local colour (unverifiable); replaced with a plain statement. The rest of the paragraph (3M IR Ceramic, Solar Ceramic, 70% VLT fronts, glass board, micro edge) stays as is. |
 | 34 | Fifth body paragraph | A Model 3 that lives two lights up Avalon and a Model S that came off the 110 are not one pattern. | A Model 3 and a Model S are not one pattern. | street-direction claim, unverifiable |
-| 35, 36, 38, 39, 41 | Route paragraph | The route from Avalon: You are already on Avalon — the shop street. Roll into the bay at 22025 S Avalon Blvd Ste A · CA 90745. Alternate: If you came off the 405 or the 110, stay on Avalon until the bay is on the right. No second turn. You are already on Avalon. Maps pin 22025 S Avalon Blvd Ste A · CA 90745 · (213) 429-1092 only — there is no Avalon location. Text the year and the Tesla before you leave so Nick can park a 10:00 AM or 12:00 PM slot. | Getting here: roll into the bay at 22025 S Avalon Blvd Ste A, Carson, CA 90745. Use the Google Maps pin for that address and (213) 429-1092 only; there is one shop and no second location. Text the year and the Tesla before you leave so Nick can park a 10:00 AM or 12:00 PM slot. | city placeholder; directions unverifiable (dropped) |
+| 35, 36, 38, 39, 41 | Route paragraph | The route from Avalon: You are already on Avalon — the shop street. Roll into the bay at 22025 S Avalon Blvd Ste A · CA 90745. Alternate: If you came off the 405 or the 110, stay on Avalon until the bay is on the right. No second turn. You are already on Avalon. Maps pin 22025 S Avalon Blvd Ste A · CA 90745 · (310) 513-8800 only — there is no Avalon location. Text the year and the Tesla before you leave so Nick can park a 10:00 AM or 12:00 PM slot. | Getting here: roll into the bay at 22025 S Avalon Blvd Ste A, Carson, CA 90745. Use the Google Maps pin for that address and (310) 513-8800 only; there is one shop and no second location. Text the year and the Tesla before you leave so Nick can park a 10:00 AM or 12:00 PM slot. | city placeholder; directions unverifiable (dropped) |
 | 42 | Price paragraph, first sentence | Installed prices do not change because you drove from Avalon. | The installed prices for each model are in the table below. | city placeholder; 'do not change' also conflicts with the /tesla/ promo prices (see price section) |
 | 43, 44 | Closing paragraph | If you are in Avalon looking for Tesla window tint, skip the search and drive the Avalon hop, ask for Nick, and get a real quote on Solar Ceramic or 3M IR Ceramic — hand-cut, micro edge, California fronts. | If you are in Carson looking for Tesla window tint, skip the search and drive to the bay at 22025 S Avalon Blvd Ste A, ask for Nick, and get a real quote on Solar Ceramic or 3M IR Ceramic — hand-cut, micro edge, California fronts. | city placeholder |
 | 45 | Closing paragraph, last sentence | One Avalon shop. Book 10:00 or 12:00. | One Carson shop. Book 10:00 or 12:00. | city placeholder |
 | 47 | 'The bay' card, second paragraph | You are already on Avalon — the shop street. Roll into the bay at 22025 S Avalon Blvd Ste A · CA 90745. Ask for Nick. | Roll into the bay at 22025 S Avalon Blvd Ste A, Carson, CA 90745. Ask for Nick. | city placeholder |
-| 12, 49, 50, 51 | FAQ question 1, visible (#49-51) and JSON-LD answer (#12) | Q: Is Tesla Tint LA in Avalon?  A: No. There is no Avalon Tesla tint storefront. Tesla Tint LA is the Tesla window-tint side of Audio MotorSports on Avalon — 22025 S Avalon Blvd Ste A · CA 90745. One bay. One map pin. Call (213) 429-1092. Ask for Nick. Zack runs the floor.   (JSON-LD has a different Q1: "Where is Tesla Tint LA?") | Q: Where is Tesla Tint LA in Carson?  A: see the FAQ block in page 4 (answer 1). Visible and JSON-LD now use the same question and answer. | city placeholder; the old answer 'No, there is no Avalon storefront' is wrong once Avalon is replaced by Carson, because the shop IS in Carson |
+| 12, 49, 50, 51 | FAQ question 1, visible (#49-51) and JSON-LD answer (#12) | Q: Is Tesla Tint LA in Avalon?  A: No. There is no Avalon Tesla tint storefront. Tesla Tint LA is the Tesla window-tint side of Audio MotorSports on Avalon — 22025 S Avalon Blvd Ste A · CA 90745. One bay. One map pin. Call (310) 513-8800. Ask for Nick. Zack runs the floor.   (JSON-LD has a different Q1: "Where is Tesla Tint LA?") | Q: Where is Tesla Tint LA in Carson?  A: see the FAQ block in page 4 (answer 1). Visible and JSON-LD now use the same question and answer. | city placeholder; the old answer 'No, there is no Avalon storefront' is wrong once Avalon is replaced by Carson, because the shop IS in Carson |
 | 14, 53 | FAQ question 2 (visible and JSON-LD) | How much is Tesla window tint if I drive from Avalon? | How much is Tesla window tint in Carson? | city placeholder |
 | 15, 54 | FAQ question 3 (visible and JSON-LD) | Do you tint the Tesla Model Y L from Avalon? | Do you tint the Tesla Model Y L in Carson? | city placeholder |
 | 16, 55 | FAQ question 4 (visible and JSON-LD) | When can I book Tesla tint from Avalon? | When can I book Tesla tint in Carson? | city placeholder |
@@ -1947,11 +1947,11 @@ Insert before the footer call-to-action (visible text equals the existing schema
   <h3>Do you show staff photos in the gallery?</h3>
   <p>No. Gallery tiles are YouTube job thumbnails of the vehicles and film — not staff faces.</p>
   <h3>Do you publish tint prices?</h3>
-  <p>No. Call (213) 429-1092 or text us for a quote. A payment plan is available.</p>
+  <p>No. Call (310) 513-8800 or text us for a quote. A payment plan is available.</p>
 </section>
 ```
 
-- [CONFIRM] Answer 2 ("Do you publish tint prices? No.") contradicts /tint/, /faq/, /locations/ and live llms.txt, which publish Solar $249 and Solar Ceramic $329. Suggested replacement for BOTH the visible block and the schema: "Starting prices are posted on the LA Car Tint page: Solar $249 and Solar Ceramic $329 installed for a four-door sedan, doors and back glass, no windshield (verified September 2026). Everything else is quoted by vehicle. Call (213) 429-1092 or text us. A payment plan is available." (verify numbers and date first)
+- [CONFIRM] Answer 2 ("Do you publish tint prices? No.") contradicts /tint/, /faq/, /locations/ and live llms.txt, which publish Solar $249 and Solar Ceramic $329. Suggested replacement for BOTH the visible block and the schema: "Starting prices are posted on the LA Car Tint page: Solar $249 and Solar Ceramic $329 installed for a four-door sedan, doors and back glass, no windshield (verified September 2026). Everything else is quoted by vehicle. Call (310) 513-8800 or text us. A payment plan is available." (verify numbers and date first)
 - Answer 1 is a statement about the gallery, not about the shop; keep it only if the gallery is on this page.
 
 ### /tint/blog/california-70-vlt-fronts/
@@ -1968,7 +1968,7 @@ Insert before the footer call-to-action (visible text equals the existing schema
   <h3>Do you computer-cut the film?</h3>
   <p>No. Most shops feed your vehicle year and model into a plotter and let a machine cut a generic pattern. We hand-cut every piece on a glass board, then fit it to your glass with a micro edge that sits flush to the glass line. Plotter jobs are faster. They also leave gaps at the edge or film creeping past the glass. Tesla roofs, EQS windshields, and Hummer EV polycarbonate are why the extra time matters.</p>
   <h3>Do you publish prices?</h3>
-  <p>Solar is $249 and Solar Ceramic is $329 — weekly specials, hand-cut micro edge. 3M Ceramic IR and Color Stable stay quote-only. Call (213) 429-1092 or text us with the year, make, and model.</p>
+  <p>Solar is $249 and Solar Ceramic is $329 — weekly specials, hand-cut micro edge. 3M Ceramic IR and Color Stable stay quote-only. Call (310) 513-8800 or text us with the year, make, and model.</p>
   <h3>Is a payment plan available?</h3>
   <p>Yes. A payment plan is available through our payment plan partner. Apply online, then schedule the install. Decision timing is controlled by that partner, not by our shop. Nick walks you through what the payments look like. See the Payment Plan page.</p>
   <h3>Do you tint Teslas?</h3>
@@ -1976,7 +1976,7 @@ Insert before the footer call-to-action (visible text equals the existing schema
   <h3>Does ceramic film interfere with electronics?</h3>
   <p>3M ceramic and color-stable lines are designed not to interfere with electronics the way some metalized films can. We confirm the right tier when we quote your vehicle.</p>
   <h3>How long does a tint job take?</h3>
-  <p>Often same-day if you arrive at opening. Full-vehicle ceramic and Tesla roofs take longer than two front doors. Call (213) 429-1092 to hold a bay.</p>
+  <p>Often same-day if you arrive at opening. Full-vehicle ceramic and Tesla roofs take longer than two front doors. Call (310) 513-8800 to hold a bay.</p>
   <h3>Where is the shop?</h3>
   <p>22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday–Saturday 9:30 AM – 6:00 PM. Sunday closed. We serve Los Angeles, Long Beach, Torrance, and Orange County. We do not mobile-tint.</p>
 </section>
@@ -2001,7 +2001,7 @@ Insert before the footer call-to-action (visible text equals the existing schema
   <h3>What is the difference between an immobilizer and a siren?</h3>
   <p>A siren makes noise. An immobilizer stops the engine from starting. Relay and keyless theft do not care about a speaker in the engine bay. We spec a starter interrupt or Firstech anti-theft module so a thief with a booster does not drive away. Siren, shock sensor, and pager are still useful — they are not a substitute for an immobilizer on a Charger, Challenger, or Wrangler.</p>
   <h3>Do you publish prices?</h3>
-  <p>Viper 3108V is $269 installed. Compustar 9910 is $499 installed, most cars. Other security, DroneMobile, and anti-theft stay a quote. Call (213) 429-1092 or text us with the year, make, and model.</p>
+  <p>Viper 3108V is $269 installed. Compustar 9910 is $499 installed, most cars. Other security, DroneMobile, and anti-theft stay a quote. Call (310) 513-8800 or text us with the year, make, and model.</p>
   <h3>Do you offer a payment plan?</h3>
   <p>Yes. A payment plan is available through our payment plan partner. Apply online, then schedule the install. Decision timing is controlled by that partner, not by the shop.</p>
   <h3>Who installs the system?</h3>
@@ -2015,7 +2015,7 @@ Insert before the footer call-to-action (visible text equals the existing schema
   <h3>What cities do you serve?</h3>
   <p>Los Angeles, Long Beach, the South Bay, and Orange County. Torrance, Gardena, San Pedro, Harbor City, Compton, Downey, Lakewood, Cerritos, Huntington Beach, Anaheim, Santa Ana, and the rest of the South Bay and OC. Call the 310 for the bay. Text us for Nick on sales. Address and hours are on Contact.</p>
   <h3>How do I get a quote?</h3>
-  <p>Call (213) 429-1092, text us, or send the form on Contact. Year, make, model, and whether you want Viper, Compustar, remote start, DroneMobile, or GPS. Same-business-day replies are typical.</p>
+  <p>Call (310) 513-8800, text us, or send the form on Contact. Year, make, model, and whether you want Viper, Compustar, remote start, DroneMobile, or GPS. Same-business-day replies are typical.</p>
 </section>
 ```
 
@@ -2040,7 +2040,7 @@ Schema edit: set the one Answer `text` to the visible paragraph (the only differ
   "name": "What if I want a brand you do not carry?",
   "acceptedAnswer": {
     "@type": "Answer",
-    "text": "If you’re a fan of a brand we don’t carry through our network, don’t hesitate to call. We’ll source it for you. One phone call and we can usually get what you want. Call (213) 429-1092. Walk-ins welcome. Mon–Sat 9:30 AM – 6:00 PM, Sunday closed. 22025 S Avalon Blvd Ste A, Carson, CA 90745."
+    "text": "If you’re a fan of a brand we don’t carry through our network, don’t hesitate to call. We’ll source it for you. One phone call and we can usually get what you want. Call (310) 513-8800. Walk-ins welcome. Mon–Sat 9:30 AM – 6:00 PM, Sunday closed. 22025 S Avalon Blvd Ste A, Carson, CA 90745."
   }
 }
 ```
@@ -2064,7 +2064,7 @@ Schema edit: set the one Answer `text` to the visible paragraph (the only differ
   "name": "What if I want a brand you do not carry?",
   "acceptedAnswer": {
     "@type": "Answer",
-    "text": "If you’re a fan of a brand we don’t carry through our network, don’t hesitate to call. We’ll source it for you. One phone call and we can usually get what you want. Call (213) 429-1092. Walk-ins welcome. Mon–Sat 9:30 AM – 6:00 PM, Sunday closed. 22025 S Avalon Blvd Ste A, Carson, CA 90745."
+    "text": "If you’re a fan of a brand we don’t carry through our network, don’t hesitate to call. We’ll source it for you. One phone call and we can usually get what you want. Call (310) 513-8800. Walk-ins welcome. Mon–Sat 9:30 AM – 6:00 PM, Sunday closed. 22025 S Avalon Blvd Ste A, Carson, CA 90745."
   }
 }
 ```
@@ -2110,7 +2110,7 @@ Compiled from live pages fetched on 2026-10-07 (and live llms.txt). Prices are c
 | /specials/ | Pioneer W3000NEX $499 installed; Thinkware Q200 $349; Kicker Dual 12 CVS $299; Kicker CompR 12 $199; Solar Ceramic Sedan $329 ("Starting · most sedans"); Solar Ceramic Fronts $149 ("Starting · most cars"); Viper 3108V $269; Compustar 8910 $399; Solar window tint $249 "$100 off" weekly special; AMS pods "starting at $649". | $149-$499 | "Prices verified September 2026." |
 | /payment-plan/ | "Solar tint starts at $249 installed. Solar Ceramic starts at $329 installed. Viper 3108V is $269 installed. Compustar 9910 starts at $499 installed on most cars. Dual Kicker Comp box is $249 for the box; install is quoted. Build Your AMS Pod starts at $649 a pair." | $249, $329, $269, $499, $249 box, $649 | none |
 | /tint/faq/ | "Solar is $249 and Solar Ceramic is $329 — weekly specials, hand-cut micro edge." | $249, $329 | "Prices verified September 2026." |
-| /tint/all-services/ (schema only) | "Do you publish tint prices? No. Call (213) 429-1092 or text us for a quote." | none (says no) | none |
+| /tint/all-services/ (schema only) | "Do you publish tint prices? No. Call (310) 513-8800 or text us for a quote." | none (says no) | none |
 | /tint/blog/california-70-vlt-fronts/ (schema only) | "Solar is $249 and Solar Ceramic is $329 — weekly specials" | $249, $329 | none |
 | /alarm/blog/viper-vs-compustar/ (schema only) | "Viper 3108V is $269 installed. Compustar 9910 is $499 installed, most cars." | $269, $499 | none |
 | /services/remote-start/ | No price on the page. | none | none |
@@ -2217,7 +2217,7 @@ Copy-ready body (everything between the lines). Facts come from the live site on
 ## Shop facts
 - Business: Audio MotorSports Inc (AMS)
 - Address: 22025 S Avalon Blvd Ste A, Carson, CA 90745. Avalon Blvd is the street; the city is Carson.
-- Phone: (213) 429-1092
+- Phone: (310) 513-8800
 - Text: (213) 429-1092 (the line that receives texts)
 - Hours: Monday to Saturday, 9:30 AM to 6:00 PM. Closed Sunday.
 - All work is done in the Carson bay. No mobile installs.
@@ -2339,7 +2339,7 @@ Answer each line (yes / no / the right number). Nothing in this file is live unt
 22. [ ] Email in schema: audiomotorsports@gmail.com on every page. Is there a domain mailbox to use instead?
 23. [ ] priceRange "$$", foundingDate (the site shows "Since 2003" and "20+ years"), legalName "Audio MotorSports Inc": confirm before they go on the home page.
 24. [ ] sameAs: confirm the seven profile URLs (Instagram, Google share link, YouTube channel, Facebook, TikTok, Yelp short link, Google Maps ftid). Decide whether the five sister domains (lacarbeats.com, lacartint.com, lacaralarm.com, amspods.com, teslatintla.com) stay in sameAs or move to subOrganization.
-25. [ ] Text line (213) 429-1092: confirm it is the shop's own text number (the live FAQ says so); schema lists only (213) 429-1092.
+25. [ ] Text line (213) 429-1092: confirm it is the shop's own text number (the live FAQ says so); schema lists only (310) 513-8800.
 26. [ ] Certifications and authorizations quoted on the site: 3M Authorized / Certified, Viper Diamond Certified dealer, Compustar authorized, Crutchfield preferred installer, Focal, Hertz and Kenwood Excelon authorized. Which can be stated publicly?
 27. [ ] Team: first names only on /about/ (Zack Operational Manager, Nick Sales, Alex 3M Certified Tinter, Richard Stereo and Remote Start, Albert High-Tech Installer). OK to mark up as Person nodes with those titles? Alex shows "15+ years" on /tint/ and "20+ years" in the tint schema: which?
 28. [ ] /tesla/ meta says "from a Tesla-owning shop": true? If not it is dropped.

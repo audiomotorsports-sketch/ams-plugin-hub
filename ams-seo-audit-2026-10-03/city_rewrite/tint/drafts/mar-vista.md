@@ -4,7 +4,7 @@ city: Mar Vista
 miles: 15.4
 lead_service: car window tint (street-parked cars)
 title: Car Window Tint Mar Vista | LA Car Tint by Audio MotorSports
-meta: Car window tint and ceramic film for Mar Vista cars, hand-cut and installed by LA Car Tint at Audio MotorSports in Carson, 15.4 miles away. Call (213) 429-1092.
+meta: Car window tint and ceramic film for Mar Vista cars, hand-cut and installed by LA Car Tint at Audio MotorSports in Carson, 15.4 miles away. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Window Tint for Mar Vista Drivers, by Audio MotorSports, Carson
@@ -64,7 +64,7 @@ Solar window tinting $249 installed; Solar Ceramic window tinting $329 installed
 
 ## Book it
 
-Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
+Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
 
 ```json
 {
@@ -75,7 +75,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-mar-vista/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-mar-vista/",
    "name": "Car Window Tint Mar Vista | LA Car Tint by Audio MotorSports",
-   "description": "Car window tint and ceramic film for Mar Vista cars, hand-cut and installed by LA Car Tint at Audio MotorSports in Carson, 15.4 miles away. Call (213) 429-1092.",
+   "description": "Car window tint and ceramic film for Mar Vista cars, hand-cut and installed by LA Car Tint at Audio MotorSports in Carson, 15.4 miles away. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

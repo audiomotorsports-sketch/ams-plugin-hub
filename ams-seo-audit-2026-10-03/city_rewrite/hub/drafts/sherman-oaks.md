@@ -4,7 +4,7 @@ city: Sherman Oaks
 miles: 24.7
 lead_service: car stereo installation
 title: Car Stereo Installation, Sherman Oaks | Audio MotorSports
-meta: Car stereo installation, speaker replacement, subwoofer and amplifier installs, tint and alarms for Sherman Oaks at Audio MotorSports in Carson. (213) 429-1092.
+meta: Car stereo installation, speaker replacement, subwoofer and amplifier installs, tint and alarms for Sherman Oaks at Audio MotorSports in Carson. (310) 513-8800.
 ---
 # Car Stereo Installation for Sherman Oaks Drivers
 
@@ -74,7 +74,7 @@ Head units, speakers, amplifiers and labor are quoted on your car, prices as of 
 
 ## Book from Sherman Oaks
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday through Saturday 9:30-18:00 and closed Sunday. Drop off for the day or wait for the shorter jobs.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday through Saturday 9:30-18:00 and closed Sunday. Drop off for the day or wait for the shorter jobs.
 
 ```json
 {
@@ -85,7 +85,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/sherman-oaks/#webpage",
    "url": "https://www.audiomotorsports.com/sherman-oaks/",
    "name": "Car Stereo Installation, Sherman Oaks | Audio MotorSports",
-   "description": "Car stereo installation, speaker replacement, subwoofer and amplifier installs, tint and alarms for Sherman Oaks at Audio MotorSports in Carson. (213) 429-1092.",
+   "description": "Car stereo installation, speaker replacement, subwoofer and amplifier installs, tint and alarms for Sherman Oaks at Audio MotorSports in Carson. (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

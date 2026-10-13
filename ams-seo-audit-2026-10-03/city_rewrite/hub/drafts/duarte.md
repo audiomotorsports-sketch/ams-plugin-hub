@@ -4,7 +4,7 @@ city: Duarte
 miles: 27.1
 lead_service: Tesla window tint
 title: Tesla Window Tint for Duarte Drivers | Audio MotorSports
-meta: Tesla window tint, ceramic tint, car stereo installation and car alarm installs for Duarte drivers at Audio MotorSports in Carson, 27.1 miles. (213) 429-1092.
+meta: Tesla window tint, ceramic tint, car stereo installation and car alarm installs for Duarte drivers at Audio MotorSports in Carson, 27.1 miles. (310) 513-8800.
 ---
 # Tesla Window Tint for Duarte
 
@@ -35,7 +35,7 @@ If you would rather wait inside than make two trips from Duarte, the shop has se
 
 ### Why should a Duarte driver bring a Tesla to Carson for tint?
 
-Because the rear glass is where tint jobs go wrong, and here it is shrunk and laid as a single sheet in a clean bay by people who do it every week. Duarte is 27.1 miles, roughly fifty-four to sixty-five minutes outside rush hour. Book with a call to (213) 429-1092 or a text to (213) 429-1092.
+Because the rear glass is where tint jobs go wrong, and here it is shrunk and laid as a single sheet in a clean bay by people who do it every week. Duarte is 27.1 miles, roughly fifty-four to sixty-five minutes outside rush hour. Book with a call to (310) 513-8800 or a text to (213) 429-1092.
 
 ### Does ceramic window tint interfere with Tesla cameras or the phone key?
 
@@ -74,7 +74,7 @@ Tesla tint is quoted at the shop by model. Prices as of October 2026. Payment pl
 
 ## Book the Tesla
 
-Call (213) 429-1092 or text the model and year to (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, is open Mon-Sat 9:30-18:00, closed Sunday. Drop the car or wait.
+Call (310) 513-8800 or text the model and year to (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, is open Mon-Sat 9:30-18:00, closed Sunday. Drop the car or wait.
 
 ```json
 {
@@ -85,7 +85,7 @@ Call (213) 429-1092 or text the model and year to (213) 429-1092. Audio MotorSpo
    "@id": "https://www.audiomotorsports.com/duarte/#webpage",
    "url": "https://www.audiomotorsports.com/duarte/",
    "name": "Tesla Window Tint for Duarte Drivers | Audio MotorSports",
-   "description": "Tesla window tint, ceramic tint, car stereo installation and car alarm installs for Duarte drivers at Audio MotorSports in Carson, 27.1 miles. (213) 429-1092.",
+   "description": "Tesla window tint, ceramic tint, car stereo installation and car alarm installs for Duarte drivers at Audio MotorSports in Carson, 27.1 miles. (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -127,7 +127,7 @@ Call (213) 429-1092 or text the model and year to (213) 429-1092. Audio MotorSpo
      "name": "Why should a Duarte driver bring a Tesla to Carson for tint?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Because the rear glass is where tint jobs go wrong, and here it is shrunk and laid as a single sheet in a clean bay by people who do it every week. Duarte is 27.1 miles, roughly fifty-four to sixty-five minutes outside rush hour. Book with a call to (213) 429-1092 or a text to (213) 429-1092."
+      "text": "Because the rear glass is where tint jobs go wrong, and here it is shrunk and laid as a single sheet in a clean bay by people who do it every week. Duarte is 27.1 miles, roughly fifty-four to sixty-five minutes outside rush hour. Book with a call to (310) 513-8800 or a text to (213) 429-1092."
      }
     },
     {

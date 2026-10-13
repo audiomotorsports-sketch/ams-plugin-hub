@@ -6,7 +6,7 @@ lead_service: subwoofer installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Redondo Beach Subwoofer Installation | LA Car Beats
-meta: Subwoofer installation and amplifier installation for Redondo Beach drivers at LA Car Beats by Audio MotorSports in Carson, 7.2 miles away. Call (213) 429-1092.
+meta: Subwoofer installation and amplifier installation for Redondo Beach drivers at LA Car Beats by Audio MotorSports in Carson, 7.2 miles away. Call (310) 513-8800.
 ---
 # Subwoofer Installation for Redondo Beach Drivers
 
@@ -22,7 +22,7 @@ Redondo Beach drivers add real low end at LA Car Beats by Audio MotorSports, Car
 
 ## Redondo Beach to Carson
 
-Redondo Beach to the shop is about 7.2 miles, roughly 14 to 17 minutes outside rush hour (approx). Hours are Monday through Saturday 9:30 to 6:00, closed Sunday. Book by calling (213) 429-1092 or texting (213) 429-1092. A sub and amp with new wiring is a morning drop-off; hooking a loaded box to an amp that is already in can be waited on. Drivers come to this bay from over 100 miles away, so Redondo Beach is a quick trip.
+Redondo Beach to the shop is about 7.2 miles, roughly 14 to 17 minutes outside rush hour (approx). Hours are Monday through Saturday 9:30 to 6:00, closed Sunday. Book by calling (310) 513-8800 or texting (213) 429-1092. A sub and amp with new wiring is a morning drop-off; hooking a loaded box to an amp that is already in can be waited on. Drivers come to this bay from over 100 miles away, so Redondo Beach is a quick trip.
 
 <!-- owner-details-2026-10-07 -->
 If you would rather wait inside than make two trips from Redondo Beach, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Redondo Beach traffic sends you.
@@ -65,7 +65,7 @@ More car stereo installation pages nearby:
 
 ## Book your Redondo Beach sub install
 
-Text (213) 429-1092 or call (213) 429-1092 with the vehicle details. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Text (213) 429-1092 or call (310) 513-8800 with the vehicle details. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -77,7 +77,7 @@ Text (213) 429-1092 or call (213) 429-1092 with the vehicle details. Audio Motor
    "name": "Redondo Beach Subwoofer Installation | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-redondo-beach/",
    "dateModified": "2026-10-08",
-   "description": "Subwoofer installation and amplifier installation for Redondo Beach drivers at LA Car Beats by Audio MotorSports in Carson, 7.2 miles away. Call (213) 429-1092.",
+   "description": "Subwoofer installation and amplifier installation for Redondo Beach drivers at LA Car Beats by Audio MotorSports in Carson, 7.2 miles away. Call (310) 513-8800.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

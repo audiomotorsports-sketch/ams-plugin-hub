@@ -4,7 +4,7 @@ city: Palos Verdes Estates
 miles: 8.0
 lead_service: Tesla window tint (new-delivery tint)
 title: Palos Verdes Estates Tesla Tint | Tesla Tint LA, Carson
-meta: Just took delivery? Tesla window tint for Palos Verdes Estates at Tesla Tint LA by Audio MotorSports in Carson, 8 miles away. Ceramic film. Call (213) 429-1092.
+meta: Just took delivery? Tesla window tint for Palos Verdes Estates at Tesla Tint LA by Audio MotorSports in Carson, 8 miles away. Ceramic film. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla Window Tint for Palos Verdes Estates: Tint It the Week You Take Delivery
@@ -60,7 +60,7 @@ New-delivery Tesla tint is quoted by model at the shop once Nick sees the car. T
 
 ## Schedule it
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

@@ -4,12 +4,12 @@ city: Signal Hill
 miles: 5.8
 lead_service: car window tint (privacy)
 title: Car Window Tint Signal Hill | LA Car Tint, Carson
-meta: Privacy car window tint and ceramic window tinting for Signal Hill at LA Car Tint by Audio MotorSports in Carson, 5.8 miles away. Call (213) 429-1092.
+meta: Privacy car window tint and ceramic window tinting for Signal Hill at LA Car Tint by Audio MotorSports in Carson, 5.8 miles away. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Window Tint for Signal Hill, by Audio MotorSports, Carson
 
-If you drive in from Signal Hill for car window tint, you land at LA Car Tint inside Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, about 5.8 miles from Signal Hill. Privacy window tinting on rear glass, ceramic window tint for heat and Tesla window tint are installed here, with the film hand-cut on the glass, and the same bay handles car stereo installation, car alarm installation, remote start installation and dash camera installation. Call (213) 429-1092 to schedule.
+If you drive in from Signal Hill for car window tint, you land at LA Car Tint inside Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, about 5.8 miles from Signal Hill. Privacy window tinting on rear glass, ceramic window tint for heat and Tesla window tint are installed here, with the film hand-cut on the glass, and the same bay handles car stereo installation, car alarm installation, remote start installation and dash camera installation. Call (310) 513-8800 to schedule.
 
 ## What Signal Hill drivers bring us
 
@@ -62,7 +62,7 @@ Car window tint at this shop is $249 installed for Solar and $329 installed for 
 
 ## Book it
 
-Call us at (213) 429-1092. Text the shop at (213) 429-1092. Find us at 22025 S Avalon Blvd Ste A. Carson, CA 90745. Open Mon-Sat, 9:30 to 6:00. Sunday closed.
+Call us at (310) 513-8800. Text the shop at (213) 429-1092. Find us at 22025 S Avalon Blvd Ste A. Carson, CA 90745. Open Mon-Sat, 9:30 to 6:00. Sunday closed.
 
 ```json
 {
@@ -73,7 +73,7 @@ Call us at (213) 429-1092. Text the shop at (213) 429-1092. Find us at 22025 S A
    "@id": "https://www.audiomotorsports.com/tint/window-tint-signal-hill/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-signal-hill/",
    "name": "Car Window Tint Signal Hill | LA Car Tint, Carson",
-   "description": "Privacy car window tint and ceramic window tinting for Signal Hill at LA Car Tint by Audio MotorSports in Carson, 5.8 miles away. Call (213) 429-1092.",
+   "description": "Privacy car window tint and ceramic window tinting for Signal Hill at LA Car Tint by Audio MotorSports in Carson, 5.8 miles away. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

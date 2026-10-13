@@ -4,7 +4,7 @@ city: Bellflower
 miles: 9.3
 lead_service: car audio/stereo
 title: Car Stereo Installation for Bellflower | Audio MotorSports
-meta: Car stereo installation, subwoofers, amplifiers, window tint and alarms for Bellflower drivers at Audio MotorSports in Carson, 9.3 miles. Call (213) 429-1092.
+meta: Car stereo installation, subwoofers, amplifiers, window tint and alarms for Bellflower drivers at Audio MotorSports in Carson, 9.3 miles. Call (310) 513-8800.
 ---
 # Car Stereo Installation for Bellflower Drivers
 
@@ -59,7 +59,7 @@ Dual Kicker Comp box $249 box only. Window tint Solar $249, Solar Ceramic $329 i
 
 ## Book a Bellflower install
 
-Call (213) 429-1092 or text (213) 429-1092 with your year, make and model. 22025 S Avalon Blvd Ste A, Carson, CA 90745 is the shop. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with your year, make and model. 22025 S Avalon Blvd Ste A, Carson, CA 90745 is the shop. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -70,7 +70,7 @@ Call (213) 429-1092 or text (213) 429-1092 with your year, make and model. 22025
    "@id": "https://www.audiomotorsports.com/bellflower/#webpage",
    "url": "https://www.audiomotorsports.com/bellflower/",
    "name": "Car Stereo Installation for Bellflower | Audio MotorSports",
-   "description": "Car stereo installation, subwoofers, amplifiers, window tint and alarms for Bellflower drivers at Audio MotorSports in Carson, 9.3 miles. Call (213) 429-1092.",
+   "description": "Car stereo installation, subwoofers, amplifiers, window tint and alarms for Bellflower drivers at Audio MotorSports in Carson, 9.3 miles. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

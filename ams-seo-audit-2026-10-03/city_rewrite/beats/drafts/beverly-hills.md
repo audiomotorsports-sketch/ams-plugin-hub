@@ -4,7 +4,7 @@ city: Beverly Hills
 miles: 18.5
 lead_service: Apple CarPlay and Android Auto installation
 title: Beverly Hills CarPlay Installation | LA Car Beats, Carson
-meta: Apple CarPlay and Android Auto installation for Beverly Hills drivers at LA Car Beats by Audio MotorSports in Carson. Factory look kept. Call (213) 429-1092.
+meta: Apple CarPlay and Android Auto installation for Beverly Hills drivers at LA Car Beats by Audio MotorSports in Carson. Factory look kept. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Apple CarPlay and Android Auto Installation for Beverly Hills
@@ -65,7 +65,7 @@ LA Car Beats pages for areas near Beverly Hills:
 
 ## Book CarPlay installation
 
-Call (213) 429-1092 or text (213) 429-1092 to schedule. LA Car Beats, Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday-Saturday 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 to schedule. LA Car Beats, Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday-Saturday 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -76,7 +76,7 @@ Call (213) 429-1092 or text (213) 429-1092 to schedule. LA Car Beats, Audio Moto
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-beverly-hills/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-beverly-hills/",
    "name": "Beverly Hills CarPlay Installation | LA Car Beats, Carson",
-   "description": "Apple CarPlay and Android Auto installation for Beverly Hills drivers at LA Car Beats by Audio MotorSports in Carson. Factory look kept. Call (213) 429-1092.",
+   "description": "Apple CarPlay and Android Auto installation for Beverly Hills drivers at LA Car Beats by Audio MotorSports in Carson. Factory look kept. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

@@ -4,7 +4,7 @@ city: Rolling Hills Estates
 miles: 6.0
 lead_service: ceramic window tint (privacy, SUV glass)
 title: Rolling Hills Estates Window Tint | LA Car Tint, Carson
-meta: Ceramic window tint and privacy tint for Rolling Hills Estates SUVs and sedans, installed by Audio MotorSports in Carson, 6 miles away. Call (213) 429-1092.
+meta: Ceramic window tint and privacy tint for Rolling Hills Estates SUVs and sedans, installed by Audio MotorSports in Carson, 6 miles away. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Ceramic Window Tint for Rolling Hills Estates
@@ -58,7 +58,7 @@ Solar four-door window tint is $249 installed; Solar Ceramic four-door is $329 i
 
 ## Reserve a tint slot
 
-Call (213) 429-1092, or text (213) 429-1092 with a photo of the car. The address is 22025 S Avalon Blvd Ste A, Carson, CA 90745 (Audio MotorSports), Mon-Sat 9:30-18:00, closed Sunday.
+Call (310) 513-8800, or text (213) 429-1092 with a photo of the car. The address is 22025 S Avalon Blvd Ste A, Carson, CA 90745 (Audio MotorSports), Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -69,7 +69,7 @@ Call (213) 429-1092, or text (213) 429-1092 with a photo of the car. The address
    "@id": "https://www.audiomotorsports.com/tint/window-tint-rolling-hills-estates/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-rolling-hills-estates/",
    "name": "Rolling Hills Estates Window Tint | LA Car Tint, Carson",
-   "description": "Ceramic window tint and privacy tint for Rolling Hills Estates SUVs and sedans, installed by Audio MotorSports in Carson, 6 miles away. Call (213) 429-1092.",
+   "description": "Ceramic window tint and privacy tint for Rolling Hills Estates SUVs and sedans, installed by Audio MotorSports in Carson, 6 miles away. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

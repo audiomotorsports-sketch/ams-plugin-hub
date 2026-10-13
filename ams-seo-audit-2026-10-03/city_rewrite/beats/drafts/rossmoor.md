@@ -6,7 +6,7 @@ lead_service: head unit installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Rossmoor Head Unit Installation | LA Car Beats
-meta: Head unit installation with CarPlay for Rossmoor drivers at LA Car Beats by Audio MotorSports in Carson, 11 miles away. Call (213) 429-1092 to book.
+meta: Head unit installation with CarPlay for Rossmoor drivers at LA Car Beats by Audio MotorSports in Carson, 11 miles away. Call (310) 513-8800 to book.
 ---
 # Head Unit Installation for Rossmoor Drivers
 
@@ -22,7 +22,7 @@ Rossmoor drivers swap a tired factory radio for a touchscreen at LA Car Beats by
 
 ## Rossmoor to the Carson shop
 
-Rossmoor to 22025 S Avalon Blvd is about 11 miles, roughly 22 to 26 minutes outside rush hour (approx). Hours are Monday through Saturday 9:30 to 6:00; closed Sunday. Call (213) 429-1092 or text (213) 429-1092 to make an appointment. A head unit on its own is usually a waiting area inside wait; with speakers or a sub it becomes a morning drop-off. [SHOP NOTE: 2-3 sentences from Nick about Rossmoor customers, routes or jobs]
+Rossmoor to 22025 S Avalon Blvd is about 11 miles, roughly 22 to 26 minutes outside rush hour (approx). Hours are Monday through Saturday 9:30 to 6:00; closed Sunday. Call (310) 513-8800 or text (213) 429-1092 to make an appointment. A head unit on its own is usually a waiting area inside wait; with speakers or a sub it becomes a morning drop-off. [SHOP NOTE: 2-3 sentences from Nick about Rossmoor customers, routes or jobs]
 
 <!-- owner-details-2026-10-07 -->
 Plenty of Rossmoor drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Rossmoor traffic sends you.
@@ -64,7 +64,7 @@ Car stereo installation pages for cities near Rossmoor:
 
 ## Book from Rossmoor
 
-Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -76,7 +76,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio 
    "name": "Rossmoor Head Unit Installation | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-rossmoor/",
    "dateModified": "2026-10-08",
-   "description": "Head unit installation with CarPlay for Rossmoor drivers at LA Car Beats by Audio MotorSports in Carson, 11 miles away. Call (213) 429-1092 to book.",
+   "description": "Head unit installation with CarPlay for Rossmoor drivers at LA Car Beats by Audio MotorSports in Carson, 11 miles away. Call (310) 513-8800 to book.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

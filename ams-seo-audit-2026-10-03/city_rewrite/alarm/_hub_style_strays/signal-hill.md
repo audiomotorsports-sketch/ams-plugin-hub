@@ -4,7 +4,7 @@ city: Signal Hill
 miles: 5.8
 lead_service: Apple CarPlay / Android Auto
 title: Apple CarPlay Upgrades for Signal Hill | LA Car Beats
-meta: Apple CarPlay and Android Auto head units, car stereo installation and subwoofers for Signal Hill at LA Car Beats in Carson, 5.8 miles out. Call (213) 429-1092.
+meta: Apple CarPlay and Android Auto head units, car stereo installation and subwoofers for Signal Hill at LA Car Beats in Carson, 5.8 miles out. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Apple CarPlay and Android Auto for Signal Hill
@@ -68,7 +68,7 @@ Full-service pages on the main site: [Long Beach](/long-beach/) · [Compton](/co
 
 ## Book from Signal Hill
 
-Call (213) 429-1092 or send a text to (213) 429-1092 with your vehicle details. Find us at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Monday to Saturday 9:30 to 6:00, closed Sunday.
+Call (310) 513-8800 or send a text to (213) 429-1092 with your vehicle details. Find us at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Monday to Saturday 9:30 to 6:00, closed Sunday.
 
 ```json
 {

@@ -4,7 +4,7 @@ city: Brentwood
 miles: 20.2
 lead_service: Car stereo installation
 title: Car Stereo & Speaker Installs, Brentwood | Audio MotorSports
-meta: Car stereo installation, speaker replacement, amplifiers, ceramic window tint and alarms for Brentwood drivers. Audio MotorSports, Carson. (213) 429-1092.
+meta: Car stereo installation, speaker replacement, amplifiers, ceramic window tint and alarms for Brentwood drivers. Audio MotorSports, Carson. (310) 513-8800.
 ---
 # Car Stereo Installation for Brentwood Drivers
 
@@ -27,7 +27,7 @@ If you would rather wait inside than make two trips from Brentwood, the shop has
 
 ## Brentwood to the Carson bay
 
-About 20.2 miles, roughly 40 to 48 minutes (approx) when traffic is moving. Open Monday to Saturday, 9:30 AM to 6:00 PM, closed Sunday. Reserve a slot, then drop the car for the day or wait at the shop; a full system is usually a drop-off. Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Brentwood drivers can look at Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, before booking.
+About 20.2 miles, roughly 40 to 48 minutes (approx) when traffic is moving. Open Monday to Saturday, 9:30 AM to 6:00 PM, closed Sunday. Reserve a slot, then drop the car for the day or wait at the shop; a full system is usually a drop-off. Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Brentwood drivers can look at Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, before booking.
 
 [SHOP NOTE: 2-3 sentences from Nick about Brentwood customers, routes or jobs]
 
@@ -74,7 +74,7 @@ Speakers, amplifiers, head units, GPS trackers and dash cams are quoted at the s
 
 ## Book car audio from Brentwood
 
-Call (213) 429-1092 or text (213) 429-1092 to set a time. One shop, one bay: 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 to set a time. One shop, one bay: 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -85,7 +85,7 @@ Call (213) 429-1092 or text (213) 429-1092 to set a time. One shop, one bay: 220
    "@id": "https://www.audiomotorsports.com/brentwood/#webpage",
    "url": "https://www.audiomotorsports.com/brentwood/",
    "name": "Car Stereo & Speaker Installs, Brentwood | Audio MotorSports",
-   "description": "Car stereo installation, speaker replacement, amplifiers, ceramic window tint and alarms for Brentwood drivers. Audio MotorSports, Carson. (213) 429-1092.",
+   "description": "Car stereo installation, speaker replacement, amplifiers, ceramic window tint and alarms for Brentwood drivers. Audio MotorSports, Carson. (310) 513-8800.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

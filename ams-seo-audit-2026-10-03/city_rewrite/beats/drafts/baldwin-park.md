@@ -6,7 +6,7 @@ lead_service: subwoofer installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Baldwin Park Subwoofer Installation | LA Car Beats
-meta: Subwoofer installation and amplifier installation for Baldwin Park drivers at LA Car Beats, Audio MotorSports in Carson, 30.8 miles. Call (213) 429-1092.
+meta: Subwoofer installation and amplifier installation for Baldwin Park drivers at LA Car Beats, Audio MotorSports in Carson, 30.8 miles. Call (310) 513-8800.
 ---
 # Subwoofer Installation for Baldwin Park Drivers
 
@@ -22,7 +22,7 @@ Baldwin Park drivers who want real bass without a trunk full of loose boxes make
 
 ## Baldwin Park to the shop
 
-Baldwin Park is about 30.8 miles from the Carson bay, roughly 62 to 74 minutes outside rush hour (approx). Call (213) 429-1092 or text (213) 429-1092 to set a time. A box and amp can be waited on, but with the drive most Baldwin Park customers drop the car in the morning and add speakers or a head unit to the same day. Hours are Monday through Saturday 9:30 to 6:00, closed Sunday. Customers come from over 100 miles for this work, so Baldwin Park is not a stretch.
+Baldwin Park is about 30.8 miles from the Carson bay, roughly 62 to 74 minutes outside rush hour (approx). Call (310) 513-8800 or text (213) 429-1092 to set a time. A box and amp can be waited on, but with the drive most Baldwin Park customers drop the car in the morning and add speakers or a head unit to the same day. Hours are Monday through Saturday 9:30 to 6:00, closed Sunday. Customers come from over 100 miles for this work, so Baldwin Park is not a stretch.
 
 <!-- owner-details-2026-10-07 -->
 You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Baldwin Park job is finished. Baldwin Park customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Baldwin Park traffic sends you.
@@ -59,7 +59,7 @@ LA Car Beats pages for nearby San Gabriel Valley cities: [Irwindale](/beats/car-
 
 ## Book from Baldwin Park
 
-Send the car and what is already installed; we spec the amp and box as a pair before you drive down. Call (213) 429-1092 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Send the car and what is already installed; we spec the amp and box as a pair before you drive down. Call (310) 513-8800 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -70,7 +70,7 @@ Send the car and what is already installed; we spec the amp and box as a pair be
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-baldwin-park/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-baldwin-park/",
    "name": "Baldwin Park Subwoofer Installation | LA Car Beats",
-   "description": "Subwoofer installation and amplifier installation for Baldwin Park drivers at LA Car Beats, Audio MotorSports in Carson, 30.8 miles. Call (213) 429-1092.",
+   "description": "Subwoofer installation and amplifier installation for Baldwin Park drivers at LA Car Beats, Audio MotorSports in Carson, 30.8 miles. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

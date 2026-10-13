@@ -6,7 +6,7 @@ lead_service: car stereo installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Rancho Cucamonga Car Stereo Installation | LA Car Beats
-meta: Full car stereo installation for Rancho Cucamonga drivers at LA Car Beats by Audio MotorSports in Carson, 53.6 miles. Worth the drive. Call (213) 429-1092.
+meta: Full car stereo installation for Rancho Cucamonga drivers at LA Car Beats by Audio MotorSports in Carson, 53.6 miles. Worth the drive. Call (310) 513-8800.
 ---
 # Car Stereo Installation for Rancho Cucamonga Drivers
 
@@ -22,7 +22,7 @@ Rancho Cucamonga drivers make the trip to LA Car Beats by Audio MotorSports, Car
 
 ## Rancho Cucamonga to Carson
 
-Rancho Cucamonga to the shop is about 53.6 miles, roughly 107 to 129 minutes outside rush hour (approx). We are open Monday through Saturday 9:30 to 6:00 and closed Sunday. Call (213) 429-1092 or text (213) 429-1092 to book a full day, then drop the car off in the morning. Customers have driven in from Temecula and San Diego, about 120 miles, for the same work, so Rancho Cucamonga is well inside the range people already travel.
+Rancho Cucamonga to the shop is about 53.6 miles, roughly 107 to 129 minutes outside rush hour (approx). We are open Monday through Saturday 9:30 to 6:00 and closed Sunday. Call (310) 513-8800 or text (213) 429-1092 to book a full day, then drop the car off in the morning. Customers have driven in from Temecula and San Diego, about 120 miles, for the same work, so Rancho Cucamonga is well inside the range people already travel.
 
 <!-- owner-details-2026-10-07 -->
 If you would rather wait inside than make two trips from Rancho Cucamonga, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. Rancho Cucamonga customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Rancho Cucamonga traffic sends you.
@@ -64,7 +64,7 @@ Car stereo installation pages for cities near Rancho Cucamonga:
 
 ## Book your Rancho Cucamonga build
 
-Call (213) 429-1092 or text (213) 429-1092 and we will set aside the day. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 and we will set aside the day. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -76,7 +76,7 @@ Call (213) 429-1092 or text (213) 429-1092 and we will set aside the day. Audio 
    "name": "Rancho Cucamonga Car Stereo Installation | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-rancho-cucamonga/",
    "dateModified": "2026-10-08",
-   "description": "Full car stereo installation for Rancho Cucamonga drivers at LA Car Beats by Audio MotorSports in Carson, 53.6 miles. Worth the drive. Call (213) 429-1092.",
+   "description": "Full car stereo installation for Rancho Cucamonga drivers at LA Car Beats by Audio MotorSports in Carson, 53.6 miles. Worth the drive. Call (310) 513-8800.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

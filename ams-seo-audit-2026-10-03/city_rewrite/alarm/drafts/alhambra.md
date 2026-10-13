@@ -5,7 +5,7 @@ city: Alhambra
 miles: 19.9
 lead_service: theft recovery
 title: Theft Recovery & Car Alarm Install, Alhambra | LA Car Alarm
-meta: GPS theft recovery, Viper car alarm installation and remote start for Alhambra drivers at LA Car Alarm by Audio MotorSports in Carson. (213) 429-1092.
+meta: GPS theft recovery, Viper car alarm installation and remote start for Alhambra drivers at LA Car Alarm by Audio MotorSports in Carson. (310) 513-8800.
 ---
 # Theft Recovery and Car Alarm Installation for Alhambra
 
@@ -60,7 +60,7 @@ Viper 3108V alarm $269 installed. Compustar 9910 remote start from $499. GPS tra
 
 ## Book an Alhambra theft recovery install
 
-Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

@@ -5,7 +5,7 @@ miles: 8.0
 lead_service: Window tint / ceramic window tint (LA Car Tint)
 source: hub-mounted copy; standalone www host not verified
 title: Hawthorne Window Tint & UV Protection | LA Car Tint
-meta: Car window tint and ceramic window tint for Hawthorne drivers at Audio MotorSports in Carson, 8 miles away. UV and heat protection. Call (213) 429-1092.
+meta: Car window tint and ceramic window tint for Hawthorne drivers at Audio MotorSports in Carson, 8 miles away. UV and heat protection. Call (310) 513-8800.
 ---
 # Window Tint for Hawthorne: UV Protection That Lasts
 
@@ -62,7 +62,7 @@ Standard sedan pricing as of October 2026: Solar window tint $249 installed, Sol
 
 ## Get Hawthorne window tint on the calendar
 
-Reach the shop at (213) 429-1092 by phone or (213) 429-1092 by text. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Monday-Saturday 9:30 to 6:00, closed Sunday. Google rating 4.8 across 654 reviews; Yelp 4.7 across 777 reviews; both as of October 2026.
+Reach the shop at (310) 513-8800 by phone or (213) 429-1092 by text. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Monday-Saturday 9:30 to 6:00, closed Sunday. Google rating 4.8 across 654 reviews; Yelp 4.7 across 777 reviews; both as of October 2026.
 
 ```json
 {
@@ -73,7 +73,7 @@ Reach the shop at (213) 429-1092 by phone or (213) 429-1092 by text. Audio Motor
    "@id": "https://www.audiomotorsports.com/tint/window-tint-hawthorne/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-hawthorne/",
    "name": "Hawthorne Window Tint & UV Protection | LA Car Tint",
-   "description": "Car window tint and ceramic window tint for Hawthorne drivers at Audio MotorSports in Carson, 8 miles away. UV and heat protection. Call (213) 429-1092.",
+   "description": "Car window tint and ceramic window tint for Hawthorne drivers at Audio MotorSports in Carson, 8 miles away. UV and heat protection. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

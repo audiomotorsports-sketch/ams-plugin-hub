@@ -4,7 +4,7 @@ city: South Gate
 miles: 9.3
 lead_service: Tesla window tint
 title: Tesla Window Tint & Audio, South Gate | Audio MotorSports
-meta: Tesla window tint, ceramic window tint, car stereo installation and alarm installs for South Gate drivers at Audio MotorSports in Carson. Call (213) 429-1092.
+meta: Tesla window tint, ceramic window tint, car stereo installation and alarm installs for South Gate drivers at Audio MotorSports in Carson. Call (310) 513-8800.
 ---
 # Tesla Window Tint for South Gate Owners
 
@@ -27,7 +27,7 @@ If you would rather wait inside than make two trips from South Gate, the shop ha
 
 ## From South Gate to the shop
 
-The trip is about 9.3 miles, call it 19 to 22 minutes (approx) when traffic is moving. We have had customers come from Temecula for tint, so South Gate is nothing. Open Monday through Saturday 9:30 AM to 6:00 PM, closed Sunday. Book a time, then drop the car or wait in the shop; a full Tesla tint is a wait-or-drop job either way. Call (213) 429-1092 or text (213) 429-1092 to schedule. South Gate owners can look us up first: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
+The trip is about 9.3 miles, call it 19 to 22 minutes (approx) when traffic is moving. We have had customers come from Temecula for tint, so South Gate is nothing. Open Monday through Saturday 9:30 AM to 6:00 PM, closed Sunday. Book a time, then drop the car or wait in the shop; a full Tesla tint is a wait-or-drop job either way. Call (310) 513-8800 or text (213) 429-1092 to schedule. South Gate owners can look us up first: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 [SHOP NOTE: 2-3 sentences from Nick about South Gate customers, routes or jobs]
 
@@ -74,7 +74,7 @@ Everything else, from amplifier installation to dash cams, is priced on your car
 
 ## Schedule Tesla tint from South Gate
 
-Call (213) 429-1092 or text (213) 429-1092 with your model. Audio MotorSports sits at 22025 S Avalon Blvd Ste A in Carson, CA 90745. Hours Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with your model. Audio MotorSports sits at 22025 S Avalon Blvd Ste A in Carson, CA 90745. Hours Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

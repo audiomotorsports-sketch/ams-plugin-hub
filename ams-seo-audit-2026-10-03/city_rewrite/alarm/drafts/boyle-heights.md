@@ -5,7 +5,7 @@ city: Boyle Heights
 miles: 14.3
 lead_service: street-parked cars
 title: Car Alarm Installation for Boyle Heights | LA Car Alarm
-meta: Car alarm installation for street-parked Boyle Heights cars at LA Car Alarm by Audio MotorSports in Carson. Viper, GPS, remote start. (213) 429-1092.
+meta: Car alarm installation for street-parked Boyle Heights cars at LA Car Alarm by Audio MotorSports in Carson. Viper, GPS, remote start. (310) 513-8800.
 ---
 # Car Alarm Installation for Street-Parked Boyle Heights Cars
 
@@ -60,7 +60,7 @@ Viper 3108V alarm $269 installed. Compustar 9910 remote start from $499. Tracker
 
 ## Book a Boyle Heights alarm install
 
-Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

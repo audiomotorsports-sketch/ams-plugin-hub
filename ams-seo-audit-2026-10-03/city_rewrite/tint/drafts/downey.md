@@ -4,7 +4,7 @@ city: Downey
 miles: 10.9
 lead_service: car window tint (heat)
 title: Downey Car Window Tint | LA Car Tint by Audio MotorSports
-meta: Car window tint and ceramic heat-rejecting film for Downey drivers, installed in one visit at Audio MotorSports in Carson, 10.9 miles away. Call (213) 429-1092.
+meta: Car window tint and ceramic heat-rejecting film for Downey drivers, installed in one visit at Audio MotorSports in Carson, 10.9 miles away. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Window Tint for Downey Drivers Who Are Tired of the Heat
@@ -46,7 +46,7 @@ Clean glass, film hand-cut directly on each window, heat-shrunk to the curve, ap
 
 ### Do I need an appointment or can I just drive in from Downey?
 
-Book ahead. Tint is scheduled so the bay is clean and the film is ready when you arrive, which is how the job gets done right the first time. Call (213) 429-1092 or text (213) 429-1092 with the year, make and model and we will give you a time.
+Book ahead. Tint is scheduled so the bay is clean and the film is ready when you arrive, which is how the job gets done right the first time. Call (310) 513-8800 or text (213) 429-1092 with the year, make and model and we will give you a time.
 
 ## Tint pricing for Downey, as of October 2026
 
@@ -58,7 +58,7 @@ Solar four-door window tint is $249 installed and Solar Ceramic four-door is $32
 
 ## Get a Downey tint slot
 
-(213) 429-1092 to call, (213) 429-1092 to text. Located at 22025 S Avalon Blvd Ste A, Carson, CA 90745, inside Audio MotorSports. Mon-Sat 9:30-18:00; Sunday closed.
+(310) 513-8800 to call, (213) 429-1092 to text. Located at 22025 S Avalon Blvd Ste A, Carson, CA 90745, inside Audio MotorSports. Mon-Sat 9:30-18:00; Sunday closed.
 
 ```json
 {
@@ -137,7 +137,7 @@ Solar four-door window tint is $249 installed and Solar Ceramic four-door is $32
      "name": "Do I need an appointment or can I just drive in from Downey?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Book ahead. Tint is scheduled so the bay is clean and the film is ready when you arrive, which is how the job gets done right the first time. Call (213) 429-1092 or text (213) 429-1092 with the year, make and model and we will give you a time."
+      "text": "Book ahead. Tint is scheduled so the bay is clean and the film is ready when you arrive, which is how the job gets done right the first time. Call (310) 513-8800 or text (213) 429-1092 with the year, make and model and we will give you a time."
      }
     }
    ]

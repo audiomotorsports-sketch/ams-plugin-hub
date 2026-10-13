@@ -4,7 +4,7 @@ city: Northridge
 miles: 32.2
 lead_service: Viper alarm installation
 title: Viper Alarm Installation for Northridge | LA Car Alarm
-meta: Viper alarm installation for Northridge drivers at LA Car Alarm by Audio MotorSports, Carson, 32.2 miles. Remote start, GPS, dash cams. Call (213) 429-1092.
+meta: Viper alarm installation for Northridge drivers at LA Car Alarm by Audio MotorSports, Carson, 32.2 miles. Remote start, GPS, dash cams. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Viper Alarm Installation for Northridge Drivers
@@ -69,7 +69,7 @@ Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Reserve a Northridge appointment
 
-Call (213) 429-1092 or text (213) 429-1092 with the year, make and model so the right parts are on hand. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with the year, make and model so the right parts are on hand. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

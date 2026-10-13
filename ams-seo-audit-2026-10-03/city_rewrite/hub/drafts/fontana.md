@@ -4,7 +4,7 @@ city: Fontana
 miles: 61.7
 lead_service: alarm & remote start
 title: Car Alarm & Remote Start for Fontana | Audio MotorSports
-meta: Car alarm installation, remote start installation and window tint for Fontana drivers at Audio MotorSports in Carson, 61.7 miles. Call (213) 429-1092.
+meta: Car alarm installation, remote start installation and window tint for Fontana drivers at Audio MotorSports in Carson, 61.7 miles. Call (310) 513-8800.
 ---
 # Car Alarm and Remote Start Installation for Fontana
 
@@ -66,7 +66,7 @@ We also serve the cities around Fontana:
 
 ## Book from Fontana
 
-Call (213) 429-1092 or text (213) 429-1092 with the year, make and model and everything you want installed. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745; Monday through Saturday 9:30 AM to 6:00 PM, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with the year, make and model and everything you want installed. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745; Monday through Saturday 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -77,7 +77,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the year, make and model and eve
    "@id": "https://www.audiomotorsports.com/fontana/#webpage",
    "url": "https://www.audiomotorsports.com/fontana/",
    "name": "Car Alarm & Remote Start for Fontana | Audio MotorSports",
-   "description": "Car alarm installation, remote start installation and window tint for Fontana drivers at Audio MotorSports in Carson, 61.7 miles. Call (213) 429-1092.",
+   "description": "Car alarm installation, remote start installation and window tint for Fontana drivers at Audio MotorSports in Carson, 61.7 miles. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

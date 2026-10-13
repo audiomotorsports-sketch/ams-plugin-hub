@@ -4,7 +4,7 @@ city: Rolling Hills
 miles: 7.2
 lead_service: CarPlay/Android Auto
 title: CarPlay & Window Tint for Rolling Hills | Audio MotorSports
-meta: Apple CarPlay and Android Auto installs, window tint, car audio and alarms for Rolling Hills drivers at Audio MotorSports in Carson. (213) 429-1092.
+meta: Apple CarPlay and Android Auto installs, window tint, car audio and alarms for Rolling Hills drivers at Audio MotorSports in Carson. (310) 513-8800.
 ---
 # Apple CarPlay and Android Auto Installs for Rolling Hills
 
@@ -59,7 +59,7 @@ Viper 3108V alarm $269 installed. Window tint Solar $249 or Solar Ceramic $329 i
 
 ## Book from Rolling Hills
 
-Call (213) 429-1092 to schedule, or text (213) 429-1092 with the year, make and model. We are at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-18:00, closed Sunday.
+Call (310) 513-8800 to schedule, or text (213) 429-1092 with the year, make and model. We are at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -70,7 +70,7 @@ Call (213) 429-1092 to schedule, or text (213) 429-1092 with the year, make and 
    "@id": "https://www.audiomotorsports.com/rolling-hills/#webpage",
    "url": "https://www.audiomotorsports.com/rolling-hills/",
    "name": "CarPlay & Window Tint for Rolling Hills | Audio MotorSports",
-   "description": "Apple CarPlay and Android Auto installs, window tint, car audio and alarms for Rolling Hills drivers at Audio MotorSports in Carson. (213) 429-1092.",
+   "description": "Apple CarPlay and Android Auto installs, window tint, car audio and alarms for Rolling Hills drivers at Audio MotorSports in Carson. (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

@@ -4,7 +4,7 @@ city: South Pasadena
 miles: 20.7
 lead_service: window tint
 title: Window Tinting for South Pasadena | Audio MotorSports
-meta: Car window tinting, ceramic tint, car stereo installation, alarms and remote start for South Pasadena drivers in Carson. Call (213) 429-1092.
+meta: Car window tinting, ceramic tint, car stereo installation, alarms and remote start for South Pasadena drivers in Carson. Call (310) 513-8800.
 ---
 # Window Tinting for South Pasadena Drivers
 
@@ -59,7 +59,7 @@ Solar window tint $249 installed, Solar Ceramic $329 installed. Viper 3108V alar
 
 ## Book from South Pasadena
 
-Call (213) 429-1092 or text (213) 429-1092 with your year, make and model. The address is 22025 S Avalon Blvd Ste A, Carson, CA 90745, and the hours are Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with your year, make and model. The address is 22025 S Avalon Blvd Ste A, Carson, CA 90745, and the hours are Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -70,7 +70,7 @@ Call (213) 429-1092 or text (213) 429-1092 with your year, make and model. The a
    "@id": "https://www.audiomotorsports.com/south-pasadena/#webpage",
    "url": "https://www.audiomotorsports.com/south-pasadena/",
    "name": "Window Tinting for South Pasadena | Audio MotorSports",
-   "description": "Car window tinting, ceramic tint, car stereo installation, alarms and remote start for South Pasadena drivers in Carson. Call (213) 429-1092.",
+   "description": "Car window tinting, ceramic tint, car stereo installation, alarms and remote start for South Pasadena drivers in Carson. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

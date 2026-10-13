@@ -4,7 +4,7 @@ city: Van Nuys
 miles: 27.3
 lead_service: Apple CarPlay / Android Auto
 title: CarPlay Installation & Tint for Van Nuys | Audio MotorSports
-meta: Apple CarPlay and Android Auto installation, window tint, car stereo and alarms for Van Nuys drivers at Audio MotorSports in Carson, 27.3 miles. (213) 429-1092.
+meta: Apple CarPlay and Android Auto installation, window tint, car stereo and alarms for Van Nuys drivers at Audio MotorSports in Carson, 27.3 miles. (310) 513-8800.
 ---
 # Apple CarPlay and Android Auto Installation for Van Nuys
 
@@ -63,7 +63,7 @@ Solar window tint $249 installed · Solar Ceramic $329 installed · Viper 3108V 
 
 ## Book your CarPlay installation from Van Nuys
 
-Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday through Saturday 9:30 to 6:00; Sundays closed.
+Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday through Saturday 9:30 to 6:00; Sundays closed.
 
 ```json
 {
@@ -74,7 +74,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio 
    "@id": "https://www.audiomotorsports.com/van-nuys/#webpage",
    "url": "https://www.audiomotorsports.com/van-nuys/",
    "name": "CarPlay Installation & Tint for Van Nuys | Audio MotorSports",
-   "description": "Apple CarPlay and Android Auto installation, window tint, car stereo and alarm installation for Van Nuys drivers at Audio MotorSports in Carson, 27.3 mi. Call (213) 429-1092.",
+   "description": "Apple CarPlay and Android Auto installation, window tint, car stereo and alarm installation for Van Nuys drivers at Audio MotorSports in Carson, 27.3 mi. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

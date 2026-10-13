@@ -4,7 +4,7 @@ city: Midway City
 miles: 17.0
 lead_service: car alarm installation & remote start installation
 title: Car Alarm Installation for Midway City | Audio MotorSports
-meta: Viper car alarm installation, Compustar remote start, window tint and stereo installs for Midway City at Audio MotorSports in Carson, 17 miles. (213) 429-1092.
+meta: Viper car alarm installation, Compustar remote start, window tint and stereo installs for Midway City at Audio MotorSports in Carson, 17 miles. (310) 513-8800.
 ---
 # Car Alarm & Remote Start Installation for Midway City
 
@@ -41,7 +41,7 @@ We cannot speak for your dealer's policy, but the install uses a bypass module d
 
 ### How far is Midway City from your shop and should I wait or drop off?
 
-It is 17 miles, roughly thirty-four to forty-one minutes outside rush hour. Alarm installation and remote start installation together take several hours, so most Midway City customers drop the car and pick it up later. Call (213) 429-1092 or text (213) 429-1092 to set the time.
+It is 17 miles, roughly thirty-four to forty-one minutes outside rush hour. Alarm installation and remote start installation together take several hours, so most Midway City customers drop the car and pick it up later. Call (310) 513-8800 or text (213) 429-1092 to set the time.
 
 ### Can I add GPS tracker installation to the same appointment as the alarm?
 
@@ -65,7 +65,7 @@ Viper 3108V alarm installation is $269 and Compustar 9910 remote start installat
 
 ## Lock in an appointment
 
-Call (213) 429-1092 or text your year, make and model to (213) 429-1092. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, with hours of Mon-Sat 9:30-18:00, Sunday closed. Drop off, or wait if the job is short.
+Call (310) 513-8800 or text your year, make and model to (213) 429-1092. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, with hours of Mon-Sat 9:30-18:00, Sunday closed. Drop off, or wait if the job is short.
 
 ```json
 {
@@ -76,7 +76,7 @@ Call (213) 429-1092 or text your year, make and model to (213) 429-1092. Audio M
    "@id": "https://www.audiomotorsports.com/midway-city/#webpage",
    "url": "https://www.audiomotorsports.com/midway-city/",
    "name": "Car Alarm Installation for Midway City | Audio MotorSports",
-   "description": "Viper car alarm installation, Compustar remote start, window tint and stereo installs for Midway City at Audio MotorSports in Carson, 17 miles. (213) 429-1092.",
+   "description": "Viper car alarm installation, Compustar remote start, window tint and stereo installs for Midway City at Audio MotorSports in Carson, 17 miles. (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -134,7 +134,7 @@ Call (213) 429-1092 or text your year, make and model to (213) 429-1092. Audio M
      "name": "How far is Midway City from your shop and should I wait or drop off?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "It is 17 miles, roughly thirty-four to forty-one minutes outside rush hour. Alarm installation and remote start installation together take several hours, so most Midway City customers drop the car and pick it up later. Call (213) 429-1092 or text (213) 429-1092 to set the time."
+      "text": "It is 17 miles, roughly thirty-four to forty-one minutes outside rush hour. Alarm installation and remote start installation together take several hours, so most Midway City customers drop the car and pick it up later. Call (310) 513-8800 or text (213) 429-1092 to set the time."
      }
     },
     {

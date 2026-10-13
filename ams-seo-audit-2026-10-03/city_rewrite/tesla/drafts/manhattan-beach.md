@@ -4,7 +4,7 @@ city: Manhattan Beach
 miles: 9.3
 lead_service: Tesla window tint (Model X)
 title: Manhattan Beach Tesla Tint | Tesla Tint LA, Carson
-meta: Tesla Tint LA by Audio MotorSports in Carson tints Model X, 3, Y and more for Manhattan Beach, 9.3 miles away. Ceramic window tint. Call (213) 429-1092.
+meta: Tesla Tint LA by Audio MotorSports in Carson tints Model X, 3, Y and more for Manhattan Beach, 9.3 miles away. Ceramic window tint. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Model X and Tesla Window Tint for Manhattan Beach
@@ -60,7 +60,7 @@ Tesla window tint is quoted by model at the shop; a Model X and a Model 3 are no
 
 ## Reserve a slot
 
-Call (213) 429-1092 or text (213) 429-1092 with your model and the coverage you want. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with your model and the coverage you want. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

@@ -6,7 +6,7 @@ lead_service: Apple CarPlay and Android Auto installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Torrance CarPlay & Android Auto Install | LA Car Beats
-meta: Apple CarPlay and Android Auto installation for Torrance drivers at LA Car Beats by Audio MotorSports in Carson, 4.4 miles away. Call (213) 429-1092 to book.
+meta: Apple CarPlay and Android Auto installation for Torrance drivers at LA Car Beats by Audio MotorSports in Carson, 4.4 miles away. Call (310) 513-8800 to book.
 ---
 # Apple CarPlay and Android Auto Installation for Torrance
 
@@ -21,7 +21,7 @@ Torrance drivers get Apple CarPlay and Android Auto installation at LA Car Beats
 
 ## Torrance to the Carson shop
 
-Torrance to 22025 S Avalon Blvd is about 4.4 miles, roughly 9 to 11 minutes outside rush hour (approx). The shop is open Monday through Saturday 9:30 to 6:00 and closed Sunday. Set up an appointment by phone at (213) 429-1092 or by text at (213) 429-1092, then either hand over the keys for the day or wait while a CarPlay interface goes in. People drive here from more than 100 miles away for this work; from Torrance it is barely a trip.
+Torrance to 22025 S Avalon Blvd is about 4.4 miles, roughly 9 to 11 minutes outside rush hour (approx). The shop is open Monday through Saturday 9:30 to 6:00 and closed Sunday. Set up an appointment by phone at (310) 513-8800 or by text at (213) 429-1092, then either hand over the keys for the day or wait while a CarPlay interface goes in. People drive here from more than 100 miles away for this work; from Torrance it is barely a trip.
 
 <!-- owner-details-2026-10-07 -->
 Waiting inside is easy for Torrance customers: there is seating, Netflix on the TV, free Wi-Fi, a restroom and a water fountain, and a mall, movie theaters, restaurants and a Starbucks are within walking distance. The shop is LGBTQ-friendly and everyone from Torrance is welcome, as our Google and Yelp listings state. Coming from Torrance, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710. Torrance customers range from refinery and port workers to engineers and staff at the corporate campuses along the 405.
@@ -64,7 +64,7 @@ Other car stereo installation pages close to Torrance:
 
 ## Schedule from Torrance
 
-Text (213) 429-1092 with the vehicle details or call (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Text (213) 429-1092 with the vehicle details or call (310) 513-8800. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -76,7 +76,7 @@ Text (213) 429-1092 with the vehicle details or call (213) 429-1092. Audio Motor
    "name": "Torrance CarPlay & Android Auto Install | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-torrance/",
    "dateModified": "2026-10-08",
-   "description": "Apple CarPlay and Android Auto installation for Torrance drivers at LA Car Beats by Audio MotorSports in Carson, 4.4 miles away. Call (213) 429-1092 to book.",
+   "description": "Apple CarPlay and Android Auto installation for Torrance drivers at LA Car Beats by Audio MotorSports in Carson, 4.4 miles away. Call (310) 513-8800 to book.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

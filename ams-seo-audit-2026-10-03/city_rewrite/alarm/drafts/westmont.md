@@ -5,7 +5,7 @@ city: Westmont
 miles: 8.2
 lead_service: Compustar remote start installation
 title: Remote Start & Car Alarm, Westmont | LA Car Alarm
-meta: Compustar remote start installation and Viper car alarms for Westmont drivers at LA Car Alarm by Audio MotorSports in Carson. Call (213) 429-1092 to book.
+meta: Compustar remote start installation and Viper car alarms for Westmont drivers at LA Car Alarm by Audio MotorSports in Carson. Call (310) 513-8800 to book.
 ---
 # Compustar Remote Start Installation for Westmont
 
@@ -59,7 +59,7 @@ Viper 3108V $269 installed. Compustar 9910 remote start from $499. Trackers and 
 
 ## Book a Westmont remote start install
 
-Call (213) 429-1092 or text (213) 429-1092. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed. Customers rate the shop Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
+Call (310) 513-8800 or text (213) 429-1092. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed. Customers rate the shop Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ```json
 {

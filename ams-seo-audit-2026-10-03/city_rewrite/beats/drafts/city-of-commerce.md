@@ -6,7 +6,7 @@ lead_service: amplifier installation and subwoofer installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Commerce Amplifier & Subwoofer Installation | LA Car Beats
-meta: Amplifier installation and subwoofer installation for Commerce drivers at LA Car Beats by Audio MotorSports in Carson, about 13.1 miles. Call (213) 429-1092.
+meta: Amplifier installation and subwoofer installation for Commerce drivers at LA Car Beats by Audio MotorSports in Carson, about 13.1 miles. Call (310) 513-8800.
 ---
 # Amplifier and Subwoofer Installation for Commerce
 
@@ -22,7 +22,7 @@ Commerce drivers who want their system to hit hard and stay reliable bring the c
 
 ## Commerce to Carson
 
-The Carson bay is about 13.1 miles from Commerce, roughly 26 to 31 minutes outside rush hour (approx). Call (213) 429-1092 or text (213) 429-1092 to book. An amp and box install is often a wait; add speakers or a head unit and it is a morning drop-off. Hours are Monday to Saturday 9:30 to 6:00, closed Sunday. [SHOP NOTE: 2-3 sentences from Nick about Commerce customers, routes or jobs]
+The Carson bay is about 13.1 miles from Commerce, roughly 26 to 31 minutes outside rush hour (approx). Call (310) 513-8800 or text (213) 429-1092 to book. An amp and box install is often a wait; add speakers or a head unit and it is a morning drop-off. Hours are Monday to Saturday 9:30 to 6:00, closed Sunday. [SHOP NOTE: 2-3 sentences from Nick about Commerce customers, routes or jobs]
 
 <!-- owner-details-2026-10-07 -->
 Plenty of Commerce drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Commerce customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Commerce.
@@ -59,7 +59,7 @@ Nearby car stereo installation pages: [Bell Gardens](/beats/car-stereo-bell-gard
 
 ## Book amp and sub work from Commerce
 
-Send the car and what is already in it; we spec the amp and box as a pair. Call (213) 429-1092 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Send the car and what is already in it; we spec the amp and box as a pair. Call (310) 513-8800 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -70,7 +70,7 @@ Send the car and what is already in it; we spec the amp and box as a pair. Call 
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-city-of-commerce/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-city-of-commerce/",
    "name": "Commerce Amplifier & Subwoofer Installation | LA Car Beats",
-   "description": "Amplifier installation and subwoofer installation for Commerce drivers at LA Car Beats by Audio MotorSports in Carson, about 13.1 miles. Call (213) 429-1092.",
+   "description": "Amplifier installation and subwoofer installation for Commerce drivers at LA Car Beats by Audio MotorSports in Carson, about 13.1 miles. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

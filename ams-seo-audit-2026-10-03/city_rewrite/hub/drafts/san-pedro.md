@@ -4,7 +4,7 @@ city: San Pedro
 miles: 6.5
 lead_service: Tesla window tint
 title: Tesla Window Tint for San Pedro Owners | Audio MotorSports
-meta: Tesla window tint, ceramic window tint, car stereo installation and alarms for San Pedro at Audio MotorSports in Carson, 6.5 miles away. Call (213) 429-1092.
+meta: Tesla window tint, ceramic window tint, car stereo installation and alarms for San Pedro at Audio MotorSports in Carson, 6.5 miles away. Call (310) 513-8800.
 ---
 # Tesla Window Tint for San Pedro
 
@@ -61,7 +61,7 @@ San Pedro customers share the bay with drivers from [Wilmington](/wilmington/), 
 
 ## Schedule San Pedro Tesla tint
 
-Call (213) 429-1092, or text the model and year to (213) 429-1092 for a slot. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM. Sunday closed.
+Call (310) 513-8800, or text the model and year to (213) 429-1092 for a slot. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM. Sunday closed.
 
 ```json
 {
@@ -72,7 +72,7 @@ Call (213) 429-1092, or text the model and year to (213) 429-1092 for a slot. Au
    "@id": "https://www.audiomotorsports.com/san-pedro/#webpage",
    "url": "https://www.audiomotorsports.com/san-pedro/",
    "name": "Tesla Window Tint for San Pedro Owners | Audio MotorSports",
-   "description": "Tesla window tint, ceramic window tint, car stereo installation and alarms for San Pedro at Audio MotorSports in Carson, 6.5 miles away. Call (213) 429-1092.",
+   "description": "Tesla window tint, ceramic window tint, car stereo installation and alarms for San Pedro at Audio MotorSports in Carson, 6.5 miles away. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

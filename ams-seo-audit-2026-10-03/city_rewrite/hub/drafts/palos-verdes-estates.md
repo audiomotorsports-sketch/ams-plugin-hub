@@ -4,7 +4,7 @@ city: Palos Verdes Estates
 miles: 8.0
 lead_service: window tint
 title: Window Tint for Palos Verdes Estates | Audio MotorSports
-meta: Ceramic window tint, car audio, CarPlay and alarms for Palos Verdes Estates drivers at Audio MotorSports in Carson, about 8 miles out. Call (213) 429-1092.
+meta: Ceramic window tint, car audio, CarPlay and alarms for Palos Verdes Estates drivers at Audio MotorSports in Carson, about 8 miles out. Call (310) 513-8800.
 ---
 # Window Tint for Palos Verdes Estates Drivers
 
@@ -59,7 +59,7 @@ Solar window tint $249 installed, Solar Ceramic $329 installed. Viper 3108V alar
 
 ## Schedule from Palos Verdes Estates
 
-Call (213) 429-1092 or text the year, make and model to (213) 429-1092. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745. Hours: Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text the year, make and model to (213) 429-1092. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745. Hours: Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -70,7 +70,7 @@ Call (213) 429-1092 or text the year, make and model to (213) 429-1092. Audio Mo
    "@id": "https://www.audiomotorsports.com/palos-verdes-estates/#webpage",
    "url": "https://www.audiomotorsports.com/palos-verdes-estates/",
    "name": "Window Tint for Palos Verdes Estates | Audio MotorSports",
-   "description": "Ceramic window tint, car audio, CarPlay and alarms for Palos Verdes Estates drivers at Audio MotorSports in Carson, about 8 miles out. Call (213) 429-1092.",
+   "description": "Ceramic window tint, car audio, CarPlay and alarms for Palos Verdes Estates drivers at Audio MotorSports in Carson, about 8 miles out. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

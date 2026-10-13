@@ -4,7 +4,7 @@ city: Bellflower
 miles: 9.3
 lead_service: speaker replacement for blown stock speakers
 title: Harley Bagger Audio Bellflower | AMS Pods
-meta: Blown Harley speakers? Speaker replacement, amplifier installation and AMS pods for Bellflower riders at Audio MotorSports in Carson. Call (213) 429-1092.
+meta: Blown Harley speakers? Speaker replacement, amplifier installation and AMS pods for Bellflower riders at Audio MotorSports in Carson. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Speaker Replacement and Bagger Audio for Bellflower Riders
@@ -65,7 +65,7 @@ Riders also come over from [Lakewood](/amspods/bagger-audio-lakewood/), [Paramou
 
 ## Book a speaker replacement
 
-Call (213) 429-1092 or text (213) 429-1092 and say which speakers have gone and what bike they are in. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 and say which speakers have gone and what bike they are in. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -76,7 +76,7 @@ Call (213) 429-1092 or text (213) 429-1092 and say which speakers have gone and 
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-bellflower/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-bellflower/",
    "name": "Harley Bagger Audio Bellflower | AMS Pods",
-   "description": "Blown Harley speakers? Speaker replacement, amplifier installation and AMS pods for Bellflower riders at Audio MotorSports in Carson. Call (213) 429-1092.",
+   "description": "Blown Harley speakers? Speaker replacement, amplifier installation and AMS pods for Bellflower riders at Audio MotorSports in Carson. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

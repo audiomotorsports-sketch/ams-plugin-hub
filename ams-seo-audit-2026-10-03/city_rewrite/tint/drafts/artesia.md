@@ -5,7 +5,7 @@ miles: 10.8
 lead_service: Window tint / ceramic window tint (LA Car Tint)
 source: hub-mounted copy; standalone www host not verified
 title: Artesia SUV & Car Window Tint | LA Car Tint, Carson
-meta: SUV, minivan and car window tint for Artesia families, installed at Audio MotorSports in Carson, 10.8 miles away. Ceramic film available. Call (213) 429-1092.
+meta: SUV, minivan and car window tint for Artesia families, installed at Audio MotorSports in Carson, 10.8 miles away. Ceramic film available. Call (310) 513-8800.
 ---
 # Window Tint for Artesia SUVs, Minivans and Sedans
 
@@ -62,7 +62,7 @@ Sedan, four doors plus rear glass, as of October 2026: Solar window tint $249 in
 
 ## Book Artesia window tint
 
-Text (213) 429-1092 or call (213) 429-1092. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-6:00, Sunday closed. Google rating 4.8 (654 reviews) and Yelp 4.7 (777 reviews) as of October 2026.
+Text (213) 429-1092 or call (310) 513-8800. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-6:00, Sunday closed. Google rating 4.8 (654 reviews) and Yelp 4.7 (777 reviews) as of October 2026.
 
 ```json
 {
@@ -73,7 +73,7 @@ Text (213) 429-1092 or call (213) 429-1092. Audio MotorSports is at 22025 S Aval
    "@id": "https://www.audiomotorsports.com/tint/window-tint-artesia/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-artesia/",
    "name": "Artesia SUV & Car Window Tint | LA Car Tint, Carson",
-   "description": "SUV, minivan and car window tint for Artesia families, installed at Audio MotorSports in Carson, 10.8 miles away. Ceramic film available. Call (213) 429-1092.",
+   "description": "SUV, minivan and car window tint for Artesia families, installed at Audio MotorSports in Carson, 10.8 miles away. Ceramic film available. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

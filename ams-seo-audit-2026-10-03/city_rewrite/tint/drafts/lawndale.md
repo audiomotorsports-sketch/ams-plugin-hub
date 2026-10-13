@@ -5,7 +5,7 @@ miles: 6.5
 lead_service: Window tint / ceramic window tint (LA Car Tint)
 source: hub-mounted copy; standalone www host not verified
 title: Window Tinting for Lawndale | LA Car Tint, Carson
-meta: Legal front-window tint, ceramic window tint and window tinting for Lawndale drivers at Audio MotorSports in Carson, 6.5 miles out. Call (213) 429-1092.
+meta: Legal front-window tint, ceramic window tint and window tinting for Lawndale drivers at Audio MotorSports in Carson, 6.5 miles out. Call (310) 513-8800.
 ---
 # Window Tinting for Lawndale, Done to the California Rule
 
@@ -62,7 +62,7 @@ Two prices for a standard sedan, side windows plus rear glass, as of October 202
 
 ## Book window tinting from Lawndale
 
-Call (213) 429-1092, or text (213) 429-1092 if that is easier. Audio MotorSports sits at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday-Saturday 9:30-6:00 and closed Sunday. As of October 2026 the shop holds a 4.8 on Google (654 reviews) and a 4.7 on Yelp (777 reviews).
+Call (310) 513-8800, or text (213) 429-1092 if that is easier. Audio MotorSports sits at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday-Saturday 9:30-6:00 and closed Sunday. As of October 2026 the shop holds a 4.8 on Google (654 reviews) and a 4.7 on Yelp (777 reviews).
 
 ```json
 {
@@ -73,7 +73,7 @@ Call (213) 429-1092, or text (213) 429-1092 if that is easier. Audio MotorSports
    "@id": "https://www.audiomotorsports.com/tint/window-tint-lawndale/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-lawndale/",
    "name": "Window Tinting for Lawndale | LA Car Tint, Carson",
-   "description": "Legal front-window tint, ceramic window tint and window tinting for Lawndale drivers at Audio MotorSports in Carson, 6.5 miles out. Call (213) 429-1092.",
+   "description": "Legal front-window tint, ceramic window tint and window tinting for Lawndale drivers at Audio MotorSports in Carson, 6.5 miles out. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

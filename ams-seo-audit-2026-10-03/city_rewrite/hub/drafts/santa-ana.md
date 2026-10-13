@@ -4,7 +4,7 @@ city: Santa Ana
 miles: 23.5
 lead_service: Car alarms & remote start
 title: Viper Alarm & Remote Start for Santa Ana | Audio MotorSports
-meta: Viper alarm installation, Compustar remote start, GPS trackers and window tint for Santa Ana drivers at Audio MotorSports in Carson, 23.5 miles. (213) 429-1092.
+meta: Viper alarm installation, Compustar remote start, GPS trackers and window tint for Santa Ana drivers at Audio MotorSports in Carson, 23.5 miles. (310) 513-8800.
 ---
 # Viper Alarm Installation and Remote Start for Santa Ana
 
@@ -65,7 +65,7 @@ Viper 3108V alarm: $269 installed. Compustar 9910 remote start: from $499. Solar
 
 ## Book a Viper alarm installation from Santa Ana
 
-Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday through Saturday 9:30 to 6:00 and closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday through Saturday 9:30 to 6:00 and closed Sunday.
 
 ```json
 {
@@ -76,7 +76,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio 
    "@id": "https://www.audiomotorsports.com/santa-ana/#webpage",
    "url": "https://www.audiomotorsports.com/santa-ana/",
    "name": "Viper Alarm & Remote Start for Santa Ana | Audio MotorSports",
-   "description": "Viper alarm installation, Compustar remote start, GPS trackers and window tint for Santa Ana drivers at Audio MotorSports in Carson, 23.5 miles. Call (213) 429-1092.",
+   "description": "Viper alarm installation, Compustar remote start, GPS trackers and window tint for Santa Ana drivers at Audio MotorSports in Carson, 23.5 miles. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

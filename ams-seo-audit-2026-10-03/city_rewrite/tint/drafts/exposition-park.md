@@ -4,7 +4,7 @@ city: Exposition Park
 miles: 15.9
 lead_service: car window tint
 title: Car Window Tint Exposition Park | LA Car Tint, Carson
-meta: Car window tint for Exposition Park sedans and crossovers, Solar and ceramic film installed by Audio MotorSports, Carson, 15.9 miles away. Call (213) 429-1092.
+meta: Car window tint for Exposition Park sedans and crossovers, Solar and ceramic film installed by Audio MotorSports, Carson, 15.9 miles away. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Window Tint for Exposition Park Drivers, by Audio MotorSports, Carson
@@ -41,7 +41,7 @@ Light. California requires the front door glass to pass most of the light, so th
 
 ### How long is a car tied up for a full tint?
 
-A few hours for a sedan or crossover. Drop it in the morning and it is usually ready by afternoon, or wait at the shop. After pickup, keep the windows up for a few days while the film cures. Book by calling (213) 429-1092 or texting (213) 429-1092.
+A few hours for a sedan or crossover. Drop it in the morning and it is usually ready by afternoon, or wait at the shop. After pickup, keep the windows up for a few days while the film cures. Book by calling (310) 513-8800 or texting (213) 429-1092.
 
 ### Why go to Carson for tint instead of a shop closer to Exposition Park?
 
@@ -64,7 +64,7 @@ Solar window tint $249 installed and Solar Ceramic $329 installed, as of October
 
 ## Book it
 
-Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
+Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
 
 ```json
 {
@@ -75,7 +75,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-exposition-park/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-exposition-park/",
    "name": "Car Window Tint Exposition Park | LA Car Tint, Carson",
-   "description": "Car window tint for Exposition Park sedans and crossovers, Solar and ceramic film installed by Audio MotorSports, Carson, 15.9 miles away. Call (213) 429-1092.",
+   "description": "Car window tint for Exposition Park sedans and crossovers, Solar and ceramic film installed by Audio MotorSports, Carson, 15.9 miles away. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -131,7 +131,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "How long is a car tied up for a full tint?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "A few hours for a sedan or crossover. Drop it in the morning and it is usually ready by afternoon, or wait at the shop. After pickup, keep the windows up for a few days while the film cures. Book by calling (213) 429-1092 or texting (213) 429-1092."
+      "text": "A few hours for a sedan or crossover. Drop it in the morning and it is usually ready by afternoon, or wait at the shop. After pickup, keep the windows up for a few days while the film cures. Book by calling (310) 513-8800 or texting (213) 429-1092."
      }
     },
     {

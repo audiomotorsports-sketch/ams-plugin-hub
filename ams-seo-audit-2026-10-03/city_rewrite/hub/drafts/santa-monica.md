@@ -4,7 +4,7 @@ city: Santa Monica
 miles: 18.4
 lead_service: Apple CarPlay and Android Auto installation
 title: CarPlay Installs & Tint, Santa Monica | Audio MotorSports
-meta: Apple CarPlay and Android Auto installation, car window tint, car stereo and alarm installs for Santa Monica drivers. Audio MotorSports, Carson. (213) 429-1092.
+meta: Apple CarPlay and Android Auto installation, car window tint, car stereo and alarm installs for Santa Monica drivers. Audio MotorSports, Carson. (310) 513-8800.
 ---
 # Apple CarPlay and Android Auto Installation for Santa Monica
 
@@ -27,7 +27,7 @@ If you would rather wait inside than make two trips from Santa Monica, the shop 
 
 ## Santa Monica to the shop
 
-Count on about 18.4 miles and roughly 37 to 44 minutes (approx) in easy traffic. We are open Monday to Saturday from 9:30 to 6 and closed Sunday. Make an appointment, then drop the car or wait while the deck goes in; a CarPlay install is usually a couple of hours. Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Santa Monica drivers can check Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, before they commit to the drive.
+Count on about 18.4 miles and roughly 37 to 44 minutes (approx) in easy traffic. We are open Monday to Saturday from 9:30 to 6 and closed Sunday. Make an appointment, then drop the car or wait while the deck goes in; a CarPlay install is usually a couple of hours. Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Santa Monica drivers can check Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, before they commit to the drive.
 
 [SHOP NOTE: 2-3 sentences from Nick about Santa Monica customers, routes or jobs]
 
@@ -74,7 +74,7 @@ CarPlay head units, speakers, amplifiers, GPS trackers and dash cams are quoted 
 
 ## Book CarPlay installation from Santa Monica
 
-Call (213) 429-1092 or text (213) 429-1092. The shop is one bay at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092. The shop is one bay at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -85,7 +85,7 @@ Call (213) 429-1092 or text (213) 429-1092. The shop is one bay at 22025 S Avalo
    "@id": "https://www.audiomotorsports.com/santa-monica/#webpage",
    "url": "https://www.audiomotorsports.com/santa-monica/",
    "name": "CarPlay Installs & Tint, Santa Monica | Audio MotorSports",
-   "description": "Apple CarPlay and Android Auto installation, car window tint, car stereo and alarm installs for Santa Monica drivers. Audio MotorSports, Carson. (213) 429-1092.",
+   "description": "Apple CarPlay and Android Auto installation, car window tint, car stereo and alarm installs for Santa Monica drivers. Audio MotorSports, Carson. (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

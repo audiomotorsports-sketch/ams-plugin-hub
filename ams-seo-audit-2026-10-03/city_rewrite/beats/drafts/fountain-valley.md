@@ -6,7 +6,7 @@ lead_service: factory-look head unit installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Fountain Valley Head Unit Installation | LA Car Beats
-meta: Factory-look head unit installation and CarPlay for Fountain Valley drivers at LA Car Beats, Audio MotorSports in Carson, 19.7 miles out. Call (213) 429-1092.
+meta: Factory-look head unit installation and CarPlay for Fountain Valley drivers at LA Car Beats, Audio MotorSports in Carson, 19.7 miles out. Call (310) 513-8800.
 ---
 # Factory-Look Head Unit Installation for Fountain Valley
 
@@ -21,7 +21,7 @@ Fountain Valley drivers get factory-look head unit installation at LA Car Beats 
 
 ## The drive from Fountain Valley
 
-Fountain Valley to the shop is about 19.7 miles, roughly 39 to 47 minutes outside peak traffic (approx). Hours are Monday to Saturday, 9:30 a.m. to 6 p.m.; Sunday closed. Book at (213) 429-1092 or by text at (213) 429-1092. A head unit installation alone is a wait-and-drive job for most Fountain Valley drivers; adding speakers or an amp makes it a morning drop-off with same-day pickup. Customers come to Carson from more than 100 miles out for the same install. [SHOP NOTE: 2-3 sentences from Nick about Fountain Valley customers, routes or jobs]
+Fountain Valley to the shop is about 19.7 miles, roughly 39 to 47 minutes outside peak traffic (approx). Hours are Monday to Saturday, 9:30 a.m. to 6 p.m.; Sunday closed. Book at (310) 513-8800 or by text at (213) 429-1092. A head unit installation alone is a wait-and-drive job for most Fountain Valley drivers; adding speakers or an amp makes it a morning drop-off with same-day pickup. Customers come to Carson from more than 100 miles out for the same install. [SHOP NOTE: 2-3 sentences from Nick about Fountain Valley customers, routes or jobs]
 
 <!-- owner-details-2026-10-07 -->
 Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Fountain Valley customers tell us makes the drop-off painless. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. From Fountain Valley you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
@@ -58,7 +58,7 @@ Neighboring car stereo installation pages: [Huntington Beach](/beats/car-stereo-
 
 ## Book your Fountain Valley head unit installation
 
-Text (213) 429-1092 with the vehicle or call (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sunday.
+Text (213) 429-1092 with the vehicle or call (310) 513-8800. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -70,7 +70,7 @@ Text (213) 429-1092 with the vehicle or call (213) 429-1092. Audio MotorSports, 
    "name": "Fountain Valley Head Unit Installation | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-fountain-valley/",
    "dateModified": "2026-10-08",
-   "description": "Factory-look head unit installation and CarPlay for Fountain Valley drivers at LA Car Beats, Audio MotorSports in Carson, 19.7 miles out. Call (213) 429-1092.",
+   "description": "Factory-look head unit installation and CarPlay for Fountain Valley drivers at LA Car Beats, Audio MotorSports in Carson, 19.7 miles out. Call (310) 513-8800.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

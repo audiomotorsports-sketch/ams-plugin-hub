@@ -4,7 +4,7 @@ city: Hermosa Beach
 miles: 8.1
 lead_service: Blown stock speaker replacement on Harley baggers
 title: Harley Bagger Audio Hermosa Beach | AMS Pods
-meta: Blown stock speaker replacement and AMS lower-fairing pods for Hermosa Beach Harley riders at AMS Pods by Audio MotorSports in Carson. (213) 429-1092.
+meta: Blown stock speaker replacement and AMS lower-fairing pods for Hermosa Beach Harley riders at AMS Pods by Audio MotorSports in Carson. (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Replacing Blown Bagger Speakers for Hermosa Beach Riders
@@ -65,7 +65,7 @@ Riders also come in from [Redondo Beach](/amspods/bagger-audio-redondo-beach/), 
 
 ## Book the speaker swap
 
-Call (213) 429-1092 or text (213) 429-1092 with your year and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with your year and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -76,7 +76,7 @@ Call (213) 429-1092 or text (213) 429-1092 with your year and model. Audio Motor
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-hermosa-beach/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-hermosa-beach/",
    "name": "Harley Bagger Audio Hermosa Beach | AMS Pods",
-   "description": "Blown stock speaker replacement and AMS lower-fairing pods for Hermosa Beach Harley riders at AMS Pods by Audio MotorSports in Carson. (213) 429-1092.",
+   "description": "Blown stock speaker replacement and AMS lower-fairing pods for Hermosa Beach Harley riders at AMS Pods by Audio MotorSports in Carson. (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

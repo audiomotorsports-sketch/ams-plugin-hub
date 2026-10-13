@@ -4,12 +4,12 @@ city: San Pedro
 miles: 6.5
 lead_service: car window tint (UV)
 title: UV-Blocking Car Window Tint San Pedro | LA Car Tint
-meta: San Pedro car window tint and ceramic window tinting with UV protection at LA Car Tint by Audio MotorSports in Carson, 6.5 miles away. Call (213) 429-1092.
+meta: San Pedro car window tint and ceramic window tinting with UV protection at LA Car Tint by Audio MotorSports in Carson, 6.5 miles away. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # UV-Blocking Car Window Tint for San Pedro, by Audio MotorSports, Carson
 
-San Pedro drivers come to LA Car Tint for car window tint that blocks ultraviolet light and keeps skin, seats and dashboards from baking. The shop is Audio MotorSports at 22025 S Avalon Blvd Ste A, Carson, about 6.5 miles from San Pedro. Solar and Solar Ceramic window tinting, Tesla window tint, car stereo installation, car alarm installation and remote start installation all run through the same bay, with every piece of film hand-cut on the glass. Call (213) 429-1092.
+San Pedro drivers come to LA Car Tint for car window tint that blocks ultraviolet light and keeps skin, seats and dashboards from baking. The shop is Audio MotorSports at 22025 S Avalon Blvd Ste A, Carson, about 6.5 miles from San Pedro. Solar and Solar Ceramic window tinting, Tesla window tint, car stereo installation, car alarm installation and remote start installation all run through the same bay, with every piece of film hand-cut on the glass. Call (310) 513-8800.
 
 ## What San Pedro drivers bring us
 
@@ -62,7 +62,7 @@ As of October 2026, Solar car window tint is $249 installed and Solar Ceramic is
 
 ## Book it
 
-(213) 429-1092 to call. (213) 429-1092 to text. 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday to Saturday, 9:30-6:00. Closed Sunday.
+(310) 513-8800 to call. (213) 429-1092 to text. 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday to Saturday, 9:30-6:00. Closed Sunday.
 
 ```json
 {
@@ -73,7 +73,7 @@ As of October 2026, Solar car window tint is $249 installed and Solar Ceramic is
    "@id": "https://www.audiomotorsports.com/tint/window-tint-san-pedro/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-san-pedro/",
    "name": "UV-Blocking Car Window Tint San Pedro | LA Car Tint",
-   "description": "San Pedro car window tint and ceramic window tinting with UV protection at LA Car Tint by Audio MotorSports in Carson, 6.5 miles away. Call (213) 429-1092.",
+   "description": "San Pedro car window tint and ceramic window tinting with UV protection at LA Car Tint by Audio MotorSports in Carson, 6.5 miles away. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

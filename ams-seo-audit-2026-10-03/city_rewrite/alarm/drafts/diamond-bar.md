@@ -5,7 +5,7 @@ city: Diamond Bar
 miles: 28.1
 lead_service: fleet and business vehicle security
 title: Car Alarm & GPS, Diamond Bar | LA Car Alarm
-meta: Fleet GPS tracker and car alarm installation for Diamond Bar businesses and drivers at LA Car Alarm by Audio MotorSports in Carson. Call (213) 429-1092.
+meta: Fleet GPS tracker and car alarm installation for Diamond Bar businesses and drivers at LA Car Alarm by Audio MotorSports in Carson. Call (310) 513-8800.
 ---
 # Fleet Vehicle Security and Car Alarms for Diamond Bar
 
@@ -59,7 +59,7 @@ Viper 3108V $269 installed. Compustar 9910 remote start from $499. The cost of a
 
 ## Book your Diamond Bar alarm install
 
-Call (213) 429-1092 or text (213) 429-1092. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

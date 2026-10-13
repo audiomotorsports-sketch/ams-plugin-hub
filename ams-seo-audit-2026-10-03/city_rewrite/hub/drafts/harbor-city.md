@@ -4,7 +4,7 @@ city: Harbor City
 miles: 2.8
 lead_service: car audio & stereo installation
 title: Car Stereo Installation for Harbor City | Audio MotorSports
-meta: Harbor City car stereo installation, subwoofer and amplifier installs, window tint and alarms at Audio MotorSports in Carson, 2.8 miles. Call (213) 429-1092.
+meta: Harbor City car stereo installation, subwoofer and amplifier installs, window tint and alarms at Audio MotorSports in Carson, 2.8 miles. Call (310) 513-8800.
 ---
 # Car Stereo Installation for Harbor City Drivers
 
@@ -61,7 +61,7 @@ Harbor City neighbors who come to the same bay: [West Carson](/west-carson/), [W
 
 ## Book your Harbor City car stereo installation
 
-Call (213) 429-1092 or text your year, make and model to (213) 429-1092 and we will set a time. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday to Saturday 9:30 AM to 6:00 PM, closed Sunday.
+Call (310) 513-8800 or text your year, make and model to (213) 429-1092 and we will set a time. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday to Saturday 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -72,7 +72,7 @@ Call (213) 429-1092 or text your year, make and model to (213) 429-1092 and we w
    "@id": "https://www.audiomotorsports.com/harbor-city/#webpage",
    "url": "https://www.audiomotorsports.com/harbor-city/",
    "name": "Car Stereo Installation for Harbor City | Audio MotorSports",
-   "description": "Harbor City car stereo installation, subwoofer and amplifier installs, window tint and alarms at Audio MotorSports in Carson, 2.8 miles. Call (213) 429-1092.",
+   "description": "Harbor City car stereo installation, subwoofer and amplifier installs, window tint and alarms at Audio MotorSports in Carson, 2.8 miles. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

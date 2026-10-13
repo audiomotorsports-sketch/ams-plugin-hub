@@ -4,7 +4,7 @@ city: Manhattan Beach
 miles: 9.3
 lead_service: ceramic window tint
 title: Manhattan Beach Ceramic Window Tint | LA Car Tint
-meta: Ceramic window tint for Manhattan Beach drivers, installed by Audio MotorSports in Carson, 9.3 miles away. Hand-cut, one visit. Call (213) 429-1092.
+meta: Ceramic window tint for Manhattan Beach drivers, installed by Audio MotorSports in Carson, 9.3 miles away. Hand-cut, one visit. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Ceramic Window Tint for Manhattan Beach

@@ -4,12 +4,12 @@ city: Culver City
 miles: 15.2
 lead_service: car window tint (glare)
 title: Car Window Tint Culver City | LA Car Tint, Carson
-meta: Glare-cutting car window tint and ceramic window tinting for Culver City drivers at LA Car Tint by Audio MotorSports in Carson, 15.2 miles. Call (213) 429-1092.
+meta: Glare-cutting car window tint and ceramic window tinting for Culver City drivers at LA Car Tint by Audio MotorSports in Carson, 15.2 miles. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Window Tint for Culver City Drivers, by Audio MotorSports, Carson
 
-Culver City drivers who spend evenings staring into a low sun get car window tint at LA Car Tint, the window tinting desk at Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, about 15.2 miles away. Solar and Solar Ceramic film hand-cut on the glass, Tesla window tint, Apple CarPlay and Android Auto installation, car alarm installation and dash camera installation, all under one roof. Call (213) 429-1092.
+Culver City drivers who spend evenings staring into a low sun get car window tint at LA Car Tint, the window tinting desk at Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, about 15.2 miles away. Solar and Solar Ceramic film hand-cut on the glass, Tesla window tint, Apple CarPlay and Android Auto installation, car alarm installation and dash camera installation, all under one roof. Call (310) 513-8800.
 
 ## What Culver City drivers bring us
 
@@ -63,7 +63,7 @@ Solar car window tint is $249 installed, Solar Ceramic is $329 installed, as of 
 
 ## Book it
 
-Call (213) 429-1092. Text (213) 429-1092. 22025 S Avalon Blvd Ste A. Carson, CA 90745. Mon-Sat 9:30-6:00. Closed Sunday.
+Call (310) 513-8800. Text (213) 429-1092. 22025 S Avalon Blvd Ste A. Carson, CA 90745. Mon-Sat 9:30-6:00. Closed Sunday.
 
 ```json
 {
@@ -74,7 +74,7 @@ Call (213) 429-1092. Text (213) 429-1092. 22025 S Avalon Blvd Ste A. Carson, CA 
    "@id": "https://www.audiomotorsports.com/tint/window-tint-culver-city/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-culver-city/",
    "name": "Car Window Tint Culver City | LA Car Tint, Carson",
-   "description": "Glare-cutting car window tint and ceramic window tinting for Culver City drivers at LA Car Tint by Audio MotorSports in Carson, 15.2 miles. Call (213) 429-1092.",
+   "description": "Glare-cutting car window tint and ceramic window tinting for Culver City drivers at LA Car Tint by Audio MotorSports in Carson, 15.2 miles. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

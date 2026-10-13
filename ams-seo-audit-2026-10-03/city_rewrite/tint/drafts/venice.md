@@ -4,7 +4,7 @@ city: Venice
 miles: 15.9
 lead_service: car window tint (salt air and privacy)
 title: Car Window Tint Venice | LA Car Tint, Carson
-meta: Car window tint and ceramic film for Venice cars and vans, hand-cut and installed by Audio MotorSports in Carson, 15.9 miles away. Call (213) 429-1092.
+meta: Car window tint and ceramic film for Venice cars and vans, hand-cut and installed by Audio MotorSports in Carson, 15.9 miles away. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Window Tint for Venice Drivers, by Audio MotorSports in Carson
@@ -49,7 +49,7 @@ Because the record is open to read: Google 4.8 (654 reviews) and Yelp 4.7 (777 r
 
 ### Do I need an appointment or can I just show up from Venice?
 
-Book first. One bay handles every job, so a scheduled time means the car goes straight in when you arrive. Call (213) 429-1092 or text (213) 429-1092, then either leave the car for the day or wait at the shop.
+Book first. One bay handles every job, so a scheduled time means the car goes straight in when you arrive. Call (310) 513-8800 or text (213) 429-1092, then either leave the car for the day or wait at the shop.
 
 ## Prices, as of October 2026
 
@@ -64,7 +64,7 @@ Solar window tinting $249 installed; Solar Ceramic window tinting $329 installed
 
 ## Book it
 
-Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
+Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
 
 ```json
 {
@@ -75,7 +75,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-venice/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-venice/",
    "name": "Car Window Tint Venice | LA Car Tint, Carson",
-   "description": "Car window tint and ceramic film for Venice cars and vans, hand-cut and installed by Audio MotorSports in Carson, 15.9 miles away. Call (213) 429-1092.",
+   "description": "Car window tint and ceramic film for Venice cars and vans, hand-cut and installed by Audio MotorSports in Carson, 15.9 miles away. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -147,7 +147,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "Do I need an appointment or can I just show up from Venice?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Book first. One bay handles every job, so a scheduled time means the car goes straight in when you arrive. Call (213) 429-1092 or text (213) 429-1092, then either leave the car for the day or wait at the shop."
+      "text": "Book first. One bay handles every job, so a scheduled time means the car goes straight in when you arrive. Call (310) 513-8800 or text (213) 429-1092, then either leave the car for the day or wait at the shop."
      }
     }
    ]

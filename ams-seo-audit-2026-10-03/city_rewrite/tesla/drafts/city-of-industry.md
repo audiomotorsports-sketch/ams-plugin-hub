@@ -5,7 +5,7 @@ miles: 27.2
 lead_service: Tesla window tint (Cybertruck)
 source: hub-mounted copy; standalone www host not verified
 title: Cybertruck Tint, City of Industry | Tesla Tint LA
-meta: Cybertruck and Tesla window tint for City of Industry owners, ceramic film hand-cut at Audio MotorSports in Carson, 27.2 miles away. Call (213) 429-1092.
+meta: Cybertruck and Tesla window tint for City of Industry owners, ceramic film hand-cut at Audio MotorSports in Carson, 27.2 miles away. Call (310) 513-8800.
 ---
 # Cybertruck and Tesla Window Tint for City of Industry
 
@@ -68,7 +68,7 @@ The Cybertruck and every other Tesla are quoted by model at the shop; text the y
 
 ## Book from City of Industry
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -79,7 +79,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-city-of-industry/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-city-of-industry/",
    "name": "Cybertruck Tint, City of Industry | Tesla Tint LA",
-   "description": "Cybertruck and Tesla window tint for City of Industry owners, ceramic film hand-cut at Audio MotorSports in Carson, 27.2 miles away. Call (213) 429-1092.",
+   "description": "Cybertruck and Tesla window tint for City of Industry owners, ceramic film hand-cut at Audio MotorSports in Carson, 27.2 miles away. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

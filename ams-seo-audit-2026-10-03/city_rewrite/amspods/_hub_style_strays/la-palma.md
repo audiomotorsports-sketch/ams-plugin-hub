@@ -4,7 +4,7 @@ city: La Palma
 miles: 12.5
 lead_service: CarPlay/Android Auto
 title: CarPlay, Tint & Alarms for La Palma | Audio MotorSports
-meta: Apple CarPlay and Android Auto installs, window tint, car stereo and alarms for La Palma drivers at Audio MotorSports in Carson. Call (213) 429-1092.
+meta: Apple CarPlay and Android Auto installs, window tint, car stereo and alarms for La Palma drivers at Audio MotorSports in Carson. Call (310) 513-8800.
 ---
 # Apple CarPlay and Android Auto for La Palma Drivers
 
@@ -59,7 +59,7 @@ Window tint Solar $249, Solar Ceramic $329 installed. Viper 3108V alarm $269 ins
 
 ## Schedule a La Palma install
 
-Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. The bay is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. The bay is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -70,7 +70,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. The ba
    "@id": "https://www.audiomotorsports.com/la-palma/#webpage",
    "url": "https://www.audiomotorsports.com/la-palma/",
    "name": "CarPlay, Tint & Alarms for La Palma | Audio MotorSports",
-   "description": "Apple CarPlay and Android Auto installs, window tint, car stereo and alarms for La Palma drivers at Audio MotorSports in Carson. Call (213) 429-1092.",
+   "description": "Apple CarPlay and Android Auto installs, window tint, car stereo and alarms for La Palma drivers at Audio MotorSports in Carson. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

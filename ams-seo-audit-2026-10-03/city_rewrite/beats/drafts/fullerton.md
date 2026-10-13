@@ -6,7 +6,7 @@ lead_service: car stereo installation with CarPlay
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Fullerton Car Stereo Installation | LA Car Beats
-meta: Car stereo installation with Apple CarPlay and Android Auto for Fullerton drivers at LA Car Beats, Audio MotorSports, Carson, 19.7 miles. Call (213) 429-1092.
+meta: Car stereo installation with Apple CarPlay and Android Auto for Fullerton drivers at LA Car Beats, Audio MotorSports, Carson, 19.7 miles. Call (310) 513-8800.
 ---
 # Car Stereo Installation for Fullerton
 
@@ -22,7 +22,7 @@ Fullerton drivers book car stereo installation at LA Car Beats when they want Ca
 
 ## Fullerton to the Carson bay
 
-From Fullerton the shop is about 19.7 miles, roughly 39 to 47 minutes outside rush hour (approx). Call (213) 429-1092 or text (213) 429-1092 to schedule. Wait on a head unit install or drop the car for a full system and collect it later that day. Monday through Saturday 9:30 to 6:00, Sunday closed. We have had calls from as far as San Jose about this work, so Fullerton is an easy run.
+From Fullerton the shop is about 19.7 miles, roughly 39 to 47 minutes outside rush hour (approx). Call (310) 513-8800 or text (213) 429-1092 to schedule. Wait on a head unit install or drop the car for a full system and collect it later that day. Monday through Saturday 9:30 to 6:00, Sunday closed. We have had calls from as far as San Jose about this work, so Fullerton is an easy run.
 
 <!-- owner-details-2026-10-07 -->
 Plenty of Fullerton drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Fullerton customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Fullerton traffic sends you.
@@ -59,7 +59,7 @@ More LA Car Beats pages nearby: [Buena Park](/beats/car-stereo-buena-park/) · [
 
 ## Book from Fullerton
 
-Text the year, make, model and trim and we will have the kit ready. Call (213) 429-1092 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Text the year, make, model and trim and we will have the kit ready. Call (310) 513-8800 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -70,7 +70,7 @@ Text the year, make, model and trim and we will have the kit ready. Call (213) 4
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-fullerton/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-fullerton/",
    "name": "Fullerton Car Stereo Installation | LA Car Beats",
-   "description": "Car stereo installation with Apple CarPlay and Android Auto for Fullerton drivers at LA Car Beats, Audio MotorSports, Carson, 19.7 miles. Call (213) 429-1092.",
+   "description": "Car stereo installation with Apple CarPlay and Android Auto for Fullerton drivers at LA Car Beats, Audio MotorSports, Carson, 19.7 miles. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

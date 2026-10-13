@@ -4,7 +4,7 @@ city: Baldwin Hills
 miles: 13.3
 lead_service: window tinting (legal front-window rules)
 title: Baldwin Hills Window Tinting | LA Car Tint, Carson
-meta: Legal window tinting for Baldwin Hills drivers: Audio MotorSports in Carson installs car window tint and ceramic film 13.3 miles away. Call (213) 429-1092.
+meta: Legal window tinting for Baldwin Hills drivers: Audio MotorSports in Carson installs car window tint and ceramic film 13.3 miles away. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Window Tinting for Baldwin Hills, Within the Rules
@@ -58,7 +58,7 @@ Solar four-door window tint is $249 installed and Solar Ceramic four-door is $32
 
 ## Book a legal tint job
 
-Call (213) 429-1092, or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A in Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sunday.
+Call (310) 513-8800, or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A in Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {

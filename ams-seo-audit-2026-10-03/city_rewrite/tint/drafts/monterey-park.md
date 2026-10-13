@@ -4,7 +4,7 @@ city: Monterey Park
 miles: 17.9
 lead_service: window tinting (heat and privacy)
 title: Window Tinting Monterey Park | LA Car Tint, Carson
-meta: Window tinting and ceramic window tint for Monterey Park drivers, hand-cut and installed by Audio MotorSports in Carson, 17.9 miles away. Call (213) 429-1092.
+meta: Window tinting and ceramic window tint for Monterey Park drivers, hand-cut and installed by Audio MotorSports in Carson, 17.9 miles away. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Window Tinting for Monterey Park, by Audio MotorSports in Carson
@@ -37,7 +37,7 @@ Hand-cut film, sealed edges, dated prices and a public record: Google 4.8 (654 r
 
 ### Can a Monterey Park driver get in the same week?
 
-Usually. Call (213) 429-1092 or text (213) 429-1092 with the car and the film, and we will give you the next open time. The car is tinted the day it arrives. Say whether you plan to wait or drop the car, and we will set the time accordingly.
+Usually. Call (310) 513-8800 or text (213) 429-1092 with the car and the film, and we will give you the next open time. The car is tinted the day it arrives. Say whether you plan to wait or drop the car, and we will set the time accordingly.
 
 ### Is ceramic film clearer than regular tint?
 
@@ -65,7 +65,7 @@ Solar window tinting $249 installed; Solar Ceramic window tinting $329 installed
 
 ## Book it
 
-Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
+Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
 
 ```json
 {
@@ -76,7 +76,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-monterey-park/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-monterey-park/",
    "name": "Window Tinting Monterey Park | LA Car Tint, Carson",
-   "description": "Window tinting and ceramic window tint for Monterey Park drivers, hand-cut and installed by Audio MotorSports in Carson, 17.9 miles away. Call (213) 429-1092.",
+   "description": "Window tinting and ceramic window tint for Monterey Park drivers, hand-cut and installed by Audio MotorSports in Carson, 17.9 miles away. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -124,7 +124,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "Can a Monterey Park driver get in the same week?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Usually. Call (213) 429-1092 or text (213) 429-1092 with the car and the film, and we will give you the next open time. The car is tinted the day it arrives. Say whether you plan to wait or drop the car, and we will set the time accordingly."
+      "text": "Usually. Call (310) 513-8800 or text (213) 429-1092 with the car and the film, and we will give you the next open time. The car is tinted the day it arrives. Say whether you plan to wait or drop the car, and we will set the time accordingly."
      }
     },
     {

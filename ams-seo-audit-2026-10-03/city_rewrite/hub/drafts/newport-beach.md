@@ -4,7 +4,7 @@ city: Newport Beach
 miles: 24.1
 lead_service: CarPlay/Android Auto
 title: CarPlay & Android Auto, Newport Beach | Audio MotorSports
-meta: Apple CarPlay and Android Auto installation for Newport Beach drivers at Audio MotorSports in Carson, 24.1 miles. Tint and audio too. Call (213) 429-1092.
+meta: Apple CarPlay and Android Auto installation for Newport Beach drivers at Audio MotorSports in Carson, 24.1 miles. Tint and audio too. Call (310) 513-8800.
 ---
 # Apple CarPlay and Android Auto Installation for Newport Beach
 
@@ -67,7 +67,7 @@ Cities around Newport Beach we also serve:
 
 ## Book from Newport Beach
 
-Text (213) 429-1092 with your year, make and model, or call (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Monday through Saturday 9:30 AM to 6:00 PM; closed Sunday.
+Text (213) 429-1092 with your year, make and model, or call (310) 513-8800. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Monday through Saturday 9:30 AM to 6:00 PM; closed Sunday.
 
 ```json
 {
@@ -78,7 +78,7 @@ Text (213) 429-1092 with your year, make and model, or call (213) 429-1092. Audi
    "@id": "https://www.audiomotorsports.com/newport-beach/#webpage",
    "url": "https://www.audiomotorsports.com/newport-beach/",
    "name": "CarPlay & Android Auto, Newport Beach | Audio MotorSports",
-   "description": "Apple CarPlay and Android Auto installation for Newport Beach drivers at Audio MotorSports in Carson, 24.1 miles. Tint and audio too. Call (213) 429-1092.",
+   "description": "Apple CarPlay and Android Auto installation for Newport Beach drivers at Audio MotorSports in Carson, 24.1 miles. Tint and audio too. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

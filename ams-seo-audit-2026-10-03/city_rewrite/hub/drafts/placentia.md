@@ -4,7 +4,7 @@ city: Placentia
 miles: 22.9
 lead_service: Apple CarPlay and Android Auto installation
 title: CarPlay & Android Auto, Placentia | Audio MotorSports
-meta: Placentia Apple CarPlay and Android Auto installation, car stereo, window tint and alarms at Audio MotorSports in Carson, 22.9 miles. Call (213) 429-1092.
+meta: Placentia Apple CarPlay and Android Auto installation, car stereo, window tint and alarms at Audio MotorSports in Carson, 22.9 miles. Call (310) 513-8800.
 ---
 # Apple CarPlay and Android Auto Installation for Placentia
 
@@ -61,7 +61,7 @@ Placentia neighbors who drive to the same shop: [Fullerton](/fullerton/), [Brea]
 
 ## Book Placentia CarPlay installation
 
-Call (213) 429-1092 or text (213) 429-1092 with the car. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday to Saturday 9:30 AM to 6:00 PM, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092 with the car. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday to Saturday 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -72,7 +72,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the car. Audio MotorSports, 2202
    "@id": "https://www.audiomotorsports.com/placentia/#webpage",
    "url": "https://www.audiomotorsports.com/placentia/",
    "name": "CarPlay & Android Auto Installs, Placentia | Audio MotorSports",
-   "description": "Placentia Apple CarPlay and Android Auto installation, car stereo, window tint and alarm installs at Audio MotorSports in Carson, 22.9 miles away. Call (213) 429-1092 to book.",
+   "description": "Placentia Apple CarPlay and Android Auto installation, car stereo, window tint and alarm installs at Audio MotorSports in Carson, 22.9 miles away. Call (310) 513-8800 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

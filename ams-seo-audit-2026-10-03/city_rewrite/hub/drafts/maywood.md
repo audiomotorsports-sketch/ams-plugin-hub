@@ -4,7 +4,7 @@ city: Maywood
 miles: 11.9
 lead_service: Car window tint
 title: Window Tint & Alarm Installs, Maywood | Audio MotorSports
-meta: Car window tint, ceramic tint, Viper alarm installation, remote start and car stereo installs for Maywood drivers. Audio MotorSports, Carson. (213) 429-1092.
+meta: Car window tint, ceramic tint, Viper alarm installation, remote start and car stereo installs for Maywood drivers. Audio MotorSports, Carson. (310) 513-8800.
 ---
 # Car Window Tint for Maywood Drivers
 
@@ -27,7 +27,7 @@ Waiting inside is easy for Maywood customers: there is seating, Netflix on the T
 
 ## Maywood to Carson
 
-Expect about 11.9 miles and roughly 24 to 29 minutes (approx) when traffic is light. Customers come from 100-plus miles away for this bay, so Maywood is a quick trip. Hours are Monday through Saturday 9:30 to 6, closed Sunday. Reserve a time, then drop the car or wait while the film goes on. Call (213) 429-1092 or text (213) 429-1092 and tell us the year, make and model. Maywood drivers who want to check first will find Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
+Expect about 11.9 miles and roughly 24 to 29 minutes (approx) when traffic is light. Customers come from 100-plus miles away for this bay, so Maywood is a quick trip. Hours are Monday through Saturday 9:30 to 6, closed Sunday. Reserve a time, then drop the car or wait while the film goes on. Call (310) 513-8800 or text (213) 429-1092 and tell us the year, make and model. Maywood drivers who want to check first will find Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 [SHOP NOTE: 2-3 sentences from Nick about Maywood customers, routes or jobs]
 
@@ -74,7 +74,7 @@ Stereo gear, CarPlay units, amplifier installation, GPS and dash cams are priced
 
 ## Book window tint from Maywood
 
-Phone: (213) 429-1092. Text: (213) 429-1092. We are at 22025 S Avalon Blvd Ste A, Carson, CA 90745, in one bay. Mon-Sat 9:30-18:00, closed Sunday.
+Phone: (310) 513-8800. Text: (213) 429-1092. We are at 22025 S Avalon Blvd Ste A, Carson, CA 90745, in one bay. Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {

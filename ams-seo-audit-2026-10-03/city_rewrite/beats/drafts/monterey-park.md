@@ -6,7 +6,7 @@ lead_service: Apple CarPlay and Android Auto installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Monterey Park CarPlay & Android Auto Install | LA Car Beats
-meta: Apple CarPlay and Android Auto installation for Monterey Park drivers at LA Car Beats, Audio MotorSports in Carson, about 17.9 miles. Call (213) 429-1092.
+meta: Apple CarPlay and Android Auto installation for Monterey Park drivers at LA Car Beats, Audio MotorSports in Carson, about 17.9 miles. Call (310) 513-8800.
 ---
 # Apple CarPlay and Android Auto Installation for Monterey Park
 
@@ -22,7 +22,7 @@ Monterey Park drivers bring older cars to LA Car Beats by Audio MotorSports, Car
 
 ## Monterey Park to the shop
 
-Monterey Park is about 17.9 miles from the bay, roughly 36 to 43 minutes with normal traffic (approx). Hours are Monday to Saturday, 9:30 a.m. to 6:00 p.m., closed Sunday. Call (213) 429-1092 or text (213) 429-1092 to book. A CarPlay interface or head unit installation can be waited on; add speakers and an amp and it is a drop-off. Customers drive to Carson from over 100 miles away, so Monterey Park is a normal trip. [SHOP NOTE: 2-3 sentences from Nick about Monterey Park customers, routes or jobs]
+Monterey Park is about 17.9 miles from the bay, roughly 36 to 43 minutes with normal traffic (approx). Hours are Monday to Saturday, 9:30 a.m. to 6:00 p.m., closed Sunday. Call (310) 513-8800 or text (213) 429-1092 to book. A CarPlay interface or head unit installation can be waited on; add speakers and an amp and it is a drop-off. Customers drive to Carson from over 100 miles away, so Monterey Park is a normal trip. [SHOP NOTE: 2-3 sentences from Nick about Monterey Park customers, routes or jobs]
 
 <!-- owner-details-2026-10-07 -->
 Plenty of Monterey Park drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Coming from Monterey Park, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
@@ -59,7 +59,7 @@ Car stereo installation pages for nearby cities: [Alhambra](/beats/car-stereo-al
 
 ## Book CarPlay from Monterey Park
 
-Call (213) 429-1092 or text (213) 429-1092 with your car details. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092 with your car details. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -71,7 +71,7 @@ Call (213) 429-1092 or text (213) 429-1092 with your car details. Audio MotorSpo
    "name": "Monterey Park CarPlay & Android Auto Install | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-monterey-park/",
    "dateModified": "2026-10-08",
-   "description": "Apple CarPlay and Android Auto installation for Monterey Park drivers at LA Car Beats, Audio MotorSports in Carson, about 17.9 miles. Call (213) 429-1092.",
+   "description": "Apple CarPlay and Android Auto installation for Monterey Park drivers at LA Car Beats, Audio MotorSports in Carson, about 17.9 miles. Call (310) 513-8800.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

@@ -6,7 +6,7 @@ lead_service: car stereo installation with CarPlay
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Bell Gardens Car Stereo Installation | LA Car Beats
-meta: Car stereo installation with Apple CarPlay and Android Auto for Bell Gardens drivers at LA Car Beats, Audio MotorSports, Carson. Call (213) 429-1092.
+meta: Car stereo installation with Apple CarPlay and Android Auto for Bell Gardens drivers at LA Car Beats, Audio MotorSports, Carson. Call (310) 513-8800.
 ---
 # Car Stereo Installation for Bell Gardens
 
@@ -22,7 +22,7 @@ Bell Gardens drivers book car stereo installation at LA Car Beats when they want
 
 ## Bell Gardens to the shop
 
-From Bell Gardens the Carson bay is about 11.3 miles, roughly 23 to 27 minutes outside rush hour (approx). Call (213) 429-1092 or text (213) 429-1092 to schedule, then wait on a head unit install or drop off for a full system and pick up later the same day. Monday through Saturday 9:30 to 6:00, Sunday closed. [SHOP NOTE: 2-3 sentences from Nick about Bell Gardens customers, routes or jobs]
+From Bell Gardens the Carson bay is about 11.3 miles, roughly 23 to 27 minutes outside rush hour (approx). Call (310) 513-8800 or text (213) 429-1092 to schedule, then wait on a head unit install or drop off for a full system and pick up later the same day. Monday through Saturday 9:30 to 6:00, Sunday closed. [SHOP NOTE: 2-3 sentences from Nick about Bell Gardens customers, routes or jobs]
 
 <!-- owner-details-2026-10-07 -->
 Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Bell Gardens customers tell us makes the drop-off painless. Bell Gardens customers of every background are welcome, and the shop is openly LGBTQ-friendly on Google and Yelp. The shop sits right off the 110 freeway, with easy access from the 405 and the 710 as well, so three freeways lead to it from Bell Gardens.
@@ -59,7 +59,7 @@ More LA Car Beats city pages close by: [Cudahy](/beats/car-stereo-cudahy/) · [a
 
 ## Book from Bell Gardens
 
-Year, make, model and trim by text is all we need to have the kit ready. Call (213) 429-1092 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Year, make, model and trim by text is all we need to have the kit ready. Call (310) 513-8800 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -70,7 +70,7 @@ Year, make, model and trim by text is all we need to have the kit ready. Call (2
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-bell-gardens/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-bell-gardens/",
    "name": "Bell Gardens Car Stereo Installation | LA Car Beats",
-   "description": "Car stereo installation with Apple CarPlay and Android Auto for Bell Gardens drivers at LA Car Beats, Audio MotorSports, Carson. Call (213) 429-1092.",
+   "description": "Car stereo installation with Apple CarPlay and Android Auto for Bell Gardens drivers at LA Car Beats, Audio MotorSports, Carson. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

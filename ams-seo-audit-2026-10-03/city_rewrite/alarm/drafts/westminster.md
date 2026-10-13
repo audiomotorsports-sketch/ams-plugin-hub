@@ -5,7 +5,7 @@ city: Westminster
 miles: 16.4
 lead_service: work-truck security
 title: Work Truck Alarm & GPS, Westminster | LA Car Alarm
-meta: Work truck alarm and GPS tracker installation for Westminster drivers at LA Car Alarm by Audio MotorSports in Carson. Call or text (213) 429-1092 to book.
+meta: Work truck alarm and GPS tracker installation for Westminster drivers at LA Car Alarm in Carson. Call (310) 513-8800 or text (213) 429-1092 to book.
 ---
 # Work Truck Alarm and GPS Tracker Installation for Westminster
 
@@ -59,7 +59,7 @@ Viper 3108V $269 installed. Compustar 9910 remote start from $499. We price GPS 
 
 ## Book a Westminster truck alarm install
 
-Call (213) 429-1092 or text (213) 429-1092. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed. Customers rate the shop Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
+Call (310) 513-8800 or text (213) 429-1092. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed. Customers rate the shop Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ```json
 {

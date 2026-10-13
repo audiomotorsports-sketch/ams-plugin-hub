@@ -4,7 +4,7 @@ city: Hawthorne
 miles: 8.0
 lead_service: Compustar remote start installation
 title: Remote Start & Alarm Installation, Hawthorne | LA Car Alarm
-meta: Compustar remote start installation and Viper car alarms for Hawthorne drivers at LA Car Alarm by Audio MotorSports, Carson, 8 miles away. Call (213) 429-1092.
+meta: Compustar remote start installation and Viper car alarms for Hawthorne drivers at LA Car Alarm by Audio MotorSports, Carson, 8 miles away. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Compustar Remote Start Installation for Hawthorne
@@ -69,7 +69,7 @@ Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Book it
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

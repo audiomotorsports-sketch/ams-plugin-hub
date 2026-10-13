@@ -5,7 +5,7 @@ miles: 9.0
 lead_service: Window tint / ceramic window tint (LA Car Tint)
 source: hub-mounted copy; standalone www host not verified
 title: Tesla & Car Window Tint Rancho Palos Verdes | LA Car Tint
-meta: Tesla window tint and ceramic window tint for Rancho Palos Verdes, installed at Audio MotorSports in Carson, 9 miles away. Hand-cut film. Call (213) 429-1092.
+meta: Tesla window tint and ceramic window tint for Rancho Palos Verdes, installed at Audio MotorSports in Carson, 9 miles away. Hand-cut film. Call (310) 513-8800.
 ---
 # Tesla Window Tint and Ceramic Film for Rancho Palos Verdes
 
@@ -62,7 +62,7 @@ Sedan pricing, four doors and rear glass, as of October 2026: Solar window tint 
 
 ## Book Tesla or ceramic window tint from Rancho Palos Verdes
 
-Call (213) 429-1092 or send a text to (213) 429-1092. The bay is Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30-6:00, closed Sunday. As of October 2026: Google 4.8 (654 reviews), Yelp 4.7 (777 reviews).
+Call (310) 513-8800 or send a text to (213) 429-1092. The bay is Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30-6:00, closed Sunday. As of October 2026: Google 4.8 (654 reviews), Yelp 4.7 (777 reviews).
 
 ```json
 {
@@ -73,7 +73,7 @@ Call (213) 429-1092 or send a text to (213) 429-1092. The bay is Audio MotorSpor
    "@id": "https://www.audiomotorsports.com/tint/window-tint-rancho-palos-verdes/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-rancho-palos-verdes/",
    "name": "Tesla & Car Window Tint Rancho Palos Verdes | LA Car Tint",
-   "description": "Tesla window tint and ceramic window tint for Rancho Palos Verdes, installed at Audio MotorSports in Carson, 9 miles away. Hand-cut film. Call (213) 429-1092.",
+   "description": "Tesla window tint and ceramic window tint for Rancho Palos Verdes, installed at Audio MotorSports in Carson, 9 miles away. Hand-cut film. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

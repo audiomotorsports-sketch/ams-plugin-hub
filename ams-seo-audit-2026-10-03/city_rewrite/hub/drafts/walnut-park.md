@@ -4,7 +4,7 @@ city: Walnut Park
 miles: 9.7
 lead_service: CarPlay/Android Auto
 title: CarPlay & Android Auto for Walnut Park | Audio MotorSports
-meta: Apple CarPlay and Android Auto installs for Walnut Park drivers at Audio MotorSports in Carson, 9.7 miles away. Tint and alarms too. Call (213) 429-1092.
+meta: Apple CarPlay and Android Auto installs for Walnut Park drivers at Audio MotorSports in Carson, 9.7 miles away. Tint and alarms too. Call (310) 513-8800.
 ---
 # Apple CarPlay and Android Auto for Walnut Park Cars
 
@@ -65,7 +65,7 @@ Pages for the cities bordering Walnut Park:
 
 ## Schedule a CarPlay install
 
-Text (213) 429-1092 or call (213) 429-1092 and tell us the year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday through Saturday 9:30 AM to 6:00 PM and closed Sunday.
+Text (213) 429-1092 or call (310) 513-8800 and tell us the year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday through Saturday 9:30 AM to 6:00 PM and closed Sunday.
 
 ```json
 {
@@ -76,7 +76,7 @@ Text (213) 429-1092 or call (213) 429-1092 and tell us the year, make and model.
    "@id": "https://www.audiomotorsports.com/walnut-park/#webpage",
    "url": "https://www.audiomotorsports.com/walnut-park/",
    "name": "CarPlay & Android Auto for Walnut Park | Audio MotorSports",
-   "description": "Apple CarPlay and Android Auto installs for Walnut Park drivers at Audio MotorSports in Carson, 9.7 miles away. Tint and alarms too. Call (213) 429-1092.",
+   "description": "Apple CarPlay and Android Auto installs for Walnut Park drivers at Audio MotorSports in Carson, 9.7 miles away. Tint and alarms too. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

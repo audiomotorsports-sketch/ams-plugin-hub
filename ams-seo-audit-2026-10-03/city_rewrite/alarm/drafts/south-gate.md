@@ -5,7 +5,7 @@ city: South Gate
 miles: 9.3
 lead_service: fleet security
 title: Fleet Security & Car Alarms, South Gate | LA Car Alarm
-meta: LA Car Alarm in Carson: fleet GPS tracker installation, Viper alarms and dash cameras for South Gate drivers at LA Car Alarm in Carson. Call (213) 429-1092.
+meta: LA Car Alarm in Carson: fleet GPS tracker installation, Viper alarms and dash cameras for South Gate drivers at LA Car Alarm in Carson. Call (310) 513-8800.
 ---
 # Fleet and Work Vehicle Security for South Gate
 
@@ -59,7 +59,7 @@ Viper 3108V $269 installed. Compustar 9910 remote start from $499. GPS trackers 
 
 ## Book your South Gate install
 
-Call (213) 429-1092 or text (213) 429-1092. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

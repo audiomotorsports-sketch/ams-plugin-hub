@@ -4,7 +4,7 @@ city: Huntington Beach
 miles: 19.3
 lead_service: Tesla window tint and truck tint
 title: Huntington Beach Tesla & Truck Window Tint | LA Car Tint
-meta: Tesla, truck and ceramic window tint for Huntington Beach drivers, installed by Audio MotorSports in Carson, 19.3 miles away. Call (213) 429-1092 to book.
+meta: Tesla, truck and ceramic window tint for Huntington Beach drivers, installed by Audio MotorSports in Carson, 19.3 miles away. Call (310) 513-8800 to book.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla Window Tint and Truck Tint for Huntington Beach
@@ -58,7 +58,7 @@ Four-door Solar window tint: $249 installed. Four-door Solar Ceramic: $329 insta
 
 ## Book the Tesla or the truck
 
-Call (213) 429-1092 or text (213) 429-1092 with the model. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Monday to Saturday 9:30-18:00, closed Sundays.
+Call (310) 513-8800 or text (213) 429-1092 with the model. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Monday to Saturday 9:30-18:00, closed Sundays.
 
 ```json
 {

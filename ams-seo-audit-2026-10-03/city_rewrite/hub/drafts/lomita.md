@@ -4,7 +4,7 @@ city: Lomita
 miles: 3.7
 lead_service: Tesla window tint
 title: Tesla Window Tint & Car Audio for Lomita | Audio MotorSports
-meta: Tesla window tint, ceramic tint, car audio and alarms for Lomita drivers at Audio MotorSports in Carson, 3.7 miles away. Call (213) 429-1092 to book.
+meta: Tesla window tint, ceramic tint, car audio and alarms for Lomita drivers at Audio MotorSports in Carson, 3.7 miles away. Call (310) 513-8800 to book.
 ---
 # Tesla Window Tint and Car Audio for Lomita Drivers
 
@@ -59,7 +59,7 @@ Window tint runs Solar $249 or Solar Ceramic $329 installed. The Viper 3108V ala
 
 ## Book your Lomita visit
 
-Call (213) 429-1092 or text your year, make and model to (213) 429-1092. The shop is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00 and closed Sunday.
+Call (310) 513-8800 or text your year, make and model to (213) 429-1092. The shop is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00 and closed Sunday.
 
 ```json
 {
@@ -70,7 +70,7 @@ Call (213) 429-1092 or text your year, make and model to (213) 429-1092. The sho
    "@id": "https://www.audiomotorsports.com/lomita/#webpage",
    "url": "https://www.audiomotorsports.com/lomita/",
    "name": "Tesla Window Tint & Car Audio for Lomita | Audio MotorSports",
-   "description": "Tesla window tint, ceramic tint, car audio and alarms for Lomita drivers at Audio MotorSports in Carson, 3.7 miles away. Call (213) 429-1092 to book.",
+   "description": "Tesla window tint, ceramic tint, car audio and alarms for Lomita drivers at Audio MotorSports in Carson, 3.7 miles away. Call (310) 513-8800 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

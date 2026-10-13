@@ -4,7 +4,7 @@ city: Yorba Linda
 miles: 26.3
 lead_service: Replacing blown stock Harley speakers
 title: Yorba Linda Harley Speaker Replacement | AMS Pods
-meta: Blown stock Harley speakers? Speaker replacement, AMS lower-fairing pods and amplifier installation for Yorba Linda riders in Carson. Call (213) 429-1092.
+meta: Blown stock Harley speakers? Speaker replacement, AMS lower-fairing pods and amplifier installation for Yorba Linda riders in Carson. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Replacing Blown Stock Speakers on Yorba Linda Harleys
@@ -65,7 +65,7 @@ Other AMS Pods pages nearby: [Placentia](/amspods/bagger-audio-placentia/), [Ana
 
 ## Reach the shop from Yorba Linda
 
-Call (213) 429-1092, text (213) 429-1092. 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (310) 513-8800, text (213) 429-1092. 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -76,7 +76,7 @@ Call (213) 429-1092, text (213) 429-1092. 22025 S Avalon Blvd Ste A, Carson, CA 
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-yorba-linda/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-yorba-linda/",
    "name": "Yorba Linda Harley Speaker Replacement | AMS Pods",
-   "description": "Blown stock Harley speakers? Speaker replacement, AMS lower-fairing pods and amplifier installation for Yorba Linda riders in Carson. Call (213) 429-1092.",
+   "description": "Blown stock Harley speakers? Speaker replacement, AMS lower-fairing pods and amplifier installation for Yorba Linda riders in Carson. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

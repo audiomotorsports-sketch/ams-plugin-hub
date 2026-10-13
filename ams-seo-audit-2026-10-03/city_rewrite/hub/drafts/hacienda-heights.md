@@ -4,7 +4,7 @@ city: Hacienda Heights
 miles: 20.3
 lead_service: Tesla window tint
 title: Tesla Window Tint, Hacienda Heights | Audio MotorSports
-meta: Tesla window tint and ceramic window tint for Hacienda Heights owners at Audio MotorSports in Carson, 20.3 miles. Audio and alarms too. Call (213) 429-1092.
+meta: Tesla window tint and ceramic window tint for Hacienda Heights owners at Audio MotorSports in Carson, 20.3 miles. Audio and alarms too. Call (310) 513-8800.
 ---
 # Tesla Window Tint for Hacienda Heights Owners
 
@@ -67,7 +67,7 @@ Also see our pages for the cities around Hacienda Heights:
 
 ## Book Tesla tint from Hacienda Heights
 
-Text (213) 429-1092 with your Tesla model and year, or call (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday, 9:30 AM to 6:00 PM; closed Sunday.
+Text (213) 429-1092 with your Tesla model and year, or call (310) 513-8800. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday, 9:30 AM to 6:00 PM; closed Sunday.
 
 ```json
 {
@@ -78,7 +78,7 @@ Text (213) 429-1092 with your Tesla model and year, or call (213) 429-1092. Audi
    "@id": "https://www.audiomotorsports.com/hacienda-heights/#webpage",
    "url": "https://www.audiomotorsports.com/hacienda-heights/",
    "name": "Tesla Window Tint, Hacienda Heights | Audio MotorSports",
-   "description": "Tesla window tint and ceramic window tint for Hacienda Heights owners at Audio MotorSports in Carson, 20.3 miles. Audio and alarms too. Call (213) 429-1092.",
+   "description": "Tesla window tint and ceramic window tint for Hacienda Heights owners at Audio MotorSports in Carson, 20.3 miles. Audio and alarms too. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

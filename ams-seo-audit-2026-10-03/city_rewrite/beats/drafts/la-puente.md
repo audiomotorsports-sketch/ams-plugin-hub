@@ -4,7 +4,7 @@ city: La Puente
 miles: 27.8
 lead_service: subwoofer installation and amplifier installation
 title: La Puente Subwoofer & Amp Installation | LA Car Beats
-meta: Subwoofer installation, subwoofer upgrades and amplifier installation for La Puente drivers at LA Car Beats, Audio MotorSports, Carson. Call (213) 429-1092.
+meta: Subwoofer installation, subwoofer upgrades and amplifier installation for La Puente drivers at LA Car Beats, Audio MotorSports, Carson. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Subwoofer and Amplifier Installation for La Puente
@@ -68,7 +68,7 @@ LA Car Beats pages for cities around La Puente:
 
 ## Book subwoofer or amplifier installation
 
-Call (213) 429-1092 or text (213) 429-1092 with the car and the bass you want. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092 with the car and the bass you want. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -79,7 +79,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the car and the bass you want. A
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-la-puente/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-la-puente/",
    "name": "La Puente Subwoofer & Amp Installation | LA Car Beats",
-   "description": "Subwoofer installation, subwoofer upgrades and amplifier installation for La Puente drivers at LA Car Beats, Audio MotorSports, Carson. Call (213) 429-1092.",
+   "description": "Subwoofer installation, subwoofer upgrades and amplifier installation for La Puente drivers at LA Car Beats, Audio MotorSports, Carson. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

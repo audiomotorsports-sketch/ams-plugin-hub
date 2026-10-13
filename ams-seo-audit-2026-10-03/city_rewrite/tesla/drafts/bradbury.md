@@ -5,7 +5,7 @@ miles: 34.4
 lead_service: Tesla window tint (Cybertruck)
 source: hub-mounted copy; standalone www host not verified
 title: Bradbury Cybertruck & Tesla Tint | Tesla Tint LA
-meta: Cybertruck, Model X and Tesla window tint for Bradbury owners: ceramic film at Audio MotorSports in Carson, 34.4 miles out. Call (213) 429-1092.
+meta: Cybertruck, Model X and Tesla window tint for Bradbury owners: ceramic film at Audio MotorSports in Carson, 34.4 miles out. Call (310) 513-8800.
 ---
 # Cybertruck and Tesla Window Tint for Bradbury
 
@@ -67,7 +67,7 @@ Cybertruck, Model X and every other Tesla are quoted by model at the shop; text 
 
 ## Book from Bradbury
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -78,7 +78,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-bradbury/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-bradbury/",
    "name": "Bradbury Cybertruck & Tesla Tint | Tesla Tint LA",
-   "description": "Cybertruck, Model X and Tesla window tint for Bradbury owners: ceramic film at Audio MotorSports in Carson, 34.4 miles out. Call (213) 429-1092.",
+   "description": "Cybertruck, Model X and Tesla window tint for Bradbury owners: ceramic film at Audio MotorSports in Carson, 34.4 miles out. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

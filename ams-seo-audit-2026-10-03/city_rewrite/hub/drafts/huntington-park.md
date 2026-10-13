@@ -4,7 +4,7 @@ city: Huntington Park
 miles: 10.9
 lead_service: car stereo & subwoofer installation
 title: Car Stereo Installation, Huntington Park | Audio MotorSports
-meta: Huntington Park car stereo installation, subwoofer and amp installs, CarPlay, tint and alarms at Audio MotorSports in Carson, 10.9 miles. (213) 429-1092.
+meta: Huntington Park car stereo installation, subwoofer and amp installs, CarPlay, tint and alarms at Audio MotorSports in Carson, 10.9 miles. (310) 513-8800.
 ---
 # Car Stereo and Subwoofer Installation for Huntington Park
 
@@ -61,7 +61,7 @@ Huntington Park sits beside [Walnut Park](/walnut-park/), [Florence-Firestone](/
 
 ## Book your Huntington Park audio install
 
-Call (213) 429-1092 or text (213) 429-1092 and tell us the car and the gear you have in mind. We are at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday through Saturday 9:30 AM to 6:00 PM and closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092 and tell us the car and the gear you have in mind. We are at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday through Saturday 9:30 AM to 6:00 PM and closed Sunday.
 
 ```json
 {
@@ -72,7 +72,7 @@ Call (213) 429-1092 or text (213) 429-1092 and tell us the car and the gear you 
    "@id": "https://www.audiomotorsports.com/huntington-park/#webpage",
    "url": "https://www.audiomotorsports.com/huntington-park/",
    "name": "Car Stereo Installation, Huntington Park | Audio MotorSports",
-   "description": "Huntington Park car stereo installation, subwoofer and amp installs, CarPlay, tint and alarms at Audio MotorSports in Carson, 10.9 miles. (213) 429-1092.",
+   "description": "Huntington Park car stereo installation, subwoofer and amp installs, CarPlay, tint and alarms at Audio MotorSports in Carson, 10.9 miles. (310) 513-8800.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

@@ -5,7 +5,7 @@ miles: 13.0
 lead_service: Window tint / ceramic window tint (LA Car Tint)
 source: hub-mounted copy; standalone www host not verified
 title: Santa Fe Springs Fleet & Car Window Tint | LA Car Tint
-meta: Window tint for Santa Fe Springs work vans, trucks and cars, installed by Audio MotorSports in Carson, 13 miles away. Call (213) 429-1092 to book a slot.
+meta: Window tint for Santa Fe Springs work vans, trucks and cars, installed by Audio MotorSports in Carson, 13 miles away. Call (310) 513-8800 to book a slot.
 ---
 # Window Tint for Santa Fe Springs Work Vans, Trucks and Cars
 
@@ -62,7 +62,7 @@ Sedan prices as of October 2026: Solar window tint $249 installed, Solar Ceramic
 
 ## Line up window tint for Santa Fe Springs vehicles
 
-Call (213) 429-1092 or text (213) 429-1092 with the vehicle list. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-6:00, closed on Sunday. Google: 4.8 from 654 reviews. Yelp: 4.7 from 777 reviews. Both as of October 2026.
+Call (310) 513-8800 or text (213) 429-1092 with the vehicle list. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-6:00, closed on Sunday. Google: 4.8 from 654 reviews. Yelp: 4.7 from 777 reviews. Both as of October 2026.
 
 ```json
 {
@@ -73,7 +73,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the vehicle list. Audio MotorSpo
    "@id": "https://www.audiomotorsports.com/tint/window-tint-santa-fe-springs/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-santa-fe-springs/",
    "name": "Santa Fe Springs Fleet & Car Window Tint | LA Car Tint",
-   "description": "Window tint for Santa Fe Springs work vans, trucks and cars, installed by Audio MotorSports in Carson, 13 miles away. Call (213) 429-1092 to book a slot.",
+   "description": "Window tint for Santa Fe Springs work vans, trucks and cars, installed by Audio MotorSports in Carson, 13 miles away. Call (310) 513-8800 to book a slot.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

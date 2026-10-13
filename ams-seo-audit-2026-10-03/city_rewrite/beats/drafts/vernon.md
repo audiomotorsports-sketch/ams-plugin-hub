@@ -6,7 +6,7 @@ lead_service: amplifier installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Vernon Amplifier & Car Stereo Install | LA Car Beats
-meta: Amplifier installation and car stereo installation for Vernon work trucks at LA Car Beats by Audio MotorSports in Carson, 12.1 miles. Call (213) 429-1092.
+meta: Amplifier installation and car stereo installation for Vernon work trucks at LA Car Beats by Audio MotorSports in Carson, 12.1 miles. Call (310) 513-8800.
 ---
 # Amplifier Installation for Vernon Trucks and Cars
 
@@ -22,7 +22,7 @@ Vernon drivers, many of them in work trucks and vans, get amplifier installation
 
 ## Vernon to Carson
 
-Vernon to the shop is about 12.1 miles, roughly 24 to 29 minutes outside rush hour (approx). The bay is open Monday through Saturday 9:30 to 6:00 and closed Sunday. Call (213) 429-1092 or text (213) 429-1092 to book. An amplifier installation with a new power run is best as a drop-off; a swap onto existing wiring can be waited on. People drive here from much farther than Vernon for this work, including from more than 100 miles out.
+Vernon to the shop is about 12.1 miles, roughly 24 to 29 minutes outside rush hour (approx). The bay is open Monday through Saturday 9:30 to 6:00 and closed Sunday. Call (310) 513-8800 or text (213) 429-1092 to book. An amplifier installation with a new power run is best as a drop-off; a swap onto existing wiring can be waited on. People drive here from much farther than Vernon for this work, including from more than 100 miles out.
 
 <!-- owner-details-2026-10-07 -->
 You can wait inside with free Wi-Fi, Netflix on the TV, seating, a restroom and a water fountain, or walk to the mall, a movie theater or a Starbucks nearby while the Vernon job is finished. The shop is LGBTQ-friendly and everyone from Vernon is welcome, as our Google and Yelp listings state. Coming from Vernon, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
@@ -65,7 +65,7 @@ Nearby car stereo installation pages:
 
 ## Book from Vernon
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -77,7 +77,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "name": "Vernon Amplifier & Car Stereo Install | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-vernon/",
    "dateModified": "2026-10-08",
-   "description": "Amplifier installation and car stereo installation for Vernon work trucks at LA Car Beats by Audio MotorSports in Carson, 12.1 miles. Call (213) 429-1092.",
+   "description": "Amplifier installation and car stereo installation for Vernon work trucks at LA Car Beats by Audio MotorSports in Carson, 12.1 miles. Call (310) 513-8800.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

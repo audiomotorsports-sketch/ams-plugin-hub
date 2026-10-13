@@ -4,7 +4,7 @@ city: Alhambra
 miles: 19.9
 lead_service: factory-look car stereo installation
 title: Alhambra Factory-Look Car Stereo Install | LA Car Beats
-meta: Factory-look car stereo installation, head unit installation and CarPlay for Alhambra drivers at LA Car Beats, Audio MotorSports, Carson. Call (213) 429-1092.
+meta: Factory-look car stereo installation, head unit installation and CarPlay for Alhambra drivers at LA Car Beats, Audio MotorSports, Carson. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Factory-Look Car Stereo Installation for Alhambra
@@ -65,7 +65,7 @@ LA Car Beats pages for cities around Alhambra:
 
 ## Book a factory-look install
 
-Call (213) 429-1092 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30 to 6:00; Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30 to 6:00; Sunday closed.
 
 ```json
 {
@@ -76,7 +76,7 @@ Call (213) 429-1092 or text (213) 429-1092. LA Car Beats by Audio MotorSports, 2
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-alhambra/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-alhambra/",
    "name": "Alhambra Factory-Look Car Stereo Install | LA Car Beats",
-   "description": "Factory-look car stereo installation, head unit installation and CarPlay for Alhambra drivers at LA Car Beats, Audio MotorSports, Carson. Call (213) 429-1092.",
+   "description": "Factory-look car stereo installation, head unit installation and CarPlay for Alhambra drivers at LA Car Beats, Audio MotorSports, Carson. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

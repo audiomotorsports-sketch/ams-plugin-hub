@@ -5,7 +5,7 @@ miles: 33.5
 lead_service: Tesla window tint (new-delivery tint)
 source: hub-mounted copy; standalone www host not verified
 title: New Tesla Delivery Tint for Irwindale | Tesla Tint LA
-meta: Just took delivery? Tesla window tint for Irwindale owners at Audio MotorSports in Carson, 33.5 miles away. Ceramic film on a new car. Call (213) 429-1092.
+meta: Just took delivery? Tesla window tint for Irwindale owners at Audio MotorSports in Carson, 33.5 miles away. Ceramic film on a new car. Call (310) 513-8800.
 ---
 # New-Delivery Tesla Window Tint for Irwindale Owners
 
@@ -68,7 +68,7 @@ Tesla window tint is quoted by model at the shop; text the model and we will sen
 
 ## Book the new car in
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -79,7 +79,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-irwindale/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-irwindale/",
    "name": "New Tesla Delivery Tint for Irwindale | Tesla Tint LA",
-   "description": "Just took delivery? Tesla window tint for Irwindale owners at Audio MotorSports in Carson, 33.5 miles away. Ceramic film on a new car. Call (213) 429-1092.",
+   "description": "Just took delivery? Tesla window tint for Irwindale owners at Audio MotorSports in Carson, 33.5 miles away. Ceramic film on a new car. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

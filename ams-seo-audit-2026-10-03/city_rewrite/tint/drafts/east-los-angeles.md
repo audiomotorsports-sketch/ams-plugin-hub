@@ -4,7 +4,7 @@ city: East Los Angeles
 miles: 14.5
 lead_service: window tint removal and replacement
 title: Window Tint East Los Angeles | LA Car Tint, Carson
-meta: Car window tint, old tint removal and ceramic film for East Los Angeles drivers, installed by Audio MotorSports in Carson, 14.5 miles away. Call (213) 429-1092.
+meta: Car window tint, old tint removal and ceramic film for East Los Angeles drivers, installed by Audio MotorSports in Carson, 14.5 miles away. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Window Tint and Tint Replacement for East Los Angeles, by Audio MotorSports, Carson
@@ -64,7 +64,7 @@ Solar window tint $249 installed and Solar Ceramic $329 installed, as of October
 
 ## Book it
 
-Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
+Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
 
 ```json
 {
@@ -75,7 +75,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-east-los-angeles/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-east-los-angeles/",
    "name": "Window Tint East Los Angeles | LA Car Tint, Carson",
-   "description": "Car window tint, old tint removal and ceramic film for East Los Angeles drivers, installed by Audio MotorSports in Carson, 14.5 miles away. Call (213) 429-1092.",
+   "description": "Car window tint, old tint removal and ceramic film for East Los Angeles drivers, installed by Audio MotorSports in Carson, 14.5 miles away. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

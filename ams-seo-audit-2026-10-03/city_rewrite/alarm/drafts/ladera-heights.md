@@ -4,7 +4,7 @@ city: Ladera Heights
 miles: 13.0
 lead_service: dash camera installation
 title: Dash Camera & Alarm Install, Ladera Heights | LA Car Alarm
-meta: Dash camera installation, Viper alarms and Compustar remote start for Ladera Heights drivers at LA Car Alarm by Audio MotorSports in Carson. (213) 429-1092.
+meta: Dash camera installation, Viper alarms and Compustar remote start for Ladera Heights drivers at LA Car Alarm by Audio MotorSports in Carson. (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Dash Camera Installation for Ladera Heights
@@ -69,7 +69,7 @@ Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Call or text us
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

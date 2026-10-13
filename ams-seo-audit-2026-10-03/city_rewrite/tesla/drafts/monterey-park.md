@@ -4,7 +4,7 @@ city: Monterey Park
 miles: 17.9
 lead_service: Tesla window tint (camera clearance)
 title: Monterey Park Tesla Window Tint | Tesla Tint LA
-meta: Monterey Park Tesla window tint that keeps every camera and sensor clear. Tesla Tint LA by Audio MotorSports in Carson, 17.9 miles. Call (213) 429-1092.
+meta: Monterey Park Tesla window tint that keeps every camera and sensor clear. Tesla Tint LA by Audio MotorSports in Carson, 17.9 miles. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla Window Tint in Monterey Park with Every Camera Left Clear
@@ -61,7 +61,7 @@ No flat Tesla number exists here, because each model gets its own quote at the s
 
 ## Book it
 
-Call (213) 429-1092 or text (213) 429-1092 to book. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 to book. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

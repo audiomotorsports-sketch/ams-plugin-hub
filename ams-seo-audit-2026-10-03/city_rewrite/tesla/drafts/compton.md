@@ -5,7 +5,7 @@ miles: 5.4
 lead_service: Tesla window tint (one-piece rear glass)
 source: hub-mounted copy; standalone www host not verified
 title: Compton Tesla Window Tint, 5 Miles | Tesla Tint LA
-meta: Tesla window tint for Compton owners, one-piece rear glass shaped right: ceramic film at Audio MotorSports in Carson, 5.4 miles away. Call (213) 429-1092.
+meta: Tesla window tint for Compton owners, one-piece rear glass shaped right: ceramic film at Audio MotorSports in Carson, 5.4 miles away. Call (310) 513-8800.
 ---
 # Tesla Window Tint for Compton, Rear Glass Done as One Piece
 
@@ -68,7 +68,7 @@ Every Tesla is quoted by model at the shop; text the year and model and Nick wil
 
 ## Book from Compton
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -79,7 +79,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-compton/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-compton/",
    "name": "Compton Tesla Window Tint, 5 Miles | Tesla Tint LA",
-   "description": "Tesla window tint for Compton owners, one-piece rear glass shaped right: ceramic film at Audio MotorSports in Carson, 5.4 miles away. Call (213) 429-1092.",
+   "description": "Tesla window tint for Compton owners, one-piece rear glass shaped right: ceramic film at Audio MotorSports in Carson, 5.4 miles away. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

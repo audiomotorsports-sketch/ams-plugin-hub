@@ -4,7 +4,7 @@ city: Diamond Bar
 miles: 28.1
 lead_service: Long-ride Harley bagger audio
 title: Harley Bagger Audio Diamond Bar | AMS Pods
-meta: Long-ride Harley bagger audio for Diamond Bar riders: AMS pods and amplifier tuning at AMS Pods by Audio MotorSports in Carson. (213) 429-1092.
+meta: Long-ride Harley bagger audio for Diamond Bar riders: AMS pods and amplifier tuning at AMS Pods by Audio MotorSports in Carson. (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Long-Ride Bagger Audio for Diamond Bar Harley Riders
@@ -65,7 +65,7 @@ Riders also come in from [Walnut](/amspods/bagger-audio-walnut/), [Brea](/amspod
 
 ## Book your long-ride system
 
-Call (213) 429-1092 or text (213) 429-1092 with your year and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with your year and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -76,7 +76,7 @@ Call (213) 429-1092 or text (213) 429-1092 with your year and model. Audio Motor
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-diamond-bar/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-diamond-bar/",
    "name": "Harley Bagger Audio Diamond Bar | AMS Pods",
-   "description": "Long-ride Harley bagger audio for Diamond Bar riders: AMS pods and amplifier tuning at AMS Pods by Audio MotorSports in Carson. (213) 429-1092.",
+   "description": "Long-ride Harley bagger audio for Diamond Bar riders: AMS pods and amplifier tuning at AMS Pods by Audio MotorSports in Carson. (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

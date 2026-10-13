@@ -4,7 +4,7 @@ city: Los Angeles
 miles: 15.6
 lead_service: car stereo installation
 title: Car Stereo Installation for Los Angeles | Audio MotorSports
-meta: Car stereo installation, subwoofer and amp installs, window tint and alarms for Los Angeles drivers at Audio MotorSports in Carson, 15.6 miles. (213) 429-1092.
+meta: Car stereo installation, subwoofer and amp installs, window tint and alarms for Los Angeles drivers at Audio MotorSports in Carson, 15.6 miles. (310) 513-8800.
 ---
 # Car Stereo Installation for Los Angeles Drivers
 
@@ -73,7 +73,7 @@ All current as of October 2026. Head units, amplifiers, speakers and labor for y
 
 ## Schedule your stereo install
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, and we are open Mon-Sat 9:30-18:00, closed Sunday. Drop off for the day or wait for a shorter job.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, and we are open Mon-Sat 9:30-18:00, closed Sunday. Drop off for the day or wait for a shorter job.
 
 ```json
 {
@@ -84,7 +84,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports is at 22025 S Aval
    "@id": "https://www.audiomotorsports.com/los-angeles/#webpage",
    "url": "https://www.audiomotorsports.com/los-angeles/",
    "name": "Car Stereo Installation for Los Angeles | Audio MotorSports",
-   "description": "Car stereo installation, subwoofer and amp installs, window tint and alarms for Los Angeles drivers at Audio MotorSports in Carson, 15.6 miles. (213) 429-1092.",
+   "description": "Car stereo installation, subwoofer and amp installs, window tint and alarms for Los Angeles drivers at Audio MotorSports in Carson, 15.6 miles. (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

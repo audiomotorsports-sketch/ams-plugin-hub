@@ -5,7 +5,7 @@ miles: 18.5
 lead_service: Tesla window tint (new delivery)
 source: hub-mounted copy; standalone www host not verified
 title: New Tesla Tint for Beverly Hills | Tesla Tint LA
-meta: Tesla window tint for Beverly Hills owners fresh from delivery: ceramic film hand-cut at Audio MotorSports in Carson, 18.5 miles away. Call (213) 429-1092.
+meta: Tesla window tint for Beverly Hills owners fresh from delivery: ceramic film hand-cut at Audio MotorSports in Carson, 18.5 miles away. Call (310) 513-8800.
 ---
 # Tesla Window Tint for Beverly Hills, Right After Delivery
 
@@ -67,7 +67,7 @@ New-delivery or not, each Tesla is quoted by model at the shop; text the year an
 
 ## Book from Beverly Hills
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -78,7 +78,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-beverly-hills/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-beverly-hills/",
    "name": "New Tesla Tint for Beverly Hills | Tesla Tint LA",
-   "description": "Tesla window tint for Beverly Hills owners fresh from delivery: ceramic film hand-cut at Audio MotorSports in Carson, 18.5 miles away. Call (213) 429-1092.",
+   "description": "Tesla window tint for Beverly Hills owners fresh from delivery: ceramic film hand-cut at Audio MotorSports in Carson, 18.5 miles away. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

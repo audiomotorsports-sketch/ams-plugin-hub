@@ -5,7 +5,7 @@ city: Compton
 miles: 5.4
 lead_service: Harley bagger audio wiring inside the fairing (AMS pods)
 title: Compton Harley Bagger Audio | AMS Pods by Audio MotorSports
-meta: Bagger audio installation for Compton riders at Audio MotorSports in Carson, 5.4 miles away. AMS pods wired clean inside the fairing. Call (213) 429-1092.
+meta: Bagger audio installation for Compton riders at Audio MotorSports in Carson, 5.4 miles away. AMS pods wired clean inside the fairing. Call (310) 513-8800.
 ---
 # Bagger Audio Installation for Compton Riders: Wired Right Inside the Fairing
 
@@ -66,7 +66,7 @@ AMS lower-fairing pods start at $649 a pair, as of October 2026. Amplifier insta
 
 ## Call or text to book
 
-(213) 429-1092 by phone, (213) 429-1092 by text. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday, 9:30 AM to 6:00 PM, closed Sunday.
+(310) 513-8800 by phone, (213) 429-1092 by text. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday, 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {

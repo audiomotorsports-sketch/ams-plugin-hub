@@ -5,7 +5,7 @@ miles: 5.4
 lead_service: car window tint (glare angle)
 source: hub-mounted copy; standalone www host not verified
 title: Compton Window Tint | LA Car Tint by Audio MotorSports
-meta: Window tinting and ceramic window tint for Compton drivers, done indoors at Audio MotorSports in Carson, 5.4 miles away. Call (213) 429-1092 to book a slot.
+meta: Window tinting and ceramic window tint for Compton drivers, done indoors at Audio MotorSports in Carson, 5.4 miles away. Call (310) 513-8800 to book a slot.
 ---
 # Window Tinting for Compton: Less Glare, Cooler Cabin
 
@@ -61,7 +61,7 @@ For car stereo installation, subwoofer installation, Apple CarPlay and Android A
 
 ## Set up a Compton tint appointment
 
-Text (213) 429-1092 or call (213) 429-1092 with your vehicle and the shade you have in mind; the bay is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Monday through Saturday from 9:30 to 6:00.
+Text (213) 429-1092 or call (310) 513-8800 with your vehicle and the shade you have in mind; the bay is at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Monday through Saturday from 9:30 to 6:00.
 
 ```json
 {
@@ -72,7 +72,7 @@ Text (213) 429-1092 or call (213) 429-1092 with your vehicle and the shade you h
       "@id": "https://www.audiomotorsports.com/tint/window-tint-compton/#webpage",
       "url": "https://www.audiomotorsports.com/tint/window-tint-compton/",
       "name": "Compton Window Tint | LA Car Tint by Audio MotorSports",
-      "description": "Window tinting and ceramic window tint for Compton drivers, done indoors at Audio MotorSports in Carson, 5.4 miles away. Call (213) 429-1092 to book a slot.",
+      "description": "Window tinting and ceramic window tint for Compton drivers, done indoors at Audio MotorSports in Carson, 5.4 miles away. Call (310) 513-8800 to book a slot.",
       "dateModified": "2026-10-08",
       "about": {
         "@id": "https://www.audiomotorsports.com/#business"

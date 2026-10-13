@@ -6,7 +6,7 @@ lead_service: head unit installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Head Unit Installation for Maywood | LA Car Beats
-meta: Head unit installation and Apple CarPlay for Maywood drivers at LA Car Beats by Audio MotorSports in Carson, 11.9 miles away. Call (213) 429-1092 to schedule.
+meta: Head unit installation and Apple CarPlay for Maywood drivers at LA Car Beats by Audio MotorSports in Carson, 11.9 miles away. Call (310) 513-8800 to schedule.
 ---
 # Head Unit Installation for Maywood Drivers
 
@@ -22,7 +22,7 @@ Maywood drivers replace a dead or dated factory radio at LA Car Beats by Audio M
 
 ## Maywood to the Carson bay
 
-Maywood sits about 11.9 miles from the shop, roughly 24 to 29 minutes outside rush hour (approx). Hours are Monday through Saturday 9:30 to 6:00, closed Sunday. Set an appointment at (213) 429-1092 or by text at (213) 429-1092. A head unit installation on its own is usually a waiting area inside wait; add speakers or a sub and it becomes a morning drop-off. We have had customers make the trip from Temecula, so Maywood is close by comparison.
+Maywood sits about 11.9 miles from the shop, roughly 24 to 29 minutes outside rush hour (approx). Hours are Monday through Saturday 9:30 to 6:00, closed Sunday. Set an appointment at (310) 513-8800 or by text at (213) 429-1092. A head unit installation on its own is usually a waiting area inside wait; add speakers or a sub and it becomes a morning drop-off. We have had customers make the trip from Temecula, so Maywood is close by comparison.
 
 <!-- owner-details-2026-10-07 -->
 If you would rather wait inside than make two trips from Maywood, the shop has seating, a TV with Netflix, free Wi-Fi, a restroom and a water fountain. Everyone is welcome; we are an LGBTQ-friendly shop and say so on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Maywood traffic sends you.
@@ -65,7 +65,7 @@ Nearby car stereo installation pages:
 
 ## Schedule from Maywood
 
-Call (213) 429-1092 or text (213) 429-1092 and tell us the year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 and tell us the year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -77,7 +77,7 @@ Call (213) 429-1092 or text (213) 429-1092 and tell us the year, make and model.
    "name": "Head Unit Installation for Maywood | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-maywood/",
    "dateModified": "2026-10-08",
-   "description": "Head unit installation and Apple CarPlay for Maywood drivers at LA Car Beats by Audio MotorSports in Carson, 11.9 miles away. Call (213) 429-1092 to schedule.",
+   "description": "Head unit installation and Apple CarPlay for Maywood drivers at LA Car Beats by Audio MotorSports in Carson, 11.9 miles away. Call (310) 513-8800 to schedule.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

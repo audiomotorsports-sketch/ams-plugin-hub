@@ -4,7 +4,7 @@ city: Northridge
 miles: 32.2
 lead_service: Apple CarPlay and Android Auto installation
 title: CarPlay & Android Auto, Northridge | Audio MotorSports
-meta: Northridge Apple CarPlay and Android Auto installation, car stereo, window tint and alarms at Audio MotorSports in Carson, 32.2 miles. Call (213) 429-1092.
+meta: Northridge Apple CarPlay and Android Auto installation, car stereo, window tint and alarms at Audio MotorSports in Carson, 32.2 miles. Call (310) 513-8800.
 ---
 # Apple CarPlay and Android Auto Installation for Northridge
 
@@ -61,7 +61,7 @@ Northridge neighbors who drive to the same shop: [Granada Hills](/granada-hills/
 
 ## Book Northridge CarPlay installation
 
-Call (213) 429-1092 or text (213) 429-1092 with the car. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday to Saturday 9:30 AM to 6:00 PM, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092 with the car. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday to Saturday 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -72,7 +72,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the car. Audio MotorSports, 2202
    "@id": "https://www.audiomotorsports.com/northridge/#webpage",
    "url": "https://www.audiomotorsports.com/northridge/",
    "name": "CarPlay & Android Auto Installs, Northridge | Audio MotorSports",
-   "description": "Northridge Apple CarPlay and Android Auto installation, car stereo, window tint and alarm installs at Audio MotorSports in Carson, 32.2 miles away. Call (213) 429-1092 to book.",
+   "description": "Northridge Apple CarPlay and Android Auto installation, car stereo, window tint and alarm installs at Audio MotorSports in Carson, 32.2 miles away. Call (310) 513-8800 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

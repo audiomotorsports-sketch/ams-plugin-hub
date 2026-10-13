@@ -4,7 +4,7 @@ city: Gardena
 miles: 4.9
 lead_service: Apple CarPlay and Android Auto installation
 title: CarPlay Installation & Tint, Gardena | Audio MotorSports
-meta: Apple CarPlay and Android Auto installation, car window tint, car stereo and alarm installs for Gardena drivers. Audio MotorSports, Carson. Call (213) 429-1092.
+meta: Apple CarPlay and Android Auto installation, car window tint, car stereo and alarm installs for Gardena drivers. Audio MotorSports, Carson. Call (310) 513-8800.
 ---
 # Apple CarPlay and Android Auto Installation for Gardena
 
@@ -27,7 +27,7 @@ Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a w
 
 ## Getting here from Gardena
 
-Gardena sits about 4.9 miles from the shop, which works out to roughly 10-12 minutes (approx) when traffic is light. Hours are Monday through Saturday, 9:30 AM to 6:00 PM, closed Sunday. Book a time first, then drop the car off or wait in the shop while the work gets done. Call (213) 429-1092 or text (213) 429-1092 with your year, make and model to set it up. Gardena drivers can check the record before they come: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
+Gardena sits about 4.9 miles from the shop, which works out to roughly 10-12 minutes (approx) when traffic is light. Hours are Monday through Saturday, 9:30 AM to 6:00 PM, closed Sunday. Book a time first, then drop the car off or wait in the shop while the work gets done. Call (310) 513-8800 or text (213) 429-1092 with your year, make and model to set it up. Gardena drivers can check the record before they come: Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 [SHOP NOTE: 2-3 sentences from Nick about Gardena customers, routes or jobs]
 
@@ -74,7 +74,7 @@ CarPlay head unit installation, amplifier installation, dash cams and GPS tracke
 
 ## Book your Gardena CarPlay or tint appointment
 
-Call (213) 429-1092 to book. Text (213) 429-1092 with your vehicle. Find the bay at 22025 S Avalon Blvd Ste A in Carson, 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 to book. Text (213) 429-1092 with your vehicle. Find the bay at 22025 S Avalon Blvd Ste A in Carson, 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

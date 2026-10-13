@@ -4,7 +4,7 @@ city: Ladera Heights
 miles: 13.0
 lead_service: Apple CarPlay and Android Auto installation
 title: Ladera Heights CarPlay & Android Auto | LA Car Beats
-meta: Apple CarPlay and Android Auto installation for Ladera Heights drivers at LA Car Beats by Audio MotorSports in Carson. Factory look kept. Call (213) 429-1092.
+meta: Apple CarPlay and Android Auto installation for Ladera Heights drivers at LA Car Beats by Audio MotorSports in Carson. Factory look kept. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Apple CarPlay and Android Auto Installation for Ladera Heights
@@ -65,7 +65,7 @@ Other LA Car Beats pages near Ladera Heights:
 
 ## Book CarPlay installation
 
-Phone (213) 429-1092 or text (213) 429-1092 to schedule. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday-Saturday 9:30-18:00; closed Sunday.
+Phone (310) 513-8800 or text (213) 429-1092 to schedule. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday-Saturday 9:30-18:00; closed Sunday.
 
 ```json
 {
@@ -76,7 +76,7 @@ Phone (213) 429-1092 or text (213) 429-1092 to schedule. LA Car Beats by Audio M
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-ladera-heights/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-ladera-heights/",
    "name": "Ladera Heights CarPlay & Android Auto | LA Car Beats",
-   "description": "Apple CarPlay and Android Auto installation for Ladera Heights drivers at LA Car Beats by Audio MotorSports in Carson. Factory look kept. Call (213) 429-1092.",
+   "description": "Apple CarPlay and Android Auto installation for Ladera Heights drivers at LA Car Beats by Audio MotorSports in Carson. Factory look kept. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

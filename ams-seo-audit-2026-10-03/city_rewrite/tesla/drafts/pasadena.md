@@ -4,7 +4,7 @@ city: Pasadena
 miles: 28.6
 lead_service: Tesla window tint (Cybertruck)
 title: Pasadena Cybertruck & Tesla Tint | Tesla Tint LA, Carson
-meta: Cybertruck, Model 3, Model Y, S and X window tint for Pasadena owners at Tesla Tint LA by Audio MotorSports in Carson, 28.6 miles away. Call (213) 429-1092.
+meta: Cybertruck, Model 3, Model Y, S and X window tint for Pasadena owners at Tesla Tint LA by Audio MotorSports in Carson, 28.6 miles away. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Cybertruck and Tesla Window Tint for Pasadena Owners
@@ -60,7 +60,7 @@ Cybertruck tint, and every other Tesla model, is quoted by model at the shop. Fo
 
 ## Book the Cybertruck
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

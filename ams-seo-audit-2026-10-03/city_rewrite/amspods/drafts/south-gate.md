@@ -4,7 +4,7 @@ city: South Gate
 miles: 9.3
 lead_service: Harley amplifier installation and tuning
 title: South Gate Harley Amplifier Installation | AMS Pods
-meta: Harley amplifier installation and tuning for South Gate bagger riders, plus AMS lower-fairing pods, at Audio MotorSports in Carson. Call (213) 429-1092.
+meta: Harley amplifier installation and tuning for South Gate bagger riders, plus AMS lower-fairing pods, at Audio MotorSports in Carson. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Harley Amplifier Installation and Tuning for South Gate
@@ -50,7 +50,7 @@ In a saddlebag, mounted on a carpeted board, with an AMS quick disconnect so the
 
 ### Can I wait at the shop while the amplifier goes in?
 
-For an amp-and-pods install, usually yes. A full system with a head unit, tank pull and bag-lid work can take the bike for longer, and Nick will tell you which it is when you book at (213) 429-1092.
+For an amp-and-pods install, usually yes. A full system with a head unit, tank pull and bag-lid work can take the bike for longer, and Nick will tell you which it is when you book at (310) 513-8800.
 
 ## Prices as of October 2026
 
@@ -65,7 +65,7 @@ Other AMS Pods pages nearby: [Lynwood](/amspods/bagger-audio-lynwood/), [Bell](/
 
 ## Call from South Gate
 
-(213) 429-1092 voice, (213) 429-1092 text. 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+(310) 513-8800 voice, (213) 429-1092 text. 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -76,7 +76,7 @@ Other AMS Pods pages nearby: [Lynwood](/amspods/bagger-audio-lynwood/), [Bell](/
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-south-gate/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-south-gate/",
    "name": "South Gate Harley Amplifier Installation | AMS Pods",
-   "description": "Harley amplifier installation and tuning for South Gate bagger riders, plus AMS lower-fairing pods, at Audio MotorSports in Carson. Call (213) 429-1092.",
+   "description": "Harley amplifier installation and tuning for South Gate bagger riders, plus AMS lower-fairing pods, at Audio MotorSports in Carson. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -147,7 +147,7 @@ Other AMS Pods pages nearby: [Lynwood](/amspods/bagger-audio-lynwood/), [Bell](/
      "name": "Can I wait at the shop while the amplifier goes in?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "For an amp-and-pods install, usually yes. A full system with a head unit, tank pull and bag-lid work can take the bike for longer, and Nick will tell you which it is when you book at (213) 429-1092."
+      "text": "For an amp-and-pods install, usually yes. A full system with a head unit, tank pull and bag-lid work can take the bike for longer, and Nick will tell you which it is when you book at (310) 513-8800."
      }
     }
    ]

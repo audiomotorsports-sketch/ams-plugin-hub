@@ -6,7 +6,7 @@ lead_service: car stereo installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: San Gabriel Car Stereo Installation | LA Car Beats
-meta: Car stereo installation and head unit installation for San Gabriel drivers at LA Car Beats by Audio MotorSports in Carson, 20.4 miles away. Call (213) 429-1092.
+meta: Car stereo installation and head unit installation for San Gabriel drivers at LA Car Beats by Audio MotorSports in Carson, 20.4 miles away. Call (310) 513-8800.
 ---
 # Car Stereo Installation for San Gabriel
 
@@ -22,7 +22,7 @@ San Gabriel drivers get car stereo installation at LA Car Beats by Audio MotorSp
 
 ## From San Gabriel to Carson
 
-San Gabriel is about 20.4 miles from the shop, roughly 41 to 49 minutes with normal traffic (approx). Hours are Monday through Saturday from 9:30 to 6:00; closed Sunday. Schedule at (213) 429-1092 or by text at (213) 429-1092. Most San Gabriel drivers wait for a head unit installation and drop off anything that includes speakers or a sub. We have had calls from as far away as San Jose, so San Gabriel is close by comparison. [SHOP NOTE: 2-3 sentences from Nick about San Gabriel customers, routes or jobs]
+San Gabriel is about 20.4 miles from the shop, roughly 41 to 49 minutes with normal traffic (approx). Hours are Monday through Saturday from 9:30 to 6:00; closed Sunday. Schedule at (310) 513-8800 or by text at (213) 429-1092. Most San Gabriel drivers wait for a head unit installation and drop off anything that includes speakers or a sub. We have had calls from as far away as San Jose, so San Gabriel is close by comparison. [SHOP NOTE: 2-3 sentences from Nick about San Gabriel customers, routes or jobs]
 
 <!-- owner-details-2026-10-07 -->
 Plenty of San Gabriel drivers wait inside; there is seating, a TV with Netflix, free Wi-Fi and a restroom, and if you want to stretch your legs a mall, coffee shops and restaurants are a short walk away. We are LGBTQ-friendly and everyone is welcome; it is on our Google and Yelp pages and it is how the shop runs. From San Gabriel you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd.
@@ -59,7 +59,7 @@ Related car stereo installation pages: [Alhambra](/beats/car-stereo-alhambra/) Â
 
 ## Book car stereo installation from San Gabriel
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30-18:00, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -71,7 +71,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "name": "San Gabriel Car Stereo Installation | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-san-gabriel/",
    "dateModified": "2026-10-08",
-   "description": "Car stereo installation and head unit installation for San Gabriel drivers at LA Car Beats by Audio MotorSports in Carson, 20.4 miles away. Call (213) 429-1092.",
+   "description": "Car stereo installation and head unit installation for San Gabriel drivers at LA Car Beats by Audio MotorSports in Carson, 20.4 miles away. Call (310) 513-8800.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

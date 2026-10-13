@@ -4,7 +4,7 @@ city: Playa Vista
 miles: 13.5
 lead_service: Tesla window tint (new-delivery tint)
 title: Playa Vista Tesla Window Tint | Tesla Tint LA, Carson
-meta: New Tesla? Tint it first. Tesla window tint for Playa Vista at Tesla Tint LA by Audio MotorSports in Carson, 13.5 miles. Ceramic film. Call (213) 429-1092.
+meta: New Tesla? Tint it first. Tesla window tint for Playa Vista at Tesla Tint LA by Audio MotorSports in Carson, 13.5 miles. Ceramic film. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla Window Tint for Playa Vista: First Stop After Delivery
@@ -60,7 +60,7 @@ A new Tesla is quoted by model at the shop once Nick has looked it over. For a n
 
 ## Book the new car
 
-Call (213) 429-1092 or text (213) 429-1092 with the model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with the model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

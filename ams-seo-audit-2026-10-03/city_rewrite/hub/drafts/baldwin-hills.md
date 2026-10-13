@@ -4,7 +4,7 @@ city: Baldwin Hills
 miles: 13.3
 lead_service: Apple CarPlay / Android Auto
 title: CarPlay & Android Auto for Baldwin Hills | Audio MotorSports
-meta: Apple CarPlay and Android Auto installation, car audio, window tint and alarms for Baldwin Hills at Audio MotorSports, Carson, 13.3 miles. Call (213) 429-1092.
+meta: Apple CarPlay and Android Auto installation, car audio, window tint and alarms for Baldwin Hills at Audio MotorSports, Carson, 13.3 miles. Call (310) 513-8800.
 ---
 # Apple CarPlay & Android Auto Installs for Baldwin Hills
 
@@ -41,7 +41,7 @@ Yes. A steering-wheel control interface translates the factory buttons to the ne
 
 ### How long is the trip from Baldwin Hills for a head unit install?
 
-Baldwin Hills to Audio MotorSports is 13.3 miles, roughly twenty-seven to thirty-two minutes outside rush hour. Book first by calling (213) 429-1092 or texting (213) 429-1092, then drop the car or wait at the shop. A standard CarPlay install is a two-to-three-hour job.
+Baldwin Hills to Audio MotorSports is 13.3 miles, roughly twenty-seven to thirty-two minutes outside rush hour. Book first by calling (310) 513-8800 or texting (213) 429-1092, then drop the car or wait at the shop. A standard CarPlay install is a two-to-three-hour job.
 
 ### Will Android Auto work on the same unit as Apple CarPlay?
 
@@ -71,7 +71,7 @@ Head units, interfaces, speakers and amplifiers are quoted at the shop by vehicl
 
 ## Call, text, come in
 
-(213) 429-1092 to call, (213) 429-1092 to text. Audio MotorSports at 22025 S Avalon Blvd Ste A, Carson, CA 90745 is open Mon-Sat 9:30-18:00, closed Sunday. Schedule, then drop off or wait.
+(310) 513-8800 to call, (213) 429-1092 to text. Audio MotorSports at 22025 S Avalon Blvd Ste A, Carson, CA 90745 is open Mon-Sat 9:30-18:00, closed Sunday. Schedule, then drop off or wait.
 
 ```json
 {
@@ -82,7 +82,7 @@ Head units, interfaces, speakers and amplifiers are quoted at the shop by vehicl
    "@id": "https://www.audiomotorsports.com/baldwin-hills/#webpage",
    "url": "https://www.audiomotorsports.com/baldwin-hills/",
    "name": "CarPlay & Android Auto for Baldwin Hills | Audio MotorSports",
-   "description": "Apple CarPlay and Android Auto installation, car audio, window tint and alarms for Baldwin Hills at Audio MotorSports, Carson, 13.3 miles. Call (213) 429-1092.",
+   "description": "Apple CarPlay and Android Auto installation, car audio, window tint and alarms for Baldwin Hills at Audio MotorSports, Carson, 13.3 miles. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -140,7 +140,7 @@ Head units, interfaces, speakers and amplifiers are quoted at the shop by vehicl
      "name": "How long is the trip from Baldwin Hills for a head unit install?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Baldwin Hills to Audio MotorSports is 13.3 miles, roughly twenty-seven to thirty-two minutes outside rush hour. Book first by calling (213) 429-1092 or texting (213) 429-1092, then drop the car or wait at the shop. A standard CarPlay install is a two-to-three-hour job."
+      "text": "Baldwin Hills to Audio MotorSports is 13.3 miles, roughly twenty-seven to thirty-two minutes outside rush hour. Book first by calling (310) 513-8800 or texting (213) 429-1092, then drop the car or wait at the shop. A standard CarPlay install is a two-to-three-hour job."
      }
     },
     {

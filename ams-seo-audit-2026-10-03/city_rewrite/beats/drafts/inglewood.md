@@ -4,7 +4,7 @@ city: Inglewood
 miles: 10.6
 lead_service: speaker replacement
 title: Inglewood Speaker Replacement & Stereo | LA Car Beats
-meta: Speaker replacement and speaker installation for Inglewood drivers, plus car stereo and subwoofer installs, at Audio MotorSports in Carson. Call (213) 429-1092.
+meta: Speaker replacement and speaker installation for Inglewood drivers, plus car stereo and subwoofer installs, at Audio MotorSports in Carson. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Speaker Replacement and Car Stereo Installation for Inglewood
@@ -66,7 +66,7 @@ Nearby LA Car Beats pages:
 
 ## Book speaker replacement
 
-Call (213) 429-1092 or text (213) 429-1092 with your year, make and model to get a speaker quote. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Monday-Saturday 9:30-18:00, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092 with your year, make and model to get a speaker quote. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Monday-Saturday 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -77,7 +77,7 @@ Call (213) 429-1092 or text (213) 429-1092 with your year, make and model to get
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-inglewood/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-inglewood/",
    "name": "Inglewood Speaker Replacement & Stereo | LA Car Beats",
-   "description": "Speaker replacement and speaker installation for Inglewood drivers, plus car stereo and subwoofer installs, at Audio MotorSports in Carson. Call (213) 429-1092.",
+   "description": "Speaker replacement and speaker installation for Inglewood drivers, plus car stereo and subwoofer installs, at Audio MotorSports in Carson. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

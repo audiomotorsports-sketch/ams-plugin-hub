@@ -6,7 +6,7 @@ lead_service: subwoofer installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Subwoofer Installation for Signal Hill | LA Car Beats
-meta: Subwoofer installation and amplifier installation for Signal Hill drivers at LA Car Beats by Audio MotorSports in Carson, 5.8 miles away. Call (213) 429-1092.
+meta: Subwoofer installation and amplifier installation for Signal Hill drivers at LA Car Beats by Audio MotorSports in Carson, 5.8 miles away. Call (310) 513-8800.
 ---
 # Subwoofer Installation for Signal Hill
 
@@ -22,7 +22,7 @@ Signal Hill drivers who want bass that is tight instead of boomy bring the car t
 
 ## The drive from Signal Hill
 
-From Signal Hill to the Carson shop is about 5.8 miles, roughly 12 to 14 minutes outside rush hour (approx). We are open Monday through Saturday from 9:30 to 6:00 and closed Sunday. Reserve a time by calling (213) 429-1092 or texting (213) 429-1092; a sub and amp install is usually a morning drop-off, while a box-only hookup can be waited on. [SHOP NOTE: 2-3 sentences from Nick about Signal Hill customers, routes or jobs]
+From Signal Hill to the Carson shop is about 5.8 miles, roughly 12 to 14 minutes outside rush hour (approx). We are open Monday through Saturday from 9:30 to 6:00 and closed Sunday. Reserve a time by calling (310) 513-8800 or texting (213) 429-1092; a sub and amp install is usually a morning drop-off, while a box-only hookup can be waited on. [SHOP NOTE: 2-3 sentences from Nick about Signal Hill customers, routes or jobs]
 
 <!-- owner-details-2026-10-07 -->
 Wait inside (seating, Netflix, free Wi-Fi, restroom, water fountain) or take a walk: restaurants, coffee shops, a Starbucks, a mall and movie theaters are all within walking distance, which Signal Hill customers tell us makes the drop-off painless. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. Three freeways lead here: we are right off the 110, and the 405 and 710 drop you close by, whichever way Signal Hill traffic sends you.
@@ -64,7 +64,7 @@ Car stereo installation pages for Signal Hill's neighbors:
 
 ## Book your Signal Hill sub install
 
-Call (213) 429-1092 or text (213) 429-1092 and tell us the car and what you want from the bass. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 and tell us the car and what you want from the bass. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -76,7 +76,7 @@ Call (213) 429-1092 or text (213) 429-1092 and tell us the car and what you want
    "name": "Subwoofer Installation for Signal Hill | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-signal-hill/",
    "dateModified": "2026-10-08",
-   "description": "Subwoofer installation and amplifier installation for Signal Hill drivers at LA Car Beats by Audio MotorSports in Carson, 5.8 miles away. Call (213) 429-1092.",
+   "description": "Subwoofer installation and amplifier installation for Signal Hill drivers at LA Car Beats by Audio MotorSports in Carson, 5.8 miles away. Call (310) 513-8800.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

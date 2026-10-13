@@ -4,7 +4,7 @@ city: Buena Park
 miles: 15.4
 lead_service: car window tint
 title: Car Window Tint Buena Park | LA Car Tint, Carson
-meta: Car window tint for Buena Park minivans, SUVs and sedans, Solar and ceramic film cut on the glass at Audio MotorSports, Carson, 15.4 miles. Call (213) 429-1092.
+meta: Car window tint for Buena Park minivans, SUVs and sedans, Solar and ceramic film cut on the glass at Audio MotorSports, Carson, 15.4 miles. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Window Tint for Buena Park Drivers, by Audio MotorSports, Carson
@@ -65,7 +65,7 @@ Solar window tint $249 installed and Solar Ceramic $329 installed, as of October
 
 ## Book it
 
-Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
+Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
 
 ```json
 {
@@ -76,7 +76,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-buena-park/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-buena-park/",
    "name": "Car Window Tint Buena Park | LA Car Tint, Carson",
-   "description": "Car window tint for Buena Park minivans, SUVs and sedans, Solar and ceramic film cut on the glass at Audio MotorSports, Carson, 15.4 miles. Call (213) 429-1092.",
+   "description": "Car window tint for Buena Park minivans, SUVs and sedans, Solar and ceramic film cut on the glass at Audio MotorSports, Carson, 15.4 miles. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

@@ -4,7 +4,7 @@ city: Fullerton
 miles: 19.7
 lead_service: alarm & remote start
 title: Car Alarm & Remote Start for Fullerton | Audio MotorSports
-meta: Car alarm installation, remote start installation and window tint for Fullerton drivers at Audio MotorSports in Carson, 19.7 miles. Call (213) 429-1092.
+meta: Car alarm installation, remote start installation and window tint for Fullerton drivers at Audio MotorSports in Carson, 19.7 miles. Call (310) 513-8800.
 ---
 # Remote Start and Car Alarm Installation for Fullerton
 
@@ -67,7 +67,7 @@ We also wrote pages for the cities around Fullerton:
 
 ## Schedule from Fullerton
 
-Call (213) 429-1092 or text (213) 429-1092 with the vehicle's year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open 9:30 AM to 6:00 PM Monday through Saturday, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092 with the vehicle's year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open 9:30 AM to 6:00 PM Monday through Saturday, closed Sunday.
 
 ```json
 {
@@ -78,7 +78,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the vehicle's year, make and mod
    "@id": "https://www.audiomotorsports.com/fullerton/#webpage",
    "url": "https://www.audiomotorsports.com/fullerton/",
    "name": "Car Alarm & Remote Start for Fullerton | Audio MotorSports",
-   "description": "Car alarm installation, remote start installation and window tint for Fullerton drivers at Audio MotorSports in Carson, 19.7 miles. Call (213) 429-1092.",
+   "description": "Car alarm installation, remote start installation and window tint for Fullerton drivers at Audio MotorSports in Carson, 19.7 miles. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

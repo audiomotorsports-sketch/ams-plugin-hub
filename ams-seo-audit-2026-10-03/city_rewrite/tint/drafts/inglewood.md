@@ -5,7 +5,7 @@ miles: 10.6
 lead_service: fleet and work-vehicle window tint
 source: hub-mounted copy; standalone www host not verified
 title: Inglewood Window Tint | LA Car Tint by Audio MotorSports
-meta: Fleet, work van and car window tint for Inglewood, installed at Audio MotorSports in Carson, 10.6 miles away. Ceramic available. Call (213) 429-1092.
+meta: Fleet, work van and car window tint for Inglewood, installed at Audio MotorSports in Carson, 10.6 miles away. Ceramic available. Call (310) 513-8800.
 ---
 # Window Tinting for Inglewood Fleets and Daily Drivers
 
@@ -44,7 +44,7 @@ If the vehicle sits in the sun or is driven for hours at a time, yes. Regular fi
 
 ### How do I schedule a tint appointment from Inglewood?
 
-Call (213) 429-1092 or text (213) 429-1092 with the vehicle and the number of windows you want done. We will set a time; on the day you can wait at the shop or drop the vehicle and collect it later. Sedans take a couple of hours, vans and SUVs longer.
+Call (310) 513-8800 or text (213) 429-1092 with the vehicle and the number of windows you want done. We will set a time; on the day you can wait at the shop or drop the vehicle and collect it later. Sedans take a couple of hours, vans and SUVs longer.
 
 ## Inglewood window tint pricing
 
@@ -61,7 +61,7 @@ GPS tracker installation and dash camera installation for fleets, plus car alarm
 
 ## Book from Inglewood
 
-Call (213) 429-1092 or text (213) 429-1092, then drive to Audio MotorSports at 22025 S Avalon Blvd Ste A, Carson, CA 90745, during shop hours of Mon-Sat 9:30 to 6:00 (closed Sunday).
+Call (310) 513-8800 or text (213) 429-1092, then drive to Audio MotorSports at 22025 S Avalon Blvd Ste A, Carson, CA 90745, during shop hours of Mon-Sat 9:30 to 6:00 (closed Sunday).
 
 ```json
 {
@@ -72,7 +72,7 @@ Call (213) 429-1092 or text (213) 429-1092, then drive to Audio MotorSports at 2
       "@id": "https://www.audiomotorsports.com/tint/window-tint-inglewood/#webpage",
       "url": "https://www.audiomotorsports.com/tint/window-tint-inglewood/",
       "name": "Inglewood Window Tint | LA Car Tint by Audio MotorSports",
-      "description": "Fleet, work van and car window tint for Inglewood, installed at Audio MotorSports in Carson, 10.6 miles away. Ceramic available. Call (213) 429-1092.",
+      "description": "Fleet, work van and car window tint for Inglewood, installed at Audio MotorSports in Carson, 10.6 miles away. Ceramic available. Call (310) 513-8800.",
       "dateModified": "2026-10-08",
       "about": {
         "@id": "https://www.audiomotorsports.com/#business"
@@ -146,7 +146,7 @@ Call (213) 429-1092 or text (213) 429-1092, then drive to Audio MotorSports at 2
           "name": "How do I schedule a tint appointment from Inglewood?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Call (213) 429-1092 or text (213) 429-1092 with the vehicle and the number of windows you want done. We will set a time; on the day you can wait at the shop or drop the vehicle and collect it later. Sedans take a couple of hours, vans and SUVs longer."
+            "text": "Call (310) 513-8800 or text (213) 429-1092 with the vehicle and the number of windows you want done. We will set a time; on the day you can wait at the shop or drop the vehicle and collect it later. Sedans take a couple of hours, vans and SUVs longer."
           }
         }
       ]

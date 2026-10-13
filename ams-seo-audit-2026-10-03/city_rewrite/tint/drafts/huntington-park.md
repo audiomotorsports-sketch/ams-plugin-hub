@@ -5,7 +5,7 @@ miles: 10.9
 lead_service: ceramic window tint (ceramic vs standard angle)
 source: hub-mounted copy; standalone www host not verified
 title: Huntington Park Window Tint | LA Car Tint, Audio MotorSports
-meta: Ceramic vs standard window tint explained for Huntington Park drivers. Installed by Audio MotorSports in Carson, 10.9 miles away. Call (213) 429-1092.
+meta: Ceramic vs standard window tint explained for Huntington Park drivers. Installed by Audio MotorSports in Carson, 10.9 miles away. Call (310) 513-8800.
 ---
 # Ceramic Window Tint for Huntington Park: Which Film to Pick
 
@@ -61,7 +61,7 @@ The main [Huntington Park](/huntington-park/), [Bell](/bell/) and [Maywood](/may
 
 ## Book from Huntington Park
 
-Call (213) 429-1092 or text (213) 429-1092 and tell us whether you want Solar or Solar Ceramic; we are at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-6:00 and closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092 and tell us whether you want Solar or Solar Ceramic; we are at 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-6:00 and closed Sunday.
 
 ```json
 {
@@ -72,7 +72,7 @@ Call (213) 429-1092 or text (213) 429-1092 and tell us whether you want Solar or
       "@id": "https://www.audiomotorsports.com/tint/window-tint-huntington-park/#webpage",
       "url": "https://www.audiomotorsports.com/tint/window-tint-huntington-park/",
       "name": "Huntington Park Window Tint | LA Car Tint, Audio MotorSports",
-      "description": "Ceramic vs standard window tint explained for Huntington Park drivers. Installed by Audio MotorSports in Carson, 10.9 miles away. Call (213) 429-1092.",
+      "description": "Ceramic vs standard window tint explained for Huntington Park drivers. Installed by Audio MotorSports in Carson, 10.9 miles away. Call (310) 513-8800.",
       "dateModified": "2026-10-08",
       "about": {
         "@id": "https://www.audiomotorsports.com/#business"

@@ -4,7 +4,7 @@ city: Redondo Beach
 miles: 7.2
 lead_service: car alarm installation for street-parked cars
 title: Car Alarm Installation Redondo Beach | LA Car Alarm
-meta: Car alarm installation for street-parked Redondo Beach cars, plus GPS and remote start, at Audio MotorSports in Carson, 7.2 miles away. Call (213) 429-1092.
+meta: Car alarm installation for street-parked Redondo Beach cars, plus GPS and remote start, at Audio MotorSports in Carson, 7.2 miles away. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Alarm Installation for Street-Parked Redondo Beach Cars
@@ -61,7 +61,7 @@ Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Reserve a Redondo Beach alarm install
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

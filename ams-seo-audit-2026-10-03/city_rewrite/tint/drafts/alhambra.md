@@ -4,7 +4,7 @@ city: Alhambra
 miles: 19.9
 lead_service: car window tint
 title: Car Window Tint Alhambra | LA Car Tint, Carson
-meta: Car window tint for Alhambra compacts, sedans and crossovers, Solar and ceramic film installed at Audio MotorSports, Carson, 19.9 miles. Call (213) 429-1092.
+meta: Car window tint for Alhambra compacts, sedans and crossovers, Solar and ceramic film installed at Audio MotorSports, Carson, 19.9 miles. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Window Tint for Alhambra Drivers, by Audio MotorSports, Carson
@@ -45,7 +45,7 @@ Yes. The rear hatch glass is filmed as its own panel in the same shade as the re
 
 ### How long will an Alhambra driver be without the car?
 
-A few hours for a sedan or crossover. Most people drop off in the morning and pick up in the afternoon, or wait in the shop. After pickup, keep the windows up for a few days while the film finishes curing. Book by calling (213) 429-1092 or texting (213) 429-1092.
+A few hours for a sedan or crossover. Most people drop off in the morning and pick up in the afternoon, or wait in the shop. After pickup, keep the windows up for a few days while the film finishes curing. Book by calling (310) 513-8800 or texting (213) 429-1092.
 
 ### Is a forty-five-minute drive from Alhambra justified for tint?
 
@@ -64,7 +64,7 @@ Solar window tint $249 installed and Solar Ceramic $329 installed, as of October
 
 ## Book it
 
-Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
+Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
 
 ```json
 {
@@ -75,7 +75,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-alhambra/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-alhambra/",
    "name": "Car Window Tint Alhambra | LA Car Tint, Carson",
-   "description": "Car window tint for Alhambra compacts, sedans and crossovers, Solar and ceramic film installed at Audio MotorSports, Carson, 19.9 miles. Call (213) 429-1092.",
+   "description": "Car window tint for Alhambra compacts, sedans and crossovers, Solar and ceramic film installed at Audio MotorSports, Carson, 19.9 miles. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -139,7 +139,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "How long will an Alhambra driver be without the car?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "A few hours for a sedan or crossover. Most people drop off in the morning and pick up in the afternoon, or wait in the shop. After pickup, keep the windows up for a few days while the film finishes curing. Book by calling (213) 429-1092 or texting (213) 429-1092."
+      "text": "A few hours for a sedan or crossover. Most people drop off in the morning and pick up in the afternoon, or wait in the shop. After pickup, keep the windows up for a few days while the film finishes curing. Book by calling (310) 513-8800 or texting (213) 429-1092."
      }
     },
     {

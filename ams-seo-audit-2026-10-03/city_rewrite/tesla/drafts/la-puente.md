@@ -5,7 +5,7 @@ miles: 27.8
 lead_service: Tesla window tint (one-piece rear glass)
 source: hub-mounted copy; standalone www host not verified
 title: Tesla Tint, One-Piece Rear Glass, La Puente | Tesla Tint LA
-meta: Tesla window tint for La Puente owners, back glass tinted as a single sheet, at Audio MotorSports in Carson, 27.8 miles away. Call (213) 429-1092 to book.
+meta: Tesla window tint for La Puente owners, back glass tinted as a single sheet, at Audio MotorSports in Carson, 27.8 miles away. Call (310) 513-8800 to book.
 ---
 # Tesla Window Tint for La Puente with a One-Piece Rear Window
 
@@ -68,7 +68,7 @@ Single-sheet rear glass or not, a Tesla gets its quote by model at the shop. The
 
 ## Get on the schedule
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -79,7 +79,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-la-puente/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-la-puente/",
    "name": "Tesla Tint, One-Piece Rear Glass, La Puente | Tesla Tint LA",
-   "description": "Tesla window tint for La Puente owners, back glass tinted as a single sheet, at Audio MotorSports in Carson, 27.8 miles away. Call (213) 429-1092 to book.",
+   "description": "Tesla window tint for La Puente owners, back glass tinted as a single sheet, at Audio MotorSports in Carson, 27.8 miles away. Call (310) 513-8800 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

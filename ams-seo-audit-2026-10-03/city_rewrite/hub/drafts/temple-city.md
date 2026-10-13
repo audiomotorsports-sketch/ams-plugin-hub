@@ -4,7 +4,7 @@ city: Temple City
 miles: 22.7
 lead_service: Harley bagger audio
 title: Harley Bagger Audio for Temple City | Audio MotorSports
-meta: Bagger audio installation with AMS pods for Temple City Harley riders, plus car window tint, at Audio MotorSports in Carson, 22.7 miles. Call (213) 429-1092.
+meta: Bagger audio installation with AMS pods for Temple City Harley riders, plus car window tint, at Audio MotorSports in Carson, 22.7 miles. Call (310) 513-8800.
 ---
 # Bagger Audio Installation for Temple City Riders
 
@@ -67,7 +67,7 @@ We also serve the cities around Temple City:
 
 ## Book from Temple City
 
-Call (213) 429-1092 or text (213) 429-1092 with the bike's year and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745; Monday through Saturday 9:30 AM to 6:00 PM, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with the bike's year and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745; Monday through Saturday 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -78,7 +78,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the bike's year and model. Audio
    "@id": "https://www.audiomotorsports.com/temple-city/#webpage",
    "url": "https://www.audiomotorsports.com/temple-city/",
    "name": "Harley Bagger Audio for Temple City | Audio MotorSports",
-   "description": "Bagger audio installation with AMS pods for Temple City Harley riders, plus car window tint, at Audio MotorSports in Carson, 22.7 miles. Call (213) 429-1092.",
+   "description": "Bagger audio installation with AMS pods for Temple City Harley riders, plus car window tint, at Audio MotorSports in Carson, 22.7 miles. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

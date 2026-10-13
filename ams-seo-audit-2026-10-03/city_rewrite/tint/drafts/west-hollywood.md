@@ -4,7 +4,7 @@ city: West Hollywood
 miles: 18.8
 lead_service: ceramic window tint (privacy and glare)
 title: Ceramic Window Tint West Hollywood | LA Car Tint
-meta: Ceramic window tint and privacy tinting for West Hollywood drivers, hand-cut and installed by Audio MotorSports in Carson, 18.8 miles away. Call (213) 429-1092.
+meta: Ceramic window tint and privacy tinting for West Hollywood drivers, hand-cut and installed by Audio MotorSports in Carson, 18.8 miles away. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Ceramic Window Tint for West Hollywood Drivers, by Audio MotorSports, Carson
@@ -49,7 +49,7 @@ No. Film is applied inside the glass and removed cleanly at turn-in, leaving not
 
 ### How do I book and how long will the car be there?
 
-Call (213) 429-1092 or text (213) 429-1092 with the car and the film. Most vehicles are done the same day, so you can wait at the shop or drop it and return in the afternoon. Let us know when you book which you prefer.
+Call (310) 513-8800 or text (213) 429-1092 with the car and the film. Most vehicles are done the same day, so you can wait at the shop or drop it and return in the afternoon. Let us know when you book which you prefer.
 
 ## Prices, as of October 2026
 
@@ -63,7 +63,7 @@ Solar window tinting $249 installed; Solar Ceramic window tinting $329 installed
 
 ## Book it
 
-Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
+Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
 
 ```json
 {
@@ -74,7 +74,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-west-hollywood/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-west-hollywood/",
    "name": "Ceramic Window Tint West Hollywood | LA Car Tint",
-   "description": "Ceramic window tint and privacy tinting for West Hollywood drivers, hand-cut and installed by Audio MotorSports in Carson, 18.8 miles away. Call (213) 429-1092.",
+   "description": "Ceramic window tint and privacy tinting for West Hollywood drivers, hand-cut and installed by Audio MotorSports in Carson, 18.8 miles away. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -146,7 +146,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "How do I book and how long will the car be there?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Call (213) 429-1092 or text (213) 429-1092 with the car and the film. Most vehicles are done the same day, so you can wait at the shop or drop it and return in the afternoon. Let us know when you book which you prefer."
+      "text": "Call (310) 513-8800 or text (213) 429-1092 with the car and the film. Most vehicles are done the same day, so you can wait at the shop or drop it and return in the afternoon. Let us know when you book which you prefer."
      }
     }
    ]

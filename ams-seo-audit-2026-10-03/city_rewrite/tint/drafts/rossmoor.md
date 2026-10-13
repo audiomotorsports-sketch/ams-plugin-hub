@@ -4,7 +4,7 @@ city: Rossmoor
 miles: 11.0
 lead_service: ceramic window tint (family SUV privacy)
 title: Rossmoor Window Tint for SUVs | LA Car Tint, Carson
-meta: Ceramic window tint and privacy tint for Rossmoor family SUVs and sedans, installed by Audio MotorSports in Carson, 11 miles away. Call (213) 429-1092.
+meta: Ceramic window tint and privacy tint for Rossmoor family SUVs and sedans, installed by Audio MotorSports in Carson, 11 miles away. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Window Tint for Rossmoor Family Cars and SUVs
@@ -58,7 +58,7 @@ As of October 2026: four-door Solar window tint, $249 installed; four-door Solar
 
 ## Book the family car
 
-Text (213) 429-1092 or call (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745 — Monday to Saturday 9:30-18:00, closed on Sunday.
+Text (213) 429-1092 or call (310) 513-8800. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745 — Monday to Saturday 9:30-18:00, closed on Sunday.
 
 ```json
 {

@@ -5,7 +5,7 @@ miles: 11.0
 lead_service: Tesla window tint (new-delivery tint)
 source: hub-mounted copy; standalone www host not verified
 title: New Tesla Tint, Hawaiian Gardens | Tesla Tint LA
-meta: New-delivery Tesla window tint for Hawaiian Gardens owners: ceramic film on bare glass at Audio MotorSports in Carson, 11 miles away. Call (213) 429-1092.
+meta: New-delivery Tesla window tint for Hawaiian Gardens owners: ceramic film on bare glass at Audio MotorSports in Carson, 11 miles away. Call (310) 513-8800.
 ---
 # New-Delivery Tesla Window Tint for Hawaiian Gardens Owners
 
@@ -68,7 +68,7 @@ A new Tesla is quoted by model at the shop; text the model and we will send a fi
 
 ## Book the new car in
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -79,7 +79,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-hawaiian-gardens/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-hawaiian-gardens/",
    "name": "New Tesla Tint, Hawaiian Gardens | Tesla Tint LA",
-   "description": "New-delivery Tesla window tint for Hawaiian Gardens owners: ceramic film on bare glass at Audio MotorSports in Carson, 11 miles away. Call (213) 429-1092.",
+   "description": "New-delivery Tesla window tint for Hawaiian Gardens owners: ceramic film on bare glass at Audio MotorSports in Carson, 11 miles away. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

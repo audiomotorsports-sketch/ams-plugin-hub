@@ -4,7 +4,7 @@ city: Anaheim Hills
 miles: 29.9
 lead_service: Replacing blown stock Harley bagger speakers
 title: Harley Bagger Audio Anaheim Hills | AMS Pods
-meta: Blown Harley bagger speakers replaced, amplifier and AMS pods added for Anaheim Hills riders at AMS Pods by Audio MotorSports in Carson. (213) 429-1092.
+meta: Blown Harley bagger speakers replaced, amplifier and AMS pods added for Anaheim Hills riders at AMS Pods by Audio MotorSports in Carson. (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Blown Stock Speakers Replaced for Anaheim Hills Bagger Riders
@@ -65,7 +65,7 @@ Riders also come in from [Yorba Linda](/amspods/bagger-audio-yorba-linda/), [Vil
 
 ## Book the speaker replacement
 
-Call (213) 429-1092 or text (213) 429-1092 with your year and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with your year and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -76,7 +76,7 @@ Call (213) 429-1092 or text (213) 429-1092 with your year and model. Audio Motor
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-anaheim-hills/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-anaheim-hills/",
    "name": "Harley Bagger Audio Anaheim Hills | AMS Pods",
-   "description": "Blown Harley bagger speakers replaced, amplifier and AMS pods added for Anaheim Hills riders at AMS Pods by Audio MotorSports in Carson. (213) 429-1092.",
+   "description": "Blown Harley bagger speakers replaced, amplifier and AMS pods added for Anaheim Hills riders at AMS Pods by Audio MotorSports in Carson. (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

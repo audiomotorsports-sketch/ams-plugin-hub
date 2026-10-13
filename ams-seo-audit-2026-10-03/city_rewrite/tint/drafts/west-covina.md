@@ -4,7 +4,7 @@ city: West Covina
 miles: 31.0
 lead_service: window tinting (San Gabriel Valley heat)
 title: Window Tinting West Covina | LA Car Tint, Carson
-meta: Window tinting and ceramic window tint for West Covina drivers, hand-cut and installed by Audio MotorSports in Carson, 31 miles away. Call (213) 429-1092.
+meta: Window tinting and ceramic window tint for West Covina drivers, hand-cut and installed by Audio MotorSports in Carson, 31 miles away. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Window Tinting for West Covina Drivers, by Audio MotorSports, Carson
@@ -64,7 +64,7 @@ Solar window tinting $249 installed; Solar Ceramic window tinting $329 installed
 
 ## Book it
 
-Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
+Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
 
 ```json
 {
@@ -75,7 +75,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-west-covina/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-west-covina/",
    "name": "Window Tinting West Covina | LA Car Tint, Carson",
-   "description": "Window tinting and ceramic window tint for West Covina drivers, hand-cut and installed by Audio MotorSports in Carson, 31 miles away. Call (213) 429-1092.",
+   "description": "Window tinting and ceramic window tint for West Covina drivers, hand-cut and installed by Audio MotorSports in Carson, 31 miles away. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

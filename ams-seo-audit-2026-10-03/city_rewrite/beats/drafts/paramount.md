@@ -6,7 +6,7 @@ lead_service: car stereo installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Car Stereo Installation for Paramount | LA Car Beats
-meta: Car stereo installation and head unit installation for Paramount drivers at LA Car Beats, Audio MotorSports, Carson, about 7.4 miles. Call (213) 429-1092.
+meta: Car stereo installation and head unit installation for Paramount drivers at LA Car Beats, Audio MotorSports, Carson, about 7.4 miles. Call (310) 513-8800.
 ---
 # Car Stereo Installation for Paramount Drivers
 
@@ -22,7 +22,7 @@ For car stereo installation, Paramount drivers use LA Car Beats by Audio MotorSp
 
 ## Driving in from Paramount
 
-Paramount is about 7.4 miles out, roughly 15 to 18 minutes with normal traffic (approx). The shop opens Monday to Saturday at 9:30 and closes at 6:00; Sunday is off. Book first at (213) 429-1092 or by text at (213) 429-1092. Once you arrive you can wait for a head unit installation or drop the car for a longer job. Carson sits near the beach, and the bay sees cars from as far as San Diego, so a Paramount trip is a quick one by comparison.
+Paramount is about 7.4 miles out, roughly 15 to 18 minutes with normal traffic (approx). The shop opens Monday to Saturday at 9:30 and closes at 6:00; Sunday is off. Book first at (310) 513-8800 or by text at (213) 429-1092. Once you arrive you can wait for a head unit installation or drop the car for a longer job. Carson sits near the beach, and the bay sees cars from as far as San Diego, so a Paramount trip is a quick one by comparison.
 
 <!-- owner-details-2026-10-07 -->
 For a longer job from Paramount, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. Everyone is welcome here, and the shop is LGBTQ-friendly, the same way it says on Google and Yelp. Coming from Paramount, take whichever is moving: the shop is right off the 110 and easy from the 405 and the 710.
@@ -59,7 +59,7 @@ Nearby pages: [Bellflower](/beats/car-stereo-bellflower/) · [all services](/bel
 
 ## Set up your Paramount car stereo installation
 
-Call (213) 429-1092 or text (213) 429-1092. The address is 22025 S Avalon Blvd Ste A, Carson, CA 90745, and hours are Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. The address is 22025 S Avalon Blvd Ste A, Carson, CA 90745, and hours are Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -71,7 +71,7 @@ Call (213) 429-1092 or text (213) 429-1092. The address is 22025 S Avalon Blvd S
    "name": "Car Stereo Installation for Paramount | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-paramount/",
    "dateModified": "2026-10-08",
-   "description": "Car stereo installation and head unit installation for Paramount drivers at LA Car Beats, Audio MotorSports, Carson, about 7.4 miles. Call (213) 429-1092.",
+   "description": "Car stereo installation and head unit installation for Paramount drivers at LA Car Beats, Audio MotorSports, Carson, about 7.4 miles. Call (310) 513-8800.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

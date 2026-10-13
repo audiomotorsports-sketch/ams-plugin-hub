@@ -4,7 +4,7 @@ city: Chino Hills
 miles: 38.8
 lead_service: car audio & stereo installation
 title: Car Stereo Installation for Chino Hills | Audio MotorSports
-meta: Chino Hills car stereo installation, speaker, subwoofer and amplifier installs, tint and alarms at Audio MotorSports in Carson, 38.8 miles. (213) 429-1092.
+meta: Chino Hills car stereo installation, speaker, subwoofer and amplifier installs, tint and alarms at Audio MotorSports in Carson, 38.8 miles. (310) 513-8800.
 ---
 # Car Stereo Installation for Chino Hills Drivers
 
@@ -49,7 +49,7 @@ It can. Schedule both and we block the bay for the full day, doing the car stere
 
 ### How do I get a quote before I drive from Chino Hills?
 
-Text your year, make and model and what you want the system to do to (213) 429-1092, or call (213) 429-1092. You get a straight answer on what fits your dash, which factory features stay, and the installed price. The shop is at 22025 S Avalon Blvd Ste A in Carson.
+Text your year, make and model and what you want the system to do to (213) 429-1092, or call (310) 513-8800. You get a straight answer on what fits your dash, which factory features stay, and the installed price. The shop is at 22025 S Avalon Blvd Ste A in Carson.
 
 ## Chino Hills pricing, as of October 2026
 
@@ -61,7 +61,7 @@ Neighbors who make the same drive: [Chino](/chino/), [Diamond Bar](/diamond-bar/
 
 ## Book Chino Hills car stereo installation
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Monday through Saturday 9:30 AM to 6:00 PM, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Monday through Saturday 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -72,7 +72,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/chino-hills/#webpage",
    "url": "https://www.audiomotorsports.com/chino-hills/",
    "name": "Car Stereo Installation for Chino Hills | Audio MotorSports",
-   "description": "Chino Hills car stereo installation, speaker, subwoofer and amplifier installs, tint and alarms at Audio MotorSports in Carson, 38.8 miles. (213) 429-1092.",
+   "description": "Chino Hills car stereo installation, speaker, subwoofer and amplifier installs, tint and alarms at Audio MotorSports in Carson, 38.8 miles. (310) 513-8800.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {
@@ -147,7 +147,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "How do I get a quote before I drive from Chino Hills?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Text your year, make and model and what you want the system to do to (213) 429-1092, or call (213) 429-1092. You get a straight answer on what fits your dash, which factory features stay, and the installed price. The shop is at 22025 S Avalon Blvd Ste A in Carson."
+      "text": "Text your year, make and model and what you want the system to do to (213) 429-1092, or call (310) 513-8800. You get a straight answer on what fits your dash, which factory features stay, and the installed price. The shop is at 22025 S Avalon Blvd Ste A in Carson."
      }
     }
    ]

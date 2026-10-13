@@ -4,7 +4,7 @@ city: Alhambra
 miles: 19.9
 lead_service: Harley bagger audio installation (AMS pods)
 title: Harley Bagger Audio for Alhambra Riders | Audio MotorSports
-meta: Harley-Davidson motorcycle audio, AMS pods, car stereo installs and window tint for Alhambra at Audio MotorSports, Carson, 19.9 miles. Call (213) 429-1092.
+meta: Harley-Davidson motorcycle audio, AMS pods, car stereo installs and window tint for Alhambra at Audio MotorSports, Carson, 19.9 miles. Call (310) 513-8800.
 ---
 # Harley Bagger Audio Installation for Alhambra
 
@@ -37,7 +37,7 @@ AMS pods mount in the lower fairing area, an amplifier is mounted where it stays
 
 ### Is Alhambra too far to ride for AMS pods?
 
-No. It is 19.9 miles, roughly forty to forty-eight minutes outside rush hour, and the install is the reason to make the trip. Book by calling (213) 429-1092 or texting (213) 429-1092, then ride down and wait while it is done or leave the bike with us for the day.
+No. It is 19.9 miles, roughly forty to forty-eight minutes outside rush hour, and the install is the reason to make the trip. Book by calling (310) 513-8800 or texting (213) 429-1092, then ride down and wait while it is done or leave the bike with us for the day.
 
 ### Can I keep my factory Harley head unit with the pods?
 
@@ -65,7 +65,7 @@ AMS Harley pods from $649 a pair. Viper 3108V alarm installation $269. Compustar
 
 ## Ride in from Alhambra
 
-Call (213) 429-1092 or text (213) 429-1092 to set a time. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-18:00, closed Sunday. Wait at the shop or leave the bike with us.
+Call (310) 513-8800 or text (213) 429-1092 to set a time. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, Mon-Sat 9:30-18:00, closed Sunday. Wait at the shop or leave the bike with us.
 
 ```json
 {
@@ -76,7 +76,7 @@ Call (213) 429-1092 or text (213) 429-1092 to set a time. Audio MotorSports, 220
    "@id": "https://www.audiomotorsports.com/alhambra/#webpage",
    "url": "https://www.audiomotorsports.com/alhambra/",
    "name": "Harley Bagger Audio for Alhambra Riders | Audio MotorSports",
-   "description": "Harley-Davidson motorcycle audio, AMS pods, car stereo installs and window tint for Alhambra at Audio MotorSports, Carson, 19.9 miles. Call (213) 429-1092.",
+   "description": "Harley-Davidson motorcycle audio, AMS pods, car stereo installs and window tint for Alhambra at Audio MotorSports, Carson, 19.9 miles. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -126,7 +126,7 @@ Call (213) 429-1092 or text (213) 429-1092 to set a time. Audio MotorSports, 220
      "name": "Is Alhambra too far to ride for AMS pods?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "No. It is 19.9 miles, roughly forty to forty-eight minutes outside rush hour, and the install is the reason to make the trip. Book by calling (213) 429-1092 or texting (213) 429-1092, then ride down and wait while it is done or leave the bike with us for the day."
+      "text": "No. It is 19.9 miles, roughly forty to forty-eight minutes outside rush hour, and the install is the reason to make the trip. Book by calling (310) 513-8800 or texting (213) 429-1092, then ride down and wait while it is done or leave the bike with us for the day."
      }
     },
     {

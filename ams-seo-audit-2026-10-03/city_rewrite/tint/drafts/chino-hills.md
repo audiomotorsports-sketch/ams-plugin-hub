@@ -4,7 +4,7 @@ city: Chino Hills
 miles: 38.8
 lead_service: ceramic window tint
 title: Ceramic Window Tint Chino Hills | LA Car Tint, Carson
-meta: Ceramic window tint for Chino Hills heat, Solar Ceramic hand-cut and installed by Audio MotorSports in Carson, 38.8 miles away. Call (213) 429-1092 to book.
+meta: Ceramic window tint for Chino Hills heat, Solar Ceramic hand-cut and installed by Audio MotorSports in Carson, 38.8 miles away. Call (310) 513-8800 to book.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Ceramic Window Tint for Chino Hills Heat, by Audio MotorSports, Carson
@@ -49,7 +49,7 @@ All four door windows plus the rear glass. The front doors get the light shade C
 
 ### What should a Chino Hills driver tell the shop when booking?
 
-Year, make and model, which film you are leaning toward, and whether there is any previous tint to remove. That lets us block the right amount of time and have the film ready. Call (213) 429-1092 or text (213) 429-1092.
+Year, make and model, which film you are leaning toward, and whether there is any previous tint to remove. That lets us block the right amount of time and have the film ready. Call (310) 513-8800 or text (213) 429-1092.
 
 ## Prices, as of October 2026
 
@@ -64,7 +64,7 @@ Solar window tint $249 installed and Solar Ceramic $329 installed, as of October
 
 ## Book it
 
-Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
+Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
 
 ```json
 {
@@ -75,7 +75,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-chino-hills/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-chino-hills/",
    "name": "Ceramic Window Tint Chino Hills | LA Car Tint, Carson",
-   "description": "Ceramic window tint for Chino Hills heat, Solar Ceramic hand-cut and installed by Audio MotorSports in Carson, 38.8 miles away. Call (213) 429-1092 to book.",
+   "description": "Ceramic window tint for Chino Hills heat, Solar Ceramic hand-cut and installed by Audio MotorSports in Carson, 38.8 miles away. Call (310) 513-8800 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -147,7 +147,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "What should a Chino Hills driver tell the shop when booking?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Year, make and model, which film you are leaning toward, and whether there is any previous tint to remove. That lets us block the right amount of time and have the film ready. Call (213) 429-1092 or text (213) 429-1092."
+      "text": "Year, make and model, which film you are leaning toward, and whether there is any previous tint to remove. That lets us block the right amount of time and have the film ready. Call (310) 513-8800 or text (213) 429-1092."
      }
     }
    ]

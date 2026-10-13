@@ -5,7 +5,7 @@ miles: 7.2
 lead_service: ceramic window tint (UV and interior protection angle)
 source: hub-mounted copy; standalone www host not verified
 title: Rolling Hills Window Tint | LA Car Tint by Audio MotorSports
-meta: Ceramic window tint for Rolling Hills drivers: UV protection and a factory look, by Audio MotorSports in Carson, 7.2 miles away. Call (213) 429-1092.
+meta: Ceramic window tint for Rolling Hills drivers: UV protection and a factory look, by Audio MotorSports in Carson, 7.2 miles away. Call (310) 513-8800.
 ---
 # Ceramic Window Tint for Rolling Hills Drivers
 
@@ -61,7 +61,7 @@ Head unit installation, Apple CarPlay and Android Auto installation, amplifier i
 
 ## Book your Rolling Hills tint
 
-Call (213) 429-1092 or send a text to (213) 429-1092 to pick a time, then come down to 22025 S Avalon Blvd Ste A, Carson, CA 90745, any Monday to Saturday between 9:30 and 6:00.
+Call (310) 513-8800 or send a text to (213) 429-1092 to pick a time, then come down to 22025 S Avalon Blvd Ste A, Carson, CA 90745, any Monday to Saturday between 9:30 and 6:00.
 
 ```json
 {
@@ -72,7 +72,7 @@ Call (213) 429-1092 or send a text to (213) 429-1092 to pick a time, then come d
       "@id": "https://www.audiomotorsports.com/tint/window-tint-rolling-hills/#webpage",
       "url": "https://www.audiomotorsports.com/tint/window-tint-rolling-hills/",
       "name": "Rolling Hills Window Tint | LA Car Tint by Audio MotorSports",
-      "description": "Ceramic window tint for Rolling Hills drivers: UV protection and a factory look, by Audio MotorSports in Carson, 7.2 miles away. Call (213) 429-1092.",
+      "description": "Ceramic window tint for Rolling Hills drivers: UV protection and a factory look, by Audio MotorSports in Carson, 7.2 miles away. Call (310) 513-8800.",
       "dateModified": "2026-10-08",
       "about": {
         "@id": "https://www.audiomotorsports.com/#business"

@@ -4,7 +4,7 @@ city: Rancho Cucamonga
 miles: 53.6
 lead_service: Apple CarPlay and Android Auto installation
 title: CarPlay Installation, Rancho Cucamonga | Audio MotorSports
-meta: Apple CarPlay and Android Auto installation, car stereo, window tint and alarms for Rancho Cucamonga drivers at Audio MotorSports in Carson. (213) 429-1092.
+meta: Apple CarPlay and Android Auto installation, car stereo, window tint and alarms for Rancho Cucamonga drivers at Audio MotorSports in Carson. (310) 513-8800.
 ---
 # Apple CarPlay and Android Auto Installation for Rancho Cucamonga
 
@@ -59,7 +59,7 @@ Solar window tint $249 and Solar Ceramic $329 installed. Viper 3108V alarm $269 
 
 ## Book CarPlay installation from Rancho Cucamonga
 
-Call (213) 429-1092 or text (213) 429-1092 with the vehicle and your phone type. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with the vehicle and your phone type. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -70,7 +70,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the vehicle and your phone type.
    "@id": "https://www.audiomotorsports.com/rancho-cucamonga/#webpage",
    "url": "https://www.audiomotorsports.com/rancho-cucamonga/",
    "name": "CarPlay Installation, Rancho Cucamonga | Audio MotorSports",
-   "description": "Apple CarPlay and Android Auto installation, car stereo, window tint and alarms for Rancho Cucamonga drivers at Audio MotorSports in Carson. (213) 429-1092.",
+   "description": "Apple CarPlay and Android Auto installation, car stereo, window tint and alarms for Rancho Cucamonga drivers at Audio MotorSports in Carson. (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

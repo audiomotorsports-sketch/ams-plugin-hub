@@ -4,7 +4,7 @@ city: Alondra Park
 miles: 5.9
 lead_service: first bagger audio upgrade
 title: Harley Bagger Audio Alondra Park | AMS Pods
-meta: First Harley bagger audio upgrade for Alondra Park riders: AMS pods, amplifier and speaker installation at Audio MotorSports in Carson. (213) 429-1092.
+meta: First Harley bagger audio upgrade for Alondra Park riders: AMS pods, amplifier and speaker installation at Audio MotorSports in Carson. (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # First Bagger Audio Upgrade for Alondra Park Riders
@@ -65,7 +65,7 @@ Riders also ride in from [Gardena](/amspods/bagger-audio-gardena/), [Lawndale](/
 
 ## Book the first stage
 
-Text (213) 429-1092 or call (213) 429-1092 with your model year and which bagger you ride, and Nick will map out stage one. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Text (213) 429-1092 or call (310) 513-8800 with your model year and which bagger you ride, and Nick will map out stage one. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -76,7 +76,7 @@ Text (213) 429-1092 or call (213) 429-1092 with your model year and which bagger
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-alondra-park/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-alondra-park/",
    "name": "Harley Bagger Audio Alondra Park | AMS Pods",
-   "description": "First Harley bagger audio upgrade for Alondra Park riders: AMS pods, amplifier and speaker installation at Audio MotorSports in Carson. (213) 429-1092.",
+   "description": "First Harley bagger audio upgrade for Alondra Park riders: AMS pods, amplifier and speaker installation at Audio MotorSports in Carson. (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

@@ -5,7 +5,7 @@ miles: 11.0
 lead_service: car window tint (night glare and old-film replacement angle)
 source: hub-mounted copy; standalone www host not verified
 title: South Los Angeles Window Tint | LA Car Tint, Carson
-meta: Car window tint and old-tint replacement for South Los Angeles, by Audio MotorSports in Carson, 11 miles away. Call (213) 429-1092 or text (213) 429-1092.
+meta: Car window tint and old-tint replacement for South Los Angeles, by Audio MotorSports in Carson, 11 miles away. Call (310) 513-8800 or text (213) 429-1092.
 ---
 # Car Window Tint for South Los Angeles Drivers
 
@@ -61,7 +61,7 @@ Car alarm installation, remote start installation, GPS tracker installation, car
 
 ## Book from South Los Angeles
 
-Call (213) 429-1092 or text (213) 429-1092, with a photo of the old tint if you are replacing it, and find us at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30 to 6:00.
+Call (310) 513-8800 or text (213) 429-1092, with a photo of the old tint if you are replacing it, and find us at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30 to 6:00.
 
 ```json
 {
@@ -72,7 +72,7 @@ Call (213) 429-1092 or text (213) 429-1092, with a photo of the old tint if you 
       "@id": "https://www.audiomotorsports.com/tint/window-tint-south-los-angeles/#webpage",
       "url": "https://www.audiomotorsports.com/tint/window-tint-south-los-angeles/",
       "name": "South Los Angeles Window Tint | LA Car Tint, Carson",
-      "description": "Car window tint and old-tint replacement for South Los Angeles, by Audio MotorSports in Carson, 11 miles away. Call (213) 429-1092 or text (213) 429-1092.",
+      "description": "Car window tint and old-tint replacement for South Los Angeles, by Audio MotorSports in Carson, 11 miles away. Call (310) 513-8800 or text (213) 429-1092.",
       "dateModified": "2026-10-08",
       "about": {
         "@id": "https://www.audiomotorsports.com/#business"

@@ -4,7 +4,7 @@ city: Arcadia
 miles: 25.3
 lead_service: long-ride bagger audio
 title: Harley Bagger Audio Arcadia | AMS Pods
-meta: Long-ride Harley bagger audio for Arcadia riders: AMS lower-fairing pods, amplifier installation and tuning at Audio MotorSports in Carson. Call (213) 429-1092.
+meta: Long-ride Harley bagger audio for Arcadia riders: AMS lower-fairing pods, amplifier installation and tuning at Audio MotorSports in Carson. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Long-Ride Bagger Audio for Arcadia Harley Riders
@@ -65,7 +65,7 @@ Other AMS Pods pages for riders near Arcadia: [Temple City](/amspods/bagger-audi
 
 ## Book the ride from Arcadia
 
-Call (213) 429-1092 or text (213) 429-1092 before you leave so the bay is held for you. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 before you leave so the bay is held for you. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -76,7 +76,7 @@ Call (213) 429-1092 or text (213) 429-1092 before you leave so the bay is held f
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-arcadia/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-arcadia/",
    "name": "Harley Bagger Audio Arcadia | AMS Pods",
-   "description": "Long-ride Harley bagger audio for Arcadia riders: AMS lower-fairing pods, amplifier installation and tuning at Audio MotorSports in Carson. Call (213) 429-1092.",
+   "description": "Long-ride Harley bagger audio for Arcadia riders: AMS lower-fairing pods, amplifier installation and tuning at Audio MotorSports in Carson. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

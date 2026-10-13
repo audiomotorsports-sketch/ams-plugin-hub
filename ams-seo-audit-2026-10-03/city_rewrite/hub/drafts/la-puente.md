@@ -4,7 +4,7 @@ city: La Puente
 miles: 27.8
 lead_service: Car window tint
 title: Window Tint & Stereo Installs, La Puente | Audio MotorSports
-meta: Car window tint, ceramic tint, car stereo installation, alarms and remote start for La Puente drivers at Audio MotorSports in Carson. Call (213) 429-1092.
+meta: Car window tint, ceramic tint, car stereo installation, alarms and remote start for La Puente drivers at Audio MotorSports in Carson. Call (310) 513-8800.
 ---
 # Car Window Tint for La Puente Drivers
 
@@ -27,7 +27,7 @@ Waiting inside is easy for La Puente customers: there is seating, Netflix on the
 
 ## La Puente to the Carson bay
 
-Expect about 27.8 miles and roughly 56 to 67 minutes (approx) when traffic is light. We have taken calls from as far as San Jose, so La Puente is a normal drive for this shop. Open Monday to Saturday 9:30 AM to 6:00 PM, closed Sunday. Book a slot, then drop the car or wait while the film goes on. Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. La Puente drivers can see Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, before they leave.
+Expect about 27.8 miles and roughly 56 to 67 minutes (approx) when traffic is light. We have taken calls from as far as San Jose, so La Puente is a normal drive for this shop. Open Monday to Saturday 9:30 AM to 6:00 PM, closed Sunday. Book a slot, then drop the car or wait while the film goes on. Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. La Puente drivers can see Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026, before they leave.
 
 [SHOP NOTE: 2-3 sentences from Nick about La Puente customers, routes or jobs]
 
@@ -74,7 +74,7 @@ Receivers, amps, CarPlay, trackers and dash cameras are priced in person with th
 
 ## Book window tint from La Puente
 
-Call (213) 429-1092 or text (213) 429-1092 with the car. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745; open Mon-Sat 9:30-18:00, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092 with the car. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745; open Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -85,7 +85,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the car. Audio MotorSports, 2202
    "@id": "https://www.audiomotorsports.com/la-puente/#webpage",
    "url": "https://www.audiomotorsports.com/la-puente/",
    "name": "Window Tint & Stereo Installs, La Puente | Audio MotorSports",
-   "description": "Car window tint, ceramic tint, car stereo installation, alarms and remote start for La Puente drivers at Audio MotorSports in Carson. Call (213) 429-1092.",
+   "description": "Car window tint, ceramic tint, car stereo installation, alarms and remote start for La Puente drivers at Audio MotorSports in Carson. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

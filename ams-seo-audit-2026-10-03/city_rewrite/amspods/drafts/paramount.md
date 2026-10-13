@@ -4,7 +4,7 @@ city: Paramount
 miles: 7.4
 lead_service: Harley bagger audio for group rides
 title: Paramount Harley Bagger Audio, Group Ride Sound | AMS Pods
-meta: Harley bagger audio installation and AMS pods tuned for group rides, for Paramount riders. AMS Pods by Audio MotorSports in Carson. (213) 429-1092.
+meta: Harley bagger audio installation and AMS pods tuned for group rides, for Paramount riders. AMS Pods by Audio MotorSports in Carson. (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Group-Ride Bagger Audio for Paramount Harley Riders
@@ -65,7 +65,7 @@ Pages for riders in [Lakewood](/amspods/bagger-audio-lakewood/), [Lynwood](/amsp
 
 ## Line it up
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {
@@ -76,7 +76,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-paramount/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-paramount/",
    "name": "Paramount Harley Bagger Audio, Group Ride Sound | AMS Pods",
-   "description": "Harley bagger audio installation and AMS pods tuned for group rides, for Paramount riders. AMS Pods by Audio MotorSports in Carson. (213) 429-1092.",
+   "description": "Harley bagger audio installation and AMS pods tuned for group rides, for Paramount riders. AMS Pods by Audio MotorSports in Carson. (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

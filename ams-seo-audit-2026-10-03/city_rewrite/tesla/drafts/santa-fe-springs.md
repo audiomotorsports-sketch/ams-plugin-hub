@@ -4,7 +4,7 @@ city: Santa Fe Springs
 miles: 13.0
 lead_service: Tesla window tint (camera and sensor clearance)
 title: Santa Fe Springs Tesla Tint | Tesla Tint LA, Carson
-meta: Tesla window tint with cameras kept clear, for Santa Fe Springs owners at Tesla Tint LA by Audio MotorSports in Carson, 13 miles away. Call (213) 429-1092.
+meta: Tesla window tint with cameras kept clear, for Santa Fe Springs owners at Tesla Tint LA by Audio MotorSports in Carson, 13 miles away. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla Window Tint for Santa Fe Springs That Respects the Cameras
@@ -60,7 +60,7 @@ Each Tesla is priced after Nick sees it; the quote is by model at the shop. The 
 
 ## Set a time
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

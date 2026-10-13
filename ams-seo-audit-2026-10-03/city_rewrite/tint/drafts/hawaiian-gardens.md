@@ -4,12 +4,12 @@ city: Hawaiian Gardens
 miles: 11.0
 lead_service: privacy car window tint
 title: Privacy Window Tint Hawaiian Gardens | LA Car Tint
-meta: Privacy car window tint and ceramic window tinting for Hawaiian Gardens drivers at LA Car Tint by Audio MotorSports in Carson, 11 miles. Call (213) 429-1092.
+meta: Privacy car window tint and ceramic window tinting for Hawaiian Gardens drivers at LA Car Tint by Audio MotorSports in Carson, 11 miles. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Privacy Car Window Tint for Hawaiian Gardens, by Audio MotorSports, Carson
 
-Hawaiian Gardens drivers who want the back of the car kept private come to LA Car Tint, the window tinting desk at Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, about 11 miles away. Dark rear glass, a legal light shade up front, Solar or Solar Ceramic film hand-cut on the window, and car alarm installation, GPS tracker installation, car stereo installation and Tesla window tint under the same roof. Call (213) 429-1092.
+Hawaiian Gardens drivers who want the back of the car kept private come to LA Car Tint, the window tinting desk at Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, about 11 miles away. Dark rear glass, a legal light shade up front, Solar or Solar Ceramic film hand-cut on the window, and car alarm installation, GPS tracker installation, car stereo installation and Tesla window tint under the same roof. Call (310) 513-8800.
 
 ## What Hawaiian Gardens drivers bring us
 
@@ -62,7 +62,7 @@ As of October 2026: Solar window tinting $249 installed, Solar Ceramic window ti
 
 ## Book it
 
-Call (213) 429-1092. Text (213) 429-1092. 22025 S Avalon Blvd Ste A. Carson, CA 90745. Mon through Sat, 9:30-6:00. Closed Sunday.
+Call (310) 513-8800. Text (213) 429-1092. 22025 S Avalon Blvd Ste A. Carson, CA 90745. Mon through Sat, 9:30-6:00. Closed Sunday.
 
 ```json
 {
@@ -73,7 +73,7 @@ Call (213) 429-1092. Text (213) 429-1092. 22025 S Avalon Blvd Ste A. Carson, CA 
    "@id": "https://www.audiomotorsports.com/tint/window-tint-hawaiian-gardens/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-hawaiian-gardens/",
    "name": "Privacy Window Tint Hawaiian Gardens | LA Car Tint",
-   "description": "Privacy car window tint and ceramic window tinting for Hawaiian Gardens drivers at LA Car Tint by Audio MotorSports in Carson, 11 miles. Call (213) 429-1092.",
+   "description": "Privacy car window tint and ceramic window tinting for Hawaiian Gardens drivers at LA Car Tint by Audio MotorSports in Carson, 11 miles. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

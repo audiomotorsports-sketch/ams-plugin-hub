@@ -4,7 +4,7 @@ city: Santa Fe Springs
 miles: 13.0
 lead_service: Tesla window tint
 title: Tesla Window Tint, Santa Fe Springs | Audio MotorSports
-meta: Tesla window tint and ceramic window tinting for Santa Fe Springs owners at Audio MotorSports in Carson, 13 miles away. Call (213) 429-1092 to book.
+meta: Tesla window tint and ceramic window tinting for Santa Fe Springs owners at Audio MotorSports in Carson, 13 miles away. Call (310) 513-8800 to book.
 ---
 # Tesla Window Tint for Santa Fe Springs
 
@@ -67,7 +67,7 @@ We serve these neighboring cities as well:
 
 ## Book Tesla tint from Santa Fe Springs
 
-Text (213) 429-1092 with your Tesla model and year or call (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745; Monday through Saturday 9:30 AM to 6:00 PM, Sunday closed.
+Text (213) 429-1092 with your Tesla model and year or call (310) 513-8800. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745; Monday through Saturday 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -78,7 +78,7 @@ Text (213) 429-1092 with your Tesla model and year or call (213) 429-1092. Audio
    "@id": "https://www.audiomotorsports.com/santa-fe-springs/#webpage",
    "url": "https://www.audiomotorsports.com/santa-fe-springs/",
    "name": "Tesla Window Tint, Santa Fe Springs | Audio MotorSports",
-   "description": "Tesla window tint and ceramic window tinting for Santa Fe Springs owners at Audio MotorSports in Carson, 13 miles away. Call (213) 429-1092 to book.",
+   "description": "Tesla window tint and ceramic window tinting for Santa Fe Springs owners at Audio MotorSports in Carson, 13 miles away. Call (310) 513-8800 to book.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

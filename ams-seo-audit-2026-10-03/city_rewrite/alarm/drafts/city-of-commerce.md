@@ -5,7 +5,7 @@ city: Commerce
 miles: 13.1
 lead_service: street-parked cars
 title: Car Alarm Installation for Commerce | LA Car Alarm
-meta: Car alarm installation for street-parked Commerce cars at LA Car Alarm by Audio MotorSports in Carson. Viper, GPS trackers, dash cams. (213) 429-1092.
+meta: Car alarm installation for street-parked Commerce cars at LA Car Alarm by Audio MotorSports in Carson. Viper, GPS trackers, dash cams. (310) 513-8800.
 ---
 # Car Alarm Installation for Street-Parked Commerce Cars
 
@@ -60,7 +60,7 @@ Viper 3108V alarm $269 installed. Compustar 9910 remote start from $499. GPS tra
 
 ## Book a Commerce alarm install
 
-Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

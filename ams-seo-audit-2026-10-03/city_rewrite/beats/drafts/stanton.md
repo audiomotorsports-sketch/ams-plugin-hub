@@ -4,7 +4,7 @@ city: Stanton
 miles: 15.6
 lead_service: car stereo installation
 title: Car Stereo Installation for Stanton | LA Car Beats, Carson
-meta: Car stereo installation and head unit installation for Stanton drivers at LA Car Beats by Audio MotorSports in Carson. Speakers too. Call (213) 429-1092.
+meta: Car stereo installation and head unit installation for Stanton drivers at LA Car Beats by Audio MotorSports in Carson. Speakers too. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Stereo Installation for Stanton
@@ -66,7 +66,7 @@ LA Car Beats pages for cities around Stanton:
 
 ## Book car stereo installation
 
-Text (213) 429-1092 or call (213) 429-1092. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sunday.
+Text (213) 429-1092 or call (310) 513-8800. LA Car Beats by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -77,7 +77,7 @@ Text (213) 429-1092 or call (213) 429-1092. LA Car Beats by Audio MotorSports, 2
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-stanton/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-stanton/",
    "name": "Car Stereo Installation for Stanton | LA Car Beats, Carson",
-   "description": "Car stereo installation and head unit installation for Stanton drivers at LA Car Beats by Audio MotorSports in Carson. Speakers too. Call (213) 429-1092.",
+   "description": "Car stereo installation and head unit installation for Stanton drivers at LA Car Beats by Audio MotorSports in Carson. Speakers too. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

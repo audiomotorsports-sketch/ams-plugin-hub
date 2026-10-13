@@ -4,7 +4,7 @@ city: Glendora
 miles: 39.0
 lead_service: Tesla window tint
 title: Tesla Window Tint for Glendora Drivers | Audio MotorSports
-meta: Tesla window tint, ceramic tint, alarms and remote start for Glendora drivers at Audio MotorSports in Carson, 39 miles out. Call (213) 429-1092 to book.
+meta: Tesla window tint, ceramic tint, alarms and remote start for Glendora drivers at Audio MotorSports in Carson, 39 miles out. Call (310) 513-8800 to book.
 ---
 # Tesla Window Tint for Glendora Drivers
 
@@ -59,7 +59,7 @@ Standard-vehicle window tint Solar $249, Solar Ceramic $329 installed. Viper 310
 
 ## Book from Glendora
 
-Call (213) 429-1092 or text (213) 429-1092 with your Tesla model and year. The shop is 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00 and closed on Sunday.
+Call (310) 513-8800 or text (213) 429-1092 with your Tesla model and year. The shop is 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00 and closed on Sunday.
 
 ```json
 {

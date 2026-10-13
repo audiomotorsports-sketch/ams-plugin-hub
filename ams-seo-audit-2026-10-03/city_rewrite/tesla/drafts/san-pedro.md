@@ -5,7 +5,7 @@ miles: 6.5
 lead_service: Tesla window tint (cabin heat through the glass)
 source: hub-mounted copy; standalone www host not verified
 title: San Pedro Tesla Window Tint for Cabin Heat | Tesla Tint LA
-meta: San Pedro Tesla owners cut cabin heat with ceramic window tint on side and rear glass at Audio MotorSports in Carson, 6.5 miles. Call (213) 429-1092.
+meta: San Pedro Tesla owners cut cabin heat with ceramic window tint on side and rear glass at Audio MotorSports in Carson, 6.5 miles. Call (310) 513-8800.
 ---
 # Tesla Window Tint for San Pedro: Cooling the Doors and Rear Glass
 
@@ -52,7 +52,7 @@ No. Ceramic film is non-metallic, so there is no signal interference with the ke
 
 ### What should a San Pedro driver do to book Tesla window tint?
 
-Call (213) 429-1092 or text (213) 429-1092 with the year and model. Nick will quote it by model and set a time. On the day, drop off or wait at the shop; either way you drive back to San Pedro with the job finished and checked.
+Call (310) 513-8800 or text (213) 429-1092 with the year and model. Nick will quote it by model and set a time. On the day, drop off or wait at the shop; either way you drive back to San Pedro with the job finished and checked.
 
 ## Pricing
 
@@ -68,7 +68,7 @@ Tesla tint is quoted by model at the shop. For a non-Tesla, as of October 2026, 
 
 ## Get in touch
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM. Closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM. Closed Sunday.
 
 ```json
 {
@@ -79,7 +79,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-san-pedro/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-san-pedro/",
    "name": "San Pedro Tesla Window Tint for Cabin Heat | Tesla Tint LA",
-   "description": "San Pedro Tesla owners cut cabin heat with ceramic window tint on side and rear glass at Audio MotorSports in Carson, 6.5 miles. Call (213) 429-1092.",
+   "description": "San Pedro Tesla owners cut cabin heat with ceramic window tint on side and rear glass at Audio MotorSports in Carson, 6.5 miles. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -153,7 +153,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "What should a San Pedro driver do to book Tesla window tint?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Call (213) 429-1092 or text (213) 429-1092 with the year and model. Nick will quote it by model and set a time. On the day, drop off or wait at the shop; either way you drive back to San Pedro with the job finished and checked."
+      "text": "Call (310) 513-8800 or text (213) 429-1092 with the year and model. Nick will quote it by model and set a time. On the day, drop off or wait at the shop; either way you drive back to San Pedro with the job finished and checked."
      }
     }
    ]

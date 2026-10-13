@@ -4,7 +4,7 @@ city: View Park-Windsor Hills
 miles: 12.3
 lead_service: Harley bagger audio (AMS pods)
 title: Bagger Audio, View Park-Windsor Hills | Audio MotorSports
-meta: Harley bagger audio, AMS pods, car stereos, window tint and alarms for View Park-Windsor Hills at Audio MotorSports in Carson, 12.3 miles. Call (213) 429-1092.
+meta: Harley bagger audio, AMS pods, car stereos, window tint and alarms for View Park-Windsor Hills at Audio MotorSports in Carson, 12.3 miles. Call (310) 513-8800.
 ---
 # Harley Bagger Audio for View Park-Windsor Hills Riders
 
@@ -39,7 +39,7 @@ Louder than stock, which is why pods plus an amplifier matter. A fairing amp pus
 
 ### Is View Park-Windsor Hills too far to ride for a motorcycle audio install?
 
-No. The shop is 12.3 miles away, roughly twenty-five to thirty minutes outside rush hour. Call (213) 429-1092 or text (213) 429-1092 to set a time, then ride down and either wait while the pods go in or leave the bike and pick it up later that day.
+No. The shop is 12.3 miles away, roughly twenty-five to thirty minutes outside rush hour. Call (310) 513-8800 or text (213) 429-1092 to set a time, then ride down and either wait while the pods go in or leave the bike and pick it up later that day.
 
 ### Can you tint my car and do the bike on the same visit?
 
@@ -63,7 +63,7 @@ AMS Harley bagger pods start at $649 a pair. A Dual Kicker Comp subwoofer box ru
 
 ## Ride or drive in
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, is open Mon-Sat 9:30-18:00 and closed on Sunday. Drop the bike or car, or wait at the shop.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, is open Mon-Sat 9:30-18:00 and closed on Sunday. Drop the bike or car, or wait at the shop.
 
 ```json
 {
@@ -74,7 +74,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/view-park-windsor-hills/#webpage",
    "url": "https://www.audiomotorsports.com/view-park-windsor-hills/",
    "name": "Bagger Audio, View Park-Windsor Hills | Audio MotorSports",
-   "description": "Harley bagger audio, AMS pods, car stereos, window tint and alarms for View Park-Windsor Hills at Audio MotorSports in Carson, 12.3 miles. Call (213) 429-1092.",
+   "description": "Harley bagger audio, AMS pods, car stereos, window tint and alarms for View Park-Windsor Hills at Audio MotorSports in Carson, 12.3 miles. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -132,7 +132,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "Is View Park-Windsor Hills too far to ride for a motorcycle audio install?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "No. The shop is 12.3 miles away, roughly twenty-five to thirty minutes outside rush hour. Call (213) 429-1092 or text (213) 429-1092 to set a time, then ride down and either wait while the pods go in or leave the bike and pick it up later that day."
+      "text": "No. The shop is 12.3 miles away, roughly twenty-five to thirty minutes outside rush hour. Call (310) 513-8800 or text (213) 429-1092 to set a time, then ride down and either wait while the pods go in or leave the bike and pick it up later that day."
      }
     },
     {

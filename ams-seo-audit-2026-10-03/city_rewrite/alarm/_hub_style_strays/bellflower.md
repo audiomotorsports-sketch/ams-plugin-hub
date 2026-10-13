@@ -4,7 +4,7 @@ city: Bellflower
 miles: 9.3
 lead_service: car stereo installation
 title: Car Stereo Installation in Carson for Bellflower | LA Car Beats
-meta: Car stereo installation, head unit installation and speaker replacement for Bellflower drivers at LA Car Beats by Audio MotorSports, Carson, 9.3 miles away. Call (213) 429-1092.
+meta: Car stereo installation, head unit installation and speaker replacement for Bellflower drivers at LA Car Beats by Audio MotorSports, Carson, 9.3 miles away. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Stereo Installation for Bellflower Drivers
@@ -38,7 +38,7 @@ Plenty of Bellflower drivers wait inside; there is seating, a TV with Netflix, f
 
 ### How much does car stereo installation cost for a Bellflower car?
 
-Labor depends on the car: a simple double-DIN swap is a short job, while a vehicle with a factory amplifier or integrated climate controls takes longer and needs extra interface parts. Everything is quoted at the shop once we see the vehicle, so call (213) 429-1092 with the year, make and model.
+Labor depends on the car: a simple double-DIN swap is a short job, while a vehicle with a factory amplifier or integrated climate controls takes longer and needs extra interface parts. Everything is quoted at the shop once we see the vehicle, so call (310) 513-8800 with the year, make and model.
 
 ### Can I drop my car off from Bellflower and pick it up after work?
 
@@ -70,7 +70,7 @@ Full-service pages on the main site: [Lakewood](/lakewood/) · [Paramount](/para
 
 ## Book from Bellflower
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open 9:30 to 6:00 Monday to Saturday; closed Sunday. The shop holds a 4.8 on Google from 654 reviews and a 4.7 on Yelp from 777, as of October 2026.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open 9:30 to 6:00 Monday to Saturday; closed Sunday. The shop holds a 4.8 on Google from 654 reviews and a 4.7 on Yelp from 777, as of October 2026.
 
 ```json
 {
@@ -119,7 +119,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
      "name": "How much does car stereo installation cost for a Bellflower car?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Labor depends on the car: a simple double-DIN swap is a short job, while a vehicle with a factory amplifier or integrated climate controls takes longer and needs extra interface parts. Everything is quoted at the shop once we see the vehicle, so call (213) 429-1092 with the year, make and model."
+      "text": "Labor depends on the car: a simple double-DIN swap is a short job, while a vehicle with a factory amplifier or integrated climate controls takes longer and needs extra interface parts. Everything is quoted at the shop once we see the vehicle, so call (310) 513-8800 with the year, make and model."
      }
     },
     {

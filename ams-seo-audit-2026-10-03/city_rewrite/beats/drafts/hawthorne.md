@@ -6,7 +6,7 @@ lead_service: subwoofer and amplifier installation
 brand: LA Car Beats
 source: hub-mounted copy; standalone www host not verified
 title: Hawthorne Subwoofer & Amplifier Installation | LA Car Beats
-meta: Subwoofer installation and amplifier installation for Hawthorne drivers at LA Car Beats by Audio MotorSports in Carson, 8 miles away. Call (213) 429-1092.
+meta: Subwoofer installation and amplifier installation for Hawthorne drivers at LA Car Beats by Audio MotorSports in Carson, 8 miles away. Call (310) 513-8800.
 ---
 # Subwoofer and Amplifier Installation for Hawthorne
 
@@ -21,7 +21,7 @@ Hawthorne drivers come to LA Car Beats by Audio MotorSports, Carson, for subwoof
 
 ## Hawthorne to the Carson bay
 
-From Hawthorne it is about 8 miles, which is roughly 16 to 19 minutes outside peak traffic (approx). We work Monday through Saturday, 9:30 to 6:00, and we are closed on Sunday. Schedule an appointment at (213) 429-1092 or by texting (213) 429-1092. A sub and amp install is usually a drop-off; a quick sub swap can be waited on. The shop is close to the beach in Carson, and plenty of customers make a 100-plus mile trip for the same install.
+From Hawthorne it is about 8 miles, which is roughly 16 to 19 minutes outside peak traffic (approx). We work Monday through Saturday, 9:30 to 6:00, and we are closed on Sunday. Schedule an appointment at (310) 513-8800 or by texting (213) 429-1092. A sub and amp install is usually a drop-off; a quick sub swap can be waited on. The shop is close to the beach in Carson, and plenty of customers make a 100-plus mile trip for the same install.
 
 <!-- owner-details-2026-10-07 -->
 For a longer job from Hawthorne, some people walk to the mall, the movie theaters or a coffee shop nearby; the DoubleTree down the street has a full bar, and Cabrillo Beach is about 12 minutes away. The shop is LGBTQ-friendly and everyone from Hawthorne is welcome, as our Google and Yelp listings state. From Hawthorne you can reach us by the 110, the 405 or the 710; the shop is right off the 110 at Avalon Blvd. A good number of Hawthorne customers are SpaceX employees and engineers who book a lunch-hour drop-off and pick up after work.
@@ -58,7 +58,7 @@ Car stereo installation pages for cities around Hawthorne: [Lawndale](/beats/car
 
 ## Book your Hawthorne sub and amp install
 
-Call (213) 429-1092 or text (213) 429-1092 to get on the schedule. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sundays.
+Call (310) 513-8800 or text (213) 429-1092 to get on the schedule. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, closed Sundays.
 
 ```json
 {
@@ -70,7 +70,7 @@ Call (213) 429-1092 or text (213) 429-1092 to get on the schedule. Audio MotorSp
    "name": "Hawthorne Subwoofer & Amplifier Installation | LA Car Beats",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-hawthorne/",
    "dateModified": "2026-10-08",
-   "description": "Subwoofer installation and amplifier installation for Hawthorne drivers at LA Car Beats by Audio MotorSports in Carson, 8 miles away. Call (213) 429-1092.",
+   "description": "Subwoofer installation and amplifier installation for Hawthorne drivers at LA Car Beats by Audio MotorSports in Carson, 8 miles away. Call (310) 513-8800.",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
    }

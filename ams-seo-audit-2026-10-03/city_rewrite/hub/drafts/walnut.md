@@ -4,7 +4,7 @@ city: Walnut
 miles: 26.5
 lead_service: Tesla window tint
 title: Tesla Window Tint for Walnut Drivers | Audio MotorSports
-meta: Tesla window tint, ceramic tint, car stereo installation, alarms and remote start for Walnut drivers at Audio MotorSports in Carson, 26.5 miles. (213) 429-1092.
+meta: Tesla window tint, ceramic tint, car stereo installation, alarms and remote start for Walnut drivers at Audio MotorSports in Carson, 26.5 miles. (310) 513-8800.
 ---
 # Tesla Window Tint for Walnut Drivers
 
@@ -59,7 +59,7 @@ Standard-vehicle window tint Solar $249, Solar Ceramic $329 installed. Viper 310
 
 ## Book from Walnut
 
-Call (213) 429-1092 or text (213) 429-1092 with your Tesla model and year. The bay is at 22025 S Avalon Blvd Ste A, Carson, CA 90745; Mon-Sat 9:30-18:00, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092 with your Tesla model and year. The bay is at 22025 S Avalon Blvd Ste A, Carson, CA 90745; Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -70,7 +70,7 @@ Call (213) 429-1092 or text (213) 429-1092 with your Tesla model and year. The b
    "@id": "https://www.audiomotorsports.com/walnut/#webpage",
    "url": "https://www.audiomotorsports.com/walnut/",
    "name": "Tesla Window Tint for Walnut Drivers | Audio MotorSports",
-   "description": "Tesla window tint, ceramic window tint, car stereo installation, alarms and remote start for Walnut drivers at Audio MotorSports in Carson, 26.5 miles out. Call (213) 429-1092.",
+   "description": "Tesla window tint, ceramic window tint, car stereo installation, alarms and remote start for Walnut drivers at Audio MotorSports in Carson, 26.5 miles out. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

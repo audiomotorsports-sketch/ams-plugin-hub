@@ -4,7 +4,7 @@ city: Exposition Park
 miles: 15.9
 lead_service: Tesla window tint
 title: Tesla Window Tint for Exposition Park | Audio MotorSports
-meta: Tesla window tint, ceramic tint, car stereo installation and alarms for Exposition Park drivers at Audio MotorSports in Carson, 15.9 miles. Call (213) 429-1092.
+meta: Tesla window tint, ceramic tint, car stereo installation and alarms for Exposition Park drivers at Audio MotorSports in Carson, 15.9 miles. Call (310) 513-8800.
 ---
 # Tesla Window Tint for Exposition Park Drivers
 
@@ -69,7 +69,7 @@ Tesla window tint, stereos, GPS tracker installation and dash camera installatio
 
 ## Book Tesla window tint from Exposition Park
 
-Call (213) 429-1092 or text (213) 429-1092 with your Tesla model. The shop is Audio MotorSports at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday to Saturday 9:30-6:00, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092 with your Tesla model. The shop is Audio MotorSports at 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Monday to Saturday 9:30-6:00, closed Sunday.
 
 ```json
 {
@@ -80,7 +80,7 @@ Call (213) 429-1092 or text (213) 429-1092 with your Tesla model. The shop is Au
    "@id": "https://www.audiomotorsports.com/exposition-park/#webpage",
    "url": "https://www.audiomotorsports.com/exposition-park/",
    "name": "Tesla Window Tint for Exposition Park | Audio MotorSports",
-   "description": "Tesla window tint, ceramic tint, car stereo installation and alarms for Exposition Park drivers at Audio MotorSports in Carson, 15.9 miles. Call (213) 429-1092.",
+   "description": "Tesla window tint, ceramic tint, car stereo installation and alarms for Exposition Park drivers at Audio MotorSports in Carson, 15.9 miles. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

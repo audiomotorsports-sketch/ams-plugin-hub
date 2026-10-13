@@ -4,7 +4,7 @@ city: Playa Vista
 miles: 13.5
 lead_service: dash camera installation
 title: Dash Camera Installation for Playa Vista | LA Car Alarm
-meta: Dash camera installation for Playa Vista drivers at LA Car Alarm by Audio MotorSports, Carson, 13.5 miles away. Viper alarms, remote start. Call (213) 429-1092.
+meta: Dash camera installation for Playa Vista drivers at LA Car Alarm by Audio MotorSports, Carson, 13.5 miles away. Viper alarms, remote start. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Dash Camera Installation for Playa Vista Drivers
@@ -69,7 +69,7 @@ Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Book a camera install from Playa Vista
 
-Call (213) 429-1092 or text (213) 429-1092 with your year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with your year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

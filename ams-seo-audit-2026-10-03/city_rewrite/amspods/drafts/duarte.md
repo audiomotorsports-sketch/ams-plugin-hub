@@ -4,7 +4,7 @@ city: Duarte
 miles: 27.1
 lead_service: Harley bagger audio for group rides
 title: Harley Bagger Audio Duarte | AMS Pods
-meta: Harley bagger audio for group rides: AMS pods and amplifier installation for Duarte riders at AMS Pods by Audio MotorSports in Carson. (213) 429-1092.
+meta: Harley bagger audio for group rides: AMS pods and amplifier installation for Duarte riders at AMS Pods by Audio MotorSports in Carson. (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Group-Ride Bagger Audio for Duarte Harley Riders
@@ -65,7 +65,7 @@ Riders also come in from [Arcadia](/amspods/bagger-audio-arcadia/), [Altadena](/
 
 ## Book before the next ride
 
-Call (213) 429-1092 or text (213) 429-1092 with your year and which bagger you ride. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with your year and which bagger you ride. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -76,7 +76,7 @@ Call (213) 429-1092 or text (213) 429-1092 with your year and which bagger you r
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-duarte/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-duarte/",
    "name": "Harley Bagger Audio Duarte | AMS Pods",
-   "description": "Harley bagger audio for group rides: AMS pods and amplifier installation for Duarte riders at AMS Pods by Audio MotorSports in Carson. (213) 429-1092.",
+   "description": "Harley bagger audio for group rides: AMS pods and amplifier installation for Duarte riders at AMS Pods by Audio MotorSports in Carson. (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

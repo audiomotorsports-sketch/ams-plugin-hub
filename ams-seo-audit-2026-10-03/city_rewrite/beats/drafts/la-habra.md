@@ -4,7 +4,7 @@ city: La Habra
 miles: 19.5
 lead_service: speaker replacement
 title: La Habra Speaker Replacement & Car Audio | LA Car Beats
-meta: Speaker replacement, speaker installation and car stereo installation for La Habra drivers at LA Car Beats, Audio MotorSports, Carson. Call (213) 429-1092.
+meta: Speaker replacement, speaker installation and car stereo installation for La Habra drivers at LA Car Beats, Audio MotorSports, Carson. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Speaker Replacement and Car Audio for La Habra
@@ -67,7 +67,7 @@ LA Car Beats pages for La Habra neighbors:
 
 ## Book speaker replacement
 
-Text (213) 429-1092 or call (213) 429-1092 with your year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Monday to Saturday 9:30-18:00, closed Sunday.
+Text (213) 429-1092 or call (310) 513-8800 with your year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Monday to Saturday 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -78,7 +78,7 @@ Text (213) 429-1092 or call (213) 429-1092 with your year, make and model. Audio
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-la-habra/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-la-habra/",
    "name": "La Habra Speaker Replacement & Car Audio | LA Car Beats",
-   "description": "Speaker replacement, speaker installation and car stereo installation for La Habra drivers at LA Car Beats, Audio MotorSports, Carson. Call (213) 429-1092.",
+   "description": "Speaker replacement, speaker installation and car stereo installation for La Habra drivers at LA Car Beats, Audio MotorSports, Carson. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

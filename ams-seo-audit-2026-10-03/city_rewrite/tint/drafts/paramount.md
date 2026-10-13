@@ -5,7 +5,7 @@ miles: 7.4
 lead_service: Window tint / ceramic window tint (LA Car Tint)
 source: hub-mounted copy; standalone www host not verified
 title: Paramount Window Tint, Work Trucks & Fleets | LA Car Tint
-meta: Car window tint for Paramount work trucks, vans and daily drivers, installed by Audio MotorSports in Carson, 7.4 miles away. Call (213) 429-1092 to book.
+meta: Car window tint for Paramount work trucks, vans and daily drivers, installed by Audio MotorSports in Carson, 7.4 miles away. Call (310) 513-8800 to book.
 ---
 # Car Window Tint for Paramount Trucks, Vans and Daily Drivers
 
@@ -34,7 +34,7 @@ For a longer job from Paramount, some people walk to the mall, the movie theater
 
 ### Can LA Car Tint handle a small fleet of work vans from Paramount?
 
-Yes. We schedule fleet vehicles one after another so your crew is not without trucks for long, and each van gets the same hand-cut film and tight edge as a private car. Pricing for vans and trucks is quoted per vehicle at the shop. Call (213) 429-1092 to set it up.
+Yes. We schedule fleet vehicles one after another so your crew is not without trucks for long, and each van gets the same hand-cut film and tight edge as a private car. Pricing for vans and trucks is quoted per vehicle at the shop. Call (310) 513-8800 to set it up.
 
 ### Which window tint holds up best on a truck that parks outdoors all day in Paramount?
 
@@ -62,7 +62,7 @@ For a standard sedan, side windows and rear glass, Solar window tint is $249 ins
 
 ## Set up window tint for your Paramount vehicles
 
-Phone (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, is open Mon-Sat from 9:30 to 6:00 and closed on Sunday. Rated 4.8 on Google with 654 reviews and 4.7 on Yelp with 777 reviews as of October 2026.
+Phone (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, is open Mon-Sat from 9:30 to 6:00 and closed on Sunday. Rated 4.8 on Google with 654 reviews and 4.7 on Yelp with 777 reviews as of October 2026.
 
 ```json
 {
@@ -73,7 +73,7 @@ Phone (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon B
    "@id": "https://www.audiomotorsports.com/tint/window-tint-paramount/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-paramount/",
    "name": "Paramount Window Tint, Work Trucks & Fleets | LA Car Tint",
-   "description": "Car window tint for Paramount work trucks, vans and daily drivers, installed by Audio MotorSports in Carson, 7.4 miles away. Call (213) 429-1092 to book.",
+   "description": "Car window tint for Paramount work trucks, vans and daily drivers, installed by Audio MotorSports in Carson, 7.4 miles away. Call (310) 513-8800 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -115,7 +115,7 @@ Phone (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon B
      "name": "Can LA Car Tint handle a small fleet of work vans from Paramount?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. We schedule fleet vehicles one after another so your crew is not without trucks for long, and each van gets the same hand-cut film and tight edge as a private car. Pricing for vans and trucks is quoted per vehicle at the shop. Call (213) 429-1092 to set it up."
+      "text": "Yes. We schedule fleet vehicles one after another so your crew is not without trucks for long, and each van gets the same hand-cut film and tight edge as a private car. Pricing for vans and trucks is quoted per vehicle at the shop. Call (310) 513-8800 to set it up."
      }
     },
     {

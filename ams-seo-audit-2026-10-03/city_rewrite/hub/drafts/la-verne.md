@@ -4,7 +4,7 @@ city: La Verne
 miles: 41.8
 lead_service: car alarm & remote start installation
 title: Car Alarm Installation for La Verne | Audio MotorSports
-meta: La Verne car alarm installation, remote start and GPS trackers, plus window tint and car stereo at Audio MotorSports in Carson, 41.8 miles. Call (213) 429-1092.
+meta: La Verne car alarm installation, remote start and GPS trackers, plus window tint and car stereo at Audio MotorSports in Carson, 41.8 miles. Call (310) 513-8800.
 ---
 # Car Alarm Installation and Remote Start Installation for La Verne
 
@@ -61,7 +61,7 @@ La Verne neighbors on the drive-in list: [San Dimas](/san-dimas/), [Pomona](/pom
 
 ## Book La Verne alarm installation
 
-Phone (213) 429-1092 or text (213) 429-1092 with your year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30 AM to 6:00 PM; closed Sunday.
+Phone (310) 513-8800 or text (213) 429-1092 with your year, make and model. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday to Saturday 9:30 AM to 6:00 PM; closed Sunday.
 
 ```json
 {
@@ -72,7 +72,7 @@ Phone (213) 429-1092 or text (213) 429-1092 with your year, make and model. Audi
    "@id": "https://www.audiomotorsports.com/la-verne/#webpage",
    "url": "https://www.audiomotorsports.com/la-verne/",
    "name": "Car Alarm Installation for La Verne | Audio MotorSports",
-   "description": "La Verne car alarm installation, remote start and GPS trackers, plus window tint and car stereo at Audio MotorSports in Carson, 41.8 miles. Call (213) 429-1092.",
+   "description": "La Verne car alarm installation, remote start and GPS trackers, plus window tint and car stereo at Audio MotorSports in Carson, 41.8 miles. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "inLanguage": "en-US",
    "about": {

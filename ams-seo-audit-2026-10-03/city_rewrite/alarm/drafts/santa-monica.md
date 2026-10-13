@@ -4,7 +4,7 @@ city: Santa Monica
 miles: 18.4
 lead_service: work-truck security
 title: Work Van & Car Alarm Install Santa Monica | LA Car Alarm
-meta: Work van and car alarm installation for Santa Monica at LA Car Alarm by Audio MotorSports, Carson, 18.4 miles away. GPS, remote start. Call (213) 429-1092.
+meta: Work van and car alarm installation for Santa Monica at LA Car Alarm by Audio MotorSports, Carson, 18.4 miles away. GPS, remote start. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Work Van and Car Alarm Installation for Santa Monica
@@ -69,7 +69,7 @@ Google 4.8 (654 reviews) and Yelp 4.7 (777 reviews), as of October 2026.
 
 ## Schedule a Santa Monica work vehicle
 
-Call (213) 429-1092 or text (213) 429-1092 with the year, make, model and how many doors need covering. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with the year, make, model and how many doors need covering. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {

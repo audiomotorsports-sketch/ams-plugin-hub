@@ -5,7 +5,7 @@ miles: 8.0
 lead_service: Tesla window tint (Model S)
 source: hub-mounted copy; standalone www host not verified
 title: Hawthorne Model S Window Tint | Tesla Tint LA
-meta: Model S and Tesla window tint for Hawthorne owners at Audio MotorSports in Carson, 8 miles away. Ceramic film, sensors left clear. Call (213) 429-1092 to book.
+meta: Model S and Tesla window tint for Hawthorne owners at Audio MotorSports in Carson, 8 miles away. Ceramic film, sensors left clear. Call (310) 513-8800 to book.
 ---
 # Tesla Window Tint in Carson for Hawthorne Model S Owners
 
@@ -68,7 +68,7 @@ Every Tesla, Model S included, gets its own quote by model at the shop; text us 
 
 ## Call or text
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -79,7 +79,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-hawthorne/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-hawthorne/",
    "name": "Hawthorne Model S Window Tint | Tesla Tint LA",
-   "description": "Model S and Tesla window tint for Hawthorne owners at Audio MotorSports in Carson, 8 miles away. Ceramic film, sensors left clear. Call (213) 429-1092 to book.",
+   "description": "Model S and Tesla window tint for Hawthorne owners at Audio MotorSports in Carson, 8 miles away. Ceramic film, sensors left clear. Call (310) 513-8800 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

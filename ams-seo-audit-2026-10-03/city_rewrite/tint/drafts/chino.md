@@ -4,7 +4,7 @@ city: Chino
 miles: 44.0
 lead_service: car window tint
 title: Car Window Tint Chino | LA Car Tint, Carson
-meta: Car window tint and ceramic film for Chino trucks, SUVs and sedans, hand-cut and installed by Audio MotorSports in Carson, 44 miles away. Call (213) 429-1092.
+meta: Car window tint and ceramic film for Chino trucks, SUVs and sedans, hand-cut and installed by Audio MotorSports in Carson, 44 miles away. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Window Tint for Chino Drivers, by Audio MotorSports, Carson
@@ -45,7 +45,7 @@ Trucks get the slider filmed in separate panels so it still slides, door glass t
 
 ### How should a Chino driver plan the day around the appointment?
 
-Book a morning slot, leave early, and either wait at the shop or drop the vehicle and come back in the afternoon. Keep the windows up for a few days afterward while the film cures. Call (213) 429-1092 or text (213) 429-1092 with the year, make and model to set it up.
+Book a morning slot, leave early, and either wait at the shop or drop the vehicle and come back in the afternoon. Keep the windows up for a few days afterward while the film cures. Call (310) 513-8800 or text (213) 429-1092 with the year, make and model to set it up.
 
 ### Does ceramic tint help with the long commute glare as well as heat?
 
@@ -64,7 +64,7 @@ Solar window tint $249 installed and Solar Ceramic $329 installed, as of October
 
 ## Book it
 
-Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
+Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
 
 ```json
 {
@@ -75,7 +75,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-chino/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-chino/",
    "name": "Car Window Tint Chino | LA Car Tint, Carson",
-   "description": "Car window tint and ceramic film for Chino trucks, SUVs and sedans, hand-cut and installed by Audio MotorSports in Carson, 44 miles away. Call (213) 429-1092.",
+   "description": "Car window tint and ceramic film for Chino trucks, SUVs and sedans, hand-cut and installed by Audio MotorSports in Carson, 44 miles away. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -139,7 +139,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "How should a Chino driver plan the day around the appointment?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Book a morning slot, leave early, and either wait at the shop or drop the vehicle and come back in the afternoon. Keep the windows up for a few days afterward while the film cures. Call (213) 429-1092 or text (213) 429-1092 with the year, make and model to set it up."
+      "text": "Book a morning slot, leave early, and either wait at the shop or drop the vehicle and come back in the afternoon. Keep the windows up for a few days afterward while the film cures. Call (310) 513-8800 or text (213) 429-1092 with the year, make and model to set it up."
      }
     },
     {

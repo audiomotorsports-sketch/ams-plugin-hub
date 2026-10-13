@@ -4,7 +4,7 @@ city: Maywood
 miles: 11.9
 lead_service: Tesla window tint (camera and sensor clearance)
 title: Maywood Tesla Window Tint | Tesla Tint LA, Carson
-meta: Tesla window tint that leaves every camera clear, for Maywood owners at Tesla Tint LA by Audio MotorSports in Carson, 11.9 miles away. Call (213) 429-1092.
+meta: Tesla window tint that leaves every camera clear, for Maywood owners at Tesla Tint LA by Audio MotorSports in Carson, 11.9 miles away. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Tesla Window Tint for Maywood Without Covering a Single Camera
@@ -60,7 +60,7 @@ Tesla tint is priced per model after Nick sees the car, and the quote is given a
 
 ## Set a time
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

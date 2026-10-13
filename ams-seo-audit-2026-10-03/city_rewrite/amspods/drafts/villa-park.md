@@ -4,7 +4,7 @@ city: Villa Park
 miles: 26.0
 lead_service: Harley bagger audio for long rides
 title: Villa Park Long-Ride Harley Bagger Audio | AMS Pods
-meta: Long-ride Harley bagger audio for Villa Park riders: AMS lower-fairing pods, amplifier installation and speaker replacement in Carson. Call (213) 429-1092.
+meta: Long-ride Harley bagger audio for Villa Park riders: AMS lower-fairing pods, amplifier installation and speaker replacement in Carson. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Harley Bagger Audio for Long Rides out of Villa Park
@@ -67,7 +67,7 @@ Other AMS Pods pages nearby: [Orange](/amspods/bagger-audio-orange/), [Anaheim H
 
 ## Call or text from Villa Park
 
-Call (213) 429-1092 or text (213) 429-1092. 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092. 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30 AM to 6:00 PM, Sunday closed.
 
 ```json
 {
@@ -78,7 +78,7 @@ Call (213) 429-1092 or text (213) 429-1092. 22025 S Avalon Blvd Ste A, Carson, C
    "@id": "https://www.audiomotorsports.com/amspods/bagger-audio-villa-park/#webpage",
    "url": "https://www.audiomotorsports.com/amspods/bagger-audio-villa-park/",
    "name": "Villa Park Long-Ride Harley Bagger Audio | AMS Pods",
-   "description": "Long-ride Harley bagger audio for Villa Park riders: AMS lower-fairing pods, amplifier installation and speaker replacement in Carson. Call (213) 429-1092.",
+   "description": "Long-ride Harley bagger audio for Villa Park riders: AMS lower-fairing pods, amplifier installation and speaker replacement in Carson. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

@@ -4,7 +4,7 @@ city: Pacific Palisades
 miles: 21.4
 lead_service: Car audio / stereo installation
 title: Car Stereo Install for Pacific Palisades | Audio MotorSports
-meta: Car stereo installation, speaker replacement, window tint and alarms for Pacific Palisades drivers at Audio MotorSports, Carson, 21.4 mi. Call (213) 429-1092.
+meta: Car stereo installation, speaker replacement, window tint and alarms for Pacific Palisades drivers at Audio MotorSports, Carson, 21.4 mi. Call (310) 513-8800.
 ---
 # Car Stereo Installation for Pacific Palisades
 
@@ -71,7 +71,7 @@ Amplifiers, DSPs, speakers, head units, Tesla window tint, GPS tracker installat
 
 ## Book your car stereo installation from Pacific Palisades
 
-Call (213) 429-1092 or text (213) 429-1092 with the year, make and model and what you want the car to sound like. We are at 22025 S Avalon Blvd Ste A in Carson, CA 90745, Monday to Saturday 9:30-6:00, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092 with the year, make and model and what you want the car to sound like. We are at 22025 S Avalon Blvd Ste A in Carson, CA 90745, Monday to Saturday 9:30-6:00, closed Sunday.
 
 ```json
 {
@@ -82,7 +82,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the year, make and model and wha
    "@id": "https://www.audiomotorsports.com/pacific-palisades/#webpage",
    "url": "https://www.audiomotorsports.com/pacific-palisades/",
    "name": "Car Stereo Install for Pacific Palisades | Audio MotorSports",
-   "description": "Car stereo installation, speaker replacement, window tint and alarms for Pacific Palisades drivers at Audio MotorSports, Carson, 21.4 mi. Call (213) 429-1092.",
+   "description": "Car stereo installation, speaker replacement, window tint and alarms for Pacific Palisades drivers at Audio MotorSports, Carson, 21.4 mi. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

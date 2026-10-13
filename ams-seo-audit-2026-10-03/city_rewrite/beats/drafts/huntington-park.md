@@ -4,7 +4,7 @@ city: Huntington Park
 miles: 10.9
 lead_service: factory-look car stereo installation
 title: Huntington Park Factory-Look Stereo Install | LA Car Beats
-meta: Factory-look car stereo installation and head unit installation for Huntington Park drivers at LA Car Beats by Audio MotorSports in Carson. Call (213) 429-1092.
+meta: Factory-look car stereo installation and head unit installation for Huntington Park drivers at LA Car Beats by Audio MotorSports in Carson. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Factory-Look Car Stereo Installation for Huntington Park
@@ -68,7 +68,7 @@ Car stereo installation pages for cities near Huntington Park:
 
 ## Book your install
 
-Call (213) 429-1092 or send a text to (213) 429-1092. LA Car Beats at Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30 to 6:00; Sunday closed.
+Call (310) 513-8800 or send a text to (213) 429-1092. LA Car Beats at Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30 to 6:00; Sunday closed.
 
 ```json
 {
@@ -79,7 +79,7 @@ Call (213) 429-1092 or send a text to (213) 429-1092. LA Car Beats at Audio Moto
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-huntington-park/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-huntington-park/",
    "name": "Huntington Park Factory-Look Stereo Install | LA Car Beats",
-   "description": "Factory-look car stereo installation and head unit installation for Huntington Park drivers at LA Car Beats by Audio MotorSports in Carson. Call (213) 429-1092.",
+   "description": "Factory-look car stereo installation and head unit installation for Huntington Park drivers at LA Car Beats by Audio MotorSports in Carson. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

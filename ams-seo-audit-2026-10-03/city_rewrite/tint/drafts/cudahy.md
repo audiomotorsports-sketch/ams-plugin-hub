@@ -4,12 +4,12 @@ city: Cudahy
 miles: 10.0
 lead_service: ceramic window tint (heat)
 title: Ceramic Window Tint Cudahy | LA Car Tint, Carson
-meta: Ceramic window tint and car window tinting for hot Cudahy summers at LA Car Tint by Audio MotorSports in Carson, 10 miles away. Call (213) 429-1092.
+meta: Ceramic window tint and car window tinting for hot Cudahy summers at LA Car Tint by Audio MotorSports in Carson, 10 miles away. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Ceramic Window Tint for Cudahy, by Audio MotorSports, Carson
 
-A car parked on a Cudahy street in August is an oven, and ceramic window tint is the fix. LA Car Tint is the window tinting desk at Audio MotorSports, 22025 S Avalon Blvd Ste A in Carson, about 10 miles from Cudahy. Solar and Solar Ceramic car window tint are hand-cut on the glass and installed here, and the same crew handles car stereo installation, car alarm installation, remote start installation and Tesla window tint. Call (213) 429-1092.
+A car parked on a Cudahy street in August is an oven, and ceramic window tint is the fix. LA Car Tint is the window tinting desk at Audio MotorSports, 22025 S Avalon Blvd Ste A in Carson, about 10 miles from Cudahy. Solar and Solar Ceramic car window tint are hand-cut on the glass and installed here, and the same crew handles car stereo installation, car alarm installation, remote start installation and Tesla window tint. Call (310) 513-8800.
 
 ## What Cudahy drivers bring us
 
@@ -63,7 +63,7 @@ Solar car window tint $249 installed. Solar Ceramic $329 installed. As of Octobe
 
 ## Book it
 
-Call (213) 429-1092. Text (213) 429-1092. The shop: 22025 S Avalon Blvd Ste A. Carson, CA 90745. Mon-Sat 9:30-6:00, Sunday closed.
+Call (310) 513-8800. Text (213) 429-1092. The shop: 22025 S Avalon Blvd Ste A. Carson, CA 90745. Mon-Sat 9:30-6:00, Sunday closed.
 
 ```json
 {
@@ -74,7 +74,7 @@ Call (213) 429-1092. Text (213) 429-1092. The shop: 22025 S Avalon Blvd Ste A. C
    "@id": "https://www.audiomotorsports.com/tint/window-tint-cudahy/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-cudahy/",
    "name": "Ceramic Window Tint Cudahy | LA Car Tint, Carson",
-   "description": "Ceramic window tint and car window tinting for hot Cudahy summers at LA Car Tint by Audio MotorSports in Carson, 10 miles away. Call (213) 429-1092.",
+   "description": "Ceramic window tint and car window tinting for hot Cudahy summers at LA Car Tint by Audio MotorSports in Carson, 10 miles away. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

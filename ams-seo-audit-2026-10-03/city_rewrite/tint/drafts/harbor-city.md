@@ -4,7 +4,7 @@ city: Harbor City
 miles: 2.8
 lead_service: car window tint (heat)
 title: Harbor City Car Window Tint | LA Car Tint, Carson
-meta: Car window tint and ceramic window tint for Harbor City, installed at Audio MotorSports in Carson, 2.8 miles away. Call (213) 429-1092 to book.
+meta: Car window tint and ceramic window tint for Harbor City, installed at Audio MotorSports in Carson, 2.8 miles away. Call (310) 513-8800 to book.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Window Tint for Harbor City Drivers
@@ -58,7 +58,7 @@ Neighbors who use the same Carson bay: [Lomita](/tint/window-tint-lomita/), [Wil
 
 ## Book your Harbor City tint appointment
 
-Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745; open Mon-Sat 9:30-18:00, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. Audio MotorSports is at 22025 S Avalon Blvd Ste A, Carson, CA 90745; open Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -69,7 +69,7 @@ Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. Audio 
    "@id": "https://www.audiomotorsports.com/tint/window-tint-harbor-city/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-harbor-city/",
    "name": "Harbor City Car Window Tint | LA Car Tint, Carson",
-   "description": "Car window tint and ceramic window tint for Harbor City, installed at Audio MotorSports in Carson, 2.8 miles away. Call (213) 429-1092 to book.",
+   "description": "Car window tint and ceramic window tint for Harbor City, installed at Audio MotorSports in Carson, 2.8 miles away. Call (310) 513-8800 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

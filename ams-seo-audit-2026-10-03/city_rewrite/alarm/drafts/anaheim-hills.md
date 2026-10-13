@@ -5,7 +5,7 @@ city: Anaheim Hills
 miles: 29.9
 lead_service: Compustar remote start installation
 title: Remote Start Installation, Anaheim Hills | LA Car Alarm
-meta: Compustar remote start installation and Viper car alarms for Anaheim Hills drivers at LA Car Alarm by Audio MotorSports in Carson, 29.9 miles. (213) 429-1092.
+meta: Compustar remote start installation and Viper car alarms for Anaheim Hills drivers at LA Car Alarm by Audio MotorSports in Carson, 29.9 miles. (310) 513-8800.
 ---
 # Compustar Remote Start Installation for Anaheim Hills
 
@@ -60,7 +60,7 @@ Compustar 9910 remote start from $499. Viper 3108V alarm $269 installed. GPS tra
 
 ## Book an Anaheim Hills remote start
 
-Call (213) 429-1092 or text (213) 429-1092 with the year, make and model. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 with the year, make and model. LA Car Alarm by Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

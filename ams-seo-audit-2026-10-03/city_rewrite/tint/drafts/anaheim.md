@@ -4,7 +4,7 @@ city: Anaheim
 miles: 20.0
 lead_service: ceramic window tint
 title: Ceramic Window Tint Anaheim | LA Car Tint, Carson
-meta: Ceramic window tint for Anaheim rideshare, commuter and family cars, installed by Audio MotorSports in Carson, 20 miles away. Call (213) 429-1092 to book.
+meta: Ceramic window tint for Anaheim rideshare, commuter and family cars, installed by Audio MotorSports in Carson, 20 miles away. Call (310) 513-8800 to book.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Ceramic Window Tint for Anaheim Drivers, by Audio MotorSports, Carson
@@ -41,7 +41,7 @@ Yes. Tint reduces glare and heat but does not fog the view; from inside, the gla
 
 ### How long does a car window tint take in Carson for an Anaheim driver?
 
-A few hours. Book a morning slot and the car is usually ready by afternoon; some drivers wait at the shop. Keep the windows up for a few days after so the film cures. Appointments are set by calling (213) 429-1092 or texting (213) 429-1092.
+A few hours. Book a morning slot and the car is usually ready by afternoon; some drivers wait at the shop. Keep the windows up for a few days after so the film cures. Appointments are set by calling (310) 513-8800 or texting (213) 429-1092.
 
 ### Will a dash camera and GPS tracker fit into the same appointment as tint?
 
@@ -65,7 +65,7 @@ Solar window tint $249 installed and Solar Ceramic $329 installed, as of October
 
 ## Book it
 
-Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
+Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
 
 ```json
 {
@@ -76,7 +76,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-anaheim/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-anaheim/",
    "name": "Ceramic Window Tint Anaheim | LA Car Tint, Carson",
-   "description": "Ceramic window tint for Anaheim rideshare, commuter and family cars, installed by Audio MotorSports in Carson, 20 miles away. Call (213) 429-1092 to book.",
+   "description": "Ceramic window tint for Anaheim rideshare, commuter and family cars, installed by Audio MotorSports in Carson, 20 miles away. Call (310) 513-8800 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -132,7 +132,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "How long does a car window tint take in Carson for an Anaheim driver?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "A few hours. Book a morning slot and the car is usually ready by afternoon; some drivers wait at the shop. Keep the windows up for a few days after so the film cures. Appointments are set by calling (213) 429-1092 or texting (213) 429-1092."
+      "text": "A few hours. Book a morning slot and the car is usually ready by afternoon; some drivers wait at the shop. Keep the windows up for a few days after so the film cures. Appointments are set by calling (310) 513-8800 or texting (213) 429-1092."
      }
     },
     {

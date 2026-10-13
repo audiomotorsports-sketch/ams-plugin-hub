@@ -4,7 +4,7 @@ city: Monrovia
 miles: 33.3
 lead_service: Tesla window tint (one-piece rear glass)
 title: Monrovia Tesla Window Tint | Tesla Tint LA, Carson
-meta: Tesla window tint for Monrovia owners, with careful one-piece rear glass work, at Tesla Tint LA in Carson, 33.3 miles away. Call (213) 429-1092.
+meta: Tesla window tint for Monrovia owners, with careful one-piece rear glass work, at Tesla Tint LA in Carson, 33.3 miles away. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Monrovia Tesla Window Tint, Starting with the One-Piece Rear Glass
@@ -61,7 +61,7 @@ Your Monrovia Tesla is priced after Nick checks the glass, since each model is q
 
 ## Book it
 
-Call (213) 429-1092 or text (213) 429-1092 to book. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 to book. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

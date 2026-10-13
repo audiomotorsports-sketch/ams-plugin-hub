@@ -4,7 +4,7 @@ city: Orange
 miles: 
 lead_service: Tesla window tint (new delivery)
 title: Orange Tesla Window Tint for New Deliveries | Tesla Tint LA
-meta: New Tesla delivery in Orange? Get Tesla window tint with ceramic film at Tesla Tint LA by Audio MotorSports in Carson. Call or text (213) 429-1092.
+meta: New Tesla delivery in Orange? Get Tesla window tint with ceramic film at Tesla Tint LA in Carson. Call (310) 513-8800 or text (213) 429-1092.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Orange Tesla Window Tint for Brand-New Deliveries
@@ -61,7 +61,7 @@ A new delivery from Orange gets its figure by model, quoted at the shop. For a n
 
 ## Book it
 
-Call (213) 429-1092 or text (213) 429-1092 to book. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
+Call (310) 513-8800 or text (213) 429-1092 to book. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Mon-Sat 9:30-18:00, Sunday closed.
 
 ```json
 {

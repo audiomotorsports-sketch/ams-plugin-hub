@@ -5,7 +5,7 @@ miles: 7.8
 lead_service: car window tint (legal front-window angle)
 source: hub-mounted copy; standalone www host not verified
 title: Lynwood Window Tint | LA Car Tint by Audio MotorSports
-meta: Legal car window tint for Lynwood: fronts at the California shade, rears darker. By Audio MotorSports in Carson, 7.8 miles away. Call (213) 429-1092.
+meta: Legal car window tint for Lynwood: fronts at the California shade, rears darker. By Audio MotorSports in Carson, 7.8 miles away. Call (310) 513-8800.
 ---
 # Legal Car Window Tint for Lynwood Drivers
 
@@ -61,7 +61,7 @@ Car alarm installation, remote start installation, GPS tracker installation, car
 
 ## Call or text from Lynwood
 
-Phone (213) 429-1092 or text (213) 429-1092; the shop address is 22025 S Avalon Blvd Ste A, Carson, CA 90745, and the doors are open Mon-Sat 9:30 to 6:00, closed Sundays.
+Phone (310) 513-8800 or text (213) 429-1092; the shop address is 22025 S Avalon Blvd Ste A, Carson, CA 90745, and the doors are open Mon-Sat 9:30 to 6:00, closed Sundays.
 
 ```json
 {
@@ -72,7 +72,7 @@ Phone (213) 429-1092 or text (213) 429-1092; the shop address is 22025 S Avalon 
       "@id": "https://www.audiomotorsports.com/tint/window-tint-lynwood/#webpage",
       "url": "https://www.audiomotorsports.com/tint/window-tint-lynwood/",
       "name": "Lynwood Window Tint | LA Car Tint by Audio MotorSports",
-      "description": "Legal car window tint for Lynwood: fronts at the California shade, rears darker. By Audio MotorSports in Carson, 7.8 miles away. Call (213) 429-1092.",
+      "description": "Legal car window tint for Lynwood: fronts at the California shade, rears darker. By Audio MotorSports in Carson, 7.8 miles away. Call (310) 513-8800.",
       "dateModified": "2026-10-08",
       "about": {
         "@id": "https://www.audiomotorsports.com/#business"

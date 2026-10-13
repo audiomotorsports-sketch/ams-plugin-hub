@@ -4,7 +4,7 @@ city: La Habra Heights
 miles: 20.1
 lead_service: ceramic window tint
 title: Ceramic Tint La Habra Heights | LA Car Tint, Carson
-meta: Ceramic window tint and car window tinting for La Habra Heights SUVs and trucks, installed at Audio MotorSports in Carson, 20.1 miles away. Call (213) 429-1092.
+meta: Ceramic window tint and car window tinting for La Habra Heights SUVs and trucks, installed at Audio MotorSports in Carson, 20.1 miles away. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Ceramic Window Tint for La Habra Heights, by Audio MotorSports, Carson
@@ -64,7 +64,7 @@ Solar window tint $249 installed and Solar Ceramic $329 installed, as of October
 
 ## Book it
 
-Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
+Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
 
 ```json
 {
@@ -75,7 +75,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-la-habra-heights/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-la-habra-heights/",
    "name": "Ceramic Tint La Habra Heights | LA Car Tint, Carson",
-   "description": "Ceramic window tint and car window tinting for La Habra Heights SUVs and trucks, installed at Audio MotorSports in Carson, 20.1 miles away. Call (213) 429-1092.",
+   "description": "Ceramic window tint and car window tinting for La Habra Heights SUVs and trucks, installed at Audio MotorSports in Carson, 20.1 miles away. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

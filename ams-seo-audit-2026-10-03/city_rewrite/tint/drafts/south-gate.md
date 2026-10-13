@@ -5,7 +5,7 @@ miles: 9.3
 lead_service: SUV and truck window tint
 source: hub-mounted copy; standalone www host not verified
 title: South Gate Window Tint | LA Car Tint by Audio MotorSports
-meta: SUV, truck and sedan window tint for South Gate drivers at Audio MotorSports in Carson, 9.3 miles away. Ceramic film installed indoors. Call (213) 429-1092.
+meta: SUV, truck and sedan window tint for South Gate drivers at Audio MotorSports in Carson, 9.3 miles away. Ceramic film installed indoors. Call (310) 513-8800.
 ---
 # SUV and Car Window Tint for South Gate
 
@@ -44,7 +44,7 @@ Peeling almost always starts at an edge that was cut short or at dust trapped un
 
 ### What is the best way to book from South Gate?
 
-Call (213) 429-1092 or text (213) 429-1092 with the year, make and model and the shade you want. We will give you a time; on the day, you can wait at the shop or leave the vehicle with us. Payment plan available if you want to spread the cost, ask Nick.
+Call (310) 513-8800 or text (213) 429-1092 with the year, make and model and the shade you want. We will give you a time; on the day, you can wait at the shop or leave the vehicle with us. Payment plan available if you want to spread the cost, ask Nick.
 
 ## Window tint prices
 
@@ -61,7 +61,7 @@ Car alarm installation, remote start installation, car stereo installation, Appl
 
 ## Book your South Gate tint
 
-Text (213) 429-1092 or call (213) 429-1092 to reserve a slot at 22025 S Avalon Blvd Ste A, Carson, CA 90745; Audio MotorSports is open Monday through Saturday 9:30 to 6:00.
+Text (213) 429-1092 or call (310) 513-8800 to reserve a slot at 22025 S Avalon Blvd Ste A, Carson, CA 90745; Audio MotorSports is open Monday through Saturday 9:30 to 6:00.
 
 ```json
 {
@@ -72,7 +72,7 @@ Text (213) 429-1092 or call (213) 429-1092 to reserve a slot at 22025 S Avalon B
       "@id": "https://www.audiomotorsports.com/tint/window-tint-south-gate/#webpage",
       "url": "https://www.audiomotorsports.com/tint/window-tint-south-gate/",
       "name": "South Gate Window Tint | LA Car Tint by Audio MotorSports",
-      "description": "SUV, truck and sedan window tint for South Gate drivers at Audio MotorSports in Carson, 9.3 miles away. Ceramic film installed indoors. Call (213) 429-1092.",
+      "description": "SUV, truck and sedan window tint for South Gate drivers at Audio MotorSports in Carson, 9.3 miles away. Ceramic film installed indoors. Call (310) 513-8800.",
       "dateModified": "2026-10-08",
       "about": {
         "@id": "https://www.audiomotorsports.com/#business"
@@ -146,7 +146,7 @@ Text (213) 429-1092 or call (213) 429-1092 to reserve a slot at 22025 S Avalon B
           "name": "What is the best way to book from South Gate?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Call (213) 429-1092 or text (213) 429-1092 with the year, make and model and the shade you want. We will give you a time; on the day, you can wait at the shop or leave the vehicle with us. Payment plan available if you want to spread the cost, ask Nick."
+            "text": "Call (310) 513-8800 or text (213) 429-1092 with the year, make and model and the shade you want. We will give you a time; on the day, you can wait at the shop or leave the vehicle with us. Payment plan available if you want to spread the cost, ask Nick."
           }
         }
       ]

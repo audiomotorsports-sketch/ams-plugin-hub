@@ -4,7 +4,7 @@ city: Redondo Beach
 miles: 7.2
 lead_service: car window tint (UV)
 title: Redondo Beach Car Window Tint | LA Car Tint, Carson
-meta: Car window tint with UV protection for Redondo Beach drivers, installed at Audio MotorSports in Carson, 7.2 miles away. Call (213) 429-1092 to schedule.
+meta: Car window tint with UV protection for Redondo Beach drivers, installed at Audio MotorSports in Carson, 7.2 miles away. Call (310) 513-8800 to schedule.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Window Tint for Redondo Beach
@@ -58,7 +58,7 @@ Four-door Solar: $249 installed. Four-door Solar Ceramic: $329 installed. Both p
 
 ## Get on the schedule
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745, open Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -69,7 +69,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tint/window-tint-redondo-beach/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-redondo-beach/",
    "name": "Redondo Beach Car Window Tint | LA Car Tint, Carson",
-   "description": "Car window tint with UV protection for Redondo Beach drivers, installed at Audio MotorSports in Carson, 7.2 miles away. Call (213) 429-1092 to schedule.",
+   "description": "Car window tint with UV protection for Redondo Beach drivers, installed at Audio MotorSports in Carson, 7.2 miles away. Call (310) 513-8800 to schedule.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

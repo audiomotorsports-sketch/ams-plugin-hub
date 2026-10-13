@@ -4,7 +4,7 @@ city: Bradbury
 miles: 34.4
 lead_service: ceramic window tint
 title: Ceramic Window Tint Bradbury | LA Car Tint, Carson
-meta: Ceramic window tint and car window tinting for Bradbury luxury sedans and SUVs, hand-cut at Audio MotorSports in Carson, 34.4 miles away. Call (213) 429-1092.
+meta: Ceramic window tint and car window tinting for Bradbury luxury sedans and SUVs, hand-cut at Audio MotorSports in Carson, 34.4 miles away. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Ceramic Window Tint for Bradbury Owners, by Audio MotorSports, Carson
@@ -45,7 +45,7 @@ Yes. The front doors must pass most of the light, so a light film that cuts glar
 
 ### Can a Bradbury owner wait at the shop or should the car be left?
 
-Either works. The install takes a few hours, so some owners wait and some leave the car and pick it up later in the day. Tell us at booking which you prefer so we schedule the start time accordingly. Call (213) 429-1092 or text (213) 429-1092.
+Either works. The install takes a few hours, so some owners wait and some leave the car and pick it up later in the day. Tell us at booking which you prefer so we schedule the start time accordingly. Call (310) 513-8800 or text (213) 429-1092.
 
 ### What makes this tint shop worth the drive from Bradbury?
 
@@ -64,7 +64,7 @@ Solar window tint $249 installed and Solar Ceramic $329 installed, as of October
 
 ## Book it
 
-Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
+Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A. Carson, CA 90745. Monday-Saturday, 9:30 to 6:00. Closed Sunday.
 
 ```json
 {
@@ -75,7 +75,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-bradbury/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-bradbury/",
    "name": "Ceramic Window Tint Bradbury | LA Car Tint, Carson",
-   "description": "Ceramic window tint and car window tinting for Bradbury luxury sedans and SUVs, hand-cut at Audio MotorSports in Carson, 34.4 miles away. Call (213) 429-1092.",
+   "description": "Ceramic window tint and car window tinting for Bradbury luxury sedans and SUVs, hand-cut at Audio MotorSports in Carson, 34.4 miles away. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -139,7 +139,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "Can a Bradbury owner wait at the shop or should the car be left?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Either works. The install takes a few hours, so some owners wait and some leave the car and pick it up later in the day. Tell us at booking which you prefer so we schedule the start time accordingly. Call (213) 429-1092 or text (213) 429-1092."
+      "text": "Either works. The install takes a few hours, so some owners wait and some leave the car and pick it up later in the day. Tell us at booking which you prefer so we schedule the start time accordingly. Call (310) 513-8800 or text (213) 429-1092."
      }
     },
     {

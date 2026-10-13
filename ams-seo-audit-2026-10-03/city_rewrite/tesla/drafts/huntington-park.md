@@ -5,7 +5,7 @@ miles: 10.9
 lead_service: Tesla window tint (Model S)
 source: hub-mounted copy; standalone www host not verified
 title: Model S Tint for Huntington Park Owners | Tesla Tint LA
-meta: Model S and Tesla window tint for Huntington Park owners at Audio MotorSports in Carson, 10.9 miles away. Ceramic film on curved glass. Call (213) 429-1092.
+meta: Model S and Tesla window tint for Huntington Park owners at Audio MotorSports in Carson, 10.9 miles away. Ceramic film on curved glass. Call (310) 513-8800.
 ---
 # Model S Window Tint for Huntington Park Owners
 
@@ -68,7 +68,7 @@ The Model S and every other Tesla are quoted by model at the shop; text the year
 
 ## Call to book
 
-Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30 AM to 6:00 PM, closed Sunday.
 
 ```json
 {
@@ -79,7 +79,7 @@ Call (213) 429-1092 or text (213) 429-1092. Audio MotorSports, 22025 S Avalon Bl
    "@id": "https://www.audiomotorsports.com/tesla/tesla-tint-huntington-park/#webpage",
    "url": "https://www.audiomotorsports.com/tesla/tesla-tint-huntington-park/",
    "name": "Model S Tint for Huntington Park Owners | Tesla Tint LA",
-   "description": "Model S and Tesla window tint for Huntington Park owners at Audio MotorSports in Carson, 10.9 miles away. Ceramic film on curved glass. Call (213) 429-1092.",
+   "description": "Model S and Tesla window tint for Huntington Park owners at Audio MotorSports in Carson, 10.9 miles away. Ceramic film on curved glass. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

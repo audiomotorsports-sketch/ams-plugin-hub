@@ -4,7 +4,7 @@ city: San Gabriel
 miles: 20.4
 lead_service: car window tint (valley heat)
 title: Car Window Tint San Gabriel | LA Car Tint, Carson
-meta: Car window tint and ceramic film for San Gabriel drivers, hand-cut and installed by Audio MotorSports in Carson, 20.4 miles away. Call (213) 429-1092 to book.
+meta: Car window tint and ceramic film for San Gabriel drivers, hand-cut and installed by Audio MotorSports in Carson, 20.4 miles away. Call (310) 513-8800 to book.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Window Tint for San Gabriel Drivers, by Audio MotorSports in Carson
@@ -37,7 +37,7 @@ If you want film that lasts, yes. Each window is hand-cut and sealed at the edge
 
 ### How is the booking handled for someone driving from San Gabriel?
 
-Call (213) 429-1092 or text (213) 429-1092 with the vehicle and the film you want. We set a time, you drive down, and the car goes straight in. Wait at the shop or drop it and return later. You will have the car back the same day.
+Call (310) 513-8800 or text (213) 429-1092 with the vehicle and the film you want. We set a time, you drive down, and the car goes straight in. Wait at the shop or drop it and return later. You will have the car back the same day.
 
 ### What does ceramic film do that standard film does not?
 
@@ -64,7 +64,7 @@ Solar window tinting $249 installed; Solar Ceramic window tinting $329 installed
 
 ## Book it
 
-Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
+Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
 
 ```json
 {
@@ -75,7 +75,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-san-gabriel/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-san-gabriel/",
    "name": "Car Window Tint San Gabriel | LA Car Tint, Carson",
-   "description": "Car window tint and ceramic film for San Gabriel drivers, hand-cut and installed by Audio MotorSports in Carson, 20.4 miles away. Call (213) 429-1092 to book.",
+   "description": "Car window tint and ceramic film for San Gabriel drivers, hand-cut and installed by Audio MotorSports in Carson, 20.4 miles away. Call (310) 513-8800 to book.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -123,7 +123,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "How is the booking handled for someone driving from San Gabriel?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Call (213) 429-1092 or text (213) 429-1092 with the vehicle and the film you want. We set a time, you drive down, and the car goes straight in. Wait at the shop or drop it and return later. You will have the car back the same day."
+      "text": "Call (310) 513-8800 or text (213) 429-1092 with the vehicle and the film you want. We set a time, you drive down, and the car goes straight in. Wait at the shop or drop it and return later. You will have the car back the same day."
      }
     },
     {

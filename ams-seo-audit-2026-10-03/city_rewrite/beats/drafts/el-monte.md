@@ -4,7 +4,7 @@ city: El Monte
 miles: 26.6
 lead_service: car stereo installation
 title: Car Stereo Installation El Monte | LA Car Beats, Carson
-meta: Car stereo installation and head unit installation for El Monte drivers at LA Car Beats by Audio MotorSports in Carson. CarPlay, speakers. Call (213) 429-1092.
+meta: Car stereo installation and head unit installation for El Monte drivers at LA Car Beats by Audio MotorSports in Carson. CarPlay, speakers. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Car Stereo Installation for El Monte Drivers
@@ -66,7 +66,7 @@ LA Car Beats pages for areas around El Monte:
 
 ## Book car stereo installation
 
-Text (213) 429-1092 or call (213) 429-1092. LA Car Beats at Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30 to 6:00; Sunday closed.
+Text (213) 429-1092 or call (310) 513-8800. LA Car Beats at Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30 to 6:00; Sunday closed.
 
 ```json
 {
@@ -77,7 +77,7 @@ Text (213) 429-1092 or call (213) 429-1092. LA Car Beats at Audio MotorSports, 2
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-el-monte/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-el-monte/",
    "name": "Car Stereo Installation El Monte | LA Car Beats, Carson",
-   "description": "Car stereo installation and head unit installation for El Monte drivers at LA Car Beats by Audio MotorSports in Carson. CarPlay, speakers. Call (213) 429-1092.",
+   "description": "Car stereo installation and head unit installation for El Monte drivers at LA Car Beats by Audio MotorSports in Carson. CarPlay, speakers. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"

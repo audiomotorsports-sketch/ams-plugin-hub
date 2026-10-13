@@ -4,7 +4,7 @@ city: San Gabriel
 miles: 20.4
 lead_service: Apple CarPlay and Android Auto installation
 title: CarPlay & Android Auto for San Gabriel | Audio MotorSports
-meta: Apple CarPlay and Android Auto installation, stereo installs, window tint and alarms for San Gabriel at Audio MotorSports in Carson, 20.4 miles. (213) 429-1092.
+meta: Apple CarPlay and Android Auto installation, stereo installs, window tint and alarms for San Gabriel at Audio MotorSports in Carson, 20.4 miles. (310) 513-8800.
 ---
 # Apple CarPlay and Android Auto Installation for San Gabriel
 
@@ -39,7 +39,7 @@ A head unit that fits your dash with the correct kit and harness, a steering-whe
 
 ### Is a San Gabriel driver better off with a shop in Carson than a mobile installer?
 
-For head unit installation, yes. In the bay we have the dash kits, harnesses and tools to do it without cutting factory wiring or drilling the dash, and the car is tested before it leaves. San Gabriel is 20.4 miles away, roughly forty-one to forty-nine minutes outside rush hour. Call (213) 429-1092.
+For head unit installation, yes. In the bay we have the dash kits, harnesses and tools to do it without cutting factory wiring or drilling the dash, and the car is tested before it leaves. San Gabriel is 20.4 miles away, roughly forty-one to forty-nine minutes outside rush hour. Call (310) 513-8800.
 
 ### My car has a factory amplifier; will CarPlay still work?
 
@@ -74,7 +74,7 @@ Head units, interfaces, speakers, amplifiers and labor on your vehicle are quote
 
 ## Set up your CarPlay install
 
-Call (213) 429-1092 or text the year, make and model to (213) 429-1092. Audio MotorSports is located at 22025 S Avalon Blvd Ste A, Carson, CA 90745 and is open Mon-Sat 9:30-18:00; Sunday closed. Drop off or wait at the shop.
+Call (310) 513-8800 or text the year, make and model to (213) 429-1092. Audio MotorSports is located at 22025 S Avalon Blvd Ste A, Carson, CA 90745 and is open Mon-Sat 9:30-18:00; Sunday closed. Drop off or wait at the shop.
 
 ```json
 {
@@ -85,7 +85,7 @@ Call (213) 429-1092 or text the year, make and model to (213) 429-1092. Audio Mo
    "@id": "https://www.audiomotorsports.com/san-gabriel/#webpage",
    "url": "https://www.audiomotorsports.com/san-gabriel/",
    "name": "CarPlay & Android Auto for San Gabriel | Audio MotorSports",
-   "description": "Apple CarPlay and Android Auto installation, stereo installs, window tint and alarms for San Gabriel at Audio MotorSports in Carson, 20.4 miles. (213) 429-1092.",
+   "description": "Apple CarPlay and Android Auto installation, stereo installs, window tint and alarms for San Gabriel at Audio MotorSports in Carson, 20.4 miles. (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -135,7 +135,7 @@ Call (213) 429-1092 or text the year, make and model to (213) 429-1092. Audio Mo
      "name": "Is a San Gabriel driver better off with a shop in Carson than a mobile installer?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "For head unit installation, yes. In the bay we have the dash kits, harnesses and tools to do it without cutting factory wiring or drilling the dash, and the car is tested before it leaves. San Gabriel is 20.4 miles away, roughly forty-one to forty-nine minutes outside rush hour. Call (213) 429-1092."
+      "text": "For head unit installation, yes. In the bay we have the dash kits, harnesses and tools to do it without cutting factory wiring or drilling the dash, and the car is tested before it leaves. San Gabriel is 20.4 miles away, roughly forty-one to forty-nine minutes outside rush hour. Call (310) 513-8800."
      }
     },
     {

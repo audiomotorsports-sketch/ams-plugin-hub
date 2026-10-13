@@ -4,7 +4,7 @@ city: Whittier
 miles: 16.7
 lead_service: ceramic window tint (family cars and trucks)
 title: Ceramic Window Tint Whittier | LA Car Tint, Carson
-meta: Ceramic window tint for Whittier cars and trucks, hand-cut and installed by Audio MotorSports in Carson, 16.7 miles away. Dated prices. Call (213) 429-1092.
+meta: Ceramic window tint for Whittier cars and trucks, hand-cut and installed by Audio MotorSports in Carson, 16.7 miles away. Dated prices. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Ceramic Window Tint for Whittier Cars and Trucks, by Audio MotorSports, Carson
@@ -49,7 +49,7 @@ Front side windows must pass most of the visible light, so they get a light film
 
 ### How do I book from Whittier?
 
-Call (213) 429-1092 or text (213) 429-1092 with the vehicle and the film. We set a time, you drive over, and the car goes straight in. Wait or leave it; either works. Most cars are done the same day they come in, so you will have it back by evening.
+Call (310) 513-8800 or text (213) 429-1092 with the vehicle and the film. We set a time, you drive over, and the car goes straight in. Wait or leave it; either works. Most cars are done the same day they come in, so you will have it back by evening.
 
 ## Prices, as of October 2026
 
@@ -65,7 +65,7 @@ Solar window tinting $249 installed; Solar Ceramic window tinting $329 installed
 
 ## Book it
 
-Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
+Call (310) 513-8800. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Monday through Saturday 9:30-6:00, Sunday closed.
 
 ```json
 {
@@ -76,7 +76,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
    "@id": "https://www.audiomotorsports.com/tint/window-tint-whittier/#webpage",
    "url": "https://www.audiomotorsports.com/tint/window-tint-whittier/",
    "name": "Ceramic Window Tint Whittier | LA Car Tint, Carson",
-   "description": "Ceramic window tint for Whittier cars and trucks, hand-cut and installed by Audio MotorSports in Carson, 16.7 miles away. Dated prices. Call (213) 429-1092.",
+   "description": "Ceramic window tint for Whittier cars and trucks, hand-cut and installed by Audio MotorSports in Carson, 16.7 miles away. Dated prices. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
@@ -148,7 +148,7 @@ Call (213) 429-1092. Text (213) 429-1092. Audio MotorSports, 22025 S Avalon Blvd
      "name": "How do I book from Whittier?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Call (213) 429-1092 or text (213) 429-1092 with the vehicle and the film. We set a time, you drive over, and the car goes straight in. Wait or leave it; either works. Most cars are done the same day they come in, so you will have it back by evening."
+      "text": "Call (310) 513-8800 or text (213) 429-1092 with the vehicle and the film. We set a time, you drive over, and the car goes straight in. Wait or leave it; either works. Most cars are done the same day they come in, so you will have it back by evening."
      }
     }
    ]

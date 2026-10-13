@@ -4,7 +4,7 @@ city: Westchester
 miles: 12.1
 lead_service: subwoofer installation and amplifier installation
 title: Westchester Subwoofer & Amp Installation | LA Car Beats
-meta: Subwoofer installation and amplifier installation for Westchester drivers at LA Car Beats by Audio MotorSports in Carson. Tuned and fused. Call (213) 429-1092.
+meta: Subwoofer installation and amplifier installation for Westchester drivers at LA Car Beats by Audio MotorSports in Carson. Tuned and fused. Call (310) 513-8800.
 source: hub-mounted copy; standalone www host not verified
 ---
 # Subwoofer and Amplifier Installation for Westchester
@@ -68,7 +68,7 @@ LA Car Beats pages around Westchester:
 
 ## Book subwoofer installation
 
-Call (213) 429-1092 or text (213) 429-1092 and tell us the car and the bass you are after. LA Car Beats, Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30-18:00, closed Sunday.
+Call (310) 513-8800 or text (213) 429-1092 and tell us the car and the bass you are after. LA Car Beats, Audio MotorSports, 22025 S Avalon Blvd Ste A, Carson, CA 90745. Open Mon-Sat 9:30-18:00, closed Sunday.
 
 ```json
 {
@@ -79,7 +79,7 @@ Call (213) 429-1092 or text (213) 429-1092 and tell us the car and the bass you 
    "@id": "https://www.audiomotorsports.com/beats/car-stereo-westchester/#webpage",
    "url": "https://www.audiomotorsports.com/beats/car-stereo-westchester/",
    "name": "Westchester Subwoofer & Amp Installation | LA Car Beats",
-   "description": "Subwoofer installation and amplifier installation for Westchester drivers at LA Car Beats by Audio MotorSports in Carson. Tuned and fused. Call (213) 429-1092.",
+   "description": "Subwoofer installation and amplifier installation for Westchester drivers at LA Car Beats by Audio MotorSports in Carson. Tuned and fused. Call (310) 513-8800.",
    "dateModified": "2026-10-08",
    "about": {
     "@id": "https://www.audiomotorsports.com/#business"
