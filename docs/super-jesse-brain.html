@@ -1,0 +1,526 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Super Jesse's Brain</title>
+<style>
+  :root {
+    --ink: #111827; --muted: #4b5563; --page: #f8fafc; --card: #ffffff; --line: #d1d5db;
+  }
+  * { box-sizing: border-box; }
+  html, body { height: 100%; margin: 0; }
+  body {
+    background: var(--page); color: var(--ink);
+    font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    display: flex; flex-direction: column; overflow: hidden;
+  }
+  header { padding: 12px 16px 10px; background: var(--card); border-bottom: 1px solid var(--line); }
+  .top { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 18px; }
+  h1 { margin: 0; font-size: 28px; line-height: 1.15; }
+  .date { color: var(--muted); font-size: 16px; }
+  .hint { color: var(--muted); font-size: 15px; margin-left: auto; }
+  .legend { display: flex; flex-wrap: wrap; gap: 6px 8px; margin-top: 10px; }
+  .chip {
+    display: inline-flex; align-items: center; gap: 7px; font-size: 14px; font-weight: 600;
+    padding: 4px 10px 4px 6px; border: 1px solid var(--line); border-radius: 999px; background: #fff;
+  }
+  .sw { width: 22px; height: 16px; border-radius: 4px; border: 2px solid #000; display: inline-block; }
+  .sw.diamond { transform: rotate(45deg) scale(.8); border-radius: 2px; width: 15px; height: 15px; margin: 0 4px; }
+  main { position: relative; flex: 1; min-height: 0; }
+  svg#chart { width: 100%; height: 100%; display: block; cursor: grab; touch-action: none; background: var(--page); }
+  svg#chart.drag { cursor: grabbing; }
+  .zoom { position: absolute; right: 14px; top: 14px; display: flex; flex-direction: column; gap: 6px; }
+  .zoom button {
+    width: 46px; height: 46px; font-size: 22px; font-weight: 700; border-radius: 10px;
+    border: 1px solid #9ca3af; background: #fff; color: var(--ink); cursor: pointer;
+  }
+  .zoom button.fit { font-size: 14px; }
+  .zoom button:hover { background: #eef2ff; }
+  #note {
+    position: absolute; right: 14px; bottom: 14px; width: min(520px, calc(100% - 28px));
+    background: #fff; border: 1px solid #9ca3af; border-left: 8px solid #111827; border-radius: 12px;
+    padding: 12px 16px 14px; box-shadow: 0 6px 24px rgba(0,0,0,.14);
+  }
+  #note h2 { margin: 0 0 6px; font-size: 19px; line-height: 1.25; }
+  #note p { margin: 0; font-size: 17px; line-height: 1.45; color: #1f2937; }
+  #note .lane { font-size: 13px; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; color: var(--muted); margin-bottom: 4px; }
+  .node { cursor: pointer; }
+  .node:hover .shape { filter: brightness(.96); }
+  .node.sel .shape { stroke-width: 7; }
+  text { font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+</style>
+</head>
+<body>
+<header>
+  <div class="top">
+    <h1>Super Jesse's Brain</h1>
+    <span class="date">November 15, 2026. How a customer message becomes a reply, a booking, or a hand-off to Nick.</span>
+    <span class="hint">Scroll to zoom. Drag to move. Click any box to see the rule behind it.</span>
+  </div>
+  <div class="legend" id="legend"></div>
+</header>
+<main>
+  <svg id="chart" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Flowchart of how Super Jesse works">
+    <defs>
+      <marker id="arrow" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="9" markerHeight="9" orient="auto-start-reverse">
+        <path d="M1,1 L11,6 L1,11 Z" fill="#374151"/>
+      </marker>
+    </defs>
+    <g id="view"></g>
+  </svg>
+  <div class="zoom">
+    <button id="zin" title="Zoom in" aria-label="Zoom in">+</button>
+    <button id="zout" title="Zoom out" aria-label="Zoom out">&minus;</button>
+    <button id="zfit" class="fit" title="Show the whole chart">Fit</button>
+  </div>
+  <div id="note" aria-live="polite">
+    <div class="lane">How to read this</div>
+    <h2>Click any box</h2>
+    <p>Each box and diamond shows the short rule behind it here. Solid boxes run at launch. Gray dashed boxes are OFF at launch. The dark red box is the blocker that keeps sending off.</p>
+  </div>
+</main>
+
+<script>
+(function () {
+  "use strict";
+
+  // ---------- lanes (colors) ----------
+  var LANES = {
+    input:   { name: "What comes in",          fill: "#dbeafe", stroke: "#1d4ed8", text: "#111827" },
+    signin:  { name: "Sign-in check",          fill: "#ccfbf1", stroke: "#0f766e", text: "#111827" },
+    watcher: { name: "Watcher (no AI)",        fill: "#e5e7eb", stroke: "#4b5563", text: "#111827" },
+    decide:  { name: "Decision",               fill: "#fde68a", stroke: "#b45309", text: "#111827" },
+    codered: { name: "CODE RED",               fill: "#dc2626", stroke: "#7f1d1d", text: "#ffffff" },
+    grok:    { name: "The Grok call",          fill: "#e9d5ff", stroke: "#7e22ce", text: "#111827" },
+    gate:    { name: "Send gate",              fill: "#ffffff", stroke: "#dc2626", text: "#111827" },
+    booking: { name: "Booking",                fill: "#bbf7d0", stroke: "#15803d", text: "#111827" },
+    boss:    { name: "Alerts to Boss (Zack and Nick)", fill: "#fed7aa", stroke: "#c2410c", text: "#111827" },
+    off:     { name: "OFF at launch",          fill: "#f3f4f6", stroke: "#9ca3af", text: "#4b5563", dash: "10 7" },
+    blocker: { name: "BLOCKER",                fill: "#7f1d1d", stroke: "#111827", text: "#ffffff" },
+    plain:   { name: "Result",                 fill: "#ffffff", stroke: "#6b7280", text: "#111827" }
+  };
+  var LEGEND = ["input", "signin", "watcher", "decide", "codered", "grok", "gate", "booking", "boss", "off", "blocker"];
+
+  var FS = 21, LH = 27;
+  var nodes = {}, order = [], edges = [], labels = [];
+
+  function wrap(text, maxChars) {
+    var out = [];
+    String(text).split("\n").forEach(function (para) {
+      var words = para.split(" "), line = "";
+      words.forEach(function (w) {
+        if (!line) line = w;
+        else if ((line + " " + w).length <= maxChars) line += " " + w;
+        else { out.push(line); line = w; }
+      });
+      out.push(line);
+    });
+    return out;
+  }
+
+  // type: "box" | "diamond" | "pill"
+  function measure(type, w, label, tag) {
+    var chars = type === "diamond" ? Math.floor(w * 0.56 / (FS * 0.53)) : Math.floor((w - 30) / (FS * 0.53));
+    var lines = wrap(label, chars);
+    var h = type === "diamond" ? Math.max(140, lines.length * LH + 86) : Math.max(74, lines.length * LH + 30 + (tag ? 24 : 0));
+    return { lines: lines, h: h };
+  }
+
+  function add(id, type, lane, x, y, w, label, note, opts) {
+    opts = opts || {};
+    var m = measure(type, w, label, opts.tag);
+    var h = opts.h || m.h;
+    var n = { id: id, type: type, lane: lane, x: x, y: y, w: w, h: h, lines: m.lines, label: label, note: note, tag: opts.tag || "" };
+    nodes[id] = n; order.push(id);
+    return n;
+  }
+  function cx(n) { return n.x + n.w / 2; }
+  function cy(n) { return n.y + n.h / 2; }
+  function edge(points, label, opts) { edges.push({ p: points, label: label || "", o: opts || {} }); }
+  function lane(text, x, y, size) { labels.push({ t: text, x: x, y: y, s: size || 40 }); }
+
+  // A vertical column: spine items with optional side outcome.
+  // item: {id,type,lane,label,note,tag, down:"No"/"Yes"/"", side:{id,lane,label,note,tag,w,sideLabel}}
+  function column(spineX, y0, wSpine, sideX, items) {
+    var y = y0, prev = null, prevDown = "";
+    items.forEach(function (it) {
+      var m = measure(it.type, wSpine, it.label, it.tag);
+      var sideM = it.side ? measure("box", it.side.w || 420, it.side.label, it.side.tag) : null;
+      var rowH = Math.max(m.h, sideM ? sideM.h : 0);
+      var n = add(it.id, it.type, it.lane, spineX - wSpine / 2, y + (rowH - m.h) / 2, wSpine, it.label, it.note, { tag: it.tag });
+      if (prev) edge([[spineX, prev.y + prev.h], [spineX, n.y]], prevDown);
+      if (it.side) {
+        var s = add(it.side.id, "box", it.side.lane, sideX, y + (rowH - sideM.h) / 2, it.side.w || 420, it.side.label, it.side.note, { tag: it.side.tag });
+        edge([[n.x + n.w, cy(n)], [s.x, cy(s)]], it.side.sideLabel || "Yes");
+      }
+      prev = n; prevDown = it.type === "diamond" ? (it.down === undefined ? "No" : it.down) : "";
+      y += rowH + 48;
+    });
+    return { bottom: y - 48, last: prev, lastDown: prevDown };
+  }
+
+  // =====================================================================
+  // 1. INPUTS (top band)
+  // =====================================================================
+  var IN_Y = 96, IN_W = 300, IN_GAP = 30;
+  lane("1. What comes in", 60, 62);
+  var inputs = [
+    ["in_text", "input", "Customer texts\n(Google Voice, read in the shop Gmail)", "Customer texts reach the shop Gmail through Google Voice. Jesse's reply goes back in that same thread, so it reaches the customer as a text."],
+    ["in_yelp", "input", "Yelp leads\n(email)", "A Yelp lead arrives as an email. Jesse answers by email, with the Yelp line \"Yelp award-winning shop for 10 years\" and no links."],
+    ["in_web", "input", "Website form leads\n(forwarded from Nick's mailbox)", "Leads from audiomotorsports.com. Zack sets Nick's mailbox to forward them to the shop Gmail so the watcher sees them. Jesse answers by email."],
+    ["in_call", "input", "Missed calls and voicemails", "Google Voice sends an email for each missed call and voicemail. Jesse does not text these back yet. Nick gets the number to call back."],
+    ["in_cal", "input", "Google Calendar\n(the shop's main calendar)", "The shop's main Google Calendar. It feeds the booking steps and the three daily messages to Zack and Nick."],
+    ["in_mkt", "off", "OFF: Facebook Marketplace chats", "Off at launch. Facebook restricted the account on Nov 14. It stays off until Zack says the restriction is cleared and gives his GO."],
+    ["in_ou", "off", "OFF: OfferUp chats", "Off at launch. It turns on only on Zack's GO, after Jesse has run clean on texts, Yelp and website leads."]
+  ];
+  inputs.forEach(function (a, i) {
+    add(a[0], "box", a[1], 60 + i * (IN_W + IN_GAP), IN_Y, IN_W, a[2], a[3], { h: 96 });
+  });
+
+  // =====================================================================
+  // 2. SIGN-IN CHECK (top right)
+  // =====================================================================
+  var SX = 2600;
+  lane("2. Sign-in check (the shop computer's browser)", SX, 62);
+  var si1 = add("si_start", "box", "signin", SX, IN_Y, 310, "Every hour, 8 AM to 9 PM, or when an alert can't be opened", "A small check on the shop computer's browser. It makes sure Gmail, Google Voice and Yelp are still signed in. The watcher itself reads the shop Gmail without the browser.", { h: 110 });
+  var si2 = add("si_out", "diamond", "signin", SX + 350, IN_Y - 15, 280, "A shop app signed out?", "Checks Gmail, Google Voice, Yelp for Business and the other shop apps in the shop browser.");
+  var si3 = add("si_click", "box", "signin", SX + 670, IN_Y, 310, "Click the Audio MotorSports Google account and keep going", "Zack's rule: Jesse never waits for Zack to sign in. He clicks the shop's own Google account. Only that account. Never another account, never a new account.", { h: 110 });
+  var si4 = add("si_pw", "diamond", "signin", SX + 1020, IN_Y - 15, 280, "Password, code or captcha?", "If the page asks for anything more than that one click, Jesse stops. He never types a password.");
+  var si5 = add("si_back", "pill", "signin", SX + 1340, IN_Y + 18, 170, "Back to work", "Signed in again. Jesse goes straight back to the job.", { h: 74 });
+  var si6 = add("si_stop", "box", "boss", SX + 990, IN_Y + 190, 340, "STOP. Text Zack: \"Boss, SIGNED OUT\"", "The alert says which app is signed out and what it asks for. It goes as a text to Zack. If Google Voice is the app that is signed out, it goes by push alert and one email instead.", { h: 96 });
+  var si7 = add("si_ok", "pill", "signin", SX + 350, IN_Y + 190, 280, "All signed in. Nothing to do.", "No action needed until the next hourly check.", { h: 74 });
+  edge([[si1.x + si1.w, cy(si1)], [si2.x, cy(si2)]]);
+  edge([[si2.x + si2.w, cy(si2)], [si3.x, cy(si3)]], "Yes");
+  edge([[cx(si2), si2.y + si2.h], [cx(si7), si7.y]], "No");
+  edge([[si3.x + si3.w, cy(si3)], [si4.x, cy(si4)]]);
+  edge([[si4.x + si4.w, cy(si4)], [si5.x, cy(si5)]], "No");
+  edge([[cx(si4), si4.y + si4.h], [cx(si4), si6.y]], "Yes");
+
+  // =====================================================================
+  // 3. WATCHER (column A)
+  // =====================================================================
+  var COL_Y = 500, AX = 260, BX = 1330, CX3 = 2760, DX = 3560;
+  lane("3. Watcher: plain code, no AI", AX + 24, COL_Y - 62);
+  var A = column(AX, COL_Y, 390, 540, [
+    { id: "w_start", type: "box", lane: "watcher", label: "The watcher checks the shop Gmail every minute. No AI.", note: "A plain script, built into the shop's existing auto-reply script. It reads new mail every minute from 8 AM to 9 PM. Jesse's AI is called only when a real customer message needs a real answer." },
+    { id: "w_junk", type: "diamond", lane: "watcher", label: "Junk or nothing to answer?", note: "Junk, our own alerts, vendor and dealer car-offer mail, a bare \"ok\" or \"thanks\" when we did not just ask a question, a like, a heart, or an emoji-only text.",
+      side: { id: "w_skip", lane: "plain", label: "Skip it. No reply and no AI call.", note: "These never wake Jesse, so they cost nothing.", tag: "STOPS HERE" } },
+    { id: "w_stop", type: "diamond", lane: "watcher", label: "STOP or \"don't text me\"?", note: "STOP, \"stop texting\", \"unsubscribe\", or the same in Spanish.",
+      side: { id: "w_dnc", lane: "plain", label: "Mark do-not-contact. Send nothing.", note: "The customer is never written to again. New do-not-contact names show in the 6 PM message.", tag: "STOPS HERE" } },
+    { id: "w_group", type: "box", lane: "watcher", label: "Group one customer's messages sent inside 3 minutes. Write the lead row.", note: "Three texts in a row count as one message, so Jesse answers once. The lead row holds the name, the car, the job, the stage and a two-line summary." },
+    { id: "w_human", type: "diamond", lane: "watcher", label: "Has a person taken over?", note: "A customer is marked \"human\" after a bot question, a code red, or once Nick or Zack sends the customer a reply. Opening or reading the chat is not a takeover.",
+      side: { id: "w_out", lane: "plain", label: "Jesse stays out for good. Only booking reminders still go.", note: "The chat belongs to Nick or Zack until one of them hands it back.", tag: "STOPS HERE" } },
+    { id: "w_call", type: "diamond", lane: "watcher", label: "Missed call or voicemail?", note: "Until there is a texting number, a missed call is not texted back.",
+      side: { id: "w_callback", lane: "boss", label: "Shop hours: alert Nick to call back. After hours: the 9 AM call-back list only.", note: "A number is never sent to Nick twice. The 9 AM message is the only call-back list. The old 10 AM text stops.", tag: "STOPS HERE" } },
+    { id: "w_pick", type: "diamond", lane: "watcher", label: "A \"1\", a \"2\" or a picked time?", note: "After the noon reminder, \"1\", \"yes\", \"yep\", \"confirm\" or \"see you\" confirms. \"2\", \"reschedule\" or \"can't make it\" means a new time. A pick of one of the two offered times is a booking.",
+      side: { id: "w_tobook", lane: "booking", label: "Plain code handles it. Go to Booking, below.", note: "No AI call is needed for a confirm, a reschedule or a time pick.", tag: "GOES TO BOOKING" } },
+    { id: "w_night", type: "diamond", lane: "watcher", label: "Between 9 PM and 8 AM?", note: "Nothing goes out to customers after 9 PM.",
+      side: { id: "w_wait", lane: "plain", label: "Wait. Jesse answers at 8 AM, oldest first.", note: "Night messages are answered one customer at a time at 8 AM. Overnight leads show up for Nick only in the 9 AM message.", tag: "CONTINUES AT 8 AM" } },
+    { id: "w_new", type: "diamond", lane: "watcher", label: "Brand-new texter?", note: "A number that has never texted the shop before.",
+      side: { id: "w_auto", lane: "plain", label: "The shop's auto-reply goes first. Jesse takes the next message.", note: "The current auto-reply stays as the first message. Jesse does not repeat the opener after it.", tag: "STOPS HERE" } }
+  ]);
+
+  // =====================================================================
+  // 4. DECISIONS (column B)
+  // =====================================================================
+  lane("4. Decisions, in this order", BX - 195, COL_Y - 62);
+  var B = column(BX, COL_Y, 390, 1610, [
+    { id: "d_bot", type: "diamond", lane: "decide", label: "Bot question?", note: "\"Are you real?\", \"Is this a bot?\", \"Is this AI?\", \"Is this automated?\", in English or Spanish. When in doubt, it counts.",
+      side: { id: "d_bot_out", lane: "boss", label: "Send nothing at all. Emergency alert to Nick and Zack. A person takes over.", note: "Jesse never says he is a bot and never says he is a person. The customer is marked \"human\" and Jesse never answers them again.", tag: "STOPS HERE", w: 400 } },
+    { id: "d_red", type: "diamond", lane: "decide", label: "Hostile, angry or a complaint?", note: "Hostile words, anger, a complaint, blame or pointing fingers, in English or Spanish. Plain code checks first, then the AI is a second net. When in doubt, it counts.",
+      side: { id: "d_red_out", lane: "codered", label: "CODE RED. Send nothing. Text Zack and Nick: \"Boss, CODE RED\". They take over.", note: "Not even one calm line goes to the customer. The customer is marked \"human\" for good. Between 9 PM and 8 AM the alert is held and goes out at 8 AM, first thing.", tag: "STOPS HERE", w: 400 } },
+    { id: "d_person", type: "diamond", lane: "decide", label: "Asks for a person?", note: "\"Can I talk to someone?\" This is a normal hand-off, not a bot question.",
+      side: { id: "d_person_out", lane: "boss", label: "Give the shop number, (310) 513-8800, and hand off to Nick.", note: "Jesse pushes the call and alerts Nick. He stays on the chat until Nick or Zack replies.", tag: "JESSE STILL ANSWERS", w: 400 } },
+    { id: "d_es", type: "diamond", lane: "decide", label: "Writing in Spanish?", note: "The language comes from what the customer writes, never from their name.",
+      side: { id: "d_es_out", lane: "boss", label: "Answer in Spanish and alert Carlos.", note: "Jesse uses \"usted\", and \"plan de pagos\" for the payment plan. Carlos gets the alert for Spanish leads.", tag: "JESSE STILL ANSWERS", w: 400 } },
+    { id: "d_hand", type: "diamond", lane: "decide", label: "A hand-off reason?", note: "A price not on file, haggling, a job over $800, a classic (1990 or older) or a named exotic, commercial work, diagnostics, a photo, or a past job.",
+      side: { id: "d_hand_out", lane: "boss", label: "Alert Nick: \"Boss, HAND-OFF\" with the reason.", note: "A hand-off is an alert, not a stop. Jesse stays on the chat until Nick or Zack replies. Over $800: Jesse gives the site price first. Diagnostics: no quote and no refusal.", tag: "JESSE STILL ANSWERS", w: 400 } },
+    { id: "d_euro", type: "diamond", lane: "decide", label: "2010+ European car, radio or screen?", note: "A 2010 or newer BMW, Mercedes-Benz, Audi, Porsche, Volkswagen, Volvo, Mini, Land Rover, Jaguar or other European car, on a radio, CarPlay or screen lead.",
+      side: { id: "d_zz2", lane: "watcher", label: "ZZ2 look-up by plain code on audiomotorsports.com.", note: "Plain code searches the shop's own site for that car's ZZ2 page. No AI and no browser. Each car is looked up once and remembered.", tag: "", w: 400 } },
+    { id: "d_yelp", type: "diamond", lane: "decide", label: "Is it a Yelp lead?", note: "Each channel has its own rules.",
+      side: { id: "d_yelp_out", lane: "plain", label: "No links on Yelp. Everywhere else, one link at most.", note: "On Yelp, Jesse gives the call and text numbers instead of a link. On other channels one link per message, from the page that fits the job.", tag: "JESSE STILL ANSWERS", w: 400 } }
+  ]);
+  // ZZ2 sub-decision (second slot, right of the ZZ2 look-up)
+  var zz = nodes.d_zz2, Z2X = 2060;
+  var zq = add("d_zz2_q", "diamond", "decide", Z2X, cy(zz) - 70, 330, "ZZ2 page found?", "Does the shop's site have a ZZ2 page for this exact car?");
+  var zno = add("d_zz2_no", "box", "boss", Z2X - 15, zq.y - 150, 360, "No page: ask for a dash photo, hand off to Nick.", "Jesse never guesses a price or a fit. Nick works it out from the photo.", { tag: "JESSE STILL ANSWERS" });
+  var zyes = add("d_zz2_yes", "box", "plain", Z2X - 15, zq.y + zq.h + 44, 360, "Found: the price and the link go to Jesse.", "Jesse offers the ZZ2 screen for that car with the site's price and its page.", { tag: "JESSE STILL ANSWERS" });
+  edge([[zz.x + zz.w, cy(zz)], [zq.x, cy(zq)]]);
+  edge([[cx(zq), zq.y], [cx(zq), zno.y + zno.h]], "No");
+  edge([[cx(zq), zq.y + zq.h], [cx(zq), zyes.y]], "Yes");
+
+  // =====================================================================
+  // 5 + 6. GROK CALL, SEND GATE, SEND (column C)
+  // =====================================================================
+  lane("5. The Grok call   6. Send gate", CX3 - 195, COL_Y - 62);
+  var C = column(CX3, COL_Y, 400, 3040, [
+    { id: "g_topic", type: "box", lane: "grok", label: "Plain code picks ONE topic file for the job.", note: "Tint, Tesla, stereo and CarPlay, alarm and remote start, dash cam, subs and speakers, Harley, or booking. Only one is loaded, to keep each call small." },
+    { id: "g_cap", type: "diamond", lane: "grok", label: "A cap hit?", down: "No", note: "Caps: $3 of AI spend in a day, 80 AI calls in a day, or 6 for one customer in a day.",
+      side: { id: "g_cap_out", lane: "boss", label: "The AI stops for the day. Hand-offs and alerts keep going.", note: "Zack gets an alert at $2 in a day. At $3 the AI stops until tomorrow. A loop can never run up a bill.", tag: "STOPS HERE", w: 400 } },
+    { id: "g_call", type: "box", lane: "grok", label: "ONE Grok call reads:\nthe core rules + Zack's answers + one topic file + the customer's row + their last 6 messages.", note: "One call per customer message group. The stronger model is used when a price is being discussed or a booking is being made, and the mid model for early questions. Zack's answers are read fresh at 8 AM every day." },
+    { id: "s_gate", type: "box", lane: "gate", label: "Send gate: plain code checks every reply before it leaves.", note: "It blocks: \"financing\", a warranty length, \"lifetime\", a wrong phone number, an emoji, any claim to be a bot or a person, \"Boss\" in a customer message, a price not in the price file, a labor price, two or more links, any link on Yelp, anything outside 8 AM to 9 PM, a second message in a row, and a hit cap." },
+    { id: "s_pass", type: "diamond", lane: "gate", label: "Passes every check?", down: "Yes", note: "One failed check is enough to hold the reply.",
+      side: { id: "s_fail", lane: "boss", label: "Blocked and logged. The draft goes to Nick.", note: "The reply is not sent to the customer. Nick sees the draft and can send his own words.", tag: "STOPS HERE", sideLabel: "No", w: 400 } },
+    { id: "s_block", type: "box", lane: "blocker", label: "BLOCKER: sending stays OFF until the takeover signal works.", note: "Jesse cannot see a reply that Nick sends from the Google Voice app, so he could answer over Nick. Until Zack sets a takeover signal that works, every reply is only saved as a draft.",
+      side: { id: "s_drafts", lane: "plain", label: "While it is off, replies are saved as drafts only.", note: "Nothing reaches a customer. Zack turns sending on with his GO, after the old auto-replies are switched off so two bots never answer one customer.", tag: "", sideLabel: "Now", w: 400 } },
+    { id: "s_send", type: "box", lane: "gate", label: "Send the reply: a text in the customer's own thread, or an email for Yelp and website leads.", note: "Only 8 AM to 9 PM. Never twice in a row without an answer. No more than 6 replies to one customer in a day." },
+    { id: "s_alert", type: "box", lane: "boss", label: "Update the lead row. Alert Nick once: \"Boss, NEW LEAD\".", note: "Each lead reaches Nick one time. The alert has the name, the car, the job, the channel, what they said and when Jesse answered. Overnight leads show only in the 9 AM message." },
+    { id: "s_book", type: "diamond", lane: "booking", label: "Ready to book a time?", down: "Yes", note: "Jesse closes by offering two named times and asking \"which one is yours?\"",
+      side: { id: "s_keep", lane: "plain", label: "Keep the chat going. The next message wakes Jesse again.", note: "Each new customer message is one wake and one job. Then Jesse sleeps.", tag: "", sideLabel: "No", w: 400 } }
+  ]);
+
+  // connectors between columns
+  var busY = COL_Y - 30;
+  edge([[AX, A.last.y + A.last.h], [AX, A.bottom + 55], [1045, A.bottom + 55], [1045, busY], [BX, busY], [BX, nodes.d_bot.y]], "No: a real customer message", { labelAt: 1 });
+  edge([[BX, B.last.y + B.last.h], [BX, B.bottom + 55], [2495, B.bottom + 55], [2495, busY], [CX3, busY], [CX3, nodes.g_topic.y]], "Then", { labelAt: 1 });
+
+  // inputs bus down to the watcher
+  var busIn = IN_Y + 96 + 46;
+  ["in_text", "in_yelp", "in_web", "in_call", "in_cal"].forEach(function (id) {
+    var n = nodes[id];
+    edge([[cx(n), n.y + n.h], [cx(n), busIn]], "", { noArrow: true });
+  });
+  edge([[cx(nodes.in_cal), busIn], [AX, busIn], [AX, nodes.w_start.y]]);
+
+  // =====================================================================
+  // 8. DAILY TEXTS + OFF PANEL (column D)
+  // =====================================================================
+  lane("8. Daily messages to Boss", DX, COL_Y - 62);
+  var D = column(DX + 220, COL_Y, 440, 0, [
+    { id: "t_src", type: "box", lane: "watcher", label: "Built by plain code from the Calendar and the lead rows. No AI.", note: "These three go to Zack and Nick. Every message to them starts with \"Boss,\". Customers are never called Boss." },
+    { id: "t_9", type: "box", lane: "boss", label: "9:00 AM: today's appointments, overnight leads, and the call-back numbers.", note: "The only call-back list of the day. A number already sent is never sent again." },
+    { id: "t_1230", type: "box", lane: "boss", label: "12:30 PM: only if someone is still waiting on Nick.", note: "If nobody is waiting, nothing is sent." },
+    { id: "t_6", type: "box", lane: "boss", label: "6:00 PM: tomorrow's appointments, who has not confirmed, open leads, and the day's hand-off.", note: "Also: leads handed to Nick and why, new do-not-contact names, the day's AI spend, and \"Ask Zack\", the questions Jesse could not answer." }
+  ]);
+
+  var offY = D.bottom + 120;
+  lane("OFF at launch", DX, offY - 22);
+  var offs = [
+    ["o_mkt", "OFF: Marketplace", "Off until Facebook's restriction is cleared and Zack gives his GO."],
+    ["o_ou", "OFF: OfferUp", "Off until Jesse has run clean on texts, Yelp and website leads, then Zack's GO."],
+    ["o_ss", "OFF: Stereo Specialist and Crutchfield look-ups", "Off until Zack turns it on. Until then Nick works the parts list from the dash photo."],
+    ["o_rev", "OFF: weekly review asks", "Off until bookings are steady. Then Zack picks who bought each week, and each gets one Google review text."],
+    ["o_fu", "OFF: follow-ups", "Off until Zack turns them on. A quiet lead gets nothing more from Jesse."],
+    ["o_doc", "OFF: the 6:15 hand-off Doc", "Cut. Its lines are now part of the 6 PM message."],
+    ["o_num", "OFF: texting number and missed-call text-back", "Waits for Zack's yes on a texting number. Until then a missed call is an alert to Nick."]
+  ];
+  var oy = offY;
+  offs.forEach(function (o) {
+    var n = add(o[0], "box", "off", DX, oy, 440, o[1], o[2]);
+    oy += n.h + 16;
+  });
+
+  // =====================================================================
+  // 7. BOOKING (horizontal band)
+  // =====================================================================
+  var colBottom = Math.max(A.bottom, B.bottom, C.bottom, oy) + 60;
+  var bandY = colBottom + 120;
+  lane("7. Booking: plain code, no AI", 60, bandY);
+  var KY = bandY + 90, kx = 60, KW = 310, KG = 56, kPrev = null;
+  var bk = [
+    ["k_two", "box", "booking", "Two times offered, Tuesday to Friday, 9:30 or 10 AM. The customer picks one.", "4 PM only for tint or a dash cam, and only if they can't do a morning. Monday or Saturday only if they ask. Never Sunday."],
+    ["k_slot", "diamond", "booking", "Is that slot open?", "One tint job (Alex) and one install job (Richard) per start time."],
+    ["k_cal", "box", "booking", "Book it on the shop's main Google Calendar, right away.", "The event shows the first name, the car and the job. Jesse never says \"let me check and get back to you\"."],
+    ["k_conf", "box", "booking", "Send the confirmation text. Alert: \"Boss, BOOKED\".", "The confirmation has the day, the time, the job and the shop address. No deposit is ever taken."],
+    ["k_noon", "box", "booking", "Noon the day before: \"Reply 1 to confirm or 2 to reschedule.\"", "Every customer booked for tomorrow gets it. A 2 means Jesse offers two new times and moves the event."],
+    ["k_6", "diamond", "booking", "Answered by 6 PM?", "Did the customer reply to the noon text?"],
+    ["k_8", "box", "booking", "8 AM the day of: a reminder text.", "\"See you at [time] for the [job]. Reply here if you're running behind.\""],
+    ["k_show", "diamond", "booking", "Did they show up?", "Checked 30 minutes after the start time."],
+    ["k_done", "pill", "booking", "Done", "The job is done. The lead moves to the \"done\" stage."]
+  ];
+  var bandH = 150;
+  bk.forEach(function (b) {
+    var m = measure(b[1], KW, b[3]);
+    var n = add(b[0], b[1], b[2], kx, KY + (bandH - m.h) / 2, KW, b[3], b[4]);
+    if (kPrev) {
+      var lab = kPrev.id === "k_slot" ? "Yes" : kPrev.id === "k_6" ? "Yes" : kPrev.id === "k_show" ? "Yes" : "";
+      edge([[kPrev.x + kPrev.w, cy(kPrev)], [n.x, cy(n)]], lab);
+    }
+    kPrev = n; kx += KW + KG;
+  });
+  var subY = KY + bandH + 70;
+  function below(parentId, id, laneKey, label, note) {
+    var p = nodes[parentId];
+    var n = add(id, "box", laneKey, p.x - 15, subY, KW + 30, label, note);
+    edge([[cx(p), p.y + p.h], [cx(p), n.y]], "No");
+    return n;
+  }
+  below("k_slot", "k_next", "booking", "Offer the next open time.", "Jesse never books a time the customer did not agree to.");
+  below("k_6", "k_list", "boss", "They go on Nick's 6 PM list. Nick follows up.", "Zack's rule: anyone who has not confirmed by 6 PM is on the 6 PM message for Nick.");
+  below("k_show", "k_noshow", "booking", "One no-show text that names the next Tuesday to Friday day.", "\"We missed you today, no worries. Want [day] at 9:30 or 10?\" One text only. A cancelled booking is never brought back up.");
+
+  // gate column -> booking
+  var sb = nodes.s_book;
+  edge([[CX3, sb.y + sb.h], [CX3, bandY + 40], [cx(nodes.k_two), bandY + 40], [cx(nodes.k_two), nodes.k_two.y]], "Yes", { labelAt: 0 });
+
+  // =====================================================================
+  // 9. STAGES
+  // =====================================================================
+  var stY = subY + 200;
+  lane("9. Stages a lead moves through", 60, stY);
+  var stages = [
+    ["new", "Just came in. Nothing asked yet."], ["qualifying", "Jesse is getting the name, the car and the job."],
+    ["quoted", "A price has been given."], ["objection", "The customer pushed back on price or timing."],
+    ["booked", "A time is on the calendar."], ["confirmed", "The customer replied 1 to the noon text."],
+    ["done", "The job is finished."], ["quiet", "The customer stopped answering."],
+    ["dead", "Not a lead any more, or do-not-contact."], ["human", "Nick or Zack owns the chat. Jesse stays out."]
+  ];
+  var sx = 60, sPrev = null;
+  stages.forEach(function (s, i) {
+    var n = add("st_" + s[0], "pill", "plain", sx, stY + 40, 250, s[0], s[1], { h: 70 });
+    if (i === 9) n.lane = "boss";
+    if (sPrev && i < 7) edge([[sPrev.x + sPrev.w, cy(sPrev)], [n.x, cy(n)]]);
+    sPrev = n; sx += 250 + (i === 6 ? 110 : 44);
+  });
+
+  var W = 4180, H = stY + 170;
+
+  // =====================================================================
+  // RENDER
+  // =====================================================================
+  var NS = "http://www.w3.org/2000/svg";
+  function el(tag, attrs, parent) {
+    var e = document.createElementNS(NS, tag);
+    for (var k in attrs) e.setAttribute(k, attrs[k]);
+    if (parent) parent.appendChild(e);
+    return e;
+  }
+  var view = document.getElementById("view");
+  var gEdges = el("g", {}, view), gNodes = el("g", {}, view), gLabels = el("g", {}, view);
+
+  labels.forEach(function (l) {
+    var t = el("text", { x: l.x, y: l.y, "font-size": l.s, "font-weight": 800, fill: "#111827" }, gLabels);
+    t.textContent = l.t;
+  });
+
+  edges.forEach(function (e) {
+    var d = e.p.map(function (p, i) { return (i ? "L" : "M") + p[0] + "," + p[1]; }).join(" ");
+    var a = { d: d, fill: "none", stroke: "#374151", "stroke-width": 3.5, "stroke-linejoin": "round" };
+    if (!e.o.noArrow) a["marker-end"] = "url(#arrow)";
+    el("path", a, gEdges);
+    if (e.label) {
+      var i = e.o.labelAt || 0, p0 = e.p[i], p1 = e.p[i + 1];
+      var horiz = Math.abs(p1[0] - p0[0]) > Math.abs(p1[1] - p0[1]);
+      var tx, ty, anchor = "start";
+      if (horiz) {
+        var long = Math.abs(p1[0] - p0[0]) > 300;
+        tx = long ? p0[0] + (p1[0] > p0[0] ? 24 : -24) : (p0[0] + p1[0]) / 2;
+        anchor = long ? (p1[0] > p0[0] ? "start" : "end") : "middle";
+        ty = p0[1] - 10;
+      } else { tx = p0[0] + 12; ty = Math.min(p0[1], p1[1]) + Math.min(30, Math.abs(p1[1] - p0[1]) / 2 + 6); }
+      var t = el("text", { x: tx, y: ty, "font-size": 19, "font-weight": 800, fill: "#111827", "text-anchor": anchor,
+        stroke: "#f8fafc", "stroke-width": 6, "paint-order": "stroke" }, gEdges);
+      t.textContent = e.label;
+    }
+  });
+
+  order.forEach(function (id) {
+    var n = nodes[id], L = LANES[n.lane];
+    var g = el("g", { "class": "node", tabindex: 0, role: "button", "data-id": id }, gNodes);
+    var common = { "class": "shape", fill: L.fill, stroke: L.stroke, "stroke-width": n.lane === "gate" || n.lane === "blocker" ? 5 : 3 };
+    if (L.dash) common["stroke-dasharray"] = L.dash;
+    if (n.type === "diamond") {
+      common.points = [[n.x + n.w / 2, n.y], [n.x + n.w, n.y + n.h / 2], [n.x + n.w / 2, n.y + n.h], [n.x, n.y + n.h / 2]].map(function (p) { return p.join(","); }).join(" ");
+      el("polygon", common, g);
+    } else {
+      common.x = n.x; common.y = n.y; common.width = n.w; common.height = n.h;
+      common.rx = n.type === "pill" ? n.h / 2 : 14;
+      el("rect", common, g);
+    }
+    var total = n.lines.length * LH + (n.tag ? 24 : 0);
+    var ty = n.y + (n.h - total) / 2 + LH * 0.74;
+    var t = el("text", { "font-size": FS, "font-weight": n.lane === "blocker" || n.lane === "codered" ? 800 : 600, fill: L.text, "text-anchor": "middle" }, g);
+    n.lines.forEach(function (line, i) {
+      var ts = el("tspan", { x: n.x + n.w / 2, y: ty + i * LH }, t);
+      ts.textContent = line;
+    });
+    if (n.tag) {
+      var tg = el("text", { x: n.x + n.w / 2, y: ty + n.lines.length * LH + 4, "font-size": 14, "font-weight": 800, "letter-spacing": "0.06em",
+        fill: n.lane === "codered" ? "#fee2e2" : "#6b7280", "text-anchor": "middle" }, g);
+      tg.textContent = n.tag;
+    }
+  });
+
+  // legend
+  var lg = document.getElementById("legend");
+  LEGEND.forEach(function (k) {
+    var L = LANES[k], c = document.createElement("span"); c.className = "chip";
+    var s = document.createElement("span"); s.className = "sw" + (k === "decide" ? " diamond" : "");
+    s.style.background = L.fill; s.style.borderColor = L.stroke; if (L.dash) s.style.borderStyle = "dashed";
+    c.appendChild(s); c.appendChild(document.createTextNode(L.name)); lg.appendChild(c);
+  });
+
+  // ---------- note panel ----------
+  var note = document.getElementById("note"), selected = null;
+  function show(id) {
+    var n = nodes[id]; if (!n) return;
+    if (selected) selected.classList.remove("sel");
+    selected = gNodes.querySelector('[data-id="' + id + '"]'); selected.classList.add("sel");
+    note.style.borderLeftColor = LANES[n.lane].stroke;
+    note.innerHTML = "";
+    var a = document.createElement("div"); a.className = "lane"; a.textContent = LANES[n.lane].name;
+    var b = document.createElement("h2"); b.textContent = n.label.replace(/\n/g, " ");
+    var c = document.createElement("p"); c.textContent = n.note;
+    note.appendChild(a); note.appendChild(b); note.appendChild(c);
+  }
+
+  // ---------- zoom and drag ----------
+  var svg = document.getElementById("chart"), v = { x: 0, y: 0, k: 1 };
+  function apply() { view.setAttribute("transform", "translate(" + v.x + "," + v.y + ") scale(" + v.k + ")"); }
+  function fit() {
+    var r = svg.getBoundingClientRect();
+    v.k = Math.min(r.width / (W + 80), r.height / (H + 80));
+    v.x = (r.width - W * v.k) / 2; v.y = (r.height - H * v.k) / 2; apply();
+  }
+  function zoomAt(px, py, f) {
+    var k = Math.max(0.08, Math.min(4, v.k * f)); f = k / v.k;
+    v.x = px - (px - v.x) * f; v.y = py - (py - v.y) * f; v.k = k; apply();
+  }
+  svg.addEventListener("wheel", function (e) {
+    e.preventDefault();
+    var r = svg.getBoundingClientRect();
+    zoomAt(e.clientX - r.left, e.clientY - r.top, Math.exp(-e.deltaY * 0.0015));
+  }, { passive: false });
+
+  var ptrs = {}, moved = 0, lastDist = 0, downId = null;
+  function ids() { return Object.keys(ptrs); }
+  svg.addEventListener("pointerdown", function (e) {
+    ptrs[e.pointerId] = { x: e.clientX, y: e.clientY }; moved = 0;
+    var g = e.target.closest ? e.target.closest(".node") : null; downId = g ? g.getAttribute("data-id") : null;
+    svg.setPointerCapture(e.pointerId); svg.classList.add("drag");
+    if (ids().length === 2) { var a = ptrs[ids()[0]], b = ptrs[ids()[1]]; lastDist = Math.hypot(a.x - b.x, a.y - b.y); }
+  });
+  svg.addEventListener("pointermove", function (e) {
+    var p = ptrs[e.pointerId]; if (!p) return;
+    var dx = e.clientX - p.x, dy = e.clientY - p.y; p.x = e.clientX; p.y = e.clientY;
+    var k = ids();
+    if (k.length === 1) { v.x += dx; v.y += dy; moved += Math.abs(dx) + Math.abs(dy); apply(); }
+    else if (k.length === 2) {
+      var a = ptrs[k[0]], b = ptrs[k[1]], d = Math.hypot(a.x - b.x, a.y - b.y), r = svg.getBoundingClientRect();
+      if (lastDist) zoomAt((a.x + b.x) / 2 - r.left, (a.y + b.y) / 2 - r.top, d / lastDist);
+      lastDist = d; moved += 10;
+    }
+  });
+  function up(e) {
+    if (!ptrs[e.pointerId]) return;
+    delete ptrs[e.pointerId]; lastDist = 0;
+    if (!ids().length) svg.classList.remove("drag");
+    if (moved < 6 && downId) show(downId);
+    downId = null;
+  }
+  svg.addEventListener("pointerup", up); svg.addEventListener("pointercancel", up);
+  svg.addEventListener("keydown", function (e) {
+    var g = e.target.closest ? e.target.closest(".node") : null;
+    if (g && (e.key === "Enter" || e.key === " ")) { e.preventDefault(); show(g.getAttribute("data-id")); }
+  });
+  function center(f) { var r = svg.getBoundingClientRect(); zoomAt(r.width / 2, r.height / 2, f); }
+  document.getElementById("zin").addEventListener("click", function () { center(1.3); });
+  document.getElementById("zout").addEventListener("click", function () { center(1 / 1.3); });
+  document.getElementById("zfit").addEventListener("click", fit);
+  window.addEventListener("resize", fit);
+  fit();
+})();
+</script>
+</body>
+</html>
