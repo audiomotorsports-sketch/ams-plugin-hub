@@ -55,7 +55,7 @@
 <header>
   <div class="top">
     <h1>Super Jesse's Brain</h1>
-    <span class="date">November 15, 2026. How a customer message becomes a reply, a booking, or a hand-off to Nick.</span>
+    <span class="date">November 15, 2026. Runs 24/7. How a customer message becomes a reply, a booking, or a hand-off to Nick.</span>
     <span class="hint">Scroll to zoom. Drag to move. Click any box to see the rule behind it.</span>
   </div>
   <div class="legend" id="legend"></div>
@@ -92,7 +92,7 @@
     watcher: { name: "Watcher (no AI)",        fill: "#e5e7eb", stroke: "#4b5563", text: "#111827" },
     decide:  { name: "Decision",               fill: "#fde68a", stroke: "#b45309", text: "#111827" },
     codered: { name: "CODE RED",               fill: "#dc2626", stroke: "#7f1d1d", text: "#ffffff" },
-    grok:    { name: "The Grok call",          fill: "#e9d5ff", stroke: "#7e22ce", text: "#111827" },
+    grok:    { name: "The Gemini call",          fill: "#e9d5ff", stroke: "#7e22ce", text: "#111827" },
     gate:    { name: "Send gate",              fill: "#ffffff", stroke: "#dc2626", text: "#111827" },
     booking: { name: "Booking",                fill: "#bbf7d0", stroke: "#15803d", text: "#111827" },
     boss:    { name: "Alerts to Boss (Zack and Nick)", fill: "#fed7aa", stroke: "#c2410c", text: "#111827" },
@@ -166,16 +166,16 @@
   var IN_Y = 96, IN_W = 300, IN_GAP = 30;
   lane("1. What comes in", 60, 62);
   var inputs = [
-    ["in_text", "input", "Customer texts\n(Google Voice, read in the shop Gmail)", "Customer texts reach the shop Gmail through Google Voice. Jesse's reply goes back in that same thread, so it reaches the customer as a text."],
-    ["in_yelp", "input", "Yelp leads\n(email)", "A Yelp lead arrives as an email. Jesse answers by email, with the Yelp line \"Yelp award-winning shop for 10 years\" and no links."],
-    ["in_web", "input", "Website form leads\n(forwarded from Nick's mailbox)", "Leads from audiomotorsports.com. Zack sets Nick's mailbox to forward them to the shop Gmail so the watcher sees them. Jesse answers by email."],
-    ["in_call", "input", "Missed calls and voicemails", "Google Voice sends an email for each missed call and voicemail. Jesse does not text these back yet. Nick gets the number to call back."],
-    ["in_cal", "input", "Google Calendar\n(the shop's main calendar)", "The shop's main Google Calendar. It feeds the booking steps and the three daily messages to Zack and Nick."],
-    ["in_mkt", "off", "OFF: Facebook Marketplace chats", "Off at launch. Facebook restricted the account on Nov 14. It stays off until Zack says the restriction is cleared and gives his GO."],
-    ["in_ou", "off", "OFF: OfferUp chats", "Off at launch. It turns on only on Zack's GO, after Jesse has run clean on texts, Yelp and website leads."]
+    ["in_text", "input", "Customer texts\n(Google Voice, read in the shop Gmail)", "Customer texts reach the shop Gmail through Google Voice. Jesse answers the moment they come in, any hour, 1 AM or 3 AM included. His reply goes back in that same thread, so it reaches the customer as a text.", "24/7"],
+    ["in_yelp", "input", "Yelp leads\n(email)", "A Yelp lead arrives as an email. Jesse answers by email at any hour, with the Yelp line \"Yelp award-winning shop for 10 years\" and no links.", "24/7"],
+    ["in_web", "input", "Website form leads\n(forwarded from Nick's mailbox)", "Leads from audiomotorsports.com. Zack sets Nick's mailbox to forward them to the shop Gmail so the watcher sees them. Jesse answers by email at any hour.", "24/7"],
+    ["in_call", "input", "Missed calls and voicemails", "Google Voice sends an email for each missed call and voicemail. Jesse does not text these back yet. Nick gets the number to call back.", "24/7"],
+    ["in_cal", "input", "Google Calendar\n(the shop's main calendar)", "The shop's main Google Calendar. It feeds the booking steps and the three daily messages to Zack and Nick.", ""],
+    ["in_mkt", "off", "OFF: Facebook Marketplace chats", "Off at launch. Facebook restricted the account on Nov 14. It stays off until Zack says the restriction is cleared and gives his GO. When on, Jesse replies only 10 AM to 6 PM.", "10 AM-6 PM"],
+    ["in_ou", "off", "OFF: OfferUp chats", "Off at launch. It turns on only on Zack's GO, after Jesse has run clean on texts, Yelp and website leads. When on, Jesse replies only 10 AM to 6 PM.", "10 AM-6 PM"]
   ];
   inputs.forEach(function (a, i) {
-    add(a[0], "box", a[1], 60 + i * (IN_W + IN_GAP), IN_Y, IN_W, a[2], a[3], { h: 96 });
+    add(a[0], "box", a[1], 60 + i * (IN_W + IN_GAP), IN_Y, IN_W, a[2], a[3], { h: 118, tag: a[4] });
   });
 
   // =====================================================================
@@ -183,12 +183,12 @@
   // =====================================================================
   var SX = 2600;
   lane("2. Sign-in check (the shop computer's browser)", SX, 62);
-  var si1 = add("si_start", "box", "signin", SX, IN_Y, 310, "Every hour, 8 AM to 9 PM, or when an alert can't be opened", "A small check on the shop computer's browser. It makes sure Gmail, Google Voice and Yelp are still signed in. The watcher itself reads the shop Gmail without the browser.", { h: 110 });
+  var si1 = add("si_start", "box", "signin", SX, IN_Y, 310, "Every hour, day and night, or when an alert can't be opened", "A small check on the shop computer's browser. It makes sure Gmail, Google Voice and Yelp are still signed in, every hour around the clock. The watcher itself reads the shop Gmail without the browser.", { h: 110 });
   var si2 = add("si_out", "diamond", "signin", SX + 350, IN_Y - 15, 280, "A shop app signed out?", "Checks Gmail, Google Voice, Yelp for Business and the other shop apps in the shop browser.");
   var si3 = add("si_click", "box", "signin", SX + 670, IN_Y, 310, "Click the Audio MotorSports Google account and keep going", "Zack's rule: Jesse never waits for Zack to sign in. He clicks the shop's own Google account. Only that account. Never another account, never a new account.", { h: 110 });
   var si4 = add("si_pw", "diamond", "signin", SX + 1020, IN_Y - 15, 280, "Password, code or captcha?", "If the page asks for anything more than that one click, Jesse stops. He never types a password.");
   var si5 = add("si_back", "pill", "signin", SX + 1340, IN_Y + 18, 170, "Back to work", "Signed in again. Jesse goes straight back to the job.", { h: 74 });
-  var si6 = add("si_stop", "box", "boss", SX + 990, IN_Y + 190, 340, "STOP. Text Zack: \"Boss, SIGNED OUT\"", "The alert says which app is signed out and what it asks for. It goes as a text to Zack. If Google Voice is the app that is signed out, it goes by push alert and one email instead.", { h: 96 });
+  var si6 = add("si_stop", "box", "boss", SX + 990, IN_Y + 190, 340, "STOP. Text Zack: \"Boss, SIGNED OUT\"", "The alert says which app is signed out and what it asks for. It goes as a text to Zack right away, at any hour. If Google Voice is the app that is signed out, it goes by push alert and one email instead.", { h: 96 });
   var si7 = add("si_ok", "pill", "signin", SX + 350, IN_Y + 190, 280, "All signed in. Nothing to do.", "No action needed until the next hourly check.", { h: 74 });
   edge([[si1.x + si1.w, cy(si1)], [si2.x, cy(si2)]]);
   edge([[si2.x + si2.w, cy(si2)], [si3.x, cy(si3)]], "Yes");
@@ -203,7 +203,7 @@
   var COL_Y = 500, AX = 260, BX = 1330, CX3 = 2760, DX = 3560;
   lane("3. Watcher: plain code, no AI", AX + 24, COL_Y - 62);
   var A = column(AX, COL_Y, 390, 540, [
-    { id: "w_start", type: "box", lane: "watcher", label: "The watcher checks the shop Gmail every minute. No AI.", note: "A plain script, built into the shop's existing auto-reply script. It reads new mail every minute from 8 AM to 9 PM. Jesse's AI is called only when a real customer message needs a real answer." },
+    { id: "w_start", type: "box", lane: "watcher", label: "The watcher checks the shop Gmail every minute, 24 hours a day. No AI.", note: "A plain script, built into the shop's existing auto-reply script. It reads new mail every minute, day and night. There is no night hold. Jesse's AI is called only when a real customer message needs a real answer." },
     { id: "w_junk", type: "diamond", lane: "watcher", label: "Junk or nothing to answer?", note: "Junk, our own alerts, vendor and dealer car-offer mail, a bare \"ok\" or \"thanks\" when we did not just ask a question, a like, a heart, or an emoji-only text.",
       side: { id: "w_skip", lane: "plain", label: "Skip it. No reply and no AI call.", note: "These never wake Jesse, so they cost nothing.", tag: "STOPS HERE" } },
     { id: "w_stop", type: "diamond", lane: "watcher", label: "STOP or \"don't text me\"?", note: "STOP, \"stop texting\", \"unsubscribe\", or the same in Spanish.",
@@ -215,8 +215,6 @@
       side: { id: "w_callback", lane: "boss", label: "Shop hours: alert Nick to call back. After hours: the 9 AM call-back list only.", note: "A number is never sent to Nick twice. The 9 AM message is the only call-back list. The old 10 AM text stops.", tag: "STOPS HERE" } },
     { id: "w_pick", type: "diamond", lane: "watcher", label: "A \"1\", a \"2\" or a picked time?", note: "After the noon reminder, \"1\", \"yes\", \"yep\", \"confirm\" or \"see you\" confirms. \"2\", \"reschedule\" or \"can't make it\" means a new time. A pick of one of the two offered times is a booking.",
       side: { id: "w_tobook", lane: "booking", label: "Plain code handles it. Go to Booking, below.", note: "No AI call is needed for a confirm, a reschedule or a time pick.", tag: "GOES TO BOOKING" } },
-    { id: "w_night", type: "diamond", lane: "watcher", label: "Between 9 PM and 8 AM?", note: "Nothing goes out to customers after 9 PM.",
-      side: { id: "w_wait", lane: "plain", label: "Wait. Jesse answers at 8 AM, oldest first.", note: "Night messages are answered one customer at a time at 8 AM. Overnight leads show up for Nick only in the 9 AM message.", tag: "CONTINUES AT 8 AM" } },
     { id: "w_new", type: "diamond", lane: "watcher", label: "Brand-new texter?", note: "A number that has never texted the shop before.",
       side: { id: "w_auto", lane: "plain", label: "The shop's auto-reply goes first. Jesse takes the next message.", note: "The current auto-reply stays as the first message. Jesse does not repeat the opener after it.", tag: "STOPS HERE" } }
   ]);
@@ -229,15 +227,19 @@
     { id: "d_bot", type: "diamond", lane: "decide", label: "Bot question?", note: "\"Are you real?\", \"Is this a bot?\", \"Is this AI?\", \"Is this automated?\", in English or Spanish. When in doubt, it counts.",
       side: { id: "d_bot_out", lane: "boss", label: "Send nothing at all. Emergency alert to Nick and Zack. A person takes over.", note: "Jesse never says he is a bot and never says he is a person. The customer is marked \"human\" and Jesse never answers them again.", tag: "STOPS HERE", w: 400 } },
     { id: "d_red", type: "diamond", lane: "decide", label: "Hostile, angry or a complaint?", note: "Hostile words, anger, a complaint, blame or pointing fingers, in English or Spanish. Plain code checks first, then the AI is a second net. When in doubt, it counts.",
-      side: { id: "d_red_out", lane: "codered", label: "CODE RED. Send nothing. Text Zack and Nick: \"Boss, CODE RED\". They take over.", note: "Not even one calm line goes to the customer. The customer is marked \"human\" for good. Between 9 PM and 8 AM the alert is held and goes out at 8 AM, first thing.", tag: "STOPS HERE", w: 400 } },
+      side: { id: "d_red_out", lane: "codered", label: "CODE RED. Send nothing. Text Zack and Nick: \"Boss, CODE RED\". They take over.", note: "Not even one calm line goes to the customer. The customer is marked \"human\" for good. The alert goes right away, at any hour.", tag: "STOPS HERE", w: 400 } },
     { id: "d_person", type: "diamond", lane: "decide", label: "Asks for a person?", note: "\"Can I talk to someone?\" This is a normal hand-off, not a bot question.",
       side: { id: "d_person_out", lane: "boss", label: "Give the shop number, (310) 513-8800, and hand off to Nick.", note: "Jesse pushes the call and alerts Nick. He stays on the chat until Nick or Zack replies.", tag: "JESSE STILL ANSWERS", w: 400 } },
     { id: "d_es", type: "diamond", lane: "decide", label: "Writing in Spanish?", note: "The language comes from what the customer writes, never from their name.",
       side: { id: "d_es_out", lane: "boss", label: "Answer in Spanish and alert Carlos.", note: "Jesse uses \"usted\", and \"plan de pagos\" for the payment plan. Carlos gets the alert for Spanish leads.", tag: "JESSE STILL ANSWERS", w: 400 } },
     { id: "d_hand", type: "diamond", lane: "decide", label: "A hand-off reason?", note: "A price not on file, haggling, a job over $800, a classic (1990 or older) or a named exotic, commercial work, diagnostics, a photo, or a past job.",
       side: { id: "d_hand_out", lane: "boss", label: "Alert Nick: \"Boss, HAND-OFF\" with the reason.", note: "A hand-off is an alert, not a stop. Jesse stays on the chat until Nick or Zack replies. Over $800: Jesse gives the site price first. Diagnostics: no quote and no refusal.", tag: "JESSE STILL ANSWERS", w: 400 } },
+    { id: "d_multi", type: "diamond", lane: "decide", label: "Several cars or several jobs?", note: "One car can have several jobs, and several cars can each have one. Plain words count: \"tints\" is tint, \"screen\" is stereo, \"start it from my phone\" is remote start. \"Camera\" alone: Jesse asks backup camera or dash cam.",
+      side: { id: "d_multi_out", lane: "plain", label: "Split per car: one short line per car, with its own price. Never a total.", note: "Every car and every job gets an answer. A job Jesse can't price goes to Nick, and the rest is still answered. \"Over $800\" means one job, not the total. Two cars, or two installs on one day: Nick fits the day.", tag: "JESSE STILL ANSWERS", w: 400 } },
     { id: "d_euro", type: "diamond", lane: "decide", label: "2010+ European car, radio or screen?", note: "A 2010 or newer BMW, Mercedes-Benz, Audi, Porsche, Volkswagen, Volvo, Mini, Land Rover, Jaguar or other European car, on a radio, CarPlay or screen lead.",
       side: { id: "d_zz2", lane: "watcher", label: "ZZ2 look-up by plain code on audiomotorsports.com.", note: "Plain code searches the shop's own site for that car's ZZ2 page. No AI and no browser. Each car is looked up once and remembered.", tag: "", w: 400 } },
+    { id: "d_mkt", type: "diamond", lane: "decide", label: "Marketplace or OfferUp, outside 10 AM to 6 PM?", note: "Marketplace and OfferUp are off at launch. When Zack turns them on, Jesse replies there only from 10 AM to 6 PM.",
+      side: { id: "d_mkt_out", lane: "off", label: "OFF at launch. When on: wait until 10 AM.", note: "Both stay off until Zack's GO. Texts, Yelp and website leads are not held: they are answered at any hour.", tag: "WAITS", w: 400 } },
     { id: "d_yelp", type: "diamond", lane: "decide", label: "Is it a Yelp lead?", note: "Each channel has its own rules.",
       side: { id: "d_yelp_out", lane: "plain", label: "No links on Yelp. Everywhere else, one link at most.", note: "On Yelp, Jesse gives the call and text numbers instead of a link. On other channels one link per message, from the page that fits the job.", tag: "JESSE STILL ANSWERS", w: 400 } }
   ]);
@@ -253,19 +255,21 @@
   // =====================================================================
   // 5 + 6. GROK CALL, SEND GATE, SEND (column C)
   // =====================================================================
-  lane("5. The Grok call   6. Send gate", CX3 - 195, COL_Y - 62);
+  lane("5. The Gemini call   6. Send gate", CX3 - 195, COL_Y - 62);
   var C = column(CX3, COL_Y, 400, 3040, [
-    { id: "g_topic", type: "box", lane: "grok", label: "Plain code picks ONE topic file for the job.", note: "Tint, Tesla, stereo and CarPlay, alarm and remote start, dash cam, subs and speakers, Harley, or booking. Only one is loaded, to keep each call small." },
-    { id: "g_cap", type: "diamond", lane: "grok", label: "A cap hit?", down: "No", note: "Caps: $3 of AI spend in a day, 80 AI calls in a day, or 6 for one customer in a day.",
-      side: { id: "g_cap_out", lane: "boss", label: "The AI stops for the day. Hand-offs and alerts keep going.", note: "Zack gets an alert at $2 in a day. At $3 the AI stops until tomorrow. A loop can never run up a bill.", tag: "STOPS HERE", w: 400 } },
-    { id: "g_call", type: "box", lane: "grok", label: "ONE Grok call reads:\nthe core rules + Zack's answers + one topic file + the customer's row + their last 6 messages.", note: "One call per customer message group. The stronger model is used when a price is being discussed or a booking is being made, and the mid model for early questions. Zack's answers are read fresh at 8 AM every day." },
-    { id: "s_gate", type: "box", lane: "gate", label: "Send gate: plain code checks every reply before it leaves.", note: "It blocks: \"financing\", a warranty length, \"lifetime\", a wrong phone number, an emoji, any claim to be a bot or a person, \"Boss\" in a customer message, a price not in the price file, a labor price, two or more links, any link on Yelp, anything outside 8 AM to 9 PM, a second message in a row, and a hit cap." },
+    { id: "g_topic", type: "box", lane: "grok", label: "Plain code loads the topic files for every job named, up to three.", note: "Tint, Tesla, stereo and CarPlay, alarm and remote start, dash cam, subs and speakers, Harley, or booking. A file for every job in the new messages plus every open job on the lead row, up to three. \"Camera\" alone loads both camera files. A Tesla with tint words loads the Tesla file." },
+    { id: "g_cap", type: "diamond", lane: "grok", label: "Out of calls or free quota?", down: "No", note: "Jesse runs on a free Gemini key, so there is no dollar bill. Limits: 80 AI calls a day, 6 for one customer in a day, and Google's free daily quota. If one model's quota runs out, the other model covers.",
+      side: { id: "g_cap_out", lane: "boss", label: "\"Boss, AI QUOTA\" alert. Jesse stops for the day. New leads go to Nick.", note: "One alert, sent right away at any hour. Zack gets one heads-up at 80% of either limit. Hand-offs and alerts keep going. The count resets at midnight Pacific.", tag: "STOPS HERE", w: 400 } },
+    { id: "g_call", type: "box", lane: "grok", label: "ONE Gemini call reads:\nthe core rules + Zack's answers + up to three topic files + the customer's row + their last 6 messages.", note: "One call per customer message group. The faster model for early questions, the stronger model when a price is being discussed or a booking is being made. Phone numbers, emails, addresses, plates and VINs are stripped first; first names only. Zack's answers are read fresh at 8 AM every day." },
+    { id: "s_gate", type: "box", lane: "gate", label: "Send gate: plain code checks every reply before it leaves.", note: "It blocks: \"financing\", a warranty length, \"lifetime\", a wrong phone number, an emoji, any claim to be a bot or a person, \"Boss\" in a customer message, a price not in the price file, a labor price, two or more links, any link on Yelp, Marketplace or OfferUp outside 10 AM to 6 PM, a second message in a row, more than 6 replies to one customer in a day, and the banned payment-plan phrases." },
     { id: "s_pass", type: "diamond", lane: "gate", label: "Passes every check?", down: "Yes", note: "One failed check is enough to hold the reply.",
       side: { id: "s_fail", lane: "boss", label: "Blocked and logged. The draft goes to Nick.", note: "The reply is not sent to the customer. Nick sees the draft and can send his own words.", tag: "STOPS HERE", sideLabel: "No", w: 400 } },
+    { id: "s_style", type: "diamond", lane: "gate", label: "Short, and sounds like a real person?", down: "Yes", note: "A text is 1 to 3 short sentences, under 300 characters (Yelp and email under 600). No lists, no bold, at most one exclamation mark, almost never a link, never the same link twice, and no AI phrases like \"Great question\" or \"I'd be happy to\".",
+      side: { id: "s_rewrite", lane: "boss", label: "One rewrite. Still fails: the draft goes to Nick as \"Boss, SEND THIS\".", note: "Jesse gets one more try with the reason added. A second fail goes to Nick to send in his own words.", tag: "", sideLabel: "No", w: 400 } },
     { id: "s_block", type: "box", lane: "blocker", label: "BLOCKER: sending stays OFF until the takeover signal works.", note: "Jesse cannot see a reply that Nick sends from the Google Voice app, so he could answer over Nick. Until Zack sets a takeover signal that works, every reply is only saved as a draft.",
       side: { id: "s_drafts", lane: "plain", label: "While it is off, replies are saved as drafts only.", note: "Nothing reaches a customer. Zack turns sending on with his GO, after the old auto-replies are switched off so two bots never answer one customer.", tag: "", sideLabel: "Now", w: 400 } },
-    { id: "s_send", type: "box", lane: "gate", label: "Send the reply: a text in the customer's own thread, or an email for Yelp and website leads.", note: "Only 8 AM to 9 PM. Never twice in a row without an answer. No more than 6 replies to one customer in a day." },
-    { id: "s_alert", type: "box", lane: "boss", label: "Update the lead row. Alert Nick once: \"Boss, NEW LEAD\".", note: "Each lead reaches Nick one time. The alert has the name, the car, the job, the channel, what they said and when Jesse answered. Overnight leads show only in the 9 AM message." },
+    { id: "s_send", type: "box", lane: "gate", label: "Send the reply: a text in the customer's own thread, or an email for Yelp and website leads.", note: "Texts, Yelp and website leads: any hour, the moment they come in. When the shop is closed Jesse never says \"come in now\"; he offers two times. Never twice in a row without an answer. No more than 6 replies to one customer in a day." },
+    { id: "s_alert", type: "box", lane: "boss", label: "Update the lead row. Alert Nick once: \"Boss, NEW LEAD\".", note: "Each lead reaches Nick one time. The alert has the name, the car, the job, the channel, what they said and when Jesse answered. Alerts go right away, at any hour." },
     { id: "s_book", type: "diamond", lane: "booking", label: "Ready to book a time?", down: "Yes", note: "Jesse closes by offering two named times and asking \"which one is yours?\"",
       side: { id: "s_keep", lane: "plain", label: "Keep the chat going. The next message wakes Jesse again.", note: "Each new customer message is one wake and one job. Then Jesse sleeps.", tag: "", sideLabel: "No", w: 400 } }
   ]);
@@ -276,7 +280,7 @@
   edge([[BX, B.last.y + B.last.h], [BX, B.bottom + 55], [2495, B.bottom + 55], [2495, busY], [CX3, busY], [CX3, nodes.g_topic.y]], "Then", { labelAt: 1 });
 
   // inputs bus down to the watcher
-  var busIn = IN_Y + 96 + 46;
+  var busIn = IN_Y + 118 + 46;
   ["in_text", "in_yelp", "in_web", "in_call", "in_cal"].forEach(function (id) {
     var n = nodes[id];
     edge([[cx(n), n.y + n.h], [cx(n), busIn]], "", { noArrow: true });
@@ -289,20 +293,19 @@
   lane("8. Daily messages to Boss", DX, COL_Y - 62);
   var D = column(DX + 220, COL_Y, 440, 0, [
     { id: "t_src", type: "box", lane: "watcher", label: "Built by plain code from the Calendar and the lead rows. No AI.", note: "These three go to Zack and Nick. Every message to them starts with \"Boss,\". Customers are never called Boss." },
-    { id: "t_9", type: "box", lane: "boss", label: "9:00 AM: today's appointments, overnight leads, and the call-back numbers.", note: "The only call-back list of the day. A number already sent is never sent again." },
+    { id: "t_9", type: "box", lane: "boss", label: "9:00 AM: today's appointments, how many overnight leads are still open, and the call-back numbers.", note: "The only call-back list of the day. A number already sent is never sent again." },
     { id: "t_1230", type: "box", lane: "boss", label: "12:30 PM: only if someone is still waiting on Nick.", note: "If nobody is waiting, nothing is sent." },
-    { id: "t_6", type: "box", lane: "boss", label: "6:00 PM: tomorrow's appointments, who has not confirmed, open leads, and the day's hand-off.", note: "Also: leads handed to Nick and why, new do-not-contact names, the day's AI spend, and \"Ask Zack\", the questions Jesse could not answer." }
+    { id: "t_6", type: "box", lane: "boss", label: "6:00 PM: tomorrow's appointments, who has not confirmed, open leads, the day's hand-off, and AI calls and free quota left.", note: "Also: leads handed to Nick and why, new do-not-contact names, the day's AI calls and the free quota left, and \"Ask Zack\", the questions Jesse could not answer." }
   ]);
 
   var offY = D.bottom + 120;
   lane("OFF at launch", DX, offY - 22);
   var offs = [
-    ["o_mkt", "OFF: Marketplace", "Off until Facebook's restriction is cleared and Zack gives his GO."],
-    ["o_ou", "OFF: OfferUp", "Off until Jesse has run clean on texts, Yelp and website leads, then Zack's GO."],
+    ["o_mkt", "OFF: Marketplace (10 AM-6 PM when on)", "Off until Facebook's restriction is cleared and Zack gives his GO. When on, replies only 10 AM to 6 PM."],
+    ["o_ou", "OFF: OfferUp (10 AM-6 PM when on)", "Off until Jesse has run clean on texts, Yelp and website leads, then Zack's GO. When on, replies only 10 AM to 6 PM."],
     ["o_ss", "OFF: Stereo Specialist and Crutchfield look-ups", "Off until Zack turns it on. Until then Nick works the parts list from the dash photo."],
     ["o_rev", "OFF: weekly review asks", "Off until bookings are steady. Then Zack picks who bought each week, and each gets one Google review text."],
     ["o_fu", "OFF: follow-ups", "Off until Zack turns them on. A quiet lead gets nothing more from Jesse."],
-    ["o_doc", "OFF: the 6:15 hand-off Doc", "Cut. Its lines are now part of the 6 PM message."],
     ["o_num", "OFF: texting number and missed-call text-back", "Waits for Zack's yes on a texting number. Until then a missed call is an alert to Nick."]
   ];
   var oy = offY;
