@@ -1,0 +1,207 @@
+{
+ "site": "tint",
+ "fix_files": {
+  "city-of-commerce.md": "meta length 167",
+  "hacienda-heights.md": "meta length 174",
+  "huntington-beach.md": "meta length 163",
+  "la-palma.md": "meta length 161"
+ },
+ "write_missing": [
+  {
+   "url": "https://www.audiomotorsports.com/tint/window-tint-la-mirada/",
+   "path": "/tint/window-tint-la-mirada/",
+   "cityslug": "la-mirada",
+   "city": "La Mirada",
+   "miles": 15.6,
+   "title": "Car Window Tint La Mirada | LA Car Tint"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tint/window-tint-garden-grove/",
+   "path": "/tint/window-tint-garden-grove/",
+   "cityslug": "garden-grove",
+   "city": "Garden Grove",
+   "miles": 18.9,
+   "title": "Car Window Tint Garden Grove | LA Car Tint"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tint/window-tint-fullerton/",
+   "path": "/tint/window-tint-fullerton/",
+   "cityslug": "fullerton",
+   "city": "Fullerton",
+   "miles": 19.7,
+   "title": "Car Window Tint Fullerton | LA Car Tint"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tint/window-tint-la-habra-heights/",
+   "path": "/tint/window-tint-la-habra-heights/",
+   "cityslug": "la-habra-heights",
+   "city": "La Habra Heights",
+   "miles": 20.1,
+   "title": "Car Window Tint La Habra Heights | LA Car Tint"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tint/window-tint-irvine/",
+   "path": "/tint/window-tint-irvine/",
+   "cityslug": "irvine",
+   "city": "Irvine",
+   "miles": 27.0,
+   "title": "Car Window Tint Irvine | LA Car Tint"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tint/window-tint-baldwin-park/",
+   "path": "/tint/window-tint-baldwin-park/",
+   "cityslug": "baldwin-park",
+   "city": "Baldwin Park",
+   "miles": 30.8,
+   "title": "Car Window Tint Baldwin Park | LA Car Tint"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tint/window-tint-irwindale/",
+   "path": "/tint/window-tint-irwindale/",
+   "cityslug": "irwindale",
+   "city": "Irwindale",
+   "miles": 33.5,
+   "title": "Car Window Tint Irwindale | LA Car Tint"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tint/window-tint-chino-hills/",
+   "path": "/tint/window-tint-chino-hills/",
+   "cityslug": "chino-hills",
+   "city": "Chino Hills",
+   "miles": 38.8,
+   "title": "Car Window Tint Chino Hills | LA Car Tint"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tint/window-tint-city-of-industry/",
+   "path": "/tint/window-tint-city-of-industry/",
+   "cityslug": "city-of-industry",
+   "city": "City of Industry",
+   "miles": 27.2,
+   "title": "Car Window Tint City of Industry | LA Car Tint"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tint/window-tint-bradbury/",
+   "path": "/tint/window-tint-bradbury/",
+   "cityslug": "bradbury",
+   "city": "Bradbury",
+   "miles": 34.4,
+   "title": "Car Window Tint Bradbury | LA Car Tint"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tint/window-tint-cerritos/",
+   "path": "/tint/window-tint-cerritos/",
+   "cityslug": "cerritos",
+   "city": "Cerritos",
+   "miles": 11.7,
+   "title": "Car Window Tint Cerritos | LA Car Tint"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tint/window-tint-east-los-angeles/",
+   "path": "/tint/window-tint-east-los-angeles/",
+   "cityslug": "east-los-angeles",
+   "city": "East Los Angeles",
+   "miles": 14.5,
+   "title": "Car Window Tint East Los Angeles | LA Car Tint"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tint/window-tint-buena-park/",
+   "path": "/tint/window-tint-buena-park/",
+   "cityslug": "buena-park",
+   "city": "Buena Park",
+   "miles": 15.4,
+   "title": "Car Window Tint Buena Park | LA Car Tint"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tint/window-tint-beverly-hills/",
+   "path": "/tint/window-tint-beverly-hills/",
+   "cityslug": "beverly-hills",
+   "city": "Beverly Hills",
+   "miles": 18.5,
+   "title": "Car Window Tint Beverly Hills | LA Car Tint"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tint/window-tint-la-habra/",
+   "path": "/tint/window-tint-la-habra/",
+   "cityslug": "la-habra",
+   "city": "La Habra",
+   "miles": 19.5,
+   "title": "Car Window Tint La Habra | LA Car Tint"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tint/window-tint-alhambra/",
+   "path": "/tint/window-tint-alhambra/",
+   "cityslug": "alhambra",
+   "city": "Alhambra",
+   "miles": 19.9,
+   "title": "Car Window Tint Alhambra | LA Car Tint"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tint/window-tint-el-monte/",
+   "path": "/tint/window-tint-el-monte/",
+   "cityslug": "el-monte",
+   "city": "El Monte",
+   "miles": 26.6,
+   "title": "Car Window Tint El Monte | LA Car Tint"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tint/window-tint-covina/",
+   "path": "/tint/window-tint-covina/",
+   "cityslug": "covina",
+   "city": "Covina",
+   "miles": 34.8,
+   "title": "Car Window Tint Covina | LA Car Tint"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tint/window-tint-chino/",
+   "path": "/tint/window-tint-chino/",
+   "cityslug": "chino",
+   "city": "Chino",
+   "miles": 44.0,
+   "title": "Car Window Tint Chino | LA Car Tint"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tint/window-tint-exposition-park/",
+   "path": "/tint/window-tint-exposition-park/",
+   "cityslug": "exposition-park",
+   "city": "Exposition Park",
+   "miles": 15.9,
+   "title": "Car Window Tint Exposition Park | LA Car Tint"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tint/window-tint-fountain-valley/",
+   "path": "/tint/window-tint-fountain-valley/",
+   "cityslug": "fountain-valley",
+   "city": "Fountain Valley",
+   "miles": 19.7,
+   "title": "Car Window Tint Fountain Valley | LA Car Tint"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tint/window-tint-anaheim/",
+   "path": "/tint/window-tint-anaheim/",
+   "cityslug": "anaheim",
+   "city": "Anaheim",
+   "miles": 20.0,
+   "title": "Car Window Tint Anaheim | LA Car Tint"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tint/window-tint-glendale/",
+   "path": "/tint/window-tint-glendale/",
+   "cityslug": "glendale",
+   "city": "Glendale",
+   "miles": 26.9,
+   "title": "Car Window Tint Glendale | LA Car Tint"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/tint/window-tint-azusa/",
+   "path": "/tint/window-tint-azusa/",
+   "cityslug": "azusa",
+   "city": "Azusa",
+   "miles": 36.5,
+   "title": "Car Window Tint Azusa | LA Car Tint"
+  }
+ ],
+ "reuse_lines_involving_your_files": [
+  "['florence-firestone.md', 'south-el-monte.md'] | - **tesla window tint.** one-piece rear glass on model 3 and model y.",
+  "['la-palma.md', 'palos-verdes-estates.md'] | the rear doors and back glass can be as dark as you want."
+ ]
+}

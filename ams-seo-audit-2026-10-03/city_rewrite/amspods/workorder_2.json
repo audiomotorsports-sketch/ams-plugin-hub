@@ -1,0 +1,157 @@
+{
+ "site": "amspods",
+ "fix_files": {
+  "huntington-beach.md": "title length 64; meta length 170; FAQ questions in schema != visible headings",
+  "inglewood.md": "meta length 164; forbidden phrase \"locked\"; FAQ questions in schema != visible headings",
+  "la-palma.md": "meta length 163; FAQ questions in schema != visible headings",
+  "lomita.md": "FAQ questions in schema != visible headings",
+  "long-beach.md": "meta length 165",
+  "monterey-park.md": "meta length 169; FAQ questions in schema != visible headings",
+  "palos-verdes-estates.md": "FAQ questions in schema != visible headings",
+  "pasadena.md": "meta length 170; FAQ questions in schema != visible headings",
+  "playa-del-rey.md": "meta length 164; FAQ questions in schema != visible headings",
+  "redondo-beach.md": "meta length 169"
+ },
+ "write_missing": [
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-lakewood/",
+   "path": "/amspods/bagger-audio-lakewood/",
+   "cityslug": "lakewood",
+   "city": "Lakewood",
+   "miles": 7.7,
+   "title": "Harley Bagger Audio Lakewood | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-manhattan-beach/",
+   "path": "/amspods/bagger-audio-manhattan-beach/",
+   "cityslug": "manhattan-beach",
+   "city": "Manhattan Beach",
+   "miles": 9.3,
+   "title": "Harley Bagger Audio Manhattan Beach | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-midway-city/",
+   "path": "/amspods/bagger-audio-midway-city/",
+   "cityslug": "midway-city",
+   "city": "Midway City",
+   "miles": 17.0,
+   "title": "Harley Bagger Audio Midway City | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-north-hollywood/",
+   "path": "/amspods/bagger-audio-north-hollywood/",
+   "cityslug": "north-hollywood",
+   "city": "North Hollywood",
+   "miles": 24.7,
+   "title": "Harley Bagger Audio North Hollywood | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-northridge/",
+   "path": "/amspods/bagger-audio-northridge/",
+   "cityslug": "northridge",
+   "city": "Northridge",
+   "miles": 32.2,
+   "title": "Harley Bagger Audio Northridge | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-lynwood/",
+   "path": "/amspods/bagger-audio-lynwood/",
+   "cityslug": "lynwood",
+   "city": "Lynwood",
+   "miles": 7.8,
+   "title": "Harley Bagger Audio Lynwood | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-rancho-palos-verdes/",
+   "path": "/amspods/bagger-audio-rancho-palos-verdes/",
+   "cityslug": "rancho-palos-verdes",
+   "city": "Rancho Palos Verdes",
+   "miles": 9.0,
+   "title": "Harley Bagger Audio Rancho Palos Verdes | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-la-canada-flintridge/",
+   "path": "/amspods/bagger-audio-la-canada-flintridge/",
+   "cityslug": "la-canada-flintridge",
+   "city": "La Canada Flintridge",
+   "miles": 26.4,
+   "title": "Harley Bagger Audio La Canada Flintridge | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-lawndale/",
+   "path": "/amspods/bagger-audio-lawndale/",
+   "cityslug": "lawndale",
+   "city": "Lawndale",
+   "miles": 6.5,
+   "title": "Harley Bagger Audio Lawndale | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-paramount/",
+   "path": "/amspods/bagger-audio-paramount/",
+   "cityslug": "paramount",
+   "city": "Paramount",
+   "miles": 7.4,
+   "title": "Harley Bagger Audio Paramount | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-los-angeles/",
+   "path": "/amspods/bagger-audio-los-angeles/",
+   "cityslug": "los-angeles",
+   "city": "Los Angeles",
+   "miles": 15.6,
+   "title": "Harley Bagger Audio Los Angeles | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-pacific-palisades/",
+   "path": "/amspods/bagger-audio-pacific-palisades/",
+   "cityslug": "pacific-palisades",
+   "city": "Pacific Palisades",
+   "miles": 21.4,
+   "title": "Harley Bagger Audio Pacific Palisades | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-placentia/",
+   "path": "/amspods/bagger-audio-placentia/",
+   "cityslug": "placentia",
+   "city": "Placentia",
+   "miles": 22.9,
+   "title": "Harley Bagger Audio Placentia | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-newport-beach/",
+   "path": "/amspods/bagger-audio-newport-beach/",
+   "cityslug": "newport-beach",
+   "city": "Newport Beach",
+   "miles": 24.1,
+   "title": "Harley Bagger Audio Newport Beach | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-la-crescenta-montrose/",
+   "path": "/amspods/bagger-audio-la-crescenta-montrose/",
+   "cityslug": "la-crescenta-montrose",
+   "city": "La Crescenta-Montrose",
+   "miles": 28.0,
+   "title": "Harley Bagger Audio La Crescenta-Montrose | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-malibu/",
+   "path": "/amspods/bagger-audio-malibu/",
+   "cityslug": "malibu",
+   "city": "Malibu",
+   "miles": 32.6,
+   "title": "Harley Bagger Audio Malibu | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-orange/",
+   "path": "/amspods/bagger-audio-orange/",
+   "cityslug": "orange",
+   "city": "Orange",
+   "miles": null,
+   "title": "Harley Bagger Audio Orange | AMS Pods"
+  }
+ ],
+ "reuse_lines_involving_your_files": [
+  "['arcadia.md', 'bradbury.md', 'lomita.md'] | ### how long does a remote start installation take?",
+  "['hawaiian-gardens.md', 'monterey-park.md'] | tesla tint is quoted by model at the shop."
+ ]
+}

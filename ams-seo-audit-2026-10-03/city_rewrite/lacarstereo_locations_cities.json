@@ -1,0 +1,494 @@
+[
+ {
+  "city": "West Carson",
+  "miles": 1.8
+ },
+ {
+  "city": "Harbor City",
+  "miles": 2.8
+ },
+ {
+  "city": "Wilmington",
+  "miles": 3.3
+ },
+ {
+  "city": "Lomita",
+  "miles": 3.7
+ },
+ {
+  "city": "Torrance",
+  "miles": 4.4
+ },
+ {
+  "city": "Gardena",
+  "miles": 4.9
+ },
+ {
+  "city": "Compton",
+  "miles": 5.4
+ },
+ {
+  "city": "Long Beach",
+  "miles": 5.7
+ },
+ {
+  "city": "Signal Hill",
+  "miles": 5.8
+ },
+ {
+  "city": "Rolling Hills Estates",
+  "miles": 6.0
+ },
+ {
+  "city": "Willowbrook",
+  "miles": 6.0
+ },
+ {
+  "city": "Lawndale",
+  "miles": 6.5
+ },
+ {
+  "city": "San Pedro",
+  "miles": 6.5
+ },
+ {
+  "city": "Redondo Beach",
+  "miles": 7.2
+ },
+ {
+  "city": "Rolling Hills",
+  "miles": 7.2
+ },
+ {
+  "city": "Paramount",
+  "miles": 7.4
+ },
+ {
+  "city": "Watts",
+  "miles": 7.6
+ },
+ {
+  "city": "Lakewood",
+  "miles": 7.7
+ },
+ {
+  "city": "Lynwood",
+  "miles": 7.8
+ },
+ {
+  "city": "Hawthorne",
+  "miles": 8.0
+ },
+ {
+  "city": "Palos Verdes Estates",
+  "miles": 8.0
+ },
+ {
+  "city": "Hermosa Beach",
+  "miles": 8.1
+ },
+ {
+  "city": "Lennox",
+  "miles": 9.0
+ },
+ {
+  "city": "Rancho Palos Verdes",
+  "miles": 9.0
+ },
+ {
+  "city": "Bellflower",
+  "miles": 9.3
+ },
+ {
+  "city": "Manhattan Beach",
+  "miles": 9.3
+ },
+ {
+  "city": "South Gate",
+  "miles": 9.3
+ },
+ {
+  "city": "Walnut Park",
+  "miles": 9.7
+ },
+ {
+  "city": "Cudahy",
+  "miles": 10.0
+ },
+ {
+  "city": "Florence-Firestone",
+  "miles": 10.0
+ },
+ {
+  "city": "Inglewood",
+  "miles": 10.6
+ },
+ {
+  "city": "Artesia",
+  "miles": 10.8
+ },
+ {
+  "city": "El Segundo",
+  "miles": 10.8
+ },
+ {
+  "city": "Downey",
+  "miles": 10.9
+ },
+ {
+  "city": "Huntington Park",
+  "miles": 10.9
+ },
+ {
+  "city": "Seal Beach",
+  "miles": 10.9
+ },
+ {
+  "city": "Hawaiian Gardens",
+  "miles": 11.0
+ },
+ {
+  "city": "Rossmoor",
+  "miles": 11.0
+ },
+ {
+  "city": "South Los Angeles",
+  "miles": 11.0
+ },
+ {
+  "city": "Los Alamitos",
+  "miles": 11.2
+ },
+ {
+  "city": "Bell",
+  "miles": 11.3
+ },
+ {
+  "city": "Bell Gardens",
+  "miles": 11.3
+ },
+ {
+  "city": "Cerritos",
+  "miles": 11.7
+ },
+ {
+  "city": "Norwalk",
+  "miles": 11.7
+ },
+ {
+  "city": "Maywood",
+  "miles": 11.9
+ },
+ {
+  "city": "Vernon",
+  "miles": 12.1
+ },
+ {
+  "city": "Westchester",
+  "miles": 12.1
+ },
+ {
+  "city": "View Park-Windsor Hills",
+  "miles": 12.3
+ },
+ {
+  "city": "La Palma",
+  "miles": 12.5
+ },
+ {
+  "city": "Cypress",
+  "miles": 13.0
+ },
+ {
+  "city": "Ladera Heights",
+  "miles": 13.0
+ },
+ {
+  "city": "Santa Fe Springs",
+  "miles": 13.0
+ },
+ {
+  "city": "Commerce",
+  "miles": 13.1
+ },
+ {
+  "city": "Baldwin Hills",
+  "miles": 13.3
+ },
+ {
+  "city": "Playa del Rey",
+  "miles": 13.3
+ },
+ {
+  "city": "Playa Vista",
+  "miles": 13.5
+ },
+ {
+  "city": "Pico Rivera",
+  "miles": 14.2
+ },
+ {
+  "city": "Boyle Heights",
+  "miles": 14.3
+ },
+ {
+  "city": "East Los Angeles",
+  "miles": 14.5
+ },
+ {
+  "city": "Marina del Rey",
+  "miles": 14.9
+ },
+ {
+  "city": "Culver City",
+  "miles": 15.2
+ },
+ {
+  "city": "Montebello",
+  "miles": 15.3
+ },
+ {
+  "city": "Buena Park",
+  "miles": 15.4
+ },
+ {
+  "city": "Mar Vista",
+  "miles": 15.4
+ },
+ {
+  "city": "La Mirada",
+  "miles": 15.6
+ },
+ {
+  "city": "Los Angeles",
+  "miles": 15.6
+ },
+ {
+  "city": "Stanton",
+  "miles": 15.6
+ },
+ {
+  "city": "Exposition Park",
+  "miles": 15.9
+ },
+ {
+  "city": "Venice",
+  "miles": 15.9
+ },
+ {
+  "city": "Westminster",
+  "miles": 16.4
+ },
+ {
+  "city": "Whittier",
+  "miles": 16.7
+ },
+ {
+  "city": "Monterey Park",
+  "miles": 17.9
+ },
+ {
+  "city": "West Los Angeles",
+  "miles": 18.0
+ },
+ {
+  "city": "Santa Monica",
+  "miles": 18.4
+ },
+ {
+  "city": "Beverly Hills",
+  "miles": 18.5
+ },
+ {
+  "city": "West Hollywood",
+  "miles": 18.8
+ },
+ {
+  "city": "Garden Grove",
+  "miles": 18.9
+ },
+ {
+  "city": "Huntington Beach",
+  "miles": 19.3
+ },
+ {
+  "city": "La Habra",
+  "miles": 19.5
+ },
+ {
+  "city": "Fountain Valley",
+  "miles": 19.7
+ },
+ {
+  "city": "Fullerton",
+  "miles": 19.7
+ },
+ {
+  "city": "South El Monte",
+  "miles": 19.7
+ },
+ {
+  "city": "Alhambra",
+  "miles": 19.9
+ },
+ {
+  "city": "Anaheim",
+  "miles": 20.0
+ },
+ {
+  "city": "La Habra Heights",
+  "miles": 20.1
+ },
+ {
+  "city": "Hacienda Heights",
+  "miles": 20.3
+ },
+ {
+  "city": "Rosemead",
+  "miles": 20.4
+ },
+ {
+  "city": "San Gabriel",
+  "miles": 20.4
+ },
+ {
+  "city": "South Pasadena",
+  "miles": 20.7
+ },
+ {
+  "city": "Hollywood",
+  "miles": 23.3
+ },
+ {
+  "city": "Santa Ana",
+  "miles": 23.5
+ },
+ {
+  "city": "El Monte",
+  "miles": 26.6
+ },
+ {
+  "city": "Glendale",
+  "miles": 26.9
+ },
+ {
+  "city": "Irvine",
+  "miles": 27.0
+ },
+ {
+  "city": "San Marino",
+  "miles": 27.0
+ },
+ {
+  "city": "City of Industry",
+  "miles": 27.2
+ },
+ {
+  "city": "La Puente",
+  "miles": 27.8
+ },
+ {
+  "city": "Burbank",
+  "miles": 28.2
+ },
+ {
+  "city": "Pasadena",
+  "miles": 28.6
+ },
+ {
+  "city": "Montrose",
+  "miles": 29.9
+ },
+ {
+  "city": "Baldwin Park",
+  "miles": 30.8
+ },
+ {
+  "city": "Encino",
+  "miles": 30.9
+ },
+ {
+  "city": "West Covina",
+  "miles": 31.0
+ },
+ {
+  "city": "Sierra Madre",
+  "miles": 32.3
+ },
+ {
+  "city": "Monrovia",
+  "miles": 33.3
+ },
+ {
+  "city": "Irwindale",
+  "miles": 33.5
+ },
+ {
+  "city": "Rowland Heights",
+  "miles": 33.9
+ },
+ {
+  "city": "Bradbury",
+  "miles": 34.4
+ },
+ {
+  "city": "Covina",
+  "miles": 34.8
+ },
+ {
+  "city": "Azusa",
+  "miles": 36.5
+ },
+ {
+  "city": "Chino Hills",
+  "miles": 38.8
+ },
+ {
+  "city": "San Fernando",
+  "miles": 38.9
+ },
+ {
+  "city": "Glendora",
+  "miles": 39.0
+ },
+ {
+  "city": "Canoga Park",
+  "miles": 39.1
+ },
+ {
+  "city": "Calabasas",
+  "miles": 39.6
+ },
+ {
+  "city": "Pomona",
+  "miles": 41.6
+ },
+ {
+  "city": "La Verne",
+  "miles": 41.8
+ },
+ {
+  "city": "San Dimas",
+  "miles": 42.1
+ },
+ {
+  "city": "Chino",
+  "miles": 44.0
+ },
+ {
+  "city": "Montclair",
+  "miles": 46.3
+ },
+ {
+  "city": "Rancho Cucamonga",
+  "miles": 53.6
+ },
+ {
+  "city": "Fontana",
+  "miles": 61.7
+ },
+ {
+  "city": "Lancaster",
+  "miles": 86.8
+ }
+]

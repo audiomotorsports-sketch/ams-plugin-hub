@@ -1,0 +1,152 @@
+{
+ "site": "alarm",
+ "out_dir": "alarm/drafts",
+ "fix_files": {},
+ "write_missing": [
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-granada-hills/",
+   "path": "/alarm/car-alarm-granada-hills/",
+   "cityslug": "granada-hills",
+   "city": "Granada Hills",
+   "miles": 33.7,
+   "title": "Car Alarm Installation for Granada Hills | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-hacienda-heights/",
+   "path": "/alarm/car-alarm-hacienda-heights/",
+   "cityslug": "hacienda-heights",
+   "city": "Hacienda Heights",
+   "miles": 20.3,
+   "title": "Car Alarm Installation for Hacienda Heights | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-hawaiian-gardens/",
+   "path": "/alarm/car-alarm-hawaiian-gardens/",
+   "cityslug": "hawaiian-gardens",
+   "city": "Hawaiian Gardens",
+   "miles": 11.0,
+   "title": "Car Alarm Installation for Hawaiian Gardens | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-hermosa-beach/",
+   "path": "/alarm/car-alarm-hermosa-beach/",
+   "cityslug": "hermosa-beach",
+   "city": "Hermosa Beach",
+   "miles": 8.1,
+   "title": "Car Alarm Installation for Hermosa Beach | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-huntington-beach/",
+   "path": "/alarm/car-alarm-huntington-beach/",
+   "cityslug": "huntington-beach",
+   "city": "Huntington Beach",
+   "miles": 19.3,
+   "title": "Car Alarm Installation for Huntington Beach | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-inglewood/",
+   "path": "/alarm/car-alarm-inglewood/",
+   "cityslug": "inglewood",
+   "city": "Inglewood",
+   "miles": 10.6,
+   "title": "Car Alarm Installation for Inglewood | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-la-crescenta-montrose/",
+   "path": "/alarm/car-alarm-la-crescenta-montrose/",
+   "cityslug": "la-crescenta-montrose",
+   "city": "La Crescenta-Montrose",
+   "miles": 28.0,
+   "title": "Car Alarm Installation for La Crescenta-Montrose | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-la-habra/",
+   "path": "/alarm/car-alarm-la-habra/",
+   "cityslug": "la-habra",
+   "city": "La Habra",
+   "miles": 19.5,
+   "title": "Car Alarm Installation for La Habra | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-la-mirada/",
+   "path": "/alarm/car-alarm-la-mirada/",
+   "cityslug": "la-mirada",
+   "city": "La Mirada",
+   "miles": 15.6,
+   "title": "Car Alarm Installation for La Mirada | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-la-palma/",
+   "path": "/alarm/car-alarm-la-palma/",
+   "cityslug": "la-palma",
+   "city": "La Palma",
+   "miles": 12.5,
+   "title": "Car Alarm Installation for La Palma | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-lakewood/",
+   "path": "/alarm/car-alarm-lakewood/",
+   "cityslug": "lakewood",
+   "city": "Lakewood",
+   "miles": 7.7,
+   "title": "Car Alarm Installation for Lakewood | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-lawndale/",
+   "path": "/alarm/car-alarm-lawndale/",
+   "cityslug": "lawndale",
+   "city": "Lawndale",
+   "miles": 6.5,
+   "title": "Car Alarm Installation for Lawndale | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-lomita/",
+   "path": "/alarm/car-alarm-lomita/",
+   "cityslug": "lomita",
+   "city": "Lomita",
+   "miles": 3.7,
+   "title": "Car Alarm Installation for Lomita | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-long-beach/",
+   "path": "/alarm/car-alarm-long-beach/",
+   "cityslug": "long-beach",
+   "city": "Long Beach",
+   "miles": 5.7,
+   "title": "Car Alarm Installation for Long Beach | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-los-alamitos/",
+   "path": "/alarm/car-alarm-los-alamitos/",
+   "cityslug": "los-alamitos",
+   "city": "Los Alamitos",
+   "miles": 11.2,
+   "title": "Car Alarm Installation for Los Alamitos | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-monterey-park/",
+   "path": "/alarm/car-alarm-monterey-park/",
+   "cityslug": "monterey-park",
+   "city": "Monterey Park",
+   "miles": 17.9,
+   "title": "Car Alarm Installation for Monterey Park | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-pasadena/",
+   "path": "/alarm/car-alarm-pasadena/",
+   "cityslug": "pasadena",
+   "city": "Pasadena",
+   "miles": 28.6,
+   "title": "Car Alarm Installation for Pasadena | LA Car Alarm"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/alarm/car-alarm-playa-del-rey/",
+   "path": "/alarm/car-alarm-playa-del-rey/",
+   "cityslug": "playa-del-rey",
+   "city": "Playa del Rey",
+   "miles": 13.3,
+   "title": "Car Alarm Installation for Playa del Rey | LA Car Alarm"
+  }
+ ],
+ "reuse_lines_involving_your_files": []
+}

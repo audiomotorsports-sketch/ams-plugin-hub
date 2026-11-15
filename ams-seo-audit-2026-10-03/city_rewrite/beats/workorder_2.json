@@ -1,0 +1,251 @@
+{
+ "site": "beats",
+ "fix_files": {
+  "los-alamitos.md": "neighbor links 0 < 3",
+  "lynwood.md": "neighbor links 0 < 3",
+  "mar-vista.md": "neighbor links 0 < 3",
+  "marina-del-rey.md": "neighbor links 0 < 3",
+  "monrovia.md": "meta length 162; neighbor links 0 < 3",
+  "montclair.md": "meta length 167; neighbor links 0 < 3",
+  "monterey-park.md": "neighbor links 0 < 3",
+  "norwalk.md": "neighbor links 0 < 3",
+  "paramount.md": "neighbor links 0 < 3",
+  "pasadena.md": "meta length 164; neighbor links 0 < 3",
+  "playa-del-rey.md": "neighbor links 0 < 3",
+  "playa-vista.md": "neighbor links 0 < 3",
+  "rancho-palos-verdes.md": "neighbor links 0 < 3",
+  "rolling-hills.md": "neighbor links 0 < 3",
+  "rosemead.md": "meta length 161; neighbor links 0 < 3",
+  "san-gabriel.md": "neighbor links 0 < 3",
+  "santa-fe-springs.md": "neighbor links 0 < 3",
+  "seal-beach.md": "neighbor links 0 < 3",
+  "sierra-madre.md": "meta length 163; neighbor links 0 < 3",
+  "south-gate.md": "neighbor links 0 < 3",
+  "south-los-angeles.md": "neighbor links 0 < 3",
+  "stanton.md": "neighbor links 0 < 3",
+  "view-park-windsor-hills.md": "neighbor links 0 < 3",
+  "walnut-park.md": "neighbor links 0 < 3",
+  "west-hollywood.md": "neighbor links 0 < 3",
+  "westchester.md": "meta length 163; neighbor links 0 < 3",
+  "whittier.md": "meta length 163; neighbor links 0 < 3",
+  "willowbrook.md": "neighbor links 0 < 3",
+  "wilmington.md": "neighbor links 0 < 3"
+ },
+ "write_missing": [
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-west-carson/",
+   "path": "/beats/car-stereo-west-carson/",
+   "cityslug": "west-carson",
+   "city": "West Carson",
+   "miles": 1.8,
+   "title": "Car Stereo Installation for West Carson | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-torrance/",
+   "path": "/beats/car-stereo-torrance/",
+   "cityslug": "torrance",
+   "city": "Torrance",
+   "miles": 4.4,
+   "title": "Car Stereo Installation for Torrance | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-signal-hill/",
+   "path": "/beats/car-stereo-signal-hill/",
+   "cityslug": "signal-hill",
+   "city": "Signal Hill",
+   "miles": 5.8,
+   "title": "Car Stereo Installation for Signal Hill | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-san-pedro/",
+   "path": "/beats/car-stereo-san-pedro/",
+   "cityslug": "san-pedro",
+   "city": "San Pedro",
+   "miles": 6.5,
+   "title": "Car Stereo Installation for San Pedro | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-watts/",
+   "path": "/beats/car-stereo-watts/",
+   "cityslug": "watts",
+   "city": "Watts",
+   "miles": 7.6,
+   "title": "Car Stereo Installation for Watts | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-palos-verdes-estates/",
+   "path": "/beats/car-stereo-palos-verdes-estates/",
+   "cityslug": "palos-verdes-estates",
+   "city": "Palos Verdes Estates",
+   "miles": 8.0,
+   "title": "Car Stereo Installation for Palos Verdes Estates | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-maywood/",
+   "path": "/beats/car-stereo-maywood/",
+   "cityslug": "maywood",
+   "city": "Maywood",
+   "miles": 11.9,
+   "title": "Car Stereo Installation for Maywood | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-pico-rivera/",
+   "path": "/beats/car-stereo-pico-rivera/",
+   "cityslug": "pico-rivera",
+   "city": "Pico Rivera",
+   "miles": 14.2,
+   "title": "Car Stereo Installation for Pico Rivera | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-venice/",
+   "path": "/beats/car-stereo-venice/",
+   "cityslug": "venice",
+   "city": "Venice",
+   "miles": 15.9,
+   "title": "Car Stereo Installation for Venice | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-west-los-angeles/",
+   "path": "/beats/car-stereo-west-los-angeles/",
+   "cityslug": "west-los-angeles",
+   "city": "West Los Angeles",
+   "miles": 18.0,
+   "title": "Car Stereo Installation for West Los Angeles | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-south-pasadena/",
+   "path": "/beats/car-stereo-south-pasadena/",
+   "cityslug": "south-pasadena",
+   "city": "South Pasadena",
+   "miles": 20.7,
+   "title": "Car Stereo Installation for South Pasadena | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-rancho-cucamonga/",
+   "path": "/beats/car-stereo-rancho-cucamonga/",
+   "cityslug": "rancho-cucamonga",
+   "city": "Rancho Cucamonga",
+   "miles": 53.6,
+   "title": "Car Stereo Installation for Rancho Cucamonga | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-rolling-hills-estates/",
+   "path": "/beats/car-stereo-rolling-hills-estates/",
+   "cityslug": "rolling-hills-estates",
+   "city": "Rolling Hills Estates",
+   "miles": 6.0,
+   "title": "Car Stereo Installation for Rolling Hills Estates | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-redondo-beach/",
+   "path": "/beats/car-stereo-redondo-beach/",
+   "cityslug": "redondo-beach",
+   "city": "Redondo Beach",
+   "miles": 7.2,
+   "title": "Car Stereo Installation for Redondo Beach | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-manhattan-beach/",
+   "path": "/beats/car-stereo-manhattan-beach/",
+   "cityslug": "manhattan-beach",
+   "city": "Manhattan Beach",
+   "miles": 9.3,
+   "title": "Car Stereo Installation for Manhattan Beach | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-rossmoor/",
+   "path": "/beats/car-stereo-rossmoor/",
+   "cityslug": "rossmoor",
+   "city": "Rossmoor",
+   "miles": 11.0,
+   "title": "Car Stereo Installation for Rossmoor | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-vernon/",
+   "path": "/beats/car-stereo-vernon/",
+   "cityslug": "vernon",
+   "city": "Vernon",
+   "miles": 12.1,
+   "title": "Car Stereo Installation for Vernon | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-montebello/",
+   "path": "/beats/car-stereo-montebello/",
+   "cityslug": "montebello",
+   "city": "Montebello",
+   "miles": 15.3,
+   "title": "Car Stereo Installation for Montebello | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-los-angeles/",
+   "path": "/beats/car-stereo-los-angeles/",
+   "cityslug": "los-angeles",
+   "city": "Los Angeles",
+   "miles": 15.6,
+   "title": "Car Stereo Installation for Los Angeles | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-westminster/",
+   "path": "/beats/car-stereo-westminster/",
+   "cityslug": "westminster",
+   "city": "Westminster",
+   "miles": 16.4,
+   "title": "Car Stereo Installation for Westminster | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-santa-monica/",
+   "path": "/beats/car-stereo-santa-monica/",
+   "cityslug": "santa-monica",
+   "city": "Santa Monica",
+   "miles": 18.4,
+   "title": "Car Stereo Installation for Santa Monica | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-south-el-monte/",
+   "path": "/beats/car-stereo-south-el-monte/",
+   "cityslug": "south-el-monte",
+   "city": "South El Monte",
+   "miles": 19.7,
+   "title": "Car Stereo Installation for South El Monte | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-santa-ana/",
+   "path": "/beats/car-stereo-santa-ana/",
+   "cityslug": "santa-ana",
+   "city": "Santa Ana",
+   "miles": 23.5,
+   "title": "Car Stereo Installation for Santa Ana | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-west-covina/",
+   "path": "/beats/car-stereo-west-covina/",
+   "cityslug": "west-covina",
+   "city": "West Covina",
+   "miles": 31.0,
+   "title": "Car Stereo Installation for West Covina | LA Car Beats"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/beats/car-stereo-pomona/",
+   "path": "/beats/car-stereo-pomona/",
+   "cityslug": "pomona",
+   "city": "Pomona",
+   "miles": 41.6,
+   "title": "Car Stereo Installation for Pomona | LA Car Beats"
+  }
+ ],
+ "reuse_lines_involving_your_files": [
+  "['alhambra.md', 'sierra-madre.md'] | ### will android auto installation keep my backup camera?",
+  "['anaheim.md', 'montclair.md'] | subwoofer installation, amplifier installation, car stereo installation and speaker replac",
+  "['azusa.md', 'fountain-valley.md', 'playa-vista.md'] | head unit installation, apple carplay and android auto installation, speaker replacement a",
+  "['chino.md', 'stanton.md'] | head unit installation, apple carplay and android auto installation, speaker replacement, ",
+  "['covina.md', 'playa-del-rey.md'] | window tint, car alarm installation, remote start, gps tracker installation and dash camer",
+  "['el-monte.md', 'stanton.md'] | factory chimes are carried over on cars that route them through the radio.",
+  "['la-puente.md', 'whittier.md'] | **car stereo installation.** a head unit with pre-amp outputs for a clean signal to the am",
+  "['la-puente.md', 'westchester.md'] | amplifier installation on a factory head unit uses a line-output converter to create a cle",
+  "['ladera-heights.md', 'sierra-madre.md'] | cars with a standard radio opening get a touchscreen head unit.",
+  "['lawndale.md', 'paramount.md'] | window tint and ceramic window tint, car alarm installation, remote start installation, gp",
+  "['los-alamitos.md', 'monrovia.md', 'monterey-park.md', 'san-gabriel.md', 'seal-beach.md'] | window tint and ceramic window tint, car alarm installation, remote start installation, gp",
+  "['marina-del-rey.md', 'pasadena.md', 'west-hollywood.md'] | window tint and ceramic window tint, tesla window tint, car alarm installation, remote sta",
+  "['rosemead.md', 'south-los-angeles.md'] | set an appointment, then drop the truck for the day or wait for a shorter job."
+ ]
+}

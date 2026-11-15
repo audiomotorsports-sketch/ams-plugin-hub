@@ -1,0 +1,137 @@
+{
+ "site": "amspods",
+ "fix_files": {
+  "alondra-park.md": "title length 63; FAQ questions in schema != visible headings",
+  "anaheim.md": "title length 64; meta length 167; FAQ questions in schema != visible headings",
+  "arcadia.md": "title length 66; meta length 171; FAQ questions in schema != visible headings",
+  "baldwin-park.md": "meta length 172; FAQ questions in schema != visible headings",
+  "bellflower.md": "meta length 163; FAQ questions in schema != visible headings",
+  "bradbury.md": "meta length 180; FAQ questions in schema != visible headings",
+  "cerritos.md": "title length 65; meta length 162; FAQ questions in schema != visible headings",
+  "chino.md": "title length 62; meta length 173; FAQ questions in schema != visible headings",
+  "city-of-industry.md": "meta length 168; FAQ questions in schema != visible headings",
+  "culver-city.md": "title length 66; meta length 174; FAQ questions in schema != visible headings",
+  "glendora.md": "meta length 176; FAQ questions in schema != visible headings",
+  "harbor-city.md": "meta length 167",
+  "hawaiian-gardens.md": "title length 63; meta length 164; FAQ questions in schema != visible headings"
+ },
+ "write_missing": [
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-compton/",
+   "path": "/amspods/bagger-audio-compton/",
+   "cityslug": "compton",
+   "city": "Compton",
+   "miles": 5.4,
+   "title": "Harley Bagger Audio Compton | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-del-aire/",
+   "path": "/amspods/bagger-audio-del-aire/",
+   "cityslug": "del-aire",
+   "city": "Del Aire",
+   "miles": 8.6,
+   "title": "Harley Bagger Audio Del Aire | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-brea/",
+   "path": "/amspods/bagger-audio-brea/",
+   "cityslug": "brea",
+   "city": "Brea",
+   "miles": 21.8,
+   "title": "Harley Bagger Audio Brea | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-duarte/",
+   "path": "/amspods/bagger-audio-duarte/",
+   "cityslug": "duarte",
+   "city": "Duarte",
+   "miles": 27.1,
+   "title": "Harley Bagger Audio Duarte | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-diamond-bar/",
+   "path": "/amspods/bagger-audio-diamond-bar/",
+   "cityslug": "diamond-bar",
+   "city": "Diamond Bar",
+   "miles": 28.1,
+   "title": "Harley Bagger Audio Diamond Bar | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-granada-hills/",
+   "path": "/amspods/bagger-audio-granada-hills/",
+   "cityslug": "granada-hills",
+   "city": "Granada Hills",
+   "miles": 33.7,
+   "title": "Harley Bagger Audio Granada Hills | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-hermosa-beach/",
+   "path": "/amspods/bagger-audio-hermosa-beach/",
+   "cityslug": "hermosa-beach",
+   "city": "Hermosa Beach",
+   "miles": 8.1,
+   "title": "Harley Bagger Audio Hermosa Beach | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-brentwood/",
+   "path": "/amspods/bagger-audio-brentwood/",
+   "cityslug": "brentwood",
+   "city": "Brentwood",
+   "miles": 20.2,
+   "title": "Harley Bagger Audio Brentwood | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-costa-mesa/",
+   "path": "/amspods/bagger-audio-costa-mesa/",
+   "cityslug": "costa-mesa",
+   "city": "Costa Mesa",
+   "miles": 23.7,
+   "title": "Harley Bagger Audio Costa Mesa | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-hidden-hills/",
+   "path": "/amspods/bagger-audio-hidden-hills/",
+   "cityslug": "hidden-hills",
+   "city": "Hidden Hills",
+   "miles": 32.3,
+   "title": "Harley Bagger Audio Hidden Hills | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-gardena/",
+   "path": "/amspods/bagger-audio-gardena/",
+   "cityslug": "gardena",
+   "city": "Gardena",
+   "miles": 4.9,
+   "title": "Harley Bagger Audio Gardena | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-hawthorne/",
+   "path": "/amspods/bagger-audio-hawthorne/",
+   "cityslug": "hawthorne",
+   "city": "Hawthorne",
+   "miles": 8.0,
+   "title": "Harley Bagger Audio Hawthorne | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-altadena/",
+   "path": "/amspods/bagger-audio-altadena/",
+   "cityslug": "altadena",
+   "city": "Altadena",
+   "miles": 26.2,
+   "title": "Harley Bagger Audio Altadena | AMS Pods"
+  },
+  {
+   "url": "https://www.audiomotorsports.com/amspods/bagger-audio-anaheim-hills/",
+   "path": "/amspods/bagger-audio-anaheim-hills/",
+   "cityslug": "anaheim-hills",
+   "city": "Anaheim Hills",
+   "miles": 29.9,
+   "title": "Harley Bagger Audio Anaheim Hills | AMS Pods"
+  }
+ ],
+ "reuse_lines_involving_your_files": [
+  "['arcadia.md', 'bradbury.md', 'lomita.md'] | ### how long does a remote start installation take?",
+  "['cerritos.md', 'city-of-industry.md'] | book a slot, ride or drive down, and either leave it with us or wait in the shop until it ",
+  "['hawaiian-gardens.md', 'monterey-park.md'] | tesla tint is quoted by model at the shop."
+ ]
+}
